@@ -79,7 +79,7 @@ export const InsikterArticle: React.FC<{ slug: string }> = ({ slug }) => {
     }
 
     return (
-        <section style={{ paddingTop: '140px', paddingBottom: '100px', paddingLeft: '24px', paddingRight: '24px', maxWidth: '820px', margin: '0 auto', minHeight: '100vh', background: '#fff' }}>
+        <section style={{ paddingTop: '350px', paddingBottom: '100px', paddingLeft: '24px', paddingRight: '24px', maxWidth: '820px', margin: '0 auto', minHeight: '100vh', background: '#fff' }}>
             <div style={{ marginBottom: '64px', display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '24px' }}>
                 <a href="/Hylten-Invest/insights/" style={{ fontSize: '10px', textTransform: 'uppercase', letterSpacing: '4px', color: '#B08D57', textDecoration: 'none', fontWeight: 500 }}>
                     ← Archive
