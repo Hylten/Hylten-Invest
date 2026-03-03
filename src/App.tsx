@@ -58,7 +58,7 @@ const HomePage: React.FC = () => {
         <div className="hero-content">
           <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="hero-logo" alt="Hyltén Invest Logo" />
           <p className="hero-subtitle">Strategic Investments</p>
-          <h2>Driven by <span className="highlight">The Spirit of Gnosjö</span><br />& Heritage</h2>
+          <h2>Driven by <span className="highlight">The Spirit of Gnosjö</span></h2>
           <p className="hero-text">Hyltén Invest executes strategic investments in technology funds and select real estate assets. Rooted in the pioneering spirit of Johan Edvard Hyltén, we continue a legacy of innovation and growth.</p>
           <a href="#about" className="cta-button" onClick={(e) => scrollToSection(e, '#about')}>Explore</a>
         </div>
@@ -70,8 +70,7 @@ const HomePage: React.FC = () => {
             <span className="section-subtitle">The Company</span>
             <h2 className="section-title fade-in">A Legacy of<br />Entrepreneurship</h2>
             <div className="about-text fade-in">
-              <p>Founded in 2019 in Jönköping, Hyltén Invest AB is an investment firm managing and developing capital through strategic placements. The firm is led by Jonas Benjamin Hyltén with a clear vision of long-term value creation.</p>
-              <p>Our operations include holding activities, securities trading, and property management, always focused on sustainable growth and market expansion.</p>
+              <p>Founded in 2019 in Jönköping, Hyltén Invest AB is an investment firm managing and developing capital through strategic placements. The firm is led by Jonas Hyltén with a clear vision of long-term value creation.</p>
             </div>
           </div>
           <div className="heritage-box fade-in">
@@ -114,7 +113,7 @@ const HomePage: React.FC = () => {
           <div className="investment-card fade-in">
             <span className="tag">Primary Focus</span>
             <h3>Innovation</h3>
-            <p>Strategic investments in technology funds driving digital transformation and global innovation.</p>
+            <p>Strategic investments in technology, driving digital transformation and global innovation.</p>
             <div style={{ marginTop: '2rem', display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
               <a href="https://roialscapital.com/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Roials Capital →</a>
               <a href="https://hylten.github.io/Pathmakers/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Pathmaker →</a>

@@ -57,13 +57,13 @@ async function generateSEO() {
     listHtml += '  <span style="font-size: 0.7rem; color: #666; letter-spacing: 2px; text-transform: uppercase; font-family: sans-serif;">RETURN TO HOME</span>';
     listHtml += '</nav>';
 
-    listHtml += '<div style="display: flex; align-items: center; justify-content: center; gap: 24px; margin-bottom: 32px; width: 100%;">';
+    listHtml += '<div style="display: flex; align-items: center; justify-content: center; gap: 24px; margin-bottom: 48px; width: 100%;">';
     listHtml += '  <div style="width: 60px; height: 1px; background: rgba(176,141,87,0.3);"></div>';
-    listHtml += '  <span style="color: #B08D57; text-transform: uppercase; letter-spacing: 6px; font-size: 0.75rem; font-weight: 700;">Intelligence Report</span>';
+    listHtml += '  <span style="color: #B08D57; text-transform: uppercase; letter-spacing: 6px; font-size: 0.75rem; font-weight: 700;">Intelligence report</span>';
     listHtml += '  <div style="width: 60px; height: 1px; background: rgba(176,141,87,0.3);"></div>';
     listHtml += '</div>';
 
-    listHtml += '<h1 style="font-size: clamp(4rem, 12vw, 11rem); color: #000000 !important; margin-bottom: 48px; font-weight: 400; font-family: serif; letter-spacing: -0.06em; line-height: 0.9; text-align: center;">Insights <span style="font-style: italic; color: #D1D5DB; font-weight: 300; letter-spacing: -0.02em;">Archive</span></h1>';
+    listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #000000 !important; margin-bottom: 48px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Insights <span style="font-style: italic; color: #D1D5DB; font-weight: 300; letter-spacing: -0.02em;">Archive</span></h1>';
     listHtml += '<p style="font-size: 1.5rem; color: #6B7280 !important; line-height: 1.8; margin-bottom: 80px; max-width: 750px; margin-left: auto; margin-right: auto; font-weight: 300; text-align: center; border-top: 1px solid #F9FAFB; padding-top: 48px;">Strategic analysis on global asset management, private equity trends, and the architectural evolution of the modern investment landscape.</p>';
 
     for (const file of files) {
