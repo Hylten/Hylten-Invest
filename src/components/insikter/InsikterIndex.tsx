@@ -57,11 +57,7 @@ export const InsikterIndex: React.FC = () => {
                                 </div>
                             </a>
                         </article>
-                    )) : (
-                        <div className="py-20 text-center border border-dashed border-gray-100">
-                            <div className="text-gray-400 italic font-light text-sm tracking-widest uppercase">Initializing Archive Sync...</div>
-                        </div>
-                    )}
+                    )) : null}
                 </div>
             </section>
         </div>

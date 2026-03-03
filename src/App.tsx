@@ -58,7 +58,7 @@ const HomePage: React.FC = () => {
         <div className="hero-content">
           <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="hero-logo" alt="Hyltén Invest Logo" />
           <p className="hero-subtitle">Strategic Investments</p>
-          <h2>Driven by <span className="highlight">Gnosjöandan</span><br />& Heritage</h2>
+          <h2>Driven by <span className="highlight">The Spirit of Gnosjö</span><br />& Heritage</h2>
           <p className="hero-text">Hyltén Invest executes strategic investments in technology funds and select real estate assets. Rooted in the pioneering spirit of Johan Edvard Hyltén, we continue a legacy of innovation and growth.</p>
           <a href="#about" className="cta-button" onClick={(e) => scrollToSection(e, '#about')}>Explore</a>
         </div>
@@ -75,7 +75,7 @@ const HomePage: React.FC = () => {
             </div>
           </div>
           <div className="heritage-box fade-in">
-            <h3>Gnosjöandan</h3>
+            <h3>The Spirit of Gnosjö</h3>
             <p>"The spirit that fosters cooperation, entrepreneurship, and innovative problem-solving. A culture of hard work, humility, and the conviction that nothing is impossible."</p>
           </div>
         </div>
