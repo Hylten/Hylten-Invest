@@ -28,32 +28,32 @@ export const InsikterIndex: React.FC = () => {
 
     return (
         <div className="min-h-screen bg-white">
-            <section className="pt-32 pb-24 px-8 max-w-5xl mx-auto">
+            <section className="pt-32 pb-24 px-8 max-w-3xl mx-auto text-center">
                 <div className="insights-hero">
                     <span className="section-subtitle">Intelligence & Perspective</span>
                     <h1 className="section-title">Insights Archive</h1>
-                    <p className="text-gray-500 max-w-xl font-light leading-relaxed mb-12">
+                    <p className="text-gray-500 max-w-xl font-light leading-relaxed mb-12 mx-auto">
                         Strategic analysis on asset management, market trends, and the evolution of the investment landscape.
                     </p>
                 </div>
 
-                <div className="grid gap-12">
+                <div className="grid gap-8">
                     {articles.length > 0 ? articles.map(art => (
-                        <article key={art.slug} className="insights-card">
-                            <div className="flex flex-col md:flex-row md:items-baseline gap-4 mb-4">
-                                <time className="text-[10px] tracking-widest text-gray-400 uppercase">
+                        <article key={art.slug} className="insights-card pb-8 border-b border-gray-100">
+                            <div className="mb-3">
+                                <time className="text-[11px] tracking-widest text-gray-400 uppercase">
                                     {new Date(art.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
                                 </time>
                             </div>
                             <a href={`/Hylten-Invest/insights/${art.slug}/`} className="group block">
-                                <h2 className="text-3xl font-serif mb-6 group-hover:text-[#B08D57] transition-colors duration-300">
+                                <h2 className="text-2xl font-serif mb-3 group-hover:text-[#B08D57] transition-colors duration-300">
                                     {art.title}
                                 </h2>
-                                <p className="text-gray-600 leading-relaxed font-light text-base mb-8 line-clamp-2 max-w-3xl">
+                                <p className="text-gray-600 leading-relaxed font-light text-base mb-4 max-w-xl mx-auto">
                                     {art.description}
                                 </p>
-                                <div className="inline-flex items-center gap-3 text-[11px] uppercase tracking-[0.3em] text-[#B08D57] font-medium group-hover:translate-x-2 transition-transform duration-300">
-                                    Access Report <span>→</span>
+                                <div className="inline-flex items-center gap-3 text-[11px] uppercase tracking-[0.2em] text-[#B08D57] font-medium group-hover:translate-x-2 transition-transform duration-300">
+                                    Read Report <span>→</span>
                                 </div>
                             </a>
                         </article>

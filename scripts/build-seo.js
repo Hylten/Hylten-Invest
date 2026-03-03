@@ -40,8 +40,8 @@ async function generateSEO() {
     const files = fs.existsSync(CONTENT_DIR) ? fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md')) : [];
 
     // 1. Generate Index Page
-    let listHtml = `<div style="background: #ffffff; min-height: 100vh; padding: 100px 24px 60px; font-family: 'Inter', sans-serif; color: #1A1A1A;">`;
-    listHtml += '<div style="max-width: 800px; margin: 0 auto;">';
+    let listHtml = `<div style="background: #ffffff; min-height: 100vh; padding: 100px 24px 60px; font-family: 'Inter', sans-serif; color: #1A1A1A; display: flex; flex-direction: column; align-items: center;">`;
+    listHtml += '<div style="max-width: 800px; margin: 0 auto; text-align: center;">';
     listHtml += '<nav style="position: fixed; top: 0; left: 0; width: 100%; background: rgba(255,255,255,0.95); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); border-bottom: 1px solid rgba(0,0,0,0.06); padding: 18px 40px; display: flex; align-items: center; justify-content: flex-start; z-index: 1000; box-sizing: border-box;">';
     listHtml += '  <a href="/Hylten-Invest/" style="text-decoration: none; color: #1A1A1A; display: flex; align-items: center; gap: 10px; font-weight: 500; font-size: 0.85rem; letter-spacing: 1.5px;">';
     listHtml += '    <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" style="height: 26px; width: auto;" alt="Logo" />';
@@ -51,7 +51,7 @@ async function generateSEO() {
     listHtml += '</nav>';
     listHtml += '<span style="color: #B08D57; text-transform: uppercase; letter-spacing: 5px; font-size: 0.7rem; margin-bottom: 12px; display: block; font-weight: 500;">Intelligence &amp; Perspective</span>';
     listHtml += '<h1 style="font-size: clamp(2rem, 4vw, 3rem); color: #1A1A1A; margin-bottom: 16px; font-weight: 300; font-family: sans-serif; letter-spacing: -0.02em;">Insights Archive</h1>';
-    listHtml += '<p style="font-size: 0.95rem; color: #777; line-height: 1.7; margin-bottom: 50px; max-width: 600px;">Strategic analysis on asset management, market trends, and the evolution of the investment landscape.</p>';
+    listHtml += '<p style="font-size: 0.95rem; color: #777; line-height: 1.7; margin-bottom: 50px; max-width: 600px; margin-left: auto; margin-right: auto;">Strategic analysis on asset management, market trends, and the evolution of the investment landscape.</p>';
 
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
@@ -67,7 +67,7 @@ async function generateSEO() {
                 <div style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 12px;">${date}</div>
                 <a href="/Hylten-Invest/insights/${slug}/" style="text-decoration: none; color: inherit; display: block;">
                     <h2 style="font-size: 1.5rem; color: #1A1A1A; margin-bottom: 10px; font-weight: 400; font-family: sans-serif;">${title}</h2>
-                    <p style="font-size: 0.95rem; color: #666; line-height: 1.7; font-weight: 300; max-width: 650px; margin-bottom: 16px;">${description}</p>
+                    <p style="font-size: 0.95rem; color: #666; line-height: 1.7; font-weight: 300; max-width: 650px; margin-bottom: 16px; margin-left: auto; margin-right: auto;">${description}</p>
                     <span style="color: #B08D57; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; display: inline-flex; align-items: center; font-weight: 500;">Read Report <span style="margin-left: 8px;">→</span></span>
                 </a>
             </article>`;
