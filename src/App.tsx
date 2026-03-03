@@ -72,7 +72,7 @@ const HomePage: React.FC = () => {
             <h2 className="section-title fade-in">A Legacy of<br />Entrepreneurship</h2>
             <div className="about-text fade-in">
               <p>Founded in 2019 in Jönköping, Hyltén Invest AB is an investment firm managing and developing capital through strategic placements. The firm is led by Jonas Benjamin Hyltén with a clear vision of long-term value creation.</p>
-              <p>Our operations include holding activities, securities trading, and property management—always focused on sustainable growth and market expansion.</p>
+              <p>Our operations include holding activities, securities trading, and property management, always focused on sustainable growth and market expansion.</p>
             </div>
           </div>
           <div className="heritage-box fade-in">
@@ -107,15 +107,20 @@ const HomePage: React.FC = () => {
       </section>
 
       <section id="investments" className="investments">
-        <div style={{ textAlign: 'center', marginBottom: '4rem' }}>
+        <div style={{ textAlign: 'center', marginBottom: '4rem', marginTop: '2rem' }}>
           <span className="section-subtitle">Portfolio</span>
           <h2 className="section-title fade-in">Investment Focus</h2>
         </div>
         <div className="investments-grid">
           <div className="investment-card fade-in">
             <span className="tag">Primary Focus</span>
-            <h3>Tech Funds</h3>
-            <p>Strategic investments in technology funds driving digital transformation and innovation.</p>
+            <h3>Innovation</h3>
+            <p>Strategic investments in technology funds driving digital transformation and global innovation.</p>
+            <div style={{ marginTop: '2rem', display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
+              <a href="https://roialscapital.com/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Roials Capital →</a>
+              <a href="https://hylten.github.io/Pathmakers/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Pathmaker →</a>
+              <a href="https://hylten.github.io/Alpha/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Roials Alpha →</a>
+            </div>
           </div>
           <div className="investment-card fade-in">
             <span className="tag">Stability</span>

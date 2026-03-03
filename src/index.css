@@ -49,12 +49,12 @@ h3,
 @keyframes fadeInRotate {
   0% {
     opacity: 0;
-    transform: translateY(10px) scale(0.95);
+    transform: rotate(-90deg) scale(0.8);
   }
 
   100% {
     opacity: 1;
-    transform: translateY(0) scale(1);
+    transform: rotate(0deg) scale(1);
   }
 }
 
@@ -213,6 +213,25 @@ nav.scrolled {
 .hero-content {
   max-width: 1000px;
   padding: 0 5%;
+}
+
+.hero-logo {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  margin: 0 auto 3rem;
+  display: block;
+  animation: heroLogoRotate 60s linear infinite;
+}
+
+@keyframes heroLogoRotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 .hero h2 {
