@@ -51,6 +51,7 @@ const HomePage: React.FC = () => {
           <li><a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Philosophy</a></li>
           <li><a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investments</a></li>
           <li><a href="#contact" onClick={(e) => scrollToSection(e, '#contact')}>Contact</a></li>
+          <li><a href="/Hylten-Invest/insights/">Insights</a></li>
         </ul>
       </nav>
 
@@ -126,9 +127,11 @@ const HomePage: React.FC = () => {
 
       <section id="contact" className="contact">
         <span className="section-subtitle">Contact</span>
-        <h2 className="section-title fade-in">Let's Collaborate</h2>
+        <h2 className="section-title fade-in">Let&apos;s Collaborate</h2>
         <div className="contact-content fade-in">
-          <p style={{ color: '#666', marginBottom: '2rem' }}>For investment opportunities and partnerships, please do not hesitate to reach out.</p>
+          <p style={{ color: '#666', marginBottom: '2rem' }}>
+            For investment opportunities and partnerships, contact Hyltén Invest for a direct conversation.
+          </p>
           <div className="contact-info">
             <div className="contact-item">
               <strong>Address</strong>
@@ -150,6 +153,7 @@ const HomePage: React.FC = () => {
             <a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Philosophy</a>
             <a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investments</a>
             <a href="#contact" onClick={(e) => scrollToSection(e, '#contact')}>Contact</a>
+            <a href="/Hylten-Invest/insights/">Insights</a>
           </div>
           <p className="copyright">&copy; {new Date().getFullYear()} Hyltén Invest AB.</p>
         </div>
