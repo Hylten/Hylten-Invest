@@ -221,7 +221,7 @@ nav.scrolled {
   object-fit: contain;
   margin: 0 auto 3rem;
   display: block;
-  animation: heroLogoRotate 60s linear infinite;
+  animation: heroLogoRotate 3.6s cubic-bezier(0.2, 0, 0.2, 1) forwards;
 }
 
 @keyframes heroLogoRotate {
@@ -451,6 +451,26 @@ nav.scrolled {
   line-height: 1.6;
 }
 
+.insights-hero {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  margin-bottom: 5rem;
+  text-align: left;
+}
+
+.insights-card {
+  padding: 4rem 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  transition: all 0.5s ease;
+}
+
+.insights-card:last-child {
+  border-bottom: none;
+}
+
+.insights-card:hover h2 {
+  color: var(--invest-accent);
+}
+
 /* Footer */
 footer {
   padding: 6rem 8%;
@@ -487,6 +507,36 @@ footer {
 
 .footer-links a:hover {
   color: #FFF;
+}
+
+.social-links {
+  display: flex;
+  gap: 2.5rem;
+  margin: 2rem 0;
+  align-items: center;
+}
+
+.social-icon {
+  color: #888;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-icon:hover {
+  color: #FFF;
+  transform: translateY(-2px);
+}
+
+.social-icon.whatsapp svg {
+  width: 24px;
+  height: 24px;
+}
+
+.social-icon.linkedin svg {
+  width: 22px;
+  height: 22px;
 }
 
 .copyright {
