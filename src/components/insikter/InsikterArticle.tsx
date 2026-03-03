@@ -79,32 +79,39 @@ export const InsikterArticle: React.FC<{ slug: string }> = ({ slug }) => {
     }
 
     return (
-        <section className="py-32 px-8 max-w-2xl mx-auto min-h-screen bg-white">
-            <div className="mb-16 flex flex-wrap items-center gap-6">
-                <a href="/Hylten-Invest/insights/" className="text-[10px] uppercase tracking-[0.4em] text-[#B08D57] hover:text-black transition-colors font-medium">
+        <section style={{ paddingTop: '140px', paddingBottom: '100px', paddingLeft: '24px', paddingRight: '24px', maxWidth: '820px', margin: '0 auto', minHeight: '100vh', background: '#fff' }}>
+            <div style={{ marginBottom: '64px', display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '24px' }}>
+                <a href="/Hylten-Invest/insights/" style={{ fontSize: '10px', textTransform: 'uppercase', letterSpacing: '4px', color: '#B08D57', textDecoration: 'none', fontWeight: 500 }}>
                     ← Archive
                 </a>
-                <span className="text-gray-200">|</span>
-                <a href="/Hylten-Invest/" className="text-[10px] uppercase tracking-[0.4em] text-[#B08D57] hover:text-black transition-colors font-medium">
+                <span style={{ color: '#eee' }}>|</span>
+                <a href="/Hylten-Invest/" style={{ fontSize: '10px', textTransform: 'uppercase', letterSpacing: '4px', color: '#B08D57', textDecoration: 'none', fontWeight: 500 }}>
                     ← Home
                 </a>
             </div>
 
-            <header className="mb-12 border-b border-gray-100 pb-12">
-                <div className="text-[10px] tracking-[0.3em] uppercase text-[#B08D57] mb-4 font-medium">Intelligence Report</div>
-                <h1 className="text-4xl md:text-5xl font-serif text-black mb-6 leading-tight">
+            <header style={{ marginBottom: '48px', borderBottom: '1px solid #f3f4f6', paddingBottom: '48px' }}>
+                <div style={{ fontSize: '10px', textTransform: 'uppercase', color: '#B08D57', marginBottom: '16px', fontWeight: 500, letterSpacing: '3px' }}>Intelligence Report</div>
+                <h1 style={{ fontSize: 'clamp(2.5rem, 5vw, 3.5rem)', fontFamily: 'serif', color: '#000', marginBottom: '24px', lineHeight: 1.2, fontWeight: 400 }}>
                     {meta.title}
                 </h1>
-                <div className="text-[11px] text-gray-400 uppercase tracking-widest">
+                <div style={{ fontSize: '11px', color: '#9ca3af', textTransform: 'uppercase', letterSpacing: '2px' }}>
                     Published {meta.date ? new Date(meta.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : ''} • Hyltén Invest Portfolio Strategy
                 </div>
             </header>
 
-            <div className="prose max-w-none text-gray-700 leading-relaxed font-light space-y-6">
+            <div className="prose-content" style={{ color: '#374151', lineHeight: 1.8, fontSize: '1.1rem', fontWeight: 300 }}>
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
             </div>
+            <style>{`
+                .prose-content p { margin-bottom: 2rem; }
+                .prose-content h2 { font-size: 1.8rem; margin-top: 3rem; margin-bottom: 1.5rem; color: #000; font-family: serif; }
+                .prose-content h3 { font-size: 1.4rem; margin-top: 2rem; margin-bottom: 1rem; color: #000; font-family: serif; }
+                .prose-content ul, .prose-content ol { margin-bottom: 2rem; padding-left: 1.5rem; }
+                .prose-content li { margin-bottom: 0.5rem; }
+            `}</style>
         </section>
     );
 };
