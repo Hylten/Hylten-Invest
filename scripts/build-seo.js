@@ -42,28 +42,29 @@ async function generateSEO() {
     // 1. Generate Index Page
     let listHtml = `
     <style>
-        .insights-page-wrapper a { color: #000000 !important; text-decoration: none !important; }
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;700&display=swap');
+        .insights-page-wrapper a { color: #000000 !important; text-decoration: none !important; transition: color 0.3s; }
         .insights-page-wrapper a:hover { color: #B08D57 !important; }
         #root, #root > div { width: 100% !important; margin: 0 !important; padding: 0 !important; }
     </style>
-    <div class="insights-page-wrapper" style="background: #ffffff !important; min-height: 100vh; padding: 0 !important; margin: 0 !important; font-family: sans-serif; color: #1A1A1A; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">`;
-    listHtml += '<div style="width: 100%; max-width: 1240px; margin: 850px auto 120px; text-align: center; display: flex; flex-direction: column; align-items: center;">';
+    <div class="insights-page-wrapper" style="background: #ffffff !important; min-height: 100vh; padding: 0 !important; margin: 0 !important; font-family: 'Inter', sans-serif; color: #1A1A1A; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">`;
+    listHtml += '<div style="width: 100%; max-width: 1240px; margin: 220px auto 120px; text-align: center; display: flex; flex-direction: column; align-items: center;">';
     listHtml += '<nav style="position: fixed; top: 0; left: 0; width: 100%; background: #ffffff !important; border-bottom: 1px solid rgba(0,0,0,0.05); padding: 24px 40px; display: flex; align-items: center; justify-content: space-between; z-index: 9999; box-sizing: border-box;">';
-    listHtml += '  <a href="/Hylten-Invest/" style="text-decoration: none !important; color: #1A1A1A !important; display: flex; align-items: center; gap: 12px; font-weight: 500; font-size: 1rem; letter-spacing: 4px; text-transform: uppercase; font-family: serif;">';
+    listHtml += '  <a href="/Hylten-Invest/" style="text-decoration: none !important; color: #1A1A1A !important; display: flex; align-items: center; gap: 12px; font-weight: 500; font-size: 1rem; letter-spacing: 4px; text-transform: uppercase;">';
     listHtml += '    <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" style="height: 32px; width: auto;" alt="Logo" />';
     listHtml += '    HYLTÉN <span style="font-weight: 300; color: #B08D57;">INVEST</span>';
     listHtml += '  </a>';
-    listHtml += '  <span style="font-size: 0.7rem; color: #666; letter-spacing: 2px; text-transform: uppercase;">RETURN TO HOME</span>';
+    listHtml += '  <span style="font-size: 0.7rem; color: #666; letter-spacing: 2px; text-transform: uppercase; font-family: sans-serif;">RETURN TO HOME</span>';
     listHtml += '</nav>';
 
-    listHtml += '<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 40px; width: 100%;">';
-    listHtml += '  <div style="width: 50px; height: 1px; background: #B08D57;"></div>';
-    listHtml += '  <span style="color: #B08D57; text-transform: uppercase; letter-spacing: 6px; font-size: 0.8rem; font-weight: 700;">Intelligence Archive</span>';
-    listHtml += '  <div style="width: 50px; height: 1px; background: #B08D57;"></div>';
+    listHtml += '<div style="display: flex; align-items: center; justify-content: center; gap: 24px; margin-bottom: 48px; width: 100%;">';
+    listHtml += '  <div style="width: 60px; height: 1px; background: rgba(176,141,87,0.3);"></div>';
+    listHtml += '  <span style="color: #B08D57; text-transform: uppercase; letter-spacing: 6px; font-size: 0.75rem; font-weight: 700;">Intelligence Report</span>';
+    listHtml += '  <div style="width: 60px; height: 1px; background: rgba(176,141,87,0.3);"></div>';
     listHtml += '</div>';
 
-    listHtml += '<h1 style="font-size: 5rem; color: #000000 !important; margin-bottom: 40px; font-weight: 400; font-family: serif; letter-spacing: -0.04em; line-height: 1; text-align: center;">Insights <span style="font-style: italic; color: #EEEEEE; font-weight: 200;">Archive</span></h1>';
-    listHtml += '<p style="font-size: 1.25rem; color: #555555 !important; line-height: 1.8; margin-bottom: 80px; max-width: 700px; margin-left: auto; margin-right: auto; font-weight: 300; text-align: center;">Strategic analysis on global asset management, private equity trends, and the architectural evolution of the modern investment landscape.</p>';
+    listHtml += '<h1 style="font-size: clamp(3rem, 10vw, 8rem); color: #000000 !important; margin-bottom: 48px; font-weight: 400; font-family: serif; letter-spacing: -0.04em; line-height: 1; text-align: center;">Insights <span style="font-style: italic; color: #D1D5DB; font-weight: 300;">Archive</span></h1>';
+    listHtml += '<p style="font-size: 1.5rem; color: #6B7280 !important; line-height: 1.8; margin-bottom: 80px; max-width: 750px; margin-left: auto; margin-right: auto; font-weight: 300; text-align: center; border-top: 1px solid #F9FAFB; padding-top: 48px;">Strategic analysis on global asset management, private equity trends, and the architectural evolution of the modern investment landscape.</p>';
 
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
@@ -75,14 +76,14 @@ async function generateSEO() {
         const date = data.date ? new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
 
         listHtml += `
-            <article style="margin-bottom: 120px; width: 100%; max-width: 900px; display: flex; flex-direction: column; align-items: center; text-align: center;">
-                <div style="font-size: 13px; color: #B08D57; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 24px; font-weight: 800;">${date}</div>
+            <article style="margin-bottom: 250px; width: 100%; max-width: 1000px; display: flex; flex-direction: column; align-items: center; text-align: center;">
+                <div style="font-size: 14px; color: #B08D57; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 40px; font-weight: 700;">${date}</div>
                 <a href="/Hylten-Invest/insights/${slug}/" style="text-decoration: none !important; color: #000000 !important; display: block; width: 100%;">
-                    <h2 style="font-size: 3rem; color: #000000 !important; margin-bottom: 24px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: center;">${title}</h2>
-                    <p style="font-size: 1.2rem; color: #444444 !important; line-height: 1.8; font-weight: 300; margin-bottom: 32px; max-width: 650px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
-                    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-                        <span style="color: #B08D57; font-size: 12px; text-transform: uppercase; letter-spacing: 5px; font-weight: 700;">Read Analysis</span>
-                        <div style="width: 40px; height: 1px; background: #B08D57;"></div>
+                    <h2 style="font-size: clamp(2.5rem, 6vw, 5rem); color: #000000 !important; margin-bottom: 40px; font-weight: 400; font-family: serif; line-height: 1.1; text-align: center;">${title}</h2>
+                    <p style="font-size: 1.5rem; color: #4B5563 !important; line-height: 1.8; font-weight: 300; margin-bottom: 64px; max-width: 700px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
+                    <div style="display: flex; flex-direction: column; align-items: center; gap: 32px;">
+                        <span style="color: #B08D57; font-size: 12px; text-transform: uppercase; letter-spacing: 6px; font-weight: 700;">Read Analysis</span>
+                        <div style="width: 48px; height: 1px; background: #B08D57;"></div>
                     </div>
                 </a>
             </article>`;
@@ -119,28 +120,35 @@ async function generateSEO() {
         const articleDir = path.join(INSIGHTS_DIST_DIR, slug);
         ensureDir(articleDir);
 
-        const contentHtml = `<div style="background: #ffffff !important; min-height: 100vh; padding: 400px 24px 120px; color: #1A1A1A; font-family: 'Inter', sans-serif; display: flex; flex-direction: column; align-items: center;">
-            <div style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; width: 100%;">
+        const contentHtml = `
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;700&display=swap');
+            .insights-page-wrapper a { color: #000000 !important; text-decoration: none !important; transition: color 0.3s; }
+            .insights-page-wrapper a:hover { color: #B08D57 !important; }
+            #root, #root > div { width: 100% !important; margin: 0 !important; padding: 0 !important; }
+        </style>
+        <div class="insights-page-wrapper" style="background: #ffffff !important; min-height: 100vh; padding: 0 !important; margin: 0 !important; font-family: 'Inter', sans-serif; color: #1A1A1A; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">
+            <div style="width: 100%; max-width: 1240px; margin: 220px auto 120px; text-align: center; display: flex; flex-direction: column; align-items: center; padding: 0 24px;">
                 <nav style="position: fixed; top: 0; left: 0; width: 100%; background: #ffffff !important; border-bottom: 1px solid rgba(0,0,0,0.05); padding: 24px 40px; display: flex; align-items: center; justify-content: space-between; z-index: 9999; box-sizing: border-box;">
-                  <a href="/Hylten-Invest/" style="text-decoration: none !important; color: #000000 !important; display: flex; align-items: center; gap: 12px; font-weight: 500; font-size: 1rem; letter-spacing: 4px; text-transform: uppercase; font-family: serif;">
+                  <a href="/Hylten-Invest/" style="text-decoration: none !important; color: #1A1A1A !important; display: flex; align-items: center; gap: 12px; font-weight: 500; font-size: 1rem; letter-spacing: 4px; text-transform: uppercase;">
                     <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" style="height: 32px; width: auto;" alt="Logo" />
                     HYLTÉN <span style="font-weight: 300; color: #B08D57;">INVEST</span>
                   </a>
-                  <span style="font-size: 0.7rem; color: #666; letter-spacing: 2px; text-transform: uppercase; font-family: sans-serif;">INTELLIGENCE</span>
+                  <span style="font-size: 0.7rem; color: #666; letter-spacing: 2px; text-transform: uppercase;">INTELLIGENCE</span>
                 </nav>
-                <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 60px;">
-                    <a href="/Hylten-Invest/insights/" style="text-decoration: none !important; color: #B08D57 !important; font-size: 12px; text-transform: uppercase; letter-spacing: 3px; font-weight: 700;">← Archive</a>
+                <div style="display: flex; align-items: center; gap: 24px; margin-bottom: 64px;">
+                    <a href="/Hylten-Invest/insights/" style="text-decoration: none !important; color: #B08D57 !important; font-size: 13px; text-transform: uppercase; letter-spacing: 4px; font-weight: 700;">← Archive</a>
                     <span style="color: #DDD;">|</span>
-                    <a href="/Hylten-Invest/" style="text-decoration: none !important; color: #999 !important; font-size: 12px; text-transform: uppercase; letter-spacing: 3px; font-weight: 500;">Home</a>
+                    <a href="/Hylten-Invest/" style="text-decoration: none !important; color: #9CA3AF !important; font-size: 13px; text-transform: uppercase; letter-spacing: 4px; font-weight: 500;">Home</a>
                 </div>
-                <div style="font-size: 12px; color: #B08D57; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 24px; font-weight: 800; text-align: center;">Intelligence Report</div>
-                <h1 style="font-size: clamp(2.5rem, 6vw, 4.5rem); color: #000000 !important; margin-bottom: 32px; font-weight: 400; line-height: 1.1; font-family: serif; text-align: center;">${title}</h1>
-                <div style="font-size: 12px; color: #999; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 60px; border-bottom: 1px solid #F0F0F0; padding-bottom: 32px; width: 100%; text-align: center;">Published ${date} • Hyltén Invest Analysis</div>
-                <div style="line-height: 2; font-size: 1.25rem; color: #333333 !important; font-weight: 300; width: 100%;">
-                    ${content.split('\\n').map(p => p.trim() ? `<p style="margin-bottom: 40px;">${p}</p>` : '').join('')}
+                <div style="font-size: 14px; color: #B08D57; text-transform: uppercase; letter-spacing: 6px; margin-bottom: 32px; font-weight: 800;">Intelligence Report</div>
+                <h1 style="font-size: clamp(2.5rem, 6vw, 4.5rem); color: #000000 !important; margin-bottom: 40px; font-weight: 400; line-height: 1.1; font-family: serif; text-align: center;">${title}</h1>
+                <div style="font-size: 14px; color: #9CA3AF; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 80px; border-bottom: 1px solid #F3F4F6; padding-bottom: 48px; width: 100%; text-align: center;">Published ${date} • Hyltén Invest Portfolio Strategy</div>
+                <div style="line-height: 2.1; font-size: 1.35rem; color: #374151 !important; font-weight: 300; width: 100%; max-width: 800px; text-align: left; margin: 0 auto;">
+                    ${content.split('\\n').map(p => p.trim() ? `<p style="margin-bottom: 48px;">${p}</p>` : '').join('')}
                 </div>
-                <div style="margin-top: 60px; padding-top: 30px; border-top: 1px solid rgba(0,0,0,0.06); text-align: center;">
-                    <p style="font-size: 10px; color: #999; text-transform: uppercase; letter-spacing: 3px;">© ${new Date().getFullYear()} Hyltén Invest AB. Internal Research Archive.</p>
+                <div style="margin-top: 100px; padding-top: 48px; border-top: 1px solid #F3F4F6; text-align: center; width: 100%;">
+                    <a href="/Hylten-Invest/" style="display: inline-block; padding: 16px 40px; border: 1px solid #E5E7EB; color: #000000; text-decoration: none; text-transform: uppercase; letter-spacing: 4px; font-size: 12px; font-weight: 600;">Return to Home</a>
                 </div>
             </div>
         </div>`;
