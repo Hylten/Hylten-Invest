@@ -7,9 +7,13 @@ export const InsikterArticle: React.FC<{ slug: string }> = ({ slug }) => {
 
     return (
         <section className="py-32 px-8 max-w-2xl mx-auto min-h-screen">
-            <div className="mb-16">
+            <div className="mb-16 flex items-center gap-8">
                 <a href="/Hylten-Invest/insights/" className="text-[10px] uppercase tracking-[0.4em] text-[#B08D57] hover:text-black transition-colors font-medium">
                     ← Archive
+                </a>
+                <span className="text-gray-200">|</span>
+                <a href="/Hylten-Invest/" className="text-[10px] uppercase tracking-[0.4em] text-[#B08D57] hover:text-black transition-colors font-medium">
+                    ← Home
                 </a>
             </div>
             <div id="article-content">

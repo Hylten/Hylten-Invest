@@ -379,7 +379,10 @@ nav.scrolled {
   display: block;
 }
 
-/* Investments */
+.investments {
+  padding: 12rem 8%;
+}
+
 .investments-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;

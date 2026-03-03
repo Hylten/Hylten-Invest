@@ -51,7 +51,6 @@ const HomePage: React.FC = () => {
           <li><a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Philosophy</a></li>
           <li><a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investments</a></li>
           <li><a href="https://wa.me/46701619978?text=Regarding%20Hylt%C3%A9n%20Invest:" target="_blank" rel="noopener noreferrer">Contact</a></li>
-          <li><a href="/Hylten-Invest/insights/">Insights</a></li>
         </ul>
       </nav>
 
@@ -135,7 +134,6 @@ const HomePage: React.FC = () => {
             <a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Philosophy</a>
             <a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investments</a>
             <a href="https://wa.me/46701619978?text=Regarding%20Hylt%C3%A9n%20Invest:" target="_blank" rel="noopener noreferrer">Contact</a>
-            <a href="/Hylten-Invest/insights/">Insights</a>
           </div>
 
           <div className="social-links">
@@ -183,7 +181,7 @@ const App: React.FC = () => {
           <nav id="navbar" className="scrolled sticky top-0">
             <a href="/Hylten-Invest/" className="logo-nav">
               <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="logo-icon" alt="Logo" />
-              HYLTÉN <span>INVEST</span>
+              HYLTÉN <span>INVEST</span> <span style={{ marginLeft: '1rem', borderLeft: '1px solid rgba(0,0,0,0.1)', paddingLeft: '1rem', fontSize: '0.7rem', color: '#666' }}>RETURN TO HOME</span>
             </a>
           </nav>
           <main>

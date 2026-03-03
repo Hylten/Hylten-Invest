@@ -31,17 +31,26 @@ async function generateSEO() {
         process.exit(1);
     }
 
-    const baseHtml = fs.readFileSync(indexHtmlPath, 'utf8');
+    const baseHtml = fs.readFileSync(indexHtmlPath, 'utf8')
+        .replace(/(href|src)="assets\//g, '$1="/Hylten-Invest/assets/')
+        .replace('</head>', '<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">\n</head>');
 
     ensureDir(INSIGHTS_DIST_DIR);
 
     const files = fs.existsSync(CONTENT_DIR) ? fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md')) : [];
 
     // 1. Generate Index Page
-    let listHtml = `<div style="background: #ffffff; min-height: 100vh; padding: 120px 24px; font-family: 'Inter', sans-serif; color: #1A1A1A;">`;
+    let listHtml = `<div style="background: #ffffff; min-height: 100vh; padding: 140px 24px 100px; font-family: 'Inter', sans-serif; color: #1A1A1A;">`;
     listHtml += '<div style="max-width: 900px; margin: 0 auto;">';
+    listHtml += '<nav style="position: fixed; top: 0; left: 0; width: 100%; depth: 100; background: rgba(255,255,255,0.9); backdrop-blur: 10px; border-bottom: 1px solid rgba(0,0,0,0.05); padding: 20px 40px; display: flex; align-items: center; justify-content: flex-start; z-index: 1000;">';
+    listHtml += '  <a href="/Hylten-Invest/" style="text-decoration: none; color: #000; display: flex; align-items: center; gap: 12px; font-weight: 500; font-size: 0.9rem; letter-spacing: 1px;">';
+    listHtml += '    <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" style="height: 30px; width: auto;" alt="Logo" />';
+    listHtml += '    HYLTÉN <span style="font-weight: 300; color: #666;">INVEST</span>';
+    listHtml += '    <span style="margin-left: 15px; border-left: 1px solid rgba(0,0,0,0.1); padding-left: 15px; font-size: 0.65rem; letter-spacing: 1px; color: #999; font-weight: 400;">RETURN TO HOME</span>';
+    listHtml += '  </a>';
+    listHtml += '</nav>';
     listHtml += '<span style="color: #B08D57; text-transform: uppercase; letter-spacing: 5px; font-size: 0.75rem; margin-bottom: 20px; display: block; font-weight: 500;">Intelligence & Perspective</span>';
-    listHtml += '<h1 style="font-size: clamp(2.5rem, 5vw, 4.5rem); color: #1A1A1A; margin-bottom: 80px; font-weight: 300; font-family: serif; letter-spacing: -0.02em;">Insights Archive</h1>';
+    listHtml += '<h1 style="font-size: clamp(2.5rem, 5vw, 4rem); color: #1A1A1A; margin-bottom: 80px; font-weight: 300; font-family: sans-serif; letter-spacing: -0.02em;">Insights Archive</h1>';
 
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
@@ -56,8 +65,8 @@ async function generateSEO() {
             <article style="margin-bottom: 80px; border-bottom: 1px solid rgba(0,0,0,0.05); padding-bottom: 60px;">
                 <div style="font-size: 10px; color: #999; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 20px;">${date}</div>
                 <a href="/Hylten-Invest/insights/${slug}/" style="text-decoration: none; color: inherit; display: block;">
-                    <h2 style="font-size: 2.2rem; color: #1A1A1A; margin-bottom: 20px; font-weight: 400; font-family: serif; transition: color 0.3s;">${title}</h2>
-                    <p style="font-size: 1rem; color: #555; line-height: 2; font-weight: 300; max-width: 700px; margin-bottom: 30px;">${description}</p>
+                    <h2 style="font-size: 2rem; color: #1A1A1A; margin-bottom: 20px; font-weight: 400; font-family: sans-serif; transition: color 0.3s;">${title}</h2>
+                    <p style="font-size: 1rem; color: #555; line-height: 1.8; font-weight: 300; max-width: 700px; margin-bottom: 30px;">${description}</p>
                     <span style="color: #B08D57; font-size: 11px; text-transform: uppercase; letter-spacing: 3px; display: inline-flex; align-items: center; font-weight: 500;">Access Report <span style="margin-left: 10px;">→</span></span>
                 </a>
             </article>`;
@@ -86,15 +95,28 @@ async function generateSEO() {
         const articleDir = path.join(INSIGHTS_DIST_DIR, slug);
         ensureDir(articleDir);
 
-        const contentHtml = `<div style="background: #ffffff; min-height: 100vh; padding: 120px 24px; color: #1A1A1A; font-family: 'Inter', sans-serif;">
+        const contentHtml = `<div style="background: #ffffff; min-height: 100vh; padding: 140px 24px 100px; color: #1A1A1A; font-family: 'Inter', sans-serif;">
             <div style="max-width: 800px; margin: 0 auto;">
-                <a href="/Hylten-Invest/insights/" style="text-decoration: none; color: #999; font-size: 10px; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 60px; display: inline-flex; align-items: center; font-weight: 500; transition: color 0.3s;">
-                    <span style="margin-right: 10px;">←</span> Back to Insights
-                </a>
+                <nav style="position: fixed; top: 0; left: 0; width: 100%; background: rgba(255,255,255,0.9); backdrop-blur: 10px; border-bottom: 1px solid rgba(0,0,0,0.05); padding: 20px 40px; display: flex; align-items: center; justify-content: flex-start; z-index: 1000;">
+                  <a href="/Hylten-Invest/" style="text-decoration: none; color: #000; display: flex; align-items: center; gap: 12px; font-weight: 500; font-size: 0.9rem; letter-spacing: 1px;">
+                    <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" style="height: 30px; width: auto;" alt="Logo" />
+                    HYLTÉN <span style="font-weight: 300; color: #666;">INVEST</span>
+                    <span style="margin-left: 15px; border-left: 1px solid rgba(0,0,0,0.1); padding-left: 15px; font-size: 0.65rem; letter-spacing: 1px; color: #999; font-weight: 400;">RETURN TO HOME</span>
+                  </a>
+                </nav>
+                <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 60px;">
+                    <a href="/Hylten-Invest/insights/" style="text-decoration: none; color: #999; font-size: 10px; text-transform: uppercase; letter-spacing: 3px; display: inline-flex; align-items: center; font-weight: 500;">
+                        <span style="margin-right: 10px;">←</span> Archive
+                    </a>
+                    <span style="color: #EEE;">|</span>
+                    <a href="/Hylten-Invest/" style="text-decoration: none; color: #999; font-size: 10px; text-transform: uppercase; letter-spacing: 3px; display: inline-flex; align-items: center; font-weight: 500;">
+                        Home
+                    </a>
+                </div>
                 <div style="font-size: 11px; color: #B08D57; text-transform: uppercase; letter-spacing: 4px; margin-bottom: 20px;">Intelligence Report</div>
-                <h1 style="font-size: clamp(2.5rem, 6vw, 4.5rem); color: #1A1A1A; margin-bottom: 40px; font-weight: 300; line-height: 1.1; font-family: serif; letter-spacing: -0.02em;">${title}</h1>
+                <h1 style="font-size: clamp(2.5rem, 6vw, 3.5rem); color: #1A1A1A; margin-bottom: 40px; font-weight: 300; line-height: 1.2; font-family: sans-serif; letter-spacing: -0.02em;">${title}</h1>
                 <div style="font-size: 12px; color: #999; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 60px; border-bottom: 1px solid rgba(0,0,0,0.05); padding-bottom: 30px;">Published ${date} • Hyltén Invest Analysis</div>
-                <div style="line-height: 2.1; font-size: 1.1rem; color: #444; font-weight: 300;">
+                <div style="line-height: 2; font-size: 1.1rem; color: #444; font-weight: 300;">
                     ${content.split('\n').map(p => p.trim() ? `<p style="margin-bottom: 35px;">${p}</p>` : '').join('')}
                 </div>
                 <div style="margin-top: 100px; padding-top: 40px; border-top: 1px solid rgba(0,0,0,0.05); text-align: center;">
