@@ -37,8 +37,8 @@ export const InsikterIndex: React.FC = () => {
                             <div className="w-16 h-[1px] bg-[#B08D57]/30"></div>
                         </div>
 
-                        <h1 className="text-6xl md:text-9xl font-serif text-black mb-12 tracking-tighter leading-none font-normal text-center">
-                            Insights <span className="italic font-light text-gray-200">Archive</span>
+                        <h1 className="text-6xl md:text-9xl font-serif text-black mb-12 tracking-tighter leading-none font-normal text-center w-full">
+                            Insights <span className="italic font-light text-gray-300">Archive</span>
                         </h1>
 
                         <p className="text-gray-500 max-w-2xl text-xl md:text-2xl font-light leading-relaxed text-center mx-auto border-t border-gray-50 pt-12">
