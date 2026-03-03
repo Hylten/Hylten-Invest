@@ -186,31 +186,31 @@ const App: React.FC = () => {
           </nav>
           <main>
             {slug ? <InsikterArticle slug={slug} /> : <InsikterIndex />}
-          </main>
 
-          {/* Home Button Center Bottom */}
-          <div style={{ position: 'fixed', bottom: '40px', left: '50%', transform: 'translateX(-50%)', zIndex: 10000 }}>
-            <a
-              href="/Hylten-Invest/"
-              style={{
-                padding: '12px 28px',
-                background: '#FFFFFF',
-                border: '1px solid rgba(0,0,0,0.1)',
-                color: '#1A1A1A',
-                textDecoration: 'none',
-                fontSize: '10px',
-                letterSpacing: '3px',
-                textTransform: 'uppercase',
-                boxShadow: '0 10px 30px rgba(0,0,0,0.1)',
-                fontFamily: 'Inter, sans-serif',
-                fontWeight: 500,
-                display: 'block',
-                borderRadius: '2px'
-              }}
-            >
-              Return Home
-            </a>
-          </div>
+            {/* Home Button Centered after content */}
+            <div style={{ display: 'flex', justifyContent: 'center', marginTop: '100px', paddingBottom: '60px', width: '100%' }}>
+              <a
+                href="/Hylten-Invest/"
+                style={{
+                  padding: '12px 28px',
+                  background: '#FFFFFF',
+                  border: '1px solid rgba(0,0,0,0.1)',
+                  color: '#1A1A1A',
+                  textDecoration: 'none',
+                  fontSize: '10px',
+                  letterSpacing: '3px',
+                  textTransform: 'uppercase',
+                  boxShadow: '0 10px 30px rgba(0,0,0,0.1)',
+                  fontFamily: 'Inter, sans-serif',
+                  fontWeight: 500,
+                  display: 'block',
+                  borderRadius: '2px'
+                }}
+              >
+                Return Home
+              </a>
+            </div>
+          </main>
 
           {/* WhatsApp Floating Button */}
           <a

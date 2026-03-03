@@ -74,7 +74,7 @@ async function generateSEO() {
     listHtml += '</div></div>';
 
     const sharedButtons = `
-        <div style="position: fixed; bottom: 40px; left: 50%; transform: translateX(-50%); z-index: 10000;">
+        <div style="display: flex; justify-content: center; margin-top: 100px; padding-bottom: 60px; width: 100%;">
           <a href="/Hylten-Invest/" style="padding: 12px 28px; background: #FFFFFF; border: 1px solid rgba(0,0,0,0.1); color: #1A1A1A; text-decoration: none; font-size: 10px; letter-spacing: 3px; text-transform: uppercase; box-shadow: 0 10px 30px rgba(0,0,0,0.1); font-family: sans-serif; font-weight: 500; display: block; border-radius: 2px;">
             Return Home
           </a>
