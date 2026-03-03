@@ -28,7 +28,7 @@ export const InsikterIndex: React.FC = () => {
 
     return (
         <div className="min-h-screen bg-white w-full">
-            <main className="insights-container px-6 md:px-12 pt-48 pb-32">
+            <div className="insights-container px-6 md:px-12 pt-64 pb-32">
                 <header className="mb-32 text-center">
                     <div className="inline-flex items-center gap-4 mb-8">
                         <div className="w-12 h-[1px] bg-[#B08D57]/30"></div>
@@ -69,16 +69,7 @@ export const InsikterIndex: React.FC = () => {
                         </div>
                     )}
                 </div>
-
-                <footer className="mt-48 text-center pt-20 border-t border-gray-100">
-                    <a
-                        href="/Hylten-Invest/"
-                        className="inline-flex items-center gap-4 text-[10px] tracking-[0.4em] text-gray-400 hover:text-black uppercase transition-all duration-500"
-                    >
-                        <span>← Return Home</span>
-                    </a>
-                </footer>
-            </main>
+            </div>
         </div>
     );
 };

@@ -184,32 +184,32 @@ const App: React.FC = () => {
               HYLTÉN <span>INVEST</span> <span style={{ marginLeft: '1rem', borderLeft: '1px solid rgba(0,0,0,0.1)', paddingLeft: '1rem', fontSize: '0.7rem', color: '#666' }}>RETURN TO HOME</span>
             </a>
           </nav>
-          <main style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+          <main style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', position: 'relative', zIndex: 1 }}>
             {slug ? <InsikterArticle slug={slug} /> : <InsikterIndex />}
 
-            {/* Home Button Centered after content */}
-            <div style={{ display: 'flex', justifyContent: 'center', marginTop: '100px', paddingBottom: '60px', width: '100%' }}>
-              <a
-                href="/Hylten-Invest/"
-                style={{
-                  padding: '12px 28px',
-                  background: '#FFFFFF',
-                  border: '1px solid rgba(0,0,0,0.1)',
-                  color: '#1A1A1A',
-                  textDecoration: 'none',
-                  fontSize: '10px',
-                  letterSpacing: '3px',
-                  textTransform: 'uppercase',
-                  boxShadow: '0 10px 30px rgba(0,0,0,0.1)',
-                  fontFamily: 'Inter, sans-serif',
-                  fontWeight: 500,
-                  display: 'block',
-                  borderRadius: '2px'
-                }}
-              >
-                Return Home
-              </a>
-            </div>
+            {/* Centered Return Home Link */}
+            {!slug && (
+              <div style={{ display: 'flex', justifyContent: 'center', marginTop: '60px', paddingBottom: '120px', width: '100%' }}>
+                <a
+                  href="/Hylten-Invest/"
+                  style={{
+                    padding: '12px 28px',
+                    background: '#FFFFFF',
+                    border: '1px solid rgba(0,0,0,0.1)',
+                    color: '#1A1A1A',
+                    textDecoration: 'none',
+                    fontSize: '10px',
+                    letterSpacing: '3px',
+                    textTransform: 'uppercase',
+                    fontFamily: 'Inter, sans-serif',
+                    fontWeight: 500,
+                    borderRadius: '2px'
+                  }}
+                >
+                  Return Home
+                </a>
+              </div>
+            )}
           </main>
 
           {/* WhatsApp Floating Button - Discreet Grayscale */}
