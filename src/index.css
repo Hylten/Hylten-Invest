@@ -138,7 +138,24 @@ h3,
 #root>div {
   width: 100% !important;
   margin: 0 !important;
-  padding: 0 !important;
+  padding: 0;
+}
+
+.insights-page-wrapper {
+  width: 100%;
+  background-color: #ffffff !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+}
+
+.insights-page-wrapper a {
+  color: #000000 !important;
+  text-decoration: none !important;
+}
+
+.insights-page-wrapper a:hover {
+  color: #B08D57 !important;
 }
 
 .insights-container {

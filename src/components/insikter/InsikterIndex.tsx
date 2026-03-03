@@ -27,9 +27,9 @@ export const InsikterIndex: React.FC = () => {
     }, []);
 
     return (
-        <div className="min-h-screen bg-white w-full overflow-x-hidden">
-            <div className="w-full flex flex-col items-center">
-                <main className="w-full max-w-[1240px] px-6 md:px-12 pt-[750px] pb-32 flex flex-col items-center">
+        <div className="insights-page-wrapper min-h-screen bg-white w-full overflow-x-hidden">
+            <div className="w-full flex flex-col items-center" style={{ marginTop: '850px' }}>
+                <main className="w-full max-w-[1240px] px-6 md:px-12 pb-48 flex flex-col items-center">
                     <header className="mb-48 text-center w-full flex flex-col items-center">
                         <div className="flex items-center justify-center gap-6 mb-12">
                             <div className="w-16 h-[1px] bg-[#B08D57]/30"></div>
@@ -37,7 +37,7 @@ export const InsikterIndex: React.FC = () => {
                             <div className="w-16 h-[1px] bg-[#B08D57]/30"></div>
                         </div>
 
-                        <h1 className="text-6xl md:text-9xl font-serif text-black mb-12 tracking-tighter leading-none font-normal text-center w-full">
+                        <h1 className="text-6xl md:text-9xl font-serif text-black mb-12 tracking-tighter leading-none font-normal text-center w-full" style={{ color: '#000000' }}>
                             Insights <span className="italic font-light text-gray-300">Archive</span>
                         </h1>
 
@@ -56,7 +56,7 @@ export const InsikterIndex: React.FC = () => {
                                 <a
                                     href={`/Hylten-Invest/insights/${art.slug}/`}
                                     className="block group no-underline"
-                                    style={{ color: 'inherit', textDecoration: 'none' }}
+                                    style={{ color: '#000000', textDecoration: 'none' }}
                                 >
                                     <h2 className="text-5xl md:text-7xl font-serif text-black mb-10 leading-tight group-hover:text-[#B08D57] transition-colors duration-500 font-normal">
                                         {art.title}
