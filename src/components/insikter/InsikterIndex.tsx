@@ -29,7 +29,7 @@ export const InsikterIndex: React.FC = () => {
     return (
         <div className="min-h-screen bg-white w-full overflow-x-hidden">
             <div className="w-full flex flex-col items-center">
-                <main className="w-full max-w-[1240px] px-6 md:px-12 pt-[450px] pb-32 flex flex-col items-center">
+                <main className="w-full max-w-[1240px] px-6 md:px-12 pt-[750px] pb-32 flex flex-col items-center">
                     <header className="mb-48 text-center w-full flex flex-col items-center">
                         <div className="flex items-center justify-center gap-6 mb-12">
                             <div className="w-16 h-[1px] bg-[#B08D57]/30"></div>
