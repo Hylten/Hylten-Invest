@@ -27,8 +27,8 @@ export const InsikterIndex: React.FC = () => {
     }, []);
 
     return (
-        <div className="min-h-screen bg-white">
-            <main className="max-w-[1200px] mx-auto px-6 md:px-12 pt-48 pb-32">
+        <div className="min-h-screen bg-white w-full">
+            <main className="insights-container px-6 md:px-12 pt-48 pb-32">
                 <header className="mb-32 text-center">
                     <div className="inline-flex items-center gap-4 mb-8">
                         <div className="w-12 h-[1px] bg-[#B08D57]/30"></div>
