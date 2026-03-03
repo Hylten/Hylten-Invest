@@ -247,6 +247,7 @@ nav.scrolled {
 .hero-content {
   max-width: 1000px;
   padding: 0 5%;
+  text-align: center;
 }
 
 .hero-logo {
