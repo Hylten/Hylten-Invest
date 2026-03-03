@@ -134,7 +134,8 @@ h3,
 }
 
 /* Global Centering Fix for Insights */
-#root, #root > div {
+#root,
+#root>div {
   width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
@@ -142,10 +143,11 @@ h3,
 
 .insights-container {
   width: 100%;
-  max-width: 1200px !;
+  max-width: 1200px !important;
   margin-left: auto !important;
   margin-right: auto !important;
   display: block;
+  background-color: #FFFFFF !important;
 }
 
 /* Nav */
