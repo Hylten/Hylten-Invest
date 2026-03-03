@@ -133,6 +133,21 @@ h3,
   }
 }
 
+/* Global Centering Fix for Insights */
+#root, #root > div {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.insights-container {
+  width: 100%;
+  max-width: 1200px !;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block;
+}
+
 /* Nav */
 nav {
   position: fixed;

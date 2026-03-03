@@ -184,7 +184,7 @@ const App: React.FC = () => {
               HYLTÉN <span>INVEST</span> <span style={{ marginLeft: '1rem', borderLeft: '1px solid rgba(0,0,0,0.1)', paddingLeft: '1rem', fontSize: '0.7rem', color: '#666' }}>RETURN TO HOME</span>
             </a>
           </nav>
-          <main>
+          <main style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             {slug ? <InsikterArticle slug={slug} /> : <InsikterIndex />}
 
             {/* Home Button Centered after content */}
