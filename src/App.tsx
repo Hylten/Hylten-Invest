@@ -47,95 +47,95 @@ const HomePage: React.FC = () => {
           HYLTÉN <span>INVEST</span>
         </a>
         <ul className="nav-links">
-          <li><a href="#about" onClick={(e) => scrollToSection(e, '#about')}>Om Oss</a></li>
-          <li><a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Filosofi</a></li>
-          <li><a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investeringar</a></li>
-          <li><a href="#contact" onClick={(e) => scrollToSection(e, '#contact')}>Kontakt</a></li>
+          <li><a href="#about" onClick={(e) => scrollToSection(e, '#about')}>About</a></li>
+          <li><a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Philosophy</a></li>
+          <li><a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investments</a></li>
+          <li><a href="#contact" onClick={(e) => scrollToSection(e, '#contact')}>Contact</a></li>
         </ul>
       </nav>
 
       <section className="hero">
         <div className="hero-content">
           <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="hero-logo" alt="Hyltén Invest Logo" />
-          <p className="hero-subtitle">Strategiska Investeringar</p>
-          <h2>Drivna av <span className="highlight">Gnosjöandan</span><br />& Arv</h2>
-          <p className="hero-text">Hyltén Invest gör strategiska investeringar i tech-fonder och utvalda fastigheter. Med rötter i Johan Edvard Hylténs pionjäranda inom metalltillverkning fortsätter vi traditionen av innovation och tillväxt.</p>
-          <a href="#about" className="cta-button" onClick={(e) => scrollToSection(e, '#about')}>Utforska Mer</a>
+          <p className="hero-subtitle">Strategic Investments</p>
+          <h2>Driven by <span className="highlight">Gnosjöandan</span><br />& Heritage</h2>
+          <p className="hero-text">Hyltén Invest executes strategic investments in technology funds and select real estate assets. Rooted in the pioneering spirit of Johan Edvard Hyltén, we continue a legacy of innovation and growth.</p>
+          <a href="#about" className="cta-button" onClick={(e) => scrollToSection(e, '#about')}>Explore</a>
         </div>
       </section>
 
       <section id="about" className="section">
         <div className="about-grid">
           <div>
-            <span className="section-subtitle">Om Företaget</span>
-            <h2 className="section-title fade-in">En Legacy av<br />Entreprenörskap</h2>
+            <span className="section-subtitle">The Company</span>
+            <h2 className="section-title fade-in">A Legacy of<br />Entrepreneurship</h2>
             <div className="about-text fade-in">
-              <p>Grundat 2019 i Jönköping, Hyltén Invest AB är ett investmentbolag som förvaltar och utvecklar kapital genom strategiska placeringar. Bolaget drivs av Jonas Benjamin Hyltén med en tydlig vision om långsiktigt värde.</p>
-              <p>Vår verksamhet omfattar holdingverksamhet, handel med värdepapper och förvaltning av fast egendom, alltid med fokus på hållbar tillväxt och marknadsexpansion.</p>
+              <p>Founded in 2019 in Jönköping, Hyltén Invest AB is an investment firm managing and developing capital through strategic placements. The firm is led by Jonas Benjamin Hyltén with a clear vision of long-term value creation.</p>
+              <p>Our operations include holding activities, securities trading, and property management—always focused on sustainable growth and market expansion.</p>
             </div>
           </div>
           <div className="heritage-box fade-in">
             <h3>Gnosjöandan</h3>
-            <p>"Den anda som främjar samarbete, entreprenörskap och innovativ problemlösning. En kultur av hårt arbete, ödmjukhet och övertygelsen att ingenting är omöjligt."</p>
+            <p>"The spirit that fosters cooperation, entrepreneurship, and innovative problem-solving. A culture of hard work, humility, and the conviction that nothing is impossible."</p>
           </div>
         </div>
       </section>
 
       <section id="philosophy" className="philosophy">
         <div style={{ textAlign: 'center', marginBottom: '4rem' }}>
-          <span className="section-subtitle">Vår Approach</span>
-          <h2 className="section-title fade-in">Investeringsfilosofi</h2>
+          <span className="section-subtitle">Our Approach</span>
+          <h2 className="section-title fade-in">Investment Philosophy</h2>
         </div>
         <div className="philosophy-grid">
           <div className="philosophy-item fade-in">
             <span className="philosophy-icon">◆</span>
-            <h3>Strategiskt Kapital</h3>
-            <p>Vi allokerar kapital för att driva marknadsexpansion och institutionell positionering med långsiktigt perspektiv.</p>
+            <h3>Strategic Capital</h3>
+            <p>We allocate capital to drive market expansion and institutional positioning with a long-term horizon.</p>
           </div>
           <div className="philosophy-item fade-in">
             <span className="philosophy-icon">◇</span>
             <h3>Tech & Innovation</h3>
-            <p>Fokus på teknikfonder och innovativa tillväxtbolag som formar framtidens industri.</p>
+            <p>Focus on technology funds and innovative growth companies shaping the future of industry.</p>
           </div>
           <div className="philosophy-item fade-in">
             <span className="philosophy-icon">○</span>
-            <h3>Fastigheter</h3>
-            <p>Utvalda fastighetsinvesteringar med fokus på stabilitet och långsiktig värdeökning.</p>
+            <h3>Real Estate</h3>
+            <p>Selected real estate investments focused on stability and long-term capital appreciation.</p>
           </div>
         </div>
       </section>
 
       <section id="investments" className="investments">
         <div style={{ textAlign: 'center', marginBottom: '4rem' }}>
-          <span className="section-subtitle">Portfölj</span>
-          <h2 className="section-title fade-in">Fokusområden</h2>
+          <span className="section-subtitle">Portfolio</span>
+          <h2 className="section-title fade-in">Investment Focus</h2>
         </div>
         <div className="investments-grid">
           <div className="investment-card fade-in">
-            <span className="tag">Primärt Fokus</span>
-            <h3>Tech Fonder</h3>
-            <p>Strategiska investeringar i teknikfonder som driver digital transformation och innovation.</p>
+            <span className="tag">Primary Focus</span>
+            <h3>Tech Funds</h3>
+            <p>Strategic investments in technology funds driving digital transformation and innovation.</p>
           </div>
           <div className="investment-card fade-in">
-            <span className="tag">Stabilitet</span>
-            <h3>Fastigheter</h3>
-            <p>Investeringar i utvalda fastigheter med fokus på långsiktig värdebevaring.</p>
+            <span className="tag">Stability</span>
+            <h3>Real Estate</h3>
+            <p>Investments in premium assets focused on long-term value preservation.</p>
           </div>
         </div>
       </section>
 
       <section id="contact" className="contact">
-        <span className="section-subtitle">Kontakt</span>
-        <h2 className="section-title fade-in">Låt Oss Samarbeta</h2>
+        <span className="section-subtitle">Contact</span>
+        <h2 className="section-title fade-in">Let's Collaborate</h2>
         <div className="contact-content fade-in">
-          <p style={{ color: '#666', marginBottom: '2rem' }}>För investeringsmöjligheter och partnerskap, tveka inte att kontakta oss.</p>
+          <p style={{ color: '#666', marginBottom: '2rem' }}>For investment opportunities and partnerships, please do not hesitate to reach out.</p>
           <div className="contact-info">
             <div className="contact-item">
-              <strong>Adress</strong>
+              <strong>Address</strong>
               Pollaregatan 21<br />553 24 Jönköping
             </div>
             <div className="contact-item">
-              <strong>Org.nr</strong>
+              <strong>Org. No</strong>
               559219-1927
             </div>
           </div>
@@ -146,10 +146,10 @@ const HomePage: React.FC = () => {
         <div className="footer-content">
           <div className="footer-logo">HYLTÉN <span>INVEST</span></div>
           <div className="footer-links">
-            <a href="#about" onClick={(e) => scrollToSection(e, '#about')}>Om Oss</a>
-            <a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Filosofi</a>
-            <a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investeringar</a>
-            <a href="#contact" onClick={(e) => scrollToSection(e, '#contact')}>Kontakt</a>
+            <a href="#about" onClick={(e) => scrollToSection(e, '#about')}>About</a>
+            <a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Philosophy</a>
+            <a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investments</a>
+            <a href="#contact" onClick={(e) => scrollToSection(e, '#contact')}>Contact</a>
           </div>
           <p className="copyright">&copy; {new Date().getFullYear()} Hyltén Invest AB.</p>
         </div>
@@ -175,8 +175,8 @@ const App: React.FC = () => {
   }, []);
 
   const path = window.location.pathname;
-  if (path.includes('/insikter')) {
-    const slug = path.split('/insikter')[1].replace(/^\/|\/$/g, '');
+  if (path.includes('/insights')) {
+    const slug = path.split('/insights')[1].replace(/^\/|\/$/g, '');
     return (
       <BrowserRouter basename="/Hylten-Invest">
         <div className="min-h-screen bg-white">

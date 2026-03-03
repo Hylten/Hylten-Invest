@@ -5,7 +5,6 @@
   --invest-bg: #FFFFFF;
   --invest-text: #1A1A1A;
   --invest-accent: #B08D57;
-  /* More muted, sophisticated gold */
   --invest-muted: #F9F9F9;
   --invest-border: rgba(176, 141, 87, 0.15);
 }
@@ -26,7 +25,7 @@ h3,
   font-family: 'Cormorant Garamond', serif;
 }
 
-/* Preloader - Even more minimalist */
+/* Preloader */
 .preloader {
   position: fixed;
   inset: 0;
@@ -134,7 +133,7 @@ h3,
   }
 }
 
-/* Nav - Ultra Discrete */
+/* Nav */
 nav {
   position: fixed;
   top: 0;
@@ -202,7 +201,7 @@ nav.scrolled {
   color: var(--invest-accent);
 }
 
-/* Hero - Focus on White Space and Typography */
+/* Hero */
 .hero {
   height: 100vh;
   display: flex;
@@ -214,13 +213,6 @@ nav.scrolled {
 .hero-content {
   max-width: 1000px;
   padding: 0 5%;
-}
-
-.hero-logo {
-  width: 120px;
-  height: 120px;
-  margin-bottom: 4rem;
-  opacity: 0.9;
 }
 
 .hero h2 {
@@ -461,7 +453,7 @@ footer {
 
 .footer-links {
   display: flex;
-  gap: 3rem;
+  gap: 4rem;
   margin-bottom: 4rem;
 }
 
