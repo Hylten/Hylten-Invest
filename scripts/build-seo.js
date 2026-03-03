@@ -48,7 +48,7 @@ async function generateSEO() {
         #root, #root > div { width: 100% !important; margin: 0 !important; padding: 0 !important; }
     </style>
     <div class="insights-page-wrapper" style="background: #ffffff !important; min-height: 100vh; padding: 0 !important; margin: 0 !important; font-family: 'Inter', sans-serif; color: #1A1A1A; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">`;
-    listHtml += '<div style="width: 100%; max-width: 1240px; margin: 220px auto 120px; text-align: center; display: flex; flex-direction: column; align-items: center;">';
+    listHtml += '<div style="width: 100%; max-width: 1240px; margin: 180px auto 120px; text-align: center; display: flex; flex-direction: column; align-items: center;">';
     listHtml += '<nav style="position: fixed; top: 0; left: 0; width: 100%; background: #ffffff !important; border-bottom: 1px solid rgba(0,0,0,0.05); padding: 24px 40px; display: flex; align-items: center; justify-content: space-between; z-index: 9999; box-sizing: border-box;">';
     listHtml += '  <a href="/Hylten-Invest/" style="text-decoration: none !important; color: #1A1A1A !important; display: flex; align-items: center; gap: 12px; font-weight: 500; font-size: 1rem; letter-spacing: 4px; text-transform: uppercase;">';
     listHtml += '    <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" style="height: 32px; width: auto;" alt="Logo" />';
@@ -57,13 +57,13 @@ async function generateSEO() {
     listHtml += '  <span style="font-size: 0.7rem; color: #666; letter-spacing: 2px; text-transform: uppercase; font-family: sans-serif;">RETURN TO HOME</span>';
     listHtml += '</nav>';
 
-    listHtml += '<div style="display: flex; align-items: center; justify-content: center; gap: 24px; margin-bottom: 48px; width: 100%;">';
+    listHtml += '<div style="display: flex; align-items: center; justify-content: center; gap: 24px; margin-bottom: 32px; width: 100%;">';
     listHtml += '  <div style="width: 60px; height: 1px; background: rgba(176,141,87,0.3);"></div>';
     listHtml += '  <span style="color: #B08D57; text-transform: uppercase; letter-spacing: 6px; font-size: 0.75rem; font-weight: 700;">Intelligence Report</span>';
     listHtml += '  <div style="width: 60px; height: 1px; background: rgba(176,141,87,0.3);"></div>';
     listHtml += '</div>';
 
-    listHtml += '<h1 style="font-size: clamp(3rem, 10vw, 8rem); color: #000000 !important; margin-bottom: 48px; font-weight: 400; font-family: serif; letter-spacing: -0.04em; line-height: 1; text-align: center;">Insights <span style="font-style: italic; color: #D1D5DB; font-weight: 300;">Archive</span></h1>';
+    listHtml += '<h1 style="font-size: clamp(4rem, 12vw, 11rem); color: #000000 !important; margin-bottom: 48px; font-weight: 400; font-family: serif; letter-spacing: -0.06em; line-height: 0.9; text-align: center;">Insights <span style="font-style: italic; color: #D1D5DB; font-weight: 300; letter-spacing: -0.02em;">Archive</span></h1>';
     listHtml += '<p style="font-size: 1.5rem; color: #6B7280 !important; line-height: 1.8; margin-bottom: 80px; max-width: 750px; margin-left: auto; margin-right: auto; font-weight: 300; text-align: center; border-top: 1px solid #F9FAFB; padding-top: 48px;">Strategic analysis on global asset management, private equity trends, and the architectural evolution of the modern investment landscape.</p>';
 
     for (const file of files) {

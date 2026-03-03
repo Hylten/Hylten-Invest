@@ -28,7 +28,7 @@ export const InsikterIndex: React.FC = () => {
 
     return (
         <div className="insights-page-wrapper min-h-screen bg-white">
-            <div className="w-full flex flex-col items-center" style={{ marginTop: '220px' }}>
+            <div className="w-full flex flex-col items-center" style={{ marginTop: '180px' }}>
                 <main className="w-full max-w-[1240px] px-6 md:px-12 pb-48 flex flex-col items-center">
                     <header className="mb-48 text-center w-full flex flex-col items-center">
                         <div className="flex items-center justify-center gap-6 mb-12">
