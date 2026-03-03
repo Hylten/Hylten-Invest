@@ -100,17 +100,17 @@ export const InsikterArticle: React.FC<{ slug: string }> = ({ slug }) => {
                 </div>
             </header>
 
-            <div className="prose-content" style={{ color: '#374151', lineHeight: 1.8, fontSize: '1.1rem', fontWeight: 300 }}>
+            <div className="prose-content" style={{ color: '#374151', lineHeight: 2.0, fontSize: '1.15rem', fontWeight: 300 }}>
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
             </div>
             <style>{`
-                .prose-content p { margin-bottom: 2rem; }
-                .prose-content h2 { font-size: 1.8rem; margin-top: 3rem; margin-bottom: 1.5rem; color: #000; font-family: serif; }
-                .prose-content h3 { font-size: 1.4rem; margin-top: 2rem; margin-bottom: 1rem; color: #000; font-family: serif; }
-                .prose-content ul, .prose-content ol { margin-bottom: 2rem; padding-left: 1.5rem; }
-                .prose-content li { margin-bottom: 0.5rem; }
+                .prose-content p { margin-bottom: 3.5rem; }
+                .prose-content h2 { font-size: 2.2rem; margin-top: 5rem; margin-bottom: 2.5rem; color: #000; font-family: serif; font-weight: 400; line-height: 1.3; }
+                .prose-content h3 { font-size: 1.6rem; margin-top: 4rem; margin-bottom: 2rem; color: #000; font-family: serif; font-weight: 400; }
+                .prose-content ul, .prose-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
+                .prose-content li { margin-bottom: 1rem; }
             `}</style>
         </section>
     );
