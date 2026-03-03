@@ -111,7 +111,7 @@ const HomePage: React.FC = () => {
           <span className="section-subtitle">Portfolio</span>
           <h2 className="section-title fade-in">Investment Focus</h2>
         </div>
-        <div className="investments-grid">
+        <div className="investments-grid" style={{ gridTemplateColumns: 'minmax(0, 600px)', justifyContent: 'center' }}>
           <div className="investment-card fade-in">
             <span className="tag">Primary Focus</span>
             <h3>Innovation</h3>
@@ -121,11 +121,6 @@ const HomePage: React.FC = () => {
               <a href="https://hylten.github.io/Pathmakers/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Pathmaker →</a>
               <a href="https://hylten.github.io/Alpha/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Roials Alpha →</a>
             </div>
-          </div>
-          <div className="investment-card fade-in">
-            <span className="tag">Stability</span>
-            <h3>Real Estate</h3>
-            <p>Investments in premium assets focused on long-term value preservation.</p>
           </div>
         </div>
       </section>
