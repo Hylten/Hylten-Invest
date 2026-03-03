@@ -70,7 +70,7 @@ const HomePage: React.FC = () => {
             <span className="section-subtitle">The Company</span>
             <h2 className="section-title fade-in">A Legacy of<br />Entrepreneurship</h2>
             <div className="about-text fade-in">
-              <p>Founded in 2019 in Jönköping, Hyltén Invest AB is a private investment firm dedicated to the disciplined management and development of capital. The firm is led by Jonas Benjamin Hyltén - a follower of Jesus Christ - whose commitment to Christian conservative values defines our mandate for long-term stewardship and structural value creation.</p>
+              <p>Founded in Jönköping in 2019, Hyltén Invest AB is a private firm dedicated to disciplined capital management. Led by Jonas Hyltén - a follower of Jesus Christ - our commitment to Christian conservative values defines a mandate for long-term stewardship and structural value creation.</p>
             </div>
           </div>
           <div className="heritage-box fade-in">
