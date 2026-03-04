@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { ArrowLeft } from 'lucide-react';
 
 // Browser-safe frontmatter parser
 function parseFrontmatter(raw: string) {
@@ -29,6 +28,7 @@ function parseFrontmatter(raw: string) {
 }
 
 const BASE = '/Hylten-Invest';
+const ACCENT = '#B08D57';
 
 interface InsikterArticleProps {
     slug: string;
@@ -77,9 +77,20 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
 
     if (error) {
         return (
-            <div className="pt-32 pb-24 px-8 text-center min-h-screen flex flex-col items-center justify-center bg-white">
-                <h1 className="font-serif text-2xl text-black tracking-widest mb-4">Report Not Found</h1>
-                <a href={`${BASE}/insights/`} className="text-[#B08D57] tracking-widest uppercase text-[10px] hover:text-black transition-colors font-bold">
+            <div style={{
+                paddingTop: '200px', paddingBottom: '100px', textAlign: 'center',
+                minHeight: '100vh', display: 'flex', flexDirection: 'column',
+                alignItems: 'center', justifyContent: 'center', background: '#fff',
+                fontFamily: "'Inter', sans-serif",
+            }}>
+                <h1 style={{
+                    fontFamily: "'Cormorant Garamond', Georgia, serif",
+                    fontSize: '28px', color: '#0a0a0a', marginBottom: '24px', fontWeight: 300,
+                }}>Report Not Found</h1>
+                <a href={`${BASE}/insights/`} style={{
+                    color: ACCENT, textDecoration: 'none', fontSize: '10px',
+                    letterSpacing: '4px', textTransform: 'uppercase', fontWeight: 600,
+                }}>
                     Return to Archive
                 </a>
             </div>
@@ -88,70 +99,125 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
 
     if (!content && !error) {
         return (
-            <div className="min-h-screen bg-white flex items-center justify-center">
-                <div className="flex flex-col items-center gap-4">
-                    <div className="w-8 h-8 border-2 border-[#B08D57] border-t-transparent rounded-full animate-spin"></div>
-                    <p className="text-[10px] tracking-[0.3em] text-[#B08D57] uppercase font-bold">Retrieving Intelligence...</p>
-                </div>
+            <div style={{
+                minHeight: '100vh', background: '#fff', display: 'flex',
+                alignItems: 'center', justifyContent: 'center',
+            }}>
+                <p style={{
+                    fontSize: '10px', letterSpacing: '5px', color: ACCENT,
+                    textTransform: 'uppercase', fontWeight: 600,
+                    fontFamily: "'Inter', sans-serif",
+                }}>Retrieving Intelligence...</p>
             </div>
         );
     }
 
     return (
-        <article className="pt-32 pb-24 px-6 md:px-12 max-w-3xl mx-auto min-h-screen bg-white font-sans">
-            <a
-                href={`${BASE}/insights/`}
-                className="inline-flex items-center gap-2 text-gray-400 hover:text-[#B08D57] text-[10px] tracking-[0.15em] font-bold uppercase mb-16 transition-colors duration-300"
-            >
-                <ArrowLeft className="w-3 h-3" />
-                Back to Archive
+        <section style={{
+            paddingTop: '200px',
+            paddingBottom: '120px',
+            paddingLeft: '24px',
+            paddingRight: '24px',
+            maxWidth: '820px',
+            margin: '0 auto',
+            minHeight: '100vh',
+            background: '#fff',
+            fontFamily: "'Inter', sans-serif",
+        }}>
+            {/* Back to Archive */}
+            <a href={`${BASE}/insights/`} style={{
+                display: 'inline-flex', alignItems: 'center', gap: '10px',
+                color: '#9ca3af', fontSize: '10px', letterSpacing: '3px',
+                textTransform: 'uppercase', fontWeight: 600,
+                textDecoration: 'none', marginBottom: '80px',
+            }}>
+                ← Back to Archive
             </a>
 
-            <header className="mb-16 border-b border-gray-100 pb-16">
-                <div className="flex flex-col md:flex-row md:items-baseline gap-4 mb-8">
-                    <time className="text-[10px] tracking-widest text-[#B08D57] uppercase font-bold">
+            {/* Article Header */}
+            <header style={{
+                marginBottom: '80px',
+                borderBottom: '1px solid #f3f4f6',
+                paddingBottom: '60px',
+            }}>
+                <div style={{
+                    display: 'flex', justifyContent: 'space-between',
+                    alignItems: 'baseline', marginBottom: '32px',
+                    flexWrap: 'wrap', gap: '12px',
+                }}>
+                    <time style={{
+                        fontSize: '10px', letterSpacing: '4px',
+                        textTransform: 'uppercase', color: ACCENT, fontWeight: 600,
+                    }}>
                         {meta.date ? new Date(meta.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : 'Undated'}
                     </time>
-                    <span className="hidden md:inline text-gray-200">•</span>
-                    <span className="text-[10px] tracking-widest text-gray-400 uppercase font-medium">
-                        {meta.author || 'Hyltén Invest'}
+                    <span style={{
+                        fontSize: '10px', letterSpacing: '3px',
+                        textTransform: 'uppercase', color: '#d1d5db',
+                    }}>
+                        {meta.author || 'Jonas Hyltén'}
                     </span>
                 </div>
 
-                <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl text-black mb-8 leading-tight tracking-tight font-normal">
+                <h1 style={{
+                    fontFamily: "'Cormorant Garamond', 'Playfair Display', Georgia, serif",
+                    fontSize: 'clamp(2.5rem, 5vw, 3.8rem)',
+                    color: '#0a0a0a',
+                    marginBottom: '32px',
+                    lineHeight: 1.2,
+                    fontWeight: 400,
+                    letterSpacing: '-1px',
+                }}>
                     {meta.title}
                 </h1>
 
                 {meta.description && (
-                    <p className="text-lg md:text-xl text-gray-500 leading-relaxed font-light italic">
+                    <p style={{
+                        fontSize: '17px',
+                        color: '#6b7280',
+                        lineHeight: 1.8,
+                        fontWeight: 300,
+                        fontStyle: 'italic',
+                        maxWidth: '600px',
+                    }}>
                         {meta.description}
                     </p>
                 )}
             </header>
 
-            <div className="article-content" style={{ color: '#374151', fontSize: '1.15rem', fontWeight: 300 }}>
+            {/* Article Body */}
+            <div className="article-content" style={{
+                color: '#374151', lineHeight: 2.2, fontSize: '1.15rem', fontWeight: 300,
+            }}>
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
             </div>
 
             <style>{`
-                .article-content { line-height: 2.2; }
                 .article-content p { margin-bottom: 3.5rem; }
-                .article-content h2 { font-family: serif; font-size: 2.4rem; margin-top: 6rem; margin-bottom: 3rem; color: #000; line-height: 1.3; font-weight: 400; }
-                .article-content h3 { font-family: serif; font-size: 1.7rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #000; font-weight: 400; }
+                .article-content h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.4rem; margin-top: 6rem; margin-bottom: 3rem; color: #0a0a0a; line-height: 1.3; font-weight: 400; }
+                .article-content h3 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.7rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #0a0a0a; font-weight: 400; }
                 .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
                 .article-content li { margin-bottom: 1.5rem; }
                 .article-content hr { border: 0; border-top: 1px solid #f3f4f6; margin: 6rem 0; }
-                .article-content strong { color: #000; font-weight: 600; }
-                .article-content a { color: #B08D57; text-decoration: underline; font-weight: 500; }
+                .article-content strong { color: #0a0a0a; font-weight: 600; }
+                .article-content a { color: ${ACCENT}; text-decoration: underline; font-weight: 500; text-underline-offset: 4px; }
+                .article-content blockquote { border-left: 3px solid ${ACCENT}; padding-left: 1.5rem; margin: 3rem 0; font-style: italic; color: #6b7280; }
             `}</style>
 
-            <footer className="mt-24 pt-12 border-t border-gray-50 text-center">
-                <p className="text-[9px] text-gray-300 tracking-[0.3em] uppercase font-medium">
-                    &copy; {new Date().getFullYear()} Hyltén Invest AB. Stewardship by Principle.
+            {/* Footer */}
+            <footer style={{
+                marginTop: '100px', paddingTop: '48px',
+                borderTop: '1px solid #f9fafb', textAlign: 'center',
+            }}>
+                <p style={{
+                    fontSize: '9px', color: '#d1d5db', letterSpacing: '4px',
+                    textTransform: 'uppercase', fontWeight: 500,
+                }}>
+                    © {new Date().getFullYear()} Hyltén Invest AB. Stewardship by Principle.
                 </p>
             </footer>
-        </article>
+        </section>
     );
 };

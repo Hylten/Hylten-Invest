@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowRight } from 'lucide-react';
 
 // Browser-safe frontmatter parser
 function parseFrontmatter(raw: string) {
@@ -22,6 +21,7 @@ function parseFrontmatter(raw: string) {
 }
 
 const BASE = '/Hylten-Invest';
+const ACCENT = '#B08D57';
 
 interface Article {
     slug: string;
@@ -43,7 +43,7 @@ const getPosts = () => {
             title: data.title || 'Untitled',
             description: data.description || '',
             date: data.date || '',
-            author: data.author || 'Hyltén Invest',
+            author: data.author || 'Jonas Hyltén',
         };
     });
 
@@ -52,71 +52,186 @@ const getPosts = () => {
 
 export const InsikterIndex: React.FC = () => {
     const [posts, setPosts] = useState<Article[]>([]);
+    const [hoveredSlug, setHoveredSlug] = useState<string | null>(null);
 
     useEffect(() => {
         const fetchedPosts = getPosts() as Article[];
         setPosts(fetchedPosts);
-
         document.title = 'Insights Archive | Hyltén Invest';
     }, []);
 
     return (
-        <div className="pt-32 pb-24 px-6 md:px-12 max-w-4xl mx-auto min-h-screen font-sans bg-white">
-            <div className="mb-20 mt-20 md:mt-32">
-                <div className="flex items-center gap-3 mb-6">
-                    <div className="w-8 h-[1px] bg-[#B08D57]"></div>
-                    <span className="text-[10px] tracking-[0.3em] text-[#B08D57] uppercase font-bold">Stewardship Intelligence</span>
+        <section style={{
+            paddingTop: '200px',
+            paddingBottom: '120px',
+            paddingLeft: '24px',
+            paddingRight: '24px',
+            maxWidth: '900px',
+            margin: '0 auto',
+            minHeight: '100vh',
+            background: '#fff',
+            fontFamily: "'Inter', sans-serif",
+        }}>
+            {/* Header */}
+            <div style={{ marginBottom: '120px' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '32px' }}>
+                    <div style={{ width: '40px', height: '1px', background: ACCENT, opacity: 0.5 }}></div>
+                    <span style={{
+                        fontSize: '10px',
+                        letterSpacing: '6px',
+                        textTransform: 'uppercase',
+                        color: ACCENT,
+                        fontWeight: 600,
+                    }}>Perspectives</span>
+                    <div style={{ flex: 1, height: '1px', background: '#f5f5f5' }}></div>
                 </div>
 
-                <h1 className="font-serif text-5xl md:text-7xl text-black mb-8 tracking-tighter leading-tight font-normal">
-                    Insights <span className="italic font-light text-gray-300">Archive</span>
+                <h1 style={{
+                    fontFamily: "'Cormorant Garamond', 'Playfair Display', Georgia, serif",
+                    fontSize: 'clamp(3rem, 8vw, 7rem)',
+                    color: '#0a0a0a',
+                    marginBottom: '32px',
+                    letterSpacing: '-2px',
+                    lineHeight: 1.0,
+                    fontWeight: 300,
+                }}>
+                    Insights
                 </h1>
 
-                <p className="text-base md:text-xl text-gray-500 max-w-2xl leading-relaxed tracking-wide font-light">
+                <p style={{
+                    fontSize: '15px',
+                    color: '#9ca3af',
+                    maxWidth: '600px',
+                    lineHeight: 1.8,
+                    letterSpacing: '0.5px',
+                    fontWeight: 300,
+                }}>
                     Strategic analysis on global asset management, private equity trends, and the architectural evolution of generational stewardship.
                 </p>
             </div>
 
-            <div className="space-y-0">
-                {posts.map((post) => (
-                    <article
-                        key={post.slug}
-                        className="group border-b border-gray-100 hover:border-[#B08D57]/30 transition-colors duration-500"
-                    >
-                        <a href={`${BASE}/insights/${post.slug}`} className="block py-12">
-                            <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-4">
-                                <time className="text-[10px] tracking-widest text-[#B08D57] uppercase font-bold">
-                                    {new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-                                </time>
-                                <span className="text-[10px] tracking-widest text-gray-400 uppercase font-medium">
-                                    {post.author}
-                                </span>
-                            </div>
+            {/* Article List */}
+            <div>
+                {posts.map((post) => {
+                    const isHovered = hoveredSlug === post.slug;
+                    return (
+                        <article
+                            key={post.slug}
+                            style={{
+                                borderBottom: `1px solid ${isHovered ? 'rgba(176,141,87,0.3)' : '#f3f4f6'}`,
+                                transition: 'border-color 0.5s ease',
+                            }}
+                            onMouseEnter={() => setHoveredSlug(post.slug)}
+                            onMouseLeave={() => setHoveredSlug(null)}
+                        >
+                            <a
+                                href={`${BASE}/insights/${post.slug}`}
+                                style={{
+                                    display: 'block',
+                                    padding: '48px 0',
+                                    textDecoration: 'none',
+                                    color: 'inherit',
+                                }}
+                            >
+                                {/* Date & Author Row */}
+                                <div style={{
+                                    display: 'flex',
+                                    justifyContent: 'space-between',
+                                    alignItems: 'baseline',
+                                    marginBottom: '16px',
+                                    flexWrap: 'wrap',
+                                    gap: '8px',
+                                }}>
+                                    <time style={{
+                                        fontSize: '10px',
+                                        letterSpacing: '4px',
+                                        textTransform: 'uppercase',
+                                        color: ACCENT,
+                                        fontWeight: 600,
+                                    }}>
+                                        {new Date(post.date).toLocaleDateString('en-US', {
+                                            year: 'numeric', month: 'long', day: 'numeric'
+                                        })}
+                                    </time>
+                                    <span style={{
+                                        fontSize: '10px',
+                                        letterSpacing: '3px',
+                                        textTransform: 'uppercase',
+                                        color: '#d1d5db',
+                                    }}>
+                                        {post.author}
+                                    </span>
+                                </div>
 
-                            <h2 className="font-serif text-2xl md:text-4xl text-black group-hover:text-[#B08D57] transition-colors duration-300 mb-6 leading-tight font-normal">
-                                {post.title}
-                            </h2>
+                                {/* Title */}
+                                <h2 style={{
+                                    fontFamily: "'Cormorant Garamond', 'Playfair Display', Georgia, serif",
+                                    fontSize: 'clamp(1.5rem, 3vw, 2.2rem)',
+                                    color: isHovered ? ACCENT : '#0a0a0a',
+                                    marginBottom: '16px',
+                                    lineHeight: 1.3,
+                                    fontWeight: 400,
+                                    transition: 'color 0.4s ease',
+                                    letterSpacing: '-0.5px',
+                                }}>
+                                    {post.title}
+                                </h2>
 
-                            <p className="text-base text-gray-600 leading-relaxed mb-8 line-clamp-3 font-light">
-                                {post.description}
-                            </p>
+                                {/* Description */}
+                                <p style={{
+                                    fontSize: '14px',
+                                    color: '#6b7280',
+                                    lineHeight: 1.8,
+                                    marginBottom: '24px',
+                                    fontWeight: 300,
+                                    maxWidth: '700px',
+                                    display: '-webkit-box',
+                                    WebkitLineClamp: 3,
+                                    WebkitBoxOrient: 'vertical',
+                                    overflow: 'hidden',
+                                }}>
+                                    {post.description}
+                                </p>
 
-                            <div className="inline-flex items-center gap-3 text-[#B08D57] text-[10px] tracking-[0.2em] uppercase font-bold group-hover:translate-x-2 transition-transform duration-300">
-                                Read Analysis
-                                <ArrowRight className="w-3 h-3" />
-                            </div>
-                        </a>
-                    </article>
-                ))}
+                                {/* Read More */}
+                                <div style={{
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '8px',
+                                    color: ACCENT,
+                                    fontSize: '10px',
+                                    letterSpacing: '3px',
+                                    textTransform: 'uppercase',
+                                    fontWeight: 600,
+                                    transform: isHovered ? 'translateX(8px)' : 'translateX(0)',
+                                    transition: 'transform 0.3s ease',
+                                }}>
+                                    Read Analysis
+                                    <span style={{ fontSize: '14px' }}>→</span>
+                                </div>
+                            </a>
+                        </article>
+                    );
+                })}
 
                 {posts.length === 0 && (
-                    <div className="flex flex-col items-center gap-8 py-24">
-                        <div className="w-full text-center py-24 border border-gray-50 bg-gray-50/30 rounded-sm">
-                            <p className="text-gray-400 text-sm tracking-widest uppercase">Awaiting new intelligence briefings...</p>
-                        </div>
+                    <div style={{
+                        textAlign: 'center',
+                        padding: '100px 0',
+                        borderTop: '1px solid #f9fafb',
+                        borderBottom: '1px solid #f9fafb',
+                    }}>
+                        <p style={{
+                            color: '#d1d5db',
+                            fontSize: '12px',
+                            letterSpacing: '5px',
+                            textTransform: 'uppercase',
+                            fontStyle: 'italic',
+                            fontWeight: 300,
+                        }}>Awaiting new intelligence briefings...</p>
                     </div>
                 )}
             </div>
-        </div>
+        </section>
     );
 };
