@@ -103,18 +103,18 @@ async function generateSEO() {
         const displayIndex = (files.length - index).toString().padStart(2, '0');
 
         listHtml += `
-            <article style="margin-bottom: 500px; width: 100%; max-width: 1000px; display: flex; flex-direction: column; align-items: center; text-align: center; position: relative;">
-                <div style="display: flex; flex-direction: column; align-items: center; gap: 24px; margin-bottom: 60px;">
+            <article style="margin-bottom: 300px; width: 100%; max-width: 900px; display: flex; flex-direction: column; align-items: center; text-align: center; position: relative; padding-bottom: 150px; border-bottom: 1px solid rgba(0,0,0,0.05);">
+                <div style="display: flex; flex-direction: column; align-items: center; gap: 24px; margin-bottom: 80px;">
                     <span style="font-size: 10px; color: #B08D57; letter-spacing: 8px; font-weight: 800; text-transform: uppercase;">INSIGHT NO. ${displayIndex}</span>
-                    <div style="width: 1px; height: 60px; background: linear-gradient(to bottom, #B08D57, transparent);"></div>
+                    <div style="width: 1px; height: 40px; background: #B08D57;"></div>
                 </div>
                 
                 <a href="/Hylten-Invest/insights/${slug}/" style="text-decoration: none !important; color: #000000 !important; display: block; width: 100%;">
-                    <div style="font-size: 13px; color: #9CA3AF; text-transform: uppercase; letter-spacing: 4px; margin-bottom: 32px; font-weight: 500;">${date}</div>
-                    <h2 style="font-size: clamp(2.5rem, 6vw, 4.8rem); color: #000000 !important; margin-bottom: 48px; font-weight: 400; font-family: serif; line-height: 1.15; text-align: center; max-width: 900px; margin-left: auto; margin-right: auto;">${title}</h2>
-                    <p style="font-size: 1.4rem; color: #4B5563 !important; line-height: 1.8; font-weight: 300; margin-bottom: 80px; max-width: 650px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
-                    <div style="display: flex; flex-direction: column; align-items: center; gap: 48px;">
-                        <span style="color: #B08D57; font-size: 11px; text-transform: uppercase; letter-spacing: 6px; font-weight: 700; border: 1px solid rgba(176,141,87,0.3); padding: 16px 40px; border-radius: 2px;">Read Technical Analysis</span>
+                    <div style="font-size: 11px; color: #9CA3AF; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 40px; font-weight: 600;">Published &mdash; ${date}</div>
+                    <h2 style="font-size: clamp(2.2rem, 5vw, 4.2rem); color: #000000 !important; margin-bottom: 40px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: center; max-width: 850px; margin-left: auto; margin-right: auto;">${title}</h2>
+                    <p style="font-size: 1.25rem; color: #4B5563 !important; line-height: 1.8; font-weight: 300; margin-bottom: 60px; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center; font-style: italic;">${description}</p>
+                    <div style="display: flex; flex-direction: column; align-items: center;">
+                        <span style="color: #000; font-size: 10px; text-transform: uppercase; letter-spacing: 4px; font-weight: 700; border-bottom: 1px solid #B08D57; padding-bottom: 8px; transition: all 0.3s;">Explore Briefing</span>
                     </div>
                 </a>
             </article>`;
