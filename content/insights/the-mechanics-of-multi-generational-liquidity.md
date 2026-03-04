@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Multi Generational Liquidity"
 description: "A high end exploration of liquidity architecture for multi generational wealth, grounded in private credit and asset based liquidity engineering."
-date: "2025-11-22"
+date: "2025-12-03"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-multi-generational-liquidity"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

@@ -1,9 +1,9 @@
 ---
 title: "Stewardship of Hybrid Portfolios: Balancing Tradition and Digital Alpha"
 description: "A high level exploration of liquidity strategy, private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
-date: "2025-11-15"
+date: "2025-11-23"
 author: "Jonas Hyltén"
-slug: "stewardship-of-hybrid-portfolios:-balancing-tradit"
+slug: "stewardship-of-hybrid-portfolios-balancing-tradit"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 

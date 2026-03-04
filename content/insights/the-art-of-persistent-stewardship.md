@@ -1,7 +1,7 @@
 ---
 title: "The Art of Persistent Stewardship"
 description: "A high‑end exploration of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking disciplined long‑term stewardship."
-date: "2025-11-18"
+date: "2025-11-26"
 author: "Jonas Hyltén"
 slug: "the-art-of-persistent-stewardship"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

@@ -1,7 +1,7 @@
 ---
 title: "Conservative Leverage in the Age of Bitcoin Backed Finance"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking conservative leverage structures."
-date: "2025-11-04"
+date: "2025-11-06"
 author: "Jonas Hyltén"
 slug: "conservative-leverage-in-the-age-of-bitcoin-backed"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

@@ -1,9 +1,9 @@
 ---
 title: "Covenant Stewardship: The Hylten Legacy Of Industr"
 description: "Covenant Stewardship: The Hylten Legacy Of Industr"
-date: "2025-11-05"
+date: "2025-11-07"
 author: "Jonas Hyltén"
-slug: "covenant-stewardship:-the-hylten-legacy-of-industr"
+slug: "covenant-stewardship-the-hylten-legacy-of-industr"
 keywords: "private credit, ABL, liquidity"
 ---
 

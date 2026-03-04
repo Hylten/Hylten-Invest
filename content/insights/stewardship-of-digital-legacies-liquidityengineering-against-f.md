@@ -1,9 +1,9 @@
 ---
 title: "Stewardship of Digital Legacies: liquidity engineering Against Family Crypto Holdings"
 description: "A high level exploration of liquidity creation through private credit and asset based liquidity engineering. Focused on HNWI and UHNW families seeking structured solutions using crypto and public shares."
-date: "2025-11-14"
+date: "2025-11-21"
 author: "Jonas Hyltén"
-slug: "stewardship-of-digital-legacies:-liquidity engineering-against-f"
+slug: "stewardship-of-digital-legacies-liquidityengineering-against-f"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
