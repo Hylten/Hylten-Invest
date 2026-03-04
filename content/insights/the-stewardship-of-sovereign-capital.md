@@ -2,7 +2,7 @@
 title: "The Stewardship of Sovereign Capital: A Philosophy of Liquidity, Precision, and Enduring Wealth"
 description: "A high‑end exploration of liquidity architecture, private credit, and asset‑based lending for HNWI and UHNW clients seeking long‑term capital stewardship."
 date: "2025-12-03"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-stewardship-of-sovereign-capital"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
 ---

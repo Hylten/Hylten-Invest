@@ -2,7 +2,7 @@
 title: "Private Equity Diversification"
 description: "Insights on Private Equity Diversification from Roials Capital and Hyltén Invest."
 date: "2025-11-15"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "private-equity-diversification"
 keywords: "private credit, asset based lending, strategic capital"
 ---

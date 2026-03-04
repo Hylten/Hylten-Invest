@@ -2,7 +2,7 @@
 title: "Asset Hardening Strategies for Global Families: Long Horizon Liquidity and Structural Defense"
 description: "A strategic exploration of liquidity, private credit, and asset based lending for HNWI families seeking long term resilience through institutional grade structures."
 date: "2025-11-01"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "asset-hardening-strategies-for-global-families"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
 ---

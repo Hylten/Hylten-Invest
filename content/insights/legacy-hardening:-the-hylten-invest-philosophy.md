@@ -2,7 +2,7 @@
 title: "Legacy Hardening: The Hylten Invest Philosophy of Enduring Liquidity"
 description: "A high‑end exploration of liquidity architecture, private credit, and asset based lending for long‑term wealth preservation and HNWI strategy."
 date: "2025-11-11"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "legacy-hardening:-the-hylten-invest-philosophy"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
 ---

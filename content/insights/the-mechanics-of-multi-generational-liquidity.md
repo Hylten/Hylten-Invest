@@ -2,7 +2,7 @@
 title: "The Mechanics of Multi Generational Liquidity"
 description: "A high end exploration of liquidity architecture for multi generational wealth, grounded in private credit and asset based lending."
 date: "2025-11-30"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-mechanics-of-multi-generational-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
 ---

@@ -2,7 +2,7 @@
 title: "Protecting Wealth Through Institutional Grade ABL"
 description: "A strategic overview of how High Net Worth investors preserve liquidity and stability through institutional grade asset based lending and private credit structures."
 date: "2025-11-17"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "protecting-wealth-via-institutional-grade-abl"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
 ---

@@ -2,7 +2,7 @@
 title: "Capital Migration for Global Families: The Role of Sovereign Crypto Lending"
 description: "A high-level exploration of liquidity creation through private credit and asset based lending for global families seeking structural mobility."
 date: "2025-11-03"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "capital-migration-for-global-families:-the-role-of"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
 ---

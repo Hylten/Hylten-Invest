@@ -2,7 +2,7 @@
 title: "Navigating Multi-Generational Wealth with ABL"
 description: "A strategic exploration of liquidity, private credit, and asset based lending for multi-generational wealth preservation."
 date: "2025-11-14"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "navigating-multi-generational-wealth-with-abl"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
 ---

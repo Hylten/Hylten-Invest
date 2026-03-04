@@ -2,7 +2,7 @@
 title: "Resilient Structures in Private Wealth: Strategic Liquidity for HNWI and Family Offices"
 description: "A high end analysis of liquidity architecture through private credit and asset based lending, designed for resilient long term wealth portfolios."
 date: "2025-11-02"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "building-resilience-in-private-wealth-portfolio"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
 ---

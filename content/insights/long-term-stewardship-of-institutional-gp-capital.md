@@ -2,7 +2,7 @@
 title: "Long-Term Stewardship of Institutional GP Capital"
 description: "A strategic exploration of long-term liquidity, private credit, and asset based lending solutions for HNWI and UHNW investors."
 date: "2025-11-13"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "long-term-stewardship-of-institutional-gp-capital"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
