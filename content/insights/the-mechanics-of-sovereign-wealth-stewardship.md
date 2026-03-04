@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Sovereign Wealth Stewardship"
 description: "A high level exploration of liquidity architecture and asset based lending for HNWI and UHNW investors seeking long term stewardship."
-date: "2025-12-01"
+date: "2025-12-03"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-wealth-stewardship"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

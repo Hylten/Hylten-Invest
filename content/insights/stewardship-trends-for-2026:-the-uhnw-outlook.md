@@ -1,7 +1,7 @@
 ---
 title: "Stewardship Trends for 2026: The UHNW Outlook"
 description: "A deep analysis of 2026 stewardship trends for UHNW investors with emphasis on liquidity architecture, private credit, and asset based lending."
-date: "2025-11-23"
+date: "2025-11-24"
 author: "Jonas Hyltén"
 slug: "stewardship-trends-for-2026:-the-uhnw-outlook"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

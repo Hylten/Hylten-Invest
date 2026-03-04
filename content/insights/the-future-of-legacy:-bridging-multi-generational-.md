@@ -1,7 +1,7 @@
 ---
 title: "The Future of Legacy: Bridging Multi-Generational Wisdom with Digital Capital"
 description: "A strategic exploration of liquidity, private credit, and asset based lending for multi-generational wealth management."
-date: "2025-11-26"
+date: "2025-11-28"
 author: "Jonas Hyltén"
 slug: "the-future-of-legacy:-bridging-multi-generational-"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

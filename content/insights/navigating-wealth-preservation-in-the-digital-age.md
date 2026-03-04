@@ -1,7 +1,7 @@
 ---
 title: "Navigating Wealth Preservation in the Digital Age"
 description: "A strategic exploration of liquidity, private credit, and asset based lending for HNWI and UHNW investors seeking long term preservation in a digital era."
-date: "2025-11-14"
+date: "2025-11-15"
 author: "Jonas Hyltén"
 slug: "navigating-wealth-preservation-in-the-digital-age"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

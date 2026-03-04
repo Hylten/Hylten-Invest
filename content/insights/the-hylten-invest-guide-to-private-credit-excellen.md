@@ -1,7 +1,7 @@
 ---
 title: "The Hylten Invest Guide to Private Credit Excellence"
 description: "A strategic guide for HNWI and family offices seeking liquidity through private credit and asset based lending solutions."
-date: "2025-11-29"
+date: "2025-12-01"
 author: "Jonas Hyltén"
 slug: "the-hylten-invest-guide-to-private-credit-excellen"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

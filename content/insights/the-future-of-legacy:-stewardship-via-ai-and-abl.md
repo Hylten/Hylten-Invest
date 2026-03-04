@@ -1,7 +1,7 @@
 ---
 title: "The Future of Legacy: Stewardship via AI and Asset Based Lending"
 description: "High net worth liquidity solutions built on private credit, asset based lending, and AI enabled stewardship."
-date: "2025-11-26"
+date: "2025-11-28"
 author: "Jonas Hyltén"
 slug: "the-future-of-legacy:-stewardship-via-ai-and-abl"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
