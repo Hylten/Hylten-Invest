@@ -1,7 +1,7 @@
 ---
 title: "The Theology Of Capital: Wealth As A Sacred Trust"
 description: "The Theology Of Capital: Wealth As A Sacred Trust"
-date: "2025-12-07"
+date: "2025-11-25"
 author: "Jonas Hyltén"
 slug: "the-theology-of-capital-wealth-as-a-sacred-trust"
 keywords: "private credit, ABL, liquidity"

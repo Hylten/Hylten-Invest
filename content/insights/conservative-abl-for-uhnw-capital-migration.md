@@ -1,7 +1,7 @@
 ---
 title: "Conservative ABL for UHNW Capital Migration"
 description: "A high end analysis of conservative asset based liquidity engineering and private credit structures for UHNW liquidity without asset displacement."
-date: "2025-11-04"
+date: "2025-11-03"
 author: "Jonas Hyltén"
 slug: "conservative-abl-for-uhnw-capital-migration"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

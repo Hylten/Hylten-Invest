@@ -1,9 +1,9 @@
 ---
 title: "Designing the Resilient Family Office Balance Sheet"
 description: "A high authority exploration of liquidity engineering and asset based liquidity engineering for HNWI and UHNW families seeking structural resilience."
-date: "2025-11-07"
+date: "2025-11-05"
 author: "Jonas Hyltén"
-slug: "designing-the-resilient-family-office-balance-shee"
+slug: "designing-the-resilient-family-office-balance-sheet"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 

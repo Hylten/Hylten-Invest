@@ -1,7 +1,7 @@
 ---
 title: "The Hylten Invest Model for Asset Hardening"
 description: "A high-level exploration of liquidity creation through Private Credit and Asset-Based liquidity engineering for long-term asset hardening."
-date: "2025-12-01"
+date: "2025-11-21"
 author: "Jonas Hyltén"
 slug: "the-hylten-invest-model-for-asset-hardening"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

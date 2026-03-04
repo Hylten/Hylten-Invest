@@ -1,9 +1,9 @@
 ---
 title: "Stewardship of High‑Value Multi‑Asset Portfolios"
 description: "A minimalist and conservative framework for liquidity optimization through private credit and asset‑based liquidity engineering for HNWI and UHNW portfolios."
-date: "2025-11-22"
+date: "2025-11-15"
 author: "Jonas Hyltén"
-slug: "stewardship-of-high-value-multi-asset-portfolios"
+slug: "stewardship-of-highvalue-multiasset-portfolios"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 

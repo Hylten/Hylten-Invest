@@ -1,9 +1,9 @@
 ---
 title: "Strategic Alignment for Multi‑Generational Offices"
 description: "A deep analysis of strategic alignment for multi generational offices, with emphasis on liquidity, private credit, and asset based liquidity engineering solutions."
-date: "2025-11-25"
+date: "2025-11-17"
 author: "Jonas Hyltén"
-slug: "strategic-alignment-for-multi-generational-offices"
+slug: "strategic-alignment-for-multigenerational-offices"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 

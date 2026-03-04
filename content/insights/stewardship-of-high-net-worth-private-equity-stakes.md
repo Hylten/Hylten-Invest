@@ -1,9 +1,9 @@
 ---
 title: "Stewardship of High Net Worth Private Equity Stakes"
 description: "A high‑end analysis of liquidity, private credit, and asset‑based liquidity engineering structures for HNWI and UHNW investors seeking long‑term stewardship of private equity holdings."
-date: "2025-11-22"
+date: "2025-11-15"
 author: "Jonas Hyltén"
-slug: "stewardship-of-high-net-worth-private-equity-stake"
+slug: "stewardship-of-high-net-worth-private-equity-stakes"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Preserving Capital Through Institutional Asset Structures"
 description: "A high‑end analysis of liquidity preservation and asset based liquidity engineering for HNWI and UHNW investors seeking institutional stability and credit optionality."
-date: "2025-11-16"
+date: "2025-11-11"
 author: "Jonas Hyltén"
-slug: "preserving-capital-in-institutional-asset-structur"
+slug: "preserving-capital-through-institutional-asset-structures"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 

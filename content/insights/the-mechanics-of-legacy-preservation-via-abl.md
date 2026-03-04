@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Legacy Preservation via ABL"
 description: "An in depth exploration of how Asset Based liquidity engineering and private credit provide liquidity, stability, and long term legacy preservation for HNWI and UHNW families."
-date: "2025-12-02"
+date: "2025-11-22"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-legacy-preservation-via-abl"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
