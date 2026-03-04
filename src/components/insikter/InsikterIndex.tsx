@@ -1,82 +1,121 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { ArrowRight } from 'lucide-react';
+
+// Browser-safe frontmatter parser
+function parseFrontmatter(raw: string) {
+    const match = raw.match(/^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/);
+    if (!match) return { data: {} as Record<string, string>, content: raw };
+    const frontmatter = match[1];
+    const content = match[2];
+    const data: Record<string, string> = {};
+    for (const line of frontmatter.split('\n')) {
+        const colonIdx = line.indexOf(':');
+        if (colonIdx === -1) continue;
+        const key = line.slice(0, colonIdx).trim();
+        let value = line.slice(colonIdx + 1).trim();
+        if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
+            value = value.slice(1, -1);
+        }
+        data[key] = value;
+    }
+    return { data, content };
+}
+
+const BASE = '/Hylten-Invest';
 
 interface Article {
     slug: string;
     title: string;
     description: string;
     date: string;
+    author: string;
 }
 
+const getPosts = () => {
+    const postsGlob = import.meta.glob('../../../content/insights/*.md', { query: '?raw', eager: true });
+
+    const posts = Object.entries(postsGlob).map(([filepath, content]) => {
+        const rawMarkdown = (content as any).default;
+        const { data } = parseFrontmatter(rawMarkdown);
+
+        return {
+            slug: data.slug || filepath.split('/').pop()?.replace('.md', '') || 'unknown',
+            title: data.title || 'Untitled',
+            description: data.description || '',
+            date: data.date || '',
+            author: data.author || 'Hyltén Invest',
+        };
+    });
+
+    return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+};
+
 export const InsikterIndex: React.FC = () => {
-    const [articles, setArticles] = useState<Article[]>([]);
+    const [posts, setPosts] = useState<Article[]>([]);
 
     useEffect(() => {
-        const fetchArticles = async () => {
-            try {
-                const response = await fetch('/Hylten-Invest/insights/articles.json');
-                if (response.ok) {
-                    const data = await response.json();
-                    setArticles(data);
-                }
-            } catch (e) {
-                console.log('Archive exploring...', e);
-            }
-        };
-        fetchArticles();
-        document.title = 'Insights | Hyltén Invest';
+        const fetchedPosts = getPosts() as Article[];
+        setPosts(fetchedPosts);
+
+        document.title = 'Insights Archive | Hyltén Invest';
     }, []);
 
     return (
-        <div className="insights-page-wrapper min-h-screen bg-white">
-            <div className="w-full flex flex-col items-center" style={{ marginTop: '180px' }}>
-                <main className="w-full max-w-[1240px] px-6 md:px-12 pb-48 flex flex-col items-center">
-                    <header className="mb-48 text-center w-full flex flex-col items-center">
-                        <div className="flex items-center justify-center gap-6 mb-12">
-                            <div className="w-16 h-[1px] bg-[#B08D57]/30"></div>
-                            <span className="text-[12px] tracking-[0.6em] text-[#B08D57] uppercase font-bold">Intelligence report</span>
-                            <div className="w-16 h-[1px] bg-[#B08D57]/30"></div>
-                        </div>
+        <div className="pt-32 pb-24 px-6 md:px-12 max-w-4xl mx-auto min-h-screen font-sans bg-white">
+            <div className="mb-20 mt-20 md:mt-32">
+                <div className="flex items-center gap-3 mb-6">
+                    <div className="w-8 h-[1px] bg-[#B08D57]"></div>
+                    <span className="text-[10px] tracking-[0.3em] text-[#B08D57] uppercase font-bold">Stewardship Intelligence</span>
+                </div>
 
-                        <h1 className="text-6xl md:text-9xl font-serif text-black mb-12 tracking-tighter leading-none font-normal text-center w-full" style={{ color: '#000000' }}>
-                            Insights <span className="italic font-light text-gray-300">Archive</span>
-                        </h1>
+                <h1 className="font-serif text-5xl md:text-7xl text-black mb-8 tracking-tighter leading-tight font-normal">
+                    Insights <span className="italic font-light text-gray-300">Archive</span>
+                </h1>
 
-                        <p className="text-gray-500 max-w-2xl text-xl md:text-2xl font-light leading-relaxed text-center mx-auto border-t border-gray-50 pt-12">
-                            Strategic analysis on global asset management, private equity trends, and the architectural evolution of the modern investment landscape.
-                        </p>
-                    </header>
+                <p className="text-base md:text-xl text-gray-500 max-w-2xl leading-relaxed tracking-wide font-light">
+                    Strategic analysis on global asset management, private equity trends, and the architectural evolution of generational stewardship.
+                </p>
+            </div>
 
-                    <div className="w-full space-y-64 mt-32">
-                        {articles.length > 0 ? articles.map(art => (
-                            <article key={art.slug} className="group flex flex-col items-center text-center max-w-4xl mx-auto">
-                                <time className="text-[14px] tracking-[0.5em] text-[#B08D57] uppercase font-bold mb-10">
-                                    {new Date(art.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+            <div className="space-y-0">
+                {posts.map((post) => (
+                    <article
+                        key={post.slug}
+                        className="group border-b border-gray-100 hover:border-[#B08D57]/30 transition-colors duration-500"
+                    >
+                        <a href={`${BASE}/insights/${post.slug}`} className="block py-12">
+                            <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-4">
+                                <time className="text-[10px] tracking-widest text-[#B08D57] uppercase font-bold">
+                                    {new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
                                 </time>
-
-                                <a
-                                    href={`/Hylten-Invest/insights/${art.slug}/`}
-                                    className="block group no-underline"
-                                    style={{ color: '#000000', textDecoration: 'none' }}
-                                >
-                                    <h2 className="text-5xl md:text-7xl font-serif text-black mb-10 leading-tight group-hover:text-[#B08D57] transition-colors duration-500 font-normal">
-                                        {art.title}
-                                    </h2>
-                                    <p className="text-gray-600 text-xl md:text-2xl leading-relaxed font-light mb-16 max-w-2xl mx-auto">
-                                        {art.description}
-                                    </p>
-                                    <div className="inline-flex flex-col items-center gap-8 text-[12px] uppercase tracking-[0.6em] text-[#B08D57] font-bold">
-                                        <span className="group-hover:translate-y-2 transition-transform duration-500">Read Analysis</span>
-                                        <div className="w-12 h-[1px] bg-[#B08D57] group-hover:w-48 transition-all duration-500"></div>
-                                    </div>
-                                </a>
-                            </article>
-                        )) : (
-                            <div className="text-center py-24 border-y border-gray-50 w-full">
-                                <p className="text-gray-400 font-light tracking-[0.4em] uppercase text-sm">Awaiting new intelligence briefings...</p>
+                                <span className="text-[10px] tracking-widest text-gray-400 uppercase font-medium">
+                                    {post.author}
+                                </span>
                             </div>
-                        )}
+
+                            <h2 className="font-serif text-2xl md:text-4xl text-black group-hover:text-[#B08D57] transition-colors duration-300 mb-6 leading-tight font-normal">
+                                {post.title}
+                            </h2>
+
+                            <p className="text-base text-gray-600 leading-relaxed mb-8 line-clamp-3 font-light">
+                                {post.description}
+                            </p>
+
+                            <div className="inline-flex items-center gap-3 text-[#B08D57] text-[10px] tracking-[0.2em] uppercase font-bold group-hover:translate-x-2 transition-transform duration-300">
+                                Read Analysis
+                                <ArrowRight className="w-3 h-3" />
+                            </div>
+                        </a>
+                    </article>
+                ))}
+
+                {posts.length === 0 && (
+                    <div className="flex flex-col items-center gap-8 py-24">
+                        <div className="w-full text-center py-24 border border-gray-50 bg-gray-50/30 rounded-sm">
+                            <p className="text-gray-400 text-sm tracking-widest uppercase">Awaiting new intelligence briefings...</p>
+                        </div>
                     </div>
-                </main>
+                )}
             </div>
         </div>
     );

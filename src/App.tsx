@@ -188,24 +188,36 @@ const App: React.FC = () => {
 
             {/* Centered Return Home Link */}
             {!slug && (
-              <div style={{ display: 'flex', justifyContent: 'center', marginTop: '60px', paddingBottom: '120px', width: '100%' }}>
+              <div style={{ display: 'flex', justifyContent: 'center', marginTop: '100px', paddingBottom: '120px', width: '100%' }}>
                 <a
                   href="/Hylten-Invest/"
                   style={{
-                    padding: '12px 28px',
+                    padding: '14px 32px',
                     background: '#FFFFFF',
-                    border: '1px solid rgba(0,0,0,0.1)',
-                    color: '#1A1A1A',
+                    border: '1px solid rgba(176, 141, 87, 0.2)',
+                    color: '#B08D57',
                     textDecoration: 'none',
                     fontSize: '10px',
-                    letterSpacing: '3px',
+                    letterSpacing: '4px',
                     textTransform: 'uppercase',
                     fontFamily: 'Inter, sans-serif',
-                    fontWeight: 500,
-                    borderRadius: '2px'
+                    fontWeight: 700,
+                    borderRadius: '0px',
+                    transition: 'all 0.4s ease',
+                    boxShadow: '0 4px 20px rgba(0,0,0,0.03)'
+                  }}
+                  onMouseOver={e => {
+                    e.currentTarget.style.background = '#1A1A1A';
+                    e.currentTarget.style.color = '#FFFFFF';
+                    e.currentTarget.style.borderColor = '#1A1A1A';
+                  }}
+                  onMouseOut={e => {
+                    e.currentTarget.style.background = '#FFFFFF';
+                    e.currentTarget.style.color = '#B08D57';
+                    e.currentTarget.style.borderColor = 'rgba(176, 141, 87, 0.2)';
                   }}
                 >
-                  Return Home
+                  Return to Home
                 </a>
               </div>
             )}
