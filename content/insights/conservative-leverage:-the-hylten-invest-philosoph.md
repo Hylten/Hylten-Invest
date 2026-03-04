@@ -1,10 +1,10 @@
 ---
 title: "Conservative Leverage: The Quiet Architecture of Hylten Invest"
-description: "A deep exploration of conservative leverage, private credit, and asset based lending for long-term liquidity stewardship."
+description: "A deep exploration of conservative leverage, private credit, and asset based liquidity engineering for long-term liquidity stewardship."
 date: "2025-11-06"
 author: "Jonas Hyltén"
 slug: "conservative-leverage:-the-hylten-invest-philosoph"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Conservative Leverage: The Hylten Invest Philosophy
@@ -27,7 +27,7 @@ Stable.
 Predictable in its mathematics.  
 Transparent in its constraints.
 
-This article explores how conservative leverage functions when built on private credit and asset based lending, how these structures offer liquidity without distortion, and why such frameworks serve HNWI and UHNW families seeking quiet authority in a volatile world.
+This article explores how conservative leverage functions when built on private credit and asset based liquidity engineering, how these structures offer liquidity without distortion, and why such frameworks serve HNWI and UHNW families seeking quiet authority in a volatile world.
 
 ## Long-Term Stewardship as a Capital Strategy
 

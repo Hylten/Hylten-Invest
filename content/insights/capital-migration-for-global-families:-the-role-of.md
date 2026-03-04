@@ -1,13 +1,13 @@
 ---
-title: "Capital Migration for Global Families: The Role of Sovereign Crypto Lending"
-description: "A high-level exploration of liquidity creation through private credit and asset based lending for global families seeking structural mobility."
+title: "Capital Migration for Global Families: The Role of Sovereign Crypto liquidity engineering"
+description: "A high-level exploration of liquidity creation through private credit and asset based liquidity engineering for global families seeking structural mobility."
 date: "2025-11-03"
 author: "Jonas Hyltén"
 slug: "capital-migration-for-global-families:-the-role-of"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
-# Capital Migration for Global Families: The Role of Sovereign Crypto Lending
+# Capital Migration for Global Families: The Role of Sovereign Crypto liquidity engineering
 
 Global families move differently than conventional investors.
 
@@ -31,12 +31,12 @@ A mechanism of sovereignty rather than exposure.
   
 
 Hylten-Invest operates at this intersection.  
-Our focus is private credit and asset based lending.  
+Our focus is private credit and asset based liquidity engineering.  
 We provide liquidity without forcing a family to exit long-term positions.  
 We lend against sophisticated assets with thresholds aligned to institutional profiles.
 
   
 
-In this article we explore how sovereign crypto lending, within a private credit framework, has become a critical tool for capital migration among global families.  
+In this article we explore how sovereign crypto liquidity engineering, within a private credit framework, has become a critical tool for capital migration among global families.  
 It is not a trend.  
 It is an emerging pillar of long-term stewardship.

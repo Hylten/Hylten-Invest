@@ -1,10 +1,10 @@
 ---
 title: "Protecting Legacy Assets with Private Credit"
-description: "A strategic exploration of private credit and asset based lending as liquidity instruments for safeguarding multi generational wealth."
+description: "A strategic exploration of private credit and asset based liquidity engineering as liquidity instruments for safeguarding multi generational wealth."
 date: "2025-11-17"
 author: "Jonas Hyltén"
 slug: "protecting-legacy-assets-with-private-credit"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Protecting Legacy Assets with Private Credit
@@ -35,7 +35,7 @@ At institutional depth and with private family discretion.
 
 ## The Purpose of Private Credit in Legacy Preservation
 
-Private credit has matured far beyond the opportunistic lending structures that defined the early years of the market.  
+Private credit has matured far beyond the opportunistic liquidity engineering structures that defined the early years of the market.  
 
 Today, private credit functions as a stabilizing backbone for wealth holders who understand the value of predictable mechanics.  
 
@@ -59,9 +59,9 @@ It reduces forced sales.
 
 It slows the portfolio down in a world that pushes everything to move faster.
 
-## Asset-Based Lending, A Counterpoint to Volatility
+## Asset-Based liquidity engineering, A Counterpoint to Volatility
 
-Asset Based Lending, ABL, is the quiet counterweight to market-driven liquidity strategies.  
+Asset Based liquidity engineering, ABL, is the quiet counterweight to market-driven liquidity strategies.  
 
 It is mechanical, not emotional.  
 
@@ -167,7 +167,7 @@ Protect.
 
 Continue.  
 
-## Lending Against Private Credit and ABL at Hylten-Invest
+## liquidity engineering Against Private Credit and ABL at Hylten-Invest
 
 Our framework is intentionally minimal.  
 
@@ -191,7 +191,7 @@ Our clients do not need speed.
 
 They need precision.  
 
-## Crypto Lending for Institutional-Grade Holders
+## Crypto liquidity engineering for Institutional-Grade Holders
 
 Digital assets have reached the point of institutional seriousness.  
 
@@ -199,7 +199,7 @@ Families now hold significant positions, either through allocation or inheritanc
 
 Yet liquidity around these assets remains inconsistent and often misaligned with long-term ownership.  
 
-Hylten-Invest provides crypto lending services for clients meeting a minimum threshold of 2,000,000 USD.  
+Hylten-Invest provides crypto liquidity engineering services for clients meeting a minimum threshold of 2,000,000 USD.  
 
 This ensures we work only with holders who think in strategic horizons, not speculative ones.  
 
@@ -211,7 +211,7 @@ Extract liquidity.
 
 Preserve core positions.  
 
-Crypto lending at this level is far removed from the retail derivatives world.  
+Crypto liquidity engineering at this level is far removed from the retail derivatives world.  
 
 It is conservative.  
 
@@ -219,7 +219,7 @@ It is overcollateralized.
 
 It is designed for families who think one or two cycles ahead, not one or two weeks.
 
-## Public Share Lending for Structured Liquidity
+## Public Share liquidity engineering for Structured Liquidity
 
 Public equities often hold substantial sentimental and strategic value in a family portfolio.  
 
@@ -231,7 +231,7 @@ This creates a paradox.
 
 The easiest assets to sell are often the ones that should be preserved.  
 
-Hylten-Invest resolves this dilemma through public share lending, available at a minimum threshold of 5,000,000 USD.  
+Hylten-Invest resolves this dilemma through public share liquidity engineering, available at a minimum threshold of 5,000,000 USD.  
 
 We provide liquidity while the client retains market exposure.  
 

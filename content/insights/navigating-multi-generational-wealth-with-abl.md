@@ -1,10 +1,10 @@
 ---
 title: "Navigating Multi-Generational Wealth with ABL"
-description: "A strategic exploration of liquidity, private credit, and asset based lending for multi-generational wealth preservation."
+description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth preservation."
 date: "2025-11-15"
 author: "Jonas Hyltén"
 slug: "navigating-multi-generational-wealth-with-abl"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Navigating Multi-Generational Wealth with ABL
@@ -17,7 +17,7 @@ Engineered through structure, liquidity access, disciplined leverage, and a long
 
   
 
-For the High Net Worth and Ultra High Net Worth families that understand this, asset based lending and private credit are no longer tactical tools. They are foundational mechanics for the continued relevance of a family balance sheet across generations.
+For the High Net Worth and Ultra High Net Worth families that understand this, asset based liquidity engineering and private credit are no longer tactical tools. They are foundational mechanics for the continued relevance of a family balance sheet across generations.
 
   
 
@@ -25,7 +25,7 @@ Hylten Invest operates in this quiet space. The space where capital efficiency m
 
   
 
-This article explores how families use ABL to navigate decades, not quarters. It explains why the right lending structure determines how well capital can move through time. And it highlights why private credit, crypto lending, and public share lending must be handled with institutional precision, not retail enthusiasm.
+This article explores how families use ABL to navigate decades, not quarters. It explains why the right liquidity engineering structure determines how well capital can move through time. And it highlights why private credit, crypto liquidity engineering, and public share liquidity engineering must be handled with institutional precision, not retail enthusiasm.
 
 ## Multi Generational Wealth Requires Stillness
 
@@ -64,7 +64,7 @@ ABL is one of those structural pillars.
 Private credit is another.
 
   
-Institutional lending discipline is the third.
+Institutional liquidity engineering discipline is the third.
 
   
 
@@ -80,7 +80,7 @@ Multi generational wealth does not survive without intention. It requires conser
 
   
 
-Asset based lending is not about debt. It is about continuity. It is about protecting the compounding base while enabling long term flexibility. It is about ensuring that capital serves the family, not the other way around.
+Asset based liquidity engineering is not about debt. It is about continuity. It is about protecting the compounding base while enabling long term flexibility. It is about ensuring that capital serves the family, not the other way around.
 
   
 

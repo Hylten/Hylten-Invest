@@ -4,7 +4,7 @@ description: "A long‑horizon framework for UHNW families seeking resilience, c
 date: "2025-11-11"
 author: "Jonas Hyltén"
 slug: "legacy-hardening:-protecting-uhnw-families-through"
-keywords: "private credit, asset based lending, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, Hylten-Invest"
 ---
 
 # Legacy Hardening: Protecting UHNW Families Through Strategic Capital Migration
@@ -179,7 +179,7 @@ Traditional safe havens no longer offer the protection they once did.
 
  
 
-Migration therefore includes reallocating capital into assets that exhibit structural durability. These include private credit, asset based lending, real asset exposure, and long term cash flow producing enterprises.  
+Migration therefore includes reallocating capital into assets that exhibit structural durability. These include private credit, asset based liquidity engineering, real asset exposure, and long term cash flow producing enterprises.  
 
  
 
@@ -201,7 +201,7 @@ Operational insulation prevents disruption, litigation targeting, exploitation, 
 
 Privacy is not secrecy. It is strategic coldness.  
 
-## Why Private Credit and Asset Based Lending Matter in Hardening Strategies
+## Why Private Credit and Asset Based liquidity engineering Matter in Hardening Strategies
 
 A hardened legacy requires predictable cash flows and non correlated exposure.  
 
@@ -211,7 +211,7 @@ Private credit provides this. It is structured, contractual, and insulated from 
 
  
 
-Asset based lending creates additional layers of security. The underlying collateral ensures durability of capital. This structure fits the conservative and long horizon needs of UHNW families who prefer stability over volatility.  
+Asset based liquidity engineering creates additional layers of security. The underlying collateral ensures durability of capital. This structure fits the conservative and long horizon needs of UHNW families who prefer stability over volatility.  
 
  
 

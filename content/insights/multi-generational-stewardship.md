@@ -4,7 +4,7 @@ description: "Insights on Multi Generational Stewardship from Roials Capital and
 date: "2025-11-14"
 author: "Jonas Hyltén"
 slug: "multi-generational-stewardship"
-keywords: "private credit, asset based lending, strategic capital"
+keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Multi Generational Stewardship  

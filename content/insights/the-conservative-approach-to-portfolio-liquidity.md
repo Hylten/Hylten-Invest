@@ -1,10 +1,10 @@
 ---
 title: "The Conservative Approach to Portfolio Liquidity for Long-Term Stewards of Capital"
-description: "A high-end perspective on liquidity management for HNWI and UHNW investors, with a focus on private credit and asset based lending solutions."
+description: "A high-end perspective on liquidity management for HNWI and UHNW investors, with a focus on private credit and asset based liquidity engineering solutions."
 date: "2025-11-27"
 author: "Jonas Hyltén"
 slug: "the-conservative-approach-to-portfolio-liquidity"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # The Conservative Approach to Portfolio Liquidity
@@ -157,11 +157,11 @@ It protects the strategic heart of the family’s wealth.
 
 A liquidity perimeter is built from:
 
-• Private credit lending  
-• Asset based lending  
-• Public share lending  
+• Private credit liquidity engineering  
+• Asset based liquidity engineering  
+• Public share liquidity engineering  
 • Institutional crypto facilities  
-• Conservatively calibrated loan-to-value ratios  
+• Conservatively calibrated liquidity facility-to-value ratios  
 • Counterparty strength  
 • Silent execution  
 
@@ -205,7 +205,7 @@ We lend against private credit and asset based structures.
 
 We extend facilities for public shares starting at five million dollars.
 
-We offer institutional crypto lending starting at two million dollars.
+We offer institutional crypto liquidity engineering starting at two million dollars.
 
 We operate through silence.
 

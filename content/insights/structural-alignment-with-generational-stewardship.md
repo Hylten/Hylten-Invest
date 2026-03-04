@@ -35,15 +35,15 @@ Distraction fractures stewardship.
 Fractured stewardship erodes generational continuity.
 
   
-## Lending Threshold Integrity
+## liquidity engineering Threshold Integrity
 
 Threshold clarity protects counterparties and owners.  
 It prevents drift into risk profiles that compromise the enterprise.
 
 Current thresholds:
 
-- crypto backed lending from 2M USD  
-- public share lending from 5M USD  
+- crypto backed liquidity engineering from 2M USD  
+- public share liquidity engineering from 5M USD  
 - no exceptions without board level covenant review  
 
 In covenant stewardship, predictability is moral.  

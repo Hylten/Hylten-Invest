@@ -1,10 +1,10 @@
 ---
 title: "The Stewardship of Private Wealth in 2026"
-description: "A high-level exploration of liquidity strategy and asset-based lending for HNWI and UHNW families seeking structural, conservative capital solutions."
+description: "A high-level exploration of liquidity strategy and asset-based liquidity engineering for HNWI and UHNW families seeking structural, conservative capital solutions."
 date: "2025-12-05"
 author: "Jonas Hyltén"
 slug: "the-stewardship-of-private-wealth-in-2026"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # The Stewardship of Private Wealth in 2026
@@ -24,7 +24,7 @@ Hylten-Invest functions in this space. We provide liquidity without destabilizin
 Private wealth management in 2026 is undergoing a structural shift, and that shift demands a return to fundamentals, although executed with modern tools.  
 
   
-This article explores how stewardship, liquidity, and asset-backed lending intersect in the current cycle. It outlines how Hylten-Invest positions itself as a conservative yet adaptive partner. And it provides directional clarity for those who view liquidity not as an event, but as an ongoing architecture.
+This article explores how stewardship, liquidity, and asset-backed liquidity engineering intersect in the current cycle. It outlines how Hylten-Invest positions itself as a conservative yet adaptive partner. And it provides directional clarity for those who view liquidity not as an event, but as an ongoing architecture.
 
   
 
@@ -70,7 +70,7 @@ It means building systems that can endure volatility without strain.
 In 2026, the families that thrive are those that adopt a structural approach to liquidity.  
 They use private credit to maintain stability.  
 They use ABL to convert value into function.  
-They use crypto lending and share lending with discipline.  
+They use crypto liquidity engineering and share liquidity engineering with discipline.  
 They avoid speculation disguised as opportunity.  
 
   
@@ -90,7 +90,7 @@ They will be the ones who build infrastructure that holds firm.
 
   
 Liquidity, collateral, and credit will remain foundational.  
-Asset-backed lending and private credit will continue their structural ascent.  
+Asset-backed liquidity engineering and private credit will continue their structural ascent.  
 Digital assets will integrate further into sophisticated balance sheets.  
 
   

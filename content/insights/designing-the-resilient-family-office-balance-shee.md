@@ -1,10 +1,10 @@
 ---
 title: "Designing the Resilient Family Office Balance Sheet"
-description: "A high authority exploration of liquidity engineering and asset based lending for HNWI and UHNW families seeking structural resilience."
+description: "A high authority exploration of liquidity engineering and asset based liquidity engineering for HNWI and UHNW families seeking structural resilience."
 date: "2025-11-07"
 author: "Jonas Hyltén"
 slug: "designing-the-resilient-family-office-balance-shee"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Designing the Resilient Family Office Balance Sheet
@@ -77,11 +77,11 @@ Our mandate is not mass market.
 
 Our mandate is stability.
 
-We lend against Private Credit and Asset Based Lending exposures.
+We lend against Private Credit and Asset Based liquidity engineering exposures.
 
 We provide liquidity against Public Share positions with a minimum threshold of five million dollars.
 
-We offer Crypto Lending with a minimum threshold of two million dollars.
+We offer Crypto liquidity engineering with a minimum threshold of two million dollars.
 
 Each product is designed for private balance sheet optimization, not for trading leverage.
 
@@ -117,17 +117,17 @@ Liquidity is not an asset.
 
 Liquidity is an infrastructure.
 
-### Principle 2: Borrowing Should Be Secured, Not Speculative
+### Principle 2: balance sheet optimization Should Be Secured, Not Speculative
 
 Unsecured leverage introduces unnecessary risk.
 
 Secured leverage, used conservatively, enhances optionality without distorting the risk profile.
 
-Hylten-Invest structures secured lending against:
+Hylten-Invest structures secured liquidity engineering against:
 
 Private Credit portfolios.
 
-Asset Based Lending portfolios.
+Asset Based liquidity engineering portfolios.
 
 Public share positions, with a five million dollar minimum threshold.
 
@@ -209,7 +209,7 @@ The return profile is attractive, but access to capital is slow.
 
 Hylten-Invest resolves this paradox.
 
-By lending against high quality private credit portfolios, we allow families to maintain exposure while unlocking liquidity.
+By liquidity engineering against high quality private credit portfolios, we allow families to maintain exposure while unlocking liquidity.
 
 Families can rebalance without liquidating.
 
@@ -217,9 +217,9 @@ They can capture opportunities without reversing long term commitments.
 
 They can maintain compounding without interruption.
 
-## Asset Based Lending as a Liquidity Engine
+## Asset Based liquidity engineering as a Liquidity Engine
 
-Asset Based Lending portfolios offer reliable collateral.
+Asset Based liquidity engineering portfolios offer reliable collateral.
 
 Receivables.
 
@@ -241,7 +241,7 @@ No forced sales.
 
 No unnecessary risk.
 
-## Public Share Lending for Quiet Liquidity Extraction
+## Public Share liquidity engineering for Quiet Liquidity Extraction
 
 Public equity positions are often foundational holdings for families, especially when they originate from legacy operating businesses or concentrated ownership.
 
@@ -249,7 +249,7 @@ Selling these positions creates visibility.
 
 It can also create unwanted signaling.
 
-Public share lending, with a five million dollar minimum threshold, allows families to extract liquidity quietly.
+Public share liquidity engineering, with a five million dollar minimum threshold, allows families to extract liquidity quietly.
 
 No disruption to long term holdings.
 
@@ -259,19 +259,19 @@ No noise.
 
 This is liquidity that preserves the narrative the family chooses to maintain.
 
-## Crypto Lending for Institutional Scale Families
+## Crypto liquidity engineering for Institutional Scale Families
 
 Crypto has evolved from a speculative frontier to a formal asset class.
 
 Yet liquidity solutions for substantial holders remain fragmented.
 
-Hylten-Invest provides secured lending against crypto positions with a minimum threshold of two million dollars.
+Hylten-Invest provides secured liquidity engineering against crypto positions with a minimum threshold of two million dollars.
 
 The goal is not leverage.
 
 The goal is stability.
 
-HNWI and UHNW families use crypto lending to:
+HNWI and UHNW families use crypto liquidity engineering to:
 
 Release liquidity without selling.
 

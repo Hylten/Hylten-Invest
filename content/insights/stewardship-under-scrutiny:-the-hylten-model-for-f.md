@@ -297,8 +297,8 @@ Liquidity buffers are essential for multi generational stewardship.
 
 The Hylten Model applies two clear thresholds.
 
-Crypto lending starting at 2M and above.  
-Public share lending starting at 5M and above.
+Crypto liquidity engineering starting at 2M and above.  
+Public share liquidity engineering starting at 5M and above.
 
 Both serve as liquidity stabilizers, not speculation channels.
 

@@ -1,10 +1,10 @@
 ---
 title: "Legacy Hardening for Multi-Generational Wealth: Structural Liquidity for Enduring Dynasties"
-description: "A high-end analysis of liquidity architecture, private credit, and asset based lending for long-term wealth preservation and strategic family continuity."
+description: "A high-end analysis of liquidity architecture, private credit, and asset based liquidity engineering for long-term wealth preservation and strategic family continuity."
 date: "2025-11-10"
 author: "Jonas Hyltén"
 slug: "legacy-hardening-for-multi-generational-wealth"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Legacy Hardening for Multi-Generational Wealth
@@ -59,7 +59,7 @@ The minimalist mindset ensures:
   
 • Clean collateral pathways.  
 
-• Clear loan mechanics.  
+• Clear liquidity facility mechanics.  
 
 • Predictable liquidity schedules.  
 
@@ -80,7 +80,7 @@ Where banks must generalize, we specialize.
 
 Where institutions optimize for average outcomes, we optimize for continuity and control.  
 
-Where mass affluent products dominate the market, we remain focused on private credit, asset backed lending, and specialized liquidity solutions for families that require institutional mechanics without institutional exposure.
+Where mass affluent products dominate the market, we remain focused on private credit, asset backed liquidity engineering, and specialized liquidity solutions for families that require institutional mechanics without institutional exposure.
 
 Our environment is built for:
 
@@ -106,7 +106,7 @@ It is a slow, precise, architectural process.
 
 When families reinforce their liquidity, collateral, and structural capacity, they create something rare. They create endurance. They create a legacy that future generations do not simply inherit but can actually operate.
 
-Hylten‑Invest functions as the silent structural layer that supports this endurance. Private credit. Asset based lending. Institutional level crypto and public share lending. All delivered with quiet authority, conservative mechanics, and long term stewardship at the center.
+Hylten‑Invest functions as the silent structural layer that supports this endurance. Private credit. Asset based liquidity engineering. Institutional level crypto and public share liquidity engineering. All delivered with quiet authority, conservative mechanics, and long term stewardship at the center.
 
 For the families that think in decades, the priority is clear. Harden the architecture now. Ensure continuity later. Build quietly. Preserve intentionally. And carry the legacy without interruption.
 

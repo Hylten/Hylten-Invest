@@ -1,10 +1,10 @@
 ---
 title: "Legacy Hardening: The Hylten Invest Philosophy of Enduring Liquidity"
-description: "A high‑end exploration of liquidity architecture, private credit, and asset based lending for long‑term wealth preservation and HNWI strategy."
+description: "A high‑end exploration of liquidity architecture, private credit, and asset based liquidity engineering for long‑term wealth preservation and HNWI strategy."
 date: "2025-11-12"
 author: "Jonas Hyltén"
 slug: "legacy-hardening:-the-hylten-invest-philosophy"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Legacy Hardening: The Hylten Invest Philosophy
@@ -87,7 +87,7 @@ Not weaken it.
 
 Not overextend it.  
 
-Through disciplined private credit and ABL, every lending cycle becomes a reinforcement cycle.  
+Through disciplined private credit and ABL, every liquidity engineering cycle becomes a reinforcement cycle.  
 
 A cycle that hardens the legacy.  
 
@@ -131,11 +131,11 @@ We serve:
 • Institutional‑scale private clients.  
 • Stewards of multi‑generational capital.  
 
-Our lending minimums reflect this focus.  
+Our liquidity engineering minimums reflect this focus.  
 
-2,000,000 USD for crypto lending.  
+2,000,000 USD for crypto liquidity engineering.  
 
-5,000,000 USD for public share lending.  
+5,000,000 USD for public share liquidity engineering.  
 
 These thresholds ensure alignment.  
 
@@ -187,7 +187,7 @@ We examine assets not by their surface value, but by their structural value.
 
 We identify the liquidity nodes, the tension points, and the stability anchors.  
 
-We then construct lending frameworks that convert these assets into reinforced liquidity.  
+We then construct liquidity engineering frameworks that convert these assets into reinforced liquidity.  
 
 The process is deliberately slow.  
 
@@ -221,7 +221,7 @@ To the next generation.
 
 Hylten Invest exists to serve the long horizon.  
 
-Our lending systems are built for families and individuals who measure time differently.  
+Our liquidity engineering systems are built for families and individuals who measure time differently.  
 
 Our philosophy is quiet, disciplined, conservative, and intentionally minimal.  
 

@@ -1,10 +1,10 @@
 ---
 title: "Protecting Wealth Through Institutional Grade ABL"
-description: "A strategic overview of how High Net Worth investors preserve liquidity and stability through institutional grade asset based lending and private credit structures."
+description: "A strategic overview of how High Net Worth investors preserve liquidity and stability through institutional grade asset based liquidity engineering and private credit structures."
 date: "2025-11-18"
 author: "Jonas Hyltén"
 slug: "protecting-wealth-via-institutional-grade-abl"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Protecting Wealth via Institutional Grade ABL
@@ -21,11 +21,11 @@ High Net Worth and Ultra High Net Worth families eventually reach a point where 
 
   
 
-Institutional Grade Asset Based Lending provides that architecture. It delivers controlled liquidity without forcing the sale of strategic assets, and it introduces a disciplined structure around capital that aligns with long term stewardship.  
+Institutional Grade Asset Based liquidity engineering provides that architecture. It delivers controlled liquidity without forcing the sale of strategic assets, and it introduces a disciplined structure around capital that aligns with long term stewardship.  
 
   
 
-Hylten-Invest operates in this space with a singular purpose. We provide lending mechanisms that sit quietly behind significant balance sheets, offering stability, liquidity, and structural clarity for those who measure their horizon in decades rather than years.
+Hylten-Invest operates in this space with a singular purpose. We provide liquidity engineering mechanisms that sit quietly behind significant balance sheets, offering stability, liquidity, and structural clarity for those who measure their horizon in decades rather than years.
 
   
 

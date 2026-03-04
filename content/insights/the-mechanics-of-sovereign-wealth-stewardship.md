@@ -1,10 +1,10 @@
 ---
 title: "The Mechanics of Sovereign Wealth Stewardship"
-description: "A high level exploration of liquidity architecture and asset based lending for HNWI and UHNW investors seeking long term stewardship."
+description: "A high level exploration of liquidity architecture and asset based liquidity engineering for HNWI and UHNW investors seeking long term stewardship."
 date: "2025-12-03"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-wealth-stewardship"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # The Mechanics of Sovereign Wealth Stewardship
@@ -41,8 +41,8 @@ They need mechanics, not marketing.
   
 
 Private credit.  
-ABL lending.  
-Public share lending.  
+ABL liquidity engineering.  
+Public share liquidity engineering.  
 Crypto collateral frameworks.
 
   
@@ -51,7 +51,7 @@ These mechanisms give families the same flexibility that large institutions take
 
 ## Strategic Applications of Collateralized Liquidity
 
-Collateral based lending is not an end in itself. It is a tool that enables broader strategic movement.
+Collateral based liquidity engineering is not an end in itself. It is a tool that enables broader strategic movement.
 
   
 
@@ -101,7 +101,7 @@ Time, when paired with liquidity, becomes a defensive moat.
 
   
 
-Families who do not need to sell can remain patient. Families who have liquidity can act at precisely the right moment. Families who have structural borrowing can maintain their positions through downturns and avoid forced decisions.
+Families who do not need to sell can remain patient. Families who have liquidity can act at precisely the right moment. Families who have structural balance sheet optimization can maintain their positions through downturns and avoid forced decisions.
 
   
 
@@ -138,10 +138,10 @@ Sovereign wealth stewardship requires more than investment expertise. It require
   
 
 Hylten-Invest provides the liquidity mechanics that support this philosophy.  
-Private credit lending.  
-Asset Based Lending.  
-Crypto lending from two million dollars.  
-Public share lending from five million dollars.  
+Private credit liquidity engineering.  
+Asset Based liquidity engineering.  
+Crypto liquidity engineering from two million dollars.  
+Public share liquidity engineering from five million dollars.  
 Structural discretion for families that do not seek attention.
 
   

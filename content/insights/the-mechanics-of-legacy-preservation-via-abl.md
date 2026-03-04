@@ -1,10 +1,10 @@
 ---
 title: "The Mechanics of Legacy Preservation via ABL"
-description: "An in depth exploration of how Asset Based Lending and private credit provide liquidity, stability, and long term legacy preservation for HNWI and UHNW families."
+description: "An in depth exploration of how Asset Based liquidity engineering and private credit provide liquidity, stability, and long term legacy preservation for HNWI and UHNW families."
 date: "2025-12-02"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-legacy-preservation-via-abl"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # The Mechanics of Legacy Preservation via ABL
@@ -21,7 +21,7 @@ Families that endure understand this.
 
 They know that wealth which survives beyond a single generation must be reshaped into a system, not a series of transactions.
 
-This is the philosophical foundation of Asset Based Lending within high net worth structures.
+This is the philosophical foundation of Asset Based liquidity engineering within high net worth structures.
 
 It is where liquidity is engineered, not requested.
 
@@ -77,7 +77,7 @@ This is crucial for families who value stability, privacy, and continuity.
 
 ## ABL as a Multi-Generational Tool
 
-A well-structured lending line becomes part of the family office architecture.
+A well-structured liquidity engineering line becomes part of the family office architecture.
 
 It provides liquidity for:
 
@@ -118,7 +118,7 @@ A minimalist credit structure is:
 • free of unnecessary conditions  
 • engineered for clarity  
 
-At Hylten-Invest, the lending process reflects this philosophy.
+At Hylten-Invest, the liquidity engineering process reflects this philosophy.
 
 We do not impose complexity for the sake of formality.
 
@@ -140,7 +140,7 @@ They will require structures that survive technological shifts.
 
 They will require partners who operate with quiet precision.
 
-Asset Based Lending will be a primary tool in that future.
+Asset Based liquidity engineering will be a primary tool in that future.
 
 Private credit will continue to expand its role in family office balance sheets.
 
@@ -166,7 +166,7 @@ It is a way of approaching capital that respects time, structure, and intention.
 
 Liquefying assets without dismantling positions is an essential part of this discipline.
 
-This is why Asset Based Lending remains one of the most powerful tools available to families that build for generations.
+This is why Asset Based liquidity engineering remains one of the most powerful tools available to families that build for generations.
 
 For those who require quiet liquidity and structural clarity, Hylten-Invest operates with silent authority.
 

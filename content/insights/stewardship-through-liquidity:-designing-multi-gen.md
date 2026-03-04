@@ -201,7 +201,7 @@ Families often use a mix of the following.
 
 Equities and fixed income portfolios provide flexibility and fast execution.  
 
-They create predictable borrowing bases and are ideal for short and medium duration structures.
+They create predictable balance sheet optimization bases and are ideal for short and medium duration structures.
 
 ### Real Estate
 
@@ -232,7 +232,7 @@ Three areas deserve particular focus.
 ### Governance Framework
 
 A credit governance framework defines:  
-• Who approves borrowing.  
+• Who approves balance sheet optimization.  
 • How risk is assessed.  
 • When to increase or reduce credit usage.  
 • What reporting is required.  

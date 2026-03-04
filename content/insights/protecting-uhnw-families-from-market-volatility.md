@@ -1,10 +1,10 @@
 ---
 title: "Strategic Liquidity Architecture for UHNW Families in Volatile Markets"
-description: "A high‑end overview of how UHNW families protect liquidity through private credit and asset based lending structures."
+description: "A high‑end overview of how UHNW families protect liquidity through private credit and asset based liquidity engineering structures."
 date: "2025-11-18"
 author: "Jonas Hyltén"
 slug: "protecting-uhnw-families-from-market-volatility"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Protecting UHNW Families from Market Volatility  
@@ -16,10 +16,10 @@ Hylten‑Invest sits at the intersection: a silent authority that enables both.
 
 Liquidity is the stabilizing force during market stress.  
 For UHNW families, true protection is not built on prediction.  
-It is engineered through lending frameworks that remain functional regardless of sentiment, volatility, or political turbulence.
+It is engineered through liquidity engineering frameworks that remain functional regardless of sentiment, volatility, or political turbulence.
 
 Hylten‑Invest specializes in this form of quiet continuity.  
-We provide liquidity through private credit and asset based lending structures, the same frameworks institutional allocators use to immunize themselves from volatility.
+We provide liquidity through private credit and asset based liquidity engineering structures, the same frameworks institutional allocators use to immunize themselves from volatility.
 
 Our clients rely on us because we do not speculate.  
 We secure.  
@@ -34,7 +34,7 @@ It removes emotional decision making and enforces discipline across multi‑bran
 
   
 ### Balance Sheet Smoothing  
-Asset backed lending removes short‑term distortions and keeps the long view intact.  
+Asset backed liquidity engineering removes short‑term distortions and keeps the long view intact.  
 The family maintains composure while markets fluctuate.
 
   
@@ -73,7 +73,7 @@ The advantages for UHNW families include:
 • Silent execution with minimal operational burden  
 
   
-• Predictable long‑term lending relationships  
+• Predictable long‑term liquidity engineering relationships  
 
   
 • Structures designed specifically for portfolios over 25 million  

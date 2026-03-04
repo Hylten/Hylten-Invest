@@ -43,7 +43,7 @@ Not consumable.
 Not ornamental.  
 But structural.  
 
-Covenant stewardship means that every allocation. Every loan. Every acquisition. Must honor the source and the purpose of the capital being deployed.
+Covenant stewardship means that every allocation. Every liquidity facility. Every acquisition. Must honor the source and the purpose of the capital being deployed.
 
 Institutional audiences understand the permanence of mandate.  
 Christian owners understand its morality.
@@ -87,8 +87,8 @@ No ideology.
 Only verification.  
 Only discipline.
 
-Crypto lending thresholds start at 2M.  
-Public share lending thresholds start at 5M.  
+Crypto liquidity engineering thresholds start at 2M.  
+Public share liquidity engineering thresholds start at 5M.  
 Everything below those levels lacks structural alignment.
 
 Asset hardening is not about defense.  
@@ -305,7 +305,7 @@ It is a tool in the hands of a steward called to:
 
 The Theology of Capital is not theoretical.  
 It is operational.  
-It shapes every loan.  
+It shapes every liquidity facility.  
 Every structure.  
 Every decision.
 

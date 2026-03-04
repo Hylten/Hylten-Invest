@@ -1,10 +1,10 @@
 ---
 title: "The Stewardship of Sovereign Assets and the Architecture of Enduring Liquidity"
-description: "A high-end exploration of liquidity stewardship for HNWI and UHNW investors, with focus on private credit, asset based lending, and structural liquidity solutions."
+description: "A high-end exploration of liquidity stewardship for HNWI and UHNW investors, with focus on private credit, asset based liquidity engineering, and structural liquidity solutions."
 date: "2025-12-05"
 author: "Jonas Hyltén"
 slug: "the-stewardship-of-sovereign-assets-and-liquidity"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # The Stewardship of Sovereign Assets and the Architecture of Enduring Liquidity
@@ -29,7 +29,7 @@ This is the essence of sovereign stewardship.
 
 ## Conclusion
 
-Sovereign families and private investors require more than capital. They require structure. Liquidity that supports, not disrupts. Lending that preserves, not dilutes.
+Sovereign families and private investors require more than capital. They require structure. Liquidity that supports, not disrupts. liquidity engineering that preserves, not dilutes.
 
 Hylten-Invest exists to provide this foundation.
 

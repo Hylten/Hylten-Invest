@@ -4,7 +4,7 @@ description: "Insights on Family Office Legacy Allocation from Roials Capital an
 date: "2025-11-08"
 author: "Jonas Hyltén"
 slug: "family-office-legacy-allocation"
-keywords: "private credit, asset based lending, strategic capital"
+keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Family Office Legacy Allocation  

@@ -1,10 +1,10 @@
 ---
 title: "Conservative ABL for UHNW Capital Migration"
-description: "A high end analysis of conservative asset based lending and private credit structures for UHNW liquidity without asset displacement."
+description: "A high end analysis of conservative asset based liquidity engineering and private credit structures for UHNW liquidity without asset displacement."
 date: "2025-11-04"
 author: "Jonas Hyltén"
 slug: "conservative-abl-for-uhnw-capital-migration"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Conservative ABL for UHNW Capital Migration
@@ -19,7 +19,7 @@ We work with High Net Worth and Ultra High Net Worth individuals who understand 
 
 Not from liquidation.
 
-Through conservative Asset Based Lending and institutional grade private credit frameworks, we create liquidity events that protect principal while enabling long term strategic optionality.
+Through conservative Asset Based liquidity engineering and institutional grade private credit frameworks, we create liquidity events that protect principal while enabling long term strategic optionality.
 
 Our purpose is to strengthen the financial position of families, principals, and multi generational holdings.
 
@@ -49,7 +49,7 @@ This is the long view.
 
 ## Conclusion
 
-Hylten-Invest provides conservative Asset Based Lending and private credit structures for UHNW individuals who require liquidity without displacement.
+Hylten-Invest provides conservative Asset Based liquidity engineering and private credit structures for UHNW individuals who require liquidity without displacement.
 
 We operate quietly.
 

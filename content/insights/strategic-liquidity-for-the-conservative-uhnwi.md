@@ -1,10 +1,10 @@
 ---
 title: "Strategic Liquidity for the Conservative UHNWI"
-description: "A high‑end analysis of liquidity architecture for HNWI and UHNW investors, focusing on private credit and asset based lending solutions."
+description: "A high‑end analysis of liquidity architecture for HNWI and UHNW investors, focusing on private credit and asset based liquidity engineering solutions."
 date: "2025-11-25"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-the-conservative-uhnwi"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Strategic Liquidity for the Conservative UHNWI
@@ -69,7 +69,7 @@ It should adapt.
 It should respond.  
 It should integrate with the broader capital map.  
 
-By lending against private credit, asset backed positions, crypto, and public shares, we create a liquidity environment that moves with the family’s priorities.  
+By liquidity engineering against private credit, asset backed positions, crypto, and public shares, we create a liquidity environment that moves with the family’s priorities.  
 
 This enables three core outcomes.  
 

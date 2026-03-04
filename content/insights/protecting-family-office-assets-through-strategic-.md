@@ -1,10 +1,10 @@
 ---
 title: "Strategic ABL Diversification for Long Term Family Office Protection"
-description: "A high level perspective on liquidity preservation and asset protection through private credit and asset based lending for HNWI and Family Offices."
+description: "A high level perspective on liquidity preservation and asset protection through private credit and asset based liquidity engineering for HNWI and Family Offices."
 date: "2025-11-17"
 author: "Jonas Hyltén"
 slug: "protecting-family-office-assets-through-strategic-"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Protecting Family Office Assets Through Strategic ABL Diversification
@@ -33,7 +33,7 @@ Banks offer structure but not flexibility.
 
 Private markets offer yield but not access.  
 
-This is where Asset Based Lending, backed by high quality private credit and institutional grade collateral, provides an alternative path.  
+This is where Asset Based liquidity engineering, backed by high quality private credit and institutional grade collateral, provides an alternative path.  
 
 The right ABL structure respects the conservative nature of family offices and preserves the privacy, independence, and strategic silence required for complex estates.  
 
@@ -83,7 +83,7 @@ Which positions are valuable but illiquid.
 
 Which holdings carry structural importance and should never be sold for liquidity purposes.  
 
-Once this mapping is complete, the office can identify where lending against private credit, crypto positions, or concentrated public holdings can eliminate risk without adding volatility.  
+Once this mapping is complete, the office can identify where liquidity engineering against private credit, crypto positions, or concentrated public holdings can eliminate risk without adding volatility.  
 
 The goal is not leverage.  
 

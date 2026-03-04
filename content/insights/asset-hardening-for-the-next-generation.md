@@ -1,10 +1,10 @@
 ---
 title: "Asset Hardening for the Next Generation"
-description: "A strategic exploration of liquidity architecture and Asset-Based Lending designed for HNWI and UHNW families seeking structural resilience."
+description: "A strategic exploration of liquidity architecture and Asset-Based liquidity engineering designed for HNWI and UHNW families seeking structural resilience."
 date: "2025-11-01"
 author: "Jonas Hyltén"
 slug: "asset-hardening-for-the-next-generation"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Asset Hardening for the Next Generation
@@ -22,7 +22,7 @@ Asset hardening is not a trend.
 It is a timeless discipline.  
 
 HNWI and UHNW families who adopt structural liquidity gain resilience, autonomy, and clarity.  
-With private credit lending, ABL strategies, crypto lending above 2,000,000 dollars, and public share lending above 5,000,000 dollars, Hylten-Invest provides the silent mechanics that support long term stewardship.  
+With private credit liquidity engineering, ABL strategies, crypto liquidity engineering above 2,000,000 dollars, and public share liquidity engineering above 5,000,000 dollars, Hylten-Invest provides the silent mechanics that support long term stewardship.  
 
 For those who seek measured strength and institutional caliber discretion, the next step is a conversation.  
 

@@ -1,10 +1,10 @@
 ---
 title: "The Sovereign Legacy: Building Eternal Capital"
-description: "A high‑end exploration of liquidity architecture, private credit, and asset based lending for long‑term capital stewardship."
+description: "A high‑end exploration of liquidity architecture, private credit, and asset based liquidity engineering for long‑term capital stewardship."
 date: "2025-12-04"
 author: "Jonas Hyltén"
 slug: "the-sovereign-legacy:-building-eternal-capital"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # The Sovereign Legacy: Building Eternal Capital
@@ -37,7 +37,7 @@ It requires instruments that retain optionality.
 
 It requires partnerships that provide silence where others provide spectacle.
 
-Hylten‑Invest exists in this space, providing access to private credit lending and asset based lending for individuals and entities that move capital on an institutional scale.
+Hylten‑Invest exists in this space, providing access to private credit liquidity engineering and asset based liquidity engineering for individuals and entities that move capital on an institutional scale.
 
 Our position is not to overwhelm, but to underpin.
 
@@ -67,9 +67,9 @@ It maintains the sovereignty of the portfolio.
 
 This is the essence of long‑term stewardship.
 
-## Asset Based Lending with Institutional Clarity
+## Asset Based liquidity engineering with Institutional Clarity
 
-Asset based lending has existed for centuries.
+Asset based liquidity engineering has existed for centuries.
 
 What differentiates its modern form is the degree of sophistication behind the valuation, the liquidity analysis, and the risk containment.
 
@@ -95,9 +95,9 @@ ABL is not about unlocking capital.
 
 It is about unlocking continuity.
 
-## Crypto Lending, The Conservative Way
+## Crypto liquidity engineering, The Conservative Way
 
-Crypto lending, at our level, is not a speculative service.
+Crypto liquidity engineering, at our level, is not a speculative service.
 
 It is a liquidity design for digital asset holders who operate with scale and discipline.
 
@@ -117,15 +117,15 @@ Crypto is simply another asset class.
 
 It is treated with the same rigor as any other part of the portfolio.
 
-## Public Share Lending for Strategic Liquidity
+## Public Share liquidity engineering for Strategic Liquidity
 
 Public equities often hold significant value inside UHNW portfolios, yet they are frequently under‑optimized due to tax considerations or long‑term strategic positions.
 
 Selling is rarely desirable.
 
-Borrowing provides the flexibility required to move capital without altering ownership.
+balance sheet optimization provides the flexibility required to move capital without altering ownership.
 
-Our public share lending begins at five million dollars, which aligns with the scale at which such structures are most effective.
+Our public share liquidity engineering begins at five million dollars, which aligns with the scale at which such structures are most effective.
 
 Clients access liquidity while retaining dividends, voting rights, and long‑term upside.
 
@@ -277,7 +277,7 @@ The creation of eternal capital is not reserved for empires or institutions.
 
 It is available to families, founders, and visionaries who choose to treat their wealth with intention.
 
-Private credit, asset based lending, crypto lending, and public share lending are not isolated tools.
+Private credit, asset based liquidity engineering, crypto liquidity engineering, and public share liquidity engineering are not isolated tools.
 
 They are components of a greater architecture.
 

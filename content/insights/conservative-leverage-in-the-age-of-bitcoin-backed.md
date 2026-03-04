@@ -1,10 +1,10 @@
 ---
 title: "Conservative Leverage in the Age of Bitcoin Backed Finance"
-description: "A strategic exploration of liquidity, private credit, and asset based lending for HNWI and UHNW investors seeking conservative leverage structures."
+description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking conservative leverage structures."
 date: "2025-11-06"
 author: "Jonas Hyltén"
 slug: "conservative-leverage-in-the-age-of-bitcoin-backed"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Conservative Leverage in the Age of Bitcoin Backed Finance
@@ -43,7 +43,7 @@ Conservative leverage is a system.
 
 Private credit is a system.  
 
-Asset based lending is a system.  
+Asset based liquidity engineering is a system.  
 
 Bitcoin backed liquidity is a system.  
 
@@ -65,15 +65,15 @@ But stewardship, when practiced correctly, remains constant.
 
 ## The Future of Conservative Liquidity
 
-The next decade will be defined by the integration of digital collateral into traditional lending frameworks.  
+The next decade will be defined by the integration of digital collateral into traditional liquidity engineering frameworks.  
 
 Families that accept this shift early will benefit from an unprecedented combination of security and flexibility.  
 
 Bitcoin will function as an institutional treasury asset.  
 
-Private credit will continue to expand as the core lending framework for non bank entities.  
+Private credit will continue to expand as the core liquidity engineering framework for non bank entities.  
 
-Asset based lending will grow as families diversify their holdings across multiple asset categories.  
+Asset based liquidity engineering will grow as families diversify their holdings across multiple asset categories.  
 
 Hylten Invest is positioned at the intersection of these evolutions.  
 

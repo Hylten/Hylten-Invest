@@ -85,7 +85,7 @@ The firm does not chase trends.
 It reinforces foundations.  
 Industrial clarity over market noise.
 
-Private credit and structured lending remain the modern extension of this legacy.  
+Private credit and structured liquidity engineering remain the modern extension of this legacy.  
 Not speculative.  
 Not derivative.  
 A return to fundamentals: collateral, covenant, and competence.
@@ -121,8 +121,8 @@ It levels the field for institutional capital that requires precision, not persu
 
 Minimum thresholds remain strict.
 
-- Digital assets lending starts at 2M.  
-- Public equities lending begins at 5M.  
+- Digital assets liquidity engineering starts at 2M.  
+- Public equities liquidity engineering begins at 5M.  
 Below these levels, the covenant loses efficiency.
 
 The threshold is not exclusion.  
@@ -318,7 +318,7 @@ This is why the Hylten architecture commands authority beyond its size.
 
 ## The Mandate Going Forward
 
-The covenant stewardship model will guide future expansions of Hylten-Invest across asset based lending, private credit, and structured liquidity.
+The covenant stewardship model will guide future expansions of Hylten-Invest across asset based liquidity engineering, private credit, and structured liquidity.
 
 Priorities remain:
 

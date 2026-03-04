@@ -1,10 +1,10 @@
 ---
 title: "The Hylten Invest Model for Asset Hardening"
-description: "A high-level exploration of liquidity creation through Private Credit and Asset-Based Lending for long-term asset hardening."
+description: "A high-level exploration of liquidity creation through Private Credit and Asset-Based liquidity engineering for long-term asset hardening."
 date: "2025-12-01"
 author: "Jonas Hyltén"
 slug: "the-hylten-invest-model-for-asset-hardening"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # The Hylten Invest Model for Asset Hardening
@@ -25,7 +25,7 @@ It is minimalist in appearance and conservative in execution.
 
   
 
-Behind the surface, it is engineered to institutional standards, positioned with silent authority, and delivered through a disciplined approach to private credit and asset based lending.
+Behind the surface, it is engineered to institutional standards, positioned with silent authority, and delivered through a disciplined approach to private credit and asset based liquidity engineering.
 
 ## Liquidity Without Distortion
 
@@ -45,7 +45,7 @@ The Hylten Invest Model ensures that liquidity is always supportive, never extra
 
   
 
-This is achieved through disciplined loan to value practices, conservative collateralization, and clear risk pathways.
+This is achieved through disciplined liquidity facility to value practices, conservative collateralization, and clear risk pathways.
 
   
 
@@ -131,7 +131,7 @@ HNWI and UHNW clients benefit most from clarity. When a structure is minimal, ac
 
 This minimalist discipline guides all components of the Hylten Invest Model.
 
-## The Role of Discipline in Lending Relationships
+## The Role of Discipline in liquidity engineering Relationships
 
 Discipline protects both sides of the relationship.
 
@@ -149,7 +149,7 @@ It protects the long term objectives from short term decisions.
 
   
 
-Every lending relationship at Hylten Invest begins with a focus on alignment. We assess whether the liquidity request supports or undermines the client’s stated objectives.
+Every liquidity engineering relationship at Hylten Invest begins with a focus on alignment. We assess whether the liquidity request supports or undermines the client’s stated objectives.
 
   
 

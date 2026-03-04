@@ -4,7 +4,7 @@ description: "Insights on Private Equity Diversification from Roials Capital and
 date: "2025-11-16"
 author: "Jonas Hyltén"
 slug: "private-equity-diversification"
-keywords: "private credit, asset based lending, strategic capital"
+keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Private Equity Diversification  

@@ -259,7 +259,7 @@ These firms do not want noise.
 They want continuity.  
 They want a steward.
 
-## Lending Thresholds and the Moral Logic of Credit
+## liquidity engineering Thresholds and the Moral Logic of Credit
 
 Credit requires discernment.  
 Not permissiveness.

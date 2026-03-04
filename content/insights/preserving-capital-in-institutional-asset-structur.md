@@ -1,10 +1,10 @@
 ---
 title: "Preserving Capital Through Institutional Asset Structures"
-description: "A high‑end analysis of liquidity preservation and asset based lending for HNWI and UHNW investors seeking institutional stability and credit optionality."
+description: "A high‑end analysis of liquidity preservation and asset based liquidity engineering for HNWI and UHNW investors seeking institutional stability and credit optionality."
 date: "2025-11-16"
 author: "Jonas Hyltén"
 slug: "preserving-capital-in-institutional-asset-structur"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
 # Preserving Capital in Institutional Asset Structures
@@ -31,7 +31,7 @@ This is the domain in which Hylten-Invest operates.
 
 We provide the mechanics that allow private balance sheets to behave like institutional ones.  
 
-Through private credit lending, asset-based lending, and structured liquidity solutions, we support investors who are building generational frameworks rather than temporary portfolios.  
+Through private credit liquidity engineering, asset-based liquidity engineering, and structured liquidity solutions, we support investors who are building generational frameworks rather than temporary portfolios.  
 
 ## Building a Long-Term Institutional Liquidity Strategy
 
@@ -46,7 +46,7 @@ It allows investors to make decisions from a position of strength rather than ne
 A modern institutional liquidity strategy typically includes:
 
 • Structured private credit  
-• Asset based lending  
+• Asset based liquidity engineering  
 • Strategic leverage without disruption  
 • Liquidity access across market conditions  
 • Preservation of core holdings  
@@ -91,7 +91,7 @@ Deliberate.
 
 It supports families, private investors, and capital groups across generations.  
 
-Through private credit, asset based lending, crypto lending, and public share lending, Hylten-Invest provides the institutional mechanics required to create and maintain long-term liquidity without sacrificing core asset positions.  
+Through private credit, asset based liquidity engineering, crypto liquidity engineering, and public share liquidity engineering, Hylten-Invest provides the institutional mechanics required to create and maintain long-term liquidity without sacrificing core asset positions.  
 
 For the investors who prefer precision over noise, and structure over speculation, the next step is simple.  
 
