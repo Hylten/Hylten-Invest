@@ -2,9 +2,9 @@
 title: "Long-Term Asset Stewardship in Private Credit"
 description: "A high-end exploration of liquidity architecture and asset-based liquidity engineering for HNWI and UHNW investors seeking long-term private credit stewardship."
 date: "2025-11-09"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "long-term-asset-stewardship-in-private-credit"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Long-Term Asset Stewardship in Private Credit
@@ -18,7 +18,7 @@ It now sits at the intersection of liquidity needs, multigenerational wealth str
 For High Net Worth and Ultra High Net Worth individuals, the shift toward private credit is not a trend. It is a structural pivot. It reflects a deeper recognition that capital management today must be more adaptable, more insulated, and more aligned with long-term control of assets.
 
   
-Within this environment, Hylten-Invest focuses on asset based liquidity engineering and private credit structures built for long-term stewardship. Our approach is conservative, minimalist, and designed to serve as a silent authority behind the balance sheets of those who require liquidity without exposure.
+Within this environment, Hyltén Invest focuses on asset based liquidity engineering and private credit structures built for long-term stewardship. Our approach is conservative, minimalist, and designed to serve as a silent authority behind the balance sheets of those who require liquidity without exposure.
 
   
 We lend against private assets.  
@@ -59,7 +59,7 @@ For large private holders, the future is defined by autonomy. Autonomy of action
 Private credit is one of the few tools that enhances autonomy rather than reducing it.
 
   
-Hylten-Invest engages with clients who prefer clarity over complexity. Silence over noise. Structure over speculation. Wealth is preserved when the architecture around it is stable and flexible. Stewardship is the method through which that stability is maintained.
+Hyltén Invest engages with clients who prefer clarity over complexity. Silence over noise. Structure over speculation. Wealth is preserved when the architecture around it is stable and flexible. Stewardship is the method through which that stability is maintained.
 
 ## The Horizon Ahead
 
@@ -69,9 +69,9 @@ Long-term private credit stewardship will continue to expand as the global finan
 HNWI and UHNW families will therefore continue to seek private credit partners that provide consistency. Partners that operate with restraint. Partners that prioritize structural clarity over growth for its own sake.
 
   
-Hylten-Invest remains committed to this position. We provide liquidity engineering that protects capital. liquidity engineering that respects long-term holdings. liquidity engineering that aligns with multigenerational purpose.
+Hyltén Invest remains committed to this position. We provide liquidity engineering that protects capital. liquidity engineering that respects long-term holdings. liquidity engineering that aligns with multigenerational purpose.
 
 ## Contact for stewardship discussion
 
-Hylten-Invest maintains a focused and selective approach.  
+Hyltén Invest maintains a focused and selective approach.  
 For inquiries related to long-term asset stewardship and private credit structures, contact for a stewardship discussion.

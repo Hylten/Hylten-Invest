@@ -2,14 +2,14 @@
 title: "Conservative Capital Deployment for Enduring Stability"
 description: "A strategic exploration of liquidity and asset based liquidity engineering for HNWI and UHNW investors seeking conservative stability through private credit."
 date: "2025-11-03"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "conservative-capital-deployment-for-enduring-stability"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Conservative Capital Deployment for Stability
 
-Hylten-Invest serves a specific investor archetype.  
+Hyltén Invest serves a specific investor archetype.  
 The individual or family that values stability over spectacle.  
 The allocator who prefers structural clarity over speculative noise.  
 The steward who thinks in decades, not cycles.
@@ -20,7 +20,7 @@ It is not slow.
 It is not timid.  
 Rather, it is the deliberate design of a capital position that remains intact, liquid, and functional regardless of external volatility.
 
-This article explores how Hylten-Invest advances that framework through private credit, asset based liquidity engineering, and precision liquidity solutions.  
+This article explores how Hyltén Invest advances that framework through private credit, asset based liquidity engineering, and precision liquidity solutions.  
 It is written for high net worth and ultra high net worth investors who prioritize quiet strength over public positioning.  
 It reflects the minimalist, long-term stewardship ethos that defines our work.
 
@@ -36,7 +36,7 @@ It is a commitment to continuity.
 A commitment to resilience.  
 A commitment to discipline over impulse.
 
-Hylten-Invest exists to support this horizon.  
+Hyltén Invest exists to support this horizon.  
 We provide the liquidity engineering infrastructure that allows sophisticated investors to maintain long-term positions, activate liquidity with precision, and protect their strategic posture across cycles.
 
 Decades, not quarters.  
@@ -81,7 +81,7 @@ Effective.
 
 ## Final Reflection
 
-Hylten-Invest stands for a specific type of strength.  
+Hyltén Invest stands for a specific type of strength.  
 Minimalist.  
 Deliberate.  
 Structural.  

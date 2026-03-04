@@ -2,9 +2,9 @@
 title: "The Conservative Case for Crypto‑Backed Liquidity"
 description: "A high‑end analysis of crypto‑secured liquidity within private credit and asset‑based liquidity engineering. For HNWI and UHNW stewards seeking structural clarity and long‑term optionality."
 date: "2025-11-18"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-conservative-case-for-cryptobacked-liquidity"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Conservative Case for Crypto Backed Liquidity

@@ -2,9 +2,9 @@
 title: "Preserving Capital Through Institutional Asset Structures"
 description: "A high‑end analysis of liquidity preservation and asset based liquidity engineering for HNWI and UHNW investors seeking institutional stability and credit optionality."
 date: "2025-11-11"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "preserving-capital-through-institutional-asset-structures"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Preserving Capital in Institutional Asset Structures
@@ -27,7 +27,7 @@ How to turn privately held assets into strategic leverage.
 
 How to adopt the operating posture of an institution, not simply an individual with wealth.  
 
-This is the domain in which Hylten-Invest operates.  
+This is the domain in which Hyltén Invest operates.  
 
 We provide the mechanics that allow private balance sheets to behave like institutional ones.  
 
@@ -77,7 +77,7 @@ Leverage will be controlled, not improvised.
 
 Assets will be preserved and utilized, not sold prematurely.  
 
-Hylten-Invest stands at this intersection of structure and stewardship.  
+Hyltén Invest stands at this intersection of structure and stewardship.  
 
 ## Closing Perspective
 
@@ -91,7 +91,7 @@ Deliberate.
 
 It supports families, private investors, and capital groups across generations.  
 
-Through private credit, asset based liquidity engineering, crypto liquidity engineering, and public share liquidity engineering, Hylten-Invest provides the institutional mechanics required to create and maintain long-term liquidity without sacrificing core asset positions.  
+Through private credit, asset based liquidity engineering, crypto liquidity engineering, and public share liquidity engineering, Hyltén Invest provides the institutional mechanics required to create and maintain long-term liquidity without sacrificing core asset positions.  
 
 For the investors who prefer precision over noise, and structure over speculation, the next step is simple.  
 

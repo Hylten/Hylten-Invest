@@ -2,7 +2,7 @@
 title: "The Theology Of Capital: Wealth As A Sacred Trust"
 description: "The Theology Of Capital: Wealth As A Sacred Trust"
 date: "2025-11-25"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-theology-of-capital-wealth-as-a-sacred-trust"
 keywords: "private credit, ABL, liquidity"
 ---
@@ -18,7 +18,7 @@ Capital is a trust.
 A covenant.  
 A responsibility placed on selected stewards across generations.
 
-This is the theological premise that governs the Hylten-Invest architecture.  
+This is the theological premise that governs the Hyltén Invest architecture.  
 Not sentiment.  
 Not fashion.  
 Not public concessions masquerading as virtue.  
@@ -48,7 +48,7 @@ Covenant stewardship means that every allocation. Every liquidity facility. Ever
 Institutional audiences understand the permanence of mandate.  
 Christian owners understand its morality.
 
-The Hylten-Invest doctrine fuses both.
+The Hyltén Invest doctrine fuses both.
 
 ## Generational Wealth as Obligation  
 Proverbs 13:22  
@@ -67,7 +67,7 @@ HNWI and UHNW principals who adopt this doctrine operate with sharpened clarity.
 Capital is not measured in the first generation.  
 It is measured in the third.
 
-The moral authority of Jonas Hyltén was built on this exact principle.  
+Biblical stewardship is built on this exact principle.  
 Not growth for its own sake.  
 Growth for the sake of the descendants called to govern the results.
 
@@ -108,7 +108,7 @@ Bureaucracy.
 Noise.  
 The institutional world respects speed when it is disciplined and data-backed.
 
-Hylten-Invest maintains velocity through:  
+Hyltén Invest maintains velocity through:  
 - Direct Principal-to-Principal communication  
 - Zero ceremony  
 - Document-first operations  
@@ -131,7 +131,7 @@ Long investment cycles.
 Covenant between families.  
 Trust built without marketing language.
 
-This legacy forms the philosophical engine behind the Hylten-Invest capital posture.  
+This legacy forms the philosophical engine behind the Hyltén Invest capital posture.  
 Not modern theatrics.  
 Only durable productivity.
 
@@ -164,7 +164,7 @@ A moral framework that is indifferent to trends.
 A capital philosophy that does not fluctuate every quarter.  
 A steward who operates under covenant rather than applause.
 
-Hylten-Invest asserts moral authority without spectacle.  
+Hyltén Invest asserts moral authority without spectacle.  
 Christian ethics produce stability.  
 Stability produces predictable governance.  
 Predictable governance attracts disciplined capital.
@@ -203,7 +203,7 @@ A Principal does not negotiate identity.
 A Principal does not dilute philosophy.  
 A Principal maintains posture while adapting strategy.
 
-The authority of Jonas Hyltén rests on four pillars:  
+True stewardship rests on four pillars:  
 1. Covenant with God  
 2. Duty to family  
 3. Responsibility for employees  

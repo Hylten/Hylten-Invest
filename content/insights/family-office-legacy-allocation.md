@@ -2,13 +2,13 @@
 title: "Family Office Legacy Allocation"
 description: "Insights on Family Office Legacy Allocation from Roials Capital and Hyltén Invest."
 date: "2025-11-05"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "family-office-legacy-allocation"
 keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Family Office Legacy Allocation  
-Hylten-Invest
+Hyltén Invest
 
   
 Family offices carry a responsibility that is different in nature from traditional wealth management.  
@@ -207,9 +207,9 @@ This approach is quiet.
 It is steady.  
 It is enduring.  
 
-## Hylten-Invest Perspective  
+## Hyltén Invest Perspective  
 
-Hylten-Invest operates with a philosophy centered on stewardship.  
+Hyltén Invest operates with a philosophy centered on stewardship.  
 We prioritize clarity, continuity, and conservative excellence.  
 Each allocation is examined through the lens of multi-generational relevance.  
 

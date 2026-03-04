@@ -2,9 +2,9 @@
 title: "Capital Migration for Multi‑Generational Stability"
 description: "A strategic exploration of liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW families seeking long-term capital preservation."
 date: "2025-11-03"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "capital-migration-for-multigenerational-stability"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Capital Migration for Multi‑Generational Stability
@@ -17,7 +17,7 @@ For families that think in decades rather than quarters, capital migration becom
 
   
 
-Hylten-Invest operates within this space of long-horizon logic. The firm exists for High Net Worth and Ultra High Net Worth individuals who require precise liquidity, structural intelligence, and discretion. We function as silent authority: not loud, not promotional, simply institutional mechanics delivered with exactness.
+Hyltén Invest operates within this space of long-horizon logic. The firm exists for High Net Worth and Ultra High Net Worth individuals who require precise liquidity, structural intelligence, and discretion. We function as silent authority: not loud, not promotional, simply institutional mechanics delivered with exactness.
 
   
 
@@ -45,7 +45,7 @@ Liquidity is not the opposite of long-term holding. Liquidity is what protects l
 
   
 
-Hylten-Invest lends against private credit positions. This is a domain rarely visible to retail participants, because it requires a level of scale, underwriting knowledge, and portfolio complexity that only HNWI, UHNW, and family offices typically possess.
+Hyltén Invest lends against private credit positions. This is a domain rarely visible to retail participants, because it requires a level of scale, underwriting knowledge, and portfolio complexity that only HNWI, UHNW, and family offices typically possess.
 
   
 
@@ -79,7 +79,7 @@ For generational portfolios, this is not opportunistic finance. It is stewardshi
 
   
 
-Hylten-Invest specializes in this form of structural liquidity. We do not replace traditional banking. We exist where traditional banking becomes too rigid or too public for families of scale.
+Hyltén Invest specializes in this form of structural liquidity. We do not replace traditional banking. We exist where traditional banking becomes too rigid or too public for families of scale.
 
 ## Crypto liquidity engineering for Institutional-Grade Holders
 
@@ -111,7 +111,7 @@ Founders, board members, and early investors in public companies often hold posi
 
   
 
-Hylten-Invest provides liquidity engineering against public equity at a minimum threshold of five million dollars.
+Hyltén Invest provides liquidity engineering against public equity at a minimum threshold of five million dollars.
 
   
 
@@ -125,7 +125,7 @@ Share liquidity engineering becomes a quiet tool. It protects both the holder an
 
   
 
-Hylten-Invest functions as structural infrastructure. Not flashy. Not crowded. Not retail.
+Hyltén Invest functions as structural infrastructure. Not flashy. Not crowded. Not retail.
 
   
 
@@ -289,7 +289,7 @@ In periods of disruption, it provides survival.
 
 This is why families with scale invest in structural liquidity. It is not a luxury. It is an anchor.
 
-## The Hylten-Invest Distinction
+## The Hyltén Invest Distinction
 
   
 
@@ -359,7 +359,7 @@ Capital migration is not innovation. It is preservation. It is the quiet infrast
 
   
 
-Hylten-Invest builds this infrastructure. Discreetly. Conservatively. Exactly.
+Hyltén Invest builds this infrastructure. Discreetly. Conservatively. Exactly.
 
   
 

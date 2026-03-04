@@ -2,7 +2,7 @@
 title: "The Industrial Mandate: Christian Values In Capita"
 description: "The Industrial Mandate: Christian Values In Capita"
 date: "2025-11-21"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-industrial-mandate-christian-values-in-capita"
 keywords: "private credit, ABL, liquidity"
 ---
@@ -18,7 +18,7 @@ In the Christian conservative tradition, capital allocation is not a lifestyle i
 
 This is the foundation of the industrial mandate.
 
-This mandate precedes modern financial vocabulary. It is older than private equity, older than corporate law, and older than the language of economic theory. It is the doctrine that governed the early Christian merchants. It shaped the industrial rise of Sweden’s Gnosjö region. And it defines the moral authority under which Hylten-Invest and aligned institutions operate today.
+This mandate precedes modern financial vocabulary. It is older than private equity, older than corporate law, and older than the language of economic theory. It is the doctrine that governed the early Christian merchants. It shaped the industrial rise of Sweden’s Gnosjö region. And it defines the moral authority under which Hyltén Invest and aligned institutions operate today.
 
 This text outlines that doctrine for an institutional audience operating at Fund-III scale and above.  
 
@@ -168,9 +168,9 @@ The Christian investor reads structure.
 Hope is an emotion.  
 Structure is measurable.
 
-## The Hylten-Invest Position
+## The Hyltén Invest Position
 
-Hylten-Invest operates under this doctrinal architecture.
+Hyltén Invest operates under this doctrinal architecture.
 
 The firm’s mandate is not entertainment.  
 Not self-promotion.  
@@ -309,7 +309,7 @@ It becomes a generational pillar.
 A source of order.  
 A testament to stewardship.
 
-This is the mandate under which Hylten-Invest and aligned partners operate.  
+This is the mandate under which Hyltén Invest and aligned partners operate.  
 This is the standard expected of every owner, manager, and institutional participant.
 
 Contact for stewardship discussion.

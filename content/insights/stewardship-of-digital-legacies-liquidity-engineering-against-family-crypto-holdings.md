@@ -2,9 +2,9 @@
 title: "Stewardship of Digital Legacies: liquidity engineering Against Family Crypto Holdings"
 description: "A high level exploration of liquidity creation through private credit and asset based liquidity engineering. Focused on HNWI and UHNW families seeking structured solutions using crypto and public shares."
 date: "2025-11-14"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "stewardship-of-digital-legacies-liquidity-engineering-against-family-crypto-holdings"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Stewardship of Digital Legacies: liquidity engineering Against Family Crypto Holdings
@@ -21,7 +21,7 @@ This evolution introduces a new requirement. Digital holdings must be integrated
 
   
 
-Hylten-Invest provides that structure.
+Hyltén Invest provides that structure.
 
   
 
@@ -37,7 +37,7 @@ For HNWI and UHNW families, this discipline is fundamental. Selling accumulated 
 
   
 
-At Hylten-Invest we lend against private credit structures and asset based collateral. Crypto holdings qualify when they exceed the minimum threshold of 2,000,000. Public share liquidity engineering begins above 5,000,000. These thresholds are not arbitrary. They exist to ensure institutional grade conditions and to preserve our focus on structural integrity rather than retail behavior.
+At Hyltén Invest we lend against private credit structures and asset based collateral. Crypto holdings qualify when they exceed the minimum threshold of 2,000,000. Public share liquidity engineering begins above 5,000,000. These thresholds are not arbitrary. They exist to ensure institutional grade conditions and to preserve our focus on structural integrity rather than retail behavior.
 
   
 
@@ -61,7 +61,7 @@ Stewardship of such holdings requires discipline. It requires partners who do no
 
   
 
-Hylten-Invest operates within this specific intersection of traditional credit and digital wealth. Our responsibility is to bring silence, clarity, and precision to an area often clouded by noise.
+Hyltén Invest operates within this specific intersection of traditional credit and digital wealth. Our responsibility is to bring silence, clarity, and precision to an area often clouded by noise.
 
 ## Why Families Seek Liquidity Against Crypto Instead of Selling
 
@@ -103,7 +103,7 @@ Crypto liquidity engineering above the 2,000,000 threshold allows families to op
 
 ## Structural Mechanics and Silent Authority
 
-Hylten-Invest operates with what we define as Silent Authority.
+Hyltén Invest operates with what we define as Silent Authority.
 
   
 
@@ -131,7 +131,7 @@ Crypto liquidity engineering at institutional scale requires precise risk framew
 
   
 
-At Hylten-Invest we apply classical credit logic to crypto collateral. That means:
+At Hyltén Invest we apply classical credit logic to crypto collateral. That means:
 
   
 • Conservative liquidity facility to value ratios.  
@@ -190,7 +190,7 @@ The future of family office architecture will not separate blockchain based asse
 
   
 
-Hylten-Invest builds liquidity engineering structures that sit across both domains. We allow families to use crypto and public equities in the same structural conversation. We bring coherence to asset categories that were once siloed.
+Hyltén Invest builds liquidity engineering structures that sit across both domains. We allow families to use crypto and public equities in the same structural conversation. We bring coherence to asset categories that were once siloed.
 
   
 
@@ -241,7 +241,7 @@ Families that hold substantial crypto positions understand this evolution. They 
 
   
 
-Hylten-Invest provides this bridge.
+Hyltén Invest provides this bridge.
 
   
 
@@ -281,7 +281,7 @@ HNWI and UHNW families will increasingly treat crypto positions as long term res
 
   
 
-Hylten-Invest stands at this intersection with a commitment to conservative mechanics and long term clarity.
+Hyltén Invest stands at this intersection with a commitment to conservative mechanics and long term clarity.
 
   
 

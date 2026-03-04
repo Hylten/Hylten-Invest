@@ -2,9 +2,9 @@
 title: "The Future of Stewardship: High Trust Finance and the Architecture of Long Term Liquidity"
 description: "A strategic exploration of high trust finance, liquidity architecture, private credit, and asset based liquidity engineering for HNW and UHNW investors."
 date: "2025-11-19"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-future-of-stewardship-high-trust-finance-and-the-architecture-of-long-term-liquidity"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Future of Stewardship: High Trust Finance
@@ -25,7 +25,7 @@ For High Net Worth and Ultra High Net Worth families, the financial landscape is
 
   
 
-Hylten-Invest operates within this environment with silent authority. We provide the structural mechanics that enable institutional precision without institutional noise. Our focus remains constant, which is conservative liquidity engineering against real assets, private credit positions, public equities, and institutional grade digital assets.
+Hyltén Invest operates within this environment with silent authority. We provide the structural mechanics that enable institutional precision without institutional noise. Our focus remains constant, which is conservative liquidity engineering against real assets, private credit positions, public equities, and institutional grade digital assets.
 
   
 
@@ -53,7 +53,7 @@ Stewardship will return to the forefront of wealth strategy, and within this ret
 
   
 
-Hylten-Invest positions itself to support families through this evolution with controlled liquidity engineering against:
+Hyltén Invest positions itself to support families through this evolution with controlled liquidity engineering against:
 
 • Private credit.
 
@@ -101,7 +101,7 @@ The future of stewardship is not complex. It is calm. It is conservative. It is 
 
   
 
-Hylten-Invest remains committed to providing the liquidity engineering architecture that enables families and institutions to navigate this future with clarity.
+Hyltén Invest remains committed to providing the liquidity engineering architecture that enables families and institutions to navigate this future with clarity.
 
   
 

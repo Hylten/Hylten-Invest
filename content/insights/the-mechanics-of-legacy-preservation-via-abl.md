@@ -2,9 +2,9 @@
 title: "The Mechanics of Legacy Preservation via ABL"
 description: "An in depth exploration of how Asset Based liquidity engineering and private credit provide liquidity, stability, and long term legacy preservation for HNWI and UHNW families."
 date: "2025-11-22"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-mechanics-of-legacy-preservation-via-abl"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Mechanics of Legacy Preservation via ABL
@@ -31,7 +31,7 @@ It is where stewardship replaces speculation.
 
 ## The Principle of Silent Authority
 
-Hylten-Invest positions itself not as a public figure, but as the structural partner behind serious capital.
+Hyltén Invest positions itself not as a public figure, but as the structural partner behind serious capital.
 
 This is intentional.
 
@@ -118,7 +118,7 @@ A minimalist credit structure is:
 • free of unnecessary conditions  
 • engineered for clarity  
 
-At Hylten-Invest, the liquidity engineering process reflects this philosophy.
+At Hyltén Invest, the liquidity engineering process reflects this philosophy.
 
 We do not impose complexity for the sake of formality.
 
@@ -148,7 +148,7 @@ Digital assets will mature as institutional collateral.
 
 Public market positions will remain strategic anchors.
 
-Hylten-Invest stands in the intersection of these domains.
+Hyltén Invest stands in the intersection of these domains.
 
 We provide the mechanics.
 
@@ -168,6 +168,6 @@ Liquefying assets without dismantling positions is an essential part of this dis
 
 This is why Asset Based liquidity engineering remains one of the most powerful tools available to families that build for generations.
 
-For those who require quiet liquidity and structural clarity, Hylten-Invest operates with silent authority.
+For those who require quiet liquidity and structural clarity, Hyltén Invest operates with silent authority.
 
 Contact for stewardship discussion.

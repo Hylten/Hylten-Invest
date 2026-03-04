@@ -2,7 +2,7 @@
 title: "The Future of Generative AI Investments"
 description: "Why Hyltén Invest sees significant potential in agentic AI and its impact on infrastructure."
 date: "2025-11-06"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-future-of-generative-ai-investments"
 keywords: "liquidity, private credit, ABL"
 ---

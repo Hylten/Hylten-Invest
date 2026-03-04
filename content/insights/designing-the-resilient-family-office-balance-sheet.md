@@ -2,9 +2,9 @@
 title: "Designing the Resilient Family Office Balance Sheet"
 description: "A high authority exploration of liquidity engineering and asset based liquidity engineering for HNWI and UHNW families seeking structural resilience."
 date: "2025-11-05"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "designing-the-resilient-family-office-balance-sheet"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Designing the Resilient Family Office Balance Sheet
@@ -63,9 +63,9 @@ They require policy.
 
 They require a lender that understands the language of private capital.
 
-## The Hylten-Invest Philosophy
+## The Hyltén Invest Philosophy
 
-Hylten-Invest operates quietly behind the structure.
+Hyltén Invest operates quietly behind the structure.
 
 Silent authority.
 
@@ -123,7 +123,7 @@ Unsecured leverage introduces unnecessary risk.
 
 Secured leverage, used conservatively, enhances optionality without distorting the risk profile.
 
-Hylten-Invest structures secured liquidity engineering against:
+Hyltén Invest structures secured liquidity engineering against:
 
 Private Credit portfolios.
 
@@ -181,7 +181,7 @@ They require speed without noise.
 
 They require partners who understand the architecture of private balance sheets.
 
-Hylten-Invest provides the mechanics, the discipline, and the institutional processes.
+Hyltén Invest provides the mechanics, the discipline, and the institutional processes.
 
 We operate as a structural layer.
 
@@ -207,7 +207,7 @@ This creates a liquidity paradox.
 
 The return profile is attractive, but access to capital is slow.
 
-Hylten-Invest resolves this paradox.
+Hyltén Invest resolves this paradox.
 
 By liquidity engineering against high quality private credit portfolios, we allow families to maintain exposure while unlocking liquidity.
 
@@ -265,7 +265,7 @@ Crypto has evolved from a speculative frontier to a formal asset class.
 
 Yet liquidity solutions for substantial holders remain fragmented.
 
-Hylten-Invest provides secured liquidity engineering against crypto positions with a minimum threshold of two million dollars.
+Hyltén Invest provides secured liquidity engineering against crypto positions with a minimum threshold of two million dollars.
 
 The goal is not leverage.
 
@@ -351,7 +351,7 @@ They will be able to act without signaling.
 
 They will be able to preserve and expand their long term legacy.
 
-## The Hylten-Invest Role
+## The Hyltén Invest Role
 
 We do not replace advisors.
 
@@ -381,7 +381,7 @@ It is built in anticipation of cycles.
 
 It is engineered so that liquidity is always present, risk is always understood, and freedom of action is always preserved.
 
-Hylten-Invest serves families who view capital as a long term responsibility.
+Hyltén Invest serves families who view capital as a long term responsibility.
 
 We operate with silent authority.
 

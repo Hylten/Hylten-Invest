@@ -2,9 +2,9 @@
 title: "Stewardship of Hybrid Portfolios: Balancing Tradition and Digital Alpha"
 description: "A high level exploration of liquidity strategy, private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
 date: "2025-11-15"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "stewardship-of-hybrid-portfolios-balancing-tradition-and-digital-alpha"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Stewardship of Hybrid Portfolios: Balancing Tradition and Digital Alpha
@@ -29,7 +29,7 @@ This is where hybrid portfolios have emerged as a dominant architecture. They co
 
   
 
-Hylten-Invest exists inside that space. We maintain the quiet mechanics beneath complex portfolios. We lend against private credit positions and asset based liquidity engineering. We provide crypto liquidity engineering with a minimum threshold of 2 million USD. We offer public share liquidity engineering with a minimum threshold of 5 million USD. Our clients operate silently. Our structures mirror that silence.
+Hyltén Invest exists inside that space. We maintain the quiet mechanics beneath complex portfolios. We lend against private credit positions and asset based liquidity engineering. We provide crypto liquidity engineering with a minimum threshold of 2 million USD. We offer public share liquidity engineering with a minimum threshold of 5 million USD. Our clients operate silently. Our structures mirror that silence.
 
 ## Asset Based liquidity engineering as a Long Term Stewardship Tool
 
@@ -53,7 +53,7 @@ ABL allows portfolios to maintain broad exposure while freeing liquidity for new
 
   
 
-At Hylten-Invest we lend against ABL with conservative ratios designed for longevity. For families and private offices, this provides predictable liquidity without compromising stability.
+At Hyltén Invest we lend against ABL with conservative ratios designed for longevity. For families and private offices, this provides predictable liquidity without compromising stability.
 
   
 
@@ -165,7 +165,7 @@ Hybrid portfolios benefit from structural precision rather than reactionary beha
 
   
 
-At Hylten-Invest we design liquidity engineering structures that are intentionally quiet. They are predictable. They support long term strategy rather than market timing. They provide stability even when markets oscillate.
+At Hyltén Invest we design liquidity engineering structures that are intentionally quiet. They are predictable. They support long term strategy rather than market timing. They provide stability even when markets oscillate.
 
   
 
@@ -237,7 +237,7 @@ For UHNW families, this must be conservative and precise. It must be structured 
 
   
 
-Hylten-Invest operates in this space. Not as a public presence. Not as a marketing engine. As a technical partner for families that require silent, stable, long term mechanics.
+Hyltén Invest operates in this space. Not as a public presence. Not as a marketing engine. As a technical partner for families that require silent, stable, long term mechanics.
 
 ## Designing for Longevity
 
@@ -305,7 +305,7 @@ They support families for generations rather than years.
 
   
 
-Hylten-Invest serves as the structural layer beneath that architecture. Through private credit liquidity engineering. Through asset based liquidity engineering. Through crypto liquidity engineering with a minimum threshold of 2 million USD. Through public share liquidity engineering with a minimum threshold of 5 million USD. All delivered with minimal visibility and maximal precision.
+Hyltén Invest serves as the structural layer beneath that architecture. Through private credit liquidity engineering. Through asset based liquidity engineering. Through crypto liquidity engineering with a minimum threshold of 2 million USD. Through public share liquidity engineering with a minimum threshold of 5 million USD. All delivered with minimal visibility and maximal precision.
 
   
 

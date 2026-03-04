@@ -2,9 +2,9 @@
 title: "Stewardship Trends for 2026: The UHNW Outlook"
 description: "A deep analysis of 2026 stewardship trends for UHNW investors with emphasis on liquidity architecture, private credit, and asset based liquidity engineering."
 date: "2025-11-16"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "stewardship-trends-for-2026-the-uhnw-outlook"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Stewardship Trends for 2026: The UHNW Outlook
@@ -26,7 +26,7 @@ A desire to preserve optionality.
 A desire to build in a way that endures.
 
   
-This is the environment in which Hylten-Invest operates.  
+This is the environment in which Hyltén Invest operates.  
 We work with High Net Worth and Ultra High Net Worth individuals who prefer to navigate markets with intentional distance.  
 Our role is technical, silent, and structural.  
 We lend against private credit and asset based liquidity engineering.  
@@ -58,7 +58,7 @@ The objective is not leverage for growth.
 The objective is resilience, opportunity capture, and multigenerational continuity.
 
   
-Hylten-Invest supports this direction.  
+Hyltén Invest supports this direction.  
 Our role is structural.  
 We supply the mechanics that make family office consolidation functional and fluid.
 
@@ -79,7 +79,7 @@ Predictability of process.
 And continuity of relationship.
 
   
-Hylten-Invest is positioned for long horizon stewardship.  
+Hyltén Invest is positioned for long horizon stewardship.  
 We build liquidity engineering structures that can be carried forward across generations with minimal revisions.  
 We design frameworks that are resilient through macro cycles, policy shifts, and structural transitions inside global markets.
 
@@ -99,7 +99,7 @@ It is the year stewardship becomes minimalistic and intentional.
 It is the year UHNW families prioritize structure over spectacle and resilience over reaction.
 
   
-Hylten-Invest stands at the quiet axis of this shift.  
+Hyltén Invest stands at the quiet axis of this shift.  
 We lend against private credit.  
 We lend through asset based structures.  
 We provide crypto liquidity engineering from 2 million dollars.  

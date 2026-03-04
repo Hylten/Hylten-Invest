@@ -2,9 +2,9 @@
 title: "Strategic ABL Diversification for Long Term Family Office Protection"
 description: "A high level perspective on liquidity preservation and asset protection through private credit and asset based liquidity engineering for HNWI and Family Offices."
 date: "2025-11-16"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "strategic-abl-diversification-for-long-term-family-office-protection"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Protecting Family Office Assets Through Strategic ABL Diversification
@@ -37,7 +37,7 @@ This is where Asset Based liquidity engineering, backed by high quality private 
 
 The right ABL structure respects the conservative nature of family offices and preserves the privacy, independence, and strategic silence required for complex estates.  
 
-Hylten-Invest specializes in providing this structural mechanics layer.  
+Hyltén Invest specializes in providing this structural mechanics layer.  
 
 We serve as a quiet liquidity partner for HNWI and UHNW individuals, and for the family offices that manage their legacy assets.  
 
@@ -113,9 +113,9 @@ They become evident in moments of pressure and transition.
 
 This is where strategy becomes protection.  
 
-## The Hylten-Invest Role in the Ecosystem
+## The Hyltén Invest Role in the Ecosystem
 
-Hylten-Invest exists to provide the structural credit mechanics required for sophisticated liquidity management.  
+Hyltén Invest exists to provide the structural credit mechanics required for sophisticated liquidity management.  
 
 We lend against private credit and ABL portfolios.  
 
@@ -149,6 +149,6 @@ It offers stability without visibility.
 
 It preserves core assets while expanding optionality.  
 
-Hylten-Invest supports this mission with silent authority, conservative structure, and a commitment to long term stewardship.  
+Hyltén Invest supports this mission with silent authority, conservative structure, and a commitment to long term stewardship.  
 
 Contact for stewardship discussion

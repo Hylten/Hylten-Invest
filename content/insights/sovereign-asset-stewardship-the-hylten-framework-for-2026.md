@@ -2,9 +2,9 @@
 title: "Sovereign Asset Stewardship: The Hylten Framework for 2026"
 description: "A strategic examination of liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW stewardship mandates."
 date: "2025-11-12"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "sovereign-asset-stewardship-the-hylten-framework-for-2026"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Sovereign Asset Stewardship: The Hylten Framework for 2026
@@ -13,7 +13,7 @@ Stewardship for private wealth has entered a new era. The global liquidity map i
 
   
 
-Hylten-Invest operates inside this terrain with a minimalist posture. The firm exists to build liquidity structures for High Net Worth and Ultra High Net Worth individuals, and to do so with the precision of sovereign wealth engineering.
+Hyltén Invest operates inside this terrain with a minimalist posture. The firm exists to build liquidity structures for High Net Worth and Ultra High Net Worth individuals, and to do so with the precision of sovereign wealth engineering.
 
   
 
@@ -78,7 +78,7 @@ Institutional capital is increasingly seeking partnerships with private wealth t
 
   
 
-Hylten-Invest provides the mechanics for this alignment. We do not impose visibility. We do not attach unnecessary structures. We operate as a silent infrastructural partner.
+Hyltén Invest provides the mechanics for this alignment. We do not impose visibility. We do not attach unnecessary structures. We operate as a silent infrastructural partner.
 
   
 
@@ -90,7 +90,7 @@ The Hylten Framework for 2026 is designed for families who manage wealth not as 
 
   
 
-For principals who require conservative, minimalist, and sovereign-aligned liquidity engineering against private credit, asset-based positions, public equities, or large-scale digital assets, Hylten-Invest provides the structural mechanics.
+For principals who require conservative, minimalist, and sovereign-aligned liquidity engineering against private credit, asset-based positions, public equities, or large-scale digital assets, Hyltén Invest provides the structural mechanics.
 
   
 

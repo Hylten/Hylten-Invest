@@ -2,7 +2,7 @@
 title: "The Spirit Of Gnosjö: Engineering Generational Mul"
 description: "The Spirit Of Gnosjö: Engineering Generational Mul"
 date: "2025-11-23"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-spirit-of-gnosj-engineering-generational-mul"
 keywords: "private credit, ABL, liquidity"
 ---
@@ -235,9 +235,9 @@ stable capitalization
 This is the environment in which Fund-III partners can operate with clarity.  
 This is where institutional capital finds a long term home.  
 
-## The Role of Hylten-Invest
+## The Role of Hyltén Invest
 
-Hylten-Invest stands as a principal carrier of the Spirit of Gnosjö in a globalized context.  
+Hyltén Invest stands as a principal carrier of the Spirit of Gnosjö in a globalized context.  
 Not as a museum operator.  
 Not as a nostalgic curator.  
 As an architect of modern covenant based capital formation.  

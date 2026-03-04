@@ -2,9 +2,9 @@
 title: "The Stewardship of Private Wealth in 2026"
 description: "A high-level exploration of liquidity strategy and asset-based liquidity engineering for HNWI and UHNW families seeking structural, conservative capital solutions."
 date: "2025-11-23"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-stewardship-of-private-wealth-in-2026"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Stewardship of Private Wealth in 2026
@@ -18,13 +18,13 @@ For High Net Worth and Ultra High Net Worth families, the core challenge is no l
 The global financial system moves faster than ever, yet wealth that endures requires stillness. It requires quiet systems. It requires institutions and partners that operate with minimal noise and maximal precision.  
 
   
-Hylten-Invest functions in this space. We provide liquidity without destabilizing long-term strategy. We provide frameworks that respect the gravity of private wealth. We operate as silent authority, supporting families and private offices that prefer their capital to move without spectacle.  
+Hyltén Invest functions in this space. We provide liquidity without destabilizing long-term strategy. We provide frameworks that respect the gravity of private wealth. We operate as silent authority, supporting families and private offices that prefer their capital to move without spectacle.  
 
   
 Private wealth management in 2026 is undergoing a structural shift, and that shift demands a return to fundamentals, although executed with modern tools.  
 
   
-This article explores how stewardship, liquidity, and asset-backed liquidity engineering intersect in the current cycle. It outlines how Hylten-Invest positions itself as a conservative yet adaptive partner. And it provides directional clarity for those who view liquidity not as an event, but as an ongoing architecture.
+This article explores how stewardship, liquidity, and asset-backed liquidity engineering intersect in the current cycle. It outlines how Hyltén Invest positions itself as a conservative yet adaptive partner. And it provides directional clarity for those who view liquidity not as an event, but as an ongoing architecture.
 
   
 
@@ -46,7 +46,7 @@ It creates a space where capital can move without public signatures.
 It aligns with the temperament of families who operate across decades, not quarters.
 
   
-Hylten-Invest is intentionally quiet.  
+Hyltén Invest is intentionally quiet.  
 Our work is structural.  
 Our value is in the mechanics beneath the surface.  
 
@@ -74,7 +74,7 @@ They use crypto liquidity engineering and share liquidity engineering with disci
 They avoid speculation disguised as opportunity.  
 
   
-Hylten-Invest supports these priorities with a conservative, precise, and quiet framework.
+Hyltén Invest supports these priorities with a conservative, precise, and quiet framework.
 
   
 ## The Future of Private Wealth Infrastructure

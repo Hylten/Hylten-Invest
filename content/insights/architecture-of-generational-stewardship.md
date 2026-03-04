@@ -2,7 +2,7 @@
 title: "Architecture of Generational Stewardship: The Strategic Discipline That Preserves Capital Across Multi Century Horizons"
 description: "Institutional briefing on the structural mechanics, moral architecture, and operational discipline that define generational stewardship across Nordic industrial tradition, Christian economic ethos, and modern capital systems."
 date: "2026-03-04"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "architecture-of-generational-stewardship"
 keywords: "kapitalanskaffning, stewardship, generational capital, private credit, liquidity engineering, asset hardening, Nordic industrial legacy"
 ---

@@ -2,7 +2,7 @@
 title: "Stewardship Under Scrutiny: The Hylten Model For F"
 description: "Stewardship Under Scrutiny: The Hylten Model For F"
 date: "2025-11-16"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "stewardship-under-scrutiny-the-hylten-model-for-f"
 keywords: "private credit, ABL, liquidity"
 ---

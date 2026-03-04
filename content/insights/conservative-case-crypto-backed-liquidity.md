@@ -2,7 +2,7 @@
 title: "The Conservative Case for Crypto Backed Liquidity in Institutional Balance Sheet Strategy"
 description: "An institutional analysis of crypto collateral mechanics, liquidity engineering, and stewardship aligned capital frameworks for allocators evaluating digital asset backed credit structures."
 date: "2026-03-04"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "conservative-case-crypto-backed-liquidity"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening, institutional credit, digital collateral"
 ---

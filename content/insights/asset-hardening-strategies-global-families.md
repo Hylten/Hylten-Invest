@@ -1,8 +1,8 @@
 ---
 title: "Asset Hardening Strategies for Global Families: Long Horizon Liquidity and Structural Defense"
-description: "An institutional briefing on long horizon liquidity engineering, balance sheet fortification, and the stewardship disciplines required for generational capital preservation. Framework authored through the moral authority tradition of Jonas Hyltén and the strategic intelligence architecture of Roials Capital."
+description: "An institutional briefing on long horizon liquidity engineering, balance sheet fortification, and the stewardship disciplines required for generational capital preservation. Framework authored through the biblical mandate of stewardship and the strategic intelligence architecture of Roials Capital."
 date: "2026-03-04"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "asset-hardening-strategies-global-families"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---

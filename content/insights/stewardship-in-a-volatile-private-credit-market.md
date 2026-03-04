@@ -2,9 +2,9 @@
 title: "Stewardship in a Volatile Private Credit Market"
 description: "A strategic examination of stewardship, liquidity, and asset based liquidity engineering for HNWI and UHNW investors navigating private credit uncertainty."
 date: "2025-11-14"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "stewardship-in-a-volatile-private-credit-market"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Stewardship in a Volatile Private Credit Market
@@ -24,7 +24,7 @@ It demands more than tactical responsiveness.
   
 It requires stewardship.
 
-Hylten-Invest operates within this discipline.  
+Hyltén Invest operates within this discipline.  
   
 Our approach is minimalist, conservative, and intentionally quiet.  
   
@@ -77,7 +77,7 @@ Stewardship is not reactive.
   
 It is anticipatory.
 
-This posture has guided Hylten-Invest from the beginning.  
+This posture has guided Hyltén Invest from the beginning.  
   
 We support private credit participants by providing liquidity engineering structures that restore liquidity to the balance sheet.  
   
@@ -95,7 +95,7 @@ When an investor is dependent on the timing or willingness of others, risk grows
   
 When an investor holds the ability to refinance, reposition, or hold through volatility, control grows.
 
-Hylten-Invest structures liquidity engineering facilities that unlock this control.  
+Hyltén Invest structures liquidity engineering facilities that unlock this control.  
   
 We lend against private credit positions and asset based liquidity engineering structures.  
   
@@ -125,7 +125,7 @@ Counterparty risk may rise quietly while documentation remains static.
 
 ABL reintroduces precision.
 
-Hylten-Invest specializes in this domain.  
+Hyltén Invest specializes in this domain.  
   
 We lend against private credit assets, structured portfolios, and select forms of institutional-grade collateral.  
   
@@ -151,7 +151,7 @@ By avoiding dependency on single lenders.
   
 By securing facilities that offer flexibility rather than rigidity.
 
-Hylten-Invest is designed for this anticipatory posture.  
+Hyltén Invest is designed for this anticipatory posture.  
   
 We provide liquidity engineering that reinforces the durability of a family's financial architecture, not just their portfolio yield.
 
@@ -191,7 +191,7 @@ Custodial structure.
   
 Liquidity without forced liquidation.
 
-Hylten-Invest provides liquidity engineering solutions for portfolios above two million dollars.  
+Hyltén Invest provides liquidity engineering solutions for portfolios above two million dollars.  
   
 This threshold ensures that the collateral profile remains institutional, and that the structures we build match the long-term orientation of the families we serve.
 
@@ -215,7 +215,7 @@ Leverage can create unwanted exposure.
   
 Selling can create unwanted visibility.
 
-For borrowers who hold more than five million dollars in public equities, Hylten-Invest offers liquidity engineering facilities designed around stability and long-term control.
+For borrowers who hold more than five million dollars in public equities, Hyltén Invest offers liquidity engineering facilities designed around stability and long-term control.
 
 These structures allow families to manage liquidity without disturbing their strategic holdings.  
   
@@ -239,7 +239,7 @@ Stewardship recognizes that collateral selection is not a transaction-level deci
   
 It is a strategic one.
 
-At Hylten-Invest, we prioritize collateral that retains clarity even in stressed conditions.  
+At Hyltén Invest, we prioritize collateral that retains clarity even in stressed conditions.  
   
 Private credit assets with transparent underwriting.  
   
@@ -293,7 +293,7 @@ Borrowers who maintain lender optionality outperform those who depend on a singl
   
 Investors who sustain clarity outperform those who chase complexity.
 
-Hylten-Invest exists to reinforce these advantages.
+Hyltén Invest exists to reinforce these advantages.
 
 We do not accelerate risk.  
   
@@ -319,7 +319,7 @@ But only when paired with conservative structure, liquidity access, and a stewar
 
 As volatility rises, the value of quiet, disciplined capital rises with it.
 
-Hylten-Invest will continue to serve as an anchor for those who prioritize longevity over immediacy.  
+Hyltén Invest will continue to serve as an anchor for those who prioritize longevity over immediacy.  
   
 Our focus will remain on liquidity engineering against private credit, ABL structures, crypto positions above two million dollars, and public equity positions above five million dollars.
 

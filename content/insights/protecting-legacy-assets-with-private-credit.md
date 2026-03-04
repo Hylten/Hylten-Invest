@@ -2,9 +2,9 @@
 title: "Protecting Legacy Assets with Private Credit"
 description: "A strategic exploration of private credit and asset based liquidity engineering as liquidity instruments for safeguarding multi generational wealth."
 date: "2025-11-11"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "protecting-legacy-assets-with-private-credit"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Protecting Legacy Assets with Private Credit
@@ -25,7 +25,7 @@ Not as directional exposure.
 
 But as a tool for custody, continuity, and controlled liquidity.  
 
-This is where Hylten-Invest operates.  
+This is where Hyltén Invest operates.  
 
 Quietly.  
 
@@ -77,7 +77,7 @@ Liquidity is extracted without selling.
 
 And the family maintains control.  
 
-Hylten-Invest’s approach maintains a minimalist philosophy.  
+Hyltén Invest’s approach maintains a minimalist philosophy.  
 
 No unnecessary structuring.  
 
@@ -109,7 +109,7 @@ It strengthens it.
 
 ## Structural Mechanics for Institutional Capital
 
-Hylten-Invest operates with silent authority.  
+Hyltén Invest operates with silent authority.  
 
 We provide the structural mechanics behind the scenes.  
 
@@ -167,7 +167,7 @@ Protect.
 
 Continue.  
 
-## liquidity engineering Against Private Credit and ABL at Hylten-Invest
+## liquidity engineering Against Private Credit and ABL at Hyltén Invest
 
 Our framework is intentionally minimal.  
 
@@ -199,7 +199,7 @@ Families now hold significant positions, either through allocation or inheritanc
 
 Yet liquidity around these assets remains inconsistent and often misaligned with long-term ownership.  
 
-Hylten-Invest provides crypto liquidity engineering services for clients meeting a minimum threshold of 2,000,000 USD.  
+Hyltén Invest provides crypto liquidity engineering services for clients meeting a minimum threshold of 2,000,000 USD.  
 
 This ensures we work only with holders who think in strategic horizons, not speculative ones.  
 
@@ -231,7 +231,7 @@ This creates a paradox.
 
 The easiest assets to sell are often the ones that should be preserved.  
 
-Hylten-Invest resolves this dilemma through public share liquidity engineering, available at a minimum threshold of 5,000,000 USD.  
+Hyltén Invest resolves this dilemma through public share liquidity engineering, available at a minimum threshold of 5,000,000 USD.  
 
 We provide liquidity while the client retains market exposure.  
 
@@ -287,9 +287,9 @@ Protection becomes a form of respect for the generations that built the foundati
 
 And respect becomes a responsibility to the generations that will inherit it.
 
-## Why Legacy Families Choose Hylten-Invest
+## Why Legacy Families Choose Hyltén Invest
 
-Clients choose Hylten-Invest for reasons that rarely appear in standard marketing narratives.  
+Clients choose Hyltén Invest for reasons that rarely appear in standard marketing narratives.  
 
 They choose us because we operate in alignment with long-term stewardship.  
 
@@ -335,7 +335,7 @@ They will create liquidity buffers.
 
 They will support the slow, deliberate stewardship that legacy wealth demands.  
 
-Hylten-Invest will continue to operate quietly in this domain.  
+Hyltén Invest will continue to operate quietly in this domain.  
 
 Providing capital.  
 

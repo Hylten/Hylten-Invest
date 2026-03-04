@@ -2,9 +2,9 @@
 title: "Navigating Multi-Generational Wealth with ABL"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth preservation."
 date: "2025-11-10"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "navigating-multi-generational-wealth-with-abl"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Navigating Multi-Generational Wealth with ABL

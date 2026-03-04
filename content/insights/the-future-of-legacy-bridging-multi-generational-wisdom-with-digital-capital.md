@@ -2,9 +2,9 @@
 title: "The Future of Legacy: Bridging Multi-Generational Wisdom with Digital Capital"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth management."
 date: "2025-11-19"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-future-of-legacy-bridging-multi-generational-wisdom-with-digital-capital"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Future of Legacy: Bridging Multi-Generational Wisdom with Digital Capital
@@ -21,7 +21,7 @@ Today, this long-term stewardship intersects with new realities. Digital capital
 
 In this environment, legacy becomes both a technical and philosophical challenge.  
 
-Hylten-Invest operates where these lines converge.  
+Hyltén Invest operates where these lines converge.  
 
 We support families who think in generations.  
 
@@ -29,7 +29,7 @@ We provide liquidity engineering structures that respect discretion, uphold sove
 
 ## The Silent Architecture of Institutional Mechanics
 
-Hylten-Invest maintains a principle we call Silent Authority.  
+Hyltén Invest maintains a principle we call Silent Authority.  
 
 We do not seek attention.  
 We do not signal loudly.  
@@ -119,7 +119,7 @@ Traditional assets anchor stability.
 Private credit enhances consistent yield.  
 ABL unlocks strategic liquidity.  
 
-Hylten-Invest serves as the bridge between these perspectives. We translate modern instruments into conservative, reliable liquidity engineering structures.  
+Hyltén Invest serves as the bridge between these perspectives. We translate modern instruments into conservative, reliable liquidity engineering structures.  
 
 We respect the heritage, while enabling the future.  
 
@@ -170,7 +170,7 @@ It will be defined by the quiet strength of those who prepare.
 
 Multi-generational families who integrate digital capital responsibly, utilize private credit intelligently, and activate liquidity through conservative asset-based liquidity engineering will hold a structural advantage over the coming decades.  
 
-Hylten-Invest stands at this intersection.  
+Hyltén Invest stands at this intersection.  
 Silently.  
 Precisely.  
 Purposefully.  

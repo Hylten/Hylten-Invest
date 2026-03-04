@@ -2,9 +2,9 @@
 title: "Legacy Hardening for UHNW Families: Inflation Resilience Through Structural Liquidity"
 description: "A strategic overview of liquidity engineering through private credit and asset based liquidity engineering, designed to protect UHNW families from inflationary shocks."
 date: "2025-11-07"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "legacy-hardening-for-uhnw-families-inflation-resilience-through-structural-liquidity"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Legacy Hardening: Protecting UHNW Families from Inflationary Shocks
@@ -21,7 +21,7 @@ Legacy hardening is the discipline of transforming static wealth into a resilien
 
   
 
-Hylten-Invest operates within this domain with silent authority. We build the structural mechanics that allow institutional capital to move efficiently through the private wealth ecosystem.  
+Hyltén Invest operates within this domain with silent authority. We build the structural mechanics that allow institutional capital to move efficiently through the private wealth ecosystem.  
 
   
 
@@ -68,7 +68,7 @@ If your objective is long-term continuity, if your priority is keeping wealth re
 
   
 
-Hylten-Invest stands ready to support your stewardship.  
+Hyltén Invest stands ready to support your stewardship.  
 
   
 

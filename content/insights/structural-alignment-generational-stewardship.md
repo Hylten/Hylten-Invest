@@ -2,9 +2,9 @@
 title: "Structural Alignment With Generational Stewardship Across Multi Jurisdictional Private Equity Architectures"
 description: "A technical intelligence brief linking stewardship aligned capital formation with Liquidity Engineering, mid market buyout mechanics, UHNW liquidity structures, and 2026 private equity Fund-III investment opportunities."
 date: "2026-03-04"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "structural-alignment-generational-stewardship"
-keywords: "kapitalanskaffning, private equity, Fund-III, Hylten-Invest, 2026, liquidity engineering"
+keywords: "kapitalanskaffning, private equity, Fund-III, Hyltén Invest, 2026, liquidity engineering"
 ---
 
 [START INTELLIGENCE REPORT]

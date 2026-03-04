@@ -2,9 +2,9 @@
 title: "Sovereign Capital: The Pillar of Stewardship"
 description: "A high‑end exploration of long‑term liquidity architecture, private credit, and asset-based liquidity engineering for HNWI and UHNW capital stewards."
 date: "2025-11-13"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "sovereign-capital-the-pillar-of-stewardship"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Sovereign Capital: The Pillar of Stewardship
@@ -17,7 +17,7 @@ A discipline focused on preservation, autonomy, and structural control.
 
 It is the capital tier trusted by families, dynasties, and institutions that think in decades instead of cycles.  
 
-Hylten-Invest operates at this level.  
+Hyltén Invest operates at this level.  
 
 Our mandate is minimalistic.  
 
@@ -41,7 +41,7 @@ ABL is suited for families and principals who hold complex portfolios where asse
 
 It transforms illiquidity into optionality.  
 
-Hylten-Invest applies ABL conservatively.  
+Hyltén Invest applies ABL conservatively.  
 
 Valuations are sober.  
 
@@ -61,7 +61,7 @@ The emergence of digital assets has created a new liquidity category for soverei
 
 Crypto assets, when held in institutional scale, require institutional discipline.  
 
-Hylten-Invest provides crypto-backed liquidity engineering only above a two million dollar minimum threshold.  
+Hyltén Invest provides crypto-backed liquidity engineering only above a two million dollar minimum threshold.  
 
 This ensures that our underwriting, custodial security, and counterparty processes maintain the level of rigor expected by HNWI and UHNW clients.  
 
@@ -83,7 +83,7 @@ Many wealthy individuals hold significant positions in public equities, often th
 
 These positions are valuable but difficult to unwind without signaling effects or tax consequences.  
 
-For these situations, Hylten-Invest offers public share liquidity engineering with a minimum threshold of five million dollars.  
+For these situations, Hyltén Invest offers public share liquidity engineering with a minimum threshold of five million dollars.  
 
 This size requirement ensures that the structure remains institutional, discreet, and operationally efficient.  
 
@@ -183,7 +183,7 @@ Stewardship, when practiced at a sovereign tier, becomes a discipline.
 
 It is a commitment to ensuring that assets remain functional, protected, and insulated from forced events.  
 
-## Why Hylten-Invest Operates With a Minimalist Strategy
+## Why Hyltén Invest Operates With a Minimalist Strategy
 
 Minimalism is not absence.  
 
@@ -249,7 +249,7 @@ It is to create a fortified environment where returns accumulate naturally and c
 
 This is the horizon that sovereign capital supports.  
 
-## Hylten-Invest as a Pillar for Sovereign Capital
+## Hyltén Invest as a Pillar for Sovereign Capital
 
 Our role is simple.  
 

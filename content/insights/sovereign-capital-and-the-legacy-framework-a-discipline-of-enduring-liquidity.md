@@ -2,9 +2,9 @@
 title: "Sovereign Capital and the Legacy Framework: A Discipline of Enduring Liquidity"
 description: "A high‑end exploration of sovereign capital structures, private credit, and asset based liquidity engineering for long‑term liquidity management."
 date: "2025-11-13"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "sovereign-capital-and-the-legacy-framework-a-discipline-of-enduring-liquidity"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Sovereign Capital and the Legacy Framework
@@ -23,7 +23,7 @@ It is wealth preservation over multiple generations.
 
 It is the discipline of defending optionality, stability, and discretion across shifting market cycles.
 
-Hylten-Invest operates inside this long horizon.  
+Hyltén Invest operates inside this long horizon.  
 
 We focus on private credit and asset based liquidity engineering structures that serve one function: to deliver strategic liquidity without eroding ownership or long-term positioning.  
 
@@ -53,7 +53,7 @@ A partner that does not impose velocity for the sake of activity.
 
 A partner that maintains silent authority: a structural presence rather than a spotlight.
 
-Hylten-Invest exists in that silence.
+Hyltén Invest exists in that silence.
 
 ## Private Credit as a Controlled Liquidity Engine
 
@@ -73,7 +73,7 @@ They do not interrupt long-term compounding.
 
 They simply borrow against what they already control.
 
-Hylten-Invest is specialized in this exact mechanism.  
+Hyltén Invest is specialized in this exact mechanism.  
 
 We lend against private credit exposures and asset-based structures for the purpose of strategic liquidity.  
 
@@ -111,7 +111,7 @@ Digital assets have evolved from speculative instruments into institutional coll
 
 However, the maturity of this asset class is found only at scale.  
 
-This is why Hylten-Invest maintains a threshold of two million dollars for crypto-backed liquidity engineering.
+This is why Hyltén Invest maintains a threshold of two million dollars for crypto-backed liquidity engineering.
 
 At this level, discipline is possible.  
 
@@ -133,7 +133,7 @@ Public equity holdings often represent some of the most valuable positions in a 
 
 However, selling these positions for liquidity can disrupt tax planning, long-term appreciation, and strategic voting or governance rights.
 
-Hylten-Invest provides liquidity engineering solutions for public equity positions with a minimum threshold of five million dollars.  
+Hyltén Invest provides liquidity engineering solutions for public equity positions with a minimum threshold of five million dollars.  
 
 This threshold preserves the institutional nature of our structures.  
 
@@ -153,7 +153,7 @@ Sovereign capital behaves differently.
 
 It operates in silence.
 
-At Hylten-Invest, we refer to this as the F‑Status Delta.  
+At Hyltén Invest, we refer to this as the F‑Status Delta.  
 
 It is the shift from visible authority to structural authority.  
 
@@ -185,7 +185,7 @@ Not opportunistic reactions.
 
 A sovereign legacy requires systems that endure beyond a single generation.
 
-The Legacy Framework developed by Hylten-Invest focuses on three structural pillars.
+The Legacy Framework developed by Hyltén Invest focuses on three structural pillars.
 
 1. Preservation of Core Capital  
    The primary asset base must remain intact.  
@@ -240,7 +240,7 @@ Nothing is excessive.
 
 Nothing is reactionary.
 
-This is one reason why Hylten-Invest operates with a conservative liquidity engineering philosophy.  
+This is one reason why Hyltén Invest operates with a conservative liquidity engineering philosophy.  
 
 We do not chase yield.  
 
@@ -274,7 +274,7 @@ This is the essence of the Legacy Framework.
 
 ## Long-Term Stewardship as Identity
 
-Hylten-Invest is not built for short-term participants.  
+Hyltén Invest is not built for short-term participants.  
 
 We are built for stewards.  
 
@@ -308,7 +308,7 @@ It is built on frameworks, not reactions.
 
 It is supported by structure, not volatility.  
 
-The Legacy Framework offered by Hylten-Invest is not a product.  
+The Legacy Framework offered by Hyltén Invest is not a product.  
 
 It is an architecture for continuity.  
 

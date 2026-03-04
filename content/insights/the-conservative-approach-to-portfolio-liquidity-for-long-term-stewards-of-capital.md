@@ -2,9 +2,9 @@
 title: "The Conservative Approach to Portfolio Liquidity for Long-Term Stewards of Capital"
 description: "A high-end perspective on liquidity management for HNWI and UHNW investors, with a focus on private credit and asset based liquidity engineering solutions."
 date: "2025-11-18"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-conservative-approach-to-portfolio-liquidity-for-long-term-stewards-of-capital"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Conservative Approach to Portfolio Liquidity
@@ -25,7 +25,7 @@ It is the ability to maintain control during periods when markets become emotion
 
 It is the quiet infrastructure that protects the family’s timeline.
 
-Hylten-Invest operates in that space.
+Hyltén Invest operates in that space.
 
 We exist to provide structural liquidity for portfolios built on private credit, asset-backed positions, public equity allocations, and institutional-grade digital assets.
 
@@ -101,7 +101,7 @@ It does not compromise the structural integrity of the assets.
 
 It is engineered with clarity and long-term discipline.
 
-At Hylten-Invest, liquidity facilities are designed to be:
+At Hyltén Invest, liquidity facilities are designed to be:
 
 • Non-intrusive  
 • Tax efficient  
@@ -195,7 +195,7 @@ They stay long-term when others become short-term.
 
 This is the quiet power of a conservative liquidity strategy.
 
-## The Hylten-Invest Approach to Capital Stewardship
+## The Hyltén Invest Approach to Capital Stewardship
 
 Our philosophy is simple.
 
@@ -233,7 +233,7 @@ It maintains control.
 
 It extends the lifespan of strategy.
 
-Hylten-Invest provides the mechanisms required to maintain this stability.
+Hyltén Invest provides the mechanisms required to maintain this stability.
 
 For families who value discretion, structure, and long-term stewardship, engineered liquidity becomes a fundamental part of their legacy architecture.
 

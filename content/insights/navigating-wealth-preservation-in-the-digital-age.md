@@ -2,9 +2,9 @@
 title: "Navigating Wealth Preservation in the Digital Age"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking long term preservation in a digital era."
 date: "2025-11-10"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "navigating-wealth-preservation-in-the-digital-age"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Navigating Wealth Preservation in the Digital Age
@@ -69,7 +69,7 @@ Private credit and asset based liquidity engineering, when executed with conserv
 
   
 
-Hylten-Invest supports this by maintaining a liquidity engineering framework that is both structured and adaptable.  
+Hyltén Invest supports this by maintaining a liquidity engineering framework that is both structured and adaptable.  
 
   
 
@@ -109,7 +109,7 @@ In this way, liquidity is not a moment. It is a multi generational asset class i
 
   
 
-Hylten-Invest creates these systems with a focus on longevity, discretion, and resilience.  
+Hyltén Invest creates these systems with a focus on longevity, discretion, and resilience.  
 
   
 
@@ -157,7 +157,7 @@ These are not reactive tools. They are foundational systems that stabilize wealt
 
   
 
-Hylten-Invest operates within this structural discipline. Our clients understand the value of quiet architecture that preserves agency without compromising the integrity of their portfolios.  
+Hyltén Invest operates within this structural discipline. Our clients understand the value of quiet architecture that preserves agency without compromising the integrity of their portfolios.  
 
   
 
@@ -183,7 +183,7 @@ Private credit and asset based liquidity engineering provide this.
 
   
 
-Hylten-Invest exists to steward these systems with minimalist precision and long term integrity.  
+Hyltén Invest exists to steward these systems with minimalist precision and long term integrity.  
 
   
 

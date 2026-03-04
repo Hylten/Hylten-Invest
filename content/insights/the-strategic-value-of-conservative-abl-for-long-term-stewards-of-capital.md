@@ -2,9 +2,9 @@
 title: "The Strategic Value of Conservative ABL for Long-Term Stewards of Capital"
 description: "A high-level exploration of conservative asset-based liquidity engineering and private credit as liquidity architecture for HNWI and UHNW portfolios."
 date: "2025-11-24"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-strategic-value-of-conservative-abl-for-long-term-stewards-of-capital"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Strategic Value of Conservative ABL for Long-Term Stewards of Capital
@@ -15,7 +15,7 @@ Across the portfolios of high net worth and ultra high net worth families, the c
 
 Conservative Asset Based liquidity engineering, applied with restraint and institutional rigor, provides that structural answer.
 
-At Hylten-Invest, our function is simple. We lend against private credit and asset-based positions. We do it quietly. We do it with the expectations of families who view capital as a multi-generational craft, not a quarterly performance race.
+At Hyltén Invest, our function is simple. We lend against private credit and asset-based positions. We do it quietly. We do it with the expectations of families who view capital as a multi-generational craft, not a quarterly performance race.
 
 This article explores why conservative ABL has become a primary liquidity tool for sophisticated holders of long duration assets, and why the silent architecture matters.
 
@@ -85,7 +85,7 @@ As regulatory environments evolve and market structures digitize, two trends are
 First, private credit as an asset class will continue to expand.  
 Second, liquidity providers who understand discretion will become increasingly important.
 
-Hylten-Invest sits at this intersection.
+Hyltén Invest sits at this intersection.
 
 We focus only on asset classes where we can operate with institutional clarity and conservative practice. We maintain scale thresholds that support stability. We protect the silence that our clients value.
 

@@ -2,9 +2,9 @@
 title: "Protecting Wealth Through Institutional Grade ABL"
 description: "A strategic overview of how High Net Worth investors preserve liquidity and stability through institutional grade asset based liquidity engineering and private credit structures."
 date: "2025-11-12"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "protecting-wealth-through-institutional-grade-abl"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Protecting Wealth via Institutional Grade ABL
@@ -25,7 +25,7 @@ Institutional Grade Asset Based liquidity engineering provides that architecture
 
   
 
-Hylten-Invest operates in this space with a singular purpose. We provide liquidity engineering mechanisms that sit quietly behind significant balance sheets, offering stability, liquidity, and structural clarity for those who measure their horizon in decades rather than years.
+Hyltén Invest operates in this space with a singular purpose. We provide liquidity engineering mechanisms that sit quietly behind significant balance sheets, offering stability, liquidity, and structural clarity for those who measure their horizon in decades rather than years.
 
   
 
@@ -65,7 +65,7 @@ It reinforces the mandate of stewardship, the priority of protection, and the ob
 
   
 
-Hylten-Invest provides the institutional mechanics that enable these outcomes, quietly and with disciplined authority.  
+Hyltén Invest provides the institutional mechanics that enable these outcomes, quietly and with disciplined authority.  
 
 ## Final Perspective
 
@@ -77,7 +77,7 @@ Institutional Grade ABL delivers liquidity without sacrifice and mobility withou
 
   
 
-Hylten-Invest stands as a structural partner for families whose assets require conservative, institutional, long horizon support.  
+Hyltén Invest stands as a structural partner for families whose assets require conservative, institutional, long horizon support.  
 
   
 

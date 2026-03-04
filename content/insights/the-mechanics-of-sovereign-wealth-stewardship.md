@@ -2,9 +2,9 @@
 title: "The Mechanics of Sovereign Wealth Stewardship"
 description: "A high level exploration of liquidity architecture and asset based liquidity engineering for HNWI and UHNW investors seeking long term stewardship."
 date: "2025-11-22"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-mechanics-of-sovereign-wealth-stewardship"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Mechanics of Sovereign Wealth Stewardship
@@ -137,7 +137,7 @@ Sovereign wealth stewardship requires more than investment expertise. It require
 
   
 
-Hylten-Invest provides the liquidity mechanics that support this philosophy.  
+Hyltén Invest provides the liquidity mechanics that support this philosophy.  
 Private credit liquidity engineering.  
 Asset Based liquidity engineering.  
 Crypto liquidity engineering from two million dollars.  

@@ -2,9 +2,9 @@
 title: "Institutional Alignment in Legacy Planning for Multi‑Generational Wealth"
 description: "A high-level exploration of institutional alignment and liquidity architecture in legacy planning, with emphasis on private credit and asset based liquidity engineering."
 date: "2025-11-07"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "institutional-alignment-in-legacy-planning-for-multigenerational-wealth"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Institutional Alignment in Legacy Planning
@@ -29,7 +29,7 @@ Institutional alignment becomes the quiet cornerstone. It is the disciplined arc
 
   
 
-At Hylten-Invest, we approach legacy planning by reinforcing this alignment. We provide structural mechanics, supported by private credit and asset based liquidity engineering, that allow capital to move with precision.
+At Hyltén Invest, we approach legacy planning by reinforcing this alignment. We provide structural mechanics, supported by private credit and asset based liquidity engineering, that allow capital to move with precision.
 
   
 
@@ -59,7 +59,7 @@ Yet they also require discretion and flexibility, attributes not always present 
 
   
 
-Hylten-Invest is designed to bridge this gap. We bring institutional-grade mechanics without institutional overhead.
+Hyltén Invest is designed to bridge this gap. We bring institutional-grade mechanics without institutional overhead.
 
   
 
@@ -93,7 +93,7 @@ This provides the next generation with strategic room to maneuver. It reduces th
 
 It creates an environment where legacy is not merely preserved, but deployed.
 
-## Why Hylten-Invest Exists in This Landscape
+## Why Hyltén Invest Exists in This Landscape
 
 We do not exist to replace family offices.  
 We exist to strengthen them.

@@ -2,9 +2,9 @@
 title: "Hylten Invest: The Silent Partner in Stewardship"
 description: "A high‑end exploration of Hylten Invest and its liquidity architecture across Private Credit and Asset‑Based liquidity engineering for HNWI and UHNW clients."
 date: "2025-11-06"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "hylten-invest-the-silent-partner-in-stewardship"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Hylten Invest: The Silent Partner in Stewardship

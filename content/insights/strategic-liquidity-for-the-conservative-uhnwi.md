@@ -2,9 +2,9 @@
 title: "Strategic Liquidity for the Conservative UHNWI"
 description: "A high‑end analysis of liquidity architecture for HNWI and UHNW investors, focusing on private credit and asset based liquidity engineering solutions."
 date: "2025-11-17"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "strategic-liquidity-for-the-conservative-uhnwi"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Strategic Liquidity for the Conservative UHNWI
@@ -19,7 +19,7 @@ A buffer against surprise.
 
 A form of silence that protects the core mission of multi generational wealth.
 
-Hylten-Invest operates within this landscape with a singular focus.  
+Hyltén Invest operates within this landscape with a singular focus.  
 
 We provide structural liquidity solutions for High Net Worth and Ultra High Net Worth individuals, using the instruments that institutions rely on, yet in a discreet, client aligned format.  
 
@@ -49,7 +49,7 @@ They curate it.
 
 They build a liquidity architecture that can function in all climates.  
 
-Hylten-Invest’s processes reinforce this architecture.  
+Hyltén Invest’s processes reinforce this architecture.  
 
 We enable liquidity that respects the underlying portfolio and the family’s long term priorities.  
 
@@ -91,7 +91,7 @@ More focus on endurance.
 
 Liquidity, when built correctly, becomes a stabilizing pillar of that stewardship.  
 
-Hylten-Invest stands in this space with intention.  
+Hyltén Invest stands in this space with intention.  
 
 Minimalist.  
 Structured.  

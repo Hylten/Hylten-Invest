@@ -2,9 +2,9 @@
 title: "The Mechanics of Multi Generational Liquidity"
 description: "A high end exploration of liquidity architecture for multi generational wealth, grounded in private credit and asset based liquidity engineering."
 date: "2025-11-22"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "the-mechanics-of-multi-generational-liquidity"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Mechanics of Multi Generational Liquidity
@@ -17,7 +17,7 @@ For high net worth and ultra high net worth families, liquidity is a discipline 
 
 It is not created by haste. It is created by design.  
 
-At Hylten-Invest, we view liquidity as a long horizon engineering problem.  
+At Hyltén Invest, we view liquidity as a long horizon engineering problem.  
 
 We work with families that are not seeking acceleration, but stability.  
 
@@ -105,7 +105,7 @@ ABL provides:
 
 * A predictable framework that works across economic cycles.  
 
-At Hylten-Invest, ABL is not a tactical instrument.  
+At Hyltén Invest, ABL is not a tactical instrument.  
 
 It is a foundational pillar for families who see capital as a multi generational continuum.  
 
@@ -205,7 +205,7 @@ We provide liquidity that leaves the underlying strategy untouched.
 
 ## Structural Mechanics, Not Market Timing
 
-Hylten-Invest operates with a philosophy of silent authority.  
+Hyltén Invest operates with a philosophy of silent authority.  
 
 We do not chase yield.  
 
@@ -271,7 +271,7 @@ By integrating private credit liquidity engineering, ABL, public share liquidity
 
 This structure becomes part of the family's long-term blueprint.  
 
-## The Hylten-Invest Liquidity Framework
+## The Hyltén Invest Liquidity Framework
 
 Our framework is simple in form and deep in architecture.  
 

@@ -2,7 +2,7 @@
 title: "Capital Migration for Multi Generational Stability: Institutional Structures for Enduring Stewardship"
 description: "A clinical examination of capital migration dynamics, balance sheet fortification, and the structural advantages emerging from North American energy markets for long horizon allocators seeking intergenerational stability through disciplined stewardship frameworks."
 date: "2026-03-04"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "capital-migration-multi-generational-stability"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---

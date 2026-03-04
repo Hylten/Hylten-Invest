@@ -2,9 +2,9 @@
 title: "Conservative Financing for Global Family Legacies"
 description: "HNWI focused liquidity solutions built on private credit and asset based liquidity engineering, crafted for families that steward capital across generations."
 date: "2025-11-04"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "conservative-financing-for-global-family-legacies"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Conservative Financing for Global Family Legacies
@@ -27,7 +27,7 @@ It becomes a buffer, a quiet bridge, a mechanism that protects the structural in
 
 It becomes a way to move with clarity, without selling what should be held.
 
-Hylten-Invest exists for these families.
+Hyltén Invest exists for these families.
 
 We work with High Net Worth and Ultra High Net Worth individuals who carry sizable asset bases, international exposure, and a preference for silent, engineered liquidity.
 
@@ -49,7 +49,7 @@ It ensures that financing remains a choice, never a pressure.
 
 It respects the foundational principle of many global families: The asset must never be disturbed unless it is strategically sound.
 
-This philosophy shapes how Hylten-Invest approaches liquidity engineering.
+This philosophy shapes how Hyltén Invest approaches liquidity engineering.
 
 We are deliberately minimalist.
 
@@ -125,7 +125,7 @@ They require security, governance, and institutional structure.
 
 They require a silent financing partner that understands volatility and treats it with the respect that large positions demand.
 
-Hylten-Invest provides crypto backed liquidity engineering with a minimum threshold of 2,000,000 USD.
+Hyltén Invest provides crypto backed liquidity engineering with a minimum threshold of 2,000,000 USD.
 
 This ensures that our services remain aligned with families and individuals who approach digital assets strategically.
 
@@ -179,7 +179,7 @@ It is a financing method aligned with conservative governance and legacy preserv
 
 ## Operating with Silent Authority, the F Status Delta
 
-Hylten-Invest operates with an intentional stance.
+Hyltén Invest operates with an intentional stance.
 
 Silent Authority.
 
@@ -221,7 +221,7 @@ It protects the timeline.
 
 It allows assets to serve their intended purpose.
 
-Hylten-Invest is the partner for families who understand this.
+Hyltén Invest is the partner for families who understand this.
 
 We provide institutional grade structures for private credit, asset based liquidity engineering, crypto backed liquidity engineering, and public share liquidity engineering.
 

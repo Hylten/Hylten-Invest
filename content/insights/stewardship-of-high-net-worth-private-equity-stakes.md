@@ -2,9 +2,9 @@
 title: "Stewardship of High Net Worth Private Equity Stakes"
 description: "A high‑end analysis of liquidity, private credit, and asset‑based liquidity engineering structures for HNWI and UHNW investors seeking long‑term stewardship of private equity holdings."
 date: "2025-11-14"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "stewardship-of-high-net-worth-private-equity-stakes"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Stewardship of High Net Worth Private Equity Stakes
@@ -35,9 +35,9 @@ And liquidity obtained prematurely often compromises equity value.
 
 The stewardship challenge is therefore not the illiquidity of the asset. It is the absence of efficient liquidity architecture.  
 
-## Hylten-Invest and the Architecture of Controlled Liquidity
+## Hyltén Invest and the Architecture of Controlled Liquidity
 
-Hylten-Invest provides a structural alternative for high net worth investors who require liquidity while maintaining long-term control of private equity exposure.  
+Hyltén Invest provides a structural alternative for high net worth investors who require liquidity while maintaining long-term control of private equity exposure.  
 
 Our focus is simple.  
 
@@ -88,7 +88,7 @@ It maintains long‑term return profiles.
 It avoids unnecessary tax events.  
 It preserves the internal logic of the portfolio.  
 
-At Hylten-Invest, we utilise private credit as a dependable footing for liquidity engineering.  
+At Hyltén Invest, we utilise private credit as a dependable footing for liquidity engineering.  
 
 Our approach is neither aggressive nor speculative. It is architectural.  
 
@@ -118,7 +118,7 @@ Some clients hold significant digital or public market portfolios, and these pos
 
 HNWI and UHNW investors often avoid operational fragmentation. They prefer high minimum thresholds because they know that scale brings discipline.  
 
-Hylten-Invest reflects this understanding.  
+Hyltén Invest reflects this understanding.  
 
 Crypto liquidity engineering requires a minimum of 2,000,000 dollars.  
 
@@ -141,7 +141,7 @@ A portfolio with too many moving parts is mathematically fragile.
 A portfolio with too much leverage is psychologically fragile.  
 A portfolio without liquidity structures is operationally fragile.  
 
-Hylten-Invest eliminates these fractures.  
+Hyltén Invest eliminates these fractures.  
 
 We focus on the essentials.  
 Private Credit.  
@@ -170,7 +170,7 @@ It is the structural reinforcement behind every enduring asset.
 
 Stewardship without leverage is often stewardship without flexibility.  
 
-Hylten-Invest provides the capacity for leverage without compromising the long‑term architecture of wealth.  
+Hyltén Invest provides the capacity for leverage without compromising the long‑term architecture of wealth.  
 
 ## Silent Authority and the F Status Delta
 
@@ -182,7 +182,7 @@ It requires exactness.
 
 Silent authority is the natural state of high‑functioning capital.  
 
-Hylten-Invest expresses this through the F Status Delta, which means that we supply the mechanical backbone that institutional capital depends on without seeking visibility.  
+Hyltén Invest expresses this through the F Status Delta, which means that we supply the mechanical backbone that institutional capital depends on without seeking visibility.  
 
 We are not a public brand.  
 We are a structural partner.  
@@ -205,7 +205,7 @@ They reflect the belief that capital should remain under long‑term guidance.
 Stewardship is a lineage.  
 Liquidity is its instrument.  
 
-Hylten-Invest supports this lineage with tools that respect privacy, scale, and continuity.  
+Hyltén Invest supports this lineage with tools that respect privacy, scale, and continuity.  
 
 ## A Final Reflection
 
@@ -218,7 +218,7 @@ It requires liquidity.
 It requires a partner that understands that wealth is not simply held.  
 It is guarded.  
 
-Hylten-Invest stands at the intersection of liquidity architecture and long‑term private capital.  
+Hyltén Invest stands at the intersection of liquidity architecture and long‑term private capital.  
 
 Quiet.  
 Precise.  

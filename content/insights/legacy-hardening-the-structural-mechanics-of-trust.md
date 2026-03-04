@@ -2,9 +2,9 @@
 title: "Legacy Hardening: The Structural Mechanics of Trust"
 description: "A high‑end exploration of liquidity, private credit, and asset-based liquidity engineering for long-term capital stewards seeking structural durability."
 date: "2025-11-08"
-author: "Jonas Hyltén"
+author: "Hyltén Invest"
 slug: "legacy-hardening-the-structural-mechanics-of-trust"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Legacy Hardening: The Structural Mechanics of Trust
@@ -19,7 +19,7 @@ In an environment shaped by liquidity cycles, shifting regulatory climates, and 
 
 How do you harden a legacy so it becomes resistant to volatility, protected from erosion, and positioned to outlive the individuals who set it in motion.  
 
-At Hylten-Invest, our position is intentional and quiet.  
+At Hyltén Invest, our position is intentional and quiet.  
 
 We operate as a provider of structural mechanics, not noise.  
 
@@ -59,7 +59,7 @@ It provides a mechanism to convert existing assets into mobility.
 
 It transforms illiquid value into tactical leverage.  
 
-For Hylten-Invest, private credit is not a product category.  
+For Hyltén Invest, private credit is not a product category.  
 
 It is a stability engine.  
 
@@ -91,7 +91,7 @@ ABL converts these assets into liquidity without altering long-term ownership.
 
 This supports multi-decade planning while preserving structural control.  
 
-At Hylten-Invest, our ABL approach is anchored in conservative valuations and silent authority.  
+At Hyltén Invest, our ABL approach is anchored in conservative valuations and silent authority.  
 
 We act as the structural interface between the asset and the liquidity it can safely support.  
 
@@ -127,7 +127,7 @@ Digital assets remain volatile, yet they hold significant collateral value when 
 
 For families with crypto positions, divesting often triggers tax events, market exposure, or strategic losses.  
 
-Hylten-Invest offers crypto-backed liquidity engineering with a minimum threshold of 2,000,000 dollars.  
+Hyltén Invest offers crypto-backed liquidity engineering with a minimum threshold of 2,000,000 dollars.  
 
 This threshold ensures we work only with principals whose holdings meet the structural requirements for conservative credit formation.  
 
@@ -151,7 +151,7 @@ It can trigger unnecessary visibility.
 
 It can introduce timing risks that weaken long-term returns.  
 
-Hylten-Invest provides public share liquidity engineering beginning at a minimum threshold of 5,000,000 dollars.  
+Hyltén Invest provides public share liquidity engineering beginning at a minimum threshold of 5,000,000 dollars.  
 
 The structure is intentionally conservative.  
 
@@ -171,7 +171,7 @@ It moves with precision.
 
 It moves with structural clarity.  
 
-Hylten-Invest operates within what we define as the F-Status Delta.  
+Hyltén Invest operates within what we define as the F-Status Delta.  
 
 This is the space between visibility and influence, a quiet zone where capital architecture is coordinated without public footprint.  
 
@@ -261,7 +261,7 @@ Institutional-grade mechanics without institutional visibility.
 
 Precision without spectacle.  
 
-This is the operating environment Hylten-Invest provides.  
+This is the operating environment Hyltén Invest provides.  
 
 It is built on private credit disciplines.  
 
