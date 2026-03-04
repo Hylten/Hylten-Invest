@@ -1,7 +1,7 @@
 ---
 title: "The Stewardship of Sovereign Assets and the Architecture of Enduring Liquidity"
 description: "A high-end exploration of liquidity stewardship for HNWI and UHNW investors, with focus on private credit, asset based liquidity engineering, and structural liquidity solutions."
-date: "2025-12-05"
+date: "2025-11-24"
 author: "Jonas Hyltén"
 slug: "the-stewardship-of-sovereign-assets-and-liquidity"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

@@ -1,7 +1,7 @@
 ---
 title: "Building Stability Through Institutional Capital Migration"
 description: "A strategic exploration of liquidity creation and asset based liquidity engineering for HNWI and UHNW investors seeking structural stability."
-date: "2025-11-03"
+date: "2025-11-02"
 author: "Jonas Hyltén"
 slug: "building-stability-via-institutional-capital-migra"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

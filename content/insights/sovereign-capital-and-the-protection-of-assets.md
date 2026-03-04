@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital Architecture and the Long-Horizon Protection of Assets"
 description: "A high-end analysis on liquidity structuring, private credit, and asset-based liquidity engineering for HNWI and UHNW investors seeking durable protection of capital."
-date: "2025-11-20"
+date: "2025-11-13"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-and-the-protection-of-assets"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

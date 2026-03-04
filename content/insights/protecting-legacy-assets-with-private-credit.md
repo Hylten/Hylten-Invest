@@ -1,7 +1,7 @@
 ---
 title: "Protecting Legacy Assets with Private Credit"
 description: "A strategic exploration of private credit and asset based liquidity engineering as liquidity instruments for safeguarding multi generational wealth."
-date: "2025-11-17"
+date: "2025-11-12"
 author: "Jonas Hyltén"
 slug: "protecting-legacy-assets-with-private-credit"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

@@ -1,7 +1,7 @@
 ---
 title: "The Hylten Invest Architecture for UHNW Families: A Discipline of Silent Liquidity"
 description: "A high-end exploration of Hylten Invest’s liquidity architecture for UHNW families, focused on private credit, asset-based liquidity engineering, and long-term stewardship."
-date: "2025-11-30"
+date: "2025-11-20"
 author: "Jonas Hyltén"
 slug: "the-hylten-invest-architecture-for-uhnw-families"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

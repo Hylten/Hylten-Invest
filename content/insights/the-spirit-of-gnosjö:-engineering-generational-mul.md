@@ -1,7 +1,7 @@
 ---
 title: "The Spirit Of Gnosjö: Engineering Generational Mul"
 description: "The Spirit Of Gnosjö: Engineering Generational Mul"
-date: "2025-12-04"
+date: "2025-11-23"
 author: "Jonas Hyltén"
 slug: "the-spirit-of-gnosjö:-engineering-generational-mul"
 keywords: "private credit, ABL, liquidity"

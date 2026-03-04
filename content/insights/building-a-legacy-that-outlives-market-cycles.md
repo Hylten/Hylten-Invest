@@ -1,7 +1,7 @@
 ---
 title: "Building a Legacy That Outlives Market Cycles"
 description: "A high‑end strategic perspective on liquidity, private credit, and asset based liquidity engineering for long‑term wealth stewardship."
-date: "2025-11-02"
+date: "2025-11-01"
 author: "Jonas Hyltén"
 slug: "building-a-legacy-that-outlives-market-cycles"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
