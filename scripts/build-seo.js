@@ -63,10 +63,9 @@ async function generateSEO() {
     listHtml += '  <div style="width: 60px; height: 1px; background: rgba(176,141,87,0.3);"></div>';
     listHtml += '</div>';
 
-    listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #000000 !important; margin-bottom: 48px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Insights <span style="font-style: italic; color: #D1D5DB; font-weight: 300; letter-spacing: -0.02em;">Archive</span></h1>';
-    listHtml += '<p style="font-size: 1.5rem; color: #6B7280 !important; line-height: 1.8; margin-bottom: 80px; max-width: 750px; margin-left: auto; margin-right: auto; font-weight: 300; text-align: center; border-top: 1px solid #F9FAFB; padding-top: 48px;">Strategic analysis on global asset management, private equity trends, and the architectural evolution of the modern investment landscape.</p>';
+    listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #000000 !important; margin-bottom: 120px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Insights <span style="font-style: italic; color: #D1D5DB; font-weight: 300; letter-spacing: -0.02em;">Archive</span></h1>';
 
-    for (const file of files) {
+    files.forEach((file, index) => {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
         const { data } = matter(rawContent);
@@ -74,20 +73,25 @@ async function generateSEO() {
         const title = data.title || 'Insight';
         const description = data.description || '';
         const date = data.date ? new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
+        const displayIndex = (files.length - index).toString().padStart(2, '0');
 
         listHtml += `
-            <article style="margin-bottom: 400px; width: 100%; max-width: 1000px; display: flex; flex-direction: column; align-items: center; text-align: center;">
-                <div style="font-size: 14px; color: #B08D57; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 60px; font-weight: 700;">${date}</div>
+            <article style="margin-bottom: 500px; width: 100%; max-width: 1000px; display: flex; flex-direction: column; align-items: center; text-align: center; position: relative;">
+                <div style="display: flex; flex-direction: column; align-items: center; gap: 24px; margin-bottom: 60px;">
+                    <span style="font-size: 10px; color: #B08D57; letter-spacing: 8px; font-weight: 800; text-transform: uppercase;">INSIGHT NO. ${displayIndex}</span>
+                    <div style="width: 1px; height: 60px; background: linear-gradient(to bottom, #B08D57, transparent);"></div>
+                </div>
+                
                 <a href="/Hylten-Invest/insights/${slug}/" style="text-decoration: none !important; color: #000000 !important; display: block; width: 100%;">
-                    <h2 style="font-size: clamp(2.5rem, 6vw, 5rem); color: #000000 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; line-height: 1.1; text-align: center;">${title}</h2>
-                    <p style="font-size: 1.5rem; color: #4B5563 !important; line-height: 1.8; font-weight: 300; margin-bottom: 80px; max-width: 700px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
+                    <div style="font-size: 13px; color: #9CA3AF; text-transform: uppercase; letter-spacing: 4px; margin-bottom: 32px; font-weight: 500;">${date}</div>
+                    <h2 style="font-size: clamp(2.5rem, 6vw, 4.8rem); color: #000000 !important; margin-bottom: 48px; font-weight: 400; font-family: serif; line-height: 1.15; text-align: center; max-width: 900px; margin-left: auto; margin-right: auto;">${title}</h2>
+                    <p style="font-size: 1.4rem; color: #4B5563 !important; line-height: 1.8; font-weight: 300; margin-bottom: 80px; max-width: 650px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
                     <div style="display: flex; flex-direction: column; align-items: center; gap: 48px;">
-                        <span style="color: #B08D57; font-size: 12px; text-transform: uppercase; letter-spacing: 6px; font-weight: 700;">Read Analysis</span>
-                        <div style="width: 48px; height: 1px; background: #B08D57;"></div>
+                        <span style="color: #B08D57; font-size: 11px; text-transform: uppercase; letter-spacing: 6px; font-weight: 700; border: 1px solid rgba(176,141,87,0.3); padding: 16px 40px; border-radius: 2px;">Read Technical Analysis</span>
                     </div>
                 </a>
             </article>`;
-    }
+    });
     listHtml += '</div></div>';
 
     const sharedButtons = `
