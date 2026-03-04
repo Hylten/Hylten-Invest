@@ -1,7 +1,7 @@
 ---
 title: "Legacy Hardening for Multi-Generational Wealth: Structural Liquidity for Enduring Dynasties"
 description: "A high-end analysis of liquidity architecture, private credit, and asset based lending for long-term wealth preservation and strategic family continuity."
-date: "2026-03-04"
+date: "2025-11-10"
 author: "Roials Architect"
 slug: "legacy-hardening-for-multi-generational-wealth"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

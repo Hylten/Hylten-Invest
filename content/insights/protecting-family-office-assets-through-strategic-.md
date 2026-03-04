@@ -1,7 +1,7 @@
 ---
 title: "Strategic ABL Diversification for Long Term Family Office Protection"
 description: "A high level perspective on liquidity preservation and asset protection through private credit and asset based lending for HNWI and Family Offices."
-date: "2026-03-04"
+date: "2025-11-16"
 author: "Roials Architect"
 slug: "protecting-family-office-assets-through-strategic-"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

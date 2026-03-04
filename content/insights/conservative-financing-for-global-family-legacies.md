@@ -1,7 +1,7 @@
 ---
 title: "Conservative Financing for Global Family Legacies"
 description: "HNWI focused liquidity solutions built on private credit and asset based lending, crafted for families that steward capital across generations."
-date: "2026-03-04"
+date: "2025-11-05"
 author: "Roials Architect"
 slug: "conservative-financing-for-global-family-legacies"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

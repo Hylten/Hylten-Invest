@@ -1,7 +1,7 @@
 ---
 title: "Legacy Hardening: The Structural Mechanics of Trust"
 description: "A high‑end exploration of liquidity, private credit, and asset-based lending for long-term capital stewards seeking structural durability."
-date: "2026-03-04"
+date: "2025-11-12"
 author: "Roials Architect"
 slug: "legacy-hardening:-the-structural-mechanics-of-trus"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

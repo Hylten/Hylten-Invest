@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital: The Pillar of Stewardship"
 description: "A high‑end exploration of long‑term liquidity architecture, private credit, and asset-based lending for HNWI and UHNW capital stewards."
-date: "2026-03-04"
+date: "2025-11-19"
 author: "Roials Architect"
 slug: "sovereign-capital:-the-pillar-of-stewardship"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

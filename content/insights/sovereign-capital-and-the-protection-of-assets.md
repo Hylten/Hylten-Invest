@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital Architecture and the Long-Horizon Protection of Assets"
 description: "A high-end analysis on liquidity structuring, private credit, and asset-based lending for HNWI and UHNW investors seeking durable protection of capital."
-date: "2026-03-04"
+date: "2025-11-19"
 author: "Roials Architect"
 slug: "sovereign-capital-and-the-protection-of-assets"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

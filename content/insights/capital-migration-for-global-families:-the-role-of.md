@@ -1,7 +1,7 @@
 ---
 title: "Capital Migration for Global Families: The Role of Sovereign Crypto Lending"
 description: "A high-level exploration of liquidity creation through private credit and asset based lending for global families seeking structural mobility."
-date: "2026-03-04"
+date: "2025-11-03"
 author: "Roials Architect"
 slug: "capital-migration-for-global-families:-the-role-of"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
@@ -40,4 +40,3 @@ We lend against sophisticated assets with thresholds aligned to institutional pr
 In this article we explore how sovereign crypto lending, within a private credit framework, has become a critical tool for capital migration among global families.  
 It is not a trend.  
 It is an emerging pillar of long-term stewardship.
-

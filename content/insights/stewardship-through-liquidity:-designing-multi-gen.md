@@ -1,7 +1,7 @@
 ---
 title: "Stewardship Through Liquidity: Designing Multi-Generational Credit Strategies"
 description: "Designing evergreen credit lines and liquidity strategies for family wealth preservation and stewardship."
-date: "2026-03-04"
+date: "2025-11-22"
 author: "Hyltén Invest Steward"
 slug: "stewardship-through-liquidity:-designing-multi-gen"
 keywords: "stewardship, liquidity, family office, credit, Hyltén Invest"

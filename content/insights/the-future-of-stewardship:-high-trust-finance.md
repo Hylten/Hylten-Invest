@@ -1,7 +1,7 @@
 ---
 title: "The Future of Stewardship: High Trust Finance and the Architecture of Long Term Liquidity"
 description: "A strategic exploration of high trust finance, liquidity architecture, private credit, and asset based lending for HNW and UHNW investors."
-date: "2026-03-04"
+date: "2025-11-27"
 author: "Roials Architect"
 slug: "the-future-of-stewardship:-high-trust-finance"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

@@ -1,7 +1,7 @@
 ---
 title: "Stewardship of High‑Value Multi‑Asset Portfolios"
 description: "A minimalist and conservative framework for liquidity optimization through private credit and asset‑based lending for HNWI and UHNW portfolios."
-date: "2026-03-04"
+date: "2025-11-21"
 author: "Roials Architect"
 slug: "stewardship-of-high-value-multi-asset-portfolios"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

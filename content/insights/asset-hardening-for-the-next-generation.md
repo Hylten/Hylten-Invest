@@ -1,7 +1,7 @@
 ---
 title: "Asset Hardening for the Next Generation"
 description: "A strategic exploration of liquidity architecture and Asset-Based Lending designed for HNWI and UHNW families seeking structural resilience."
-date: "2026-03-04"
+date: "2025-11-01"
 author: "Roials Architect"
 slug: "asset-hardening-for-the-next-generation"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

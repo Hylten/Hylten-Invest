@@ -1,7 +1,7 @@
 ---
 title: "The Hylten Invest Guide to Family Office Growth"
 description: "A strategic guide to liquidity, private credit, and asset based lending designed for family offices seeking long term structural stability."
-date: "2026-03-04"
+date: "2025-11-28"
 author: "Roials Architect"
 slug: "the-hylten-invest-guide-to-family-office-growth"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

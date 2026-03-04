@@ -1,8 +1,10 @@
 ---
 title: "The Future of Generative AI Investments"
-slug: "future-of-ai-investments"
 description: "Why Hyltén Invest sees significant potential in agentic AI and its impact on infrastructure."
-date: "2025-03-03"
+date: "2025-11-08"
+author: "Roials Architect"
+slug: "future-of-ai-investments"
+keywords: "liquidity, private credit, ABL"
 ---
 
 Artificial Intelligence is currently undergoing a paradigm shift. Moving beyond mere text and image generation, we are entering the era of agentic systems.

@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity for the Conservative UHNWI"
 description: "A high‑end analysis of liquidity architecture for HNWI and UHNW investors, focusing on private credit and asset based lending solutions."
-date: "2026-03-04"
+date: "2025-11-24"
 author: "Roials Architect"
 slug: "strategic-liquidity-for-the-conservative-uhnwi"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

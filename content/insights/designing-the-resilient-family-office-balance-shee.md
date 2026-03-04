@@ -1,7 +1,7 @@
 ---
 title: "Designing the Resilient Family Office Balance Sheet"
 description: "A high authority exploration of liquidity engineering and asset based lending for HNWI and UHNW families seeking structural resilience."
-date: "2026-03-04"
+date: "2025-11-07"
 author: "Roials Architect"
 slug: "designing-the-resilient-family-office-balance-shee"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

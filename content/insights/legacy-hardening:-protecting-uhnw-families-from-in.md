@@ -1,7 +1,7 @@
 ---
 title: "Legacy Hardening for UHNW Families: Inflation Resilience Through Structural Liquidity"
 description: "A strategic overview of liquidity engineering through private credit and asset based lending, designed to protect UHNW families from inflationary shocks."
-date: "2026-03-04"
+date: "2025-11-10"
 author: "Roials Architect"
 slug: "legacy-hardening:-protecting-uhnw-families-from-in"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Asset Stewardship: The Hylten Framework for 2026"
 description: "A strategic examination of liquidity architecture, private credit, and asset based lending for HNWI and UHNW stewardship mandates."
-date: "2026-03-04"
+date: "2025-11-18"
 author: "Roials Architect"
 slug: "sovereign-asset-stewardship:-the-hylten-framework-"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

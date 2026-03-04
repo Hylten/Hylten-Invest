@@ -1,7 +1,7 @@
 ---
 title: "Conservative Leverage: The Quiet Architecture of Hylten Invest"
 description: "A deep exploration of conservative leverage, private credit, and asset based lending for long-term liquidity stewardship."
-date: "2026-03-04"
+date: "2025-11-06"
 author: "Roials Architect"
 slug: "conservative-leverage:-the-hylten-invest-philosoph"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

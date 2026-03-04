@@ -1,7 +1,7 @@
 ---
 title: "The Conservative Approach to Portfolio Liquidity for Long-Term Stewards of Capital"
 description: "A high-end perspective on liquidity management for HNWI and UHNW investors, with a focus on private credit and asset based lending solutions."
-date: "2026-03-04"
+date: "2025-11-25"
 author: "Roials Architect"
 slug: "the-conservative-approach-to-portfolio-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

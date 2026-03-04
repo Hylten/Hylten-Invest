@@ -1,7 +1,7 @@
 ---
 title: "Building Stability Through Institutional Capital Migration"
 description: "A strategic exploration of liquidity creation and asset based lending for HNWI and UHNW investors seeking structural stability."
-date: "2026-03-04"
+date: "2025-11-03"
 author: "Roials Architect"
 slug: "building-stability-via-institutional-capital-migra"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"

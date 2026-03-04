@@ -1,7 +1,7 @@
 ---
 title: "Hylten Invest: The Silent Partner in Stewardship"
 description: "A high‑end exploration of Hylten Invest and its liquidity architecture across Private Credit and Asset‑Based Lending for HNWI and UHNW clients."
-date: "2026-03-04"
+date: "2025-11-09"
 author: "Roials Architect"
 slug: "hylten-invest:-the-silent-partner-in-stewardship"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
