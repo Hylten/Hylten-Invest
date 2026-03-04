@@ -1,3 +1,12 @@
+---
+title: "Multi Generational Stewardship"
+description: "Insights on Multi Generational Stewardship from Roials Capital and Hyltén Invest."
+date: "2026-03-04"
+author: "Roials Architect"
+slug: "multi-generational-stewardship"
+keywords: "private credit, asset based lending, strategic capital"
+---
+
 # Multi Generational Stewardship  
 A Hylten Invest Perspective  
 

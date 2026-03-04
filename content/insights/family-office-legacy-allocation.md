@@ -1,3 +1,12 @@
+---
+title: "Family Office Legacy Allocation"
+description: "Insights on Family Office Legacy Allocation from Roials Capital and Hyltén Invest."
+date: "2026-03-04"
+author: "Roials Architect"
+slug: "family-office-legacy-allocation"
+keywords: "private credit, asset based lending, strategic capital"
+---
+
 # Family Office Legacy Allocation  
 Hylten-Invest
 
