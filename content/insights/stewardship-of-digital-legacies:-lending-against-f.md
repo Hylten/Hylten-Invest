@@ -1,11 +1,11 @@
-```yaml
+---
 title: "Stewardship of Digital Legacies: Lending Against Family Crypto Holdings"
 description: "A high level exploration of liquidity creation through private credit and asset based lending. Focused on HNWI and UHNW families seeking structured solutions using crypto and public shares."
 date: "2026-03-04"
 author: "Roials Architect"
 slug: "stewardship-of-digital-legacies:-lending-against-f"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Hylten-Invest"
-```
+---
 
 # Stewardship of Digital Legacies: Lending Against Family Crypto Holdings
 
