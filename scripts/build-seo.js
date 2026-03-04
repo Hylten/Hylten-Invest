@@ -33,22 +33,29 @@ async function generateSEO() {
 
 
     // Tracking Injection
-    const seoConfig = JSON.parse(fs.readFileSync(path.join(__dirname, '../../seo_config.json'), 'utf8'));
     let trackingScript = '';
-    if (seoConfig.tracking.google_analytics_id) {
-        trackingScript += `
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=${seoConfig.tracking.google_analytics_id}"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', '${seoConfig.tracking.google_analytics_id}');
-        </script>`;
-    }
-    if (seoConfig.tracking.search_console_id) {
-        trackingScript += `
+    try {
+        const configPath = path.join(__dirname, '../../seo_config.json');
+        if (fs.existsSync(configPath)) {
+            const seoConfig = JSON.parse(fs.readFileSync(configPath, 'utf8'));
+            if (seoConfig.tracking.google_analytics_id) {
+                trackingScript += `
+                <!-- Google tag (gtag.js) -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=${seoConfig.tracking.google_analytics_id}"></script>
+                <script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', '${seoConfig.tracking.google_analytics_id}');
+                </script>`;
+            }
+            if (seoConfig.tracking.search_console_id) {
+                trackingScript += `
 <meta name="google-site-verification" content="${seoConfig.tracking.search_console_id}" />`;
+            }
+        }
+    } catch (e) {
+        console.warn('⚠️ No seo_config.json found or failed to parse. Skipping tracking injection.');
     }
 
     const baseHtml = fs.readFileSync(indexHtmlPath, 'utf8')
