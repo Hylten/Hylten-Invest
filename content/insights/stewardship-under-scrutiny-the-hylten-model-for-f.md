@@ -23,7 +23,7 @@ This is the central tension addressed by the Hylten Model.
 
 A model anchored in Christian stewardship.  
 A model framed by the Spirit of Gnosjö.  
-A model forged under the same scrutiny faced by Fund III capital allocators who carry fiduciary authority as a moral calling rather than a professional badge.
+A model forged under the same scrutiny faced by Fund-III capital allocators who carry fiduciary authority as a moral calling rather than a professional badge.
 
 This document establishes the doctrine, the architecture, and the operational blueprint for family offices that seek not only to retain wealth but to justify it.
 
@@ -80,7 +80,7 @@ This is asset hardening at the cultural level before it is ever applied to a bal
 
 ## Institutional Scrutiny as Refinement
 
-The Fund III allocator is the purest lens available for evaluating stewardship.
+The Fund-III allocator is the purest lens available for evaluating stewardship.
 
 Not because of prestige.  
 Not because of financial scale.  

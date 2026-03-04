@@ -250,7 +250,7 @@ In private wealth today the Spirit of Gnosjö translates into three institutiona
 2. Long horizon planning.  
 3. Capacity to allocate capital with conviction.
 
-This is the architecture that Fund III allocators search for.  
+This is the architecture that Fund-III allocators search for.  
 This is the architecture that family offices must restore.  
 This is the architecture that aligns with the conservative Christian mandate.
 

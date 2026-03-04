@@ -13,7 +13,7 @@ Institutional capital moves toward order.
 Families that endure build toward covenant.  
 Markets reward the few who understand both.
 
-This text defines the doctrine of structural alignment as practiced within Hylten-Invest and adjacent Fund III grade mandates. It is written for principals, allocators, and owners carrying multi generational intent under a conservative Christian worldview. It is not advisory language. It is a framing of capital as vocation.
+This text defines the doctrine of structural alignment as practiced within Hylten-Invest and adjacent Fund-III grade mandates. It is written for principals, allocators, and owners carrying multi generational intent under a conservative Christian worldview. It is not advisory language. It is a framing of capital as vocation.
 
   
 
@@ -22,7 +22,7 @@ This text defines the doctrine of structural alignment as practiced within Hylte
 A mature enterprise operates under mandate.  
 A mandate is not a goal. A mandate is an assignment.
 
-For Hylten-Invest and aligned Fund III grade activities, the core mandates remain:
+For Hylten-Invest and aligned Fund-III grade activities, the core mandates remain:
 
 - North American Energy Opportunities  
 - European acquisition corridor under MiFID II  

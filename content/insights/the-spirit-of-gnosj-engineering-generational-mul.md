@@ -60,7 +60,7 @@ They do not have the intergenerational accountability network.
 
 ## Why the Institutional Sector Misunderstands Gnosjö
 
-Fund III capital is often prepared for technical diligence.  
+Fund-III capital is often prepared for technical diligence.  
 It is rarely prepared for theological diligence.  
 This is why many institutional professionals misread the Spirit of Gnosjö.  
 
@@ -232,7 +232,7 @@ patience
 anti cyclic opportunity capture  
 stable capitalization  
 
-This is the environment in which Fund III partners can operate with clarity.  
+This is the environment in which Fund-III partners can operate with clarity.  
 This is where institutional capital finds a long term home.  
 
 ## The Role of Hylten-Invest

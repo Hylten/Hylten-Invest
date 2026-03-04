@@ -20,7 +20,7 @@ This is the foundation of the industrial mandate.
 
 This mandate precedes modern financial vocabulary. It is older than private equity, older than corporate law, and older than the language of economic theory. It is the doctrine that governed the early Christian merchants. It shaped the industrial rise of Sweden’s Gnosjö region. And it defines the moral authority under which Hylten-Invest and aligned institutions operate today.
 
-This text outlines that doctrine for an institutional audience operating at Fund III scale and above.  
+This text outlines that doctrine for an institutional audience operating at Fund-III scale and above.  
 
 The objective is architectural clarity.  
 No spectacle.  
