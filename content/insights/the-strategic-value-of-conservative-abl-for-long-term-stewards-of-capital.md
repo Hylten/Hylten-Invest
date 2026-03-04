@@ -3,7 +3,7 @@ title: "The Strategic Value of Conservative ABL for Long-Term Stewards of Capita
 description: "A high-level exploration of conservative asset-based liquidity engineering and private credit as liquidity architecture for HNWI and UHNW portfolios."
 date: "2025-11-24"
 author: "Jonas Hyltén"
-slug: "the-strategic-value-of-conservative-abl"
+slug: "the-strategic-value-of-conservative-abl-for-long-term-stewards-of-capital"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 

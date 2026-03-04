@@ -3,7 +3,7 @@ title: "Strategic Liquidity Architecture for UHNW Families in Volatile Markets"
 description: "A high‑end overview of how UHNW families protect liquidity through private credit and asset based liquidity engineering structures."
 date: "2025-11-12"
 author: "Jonas Hyltén"
-slug: "protecting-uhnw-families-from-market-volatility"
+slug: "strategic-liquidity-architecture-for-uhnw-families-in-volatile-markets"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 

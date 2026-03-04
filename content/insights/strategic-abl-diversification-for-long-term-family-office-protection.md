@@ -1,7 +1,7 @@
 ---
 title: "Strategic ABL Diversification for Long Term Family Office Protection"
 description: "A high level perspective on liquidity preservation and asset protection through private credit and asset based liquidity engineering for HNWI and Family Offices."
-date: "2025-11-11"
+date: "2025-11-16"
 author: "Jonas Hyltén"
 slug: "strategic-abl-diversification-for-long-term-family-office-protection"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"

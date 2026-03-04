@@ -3,7 +3,7 @@ title: "Legacy Hardening for Multi-Generational Wealth: Structural Liquidity for
 description: "A high-end analysis of liquidity architecture, private credit, and asset based liquidity engineering for long-term wealth preservation and strategic family continuity."
 date: "2025-11-07"
 author: "Jonas Hyltén"
-slug: "legacy-hardening-for-multi-generational-wealth"
+slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-enduring-dynasties"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Hylten-Invest"
 ---
 
