@@ -3,21 +3,26 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
 function parseFrontmatter(raw: string) {
-    const match = raw.match(/^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/);
-    if (!match) return { data: {} as Record<string, string>, content: raw };
-    const frontmatter = match[1];
-    const content = match[2];
+    const lines = raw.split(/\r?\n/);
+    if (!lines[0] || lines[0].trim() !== '---') return { data: {} as Record<string, string>, content: raw };
+
     const data: Record<string, string> = {};
-    for (const line of frontmatter.split('\n')) {
+    let i = 1;
+    while (i < lines.length && lines[i].trim() !== '---') {
+        const line = lines[i];
         const colonIdx = line.indexOf(':');
-        if (colonIdx === -1) continue;
-        const key = line.slice(0, colonIdx).trim();
-        let value = line.slice(colonIdx + 1).trim();
-        if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
-            value = value.slice(1, -1);
+        if (colonIdx !== -1) {
+            const key = line.slice(0, colonIdx).trim();
+            let value = line.slice(colonIdx + 1).trim();
+            if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
+                value = value.slice(1, -1);
+            }
+            data[key] = value;
         }
-        data[key] = value;
+        i++;
     }
+
+    const content = lines.slice(i + 1).join('\n');
     return { data, content };
 }
 
