@@ -37,16 +37,16 @@ Private Credit becomes an instrument of resilience, allowing families to transit
 
 ## Asset Based Monetization Architecture as a Discipline of Order
 
-Asset Based Capital Structuring, ABL, is an ancient concept refined by modern execution. 
+Asset Based Capital Structuring, Asset-Based Lending, is an ancient concept refined by modern execution. 
 It is the practice of letting assets speak for themselves. 
 Not their sentiment. 
 Not their market noise. 
 Their structural value. 
 
-At Hylten‑Invest we apply ABL to complex portfolios with conservative methodology. 
+At Hylten‑Invest we apply Asset-Based Lending to complex portfolios with conservative methodology. 
 Our intention is to create liquidity channels that honor the asset, its long‑term purpose, and the privacy of the owner. 
 
-ABL supports scenarios where liquidity is required without selling: 
+Asset-Based Lending supports scenarios where liquidity is required without selling: 
 
 • Rebalancing portfolios during market dislocations. 
 • Funding private acquisitions or strategic consolidations. 
@@ -216,12 +216,8 @@ It is a worldview.
 It is a commitment to intergenerational clarity. 
 
 Hylten‑Invest serves clients who understand that wealth is most powerful when it is quiet, protected, and structurally optimized. 
-Our Monetization Architecture frameworks, from Private Credit to ABL to significant crypto and public share positions, exist to reinforce this philosophy. 
+Our Monetization Architecture frameworks, from Private Credit to Asset-Based Lending to significant crypto and public share positions, exist to reinforce this philosophy. 
 
 For those who require silent authority and long‑term precision, our doors remain discreetly open. 
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

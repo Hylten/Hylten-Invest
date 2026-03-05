@@ -49,11 +49,11 @@ It prevents dilution of strategic positions.
 
  
 
-ABL allows portfolios to maintain broad exposure while freeing liquidity for new opportunities. It supports business transitions. It supports acquisition strategies. It supports investment acceleration without affecting long term asset structures.
+Asset-Based Lending allows portfolios to maintain broad exposure while freeing liquidity for new opportunities. It supports business transitions. It supports acquisition strategies. It supports investment acceleration without affecting long term asset structures.
 
  
 
-At Hyltén Invest we lend against ABL with conservative ratios designed for longevity. For families and private offices, this provides predictable liquidity without compromising stability.
+At Hyltén Invest we lend against Asset-Based Lending with conservative ratios designed for longevity. For families and private offices, this provides predictable liquidity without compromising stability.
 
  
 
@@ -193,7 +193,7 @@ It allows opportunity capture at the correct moment.
 
  
 
-Hybrid portfolios optimize liquidity through multi collateral frameworks. Private credit. ABL. Crypto assets. Public shares. Each of these channels provides a different form of liquidity with its own cycle, cost, and timeline.
+Hybrid portfolios optimize liquidity through multi collateral frameworks. Private credit. Asset-Based Lending. Crypto assets. Public shares. Each of these channels provides a different form of liquidity with its own cycle, cost, and timeline.
 
  
 
@@ -217,7 +217,7 @@ When timing becomes a risk instead of a choice.
 
  
 
-Hybrid portfolio stewardship reduces fragility by introducing parallel liquidity pathways. Asset-Backed Frameworks against private credit protects yield. Monetization Architecture against ABL protects assets. Crypto Institutional Liquidity Paths preserves participation in digital markets. Public share Capital Structuring prevents forced liquidation.
+Hybrid portfolio stewardship reduces fragility by introducing parallel liquidity pathways. Asset-Backed Frameworks against private credit protects yield. Monetization Architecture against Asset-Based Lending protects assets. Crypto Institutional Liquidity Paths preserves participation in digital markets. Public share Capital Structuring prevents forced liquidation.
 
  
 
@@ -312,9 +312,5 @@ Hyltén Invest serves as the structural layer beneath that architecture. Through
 This is Silent Authority.
 
  
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

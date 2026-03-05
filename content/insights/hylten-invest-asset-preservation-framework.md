@@ -172,10 +172,6 @@ Generational capital is not an inheritance. It is a trust. A covenant. A charge 
 
 Preservation is not passive. Preservation is engineered. Designed. Enforced. Reaffirmed. Every decision must serve the third generation, not the present one. That is the doctrine. That is the duty. That is the architecture.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Contact for stewardship discussion.
 
 Mandate Efficiency Index: 0.87

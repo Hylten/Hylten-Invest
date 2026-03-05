@@ -99,7 +99,7 @@ But they also inherit the structures that stabilize those assets.
 
 Private credit access becomes part of the family architecture. 
 
-ABL facilities become part of the long horizon plan. 
+Asset-Based Lending facilities become part of the long horizon plan. 
 
 Liquidity strategies become part of the stewardship education. 
 
@@ -186,9 +186,5 @@ Private credit and asset based Institutional Liquidity Paths provide this.
 Hyltén Invest exists to steward these systems with minimalist precision and long term integrity. 
 
  
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

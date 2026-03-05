@@ -13,7 +13,7 @@ True wealth is not measured by velocity. It is measured by control.
 
 Control of capital. Control of structure. Control of time.
 
-For High Net Worth and Ultra High Net Worth individuals, the stewardship of sovereign assets is not a short-term discipline. It is a continuum, built on clarity, discretion, and precise liquidity architecture.
+For High Net Worth and Ultra High Net Worth individuals, the stewardship of sovereign assets is not a short-term discipline. It is a continuum, built on clarity, discretion, and precise liquidity architecture. (See [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 Hyltén Invest exists within this continuum. We focus on the structural mechanics, not the spectacle. Our mandate is to provide silent authority behind the scenes, enabling private capital to flow with stability and purpose.
 
@@ -34,9 +34,5 @@ Sovereign families and private investors require more than capital. They require
 Hyltén Invest exists to provide this foundation.
 
 Silent. Minimal. Enduring.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

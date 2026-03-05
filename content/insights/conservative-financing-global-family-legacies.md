@@ -86,10 +86,6 @@ Hylten-Invest stands as steward. Architect. Principal authority. The mandate is 
 
 For families seeking conservative financing frameworks for multi‑generational legacy systems, the path begins with structural assessment, liquidity mapping, and jurisdictional recalibration. Each family is unique. The architecture is bespoke. The doctrine is shared. Stewardship first. Stability always. Legacy without compromise.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Contact for stewardship discussion.
 
 Terminal Metric: LTV Target 42.7%.

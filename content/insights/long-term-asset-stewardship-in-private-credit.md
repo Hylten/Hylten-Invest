@@ -77,4 +77,3 @@ Hyltén Invest maintains a focused and selective approach.
 For inquiries related to long-term asset stewardship and private credit structures, contact for a stewardship discussion.
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

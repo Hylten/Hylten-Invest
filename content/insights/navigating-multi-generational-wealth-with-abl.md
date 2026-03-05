@@ -1,13 +1,13 @@
 ---
-title: "Navigating Multi-Generational Wealth with ABL"
+title: "Navigating Multi-Generational Wealth with Asset-Based Lending"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth preservation."
 date: "2025-03-28"
 author: "Hyltén Invest"
 slug: "navigating-multi-generational-wealth-with-abl"
-keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Hyltén Invest"
+keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
-# Navigating Multi-Generational Wealth with ABL
+# Navigating Multi-Generational Wealth with Asset-Based Lending
 
 Multi generational wealth is not merely inherited, it is engineered.
 
@@ -25,7 +25,7 @@ Hylten Invest operates in this quiet space. The space where capital efficiency m
 
  
 
-This article explores how families use ABL to navigate decades, not quarters. It explains why the right Monetization Architecture structure determines how well capital can move through time. And it highlights why private credit, crypto Asset-Backed Frameworks, and public share Institutional Liquidity Paths must be handled with institutional precision, not retail enthusiasm.
+This article explores how families use Asset-Based Lending to navigate decades, not quarters. It explains why the right Monetization Architecture structure determines how well capital can move through time. And it highlights why private credit, crypto Asset-Backed Frameworks, and public share Institutional Liquidity Paths must be handled with institutional precision, not retail enthusiasm.
 
 ## Multi Generational Wealth Requires Stillness
 
@@ -39,7 +39,7 @@ Stillness is a strategic asset.
 
  
 
-ABL creates that stillness. 
+Asset-Based Lending creates that stillness. 
 It gives families room to make decisions without urgency. 
 It protects the compounding engine at the core of the balance sheet. 
 It aligns liquidity with long term purpose rather than short term need.
@@ -58,7 +58,7 @@ Every family that preserves wealth across generations has a quiet architecture b
 
  
 
-ABL is one of those structural pillars.
+Asset-Based Lending is one of those structural pillars.
 
  
 Private credit is another.
@@ -84,12 +84,8 @@ Asset based Monetization Architecture is not about debt. It is about continuity.
 
  
 
-For the families that understand this, ABL is not optional. It is essential.
+For the families that understand this, Asset-Based Lending is not optional. It is essential.
 
  
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

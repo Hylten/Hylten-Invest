@@ -251,7 +251,7 @@ The long term nature of family wealth demands flexibility, not complexity.
 
 There should always be a clear liquidity buffer relative to commitments, investment needs, and risk scenarios. 
 
-Liquidity coverage protects the family from external shocks and internal transitions.
+Liquidity coverage protects the family from external shocks and internal transitions. (See [special mandates execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 ## Integrating Credit Into Family Office Structure
 
@@ -324,4 +324,3 @@ It is one of the most powerful expressions of long term stewardship.
 Contact for stewardship discussion
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -1,6 +1,6 @@
 ---
 title: "Designing the Resilient Family Office Balance Sheet"
-description: "A high authority exploration of liquidity engineering and asset based Capital Structuring for HNWI and UHNW families seeking structural resilience."
+description: "A high authority exploration of liquidity engineering and asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/) for HNWI and UHNW families seeking structural resilience."
 date: "2021-06-02"
 author: "Hyltén Invest"
 slug: "designing-the-resilient-family-office-balance-sheet"
@@ -386,9 +386,5 @@ Hyltén Invest serves families who view capital as a long term responsibility.
 We operate with silent authority.
 
 We provide stability in a world defined by noise.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

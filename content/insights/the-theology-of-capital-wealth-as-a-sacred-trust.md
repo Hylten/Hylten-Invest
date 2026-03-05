@@ -4,7 +4,7 @@ description: "The Theology Of Capital: Wealth As A Sacred Trust"
 date: "2023-11-26"
 author: "Hyltén Invest"
 slug: "the-theology-of-capital-wealth-as-a-sacred-trust"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # The Theology of Capital 
@@ -312,9 +312,5 @@ Every decision.
 For those called to govern significant resources. 
 For those responsible for dynastic futures. 
 For those aligned with the Christian conservative tradition of industrious stewardship.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

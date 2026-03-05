@@ -115,7 +115,7 @@ The valuation must be conservative.
  
 The structure must be unambiguous.
 
-For HNWI and UHNW lenders or borrowers, ABL is particularly useful because it restores measurable certainty to environments that often become opaque.
+For HNWI and UHNW lenders or borrowers, Asset-Based Lending is particularly useful because it restores measurable certainty to environments that often become opaque.
 
 Private credit funds may lengthen redemption windows. 
  
@@ -123,7 +123,7 @@ Secondary markets may thin.
  
 Counterparty risk may rise quietly while documentation remains static.
 
-ABL reintroduces precision.
+Asset-Based Lending reintroduces precision.
 
 Hyltén Invest specializes in this domain. 
  
@@ -321,11 +321,10 @@ As volatility rises, the value of quiet, disciplined capital rises with it.
 
 Hyltén Invest will continue to serve as an anchor for those who prioritize longevity over immediacy. 
  
-Our focus will remain on Asset-Backed Frameworks against private credit, ABL structures, crypto positions above two million dollars, and public equity positions above five million dollars.
+Our focus will remain on Asset-Backed Frameworks against private credit, Asset-Based Lending structures, crypto positions above two million dollars, and public equity positions above five million dollars.
 
 We will continue to provide the silent structural layer that institutional capital requires, and that private families trust.
 
 ## Contact for stewardship discussion
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

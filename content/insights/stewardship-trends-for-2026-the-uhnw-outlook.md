@@ -48,7 +48,7 @@ There is a growing trend toward outsourcing non essential functions and centrali
 One of the biggest shifts is the incorporation of private Monetization Architecture lines as a permanent feature of family office infrastructure. 
 This includes: 
 • credit secured against private assets 
-• liquidity sourced through ABL mechanics 
+• liquidity sourced through Asset-Based Lending mechanics 
 • dedicated crypto Institutional Liquidity Paths channels 
 • public equity Capital Structuring used as a baseline facility
 
@@ -113,8 +113,5 @@ We provide the mechanics.
 You maintain control.
 
  
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

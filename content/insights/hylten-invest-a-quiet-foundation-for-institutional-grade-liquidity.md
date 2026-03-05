@@ -89,7 +89,7 @@ Hylten Invest has refined this category into a service model built for clients w
 
  
 
-ABL structures allow assets to perform dual roles. They remain part of long term holdings, yet they also become vehicles for liquidity generation. This dual utility is extremely valuable for HNWI and family offices that prefer not to liquidate but also prefer not to remain static. 
+Asset-Based Lending structures allow assets to perform dual roles. They remain part of long term holdings, yet they also become vehicles for liquidity generation. This dual utility is extremely valuable for HNWI and family offices that prefer not to liquidate but also prefer not to remain static. 
 
  
 
@@ -266,4 +266,3 @@ This is the foundation that Hylten Invest continues to build.
 For principals, family offices, or advisors seeking long term liquidity stewardship, contact for a stewardship discussion.
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

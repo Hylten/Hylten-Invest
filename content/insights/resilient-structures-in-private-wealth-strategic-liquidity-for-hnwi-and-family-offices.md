@@ -45,7 +45,7 @@ These assets are often long term by design. They can be illiquid by nature. They
 
 Resilience recognizes this reality. It does not attempt to convert long term assets into transactional assets. Instead, it installs mechanisms that allow the family to keep the asset while activating its potential energy when needed.
 
-This is where private credit and ABL Capital Structuring become instruments of stability rather than instruments of leverage.
+This is where private credit and Asset-Based Lending Capital Structuring become instruments of stability rather than instruments of leverage.
 
 ## Why Liquidity Architecture Matters for HNWI and Family Offices
 
@@ -83,7 +83,7 @@ For families, clarity is a foundation of resilience.
 
 Asset based Asset-Backed Frameworks provides one of the most adaptable liquidity channels for private wealth portfolios. 
 
-ABL is not designed for short term arbitrage. It is designed for long term stewardship. 
+Asset-Based Lending is not designed for short term arbitrage. It is designed for long term stewardship. 
 
 By Asset-Backed Frameworks against collateral with definable value patterns, we unlock liquidity without forcing asset liquidation. The family retains ownership. They retain upside. They retain control of the asset’s future trajectory.
 
@@ -210,7 +210,4 @@ The aim is not to reshape the family vision.
 The aim is to reinforce it.
 
 For families seeking structural resilience and long term stewardship, 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 contact for stewardship discussion.

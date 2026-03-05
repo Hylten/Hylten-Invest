@@ -21,7 +21,7 @@ European industrial families have historically understood this pattern. They anc
 
 PHASE 2: TECHNICAL MECHANICS OF STEWARDSHIP CAPITAL
 
-Sovereign grade capital systems operate differently from conventional investment strategies. They prioritize balance sheet integrity, productive asset hardening, and multi cycle resilience. The objective is not tactical performance. It is continuity. This produces distinct mechanics that institutional allocators increasingly study for their structural advantages.
+Sovereign grade capital systems operate differently from conventional investment strategies. They prioritize balance sheet integrity, productive asset hardening, and multi cycle resilience. The objective is not tactical performance. It is continuity. This produces distinct mechanics that institutional allocators increasingly study for their structural advantages. (See [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 The first mechanic is capital permanence. Permanent or semi permanent capital structures reduce the forced selling risk that defines most market downturns. Families and sovereign entities with multi generational mandates outperform not because they predict cycles, but because they are never required to liquidate at the bottom of them. This is the sovereign capital advantage.
 
@@ -76,4 +76,3 @@ Roials Capital supports allocators by offering confidential strategy calibration
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

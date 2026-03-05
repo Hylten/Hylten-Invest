@@ -51,8 +51,4 @@ The final requirement is institutional posture. Families must act like instituti
 
 This briefing stands as a blueprint. A sovereign architecture for digital legacies. Not abstraction. Infrastructure. Not hype. Discipline. Not speculation. Stewardship. The purpose is not merely preservation. The purpose is continuity. Inheritance is not a transaction. It is a mandate.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Contact for stewardship discussion. Metric: target liquidity coverage ratio 1.85.

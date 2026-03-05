@@ -92,7 +92,7 @@ This includes financing backed by private credit, select business assets, and ot
 
  
 
-ABL introduces a structural layer that complements wealth preservation strategies. 
+Asset-Based Lending introduces a structural layer that complements wealth preservation strategies. 
 It converts static value into flexible value while respecting risk boundaries and long term mandates. 
 
  
@@ -103,7 +103,7 @@ It ensures that assets remain in place while still allowing capital to flow when
  
 
 Stewardship is often defined by what is preserved. 
-ABL supports that discipline. 
+Asset-Based Lending supports that discipline. 
 
  
 
@@ -197,7 +197,7 @@ Through alignment.
  
 
 Private credit becomes a base. 
-ABL becomes a support. 
+Asset-Based Lending becomes a support. 
 Digital assets become an optional component of future alternative value. 
 Public share holdings become the long term anchor. 
 
@@ -288,4 +288,3 @@ For families who prefer silent authority over visible complexity, we remain the 
 Contact for stewardship discussion
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

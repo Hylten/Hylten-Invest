@@ -61,7 +61,7 @@ It slows the portfolio down in a world that pushes everything to move faster.
 
 ## Asset-Based Strategic Collateralization, A Counterpoint to Volatility
 
-Asset Based Institutional Liquidity Paths, ABL, is the quiet counterweight to market-driven liquidity strategies. 
+Asset Based Institutional Liquidity Paths, Asset-Based Lending, is the quiet counterweight to market-driven liquidity strategies. 
 
 It is mechanical, not emotional. 
 
@@ -69,7 +69,7 @@ It is collateral-focused, not narrative-focused.
 
 It values quality assets for what they are, not for what markets temporarily believe they might be. 
 
-ABL is particularly well suited to families who operate with multi-cycle thinking. 
+Asset-Based Lending is particularly well suited to families who operate with multi-cycle thinking. 
 
 The asset remains in place, protected, strategically positioned. 
 
@@ -85,7 +85,7 @@ No complexity for the sake of sophistication.
 
 Just stability, clarity, and durability. 
 
-## Why Families Choose ABL Over Asset Disposal
+## Why Families Choose Asset-Based Lending Over Asset Disposal
 
 HNWI and UHNW families rarely sell assets because they want to. 
 
@@ -95,7 +95,7 @@ An intergenerational transition, a new allocation requirement, a need to rebalan
 
 These moments often come when markets are mispriced, volatile, or in decline. 
 
-ABL prevents the erosion that comes from forced timing. 
+Asset-Based Lending prevents the erosion that comes from forced timing. 
 
 Instead of selling a foundational asset, the family leverages it. 
 
@@ -167,7 +167,7 @@ Protect.
 
 Continue. 
 
-## Capital Structuring Against Private Credit and ABL at Hyltén Invest
+## Capital Structuring Against Private Credit and Asset-Based Lending at Hyltén Invest
 
 Our framework is intentionally minimal. 
 
@@ -327,7 +327,7 @@ The next decades will likely produce more volatility, more regulation, and more 
 
 Families that rely solely on traditional equity and fixed income portfolios may experience increasing stress around timing, taxation, and market dependency. 
 
-Private credit and ABL will become essential tools for anyone seeking stability. 
+Private credit and Asset-Based Lending will become essential tools for anyone seeking stability. 
 
 They will reduce forced disposals. 
 
@@ -350,4 +350,3 @@ Without noise.
 Contact for stewardship discussion
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

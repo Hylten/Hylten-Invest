@@ -41,7 +41,7 @@ Småland’s cadence beats Wall Street’s complexity because coherence beats co
 
 This is the true anatomy of the Syndikatet: small players with large discipline outperform large players with small conviction. A machinist with moral authority can outlast a banker with no skin in the game. A family with a factory can outmaneuver a fund with a thesis. A community with shared faith can out-stabilize any macro hedge. Småland is not low-tech. Småland is high-trust. High-trust is the apex technology.
 
-Theology is not separate from capital. Theology shapes the allocator. The allocator shapes the institution. Institutions shape outcomes. When the allocator is formed under the doctrine of stewardship, capital becomes aligned with purpose. Capital becomes aligned with continuity. Capital becomes aligned with the next generation, not the next quarter. This is the backbone of the Hyltén-Invest mandate. A fund is not a vehicle. A fund is a promise. A fund is a guardian of names yet unborn.
+Theology is not separate from capital. Theology shapes the allocator. The allocator shapes the institution. Institutions shape outcomes. When the allocator is formed under the doctrine of stewardship, capital becomes aligned with purpose. Capital becomes aligned with continuity. Capital becomes aligned with the next generation, not the next quarter. This is the backbone of the Hyltén-Invest mandate. A fund is not a vehicle. A fund is a promise. A fund is a guardian of names yet unborn. (See [special mandates execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 Wall Street optimizes exits. Småland optimizes inheritance. Different time horizons. Different moral weights. Different strategic posture. If the horizon is five years, complexity appears rational. If the horizon is fifty years, complexity becomes absurd. Layers collapse under long-term scrutiny. Only integrity remains. Only craftsmanship remains. Only discipline remains. Only trust remains.
 
@@ -50,10 +50,6 @@ The Syndikatet is not nostalgia. It is modern in the only relevant sense: enduri
 This is why capital raised under the Hyltén-Invest banner must speak the same language. Must carry the same moral weight. Must reject the intoxication of unnecessary complication. Must commit to clarity, covenant, and continuity. The strength of Fund-III is not its structure. The strength is its spirit. The same spirit that built factories from forests and fortunes from diligence.
 
 The next era of capital belongs to those who understand that trust is the new alpha. Stewardship is the new governance. Character is the new collateral. Everything else is noise. Everything else is speculation. Everything else is drift.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.
 

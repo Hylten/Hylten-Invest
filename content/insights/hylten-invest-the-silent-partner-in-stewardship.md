@@ -65,7 +65,7 @@ Only clarity and control.
 
 Asset‑Based Capital Structuring is one of the most mature and misunderstood financing structures in the market. 
 
-For Hylten Invest, ABL is not a retail product. It is a high‑integrity architecture used to stabilize liquidity around core asset holdings. 
+For Hylten Invest, Asset-Based Lending is not a retail product. It is a high‑integrity architecture used to stabilize liquidity around core asset holdings. 
 
 The firm lends against assets with minimal sentiment sensitivity. 
 
@@ -240,9 +240,5 @@ For those who value conservative leverage structures that reinforce, rather than
 Hylten Invest remains the silent partner in stewardship. 
 
 Rarely visible. Always present. 
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

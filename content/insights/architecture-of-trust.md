@@ -111,8 +111,4 @@ The architecture of trust is validated not in origination but in exit. A well-ar
 
 Recovery variance under 3 percent. 
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Contact for stewardship discussion.

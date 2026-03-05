@@ -136,8 +136,4 @@ For those who operate at scale, alignment is not optional. It is the foundation 
 
  
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Contact for stewardship discussion.

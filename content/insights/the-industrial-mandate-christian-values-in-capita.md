@@ -4,7 +4,7 @@ description: "The Industrial Mandate: Christian Values In Capita"
 date: "2021-03-21"
 author: "Hyltén Invest"
 slug: "the-industrial-mandate-christian-values-in-capita"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # The Industrial Mandate. Christian Values in Capital Deployment
@@ -311,9 +311,5 @@ A testament to stewardship.
 
 This is the mandate under which Hyltén Invest and aligned partners operate. 
 This is the standard expected of every owner, manager, and institutional participant.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

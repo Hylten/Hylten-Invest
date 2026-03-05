@@ -52,7 +52,7 @@ PHASE 3: THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator across these landscapes. The firm’s role is not to own assets. It is to align institutional allocators with operators and strategies that reflect mature stewardship principles. In the North American energy domain, this includes institutional introduction to NAEO and comparable operator archetypes whose extraction methodology, balance sheet management, and field discipline mirror the industrial heritage of responsible European manufacturing.
 
-This is an alternative to the modern accelerationist capital model. The current market rewards aggressive leverage, rapid deployment, and short horizon monetization. Stewardship rejects this rhythm. Stewardship requires Asset-Backed Frameworks that honors resilience, not expansion for its own sake. It requires balance sheet optimization that serves long term sustainability.
+This is an alternative to the modern accelerationist capital model. The current market rewards aggressive leverage, rapid deployment, and short horizon monetization. Stewardship rejects this rhythm. Stewardship requires [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) that honors resilience, not expansion for its own sake. It requires balance sheet optimization that serves long term sustainability.
 
 The allocator aligned with stewardship will understand why:
 
@@ -111,4 +111,3 @@ Capital must be governed with moral intelligence. Stewardship is not optional. I
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

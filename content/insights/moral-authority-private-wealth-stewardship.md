@@ -98,9 +98,6 @@ The calculus is simple: moral authority creates institutional authority. Institu
 Legacy is not memory. Legacy is governance.
 
 For further alignment, 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 contact for stewardship discussion.
 
 Technical Mandate: 4.6% Stewardship Delta Index.

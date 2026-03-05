@@ -4,7 +4,7 @@ description: "Moral Authority In Private Wealth Stewardship"
 date: "2022-12-28"
 author: "Hyltén Invest"
 slug: "moral-authority-in-private-wealth-stewardship"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Moral Authority in Private Wealth Stewardship
@@ -346,9 +346,5 @@ They choose discipline.
 They choose the theology of capital rightly ordered. 
 They choose to build under the Spirit of Gnosjö. 
 They choose stewardship as testimony.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

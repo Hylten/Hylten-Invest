@@ -96,7 +96,7 @@ Our approach is neither aggressive nor speculative. It is architectural.
 
 Asset Based Monetization Architecture provides another pathway, particularly for investors with operating companies, real assets, or complex family holdings. 
 
-ABL respects the underlying value while providing clean access to liquidity. 
+Asset-Based Lending respects the underlying value while providing clean access to liquidity. 
 
 It avoids the noise of valuation disputes that often arise in more flexible financing environments. 
 
@@ -104,7 +104,7 @@ It is transparent.
 It is conservative. 
 It is repeatable. 
 
-For family offices managing multiple asset classes, ABL becomes a silent stabiliser. 
+For family offices managing multiple asset classes, Asset-Based Lending becomes a silent stabiliser. 
 
 It supports transitional phases, generational shifts, capex programmes, acquisitions, and defensive allocations. 
 
@@ -223,9 +223,5 @@ Hyltén Invest stands at the intersection of liquidity architecture and long‑t
 Quiet. 
 Precise. 
 Enduring. 
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

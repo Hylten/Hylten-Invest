@@ -67,10 +67,6 @@ The next decade demands capital partners that behave with humility and strength.
 
 Liquidity requires conviction. Stewardship requires conscience. Capital requires purpose. Hylten Invest aligns these elements into a singular operational philosophy. The result is institutional-grade liquidity without institutional fragility. A rare combination. A strategic advantage. A moral stance.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Contact for stewardship discussion.
 
 Terminal Metric: Liquidity Integrity Ratio ≥ 0.97 over 10-year horizon.

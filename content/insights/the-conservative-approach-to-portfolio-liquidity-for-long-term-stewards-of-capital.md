@@ -4,7 +4,7 @@ description: "A high-end perspective on liquidity management for HNWI and UHNW i
 date: "2023-03-15"
 author: "Hyltén Invest"
 slug: "the-conservative-approach-to-portfolio-liquidity-for-long-term-stewards-of-capital"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Hyltén Invest"
+keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Conservative Approach to Portfolio Liquidity
@@ -236,9 +236,5 @@ It extends the lifespan of strategy.
 Hyltén Invest provides the mechanisms required to maintain this stability.
 
 For families who value discretion, structure, and long-term stewardship, engineered liquidity becomes a fundamental part of their legacy architecture.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

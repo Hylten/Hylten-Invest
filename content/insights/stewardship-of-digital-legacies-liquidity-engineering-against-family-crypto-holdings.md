@@ -1,6 +1,6 @@
 ---
 title: "Stewardship of Digital Legacies: liquidity engineering Against Family Crypto Holdings"
-description: "A high level exploration of liquidity creation through private credit and asset based Capital Structuring. Focused on HNWI and UHNW families seeking structured solutions using crypto and public shares."
+description: "A high level exploration of liquidity creation through private credit and asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/). Focused on HNWI and UHNW families seeking structured solutions using crypto and public shares."
 date: "2025-09-10"
 author: "Hyltén Invest"
 slug: "stewardship-of-digital-legacies-liquidity-engineering-against-family-crypto-holdings"
@@ -296,9 +296,5 @@ Our responsibility is to ensure that liquidity and structure travel with it.
 If your family holds substantial digital or public market positions and seeks silent, disciplined liquidity solutions grounded in private credit and asset based Strategic Collateralization, we provide the structure that supports your long term trajectory.
 
  
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

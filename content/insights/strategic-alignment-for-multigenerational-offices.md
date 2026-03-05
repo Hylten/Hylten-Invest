@@ -48,13 +48,13 @@ This allows family offices to:
 
 Our capital is engineered for sophisticated holders. We lend against Private Credit portfolios and Asset Based Institutional Liquidity Paths positions, maintaining the conservative posture required by multi generational stewards.
 
-## Private Credit, ABL, and the Architecture of Optionality
+## Private Credit, Asset-Based Lending, and the Architecture of Optionality
 
 For multi generational families, optionality is a form of wealth conservation. It prevents premature liquidation. It strengthens negotiation positions. It transforms capital into something that moves without noise.
 
  
 
-Private Credit structures and ABL facilities provide this optionality. They turn stored value into mobilized value. They give stewards the ability to respond to emerging opportunities in real time.
+Private Credit structures and Asset-Based Lending facilities provide this optionality. They turn stored value into mobilized value. They give stewards the ability to respond to emerging opportunities in real time.
 
  
 
@@ -88,7 +88,7 @@ Who maintains adherence to the family’s operating thesis.
 Second, capital architecture. 
 Where capital is deployed. 
 How liquidity is sourced. 
-How private credit and ABL frameworks fit within the overall structure.
+How private credit and Asset-Based Lending frameworks fit within the overall structure.
 
  
 
@@ -139,7 +139,7 @@ Credit supports intergenerational transitions with minimal disruption.
 
  
 
-When used under disciplined governance, private credit and ABL structures become the quiet stabilizers of multi generational planning.
+When used under disciplined governance, private credit and Asset-Based Lending structures become the quiet stabilizers of multi generational planning.
 
  
 
@@ -198,7 +198,7 @@ These elements come together to create what can be called strategic gravity, the
 
  
 
-Liquidity provision through private credit and ABL becomes part of this gravity. It ensures consistency. It reduces surprises. It supports long term annualized outcomes.
+Liquidity provision through private credit and Asset-Based Lending becomes part of this gravity. It ensures consistency. It reduces surprises. It supports long term annualized outcomes.
 
  
 
@@ -269,9 +269,5 @@ Hylten‑Invest provides liquidity infrastructure for this long horizon stewards
 Quiet. Conservative. Geared for families whose ambitions span decades, not cycles.
 
  
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

@@ -4,7 +4,7 @@ description: "A high‑end exploration of sovereign capital structures, private 
 date: "2025-05-27"
 author: "Hyltén Invest"
 slug: "sovereign-capital-and-the-legacy-framework-a-discipline-of-enduring-liquidity"
-keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Hyltén Invest"
+keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Sovereign Capital and the Legacy Framework
@@ -81,17 +81,17 @@ This preserves the integrity of the client’s existing allocations while unlock
 
 ## Asset Based Strategic Collateralization in a Sovereign Context
 
-Asset Based Capital Structuring, ABL, is one of the oldest financial mechanisms in history. 
+Asset Based Capital Structuring, Asset-Based Lending, is one of the oldest financial mechanisms in history. 
 
 It is simple, conservative, and effective. 
 
 It allows capital to become a liquid instrument without selling the asset itself.
 
-In the sovereign framework, ABL takes on a different meaning. 
+In the sovereign framework, Asset-Based Lending takes on a different meaning. 
 
 It becomes a stability mechanism.
 
-HNWI and UHNW clients use ABL to maintain liquidity buffers. 
+HNWI and UHNW clients use Asset-Based Lending to maintain liquidity buffers. 
 
 To fund opportunities without touching core holdings. 
 
@@ -319,9 +319,5 @@ It is a method of preserving authority without ever needing to project it.
 For HNWI and UHNW families who value discretion, stability, and long-term stewardship, the sovereign approach is not merely a preference. 
 
 It is the only approach that endures.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

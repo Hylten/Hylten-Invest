@@ -59,7 +59,7 @@ By Strategic Collateralization against these positions, we create strategic liqu
 
 This is liquidity as a protective layer. It is not about leverage for risk. It is about leverage for endurance.
 
-## Asset Based Capital Structuring, ABL, as Structural Optionality
+## Asset Based Capital Structuring, Asset-Based Lending, as Structural Optionality
 
  
 
@@ -71,7 +71,7 @@ Families often hold assets that are productive but not easily refinanced. Equity
 
  
 
-ABL gives these assets a function beyond passive appreciation. It allows them to participate in liquidity cycles without being sold or diluted.
+Asset-Based Lending gives these assets a function beyond passive appreciation. It allows them to participate in liquidity cycles without being sold or diluted.
 
  
 
@@ -219,7 +219,7 @@ Identification of assets suitable for structured liquidity.
 
  
 
-Execution through private credit Capital Structuring, ABL, crypto Monetization Architecture, or public share Strategic Collateralization.
+Execution through private credit Capital Structuring, Asset-Based Lending, crypto Monetization Architecture, or public share Strategic Collateralization.
 
  
 
@@ -315,7 +315,7 @@ We fill that structural gap.
 
 Private credit Capital Structuring.
 
-ABL Institutional Liquidity Paths.
+Asset-Based Lending Institutional Liquidity Paths.
 
 Crypto Institutional Liquidity Paths with a two million dollar minimum.
 
@@ -364,9 +364,5 @@ Hyltén Invest builds this infrastructure. Discreetly. Conservatively. Exactly.
  
 
 For families seeking to protect, mobilize, and sustain their capital across generations, the next step is a conversation.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

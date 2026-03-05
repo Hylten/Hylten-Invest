@@ -21,7 +21,7 @@ Second, liquidity velocity has become excessively financialized. Instruments mov
 
 Third, institutional decision making has become susceptible to narrative cycles rather than operational truth. Renewables have absorbed disproportionate capital not because of superior risk profiles, but because of policy momentum. Meanwhile, low risk conventional oil assets in Alberta with established recovery technologies such as SAGD and CSS remain structurally mispriced.
 
-These conditions create fragility. Not market volatility, but structural fragility. The absence of moral grounding in capital allocation results in strategies that cannot survive operational stress. The consequence is predictable. Institutions absorb higher exposure to political risk, technological uncertainty, and inflated cost structures while overlooking high fidelity cash flow systems grounded in physical production.
+These conditions create fragility. Not market volatility, but structural fragility. The absence of moral grounding in capital allocation results in strategies that cannot survive operational stress. The consequence is predictable. Institutions absorb higher exposure to political risk, technological uncertainty, and inflated cost structures while overlooking high fidelity cash flow systems grounded in physical production. (See [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 The Gnosjö Spirit functions as a corrective regime. It prioritizes order over speculation, relationships over transactions, and multi generational responsibility over interim mark to market outcomes. This creates stability in environments where global capital markets have become untethered from materiality.
 
@@ -74,4 +74,3 @@ For institutions evaluating complex sectors such as North American energy, priva
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

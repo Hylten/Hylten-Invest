@@ -37,7 +37,7 @@ It requires instruments that retain optionality.
 
 It requires partnerships that provide silence where others provide spectacle.
 
-Hylten‑Invest exists in this space, providing access to private credit Capital Structuring and asset based Institutional Liquidity Paths for individuals and entities that move capital on an institutional scale.
+Hylten‑Invest exists in this space, providing access to private credit [Capital Structuring](https://hylten.github.io/Roials-Capital/) and asset based Institutional Liquidity Paths for individuals and entities that move capital on an institutional scale.
 
 Our position is not to overwhelm, but to underpin.
 
@@ -73,7 +73,7 @@ Asset based Institutional Liquidity Paths has existed for centuries.
 
 What differentiates its modern form is the degree of sophistication behind the valuation, the liquidity analysis, and the risk containment.
 
-We provide ABL structures that reflect institutional discipline while maintaining the discretion required by private families and wealth holders.
+We provide Asset-Based Lending structures that reflect institutional discipline while maintaining the discretion required by private families and wealth holders.
 
 Every asset tells a story.
 
@@ -91,7 +91,7 @@ The structure is conservative.
 
 The objective is long‑term utility, not short‑term leverage.
 
-ABL is not about unlocking capital.
+Asset-Based Lending is not about unlocking capital.
 
 It is about unlocking continuity.
 
@@ -288,9 +288,5 @@ An architecture that respects time.
 An architecture that builds legacy.
 
 For those who operate with scale, discretion, and long‑term purpose, Hylten‑Invest provides the silent mechanics of continuity.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

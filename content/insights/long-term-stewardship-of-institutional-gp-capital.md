@@ -82,7 +82,7 @@ Assets.
 Valuation discipline. 
 Liquidity extraction with clarity. 
 
-ABL is often misunderstood as reactive financing, yet for sophisticated investors it is a long-term stability tool. 
+Asset-Based Lending is often misunderstood as reactive financing, yet for sophisticated investors it is a long-term stability tool. 
 
 By unlocking liquidity from operational or financial assets, families maintain strategic control while removing liquidity pressure from their portfolios. 
 
@@ -257,9 +257,5 @@ It is a commitment to structure, discretion, and the quiet reinforcement of inst
 Hylten Invest provides Capital Structuring solutions that protect optionality and preserve alignment, enabling HNWI and UHNW investors to maintain their strategic positions with confidence. 
 
 For those who think in decades, structure matters. 
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

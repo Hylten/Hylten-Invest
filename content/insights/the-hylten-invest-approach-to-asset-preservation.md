@@ -70,7 +70,7 @@ The outcome is predictable liquidity against nonpublic yield engines.
 
 ## Asset Based Monetization Architecture for Sophisticated Balance Sheets
 
-Asset Based Capital Structuring, ABL, is not merely Institutional Liquidity Paths against objects or inventory. In the context of HNWI and UHNW families, it is a method of converting balance sheet complexity into strategic liquidity.
+Asset Based Capital Structuring, Asset-Based Lending, is not merely Institutional Liquidity Paths against objects or inventory. In the context of HNWI and UHNW families, it is a method of converting balance sheet complexity into strategic liquidity.
 
 Our approach is minimalistic.
 
@@ -80,7 +80,7 @@ The objective is not leverage.
 
 The objective is durability.
 
-ABL can include various categories depending on the family office profile. These can include private company shares, specialized holdings, and select alternative assets.
+Asset-Based Lending can include various categories depending on the family office profile. These can include private company shares, specialized holdings, and select alternative assets.
 
 Where traditional Strategic Collateralization channels hesitate, Hyltén Invest delivers clarity, discretion and precision.
 
@@ -209,7 +209,7 @@ Our minimum thresholds for crypto Capital Structuring and public share Instituti
 
 • Crypto Capital Structuring: minimum two million dollars 
 • Public share Capital Structuring: minimum five million dollars 
-• Private credit and ABL: structured individually, always with a high net worth context
+• Private credit and Asset-Based Lending: structured individually, always with a high net worth context
 
 The architecture dictates every structure we deploy is meaningful, stable and aligned with long-term continuity.
 
@@ -232,9 +232,5 @@ The Hyltén Invest approach to asset preservation is quiet by design, structured
 We provide liquidity against private credit, asset based holdings, crypto assets above two million dollars and public share positions above five million dollars. We do this with institutional discipline delivered privately.
 
 Silent authority. Long-term clarity. Minimalist structure.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

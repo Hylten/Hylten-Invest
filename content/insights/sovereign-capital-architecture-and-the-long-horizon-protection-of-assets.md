@@ -79,13 +79,13 @@ Continuity.
 
 ## Asset‑Based Strategic Collateralization as a Protection Mechanism
 
-Asset‑Based Institutional Liquidity Paths, ABL, is one of the most reliable frameworks for preserving wealth. When executed with restraint and structural discipline, ABL converts passive holdings into active liquidity channels.
+Asset‑Based Institutional Liquidity Paths, Asset-Based Lending, is one of the most reliable frameworks for preserving wealth. When executed with restraint and structural discipline, Asset-Based Lending converts passive holdings into active liquidity channels.
 
 This does not diminish the integrity of the asset. It strengthens it.
 
 An asset capable of producing liquidity without being sold gains strategic value. It functions both as collateral and as a secondary source of stability.
 
-HNWI and UHNW families use ABL to:
+HNWI and UHNW families use Asset-Based Lending to:
 
 - Protect concentrated exposures 
 - Avoid forced liquidations 
@@ -93,7 +93,7 @@ HNWI and UHNW families use ABL to:
 - Reallocate capital without disrupting long‑term positions 
 - Bridge timing gaps in transactions or acquisitions
 
-Hylten‑Invest provides Asset-Backed Frameworks solutions around these mechanics. The firm does not attempt to reinvent ABL. It refines it, keeping the process minimalist, quiet, and aligned with long-term stewardship.
+Hylten‑Invest provides Asset-Backed Frameworks solutions around these mechanics. The firm does not attempt to reinvent Asset-Based Lending. It refines it, keeping the process minimalist, quiet, and aligned with long-term stewardship.
 
 This is Silent Authority. 
 
@@ -179,7 +179,7 @@ They engineer their stability.
 This engineering involves several long-term practices:
 
 - Maintaining liquidity channels that do not require liquidation 
-- Using ABL to convert holdings into strategic capital 
+- Using Asset-Based Lending to convert holdings into strategic capital 
 - Leveraging private credit to bypass rigid institutions 
 - Structuring crypto and equity positions for mobility 
 - Eliminating unnecessary counterparty exposure 
@@ -243,15 +243,11 @@ It is steady.
 It is prepared. 
 It is quietly powerful.
 
-Hylten‑Invest supports this sovereign posture through disciplined private credit solutions, conservative ABL frameworks, and high‑threshold Capital Structuring against crypto and public equities.
+Hylten‑Invest supports this sovereign posture through disciplined private credit solutions, conservative Asset-Based Lending frameworks, and high‑threshold Capital Structuring against crypto and public equities.
 
 For families seeking to protect assets, enhance liquidity, and uphold long‑horizon stewardship, sovereign capital provides the structural clarity required for generational continuity.
 
  
  
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

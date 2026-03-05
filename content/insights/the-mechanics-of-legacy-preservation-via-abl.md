@@ -1,5 +1,5 @@
 ---
-title: "The Mechanics of Legacy Preservation via ABL"
+title: "The Mechanics of Legacy Preservation via Asset-Based Lending"
 description: "An in depth exploration of how Asset Based liquidity engineering and private credit provide liquidity, stability, and long term legacy preservation for HNWI and UHNW families."
 date: "2022-04-09"
 author: "Hyltén Invest"
@@ -7,7 +7,7 @@ slug: "the-mechanics-of-legacy-preservation-via-abl"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
-# The Mechanics of Legacy Preservation via ABL
+# The Mechanics of Legacy Preservation via Asset-Based Lending
 
 Legacy is a structural concept.
 
@@ -63,7 +63,7 @@ Restructuring positions can move markets.
 
 Liquidating digital assets can send signals that invite speculation.
 
-ABL removes the signaling effect entirely.
+Asset-Based Lending removes the signaling effect entirely.
 
 It allows liquidity to be accessed with no public footprint.
 
@@ -75,7 +75,7 @@ The narrative remains unchanged.
 
 This is crucial for families who value stability, privacy, and continuity.
 
-## ABL as a Multi-Generational Tool
+## Asset-Based Lending as a Multi-Generational Tool
 
 A well-structured Institutional Liquidity Paths line becomes part of the family office architecture.
 
@@ -96,7 +96,7 @@ They can avoid panic during macro cycles.
 
 They can maintain their identity as stewards rather than traders.
 
-ABL gives the family the ability to say no when markets demand yes.
+Asset-Based Lending gives the family the ability to say no when markets demand yes.
 
 And to say yes when opportunities require immediate action.
 
@@ -169,9 +169,5 @@ Liquefying assets without dismantling positions is an essential part of this dis
 This is why Asset Based Asset-Backed Frameworks remains one of the most powerful tools available to families that build for generations.
 
 For those who require quiet liquidity and structural clarity, Hyltén Invest operates with silent authority.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

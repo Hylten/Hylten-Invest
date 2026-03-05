@@ -38,7 +38,7 @@ The technical mechanics that matter for institutional alignment include:
 • Reduction of abandonment liabilities through modern remediation planning 
 • Field-development sequencing that avoids front-loading capital expenditures 
 
-The NAEO operational framework is anchored in these mechanics. Their extraction approach focuses on reservoir matching rather than expansionary drilling. They analyze legacy well data, reverse engineer optimal recovery curves, and apply thermal energy with engineering precision. This model does not chase volume. It optimizes recovery within predictable boundaries. The physics determine the outcome. The operator determines the stewardship.
+The NAEO operational framework is anchored in these mechanics. Their extraction approach focuses on reservoir matching rather than expansionary drilling. They analyze legacy well data, reverse engineer optimal recovery curves, and apply thermal energy with engineering precision. This model does not chase volume. It optimizes recovery within predictable boundaries. The physics determine the outcome. The operator determines the stewardship. (See [institutional capital execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 For European capital, the relevance lies in the alignment between operational integrity and long-term discipline. A stewardship-driven allocator does not search for asymmetrical risk profiles. Instead, it verifies whether the operator respects the natural constraints of the reservoir, deploys capital proportionally, and structures liabilities responsibly. This is balance-sheet ethics applied to industrial environments.
 
@@ -103,4 +103,3 @@ The silent partner model remains intact: stewardship first, alignment second, op
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

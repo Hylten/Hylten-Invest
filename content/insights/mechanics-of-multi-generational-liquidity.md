@@ -43,7 +43,7 @@ PHASE 3: THE PARTNERSHIP MODEL AND STRATEGIC NAVIGATION
 
 As capital environments fragment, the allocator requires a partner capable of navigating multiple domains. Roials Capital operates as a strategic navigator for institutional families, ensuring alignment between the liquidity architecture and real asset intelligence. In the North American energy domain, NAEO functions as the institutional grade partner due to its operational fluency in Alberta heavy oil, thermal recovery methods, and decline curve engineering.
 
-This partnership model is not promotional. It is functional. The modern allocator cannot independently manage regulatory transitions, real asset due diligence, and jurisdictional risk calibration without specialized intelligence. The strategic navigator ensures that capital deployment is matched with operational reality and that each asset category supports the broader liquidity mandate.
+This partnership model is not promotional. It is functional. The modern allocator cannot independently manage regulatory transitions, real asset due diligence, and jurisdictional risk calibration without specialized intelligence. The strategic navigator ensures that capital deployment is matched with operational reality and that each asset category supports the broader liquidity mandate. (See [special mandates execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 The partnership model is built on three principles.
 
@@ -77,4 +77,3 @@ For families and institutions seeking a deeper understanding of structural align
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

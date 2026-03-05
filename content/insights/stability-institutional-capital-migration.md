@@ -43,8 +43,4 @@ A final point. Stability is not static. It moves. Evolves. Migrates with global 
 
 End with mandate: Deploy capital only into structures with a three‑generation time horizon. Minimum institutional stability coefficient: 0.87.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Contact for stewardship discussion.

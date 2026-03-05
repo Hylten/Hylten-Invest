@@ -87,7 +87,7 @@ Not weaken it.
 
 Not overextend it. 
 
-Through disciplined private credit and ABL, every Monetization Architecture cycle becomes a reinforcement cycle. 
+Through disciplined private credit and Asset-Based Lending, every Monetization Architecture cycle becomes a reinforcement cycle. 
 
 A cycle that hardens the legacy. 
 
@@ -133,7 +133,7 @@ We serve:
 
 Our Strategic Collateralization minimums reflect this focus. 
 
-2,000,000 USD for crypto Capital Structuring. 
+2,000,000 USD for crypto [Capital Structuring](https://hylten.github.io/Roials-Capital/). 
 
 5,000,000 USD for public share Institutional Liquidity Paths. 
 
@@ -234,9 +234,5 @@ A liquidity architecture that strengthens year after year.
 This is our work. 
 
 This is our craft. 
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

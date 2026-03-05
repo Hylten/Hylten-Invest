@@ -47,7 +47,7 @@ Intergenerational capital transfer requires four technical components.
 This is consistent with Proverbs 22:29, which ties excellence to authority. Competence precedes command.
 
 4. Asset hardening for generational durability 
-Legacy is reinforced by hard assets, not abstractions. Hard assets produce continuity. Hard assets require disciplined stewardship. In private markets, the absence of durable hardening mechanisms leads to an erosion of optionality and a fragility of mission.
+Legacy is reinforced by hard assets, not abstractions. Hard assets produce continuity. Hard assets require disciplined stewardship. In private markets, the absence of durable hardening mechanisms leads to an erosion of optionality and a fragility of mission. (See [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 Hardening occurs through:
 
@@ -107,4 +107,3 @@ The decisive step is a structural audit of the allocator’s existing frameworks
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

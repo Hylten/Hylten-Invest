@@ -59,7 +59,7 @@ Over time, this architecture becomes part of the family's internal governance.
 
 It becomes a stabilizing force, not a tactical tool. 
 
-## The Silent Advantages of Asset-Backed Frameworks Against Private Credit
+## The Silent Advantages of [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) Against Private Credit
 
 For HNW and UHNW families, private credit has transformed from a secondary allocation to a core yield engine. 
 
@@ -95,9 +95,9 @@ It gives structure to illiquid holdings.
 
 It turns fixed assets into functional liquidity while preserving ownership and operational continuity. 
 
-Families with concentrated private holdings, private equity positions, or long-term strategic assets often rely on ABL to maintain equilibrium across generations. 
+Families with concentrated private holdings, private equity positions, or long-term strategic assets often rely on Asset-Based Lending to maintain equilibrium across generations. 
 
-ABL provides: 
+Asset-Based Lending provides: 
 
 * Clear collateralization in environments where valuation is nuanced. 
 
@@ -105,7 +105,7 @@ ABL provides:
 
 * A predictable framework that works across economic cycles. 
 
-At Hyltén Invest, ABL is not a tactical instrument. 
+At Hyltén Invest, Asset-Based Lending is not a tactical instrument. 
 
 It is a foundational pillar for families who see capital as a multi generational continuum. 
 
@@ -267,7 +267,7 @@ Market cycles introduce periods of tightening.
 
 When liquidity is engineered as a governance tool, these transitions unfold with stability rather than constraint. 
 
-By integrating private credit Monetization Architecture, ABL, public share Monetization Architecture, and institutional-scale crypto Institutional Liquidity Paths, families create a multi dimensional liquidity structure that evolves with them. 
+By integrating private credit Monetization Architecture, Asset-Based Lending, public share Monetization Architecture, and institutional-scale crypto Institutional Liquidity Paths, families create a multi dimensional liquidity structure that evolves with them. 
 
 This structure becomes part of the family's long-term blueprint. 
 
@@ -314,4 +314,3 @@ This is the architecture of silent authority.
 # Contact for stewardship discussion
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

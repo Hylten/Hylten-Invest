@@ -4,7 +4,7 @@ description: "Stewardship Under Scrutiny: The Hylten Model For F"
 date: "2020-06-18"
 author: "Hyltén Invest"
 slug: "stewardship-under-scrutiny-the-hylten-model-for-f"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Stewardship Under Scrutiny 
@@ -333,9 +333,5 @@ This is the architecture required for generational continuity.
 It is the architecture expected of Christian families entrusted with significant capital.
 
 It is the architecture that will withstand scrutiny while preserving legacy.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

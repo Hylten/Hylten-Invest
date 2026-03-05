@@ -102,16 +102,16 @@ It offers quiet yield, predictable structures, and alignment with long-term stew
  
 ## Asset Based Monetization Architecture in a Modern Capital Structure
 
-Asset Based Strategic Collateralization, or ABL, is often misunderstood. 
+Asset Based Strategic Collateralization, or Asset-Based Lending, is often misunderstood. 
 
 Many associate it with operational balance sheet optimization or distressed finance. 
 
-However, within the HNWI and UHNW space, ABL functions differently. 
+However, within the HNWI and UHNW space, Asset-Based Lending functions differently. 
 
 It becomes an elegant tool that converts dormant or illiquid assets into strategic optionality. 
 
  
-At Hyltén Invest, ABL is applied to high-value collateral in a controlled, conservative framework. 
+At Hyltén Invest, Asset-Based Lending is applied to high-value collateral in a controlled, conservative framework. 
 
 It respects the character of the asset and supports the broader architecture of an investor’s capital strategy. 
 
@@ -121,7 +121,7 @@ In practice, this means liquidity can be unlocked while long-term positions rema
 This preserves the investor’s intended trajectory while adding resilience to their capital ecosystem. 
 
  
-ABL is not a mechanism for acceleration. 
+Asset-Based Lending is not a mechanism for acceleration. 
 
 It is a mechanism for stability that ensures the portfolio remains functional under shifting market conditions. 
 
@@ -323,8 +323,5 @@ Through Private Credit, Asset Based Institutional Liquidity Paths, Public Share 
 For investors who value minimalism, conservative frameworks, and silent authority, we offer a path to durable liquidity in a shifting global environment. 
 
  
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

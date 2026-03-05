@@ -4,7 +4,7 @@ description: "A high‑end exploration of liquidity, private credit, and asset-b
 date: "2025-02-02"
 author: "Hyltén Invest"
 slug: "legacy-hardening-the-structural-mechanics-of-trust"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Hyltén Invest"
+keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Legacy Hardening: The Structural Mechanics of Trust
@@ -75,7 +75,7 @@ A form oriented toward durability instead of acceleration.
 
 ## Asset-Based Monetization Architecture: The Conservatism of Collateral
 
-Asset-Based Monetization Architecture, ABL, is one of the most conservative pathways to liquidity. 
+Asset-Based Monetization Architecture, Asset-Based Lending, is one of the most conservative pathways to liquidity. 
 
 It is mechanical, measurable, and governed by fundamentals rather than narratives. 
 
@@ -87,11 +87,11 @@ HNWI and UHNW principals often hold significant assets that are valuable yet ine
 
 These assets may include private company shares, secured crypto positions, public equities, or specialized holdings. 
 
-ABL converts these assets into liquidity without altering long-term ownership. 
+Asset-Based Lending converts these assets into liquidity without altering long-term ownership. 
 
 This supports multi-decade planning while preserving structural control. 
 
-At Hyltén Invest, our ABL approach is anchored in conservative valuations and silent authority. 
+At Hyltén Invest, our Asset-Based Lending approach is anchored in conservative valuations and silent authority. 
 
 We act as the structural interface between the asset and the liquidity it can safely support. 
 
@@ -292,9 +292,5 @@ These systems are built through disciplined collateral assessment, private credi
 Legacy hardening is the path from capital to continuity. 
 
 It is the shift from wealth to permanence. 
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

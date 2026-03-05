@@ -4,7 +4,7 @@ description: "A high‑end overview of how UHNW families protect liquidity throu
 date: "2025-06-30"
 author: "Hyltén Invest"
 slug: "strategic-liquidity-architecture-for-uhnw-families-in-volatile-markets"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Hyltén Invest"
+keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Protecting UHNW Families from Market Volatility 
@@ -101,4 +101,3 @@ It is essential.
 Contact for stewardship discussion
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

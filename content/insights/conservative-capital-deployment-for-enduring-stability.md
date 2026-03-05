@@ -95,8 +95,4 @@ They provide stability without spectacle.
 For the investor who values calm over noise and structure over speculation, conservative capital deployment is not simply an option. 
 It is the foundation.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Contact for stewardship discussion.

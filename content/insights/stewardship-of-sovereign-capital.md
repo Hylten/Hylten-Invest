@@ -108,8 +108,4 @@ A good man leaves an inheritance to his children's children. Proverbs 13:22. Thi
 
 Conviction requires action.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Contact for stewardship discussion. 23.7% target IRR.

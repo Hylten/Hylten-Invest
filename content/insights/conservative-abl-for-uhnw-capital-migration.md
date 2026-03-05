@@ -1,5 +1,5 @@
 ---
-title: "Conservative ABL for UHNW Capital Migration"
+title: "Conservative Asset-Based Lending for UHNW Capital Migration"
 description: "A high end analysis of conservative asset based liquidity engineering and private credit structures for UHNW liquidity without asset displacement."
 date: "2025-05-01"
 author: "Hyltén Invest"
@@ -7,7 +7,7 @@ slug: "conservative-abl-for-uhnw-capital-migration"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
-# Conservative ABL for UHNW Capital Migration
+# Conservative Asset-Based Lending for UHNW Capital Migration
 
 Wealth that endures is rarely loud.
 
@@ -58,7 +58,4 @@ We build for resilience.
 We maintain Silent Authority so that your capital can move without exposure.
 
 If you require strategic liquidity that respects your long term architecture, 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 contact for stewardship discussion.

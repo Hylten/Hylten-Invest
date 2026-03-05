@@ -4,7 +4,7 @@ description: "The Spirit Of Gnosjö: Engineering Generational Mul"
 date: "2021-09-22"
 author: "Hyltén Invest"
 slug: "the-spirit-of-gnosj-engineering-generational-mul"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # The Spirit of Gnosjö. Engineering Generational Multi Decade Wealth
@@ -188,7 +188,7 @@ Expansion is responsibility.
 It is the duty to deploy surplus for the strengthening of future generations. 
 It is the duty to weld moral capital and financial capital into a single forward moving force. 
 
-## Translating the Gnosjö Model for Institutional Capital
+## Translating the Gnosjö Model for [Institutional Capital](https://hylten.github.io/Roials-Capital/)
 
 Institutional partners often ask: 
 How does the Spirit of Gnosjö scale beyond its geography. 
@@ -312,9 +312,5 @@ For those building capital that endures.
 This is the model. 
 This is the heritage. 
 This is the future. 
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

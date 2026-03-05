@@ -117,7 +117,7 @@ When these perspectives converge, the family capital architecture becomes strong
 Digital assets activate agility. 
 Traditional assets anchor stability. 
 Private credit enhances consistent yield. 
-ABL unlocks strategic liquidity. 
+Asset-Based Lending unlocks strategic liquidity. 
 
 Hyltén Invest serves as the bridge between these perspectives. We translate modern instruments into conservative, reliable Capital Structuring structures. 
 
@@ -159,7 +159,7 @@ It allows reallocation.
 It enables consolidation. 
 It maintains intergenerational stability. 
 
-Private credit Monetization Architecture, ABL, crypto Strategic Collateralization, and public share Strategic Collateralization all serve one purpose. 
+Private credit Monetization Architecture, Asset-Based Lending, crypto Strategic Collateralization, and public share Strategic Collateralization all serve one purpose. 
 
 They protect legacy while unlocking opportunity.
 
@@ -186,4 +186,3 @@ If legacy is the long arc, liquidity is the line that keeps it steady.
 ## Contact for stewardship discussion
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

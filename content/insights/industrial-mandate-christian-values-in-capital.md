@@ -16,7 +16,7 @@ PHASE 1. THE REGIME SHIFT
 The present market environment is shaped by three converging dynamics.
 
 1. Capital Migration
-Institutional capital has moved toward intangible assets and high velocity liquidity pools. Real industry, particularly in energy, materials, agriculture, and heavy manufacturing, has been undercapitalized for more than a decade. The imbalance between required industrial reinvestment and actual capital deployment has created structural shortages that are now visible in supply chains and commodity baselines.
+[Institutional capital](https://hylten.github.io/Roials-Capital/) has moved toward intangible assets and high velocity liquidity pools. Real industry, particularly in energy, materials, agriculture, and heavy manufacturing, has been undercapitalized for more than a decade. The imbalance between required industrial reinvestment and actual capital deployment has created structural shortages that are now visible in supply chains and commodity baselines.
 
 2. Regulatory Drift
 Public markets no longer reflect productive capability. They reflect compliance capability. The misalignment between regulatory frameworks and industrial requirements pushes mid-market operators toward private markets and introduces a sustained opportunity for allocators who can navigate operational risk rather than regulatory theater.
@@ -124,4 +124,3 @@ Roials Capital provides a confidential strategy audit for principals requiring a
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -4,7 +4,7 @@ description: "Structural Alignment With Generational Stewardship"
 date: "2023-09-19"
 author: "Hyltén Invest"
 slug: "structural-alignment-with-generational-stewardship"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Structural Alignment with Generational Stewardship
@@ -75,9 +75,5 @@ Structural alignment is not an administrative exercise. It is an act of faithful
 A family that understands this becomes unshakable. 
 A firm that embodies this becomes investable. 
 A legacy grounded in this becomes durable.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

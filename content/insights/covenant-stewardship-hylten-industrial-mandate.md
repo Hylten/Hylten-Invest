@@ -126,7 +126,4 @@ Legacy. Duty. Continuity. Covenant.
 This is the Hylten mandate.
 
 Technical metric: Legacy Continuity Ratio 1.73. 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Contact for stewardship discussion.

@@ -33,15 +33,15 @@ This is the function and philosophy behind sovereign capital.
 
 ## Asset Based Asset-Backed Frameworks as a Framework for Control
 
-Asset based Monetization Architecture, or ABL, is a mechanical system that brings precision to liquidity planning. 
+Asset based Monetization Architecture, or Asset-Based Lending, is a mechanical system that brings precision to liquidity planning. 
 
 It allows a client to maintain operational and strategic dominance over their assets while unlocking capital that remains structurally bound. 
 
-ABL is suited for families and principals who hold complex portfolios where assets are valuable but not always liquid. 
+Asset-Based Lending is suited for families and principals who hold complex portfolios where assets are valuable but not always liquid. 
 
 It transforms illiquidity into optionality. 
 
-Hyltén Invest applies ABL conservatively. 
+Hyltén Invest applies Asset-Based Lending conservatively. 
 
 Valuations are sober. 
 
@@ -53,7 +53,7 @@ The objective is not to maximize leverage.
 
 It is to maximize control. 
 
-ABL becomes a stabilizer, a financial counterweight that reinforces the entire balance sheet. 
+Asset-Based Lending becomes a stabilizer, a financial counterweight that reinforces the entire balance sheet. 
 
 ## Crypto Capital Structuring for Institutional-Level Holders
 
@@ -302,4 +302,3 @@ When assets remain intact, legacy becomes inevitable.
 # Contact for stewardship discussion
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

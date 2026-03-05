@@ -48,7 +48,7 @@ This architecture allows principals to treat liquidity as a controlled resource.
 
  
 
-The engineering behind our ABL and private credit Institutional Liquidity Paths is built to integrate with family office structures, trusts, offshore entities, and multi jurisdictional holdings. Liquidity, when structured correctly, becomes a multi generational instrument.
+The engineering behind our Asset-Based Lending and private credit Institutional Liquidity Paths is built to integrate with family office structures, trusts, offshore entities, and multi jurisdictional holdings. Liquidity, when structured correctly, becomes a multi generational instrument.
 
 ## Stewardship for the 2026 Landscape
 
@@ -93,9 +93,5 @@ The Hylten Framework for 2026 is designed for families who manage wealth not as 
 For principals who require conservative, minimalist, and sovereign-aligned Capital Structuring against private credit, asset-based positions, public equities, or large-scale digital assets, Hyltén Invest provides the structural mechanics.
 
  
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

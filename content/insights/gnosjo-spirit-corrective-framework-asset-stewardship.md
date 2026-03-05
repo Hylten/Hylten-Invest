@@ -62,7 +62,7 @@ Technical mechanics illustrate the alignment.
  Using SAGD or CSS, operators can modulate reservoir pressure, steam ratios, and fluid mobility with precision. This provides repeatable recovery factors not commonly found in frontier basins.
 
 3. Surface facility scalability.
- Alberta fields are modular. Operators can expand or contract processing infrastructure in controlled increments. This promotes Capital Structuring because capital can be deployed in tranche formations calibrated to reservoir response.
+ Alberta fields are modular. Operators can expand or contract processing infrastructure in controlled increments. This promotes [Capital Structuring](https://hylten.github.io/Roials-Capital/) because capital can be deployed in tranche formations calibrated to reservoir response.
 
 4. Hard asset durability.
  These assets carry intrinsic value due to long duration extraction windows, not short term commodity spikes.
@@ -119,4 +119,3 @@ Allocators seeking to calibrate exposure to sectors shaped by supply constraints
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

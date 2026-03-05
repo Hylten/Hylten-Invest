@@ -41,8 +41,8 @@ They need mechanics, not marketing.
  
 
 Private credit. 
-ABL Monetization Architecture. 
-Public share Asset-Backed Frameworks. 
+Asset-Based Lending Monetization Architecture. 
+Public share [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/). 
 Crypto collateral frameworks.
 
  
@@ -150,9 +150,5 @@ Silent Authority is not a slogan.
 It is a function.
 
  
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

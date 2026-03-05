@@ -37,7 +37,7 @@ Crypto backed liquidity, when executed with institutional structure, fulfills th
 
 This is the conservative case.
 
-## Private Credit, ABL, and the Digital Collateral Continuum
+## Private Credit, Asset-Based Lending, and the Digital Collateral Continuum
 
 Hylten‑Invest operates across private credit and asset based Capital Structuring, two arenas defined by collateral, discipline, and structural clarity.
 
@@ -107,7 +107,7 @@ The conservative case strengthens as the market matures.
 
 ## The Shift Toward Multi Collateral Liquidity Models
 
-High net worth families are no longer relying solely on traditional collateral forms. They are combining private credit positions and ABL portfolios with digital assets to create multi layered collateral structures.
+High net worth families are no longer relying solely on traditional collateral forms. They are combining private credit positions and Asset-Based Lending portfolios with digital assets to create multi layered collateral structures.
 
 This is a quiet trend. It will not appear on public dashboards, because these decisions live inside private balance sheets.
 
@@ -178,4 +178,3 @@ Hylten‑Invest is positioned for this future, and prepared to guide the familie
 ## Contact for stewardship discussion
 
 ### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

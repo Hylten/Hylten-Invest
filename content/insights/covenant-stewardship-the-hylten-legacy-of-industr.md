@@ -4,7 +4,7 @@ description: "Covenant Stewardship: The Hylten Legacy Of Industr"
 date: "2025-06-18"
 author: "Hyltén Invest"
 slug: "covenant-stewardship-the-hylten-legacy-of-industr"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Covenant Stewardship. The Hylten Legacy of Industrial Wisdom
@@ -117,7 +117,7 @@ Asset hardening involves:
 This is why underwriting at Hyltén Invest is not a process. 
 It is a discipline. 
 It eliminates ambiguity. 
-It levels the field for institutional capital that requires precision, not persuasion.
+It levels the field for [institutional capital](https://hylten.github.io/Roials-Capital/) that requires precision, not persuasion.
 
 Minimum thresholds remain strict.
 
@@ -344,9 +344,5 @@ It stands on generational responsibility.
 This is the Hylten legacy. 
 This is the mandate. 
 This is the architecture that will stand when markets dislocate and narratives collapse.
-
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

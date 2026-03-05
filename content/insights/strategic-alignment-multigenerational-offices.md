@@ -85,9 +85,6 @@ The mandate is clear: Structure precedes strategy. Strategy precedes allocation.
 Alignment is not a choice. Alignment is survival.
 
 For multi‑generational offices seeking institutional precision, 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 contact for stewardship discussion.
 
 Terminal metric: 84.3 percent governance‑stability coefficient achieved under unified mandate architecture.
