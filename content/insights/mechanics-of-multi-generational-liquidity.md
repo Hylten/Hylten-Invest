@@ -1,7 +1,7 @@
 ---
 title: "The Structural Mechanics of Multi Generational Liquidity in an Age of Capital Fragmentation"
 description: "An institutional briefing on the technical, moral, and operational architecture required to engineer durable, multi generational liquidity across European and North American capital regimes."
-date: "2026-03-04"
+date: "2020-12-23"
 author: "Jonas Hyltén"
 slug: "mechanics-of-multi-generational-liquidity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

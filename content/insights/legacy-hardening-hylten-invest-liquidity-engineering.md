@@ -1,7 +1,7 @@
 ---
 title: "Legacy Hardening: The Hylten Invest Philosophy of Enduring Liquidity"
 description: "Institutional briefing on the Nordic discipline of capital stewardship, legacy hardening, liquidity engineering, and the Gnosjö industrial ethos as applied to multi generational balance sheet stability."
-date: "2026-03-04"
+date: "2024-10-12"
 author: "Jonas Hyltén"
 slug: "legacy-hardening-hylten-invest-liquidity-engineering"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"

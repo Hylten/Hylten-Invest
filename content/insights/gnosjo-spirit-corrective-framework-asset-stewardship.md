@@ -1,7 +1,7 @@
 ---
 title: "The Gnosjö Spirit as a Corrective Framework to Wall Street Fragility: Order, Moral Obligation, and Global Asset Stewardship"
 description: "Institutional briefing on Nordic industrial ethics, the Gnosjö coordination model, and its relevance for stabilizing global capital allocation systems under regime shift conditions. Focus on stewardship, structural order, and strategic alignment across North American energy, private credit, and multi jurisdictional balance sheet optimization."
-date: "2026-03-04"
+date: "2023-09-16"
 author: "Jonas Hyltén"
 slug: "gnosjo-spirit-corrective-framework-asset-stewardship"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Multi-Generational Wealth Through Asset Backed Lending and Stewardship Discipline"
 description: "Institutional briefing on how Asset Backed Lending functions as a stabilizing mechanism for multi generational wealth architecture, integrating Nordic stewardship doctrine, liquidity engineering, and balance sheet optimization for families and institutional allocators."
-date: "2026-03-04"
+date: "2023-10-01"
 author: "Jonas Hyltén"
 slug: "multi-generational-wealth-abl-stewardship-hylten"
 keywords: "kapitalanskaffning, private credit, asset backed lending, Institutional Liquidity Paths, stewardship, generational wealth, asset hardening"

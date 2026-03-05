@@ -1,7 +1,7 @@
 ---
 title: "Multi Generational Stewardship and the Institutional Discipline of Capital Formation"
 description: "Strategic memorandum on the structural function of stewardship, intergenerational capital mechanics, and the operational doctrine underpinning long-horizon industrial families across Europe and North America."
-date: "2026-03-04"
+date: "2021-10-25"
 author: "Jonas Hyltén"
 slug: "multi-generational-stewardship-capital-doctrine"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

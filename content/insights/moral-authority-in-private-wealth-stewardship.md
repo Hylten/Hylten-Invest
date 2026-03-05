@@ -1,7 +1,7 @@
 ---
 title: "Moral Authority In Private Wealth Stewardship"
 description: "Moral Authority In Private Wealth Stewardship"
-date: "2025-11-09"
+date: "2022-12-28"
 author: "Hyltén Invest"
 slug: "moral-authority-in-private-wealth-stewardship"
 keywords: "private credit, ABL, liquidity"

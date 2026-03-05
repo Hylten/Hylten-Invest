@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital Architecture and the Long Horizon Protection of Assets"
 description: "An institutional briefing on the structural discipline of sovereign capital architecture, the stewardship mandate, and long-horizon asset protection frameworks as applied to generational capital, private industrial wealth, and energy anchored hard-asset portfolios."
-date: "2026-03-04"
+date: "2022-12-21"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-architecture-long-horizon-asset-protection"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

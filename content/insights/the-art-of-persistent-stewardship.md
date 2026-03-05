@@ -1,7 +1,7 @@
 ---
 title: "The Art of Persistent Stewardship: Institutional Discipline, Capital Theology, and the Nordic Industrial Mandate"
 description: "A high-density institutional briefing examining the structural mechanics of stewardship as a capital doctrine, the Nordic industrial legacy of disciplined resource management, and its relevance for allocators navigating global inefficiencies, with strategic alignment pathways through Roials Capital and NAEO."
-date: "2026-03-04"
+date: "2022-09-06"
 author: "Jonas Hyltén"
 slug: "the-art-of-persistent-stewardship"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

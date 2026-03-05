@@ -1,7 +1,7 @@
 ---
 title: "Preserving Capital Through Institutional Asset Structures"
 description: "Institutional briefing on capital preservation, balance sheet optimization, and structural resilience across North American energy assets, framed through stewardship principles and Nordic industrial ethos."
-date: "2026-03-04"
+date: "2023-03-27"
 author: "Jonas Hyltén"
 slug: "preserving-capital-through-institutional-asset-structures"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

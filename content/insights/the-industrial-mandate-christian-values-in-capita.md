@@ -1,7 +1,7 @@
 ---
 title: "The Industrial Mandate: Christian Values In Capita"
 description: "The Industrial Mandate: Christian Values In Capita"
-date: "2025-11-21"
+date: "2021-03-21"
 author: "Hyltén Invest"
 slug: "the-industrial-mandate-christian-values-in-capita"
 keywords: "private credit, ABL, liquidity"

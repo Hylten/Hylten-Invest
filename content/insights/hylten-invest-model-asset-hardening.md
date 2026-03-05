@@ -1,7 +1,7 @@
 ---
 title: "The Hylten Invest Model for Asset Hardening and the Institutional Discipline of Stewarded Capital"
 description: "A technical examination of the Hylten Invest asset hardening model, integrating Nordic industrial stewardship, liquidity engineering, and institutional alignment for multi cycle capital durability."
-date: "2026-03-04"
+date: "2023-05-30"
 author: "Jonas Hyltén"
 slug: "hylten-invest-model-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"

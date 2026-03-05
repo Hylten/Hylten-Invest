@@ -1,7 +1,7 @@
 ---
 title: "Legacy Hardening Through Strategic Capital Migration"
 description: "A long‑horizon framework for UHNW families seeking resilience, continuity, and capital security through strategic migration of assets, jurisdictions, and structures."
-date: "2025-11-08"
+date: "2023-09-02"
 author: "Hyltén Invest"
 slug: "legacy-hardening-through-strategic-capital-migration"
 keywords: "private credit, asset based liquidity engineering, Hyltén Invest"

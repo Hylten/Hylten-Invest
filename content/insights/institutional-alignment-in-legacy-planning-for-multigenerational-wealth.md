@@ -1,7 +1,7 @@
 ---
 title: "Institutional Alignment in Legacy Planning for Multi‑Generational Wealth"
 description: "A high-level exploration of institutional alignment and liquidity architecture in legacy planning, with emphasis on private credit and asset based liquidity engineering."
-date: "2025-11-07"
+date: "2024-12-17"
 author: "Hyltén Invest"
 slug: "institutional-alignment-in-legacy-planning-for-multigenerational-wealth"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Hyltén Invest"

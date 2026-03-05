@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Legacy Preservation via Asset Based Lending and Institutional Stewardship"
 description: "A high density institutional analysis of Asset Based Lending as a preservation instrument for multi generational industrial capital, integrating liquidity engineering, operational intelligence, and Nordic stewardship ethics."
-date: "2026-03-04"
+date: "2025-06-06"
 author: "Jonas Hyltén"
 slug: "legacy-preservation-abl-mechanics"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"

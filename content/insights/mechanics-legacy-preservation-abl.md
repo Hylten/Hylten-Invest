@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Legacy Preservation via ABL"
 description: "Institutional brief on asset‑based lending as a generational preservation architecture within Christian industrial capital traditions and stewardship‑aligned private credit structures."
-date: "2026-03-05"
+date: "2025-03-21"
 author: "Jonas Hyltén"
 slug: "mechanics-legacy-preservation-abl"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening"

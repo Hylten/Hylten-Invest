@@ -1,7 +1,7 @@
 ---
 title: "Resilient Structures in Private Wealth: Strategic Liquidity for HNWI and Family Offices"
 description: "Institutional analysis on liquidity engineering, balance sheet durability, and long horizon stewardship frameworks for private wealth. Technical memo for allocators evaluating resilient capital structures and operational intelligence for multi generational mandates."
-date: "2026-03-04"
+date: "2024-01-14"
 author: "Jonas Hyltén"
 slug: "resilient-structures-private-wealth-strategic-liquidity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"

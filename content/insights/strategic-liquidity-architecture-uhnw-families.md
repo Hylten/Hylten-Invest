@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity Architecture for UHNW Families in Volatile Markets"
 description: "Institutional analysis on liquidity engineering, countercyclical capital design, balance sheet optimization, and stewardship aligned with Christian industrial legacy for multi generational family capital."
-date: "2026-03-04"
+date: "2025-12-27"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-architecture-uhnw-families"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"

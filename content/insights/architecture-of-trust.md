@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Trust"
 description: "Institutional exposition of capital stewardship, moral authority, and the structural mechanics that govern trust formation inside generational capital systems."
-date: "2026-03-04"
+date: "2021-01-09"
 author: "Jonas Hyltén"
 slug: "architecture-of-trust"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

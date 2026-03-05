@@ -1,7 +1,7 @@
 ---
 title: "The Stewardship of Private Wealth in 2026"
 description: "A high-level exploration of liquidity strategy and asset-based liquidity engineering for HNWI and UHNW families seeking structural, conservative capital solutions."
-date: "2025-11-23"
+date: "2020-05-24"
 author: "Hyltén Invest"
 slug: "the-stewardship-of-private-wealth-in-2026"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Hyltén Invest"

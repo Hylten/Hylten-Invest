@@ -1,7 +1,7 @@
 ---
 title: "Capital Migration for Multi‑Generational Stability"
 description: "A strategic exploration of liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW families seeking long-term capital preservation."
-date: "2025-11-03"
+date: "2024-10-10"
 author: "Hyltén Invest"
 slug: "capital-migration-for-multigenerational-stability"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Hyltén Invest"

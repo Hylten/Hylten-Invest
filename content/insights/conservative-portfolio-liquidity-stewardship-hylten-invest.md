@@ -1,7 +1,7 @@
 ---
 title: "The Conservative Architecture of Portfolio Liquidity for Long‑Horizon Stewards of Capital"
 description: "A principal-level brief on conservative liquidity engineering, institutional durability, and generational capital design for long-term private credit and real-asset allocators."
-date: "2026-03-05"
+date: "2024-05-05"
 author: "Jonas Hyltén — Hylten‑Invest"
 slug: "conservative-portfolio-liquidity-stewardship-hylten-invest"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital: The Pillar of Stewardship"
 description: "A high density institutional analysis of sovereign capital as a stabilizing force in generational wealth systems, Nordic industrial discipline, and the structural alignment between theology, capital stewardship, and modern energy infrastructure."
-date: "2026-03-04"
+date: "2022-08-15"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-stewardship-foundations"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

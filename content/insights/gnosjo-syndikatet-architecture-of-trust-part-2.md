@@ -1,7 +1,7 @@
 ---
 title: "The Gnosjö-Syndikatet Part 2: The Architecture of Trust - Why Småland's Operational Cadence Beats Wall Street's Complexity"
 description: "A technical institutional briefing on the Scandinavian trust architecture, Småland's industrial cadence, and why operational simplicity outperforms financial abstractions in real-economy capital formation."
-date: "2026-03-04"
+date: "2022-02-10"
 author: "Hyltén Invest"
 slug: "gnosjo-syndikatet-architecture-of-trust-part-2"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Wealth Preservation in the Digital Age: Strategic Alignment for Generational Capital"
 description: "Institutional briefing on digital age capital preservation, stewardship mechanics, balance sheet discipline, and cross-regime capital navigation for UHNW families and institutional allocators."
-date: "2026-03-04"
+date: "2023-11-14"
 author: "Jonas Hyltén"
 slug: "wealth-preservation-digital-age-strategic-alignment"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

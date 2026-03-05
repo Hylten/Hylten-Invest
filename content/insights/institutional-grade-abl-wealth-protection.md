@@ -1,7 +1,7 @@
 ---
 title: "Institutional Grade Asset Based Lending as a Framework for Wealth Protection and Capital Stewardship"
 description: "A technical analysis of institutional ABL structures, collateral physics, liquidity engineering protocols, and the stewardship doctrines guiding conservative wealth preservation for UHNW families and institutional allocators."
-date: "2026-03-04"
+date: "2025-01-15"
 author: "Jonas Hyltén"
 slug: "institutional-grade-abl-wealth-protection"
 keywords: "kapitalanskaffning, private credit, asset based lending, Asset-Backed Frameworks, asset hardening, stewardship, generational capital"

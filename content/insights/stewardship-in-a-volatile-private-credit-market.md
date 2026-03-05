@@ -1,7 +1,7 @@
 ---
 title: "Stewardship in a Volatile Private Credit Market"
 description: "A strategic examination of stewardship, liquidity, and asset based liquidity engineering for HNWI and UHNW investors navigating private credit uncertainty."
-date: "2025-11-14"
+date: "2020-07-30"
 author: "Hyltén Invest"
 slug: "stewardship-in-a-volatile-private-credit-market"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Hyltén Invest"

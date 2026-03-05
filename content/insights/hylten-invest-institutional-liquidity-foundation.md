@@ -1,7 +1,7 @@
 ---
 title: "Hylten Invest: A Quiet Foundation for Institutional-Grade Liquidity"
 description: "An institutional brief on Hylten Invest’s role as a Swedish family-capital anchor enabling private credit stability, cross-border liquidity structuring, and generational asset hardening strategies for Fund-III and aligned mandates."
-date: 2026-03-05
+date: 2022-05-22
 author: Jonas Hylten
 slug: hylten-invest-institutional-liquidity-foundation
 keywords: kapitalanskaffning, private credit, liquidity engineering, asset hardening, oil and gas

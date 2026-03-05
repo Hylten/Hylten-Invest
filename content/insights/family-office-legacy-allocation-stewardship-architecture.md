@@ -1,7 +1,7 @@
 ---
 title: "Family Office Legacy Allocation and the Stewardship Mandate in a Post-Liquidity Cycle Economy"
 description: "Institutional briefing on the stewardship architecture, legacy allocation logic, and cross-generational capital discipline shaping strategic family office deployment frameworks in 2026."
-date: "2026-03-04"
+date: "2021-08-27"
 author: "Jonas Hyltén"
 slug: "family-office-legacy-allocation-stewardship-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

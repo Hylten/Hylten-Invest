@@ -1,7 +1,7 @@
 ---
 title: "The Hylten Invest Approach to Asset Preservation: A Framework for Generational Capital Stewardship"
 description: "A technical and institutional analysis of the Hylten Invest doctrine of asset preservation, merging Nordic industrial ethics, balance sheet discipline, and a theology-informed model of capital stewardship for multi generational capital durability."
-date: "2026-03-04"
+date: "2025-03-09"
 author: "Jonas Hyltén"
 slug: "hylten-invest-approach-asset-preservation"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

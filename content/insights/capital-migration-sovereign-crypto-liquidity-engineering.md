@@ -1,7 +1,7 @@
 ---
 title: "Capital Migration for Global Families and the Strategic Function of Sovereign Crypto Liquidity Engineering"
 description: "Institutional briefing on cross border capital migration, sovereign Capital Structuring, and the structural role of crypto settlement rails for global families navigating regulatory divergence and balance sheet optimization."
-date: "2026-03-04"
+date: "2023-05-10"
 author: "Hyltén Invest"
 slug: "capital-migration-sovereign-crypto-liquidity-engineering"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"

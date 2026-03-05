@@ -1,7 +1,7 @@
 ---
 title: "Hylten Invest: A Quiet Foundation for Institutional-Grade Liquidity"
 description: "A high-end strategic overview of Hylten Invest, focusing on liquidity solutions through private credit and asset based liquidity engineering."
-date: "2025-11-06"
+date: "2025-04-18"
 author: "Hyltén Invest"
 slug: "hylten-invest-a-quiet-foundation-for-institutional-grade-liquidity"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Hyltén Invest"

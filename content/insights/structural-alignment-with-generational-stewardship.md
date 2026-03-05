@@ -1,7 +1,7 @@
 ---
 title: "Structural Alignment With Generational Stewardship"
 description: "Structural Alignment With Generational Stewardship"
-date: "2025-11-17"
+date: "2023-09-19"
 author: "Hyltén Invest"
 slug: "structural-alignment-with-generational-stewardship"
 keywords: "private credit, ABL, liquidity"

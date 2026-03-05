@@ -1,7 +1,7 @@
 ---
 title: "Stewardship Architecture for High Net Worth Private Equity Stakes Across Cycles"
 description: "A clinical institutional briefing on the stewardship mechanics, balance sheet discipline, and generational capital architecture underpinning high net worth private equity holdings. Focus on governance calibration, capital theology, and long-horizon liquidity engineering."
-date: "2026-03-04"
+date: "2022-01-12"
 author: "Jonas Hyltén"
 slug: "stewardship-high-net-worth-private-equity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"

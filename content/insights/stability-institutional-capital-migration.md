@@ -1,7 +1,7 @@
 ---
 title: "Stability Through Institutional Capital Migration"
 description: "A principal-level examination of cross‑jurisdictional capital migration, generational stewardship, and institutional asset hardening strategies under Nordic‑Protestant industrial principles."
-date: "2026-03-05"
+date: "2023-12-26"
 author: "Hylten-Invest"
 slug: "stability-institutional-capital-migration"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

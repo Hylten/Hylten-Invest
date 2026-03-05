@@ -1,7 +1,7 @@
 ---
 title: "Conservative Capital Deployment for Enduring Stability"
 description: "A strategic exploration of liquidity and asset based liquidity engineering for HNWI and UHNW investors seeking conservative stability through private credit."
-date: "2025-11-03"
+date: "2022-12-13"
 author: "Hyltén Invest"
 slug: "conservative-capital-deployment-for-enduring-stability"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Hyltén Invest"

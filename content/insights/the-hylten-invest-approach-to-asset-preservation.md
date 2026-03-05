@@ -1,7 +1,7 @@
 ---
 title: "The Hylten Invest Approach to Asset Preservation"
 description: "A strategic exploration of how Hyltén Invest secures long-term liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients."
-date: "2025-11-20"
+date: "2020-02-20"
 author: "Hyltén Invest"
 slug: "the-hylten-invest-approach-to-asset-preservation"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Hyltén Invest"

@@ -1,7 +1,7 @@
 ---
 title: "The Generative AI Regime Shift and the Institutional Repricing of Computational Capital"
 description: "A clinical institutional briefing on the structural mechanics, capital inefficiencies, and stewardship framework governing next cycle generative AI investment flows, written for allocators requiring operational intelligence rather than thematic narratives."
-date: "2026-03-04"
+date: "2022-09-19"
 author: "Jonas Hyltén"
 slug: "generative-ai-regime-shift-institutional-repricing-computational-capital"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening, computational capital, generative AI, institutional allocation"

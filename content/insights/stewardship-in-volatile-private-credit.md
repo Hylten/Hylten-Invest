@@ -1,7 +1,7 @@
 ---
 title: "Stewardship in a Volatile Private Credit Market"
 description: "Institutional briefing on stewardship as a capital discipline within volatile private credit regimes, integrating Nordic industrial traditions, liquidity engineering frameworks, and allocator calibration models."
-date: "2026-03-04"
+date: "2020-03-31"
 author: "Jonas Hyltén"
 slug: "stewardship-in-volatile-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"

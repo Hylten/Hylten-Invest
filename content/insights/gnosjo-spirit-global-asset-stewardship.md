@@ -1,7 +1,7 @@
 ---
 title: "The Gnosjö Spirit as a Corrective Framework to Wall Street Fragility: Order, Moral Obligation, and Global Asset Stewardship"
 description: "An institutional analysis of Nordic industrial ethos as a stabilizing architecture for global capital formation, with emphasis on stewardship, operational order, and principled balance sheet governance."
-date: "2026-03-04"
+date: "2022-10-07"
 author: "Hyltén Invest"
 slug: "gnosjo-spirit-global-asset-stewardship"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

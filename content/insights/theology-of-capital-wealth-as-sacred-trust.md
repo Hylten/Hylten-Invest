@@ -1,7 +1,7 @@
 ---
 title: "The Theology Of Capital: Wealth As A Sacred Trust"
 description: "An institutional analysis of stewardship, generational capital, and the Spirit of Gnosjö as a governing philosophy for capital formation, industrial responsibility, and strategic resource management across North American energy and European manufacturing."
-date: "2026-03-04"
+date: "2024-02-14"
 author: "Jonas Hyltén"
 slug: "theology-of-capital-wealth-as-sacred-trust"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

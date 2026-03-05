@@ -1,7 +1,7 @@
 ---
 title: "The Conservative Approach to Portfolio Liquidity for Long-Term Stewards of Capital"
 description: "An institutional briefing on liquidity engineering, stewardship discipline, and the conservative liquidity architecture required for generational capital mandates."
-date: "2026-03-04"
+date: "2023-10-11"
 author: "Hyltén Invest"
 slug: "conservative-approach-portfolio-liquidity-stewardship"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"

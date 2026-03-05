@@ -1,7 +1,7 @@
 ---
 title: "Strategic Alignment for Multi‑Generational Offices"
 description: "Institutional brief on stewardship architecture, capital theology, and multi‑generational alignment for long‑duration family enterprises."
-date: "2026-03-05"
+date: "2020-05-13"
 author: "Jonas Hyltén"
 slug: "strategic-alignment-multigenerational-offices"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

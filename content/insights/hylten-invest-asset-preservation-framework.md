@@ -1,7 +1,7 @@
 ---
 title: "The Hylten Invest Approach to Asset Preservation: A Framework for Generational Capital Stewardship"
 description: "Institutional doctrine for long-horizon asset preservation, liquidity hardening, jurisdictional structuring, and generational capital stewardship within the Hylten-Invest mandate."
-date: "2026-03-05"
+date: "2025-08-31"
 author: "Hylten-Invest"
 slug: "hylten-invest-asset-preservation-framework"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

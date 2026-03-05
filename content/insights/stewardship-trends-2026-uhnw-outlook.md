@@ -1,7 +1,7 @@
 ---
 title: "Stewardship Trends for 2026: The UHNW Outlook and the Reemergence of Moral Capital"
 description: "An institutional analysis of 2026’s stewardship regime shift, focusing on generational capital, Nordic industrial ethics, and the structural recalibration of UHNW decision making."
-date: "2026-03-04"
+date: "2024-12-27"
 author: "Jonas Hyltén"
 slug: "stewardship-trends-2026-uhnw-outlook"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

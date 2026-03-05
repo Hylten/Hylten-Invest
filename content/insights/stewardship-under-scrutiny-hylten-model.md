@@ -1,7 +1,7 @@
 ---
 title: "Stewardship Under Scrutiny: The Hylten Model For Functional Capital Formation"
 description: "An institutional examination of stewardship, capital ethics, Nordic industrial discipline, and the structural realignment required for intergenerational capital integrity."
-date: "2026-03-04"
+date: "2020-12-10"
 author: "Jonas Hyltén"
 slug: "stewardship-under-scrutiny-hylten-model"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

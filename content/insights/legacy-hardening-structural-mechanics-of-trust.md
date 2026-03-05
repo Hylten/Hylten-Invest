@@ -1,7 +1,7 @@
 ---
 title: "Legacy Hardening: The Structural Mechanics of Trust and the Theology of Capital"
 description: "An institutional examination of generational capital formation, Nordic industrial ethics, and the structural mechanics of trust as a balance sheet asset within modern private markets."
-date: "2026-03-04"
+date: "2024-02-28"
 author: "Jonas Hyltén"
 slug: "legacy-hardening-structural-mechanics-of-trust"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

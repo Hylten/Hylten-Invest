@@ -1,7 +1,7 @@
 ---
 title: "Conservative Financing for Global Family Legacies: Strategic Alignment for Multi‑Generational Capital Stability"
 description: "Institutional brief on conservative capital engineering for family enterprises, integrating private credit, asset hardening, and inter‑generational liquidity architecture aligned with Christian industrial stewardship principles."
-date: "2026-03-05"
+date: "2023-04-08"
 author: "Jonas Hyltén"
 slug: "conservative-financing-global-family-legacies"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

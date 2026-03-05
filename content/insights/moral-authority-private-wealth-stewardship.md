@@ -1,7 +1,7 @@
 --- 
 title: "Moral Authority in Private Wealth Stewardship" 
 description: "Institutional analysis of moral authority, generational capital, Christian industrial legacy, and private wealth stewardship within modern liquidity regimes." 
-date: "2026-03-05" 
+date: "2020-01-27" 
 author: "Jonas Hyltén" 
 slug: "moral-authority-private-wealth-stewardship" 
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening" 

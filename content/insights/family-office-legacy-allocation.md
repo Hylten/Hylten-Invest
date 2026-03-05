@@ -1,7 +1,7 @@
 ---
 title: "Family Office Legacy Allocation"
 description: "Insights on Family Office Legacy Allocation from Roials Capital and Hyltén Invest."
-date: "2025-11-05"
+date: "2024-05-17"
 author: "Hyltén Invest"
 slug: "family-office-legacy-allocation"
 keywords: "private credit, asset based liquidity engineering, strategic capital"

@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Sovereign Wealth Stewardship"
 description: "Institutional level briefing on sovereign capital regimes, stewardship theory, Nordic industrial ethics, and multi generational governance frameworks for allocators evaluating long horizon deployment mandates."
-date: "2026-03-04"
+date: "2024-05-30"
 author: "Jonas Hyltén"
 slug: "mechanics-of-sovereign-wealth-stewardship"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

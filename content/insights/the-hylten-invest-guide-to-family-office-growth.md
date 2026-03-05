@@ -1,7 +1,7 @@
 ---
 title: "The Hylten Invest Guide to Family Office Growth"
 description: "A strategic guide to liquidity, private credit, and asset based liquidity engineering designed for family offices seeking long term structural stability."
-date: "2025-11-20"
+date: "2022-05-26"
 author: "Hyltén Invest"
 slug: "the-hylten-invest-guide-to-family-office-growth"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Hyltén Invest"

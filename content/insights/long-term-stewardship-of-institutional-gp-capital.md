@@ -1,7 +1,7 @@
 ---
 title: "Long-Term Stewardship of Institutional GP Capital"
 description: "A strategic exploration of long-term liquidity, private credit, and asset based liquidity engineering solutions for HNWI and UHNW investors."
-date: "2025-11-09"
+date: "2023-11-29"
 author: "Hyltén Invest"
 slug: "long-term-stewardship-of-institutional-gp-capital"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Hyltén Invest"

@@ -1,7 +1,7 @@
 ---
 title: "Hylten Invest: The Silent Partner in Stewardship"
 description: "Institutional analysis of Hylten Invest as a moral-capital allocator rooted in the Spirit of Gnosjö, integrating generational stewardship, European industrial discipline, and modern balance sheet optimization into a coherent framework for strategic alignment with UHNW and institutional partners."
-date: "2026-03-04"
+date: "2022-07-21"
 author: "Jonas Hyltén"
 slug: "hylten-invest-silent-partner-stewardship"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

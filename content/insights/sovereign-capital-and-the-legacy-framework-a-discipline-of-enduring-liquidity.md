@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital and the Legacy Framework: A Discipline of Enduring Liquidity"
 description: "A high‑end exploration of sovereign capital structures, private credit, and asset based liquidity engineering for long‑term liquidity management."
-date: "2025-11-13"
+date: "2025-05-27"
 author: "Hyltén Invest"
 slug: "sovereign-capital-and-the-legacy-framework-a-discipline-of-enduring-liquidity"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Hyltén Invest"

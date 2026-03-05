@@ -1,7 +1,7 @@
 ---
 title: "Long-Term Asset Stewardship in Private Credit"
 description: "A high-end exploration of liquidity architecture and asset-based liquidity engineering for HNWI and UHNW investors seeking long-term private credit stewardship."
-date: "2025-11-09"
+date: "2023-09-22"
 author: "Hyltén Invest"
 slug: "long-term-asset-stewardship-in-private-credit"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Hyltén Invest"

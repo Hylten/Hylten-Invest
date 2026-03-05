@@ -1,7 +1,7 @@
 ---
 title: "Capital Migration for Global Families: The Role of Sovereign Crypto liquidity engineering"
 description: "A high-level exploration of liquidity creation through private credit and asset based Capital Structuring for global families seeking structural mobility."
-date: "2025-11-02"
+date: "2020-12-16"
 author: "Hyltén Invest"
 slug: "capital-migration-for-global-families-the-role-of-sovereign-crypto-liquidity-engineering"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Hyltén Invest"

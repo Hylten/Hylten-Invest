@@ -1,7 +1,7 @@
 ---
 title: "Private Equity Diversification and the Institutional Stewardship Mandate"
 description: "Institutional briefing on capital regime shifts, diversification logic, operational intelligence, and the stewardship thesis for multi-cycle private equity allocation."
-date: "2026-03-04"
+date: "2020-12-18"
 author: "Jonas Hyltén"
 slug: "private-equity-diversification-stewardship-jonas-hylten"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

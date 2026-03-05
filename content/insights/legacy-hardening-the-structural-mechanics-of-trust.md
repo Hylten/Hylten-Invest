@@ -1,7 +1,7 @@
 ---
 title: "Legacy Hardening: The Structural Mechanics of Trust"
 description: "A high‑end exploration of liquidity, private credit, and asset-based liquidity engineering for long-term capital stewards seeking structural durability."
-date: "2025-11-08"
+date: "2025-02-02"
 author: "Hyltén Invest"
 slug: "legacy-hardening-the-structural-mechanics-of-trust"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Hyltén Invest"

@@ -1,7 +1,7 @@
 ---
 title: "The Stewardship of Private Wealth in 2026: Institutional Discipline, Moral Authority, and the Architecture of Generational Capital"
 description: "An institutional analysis of private wealth stewardship in 2026, examining structural shifts in capital formation, the operational mechanics of real asset strategies, and the moral hierarchy that governs multigenerational capital continuity."
-date: "2026-03-04"
+date: "2024-12-25"
 author: "Jonas Hyltén"
 slug: "stewardship-of-private-wealth-2026"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

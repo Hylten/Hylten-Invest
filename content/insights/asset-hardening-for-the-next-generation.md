@@ -1,7 +1,7 @@
 ---
 title: "Asset Hardening for the Next Generation: Structural Liquidity and the Mechanics of Enduring Family Legacies"
 description: "A technical briefing on institutional asset hardening, liquidity engineering, and generational stewardship frameworks rooted in Nordic industrial discipline and applied to modern capital regimes."
-date: "2026-03-04"
+date: "2023-01-13"
 author: "Hyltén Invest"
 slug: "asset-hardening-next-generation-structural-liquidity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity Architecture for UHNW Families in Volatile Markets"
 description: "A principal-grade intelligence brief on liquidity engineering, capital efficiency, and structural asset hardening for UHNW families entering 2026 volatility cycles."
-date: "2026-03-04"
+date: "2023-07-30"
 author: "Hyltén Invest"
 slug: "strategic-liquidity-architecture-uhnw-volatile-markets"
 keywords: "kapitalanskaffning, private equity, Fund-III, Hyltén Invest, 2026, Monetization Architecture"

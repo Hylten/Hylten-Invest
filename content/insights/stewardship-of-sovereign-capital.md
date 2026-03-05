@@ -1,7 +1,7 @@
 ---
 title: "The Stewardship of Sovereign Capital"
 description: "A principal-level doctrine on liquidity governance, precision allocation, and generational wealth architecture grounded in Christian-industrial ethics and sovereign capital engineering."
-date: 2026-03-05
+date: 2025-09-09
 author: Jonas Hylten
 slug: stewardship-of-sovereign-capital
 keywords: kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening

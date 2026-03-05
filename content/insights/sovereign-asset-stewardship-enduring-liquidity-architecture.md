@@ -1,7 +1,7 @@
 ---
 title: "The Stewardship Architecture of Sovereign Assets and Enduring Liquidity"
 description: "A principal-grade analysis of sovereign asset stewardship, liquidity engineering, and capital efficiency frameworks shaping Private Equity Fund-III investment opportunities 2026."
-date: "2026-03-04"
+date: "2022-11-22"
 author: "Hyltén Invest"
 slug: "sovereign-asset-stewardship-enduring-liquidity-architecture"
 keywords: "kapitalanskaffning, private equity, Fund-III, Hyltén Invest, 2026, Institutional Liquidity Paths"

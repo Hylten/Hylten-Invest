@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Legacy: Building Eternal Capital"
 description: "A high‑end exploration of liquidity architecture, private credit, and asset based liquidity engineering for long‑term capital stewardship."
-date: "2025-11-23"
+date: "2022-10-08"
 author: "Hyltén Invest"
 slug: "the-sovereign-legacy-building-eternal-capital"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Hyltén Invest"

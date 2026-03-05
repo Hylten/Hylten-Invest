@@ -1,7 +1,7 @@
 ---
 title: "The Gnosjö-Syndikatet Part 2: The Architecture of Trust"
 description: "A principal-level examination of Småland's trust‑driven industrial cadence, moral capital formation, and the institutional advantages that outperform high-finance complexity."
-date: "2026-03-05"
+date: "2020-06-05"
 author: "Jonas Hyltén"
 slug: "gnosjo-syndikatet-architecture-of-trust"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
