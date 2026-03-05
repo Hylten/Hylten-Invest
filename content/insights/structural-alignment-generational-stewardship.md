@@ -151,4 +151,3 @@ In an era where capital is abundant but durable assets are scarce, stewardship b
 
 [END INTELLIGENCE REPORT]
 
-### TECHNICAL MANDATE

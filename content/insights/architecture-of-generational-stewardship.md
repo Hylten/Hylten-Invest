@@ -149,4 +149,3 @@ The architecture of generational stewardship is both moral and mechanical. It is
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

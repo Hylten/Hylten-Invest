@@ -110,4 +110,3 @@ Roials Capital conducts confidential strategy audits for allocators requiring in
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

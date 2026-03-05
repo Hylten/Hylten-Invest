@@ -99,4 +99,3 @@ A confidential strategy audit or portfolio calibration session allows families t
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

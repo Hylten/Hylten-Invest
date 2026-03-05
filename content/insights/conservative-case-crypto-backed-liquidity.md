@@ -124,4 +124,3 @@ Allocators requiring a deeper examination of structural alignment, technical cou
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

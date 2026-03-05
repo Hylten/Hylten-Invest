@@ -110,4 +110,3 @@ Roials Capital conducts confidential Strategy Consultations for families requiri
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

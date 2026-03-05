@@ -265,4 +265,3 @@ This is the foundation that Hylten Invest continues to build.
 
 For principals, family offices, or advisors seeking long term liquidity stewardship, contact for a stewardship discussion.
 
-### TECHNICAL MANDATE

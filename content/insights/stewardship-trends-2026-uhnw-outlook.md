@@ -108,4 +108,3 @@ Roials Capital provides confidential portfolio calibration for principals who re
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

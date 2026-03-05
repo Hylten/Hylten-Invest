@@ -165,4 +165,3 @@ Liquidity is optionality. Optionality is sovereignty. And sovereignty is steward
 
 [END INTELLIGENCE REPORT]
 
-### TECHNICAL MANDATE

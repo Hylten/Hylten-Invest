@@ -170,4 +170,3 @@ Roials Capital conducts confidential strategy audits that help institutional all
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

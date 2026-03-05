@@ -115,4 +115,3 @@ The digital age introduces volatility. Stewardship introduces clarity. When the 
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

@@ -116,4 +116,3 @@ Allocators seeking to calibrate portfolios within a volatile private credit envi
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

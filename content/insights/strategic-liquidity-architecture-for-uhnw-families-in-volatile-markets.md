@@ -100,4 +100,3 @@ It is essential.
  
 Contact for stewardship discussion
 
-### TECHNICAL MANDATE

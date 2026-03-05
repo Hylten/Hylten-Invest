@@ -81,4 +81,3 @@ For families seeking a confidential assessment, Roials Capital functions as a ne
 
 [END OF INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

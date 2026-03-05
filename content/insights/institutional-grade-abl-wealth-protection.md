@@ -141,4 +141,3 @@ Roials Capital remains available for a confidential strategy audit to map the al
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

@@ -83,4 +83,3 @@ Legacy is not the accumulation of assets. It is the construction of liquidity th
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

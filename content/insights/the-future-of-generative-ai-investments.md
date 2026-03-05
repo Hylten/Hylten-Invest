@@ -13,4 +13,3 @@ These autonomous agents will redefine business operations, lower transaction cos
 
 At Hyltén Invest, we focus on identifying the platforms building the essential infrastructure for this transformation. We believe that the next wave of value will be captured by systems that don't just "chat," but "act."
 
-### TECHNICAL MANDATE

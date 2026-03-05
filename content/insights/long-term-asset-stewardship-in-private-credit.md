@@ -76,4 +76,3 @@ Hyltén Invest remains committed to this position. We provide Institutional Liqu
 Hyltén Invest maintains a focused and selective approach. 
 For inquiries related to long-term asset stewardship and private credit structures, contact for a stewardship discussion.
 
-### TECHNICAL MANDATE

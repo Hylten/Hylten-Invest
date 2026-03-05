@@ -170,4 +170,3 @@ Allocators requiring architectural clarity or jurisdictional calibration may ini
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

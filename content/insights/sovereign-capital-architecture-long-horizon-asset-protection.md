@@ -129,4 +129,3 @@ Roials Capital conducts confidential strategy audits for principals seeking cali
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

@@ -123,4 +123,3 @@ Those who manage capital with integrity carry a heritage that outlasts valuation
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

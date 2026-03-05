@@ -112,4 +112,3 @@ The outcome is continuity across generations.
 
 [END]
 
-### TECHNICAL MANDATE

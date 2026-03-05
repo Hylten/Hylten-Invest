@@ -103,4 +103,3 @@ Stewardship under scrutiny is not a burden. It is a refining mechanism. It resto
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

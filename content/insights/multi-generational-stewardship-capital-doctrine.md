@@ -118,4 +118,3 @@ This memorandum provides the strategic foundation. The next step is an applied c
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

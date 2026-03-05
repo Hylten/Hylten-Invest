@@ -105,4 +105,3 @@ Multi generational wealth is not preserved by aggressiveness. It is preserved by
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

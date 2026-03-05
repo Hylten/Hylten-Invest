@@ -73,4 +73,3 @@ For institutions evaluating complex sectors such as North American energy, priva
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

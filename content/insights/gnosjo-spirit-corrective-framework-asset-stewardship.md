@@ -118,4 +118,3 @@ Allocators seeking to calibrate exposure to sectors shaped by supply constraints
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

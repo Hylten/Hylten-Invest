@@ -101,4 +101,3 @@ The long term resilience of family capital is not determined by market condition
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

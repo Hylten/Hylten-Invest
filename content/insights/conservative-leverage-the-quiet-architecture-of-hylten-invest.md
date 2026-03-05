@@ -64,4 +64,3 @@ It is built for families and individuals who measure success in decades.
 
 # Contact for stewardship discussion
 
-### TECHNICAL MANDATE

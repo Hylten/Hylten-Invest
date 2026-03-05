@@ -323,4 +323,3 @@ It is one of the most powerful expressions of long term stewardship.
 
 Contact for stewardship discussion
 
-### TECHNICAL MANDATE

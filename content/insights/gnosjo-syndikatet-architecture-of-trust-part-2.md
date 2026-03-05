@@ -123,4 +123,3 @@ The Gnosjö-Syndikatet is not nostalgia. It is an institutional archetype. Its a
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

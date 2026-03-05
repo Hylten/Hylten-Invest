@@ -75,4 +75,3 @@ Roials Capital supports allocators by offering confidential strategy calibration
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

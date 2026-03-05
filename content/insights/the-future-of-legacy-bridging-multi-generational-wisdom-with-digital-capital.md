@@ -185,4 +185,3 @@ If legacy is the long arc, liquidity is the line that keeps it steady.
 
 ## Contact for stewardship discussion
 
-### TECHNICAL MANDATE

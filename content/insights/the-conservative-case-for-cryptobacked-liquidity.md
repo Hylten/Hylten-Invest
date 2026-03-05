@@ -177,4 +177,3 @@ Hylten‑Invest is positioned for this future, and prepared to guide the familie
 
 ## Contact for stewardship discussion
 
-### TECHNICAL MANDATE

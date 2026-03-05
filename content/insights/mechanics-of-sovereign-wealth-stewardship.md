@@ -104,4 +104,3 @@ A confidential strategy audit can assess whether an allocator’s framework, gov
 
 [END BRIEFING]
 
-### TECHNICAL MANDATE

@@ -125,4 +125,3 @@ Allocators that understand the structural dynamics of Alberta heavy oil, the mec
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

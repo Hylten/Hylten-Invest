@@ -287,4 +287,3 @@ For families who prefer silent authority over visible complexity, we remain the 
 
 Contact for stewardship discussion
 
-### TECHNICAL MANDATE

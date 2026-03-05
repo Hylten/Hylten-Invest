@@ -351,4 +351,3 @@ Hylten Invest supports families through this transition with discretion, clarity
 
 Contact for stewardship discussion
 
-### TECHNICAL MANDATE

@@ -110,4 +110,3 @@ Capital must be governed with moral intelligence. Stewardship is not optional. I
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

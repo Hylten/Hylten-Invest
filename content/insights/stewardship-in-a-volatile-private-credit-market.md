@@ -327,4 +327,3 @@ We will continue to provide the silent structural layer that institutional capit
 
 ## Contact for stewardship discussion
 
-### TECHNICAL MANDATE

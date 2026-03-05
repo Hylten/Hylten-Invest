@@ -102,4 +102,3 @@ This is the stewardship mindset.
  
 # Contact for stewardship discussion
 
-### TECHNICAL MANDATE

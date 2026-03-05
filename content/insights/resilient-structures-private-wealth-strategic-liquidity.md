@@ -91,4 +91,3 @@ The families that endure across generations do not pursue yield. They pursue ali
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

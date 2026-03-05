@@ -149,4 +149,3 @@ Capital is a responsibility. Stewardship is a calling. Legacy is the convergence
 
 [END BRIEFING]
 
-### TECHNICAL MANDATE

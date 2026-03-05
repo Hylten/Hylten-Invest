@@ -113,4 +113,3 @@ The allocator who understands the regime shift recognizes that asset preservatio
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

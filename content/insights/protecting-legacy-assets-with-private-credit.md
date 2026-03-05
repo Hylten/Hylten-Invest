@@ -349,4 +349,3 @@ Without noise.
 
 Contact for stewardship discussion
 
-### TECHNICAL MANDATE

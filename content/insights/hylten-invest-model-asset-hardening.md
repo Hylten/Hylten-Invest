@@ -137,4 +137,3 @@ Allocators seeking to navigate the next 10 year capital regime benefit from this
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

@@ -277,4 +277,3 @@ It is a strategic imperative.
 
 Contact for stewardship discussion
 
-### TECHNICAL MANDATE

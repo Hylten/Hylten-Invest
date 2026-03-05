@@ -76,4 +76,3 @@ For families and institutions seeking a deeper understanding of structural align
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE

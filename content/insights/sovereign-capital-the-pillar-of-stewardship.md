@@ -301,4 +301,3 @@ When assets remain intact, legacy becomes inevitable.
 
 # Contact for stewardship discussion
 
-### TECHNICAL MANDATE

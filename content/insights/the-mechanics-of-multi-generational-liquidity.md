@@ -313,4 +313,3 @@ This is the architecture of silent authority.
 
 # Contact for stewardship discussion
 
-### TECHNICAL MANDATE

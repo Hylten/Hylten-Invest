@@ -153,4 +153,3 @@ Hyltén Invest supports this mission with silent authority, conservative structu
 
 Contact for stewardship discussion
 
-### TECHNICAL MANDATE

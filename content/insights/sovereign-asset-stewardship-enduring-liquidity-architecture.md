@@ -149,4 +149,3 @@ Sovereign capital must behave as the architect, not the guest. It must design it
 
 [END INTELLIGENCE REPORT]
 
-### TECHNICAL MANDATE

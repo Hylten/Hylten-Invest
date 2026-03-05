@@ -81,4 +81,3 @@ A confidential strategy audit becomes a logical next step for allocators who rec
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

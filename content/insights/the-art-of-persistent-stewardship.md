@@ -86,4 +86,3 @@ For allocators seeking to evaluate alignment between stewardship and their portf
 
 [END]
 
-### TECHNICAL MANDATE

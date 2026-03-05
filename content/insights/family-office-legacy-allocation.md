@@ -230,4 +230,3 @@ They secure their future.
 
 Contact for stewardship discussion
 
-### TECHNICAL MANDATE

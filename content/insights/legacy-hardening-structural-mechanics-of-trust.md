@@ -106,4 +106,3 @@ The decisive step is a structural audit of the allocator’s existing frameworks
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

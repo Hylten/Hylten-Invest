@@ -123,4 +123,3 @@ Roials Capital provides a confidential strategy audit for principals requiring a
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE

@@ -102,4 +102,3 @@ The silent partner model remains intact: stewardship first, alignment second, op
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE
