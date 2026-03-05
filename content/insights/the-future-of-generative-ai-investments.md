@@ -12,3 +12,6 @@ Artificial Intelligence is currently undergoing a paradigm shift. Moving beyond 
 These autonomous agents will redefine business operations, lower transaction costs, and create entirely new forms of digital capital.
 
 At Hyltén Invest, we focus on identifying the platforms building the essential infrastructure for this transformation. We believe that the next wave of value will be captured by systems that don't just "chat," but "act."
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

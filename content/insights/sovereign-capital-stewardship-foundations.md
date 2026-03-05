@@ -27,7 +27,7 @@ The first mechanic is capital permanence. Permanent or semi permanent capital st
 
 The second mechanic is value concentration. Stewardship frameworks intentionally avoid excessive diversification because diversification dilutes conviction and accountability. Concentrated ownership in essential asset classes allows for operational intelligence, long horizon upgrades, and a strategic posture rooted in competence rather than correlation analysis.
 
-The third mechanic is liquidity engineering. Long-lived assets often carry intermittent liquidity profiles. Stewardship capital resolves this by structuring internal cycles of liquidity creation through refinancing pathways, collateral optimization, and blended yield lines that produce consistent internal liquidity without external dependence. This shifts the focus from market liquidity to engineered liquidity, which materially lowers systemic risk.
+The third mechanic is Institutional Liquidity Paths. Long-lived assets often carry intermittent liquidity profiles. Stewardship capital resolves this by structuring internal cycles of liquidity creation through refinancing pathways, collateral optimization, and blended yield lines that produce consistent internal liquidity without external dependence. This shifts the focus from market liquidity to engineered liquidity, which materially lowers systemic risk.
 
 The fourth mechanic is asset hardening. Hard assets that provide energy, food, transportation, or industrial output retain intrinsic value irrespective of market narratives. Alberta heavy oil reservoirs with established decline curves are a prime example. Their physics are known. Their production profiles are predictable. Their long term recoverability is not subject to consumer sentiment. When managed by operators with discipline and transparent field level execution, such as our strategic partner NAEO, these assets become a stabilizing pillar in a portfolio architecture.
 
@@ -63,14 +63,17 @@ PHASE 5: THE STRATEGIC LENS FOR ALLOCATORS
 
 The current global landscape demands a new archetype of allocator. Sovereign capital behaves differently because it thinks differently. It interprets markets not as opportunities for extraction but as systems requiring stewardship. This creates a distinctive decision making lens anchored in:
 
-- alignment with essential industries  
-- preference for long horizon cash flows  
-- structural avoidance of short cycle speculation  
-- governance anchored in moral authority  
-- intergenerational continuity  
+- alignment with essential industries 
+- preference for long horizon cash flows 
+- structural avoidance of short cycle speculation 
+- governance anchored in moral authority 
+- intergenerational continuity 
 
 Energy in North America, particularly through disciplined operators such as NAEO, becomes a natural match for this orientation. The Alberta basin offers geological predictability. The operating environment requires technical competency rather than speculative forecasting. The asset class aligns with the stewardship mandate because it contributes directly to societal stability.
 
 Roials Capital supports allocators by offering confidential strategy calibration designed for those who require operational intelligence, not promotional narratives. The objective is alignment. The outcome is clarity. Sovereign capital is not defined by its size. It is defined by its discipline.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

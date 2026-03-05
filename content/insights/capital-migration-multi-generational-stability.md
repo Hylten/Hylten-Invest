@@ -33,21 +33,21 @@ Institutional clarity requires technical specificity. Alberta's heavy oil reserv
 
 Key mechanics:
 
-1. Reservoir Physics  
+1. Reservoir Physics 
 Heavy oil reservoirs in Alberta exhibit viscosity profiles that respond predictably to thermal stimulation. Conventional production relies less on extreme pressure regimes and more on controlled mobilization. The predictability of these reservoirs allows for forward modeling of decline curves at a level rarely attainable in other upstream segments.
 
-2. Production Methodologies  
+2. Production Methodologies 
 SAGD (Steam Assisted Gravity Drainage) operates through parallel well pairs: an injector and a producer. Steam is introduced to reduce viscosity, enabling gravity assisted flow. Once thermal equilibrium is established, the production profile tends toward stable plateau performance.
 
 CSS (Cyclic Steam Stimulation) utilizes a sequence of steam injection, soaking, and production cycles. While more dynamic than SAGD, CSS reservoirs offer repeatable operational patterns when managed by experienced operators.
 
-3. Recovery Factors  
+3. Recovery Factors 
 Thermal recovery methods often achieve higher recovery factors relative to cold production. Alberta reservoirs with established operational histories provide clear data on recoverable volumes, pressure maintenance requirements, and thermal breakthrough behavior.
 
-4. Decline Curve Transparency  
+4. Decline Curve Transparency 
 Unlike shale reservoirs, which exhibit aggressive initial declines, Alberta heavy oil wells typically demonstrate moderate and predictable decline. This supports stable cash flow modeling and enhances resilience across commodity cycles.
 
-5. Asset Longevity  
+5. Asset Longevity 
 The combination of stable decline rates, repeatable recovery processes, and extensive reservoir mapping produces asset lifespans measured in decades rather than years.
 
 These mechanics matter not because they promise returns, but because they reduce uncertainty. Multi generational capital benefits most from assets governed by engineering constraints rather than speculative narratives.
@@ -60,13 +60,13 @@ Roials Capital functions as a strategic navigator and institutional introducer. 
 
 The partnership architecture operates on three pillars:
 
-1. Strategic Alignment  
+1. Strategic Alignment 
 Multi generational capital is not deployed for opportunistic gains. It is deployed to create structural stability across decades. Roials Capital frames the decision making landscape, maps the operational realities of the Alberta basin, and introduces allocators to NAEO where appropriate.
 
-2. Liquidity Engineering  
-North American operators often hold high quality producing assets but lack access to institutional liquidity. This creates a structural advantage for European capital positioned to provide bespoke financing or structured participation. Liquidity engineering allows for balance sheet optimization without forcing allocators into equity style exposures.
+2. Strategic Collateralization 
+North American operators often hold high quality producing assets but lack access to institutional liquidity. This creates a structural advantage for European capital positioned to provide bespoke financing or structured participation. Asset-Backed Frameworks allows for balance sheet optimization without forcing allocators into equity style exposures.
 
-3. Operational Intelligence  
+3. Operational Intelligence 
 Navigating Alberta's heavy oil environment requires a clear understanding of reservoir engineering, thermal recovery economics, regulatory frameworks, and indigenous partnership protocols. Roials Capital consolidates these elements into actionable institutional frameworks. NAEO operationalizes them.
 
 The partnership model is built on discipline. It avoids speculation, minimizes operational surprises, and reinforces the principle that capital, when strategically aligned with real world assets, becomes resilient.
@@ -79,9 +79,9 @@ Proverbs 13:22 states that a good person leaves an inheritance to children and g
 
 The Spirit of Gnosjö reinforces this ethic. Nordic industrial families built enduring enterprises by adhering to four operational disciplines:
 
-1. Conservative balance sheet structures  
-2. Relentless operational clarity  
-3. Community responsibility  
+1. Conservative balance sheet structures 
+2. Relentless operational clarity 
+3. Community responsibility 
 4. Long horizon planning
 
 These disciplines created stability across political regimes, commodity cycles, and economic crises. They align naturally with real asset strategies that reward operational consistency over speculative acceleration.
@@ -94,8 +94,8 @@ PHASE 5: A DECISION MAKING LENS FOR THE ALLOCATOR
 
 Allocators managing intergenerational mandates face three pressures:
 
-1. Inflation erosion  
-2. Policy driven volatility  
+1. Inflation erosion 
+2. Policy driven volatility 
 3. Declining trust in fiat denominated stability
 
 Real assets with predictable operational profiles provide a counterbalance. Alberta's heavy oil landscape, particularly when accessed through a disciplined operator like NAEO and navigated through Roials Capital, offers structural clarity within a complex global environment.
@@ -104,10 +104,13 @@ The decision is not about energy exposure. It is about multi generational resili
 
 The allocator is not choosing between asset classes. The allocator is choosing between structural models.
 
-A calibrated review of the portfolio through a confidential strategy audit allows the family or institution to assess how real assets, liquidity engineering, and operational intelligence can reinforce long horizon stability.
+A calibrated review of the portfolio through a confidential strategy audit allows the family or institution to assess how real assets, Capital Structuring, and operational intelligence can reinforce long horizon stability.
 
-The objective is alignment.  
-The mechanism is structure.  
+The objective is alignment. 
+The mechanism is structure. 
 The outcome is continuity across generations.
 
 [END]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

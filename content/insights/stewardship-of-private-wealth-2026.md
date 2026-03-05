@@ -23,13 +23,13 @@ PHASE 2: TECHNICAL MECHANICS OF CAPITAL STEWARDSHIP
 
 Stewardship in 2026 is not a moral aspiration. It is an engineering discipline that governs how capital is protected, deployed, and operationalized. It integrates three technical dimensions.
 
-1. Liquidity Engineering  
+1. Monetization Architecture 
 A steward does not pursue yield. A steward engineers liquidity. This is a structural principle. Liquidity is a function of balance sheet design, not market timing. Modern wealth systems require allocators to distribute capital across instruments that reinforce optionality. In private credit, liquidity is created through disciplined loan to value parameters, structured seniority, and collateral stacks that can be stress tested under multiple macro regimes. In real assets, liquidity emerges from replacement cost spreads and yield on cost dynamics that provide intrinsic buffers. Liquidity is the first pillar of stewardship because it allows the allocator to remain principled rather than reactive.
 
-2. Asset Hardening  
+2. Asset Hardening 
 Stewardship requires capital to be placed in environments where physical utility, contractual stability, or subsurface physics govern value. Hard assets provide continuity when policy regimes fluctuate. In the Alberta heavy oil corridor, for example, the reservoir mechanics associated with SAGD and CSS cycles create a technical floor that is not dependent on speculative narratives. Mature decline curves, consistent thermal performance, and established operational workflows provide a measurable predictability that aligns with the steward's mandate to avoid waste. Asset hardening is not an ideological preference for tangibility. It is the recognition that assets governed by physics provide fewer pathways to capital erosion.
 
-3. Opportunity Velocity  
+3. Opportunity Velocity 
 Stewardship does not oppose velocity. It directs it. When families and institutional allocators operate without a velocity framework, they drift into opportunism and fragment their strategy. Opportunity velocity is the calibration of when and where a steward should accelerate or refrain. It is a function of information symmetry, timing precision, and the capacity to deploy capital into dislocations without violating prudential discipline. In North American energy, velocity is captured not through speculation but through alignment with operators who maintain cycle resistant production discipline. In private credit, it is captured through deal flow filtration that identifies mismatches between asset quality and capital availability.
 
 PHASE 3: THE PARTNERSHIP MODEL AND THE ROLE OF A STRATEGIC NAVIGATOR
@@ -50,13 +50,13 @@ This theological orientation has direct application in 2026. Markets reward the 
 
 The stewardship filter requires the allocator to evaluate every opportunity through three questions.
 
-1. Does this deployment prevent waste  
+1. Does this deployment prevent waste 
 If capital is exposed to arbitrary risk or misaligned incentives, waste is created. Stewardship rejects such structures.
 
-2. Does this deployment strengthen generational continuity  
+2. Does this deployment strengthen generational continuity 
 An allocation that cannot endure volatility or provide compounding strategic positioning does not meet the standard of Proverbs 13:22.
 
-3. Does this deployment reflect alignment between talent, timing, and terrain  
+3. Does this deployment reflect alignment between talent, timing, and terrain 
 Stewardship requires coherence. The allocator must operate in domains where their knowledge or partnerships provide structural advantage.
 
 PHASE 5: THE DECISION MAKING LENS FOR 2026
@@ -65,18 +65,21 @@ The environment facing private wealth in 2026 is not defined by instability. It 
 
 The allocator who acts with discipline will adopt the following lens.
 
-1. Capital must be directed toward operationally intelligible domains  
+1. Capital must be directed toward operationally intelligible domains 
 Allocators who pursue complexity for its own sake dilute stewardship. The correct environments are those where the allocator or their strategic partner has field level clarity.
 
-2. Balance sheets must be hardened  
+2. Balance sheets must be hardened 
 Stewardship requires protection against erosion. Hard assets, conservative credit structures, and technical operators create the structural durability required for multigenerational continuity.
 
-3. Partnership selection must be governed by character, not charisma  
+3. Partnership selection must be governed by character, not charisma 
 Stewards align with operators who demonstrate integrity, competence, and long term orientation. Roials Capital functions as a navigation partner in this selection process, providing intelligence and relational architecture without assuming ownership or control of the allocator's capital.
 
-4. Generational frameworks must be codified  
+4. Generational frameworks must be codified 
 Stewardship is not improvisational. It is intentional. Families that build formal governance, capital mandates, and intergenerational protocols will maintain continuity even across volatile cycles.
 
 A confidential strategy audit becomes a logical next step for allocators who recognize the need for calibration. It is not a sales mechanism. It is a structural assessment designed to map resources, obligations, and opportunities against the stewardship mandate. This is the point where clarity replaces complexity and where capital begins to align with calling.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

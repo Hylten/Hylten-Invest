@@ -31,12 +31,12 @@ Although Hylten Invest remains structurally agnostic across asset classes, the e
 
 The technical mechanics that matter for institutional alignment include:
 
-• Predictability of decline curves based on multi-decade historical data  
-• Commodity spread behavior under North American heavy-light differentials  
-• Capital efficiency derived from re-entering existing wellbores rather than drilling new verticals  
-• Cash-flow stability under fixed operational cost structures  
-• Reduction of abandonment liabilities through modern remediation planning  
-• Field-development sequencing that avoids front-loading capital expenditures  
+• Predictability of decline curves based on multi-decade historical data 
+• Commodity spread behavior under North American heavy-light differentials 
+• Capital efficiency derived from re-entering existing wellbores rather than drilling new verticals 
+• Cash-flow stability under fixed operational cost structures 
+• Reduction of abandonment liabilities through modern remediation planning 
+• Field-development sequencing that avoids front-loading capital expenditures 
 
 The NAEO operational framework is anchored in these mechanics. Their extraction approach focuses on reservoir matching rather than expansionary drilling. They analyze legacy well data, reverse engineer optimal recovery curves, and apply thermal energy with engineering precision. This model does not chase volume. It optimizes recovery within predictable boundaries. The physics determine the outcome. The operator determines the stewardship.
 
@@ -50,14 +50,14 @@ Hylten Invest operates upstream of this process. It is not the operator and not 
 
 The partnership architecture can be understood in three layers:
 
-• Layer One: Operational Integrity  
-  The operator demonstrates technical competence, transparency, and long-term field planning.
+• Layer One: Operational Integrity 
+ The operator demonstrates technical competence, transparency, and long-term field planning.
 
-• Layer Two: Strategic Navigation  
-  Roials Capital validates the macro environment, identifies structural inefficiencies, and provides institutional-grade intelligence.
+• Layer Two: Strategic Navigation 
+ Roials Capital validates the macro environment, identifies structural inefficiencies, and provides institutional-grade intelligence.
 
-• Layer Three: Stewardship Oversight  
-  Hylten Invest assesses whether the opportunity aligns with generational ethics, relational accountability, and moral capital discipline.
+• Layer Three: Stewardship Oversight 
+ Hylten Invest assesses whether the opportunity aligns with generational ethics, relational accountability, and moral capital discipline.
 
 This structure establishes a triangulated architecture where each party fulfills a distinct function without overlap or conflict. It protects the allocator from single-source bias and ensures that any introduction or alignment is grounded in both operational realism and moral clarity.
 
@@ -67,26 +67,26 @@ Stewardship is not a metaphor. It is a governance system. Genesis 2:15 provides 
 
 The stewardship filter at Hylten Invest consists of several verification layers:
 
-• Ethical Capital Formation  
-  Capital must be earned through disciplined operations, not speculative leverage.
+• Ethical Capital Formation 
+ Capital must be earned through disciplined operations, not speculative leverage.
 
-• Non-Wasteful Allocation  
-  Every deployment must serve a long-term productive purpose. Stewardship rejects waste as a violation of responsibility.
+• Non-Wasteful Allocation 
+ Every deployment must serve a long-term productive purpose. Stewardship rejects waste as a violation of responsibility.
 
-• Intergenerational Accountability  
-  Decisions must be evaluated based on multi-generational impact, not short-term optics.
+• Intergenerational Accountability 
+ Decisions must be evaluated based on multi-generational impact, not short-term optics.
 
-• Relational Governance  
-  Trust networks outperform transactional networks. Governance must reflect covenantal thinking rather than contractual minimalism.
+• Relational Governance 
+ Trust networks outperform transactional networks. Governance must reflect covenantal thinking rather than contractual minimalism.
 
-• Opportunity Velocity Control  
-  High-velocity capital often destroys the very ecosystems it attempts to exploit. Stewardship imposes controlled velocity to prevent distortion.
+• Opportunity Velocity Control 
+ High-velocity capital often destroys the very ecosystems it attempts to exploit. Stewardship imposes controlled velocity to prevent distortion.
 
-• Transparency Requirements  
-  Operators must demonstrate technical transparency, accounting clarity, and governance maturity.
+• Transparency Requirements 
+ Operators must demonstrate technical transparency, accounting clarity, and governance maturity.
 
-• Alignment with Eternal Principles  
-  Stewardship recognizes that capital is entrusted, not owned. It must be deployed in a manner consistent with Proverbs 21:5 which states that the plans of the diligent lead surely to abundance.
+• Alignment with Eternal Principles 
+ Stewardship recognizes that capital is entrusted, not owned. It must be deployed in a manner consistent with Proverbs 21:5 which states that the plans of the diligent lead surely to abundance.
 
 These filters are applied before any strategic introduction is considered. They ensure that capital flows into environments where moral stability supports operational stability. Without this integration, the allocator inherits risk that no financial structure can mitigate.
 
@@ -101,3 +101,6 @@ Allocators seeking structural alignment may benefit from a confidential Strategy
 The silent partner model remains intact: stewardship first, alignment second, opportunity third. This is the architecture that has defined the Spirit of Gnosjö for generations, and it continues to shape the way disciplined families engage with global markets today.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

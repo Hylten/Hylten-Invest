@@ -4,7 +4,7 @@ description: "Institutional briefing on stewardship as a capital discipline with
 date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "stewardship-in-volatile-private-credit"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -43,7 +43,7 @@ Durability reduces the entropy that often destabilizes private credit portfolios
 
 Balance Sheet Optimization
 
-Volatile markets make balance sheet optimization mandatory rather than optional. The rise of complex capital stacks across middle market borrowers has introduced the need for Liquidity Engineering. Liquidity Engineering is the restructuring of liabilities, covenants, and cash flow availability in order to extend operational runway without sacrificing strategic flexibility.
+Volatile markets make balance sheet optimization mandatory rather than optional. The rise of complex capital stacks across middle market borrowers has introduced the need for Strategic Collateralization. Strategic Collateralization is the restructuring of liabilities, covenants, and cash flow availability in order to extend operational runway without sacrificing strategic flexibility.
 
 Key mechanisms include:
 
@@ -115,3 +115,6 @@ Roials Capital provides allocators with a structured path to assess these condit
 Allocators seeking to calibrate portfolios within a volatile private credit environment benefit from a Confidential Strategy Audit. This provides system level visibility, identifies structural vulnerabilities, and outlines pathways to enhance stewardship, resilience, and long term operational alignment.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

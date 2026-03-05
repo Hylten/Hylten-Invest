@@ -32,7 +32,7 @@ Christian values in capital formation are not sentimental or symbolic. They are 
 
 1. Stewardship as Resource Allocation
 Stewardship is the disciplined distribution of scarce resources toward productive ends. In capital terms this is expressed through:
-- Liquidity Engineering
+- Strategic Collateralization
 - Asset Hardening
 - Yield Stabilization
 - Operational Forecasting
@@ -122,3 +122,6 @@ The institutional allocator or family principal evaluating capital deployment in
 Roials Capital provides a confidential strategy audit for principals requiring alignment between industrial mandate, stewardship philosophy, and capital deployment frameworks. The objective is not to recommend a product. The objective is to calibrate the allocator's decision architecture to the realities of the new industrial regime.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

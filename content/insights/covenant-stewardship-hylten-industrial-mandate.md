@@ -89,7 +89,7 @@ Institutions anchored in covenant generate lower variance in crisis cycles. High
 
 The capital markets of the next decade will not reward velocity. They will reward discipline. They will reward durability. They will reward the ability to remain principled under systemic instability. That is covenant posture.
 
-Fund-III is positioned for this environment. Hard-asset strategies. Liquidity engineering with industrial underpinnings. Private credit secured by real operational value. Oil and gas positions structured for continuity rather than speculation. Exposure not to hype, but to necessity. Deals filtered through character due‑diligence. Leadership selected for moral torque. Operations disciplined by covenant principles.
+Fund-III is positioned for this environment. Hard-asset strategies. Strategic Collateralization with industrial underpinnings. Private credit secured by real operational value. Oil and gas positions structured for continuity rather than speculation. Exposure not to hype, but to necessity. Deals filtered through character due‑diligence. Leadership selected for moral torque. Operations disciplined by covenant principles.
 
 The moral authority of Jonas Hylten is not branding. It is collateral. It is credibility under stress. It is industrial trust equity. It signals that capital will be allocated with responsibility, not impulse. That stewardship will exceed compliance. That legacy will take precedence over ego.
 
@@ -125,4 +125,8 @@ Legacy. Duty. Continuity. Covenant.
 
 This is the Hylten mandate.
 
-Technical metric: Legacy Continuity Ratio 1.73. Contact for stewardship discussion.
+Technical metric: Legacy Continuity Ratio 1.73. 
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Contact for stewardship discussion.

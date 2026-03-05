@@ -23,7 +23,7 @@ The global capital regime entered a transition period between 2020 and 2025. The
 
 3. Duration scarcity. The majority of allocators now operate inside shortened decision horizons. This created an environment where long duration conviction became a competitive advantage rather than a liability. Sovereign families and industrial dynasties with patience are structurally advantaged.
 
-The implication is precise. Capital is no longer rewarded for velocity. It is rewarded for resilience. Liquidity engineering is no longer a peripheral discipline. It is core infrastructure. Asset hardening is no longer a defensive tactic. It is a strategic baseline. The allocators that succeed in this regime are those who treat capital not as an instrument but as an inheritance.
+The implication is precise. Capital is no longer rewarded for velocity. It is rewarded for resilience. Capital Structuring is no longer a peripheral discipline. It is core infrastructure. Asset hardening is no longer a defensive tactic. It is a strategic baseline. The allocators that succeed in this regime are those who treat capital not as an instrument but as an inheritance.
 
 PHASE 2: TECHNICAL MECHANICS OF SOVEREIGN CAPITAL ARCHITECTURE
 
@@ -128,3 +128,6 @@ The allocator operating in the current regime requires a precise lens. That lens
 Roials Capital conducts confidential strategy audits for principals seeking calibration of their capital architecture. These audits identify structural drift, liquidity imbalance, operational vulnerabilities, and opportunities for asset hardening. The objective is not acquisition. The objective is sovereign clarity.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

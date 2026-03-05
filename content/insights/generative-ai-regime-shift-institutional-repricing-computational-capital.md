@@ -25,16 +25,16 @@ Institutions attempting to classify generative AI as a traditional venture techn
 
 Four structural realities now define the ecosystem.
 
-1. Hardware concentration  
+1. Hardware concentration 
 A small set of silicon vendors control the throughput of global model development. The bottleneck is not capital availability. It is fabrication capacity, thermal limits, packaging throughput, and power allocation rights. Generative AI growth curves are therefore regulated by physics, not ambition.
 
-2. Rising cost of computational truth  
+2. Rising cost of computational truth 
 Model performance improvements require disproportionate increases in floating point operations. Each incremental performance gain demands exponentially more capex in training, inference, and model maintenance. This creates a scenario in which the marginal cost of intelligence rises faster than the monetization curve for most enterprises.
 
-3. Demand outpacing deployment infrastructure  
+3. Demand outpacing deployment infrastructure 
 Data centers face triple strain: power availability, cooling limitations, and grid interconnection queues. As a result, the most constrained asset in the generative AI economy is not GPUs. It is megawatts.
 
-4. Institutional misalignment  
+4. Institutional misalignment 
 Traditional equity risk frameworks are not designed for asset classes that combine:
 
 - Venture risk on application layers.
@@ -47,7 +47,7 @@ PHASE 2: TECHNICAL MECHANICS OF GENERATIVE AI AS AN INVESTABLE DOMAIN
 
 Understanding the investable mechanics of generative AI requires separating signal from noise. The relevant asset classes differ materially in risk, return profile, and operational exposure. The institutional allocator must categorize exposures into four structural pillars.
 
-1. Model development  
+1. Model development 
 This includes frontier model developers and specialized domain specific architectures. The economics are governed by:
 
 - Training compute cycles.
@@ -57,7 +57,7 @@ This includes frontier model developers and specialized domain specific architec
 
 Model development is capex intensive, hit driven, and sensitive to regulatory policy. The allocator must treat this category as an R and D asset class with diminishing marginal efficiency on incremental parameter scaling.
 
-2. Inference infrastructure  
+2. Inference infrastructure 
 Inference facilities convert trained models into real time output. The economics are driven by:
 
 - GPU or TPU utilization rates.
@@ -67,7 +67,7 @@ Inference facilities convert trained models into real time output. The economics
 
 Inference behaves like a distributed utility. The capital curve resembles telecom buildouts more than software scaling.
 
-3. Model orchestration and enterprise integration  
+3. Model orchestration and enterprise integration 
 The market often underestimates the industrial complexity of integrating generative AI into enterprise workflows. The integration layer requires:
 
 - Domain specific grounding.
@@ -78,7 +78,7 @@ The market often underestimates the industrial complexity of integrating generat
 
 This category produces more stable cash flows than model development. It is also less sensitive to compute volatility.
 
-4. Sovereign and sector specific datasets  
+4. Sovereign and sector specific datasets 
 Data is the substrate of generative AI. Control of vertically integrated, high fidelity datasets yields competitive defensibility similar to mineral rights or proprietary reservoirs. Three categories dominate:
 
 - Medical and clinical datasets.
@@ -104,7 +104,7 @@ Roials Capital operates as strategic navigator and institutional introducer acro
 
 Three functions define the partnership model:
 
-1. Strategic Alignment  
+1. Strategic Alignment 
 Institutional capital requires precision allocation frameworks that consider:
 
 - Regulatory risk vectors.
@@ -115,12 +115,12 @@ Institutional capital requires precision allocation frameworks that consider:
 
 Roials Capital evaluates generative AI exposures for congruence with allocator mandates, ensuring that the investment thesis integrates industrial realities rather than marketing narratives.
 
-2. Market Navigation  
+2. Market Navigation 
 The generative AI sector suffers from asymmetric information flow. Model developers possess technical clarity but not industrial discipline. Infrastructure operators possess scale but not model intelligence. Enterprise adopters possess demand but lack implementation frameworks.
 
 Roials Capital positions between these spheres. The objective is to ensure that allocators engage with counterparties whose operational foundations match institutional expectations.
 
-3. Institutional Introduction  
+3. Institutional Introduction 
 The firm introduces allocators to sector participants whose track records, governance structures, and operational competence meet institutional criteria. Each introduction is curated to ensure:
 
 - Balance sheet integrity.
@@ -157,15 +157,18 @@ Allocators entering the generative AI sector face a strategic decision matrix de
 
 Three lenses govern institutional calibration:
 
-1. Systems Integrity Lens  
+1. Systems Integrity Lens 
 Does the opportunity carry structural resilience independent of hype cycles? Is the underlying infrastructure hardened against volatility in hardware supply, power cost, and regulatory drift?
 
-2. Computational Efficiency Lens  
+2. Computational Efficiency Lens 
 Does the model or platform generate disproportionate economic output relative to computational input? Efficiency, not novelty, will dominate the next cycle.
 
-3. Stewardship Alignment Lens  
+3. Stewardship Alignment Lens 
 Does the opportunity respect the theological mandate of responsible capital? Does it allocate computational power toward value creation that enhances capacity across generations?
 
 Allocators requiring architectural clarity or jurisdictional calibration may initiate a confidential Strategy Audit. The objective is precision alignment within a sector where most participants operate on assumption rather than operational intelligence.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

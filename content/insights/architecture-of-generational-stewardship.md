@@ -38,7 +38,7 @@ The mechanics of generational stewardship mirror the mechanics of robust capital
 Stewardship requires the ability to calibrate assets and obligations with asymmetric timelines. Multi generational portfolios incorporate:
 - Long arc industrial assets
 - Counter cyclical cash flow
-- Liquidity engineering frameworks that prevent forced liquidation during downturns
+- Strategic Collateralization frameworks that prevent forced liquidation during downturns
 - Asset hardening processes that convert fragile holdings into durable infrastructure
 
 2. GOVERNANCE LOAD BEARING CAPACITY
@@ -148,3 +148,6 @@ The allocator who operates through these lenses reduces structural fragility and
 The architecture of generational stewardship is both moral and mechanical. It is built through discipline, purpose, and the relentless alignment of capital with calling. Families and institutions that adopt this model do not simply preserve wealth. They preserve direction. They preserve identity. They preserve the mandate entrusted to them.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

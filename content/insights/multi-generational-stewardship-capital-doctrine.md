@@ -31,13 +31,13 @@ Stewardship is not philosophy. It is an operating system. Families that maintain
 
 Capital Architecture
 
-Generational capital is designed to be anti-fragile. It absorbs volatility rather than reacts to it. This requires layered capital structures, internal liquidity engineering, and conservative leverage profiles. Families treat capital stacks as engineered systems. Each layer has a defined purpose.
+Generational capital is designed to be anti-fragile. It absorbs volatility rather than reacts to it. This requires layered capital structures, internal Capital Structuring, and conservative leverage profiles. Families treat capital stacks as engineered systems. Each layer has a defined purpose.
 
 1. Asset Hardening Layer. Long duration physical assets are prioritized. They provide stability against inflation cycles and retain productive capacity. Energy assets, industrial plants, transportation corridors, and strategic land form this layer.
 
 2. Operational Cash Flow Layer. Operating companies generate predictable cash flow that feeds the internal liquidity reserve. Cash conversion cycles are monitored with rigor.
 
-3. Liquidity Engineering Layer. Families avoid dependence on external refinancing. They build internal liquidity pools that allow opportunistic acquisition during downturns. This practice mirrors the biblical stewardship principle in Proverbs 13:22 which frames wealth as a multi generational trust.
+3. Institutional Liquidity Paths Layer. Families avoid dependence on external refinancing. They build internal liquidity pools that allow opportunistic acquisition during downturns. This practice mirrors the biblical stewardship principle in Proverbs 13:22 which frames wealth as a multi generational trust.
 
 4. Adaptive Capital Deployment Layer. Capital is redeployed into sectors where structural inefficiencies appear. In Alberta, families with a stewardship orientation have been the most consistent acquirers of undercapitalized heavy oil assets because their time horizon extends beyond political cycles.
 
@@ -99,21 +99,24 @@ PHASE 5: DECISION MAKING LENS FOR THE ALLOCATOR
 
 Allocators operating in the new regime require clarity. The question is no longer which opportunity offers the highest upside. The question is which structures have the durability to survive volatility. Multi generational stewardship provides that framework. Families and institutions aligned with stewardship principles benefit from:
 
-• Cross cycle resilience  
-• Operational transparency  
-• Lower behavioral risk  
-• Higher probability of continuity  
-• Stronger alignment with real asset behavior  
-• Strategic calm in high volatility environments  
+• Cross cycle resilience 
+• Operational transparency 
+• Lower behavioral risk 
+• Higher probability of continuity 
+• Stronger alignment with real asset behavior 
+• Strategic calm in high volatility environments 
 
 Roials Capital supports this process through a Confidential Strategy Audit. This includes:
 
-• Structural analysis of capital stacks  
-• Evaluation of liquidity engineering capacity  
-• Review of operational alignment  
-• Identification of institutional grade partners such as NAEO  
-• Calibration of long horizon asset exposure  
+• Structural analysis of capital stacks 
+• Evaluation of Capital Structuring capacity 
+• Review of operational alignment 
+• Identification of institutional grade partners such as NAEO 
+• Calibration of long horizon asset exposure 
 
 This memorandum provides the strategic foundation. The next step is an applied calibration of the allocator's existing portfolio to determine where stewardship aligned structures can enhance durability and continuity across generations.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

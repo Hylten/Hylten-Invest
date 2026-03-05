@@ -124,3 +124,6 @@ Roials Capital provides allocators with confidential structural assessments that
 Allocators that understand the structural dynamics of Alberta heavy oil, the mechanics of SAGD based production, the importance of cost stability, and the long term reliability premium recognize that capital preservation today is not passive. It is engineered.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

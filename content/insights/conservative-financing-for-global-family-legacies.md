@@ -37,7 +37,7 @@ The oil and gas sector, often central in industrial family portfolios, requires 
 
 Industrial Christian legacies depend on coherence. Coherence in values. Coherence in governance. Coherence in capital philosophy. Capital must behave like the family itself: principled, steady, resilient. Not reactive. Not fragile.
 
-Liquidity engineering plays a crucial role. Global families require liquidity that is available, protected, and non-correlated. Multi-bank setups. Tiered vaulting across stable jurisdictions. Commodity-backed reserves. Internal factoring lines. Cross-border receivables corridors. Families become their own lenders. Their own insurers. Their own liquidity providers.
+Institutional Liquidity Paths plays a crucial role. Global families require liquidity that is available, protected, and non-correlated. Multi-bank setups. Tiered vaulting across stable jurisdictions. Commodity-backed reserves. Internal factoring lines. Cross-border receivables corridors. Families become their own lenders. Their own insurers. Their own liquidity providers.
 
 In the Gnosjö spirit, capital formation is community-driven but sovereignty-oriented. You help others stand, but you never surrender your foundation. Financing must be conservative. Governance must be uncompromising. Capital flows must reflect Christian stewardship, not market fashion.
 
@@ -71,7 +71,7 @@ The Spirit of Gnosjö reinforces this. Community strength. Entrepreneurial humil
 
 Global families must treat conservative financing as a living system. An ecosystem of instruments working in harmony. Cash flow gates. Credit shields. Asset anchors. Governance rails. Moral authority as apex.
 
-In an era of accelerating instability, conservative structures are not old-fashioned. They are advanced resilience. They are the technological equivalent of covenant. They allow families to stand when others fall. Endurance is engineered. Succession is preserved.
+accelerating instability, conservative structures are not old-fashioned. They are advanced resilience. They are the technological equivalent of covenant. They allow families to stand when others fall. Endurance is engineered. Succession is preserved.
 
 Hylten-Invest operates on this doctrine. Moral clarity. Structural intelligence. Multi-jurisdiction precision. Each solution designed for permanence, not performance. For legacy, not liquidity alone. For stewardship, not speculation.
 
@@ -80,5 +80,9 @@ Families aligned with this philosophy will outlast markets, regimes, and fashion
 A good man leaves an inheritance to his children's children.
 
 Technical Mandate: Minimum asset-hardening ratio 1.7x within 36 months.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Contact for stewardship discussion.

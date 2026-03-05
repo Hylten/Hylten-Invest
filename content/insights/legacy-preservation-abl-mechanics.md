@@ -4,7 +4,7 @@ description: "A high density institutional analysis of Asset Based Lending as a 
 date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "legacy-preservation-abl-mechanics"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -75,8 +75,11 @@ Families and allocators evaluating ABL structures for legacy preservation should
 - Does the structure support operational continuity across generational transitions.
 - Does the collateral base reflect real durability rather than inflated accounting values.
 - Does the lender ecosystem respect the cadence of the enterprise and the cultural identity of ownership.
-- Has the liquidity engineering process strengthened or weakened the long term viability of the industrial base.
+- Has the Capital Structuring process strengthened or weakened the long term viability of the industrial base.
 
 For families seeking a confidential assessment, Roials Capital functions as a neutral strategist capable of mapping balance sheet reality, calibrating capital structures, and ensuring alignment with lenders who operate with precision and integrity. This creates a path for legacy reinforcement rather than reactive financing.
 
 [END OF INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

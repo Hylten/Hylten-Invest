@@ -29,8 +29,8 @@ Preserving generational capital in the digital era requires technical mechanics 
 
 The allocator must focus on:
 
-1. Liquidity Engineering
-Liquidity must be understood as a structural asset, not a residual byproduct. Effective liquidity engineering aligns asset duration with operational requirements. This includes:
+1. Monetization Architecture
+Liquidity must be understood as a structural asset, not a residual byproduct. Effective Asset-Backed Frameworks aligns asset duration with operational requirements. This includes:
 - Segmented liquidity tiers with predetermined activation triggers
 - Pre-structured liquidity pathways for stressed scenarios
 - Cross-jurisdictional buffers that reduce regulatory bottlenecks
@@ -114,3 +114,6 @@ Roials Capital provides institutional-grade confidential strategy audits designe
 The digital age introduces volatility. Stewardship introduces clarity. When the allocator aligns these disciplines, wealth preservation transitions from defensive posture to generational continuity.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

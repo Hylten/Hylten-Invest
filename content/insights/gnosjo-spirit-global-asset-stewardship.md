@@ -47,7 +47,7 @@ Within this landscape, Roials Capital operates as a strategic navigator. The rol
 
 North American Energy Opportunity, NAEO, represents an institutional grade operator aligned with this architecture. NAEO integrates operational discipline, recovery technology expertise, and long term stewardship orientation. The alignment is strategic rather than promotional. It is predicated on structural fit.
 
-Roials Capital maintains introducer neutrality. The objective is to calibrate allocators to markets where disciplined operators can execute consistently. This is liquidity engineering focused on predictable value extraction rather than speculative timing.
+Roials Capital maintains introducer neutrality. The objective is to calibrate allocators to markets where disciplined operators can execute consistently. This is Strategic Collateralization focused on predictable value extraction rather than speculative timing.
 
 PHASE 4: THE STEWARDSHIP FILTER
 
@@ -72,3 +72,6 @@ Modern allocators operate in an environment where noise outpaces signal. The Gno
 For institutions evaluating complex sectors such as North American energy, private credit, or specialty real assets, the next step is a structured evaluation of strategic alignment. Roials Capital supports this process through confidential strategy audits and portfolio calibration reviews. The focus is clarity, not commitment. The objective is alignment, not allocation.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

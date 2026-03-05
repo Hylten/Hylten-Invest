@@ -3,7 +3,7 @@ description: "Institutional brief on liquidity engineering, cross-border structu
 date: "2026-03-05"
 author: "Jonas Hyltén - Hylten-Invest"
 slug: "asset-hardening-strategies-global-families"
-keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
+keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
 
 Global families face a structural dilemma. Capital expands. Jurisdictional risk expands faster. The balance between liquidity and durability compresses under regulatory velocity, demographic inversion, and the geopolitical monetization of scarcity. Families built on industry-real production, real assets, real moral authority-now operate in a fragmented landscape where financial abstraction outpaces stewardship. Yet the mandate remains unchanged: steward well, build deep, defend the lineage. Proverbs 13:22 (*A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.*).
@@ -14,9 +14,9 @@ Asset hardening is the institutional counterweight to global volatility. It tran
 
 The strategic logic follows three governing principles:
 
-• Hard assets first.  
-• Liquidity last, but engineered.  
-• Structures as shields, not containers.  
+• Hard assets first. 
+• Liquidity last, but engineered. 
+• Structures as shields, not containers. 
 
 Hard assets form the ballast. Liquidity forms the maneuverability. Governance structures form the perimeter. Global families fail not from lack of assets but from lack of structural distance between assets, operators, and geopolitical events. Asset hardening resolves this by separating the family from its holdings through jurisdictional layering, intercooled credit, and a locked-in capital lattice that maintains sovereignty even as markets distort.
 
