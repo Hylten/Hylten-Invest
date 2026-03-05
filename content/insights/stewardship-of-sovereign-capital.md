@@ -1,6 +1,6 @@
 ---
-title: The Stewardship of Sovereign Capital
-description: A principal-level doctrine on liquidity governance, precision allocation, and generational wealth architecture grounded in Christian-industrial ethics and sovereign capital engineering.
+title: "The Stewardship of Sovereign Capital"
+description: "A principal-level doctrine on liquidity governance, precision allocation, and generational wealth architecture grounded in Christian-industrial ethics and sovereign capital engineering."
 date: 2026-03-05
 author: Jonas Hylten
 slug: stewardship-of-sovereign-capital

@@ -1,6 +1,6 @@
 ---
-title: Covenant Stewardship and the Industrial Mandate: The Hylten Doctrine of Capital and Continuity
-description: A principal-level institutional brief on the theology of capital, generational authority, and the industrial covenant underpinning Hylten‑Invest and Fund-III’s long‑horizon stewardship architecture.
+title: "Covenant Stewardship and the Industrial Mandate: The Hylten Doctrine of Capital and Continuity"
+description: "A principal-level institutional brief on the theology of capital, generational authority, and the industrial covenant underpinning Hylten‑Invest and Fund-III’s long‑horizon stewardship architecture."
 date: 2026-03-05
 author: Jonas Hyltén
 slug: covenant-stewardship-hylten-industrial-mandate
