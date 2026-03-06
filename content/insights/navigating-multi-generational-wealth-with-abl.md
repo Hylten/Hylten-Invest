@@ -4,7 +4,7 @@ description: "A strategic exploration of liquidity, private credit, and asset ba
 date: "2025-03-28"
 author: "Hyltén Invest"
 slug: "navigating-multi-generational-wealth-with-abl"
-keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Hyltén Invest"
+keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/), liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Navigating Multi-Generational Wealth with Asset-Based Lending

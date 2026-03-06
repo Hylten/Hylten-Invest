@@ -36,7 +36,7 @@ Where belief is aligned, friction disappears.
 Where friction disappears, enterprise accelerates.  
 Where enterprise accelerates, the children’s children inherit strength.
 
-Those who understand this architecture often formalize their operating structures through institutional capital execution, including partners such as [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/).
+Those who understand this architecture often formalize their operating structures through institutional capital execution, including partners such as [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/).
 
 Covenant is the unseen advantage.  
 Stewardship is the discipline.  

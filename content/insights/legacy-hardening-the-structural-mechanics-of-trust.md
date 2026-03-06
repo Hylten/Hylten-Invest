@@ -4,7 +4,7 @@ description: "A high‑end exploration of liquidity, private credit, and asset-b
 date: "2025-02-02"
 author: "Hyltén Invest"
 slug: "legacy-hardening-the-structural-mechanics-of-trust"
-keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Hyltén Invest"
+keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/), liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Legacy Hardening: The Structural Mechanics of Trust

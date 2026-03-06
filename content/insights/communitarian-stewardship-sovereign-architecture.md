@@ -27,6 +27,6 @@ Nordic communitarian principles teach one further lesson: proximity matters. Eld
 
 When capital becomes covenant, the institution ceases to drift. It stands. It endures. It inherits the clarity our forebears carried from forge to factory. Freedom is preserved. Free enterprise is strengthened. Stewardship becomes the multiplier. And the inheritance for the children’s children becomes real, not theoretical.
 
-For deeper structuring insight, see institutional capital execution approaches demonstrated through [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/).
+For deeper structuring insight, see institutional capital execution approaches demonstrated through [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/).
 
 Contact for stewardship discussion

@@ -59,7 +59,7 @@ Over time, this architecture becomes part of the family's internal governance.
 
 It becomes a stabilizing force, not a tactical tool. 
 
-## The Silent Advantages of [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) Against Private Credit
+## The Silent Advantages of [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/) Against Private Credit
 
 For HNW and UHNW families, private credit has transformed from a secondary allocation to a core yield engine. 
 

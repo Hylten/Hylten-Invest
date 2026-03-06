@@ -54,7 +54,7 @@ and where the strong become strong by serving.
 
 For global structuring, Roials Capital handles the operational machinery of scale,  
 but the blueprint originates here in the covenant chamber  
-https://hylten.github.io/Roials-Capital/
+https://hylten.github.io/ROIALS CAPITAL/
 
 Guard the capital.  
 Honor the work.  

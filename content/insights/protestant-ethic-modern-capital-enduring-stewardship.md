@@ -81,7 +81,7 @@ When the next generation asks what we left them, they should find architecture, 
 Stewardship, not spectacle.  
 Moral authority, not volatility.
 
-For operational depth, multi-jurisdictional structuring often shifts through institutional channels such as [institutional capital execution](https://hylten.github.io/Roials-Capital/).  
+For operational depth, multi-jurisdictional structuring often shifts through institutional channels such as [institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/).  
 But the ethic remains the spine.  
 Work.  
 Duty.  

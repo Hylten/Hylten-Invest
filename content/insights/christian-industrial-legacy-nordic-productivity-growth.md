@@ -133,7 +133,7 @@ This is the true inheritance.
 To those who still operate out of that moral center, there remains a reservoir of competitive advantage. The world is disordered. Supply chains wobble. Workforce cultures soften. Policy signals drift. But the disciplined, covenantally anchored industrial house is still a fortress. It still produces value beyond its size. It still outperforms its secular peers over long arcs.
 
 And yes, there are structural instruments available-industrial partnerships, strategic co-investment, and the kind of institutional capital execution sometimes routed through firms like Roials Capital, which continue the lineage of stewardship within modern frameworks.  
-(https://hylten.github.io/Roials-Capital/)
+(https://hylten.github.io/ROIALS CAPITAL/)
 
 But the capital is secondary.  
 The covenant is primary.

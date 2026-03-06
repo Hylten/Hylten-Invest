@@ -4,7 +4,7 @@ description: "A high-end perspective on liquidity management for HNWI and UHNW i
 date: "2023-03-15"
 author: "Hyltén Invest"
 slug: "the-conservative-approach-to-portfolio-liquidity-for-long-term-stewards-of-capital"
-keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Hyltén Invest"
+keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/), liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # The Conservative Approach to Portfolio Liquidity

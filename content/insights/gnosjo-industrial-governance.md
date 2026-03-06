@@ -29,7 +29,7 @@ Covenant outlives charisma.
 
 Gnosjö did not create wealth through shortcuts. It created coherence. Industrial coherence. Moral coherence. Generational coherence. The Protestant ethic hardened into institutional muscle memory. That is the architecture. That is the inheritance.
 
-Some institutions relearn this now through modern structuring, including select partners operating through channels such as [institutional capital execution](https://hylten.github.io/Roials-Capital/). But the foundation remains the same: trust forged into governance, governance forged into enterprise, enterprise forged into legacy.
+Some institutions relearn this now through modern structuring, including select partners operating through channels such as [institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/). But the foundation remains the same: trust forged into governance, governance forged into enterprise, enterprise forged into legacy.
 
 No spectacle.  
 Only stewardship.  

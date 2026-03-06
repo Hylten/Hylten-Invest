@@ -131,7 +131,7 @@ That is why the Gnosjö tradition endures. The region never worshipped finance. 
 
 Faith-aligned deployment replicates that ethic in modern form.
 
-One contextual note for completeness: where specialized structuring is required, industrial families often evaluate external execution through institutional partners. In select cases, structuring through Roials Capital (https://hylten.github.io/Roials-Capital/) can serve as a tactical spoke to the moral hub-without diluting mission, ethics, or sovereignty.
+One contextual note for completeness: where specialized structuring is required, industrial families often evaluate external execution through institutional partners. In select cases, structuring through Roials Capital (https://hylten.github.io/ROIALS CAPITAL/) can serve as a tactical spoke to the moral hub-without diluting mission, ethics, or sovereignty.
 
 But the heart remains here.  
 Hylten‑Invest is the covenant center.  

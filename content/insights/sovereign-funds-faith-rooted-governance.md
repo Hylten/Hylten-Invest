@@ -23,7 +23,7 @@ The architecture becomes simple. Duty first. Stewardship second. Legacy third. T
 
 Some departments now benchmark operational discipline against private structures built on Christian industrial heritage. They want the covenantal guardrails without the bureaucracy. They want the clarity without the ideology. They want the Protestant ethic without the noise. Because it works. Across regimes. Across cycles.
 
-This is why several research units have begun observing institutional capital execution models emerging from the Nordic and North American Protestant tradition, including structurally aligned partners such as those doing advanced structuring through Roials Capital (https://hylten.github.io/Roials-Capital/).
+This is why several research units have begun observing institutional capital execution models emerging from the Nordic and North American Protestant tradition, including structurally aligned partners such as those doing advanced structuring through Roials Capital (https://hylten.github.io/ROIALS CAPITAL/).
 
 The sovereign world moves slowly. But it moves toward strength. And strength still resides in governance built on moral authority, free enterprise, and the understanding that capital is a trust-not a trophy.
 

@@ -117,7 +117,7 @@ Asset hardening involves:
 This is why underwriting at Hyltén Invest is not a process. 
 It is a discipline. 
 It eliminates ambiguity. 
-It levels the field for [institutional capital](https://hylten.github.io/Roials-Capital/) that requires precision, not persuasion.
+It levels the field for [institutional capital](https://hylten.github.io/ROIALS CAPITAL/) that requires precision, not persuasion.
 
 Minimum thresholds remain strict.
 

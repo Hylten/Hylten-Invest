@@ -77,7 +77,7 @@ They move with industrial calm.
 They operate with covenant legitimacy.  
 They build structures that endure beyond their sightline.
 
-Some families strengthen this architecture through external structuring partners, including institutional engines such as [institutional capital execution](https://hylten.github.io/Roials-Capital/) when jurisdictional clarity is required.  
+Some families strengthen this architecture through external structuring partners, including institutional engines such as [institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/) when jurisdictional clarity is required.  
 Not dependency.  
 Alignment.
 

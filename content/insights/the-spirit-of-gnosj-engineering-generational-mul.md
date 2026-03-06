@@ -188,7 +188,7 @@ Expansion is responsibility.
 It is the duty to deploy surplus for the strengthening of future generations. 
 It is the duty to weld moral capital and financial capital into a single forward moving force. 
 
-## Translating the Gnosjö Model for [Institutional Capital](https://hylten.github.io/Roials-Capital/)
+## Translating the Gnosjö Model for [Institutional Capital](https://hylten.github.io/ROIALS CAPITAL/)
 
 Institutional partners often ask: 
 How does the Spirit of Gnosjö scale beyond its geography. 

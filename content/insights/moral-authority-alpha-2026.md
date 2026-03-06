@@ -181,8 +181,7 @@ A leader with covenant thinking does not defect under duress.
 He governs with accountability before God-not the quarterly report.
 
 This produces a risk-adjusted return profile that institutions consider superior.  
-Not because it is ideological.  
-Because it is structurally reliable.
+it is structurally reliable.
 
 Moral authority becomes the invisible margin of safety.
 
@@ -237,7 +236,7 @@ If one requires structural validation, observe how leading institutions now benc
 And alpha rooted in moral authority is the most durable alpha available.
 
 One may explore institutional structuring models via this portal:  
-[structuring through Roials Capital](https://hylten.github.io/Roials-Capital/)
+[structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/)
 
 For those who understand stewardship not as branding but as covenant, the conversation is open.
 

@@ -13,7 +13,6 @@ A Principal states the architecture. A Principal does not negotiate with fashion
 I begin.
 
 INTERNAL LOGIC (PHASE 1)  
-Vault briefing. Closed door. A sober ledger mind. No commentary for the crowd. Only structural truth.
 
 The emerging strength of perpetual stewardship vehicles is not driven by their novelty but by their refusal to leak value. High churn destroys coherence. High churn destroys lineage. High churn creates orphans-financially, institutionally, spiritually. You do not build a forge in 1874 and then trade the forge every seven years because a committee demands a mark-to-market exit. You build it once, and your children’s children inherit the wealth, the craft, the discipline, and the obligation.
 

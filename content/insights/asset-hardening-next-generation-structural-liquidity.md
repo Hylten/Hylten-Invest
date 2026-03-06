@@ -4,7 +4,7 @@ description: "A technical briefing on institutional asset hardening, liquidity e
 date: "2022-05-20"
 author: "Hyltén Invest"
 slug: "asset-hardening-next-generation-structural-liquidity"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, [Capital Structuring](https://hylten.github.io/Roials-Capital/), asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/), asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]

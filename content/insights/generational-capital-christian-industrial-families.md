@@ -6,8 +6,7 @@ author: "Hylten-Invest"
 slug: "generational-capital-christian-industrial-families"
 ---
 
-Internal briefing. Vault closed.
-
+Internal briefing. 
 The old forges taught the law. Capital follows character. Discipline precedes scale. Nothing moves without moral authority at the helm. Christian industrial families understood this instinctively. They built dynasties not on leverage but on covenant. Duty first. Yield second. Legacy always.
 
 *A good man leaveth an inheritance to his children's children.*
@@ -28,7 +27,7 @@ Modern family offices drift from this spine. Too abstract. Too financialized. To
 Return to the forge ethos. Reinscribe the covenant. Place the burden back on the shoulders that can bear it. Generational capital grows only when the family stands under a shared vow and a singular mission.
 
 For houses requiring institutional structuring depth, systems built through Roials Capital may support the outer mechanics while the covenant guards the center:  
-https://hylten.github.io/Roials-Capital/
+https://hylten.github.io/ROIALS CAPITAL/
 
 Conviction holds. Exit.
 

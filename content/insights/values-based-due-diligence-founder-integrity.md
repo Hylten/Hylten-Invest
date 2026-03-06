@@ -14,8 +14,7 @@ The center of capital is character. Always has been. Always will be. In the indu
 Internal logic first. Sovereign architecture second. Everything else downstream.
 
 PHASE 1: INTERNAL LOGIC - SECURED BRIEFING  
-This is not a public memo. This is a vault briefing on how founder integrity is actually determined at the principal level-where capital is covenantal and the objective is not transactional returns but the strengthening of a multi‑generational mandate.
-
+This is not a public memo. This is a 
 Three truths drive the architecture.
 
 Truth One: Moral authority compounds faster than capital.  

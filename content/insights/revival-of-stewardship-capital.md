@@ -72,7 +72,7 @@ Moral authority as operating leverage.
 A Principal who understands that free markets flourish only under truth.  
 
 Some of them now route mandates through *institutional capital execution* at  
-[structuring through Roials Capital](https://hylten.github.io/Roials-Capital/).  
+[structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/).  
 Not for theatrics.  
 For alignment.  
 

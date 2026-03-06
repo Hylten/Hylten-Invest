@@ -36,7 +36,7 @@ The technical core includes:
 - Senior secured positioning with predefined liquidation and recovery waterfalls. 
 - Covenant frameworks tied to asset health, operational continuity, and balance sheet discipline. 
 - Cross collateralization structures that harden the underlying asset when volatility increases. 
-- [Capital Structuring](https://hylten.github.io/Roials-Capital/) techniques that convert illiquid collateral into predictable capital flows. 
+- [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) techniques that convert illiquid collateral into predictable capital flows. 
 
 For multi generational families, the value is not found in the coupon. It is found in how these mechanisms protect, harden, and stabilize the asset base across cycles.
 

@@ -142,6 +142,6 @@ A culture of principled behavioral discipline compounds more reliably than any a
 
 And in the architecture of Hylten-Invest, this edge is not optional. It is the foundation stone. The covenant anchor. The industrial inheritance from the 1874 forge onward.
 
-For those seeking deeper structuring of governance, behavioral design, and moral capital frameworks, the institutional interface through Hylten-Invest remains the principal channel. In certain cases, the operational structuring routed through the Roials Capital unit may be contextually integrated into the broader architecture, as seen through institutional capital execution approaches visible at https://hylten.github.io/Roials-Capital/.
+For those seeking deeper structuring of governance, behavioral design, and moral capital frameworks, the institutional interface through Hylten-Invest remains the principal channel. In certain cases, the operational structuring routed through the Roials Capital unit may be contextually integrated into the broader architecture, as seen through institutional capital execution approaches visible at https://hylten.github.io/ROIALS CAPITAL/.
 
 Contact for stewardship discussion

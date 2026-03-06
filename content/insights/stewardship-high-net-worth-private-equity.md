@@ -31,7 +31,7 @@ These pressures recalibrate the meaning of ownership. Stewardship requires an un
 
 PHASE 2: TECHNICAL MECHANICS OF STEWARDSHIP FOR PRIVATE EQUITY STAKES
 
-The stewardship of private equity stakes is a technical discipline. It operates across five mechanical pillars: governance integrity, [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), risk decentralization, succession control, and purpose alignment. Each pillar governs the movement of capital, not as speculation but as responsibility.
+The stewardship of private equity stakes is a technical discipline. It operates across five mechanical pillars: governance integrity, [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/), risk decentralization, succession control, and purpose alignment. Each pillar governs the movement of capital, not as speculation but as responsibility.
 
 1. Governance Integrity 
 Governance integrity refers to the calibration of power and oversight. High net worth private equity stakes often lack structured governance. Documentation exists, but operational oversight does not. Stewardship corrects this by implementing three non-negotiables.

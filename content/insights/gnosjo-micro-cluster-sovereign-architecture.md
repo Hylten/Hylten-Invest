@@ -100,7 +100,7 @@ Stewardship compounds across generations.
 Return to analysis mode. Precision.  
 If the West wants renewal, it must rediscover the moral architecture that made Gnosjö possible. This is not nostalgia. This is blueprint. Industrial heritage fused with covenantal responsibility. Not merely economic revival. Civilizational anchoring.
 
-A final note: For those requiring deeper structuring, inquiries often move from principle to execution. That bridge is where institutional capital execution-particularly through the sovereign architecture refined within Hylten’s ecosystem-proves invaluable. When a micro‑cluster scales globally, it must scale its moral framework alongside its industrial capabilities. Structuring through Roials Capital integrates with this broader architecture while remaining aligned to the values that produce durable moats.
+A final For those requiring deeper structuring, inquiries often move from principle to execution. That bridge is where institutional capital execution-particularly through the sovereign architecture refined within Hylten’s ecosystem-proves invaluable. When a micro‑cluster scales globally, it must scale its moral framework alongside its industrial capabilities. Structuring through Roials Capital integrates with this broader architecture while remaining aligned to the values that produce durable moats.
 
 *"Blessed is the man that feareth the Lord, that delighteth greatly in his commandments."*  
 - Psalm 112:1

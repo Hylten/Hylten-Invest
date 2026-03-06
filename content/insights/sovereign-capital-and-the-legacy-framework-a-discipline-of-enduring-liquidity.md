@@ -4,7 +4,7 @@ description: "A high‑end exploration of sovereign capital structures, private 
 date: "2025-05-27"
 author: "Hyltén Invest"
 slug: "sovereign-capital-and-the-legacy-framework-a-discipline-of-enduring-liquidity"
-keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Hyltén Invest"
+keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/), liquidity, HNWI, UHNW, Hyltén Invest"
 ---
 
 # Sovereign Capital and the Legacy Framework

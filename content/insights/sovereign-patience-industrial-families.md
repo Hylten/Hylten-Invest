@@ -138,7 +138,7 @@ The families that win do three things:
 • They adopt modern capital architecture without surrendering moral authority.  
 • They extend their industrial heritage into new sectors while guarding their ethos.  
 
-Some families now integrate institutional capital execution via channels such as structuring through Roials Capital (https://hylten.github.io/Roials-Capital/) to accelerate expansion without compromising governance. The structure is modern; the ethos is ancient.
+Some families now integrate institutional capital execution via channels such as structuring through Roials Capital (https://hylten.github.io/ROIALS CAPITAL/) to accelerate expansion without compromising governance. The structure is modern; the ethos is ancient.
 
 Industrial Patience as a Weapon of Peace
 

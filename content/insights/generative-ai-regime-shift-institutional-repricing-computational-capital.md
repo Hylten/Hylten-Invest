@@ -105,9 +105,7 @@ Roials Capital operates as strategic navigator and institutional introducer acro
 Three functions define the partnership model:
 
 1. Strategic Alignment 
-Institutional capital requires precision allocation frameworks that consider:
-
-- Regulatory risk vectors.
+Institutional capital requires precision allocation frameworks that - Regulatory risk vectors.
 - Energy and power constraints.
 - Model security standards.
 - Sovereign data obligations.

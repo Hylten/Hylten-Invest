@@ -27,10 +27,6 @@ Below is the architecture.
 
 ---
 
-PHASE 1  
-INTERNAL LOGIC  
-Vault Briefing for Principals Only  
-
 The question is not how Gnosjö survived. The question is why its principles now form the ideal governance system for post‑automation industrial SMEs.
 
 Three pillars define the inner mechanics.
@@ -195,8 +191,6 @@ In a post‑automation world, these seven principles form the sovereign architec
 
 ---
 
-PHASE 2  
-INTERNAL TONE  
 Principal Voice  
 
 The industrial West decays when it abandons moral authority.  

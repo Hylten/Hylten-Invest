@@ -41,7 +41,7 @@ A Principal does not chase capital. A Principal sets the terms by standing on mo
 
 Industrial heritage becomes signal. Stewardship becomes filter. Covenant becomes force.
 
-One link for those who need institutional structuring depth: [institutional capital execution](https://hylten.github.io/Roials-Capital/)
+One link for those who need institutional structuring depth: [institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/)
 
 The Ethical Authority Premium is not a trend. It is a return to order. A return to truth. A return to the architecture that built every enduring house.
 

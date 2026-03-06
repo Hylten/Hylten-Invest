@@ -37,7 +37,7 @@ It requires instruments that retain optionality.
 
 It requires partnerships that provide silence where others provide spectacle.
 
-Hylten‑Invest exists in this space, providing access to private credit [Capital Structuring](https://hylten.github.io/Roials-Capital/) and asset based Institutional Liquidity Paths for individuals and entities that move capital on an institutional scale.
+Hylten‑Invest exists in this space, providing access to private credit [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) and asset based Institutional Liquidity Paths for individuals and entities that move capital on an institutional scale.
 
 Our position is not to overwhelm, but to underpin.
 

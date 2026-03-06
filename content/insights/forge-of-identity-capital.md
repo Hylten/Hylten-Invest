@@ -67,7 +67,7 @@ Not speed.
 Not complexity.  
 Identity.
 
-When necessary, we channel operational execution through institutional capital engines such as [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/).  
+When necessary, we channel operational execution through institutional capital engines such as [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/).  
 But the identity-Hylten-Invest-remains the source of moral gravity.  
 The covenant center of the architecture.
 

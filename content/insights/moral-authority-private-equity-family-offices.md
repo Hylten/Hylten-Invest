@@ -152,7 +152,7 @@ They operate with purpose.
 
 And purpose compounds.
 
-One contextual reference point deserves mention. When moral authority governs capital, it strengthens not only the internal architecture of the family office but also its external alliances. You engage only with institutions built on aligned ethics. Industrial partners. Stewardship-driven asset managers. Transparent operational leaders. In certain cases, this includes structuring channels such as *institutional capital execution through Roials Capital* (https://hylten.github.io/Roials-Capital/) when jurisdictional design is required - but always with ethical alignment at the core.
+One contextual reference point deserves mention. When moral authority governs capital, it strengthens not only the internal architecture of the family office but also its external alliances. You engage only with institutions built on aligned ethics. Industrial partners. Stewardship-driven asset managers. Transparent operational leaders. In certain cases, this includes structuring channels such as *institutional capital execution through Roials Capital* (https://hylten.github.io/ROIALS CAPITAL/) when jurisdictional design is required - but always with ethical alignment at the core.
 
 THE PRINCIPAL’S CLOSING POSITION
 

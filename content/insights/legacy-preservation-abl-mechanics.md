@@ -4,7 +4,7 @@ description: "A high density institutional analysis of Asset Based Lending as a 
 date: "2025-06-06"
 author: "Jonas Hyltén"
 slug: "legacy-preservation-abl-mechanics"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, [Capital Structuring](https://hylten.github.io/Roials-Capital/), asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/), asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]

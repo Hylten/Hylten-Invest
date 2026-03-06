@@ -23,7 +23,7 @@ The global capital regime entered a transition period between 2020 and 2025. The
 
 3. Duration scarcity. The majority of allocators now operate inside shortened decision horizons. This created an environment where long duration conviction became a competitive advantage rather than a liability. Sovereign families and industrial dynasties with patience are structurally advantaged.
 
-The implication is precise. Capital is no longer rewarded for velocity. It is rewarded for resilience. [Capital Structuring](https://hylten.github.io/Roials-Capital/) is no longer a peripheral discipline. It is core infrastructure. Asset hardening is no longer a defensive tactic. It is a strategic baseline. The allocators that succeed in this regime are those who treat capital not as an instrument but as an inheritance.
+The implication is precise. Capital is no longer rewarded for velocity. It is rewarded for resilience. [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) is no longer a peripheral discipline. It is core infrastructure. Asset hardening is no longer a defensive tactic. It is a strategic baseline. The allocators that succeed in this regime are those who treat capital not as an instrument but as an inheritance.
 
 PHASE 2: TECHNICAL MECHANICS OF SOVEREIGN CAPITAL ARCHITECTURE
 

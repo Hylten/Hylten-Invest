@@ -21,7 +21,7 @@ Spiritual minimalism seals the structure. Nothing unnecessary. Nothing ornamenta
 
 Hierarchy follows naturally. The disciplined house produces stable value. Stable value attracts serious partners. Sovereign architecture forms. The children’s children receive what the present generation refused to squander.
 
-One more truth. Industrial Monasticism is a competitive advantage. The market senses when a firm operates from covenant rather than chaos. That clarity becomes leverage in every negotiation. For deeper structural alignment, even institutional capital channels such as those found through [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/) often seek houses that already embody this monastic rigor.
+One more truth. Industrial Monasticism is a competitive advantage. The market senses when a firm operates from covenant rather than chaos. That clarity becomes leverage in every negotiation. For deeper structural alignment, even institutional capital channels such as those found through [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/) often seek houses that already embody this monastic rigor.
 
 No noise. No drift. No vanity.
 

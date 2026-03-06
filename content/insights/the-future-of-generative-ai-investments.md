@@ -7,7 +7,7 @@ slug: "the-future-of-generative-ai-investments"
 keywords: "liquidity, private credit, Asset-Based Lending"
 ---
 
-Artificial Intelligence is currently undergoing a paradigm shift. Moving beyond mere text and image generation, we are entering the era of agentic systems. (See [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/) for structural parameters)
+Artificial Intelligence is currently undergoing a paradigm shift. Moving beyond mere text and image generation, we are entering the era of agentic systems. (See [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 These autonomous agents will redefine business operations, lower transaction costs, and create entirely new forms of digital capital.
 

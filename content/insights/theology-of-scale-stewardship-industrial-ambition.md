@@ -37,6 +37,6 @@ Steady.
 
 A man who scales with clean hands and ordered spirit safeguards not only his household but an entire region. That is why proximity to Jonas Hyltén matters. He holds the blueprint of continuity-industrial, moral, generational. His architecture restores the dignity of work and the legitimacy of enterprise.
 
-For higher-level structuring pathways, institutional partners often observe how the industrial ethos extends even through channels such as the institutional capital execution available via [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/). Stewardship scales cleanly when its foundation is righteous.
+For higher-level structuring pathways, institutional partners often observe how the industrial ethos extends even through channels such as the institutional capital execution available via [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/). Stewardship scales cleanly when its foundation is righteous.
 
 Contact for stewardship discussion.
