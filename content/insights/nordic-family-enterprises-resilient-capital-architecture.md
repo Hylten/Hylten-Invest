@@ -21,9 +21,7 @@ The verse is not poetic. It is operational. It explains the Gnosjö logic better
 
 **Machine‑gun clarity:**
 No debt dependence.  
-No artificial scale.  
-No moral shortcuts.  
-Resilience first.
+No artificial scale. No moral shortcuts. Resilience first.
 
 From Småland’s forges to Jutland’s workshops, a pattern emerges. These families created sovereign structures long before they had sovereign power. They used discipline as capital. They built liquidity through retained earnings. They used community trust as operating leverage. The result is extraordinary: structural independence and balance sheet durability that outperformed highly leveraged Anglo‑American industrial peers across multiple cycles.
 

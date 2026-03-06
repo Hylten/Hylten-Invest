@@ -100,10 +100,7 @@ THE MORAL ALPHA DOCTRINE AS RISK MITIGATION
 To understand why moral authority is being repriced as alpha, one must examine the mechanics of institutional risk.
 
 Risk is no longer defined merely as financial exposure.  
-It is governance exposure.  
-Reputational exposure.  
-Cultural exposure.  
-Geostrategic exposure.
+It is governance exposure.   Reputational exposure. Cultural exposure. Geostrategic exposure.
 
 Institutions are realizing something stark: a leader without a moral framework becomes a point of systemic fragility. Character defects ripple through a balance sheet faster than market shocks. A steward with moral grounding, however, becomes the stabilizing node-reducing cascade risk at every layer.
 
@@ -158,10 +155,7 @@ THE ALLOCATOR’S REPRICING MODEL
 
 Institutions are quantifying moral authority in real terms.  
 Not abstractions.  
-Not branding exercises.  
-Not boardroom slogans.
-
-Actual models.  
+Not branding exercises. Not boardroom slogans. Actual models.  
 Actual scoring.  
 Actual repricing.
 
@@ -227,9 +221,7 @@ That is the repricing mechanism.
 
 A final machine gun set:  
 Principle beats pretense.  
-Covenant beats chaos.  
-Duty beats drift.  
-Stewardship wins.
+Covenant beats chaos. Duty beats drift. Stewardship wins.
 
 If one requires structural validation, observe how leading institutions now benchmark covenant-driven leaders as the stability premium in their risk models. They recognize that stewardship is not ornamental. It is operational alpha.
 

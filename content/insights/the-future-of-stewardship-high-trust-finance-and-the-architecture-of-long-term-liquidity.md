@@ -80,12 +80,7 @@ Generational families understand this. They operate with patience. They avoid un
 High trust finance provides the backbone for this work.
 
  
-
-Clear collateral.
-
-Predictable liquidity.
-
-Strategic leverage.
+ Clear collateral. Predictable liquidity. Strategic leverage.
 
  
 

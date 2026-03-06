@@ -34,10 +34,7 @@ Now the internal structure.
 
 Ultra‑concentrated portfolios carry weight. Moral weight. Structural weight. Intergenerational weight. The modern era treats such concentration as risk. That is a shallow reading. Concentration is risk only when the owner is unanchored. When the steward is anchored, concentration becomes alignment. Alignment becomes conviction. Conviction becomes sovereignty.
 
-“Machine Gun” sentences for clarity:  
-Conviction commands.  
-Noise fades.  
-Markets shift.  
+“Machine Gun” sentences for clarity:   Conviction commands. Noise fades. Markets shift.  
 Principles hold.  
 Stewardship endures.
 
@@ -68,10 +65,7 @@ The Covenant of Generational Continuity is the hinge. Without it, concentrated p
 The Industrial Mandate for Value Creation is the final anchor. This is where the Gnosjö spirit meets Christian duty. Faith is not passive. Enterprise is not secular. Work is worship when done unto God. Creation is imitation of the Creator. A concentrated portfolio must reflect this industrial ethic-rooted, sober, disciplined, and aimed toward productive output, not market theatrics.
 
 Phase Three. The Internal Bypass.
-
-Syntax shift.  
-Direct fire.  
-Three points.  
+ Syntax shift. Direct fire. Three points.  
 No compromise.
 
 First point: Concentrated capital without moral architecture becomes fragile.  

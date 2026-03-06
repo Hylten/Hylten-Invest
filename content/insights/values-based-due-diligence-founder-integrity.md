@@ -36,10 +36,7 @@ A founder’s integrity is therefore not a “soft” category. It is the first 
 Truth Four: An industrial lineage produces a sharper lens.  
 Across the Scandinavian forges and North American workshops that shaped our ethos, a man’s word preceded his capacity. A handshake was a bond. Covenant mattered. Stewardship was not branding; it was survival. From that tradition we inherit the methodology detailed below: a values‑based due‑diligence architecture designed to reveal the founder’s moral structure before assessing any operational metrics.
 
-Machine gun clarity.  
-Character first.  
-Competence second.  
-Capacity third.  
+Machine gun clarity.   Character first. Competence second. Capacity third.  
 Covenant always.
 
 PHASE 2: PRINCIPAL VOICE - THE METHOD

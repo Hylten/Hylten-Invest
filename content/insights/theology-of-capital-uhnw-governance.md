@@ -18,10 +18,7 @@ Private markets without moral authority fracture.
 Duty holds the structure.  
 Legacy holds the line.
 
-I open with the architecture.  
-Hierarchy first.  
-Conviction second.  
-Continuity third.
+I open with the architecture.   Hierarchy first. Conviction second. Continuity third.
 
 The ultra‑wealthy face a simple truth:  
 Capital compounds only when aligned with a governing creed.  
@@ -36,10 +33,7 @@ Transmission.
 No noise.  
 Only covenantal order.
 
-Governance for such families must reject the modern drift toward technocratic neutrality.  
-Neutrality dilutes.  
-Faith roots.  
-Faith orders.  
+Governance for such families must reject the modern drift toward technocratic neutrality.   Neutrality dilutes. Faith roots. Faith orders.  
 Faith sustains.
 
 A board without theology governs transactions.  

@@ -35,10 +35,7 @@ The things that endure.
 - Proverbs 11:3
 
 Industrial heritage sharpens the lens. You choose companies that solve real problems in the real world. Metal. Timber. Water. Energy. Process improvement. Human competence. These are covenantal assets. They generate value independent of noise. They outlive speculation. They respect the created order.
-
-Virtue selects.  
-Character filters.  
-Discipline compounds.
+ Virtue selects. Character filters. Discipline compounds.
 
 Portfolio construction becomes a moral cartography.  
 Not abstraction.  

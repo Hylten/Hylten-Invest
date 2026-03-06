@@ -236,16 +236,7 @@ They value systems that preserve their core asset integrity while expanding thei
 The foundation of every Hylten Invest structure is continuity.
 
  
-
-Capital continuity.
-
- 
-
-Strategic continuity.
-
- 
-
-Family continuity.
+ Capital continuity. Strategic continuity. Family continuity.
 
  
 

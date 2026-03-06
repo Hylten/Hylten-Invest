@@ -36,10 +36,7 @@ You cannot counterfeit conviction.
 You cannot outsource heritage.  
 You cannot purchase moral authority at market price.
 
-The Gnosjö spirit understood this long before consultants discovered the word “ecosystem.”  
-Small factories.  
-Hard benches.  
-Cold mornings.  
+The Gnosjö spirit understood this long before consultants discovered the word “ecosystem.”   Small factories. Hard benches. Cold mornings.  
 Warm faith.  
 Each generation hammering its principles into the next.
 

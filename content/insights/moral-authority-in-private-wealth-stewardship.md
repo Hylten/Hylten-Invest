@@ -289,13 +289,7 @@ An enterprise must be hardened.
 
 Asset Hardening is the systematic strengthening of every structural element.
 
-Balance sheet clarity. 
-Governance protocols. 
-Succession mechanisms. 
-Acquisition playbooks. 
-Counterparty criteria. 
-Capital discipline. 
-Moral alignment.
+Balance sheet clarity.  Governance protocols. Succession mechanisms. Acquisition playbooks.  Counterparty criteria. Capital discipline. Moral alignment.
 
 A hardened house becomes unshakeable. 
 A hardened house becomes a vessel capable of carrying heavy mandates. 

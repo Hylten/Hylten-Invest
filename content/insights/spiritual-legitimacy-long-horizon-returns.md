@@ -32,10 +32,7 @@ A principal does not gamble on foundations that shift.
 A principal selects ground with moral density.  
 This is how generational compounding survives crisis, inflation, cycles, and the ambitions of lesser men.
 
-Spiritual legitimacy clarifies hierarchy.  
-God first.  
-Family second.  
-Enterprise third.  
+Spiritual legitimacy clarifies hierarchy.   God first. Family second. Enterprise third.  
 Capital flows only after purpose is anchored.  
 When these ranks are honored, return profiles stabilize.  
 When violated, drift begins.  

@@ -163,10 +163,7 @@ This is the architecture of human dignity.
 You do not rush such things.  
 You do not flip them.  
 You do not dress them up for a pitch deck.
-
-You build.  
-You refine.  
-You endure.
+ You build. You refine. You endure.
 
 Multi-decade industrial holdings do something no private equity fund can ever replicate:  
 They turn the Principal into a cornerstone of society.  

@@ -155,10 +155,7 @@ This underpins the firm's operational architecture.
 Documentation must be lucid. 
 Communication must be exact. 
 Execution must be repeatable.
-
-No noise. 
-No confusion. 
-No drift.
+ No noise. No confusion. No drift.
 
 ## Execution Velocity as Moral Discipline
 

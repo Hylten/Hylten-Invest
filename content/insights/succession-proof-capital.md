@@ -130,10 +130,7 @@ When founders see themselves as custodians, they design better architectures. Th
 *"Moreover it is required in stewards, that a man be found faithful."*  
 – 1 Corinthians 4:2
 
-Faithfulness is the benchmark.  
-Not wealth.  
-Not prestige.  
-Not expansion.  
+Faithfulness is the benchmark.   Not wealth. Not prestige. Not expansion.  
 Faithfulness to the covenant, to the craft, to the calling.
 
 ---

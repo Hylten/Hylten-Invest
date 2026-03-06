@@ -70,10 +70,7 @@ Most family offices either collapse into sentimentality or retreat into technica
 Neither stance produces generational resilience.
 
 Gnosjö thinking produces a third path.
-
-Small scale. 
-High discipline. 
-Tight networks. 
+ Small scale. High discipline. Tight networks. 
 Hard accountability.
 
 This is asset hardening at the cultural level before it is ever applied to a balance sheet.
@@ -323,9 +320,7 @@ It is a governance theology that operates under scrutiny without fear because th
 
 The family office that adopts the Hylten Model accepts four responsibilities.
 
-Guard the mandate. 
-Harden the assets. 
-Accelerate execution. 
+Guard the mandate. Harden the assets. Accelerate execution. 
 Honor the covenant.
 
 This is the architecture required for generational continuity.

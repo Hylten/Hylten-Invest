@@ -61,10 +61,7 @@ THE MORAL CASE FOR FOUNDER CONTINUITY WITHOUT DEPENDENCE
 
 I will state the thesis plainly:  
 A founder with moral authority cannot produce key‑man fragility. He produces founder‑permanence without founder‑dependence.
-
-Short sentence.  
-Direct impact.  
-No decoration.
+ Short sentence. Direct impact. No decoration.
 
 The reason is internal calibration. When the founder is governed by a covenantal ethic-truth, responsibility, duty, service, stewardship-he reduces institutional entropy. He simplifies decision‑making. Reduces behavioural noise. Establishes a predictable moral vector. That vector does not disappear when he steps out of the building. It becomes the default operating system.
 

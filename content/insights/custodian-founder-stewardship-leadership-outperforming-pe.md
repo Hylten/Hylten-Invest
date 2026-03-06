@@ -67,9 +67,7 @@ STRUCTURAL DEPTH - 1500+ WORD PRINCIPAL BRIEFING
 The industrial heritage of Europe and North America teaches us a central truth: capital follows character when the stakes are highest. Across every meaningful stress cycle-war, commodity shocks, demographic contractions, technological disruption-the Custodian Founder emerges as the stabilizing force. He is not agile because agility is fashionable. He is agile because responsibility requires it.
 
 Consider the Swedish 1874 forge culture.  
-Steel cooled slowly.  
-Characters formed slowly.  
-Convictions hardened.
+Steel cooled slowly. Characters formed slowly. Convictions hardened.
 
 That lineage created companies that endure today not because they were optimized, but because they were anchored. Anchored in duty. Anchored in covenant. Anchored in the moral clarity that work is sacred, capital is a tool, and the next generation is the audience.
 
@@ -79,10 +77,7 @@ This is why the modern market is shifting. As volatility increases, the premium 
 
 Markets crave resilience now. They pay for it. They prioritize it. The Custodian Founder embodies it.
 
-Machine-gun cadence for clarity:  
-Duty wins.  
-Memory wins.  
-Rootedness wins.  
+Machine-gun cadence for clarity:   Duty wins. Memory wins. Rootedness wins.  
 Steadfastness wins.  
 Honor wins.
 
@@ -107,10 +102,7 @@ It shows up in balance sheets built for winter.
 
 A Custodian Founder builds for winter. A professional PE team builds for the next transaction.
 
-This is the inflection point.  
-Winter arrived.  
-Professionalization cracked.  
-Stewardship endured.
+This is the inflection point.   Winter arrived. Professionalization cracked. Stewardship endured.
 
 You can trace the pattern across every sector. Industrial manufacturing. Timber. Transportation. Family-held agricultural firms. Machine shops. Niche industrial exporters. They outperform because the leader is integrated into the moral fabric of the enterprise. He does not rent his conviction. He owns it. He carries it.
 

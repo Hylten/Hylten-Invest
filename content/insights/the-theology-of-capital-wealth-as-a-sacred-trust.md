@@ -38,10 +38,7 @@ Psalm 24:1
 
 The origin of capital is divine ownership. 
 Human authority over assets is granted, not self-generated. 
-This converts wealth into mandate. 
-Not consumable. 
-Not ornamental. 
-But structural. 
+This converts wealth into mandate.  Not consumable. Not ornamental. But structural. 
 
 Covenant stewardship means that every allocation. Every liquidity facility. Every acquisition. Must honor the source and the purpose of the capital being deployed.
 
@@ -81,10 +78,7 @@ It ensures that capital meets:
 - Long-horizon governance 
 - Cross-border liquidity demands 
 
-The architecture is minimalist. 
-No narratives. 
-No ideology. 
-Only verification. 
+The architecture is minimalist.  No narratives. No ideology. Only verification. 
 Only discipline.
 
 Crypto liquidity engineering thresholds start at 2M. 

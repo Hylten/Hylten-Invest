@@ -75,10 +75,7 @@ This is not nostalgia.
 This is not idealism. 
 This is engineering.
 
-The industrial mandate requires that every deployed krona or dollar operates under covenant discipline. 
-No waste. 
-No drift. 
-No indulgence.
+The industrial mandate requires that every deployed krona or dollar operates under covenant discipline.  No waste. No drift. No indulgence.
 
 ## Asset Hardening as Theological Logic
 
@@ -177,10 +174,7 @@ Not self-promotion.
 Not market theater.
 
 The mandate is industrial and theological.
-
-Strengthen assets. 
-Strengthen families. 
-Strengthen regions. 
+ Strengthen assets. Strengthen families. Strengthen regions. 
 Produce dependable outcomes.
 
 Every acquisition, every covenant, every alignment with institutional LPs is evaluated under the logic of stewardship. This includes the cross-border mandates active within the strategic perimeter.
@@ -299,10 +293,7 @@ Christian capital is a covenant.
 Industrial capital is a mandate. 
 Stewardship is the form of obedience that binds them.
 
-The industrial mandate does not entertain. 
-It builds. 
-It preserves. 
-It strengthens.
+The industrial mandate does not entertain.  It builds. It preserves. It strengthens.
 
 Under this discipline, an enterprise becomes more than a firm. 
 It becomes a generational pillar. 

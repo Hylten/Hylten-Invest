@@ -28,9 +28,7 @@ Trust is currency. Calling is mandate. Legacy is bulwark. None can be borrowed. 
 Machine‑Gun Lines.  
 Guard the covenant.  
 Defend the ethic.  
-Honor the forge.  
-Build for heirs.  
-Stand upright.
+Honor the forge. Build for heirs. Stand upright.
 
 Industrial Heritage.  
 From the workshop floor to the boardroom, the line holds: value creation demands moral authority. A man who cannot govern himself cannot govern capital. A man who evades duty cannot create durable wealth. Every enterprise becomes an extension of the inward order.

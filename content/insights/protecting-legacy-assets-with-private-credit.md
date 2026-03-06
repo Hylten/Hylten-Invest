@@ -336,12 +336,7 @@ They will create liquidity buffers.
 They will support the slow, deliberate stewardship that legacy wealth demands. 
 
 Hyltén Invest will continue to operate quietly in this domain. 
-
-Providing capital. 
-
-Providing structure. 
-
-Providing stability. 
+ Providing capital. Providing structure. Providing stability. 
 
 Without noise. 
 

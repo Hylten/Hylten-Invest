@@ -74,10 +74,7 @@ Unnecessary visibility introduces exposure.
 
  
 
-By maintaining a minimalist approach, we maintain focus on what truly matters: 
-The asset. 
-The collateral. 
-The structure. 
+By maintaining a minimalist approach, we maintain focus on what truly matters:  The asset. The collateral. The structure. 
 The execution. 
 The continuity of the client’s vision.
 

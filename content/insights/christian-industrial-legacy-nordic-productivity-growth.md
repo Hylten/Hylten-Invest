@@ -29,10 +29,7 @@ These firms formed the underlying structural skeleton long before any modern pol
 
 They practiced stewardship not as a slogan but as the foundation of operational architecture.
 
-Machine-gun clarity:  
-Work mattered.  
-Waste died.  
-Honor ruled.  
+Machine-gun clarity:   Work mattered. Waste died. Honor ruled.  
 Legacy carried.
 
 This was the unseen scaffolding of Nordic productivity.
@@ -95,10 +92,7 @@ This matrix produced stable, compounding advantages.
 
 The Protestant ethic is not an abstraction. It becomes torque. It becomes throughput. It becomes yield per employee, per shift, per machine-hour. It becomes the invisible coefficient that economists fail to model.
 
-Machine-gun pulse:  
-Duty scales.  
-Honor compounds.  
-Faith focuses.  
+Machine-gun pulse:   Duty scales. Honor compounds. Faith focuses.  
 Character produces.  
 
 Always.

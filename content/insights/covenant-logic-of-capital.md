@@ -28,10 +28,7 @@ One principle governs the architecture:
 • Markets punish vanity projects but reward firms that solve industrial problems at scale.  
 • The Spirit of Gnosjö proves it: community discipline multiplies output without sacrificing conscience.
 
-Machine Gun now.  
-Clarity wins.  
-Duty compounds.  
-Covenant holds.  
+Machine Gun now.   Clarity wins. Duty compounds. Covenant holds.  
 Noise dies.
 
 UHNW principals seeking values‑based outperformance must architect capital flows that mirror their theology. Not charity masquerading as investment. Not sentiment disguised as governance. Authentic conviction. Rooted in Scripture. Translated into operational discipline. Carried through generations.

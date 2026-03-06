@@ -38,10 +38,7 @@ It comforts the institutions that still think in centuries.
 
 Moral authority becomes alpha because disorder rewards shortcuts while free enterprise demands discipline. Markets trust the disciplined. Markets compound with the principled. Markets punish the clever but reward the faithful.
 
-The Spirit of Gnosjö still matters.  
-Small workshop.  
-Large courage.  
-Communal ethic.  
+The Spirit of Gnosjö still matters.   Small workshop. Large courage. Communal ethic.  
 Work as service.  
 Profit as witness.  
 Legacy as covenant.  

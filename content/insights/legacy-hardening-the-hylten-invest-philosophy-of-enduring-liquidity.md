@@ -109,11 +109,7 @@ Quiet liquidity.
 
 Conservative structuring. 
 
-Minimal operational risk. 
-
-Minimal market exposure. 
-
-Maximum control. 
+Minimal operational risk. Minimal market exposure. Maximum control. 
 
 Silent structures give families the ability to navigate complexity without signaling movement. 
 

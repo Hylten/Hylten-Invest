@@ -11,10 +11,7 @@ The Gnosjö network is not a mystery. It is a covenant structure operating under
 Internal logic first.  
 Gnosjö functions by compression of distance. The trust radius collapses to the local. This creates frictionless cooperation. Zero posturing. Zero bureaucracy. Workbench to workbench. Capacity trades hands without ceremony. Machines hum because the people stand upright.
 
-A Principal sees the advantage plainly.  
-No speculation.  
-No drift.  
-No indulgence.
+A Principal sees the advantage plainly.   No speculation. No drift. No indulgence.
 
 Value forms at the anvil, not in sentiment.
 
@@ -25,10 +22,7 @@ Hierarchy emerges naturally. The doer sits above the talker. The craftsman above
 
 Micro-industrial nodes create durable alpha because they refuse entropy. They guard the covenant. They preserve the lineage. Every shop holds a memory. Each torch passes knowledge, not noise. Efficiency becomes inheritance. Precision becomes culture.
 
-Machine gun clarity:  
-Small firm.  
-Fast pivot.  
-Tight quorum.  
+Machine gun clarity:   Small firm. Fast pivot. Tight quorum.  
 Zero drift.
 
 This is the soil from which generational capital rises. Industrial humility. Entrepreneurial stubbornness. Deep-rooted stewardship. It resists central planning because it answers to a higher jurisdiction: the duty to build for the children’s children.

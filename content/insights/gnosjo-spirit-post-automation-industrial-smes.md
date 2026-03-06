@@ -105,16 +105,10 @@ Moral capital is the result of disciplined conduct over decades. It becomes the 
 
 The Protestant Ethic produced these effects without announcements, slogans, or ideological pretense. It simply required men to work hard, keep their word, honor their families, solve real problems, build quality goods, and protect the future.
 
-Stewardship is slow strength.  
-It compounds.  
-It transfers.  
-It endures.
+Stewardship is slow strength.   It compounds. It transfers. It endures.
 
 In post-automation markets, stewardship becomes the counterbalance to technological volatility. When software advances at exponential speed, when production cycles shrink, when AI integrates into fabrication with little friction, stewardship becomes the stabilizing constant.
-
-Machines accelerate.  
-Stewardship directs.  
-Legacy receives.
+ Machines accelerate. Stewardship directs. Legacy receives.
 
 This is the architecture that protects the children's children.
 

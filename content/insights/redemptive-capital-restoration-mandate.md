@@ -50,10 +50,7 @@ When productivity rises, returns compound.
 Moral law and economic law converge.  
 That is the architecture.
 
-Phase 3. Bypass. Machine Gun.  
-Repair markets.  
-Reinforce trust.  
-Rebuild competence.  
+Phase 3. Bypass. Machine Gun.   Repair markets. Reinforce trust. Rebuild competence.  
 Defend enterprise.  
 Guard legacy.
 

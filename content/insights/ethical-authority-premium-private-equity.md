@@ -29,9 +29,7 @@ Machine gun cadence:
 
 Generational discipline wins.  
 Shallow capital flees.  
-Deep capital commits.  
-Moral authority compounds.  
-Noise collapses.
+Deep capital commits. Moral authority compounds. Noise collapses.
 
 The Spirit of Gnosjö remains the blueprint. Small forge. Hard work. Protestant ethic. Every generation adding a rung, not an excuse. Not subsidy. Not speculation. Creation only. Duty only. This is the soil from which Ethical Authority Premiums grow.
 

@@ -9,10 +9,7 @@ slug: "gnosjo-imprint-private-equity"
 The forge precedes the fund.  
 The covenant precedes the model.  
 The Spirit of Gnosjö moves first.
-
-Small workshops.  
-Hard benches.  
-Cold mornings.  
+ Small workshops. Hard benches. Cold mornings.  
 Men and women who refused waste, refused idleness, refused dependency.  
 They built a moral architecture long before private equity adopted the language of operational excellence.
 

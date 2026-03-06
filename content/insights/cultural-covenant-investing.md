@@ -23,10 +23,7 @@ Cultural covenant investing revives that force. Not nostalgia. Design. A soverei
 
 The Protestant Ethic matters here. Duty before gain. Stewardship before scale. When the partners hold that ethic, you cut through institutional fog. Less monitoring. Less hedging. Less defensive structuring. You produce clarity, and clarity compounds.
 
-Capital within covenant behaves differently.  
-More patient.  
-More principled.  
-More durable.
+Capital within covenant behaves differently.   More patient. More principled. More durable.
 
 And durability is the ultimate arbitrage. Markets reward what outlasts the noise.
 

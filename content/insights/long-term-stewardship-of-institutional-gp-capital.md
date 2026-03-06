@@ -101,10 +101,7 @@ Yet volatility demands structure.
 For holders above the 2,000,000 USD threshold, crypto assets become candidates for disciplined balance sheet optimization. 
 
 Hylten Invest treats large-scale crypto positions as institutionally interpretable collateral. 
-
-Not speculative. 
-Not directional. 
-Simply collateral. 
+ Not speculative. Not directional. Simply collateral. 
 
 This framing transforms crypto from a high-beta asset into a long-term liquidity instrument that integrates into broader multi-asset stewardship strategies. 
 

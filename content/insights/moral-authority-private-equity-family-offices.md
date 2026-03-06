@@ -31,10 +31,7 @@ Stewardship.
 Covenant.  
 Accountability.  
 
-Machine-gun clarity:  
-Opacity destroys.  
-Stewardship builds.  
-Covenants endure.
+Machine-gun clarity:   Opacity destroys. Stewardship builds. Covenants endure.
 
 The great industrial families knew this. The Protestant ethos encoded it. You work. You build. You produce. You improve the craft. You honor the lineage. You behave as if your children’s children will judge every allocation you make. Because they will.
 
