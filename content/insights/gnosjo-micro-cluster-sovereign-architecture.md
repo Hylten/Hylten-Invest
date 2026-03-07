@@ -91,7 +91,7 @@ PHASE 2 – PRINCIPAL TONE
 No embellishment. No apology. No theatrics. The statement stands: The micro‑cluster is the proof that principled free enterprise governed by moral clarity outperforms any centrally engineered system, any subsidy-dependent framework, and any bureaucracy-driven development model.
 
 PHASE 3 – INTERNAL BYPASS  
-Three words. Maximum weight.  
+Maximum weight.  
 Duty creates durability.
 
 Five words. Structural axiom.  

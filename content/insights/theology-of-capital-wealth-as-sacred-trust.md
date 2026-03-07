@@ -13,7 +13,8 @@ The capital vacuum in North America’s energy sector is a consequence of regula
 
 The theology of capital is not a metaphor. It is an operating system for long-horizon decision makers. It is the intellectual and spiritual framework that once defined the Nordic industrial tradition, the Gnosjö spirit, and the Protestant work ethic in its industrial form. These were not cultural slogans. They were resource management doctrines. They created a class of European operators whose factories, family offices, and community infrastructures were built with multi-generational intent. It is critical to understand this foundation because the discipline of stewardship determines how an allocator engages opportunities across energy, manufacturing, infrastructure, and Strategic Collateralization.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current capital regime is defined by two simultaneous dislocations.
 
@@ -28,7 +29,8 @@ In Europe, the challenge is not undercapitalized resource basins. It is the eros
 
 The allocator who operates without this framework will always chase velocity over durability. The allocator who operates with it will understand why capital flows drift out of equilibrium and how to navigate the resulting inefficiencies.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 A theology of capital demands technical competence. Stewardship is not sentimental. Proper management of resources requires factual precision and operational intelligence. When applied to regions such as Alberta, stewardship becomes quantifiable. Conventional heavy oil, particularly in reservoirs suitable for SAGD and CSS methods, offers repeatable physics based on thermal recovery. Reservoir behavior is governed by:
 
@@ -48,7 +50,8 @@ From a financial perspective, stewardship aligns with:
 
 The allocator who adopts this approach aligns with natural systems instead of overriding them. This is the essence of Genesis stewardship. Humanity is mandated to cultivate creation without exploiting it. Sustainable energy production is not a contradiction. It is a fulfillment of mandate when executed with precision, transparency, and disciplined reinvestment.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator across these landscapes. The firm’s role is not to own assets. It is to align institutional allocators with operators and strategies that reflect mature stewardship principles. In the North American energy domain, this includes institutional introduction to NAEO and comparable operator archetypes whose extraction methodology, balance sheet management, and field discipline mirror the industrial heritage of responsible European manufacturing.
 

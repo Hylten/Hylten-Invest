@@ -22,7 +22,6 @@ Work as worship.
 Work as the conduit through which capital becomes moral authority.  
 Proverbs 13:22 (*A good man leaveth an inheritance to his children's children.*)
 
-Three truths anchor the architecture:
 
 1. Markets reward contribution.   Not cleverness. Not shortcuts. Value only.  
 The moment capital forgets this, rot sets in.

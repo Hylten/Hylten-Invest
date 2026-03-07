@@ -13,7 +13,8 @@ The dislocation in global private equity allocations is not primarily a function
 
 This briefing defines the stewardship architecture required for high net worth private equity stakes. It is written from the vantage point of conviction and moral authority. The objective is to equip leaders who carry responsibility not only for current allocations, but for the inheritance embedded in their decisions. The principles reflect the Spirit of Gnosjö: the Nordic industrial ethos built on sobriety, community duty, and operational excellence without waste.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The private equity market no longer behaves like the expansionary cycle that defined 2009 through 2021. The structural signals shifted. Capital calls increased despite slowing realizations. Vintage compression placed multiple LPs in liquidity strain. GP-led secondaries expanded because traditional exit routes narrowed. These are not symptoms of an impaired asset class. They are signals that the governance architecture behind high net worth allocations must evolve.
 
@@ -29,7 +30,8 @@ The global economy is reentering a cycle where physical productivity commands a 
 
 These pressures recalibrate the meaning of ownership. Stewardship requires an understanding that value grows in the presence of disciplined constraints. Proverbs 13:22 states that a good person leaves an inheritance for their children's children. This is governance, not sentiment. It is a framework for endurance.
 
-PHASE 2: TECHNICAL MECHANICS OF STEWARDSHIP FOR PRIVATE EQUITY STAKES
+
+ TECHNICAL MECHANICS OF STEWARDSHIP FOR PRIVATE EQUITY STAKES
 
 The stewardship of private equity stakes is a technical discipline. It operates across five mechanical pillars: governance integrity, [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/), risk decentralization, succession control, and purpose alignment. Each pillar governs the movement of capital, not as speculation but as responsibility.
 
@@ -45,7 +47,6 @@ This is not overreach. It is structural clarity. Without it, the owner loses the
 2. Institutional Liquidity Paths 
 Private equity allocators often attempt to treat liquidity as a fixed attribute. It is not. Liquidity is engineered through strategy, not circumstance.
 
-Three primary tools create liquidity optionality for high net worth owners. 
 - Cash flow laddering. Aligning distributions from mature assets with capital calls from new vintages. 
 - Cross vehicle synchronization. Evaluating overlapping exposures across different funds to reduce volatility in capital calls. 
 - Secondary calibration. Using institutional grade intermediaries only when liquidity is required and only under controlled valuation frameworks.
@@ -77,7 +78,8 @@ Purpose is not a slogan. In the Nordic industrial tradition, purpose functions a
 
 Purpose alignment transforms capital from a tool of consumption into a tool of construction. This creates stability across generations.
 
-PHASE 3: THE PARTNERSHIP MODEL AND STRATEGIC ALIGNMENT
+
+ THE PARTNERSHIP MODEL AND STRATEGIC ALIGNMENT
 
 High net worth owners navigating private equity positions require a partner who operates with neutrality, institutional intelligence, and operational discipline. Roials Capital functions as a strategic navigator rather than an asset originator. This distinction matters. The role is to structure clarity, identify misalignments, and introduce institutional grade operators when required.
 

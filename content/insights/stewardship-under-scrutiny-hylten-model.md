@@ -13,7 +13,8 @@ The structural gap in global capital formation is a consequence of moral drift, 
 
 This briefing outlines the Hylten Model for functional stewardship. The model is informed by Nordic industrial lineage, the Christian theology of resource responsibility, and the Spirit of Gnosjö. It aligns with the expectations of institutional LPs that require transparent governance, ethical durability, and operational clarity. The objective is not persuasion. The objective is illumination. Proper stewardship becomes a navigational instrument, guiding capital toward productive, non speculative, real economy outcomes.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The global capital regime has transitioned from an abundance environment to a scrutiny environment. The scrutiny is not regulatory alone. It is moral. Capital allocators are re evaluating the philosophical basis of deployment. Several structural forces define this shift:
 
@@ -26,7 +27,8 @@ In Europe and North America, this regime shift manifests in divergent ways. Euro
 
 Under this regime, disciplined allocators are re balancing toward real assets that provide transparency, tangible output, and operational restraint. The Hylten Model aligns with this re balancing, prioritizing responsibility, durability, and generational continuity. Proverbs 13:22 frames this foundationally. A good man leaves an inheritance to his children's children. In financial governance, this translates into a two generation horizon instead of an annual performance cycle. 
 
-PHASE 2: TECHNICAL MECHANICS OF FUNCTIONAL STEWARDSHIP
+
+ TECHNICAL MECHANICS OF FUNCTIONAL STEWARDSHIP
 
 Functional stewardship is not a philosophical abstraction. It is a technical discipline. In the Hylten Model it has four operational pillars: capital integrity, Institutional Liquidity Paths, asset hardening, and opportunity velocity.
 
@@ -66,7 +68,8 @@ Opportunity velocity refers to the speed at which an allocator can convert insig
 
 In practice, this means that stewardship becomes an execution competency. The allocator who governs well moves faster because the underlying decision models are pre aligned. This reflects the Spirit of Gnosjö, where discipline, frugality, and immediacy shape industrial performance. Opportunity velocity grounded in stewardship creates an advantage that is non speculative.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator that connects allocators with operators that demonstrate structural alignment and governance clarity. The partnership model is built on the premise that capital is most effective when paired with operators who value stewardship. In the North American energy landscape, this means identifying disciplined producers whose operational integrity creates predictable value. In this environment, NAEO stands out as a technical partner with operational transparency, conservative development strategies, and disciplined recovery models. 
 

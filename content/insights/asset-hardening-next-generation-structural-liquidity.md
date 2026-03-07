@@ -13,7 +13,8 @@ The structural gap facing multi generational families is not a shortage of asset
 
 Modern markets are entering a regime where this discipline is no longer optional. The post 2020 monetary period created surface level wealth effects without reinforcing the underlying balance sheet architecture. Many families today hold fragmented assets, siloed businesses, and legacy holdings without a corresponding liquidity design. Asset hardening is the corrective mechanism. It transforms capital from a static store into an operational instrument. It anchors the family while creating the latitude to engage with new opportunities at controlled velocity.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The macro landscape affecting long horizon allocators is defined by three converging forces. Each is altering the expected life cycle of family capital.
 
@@ -28,7 +29,8 @@ Institutional capital is now prioritizing assets with physical durability and me
 
 The result is a regime that penalizes passive exposure and rewards engineered liquidity supported by operationally grounded assets. Families must recalibrate from asset accumulation to structural resilience.
 
-PHASE 2: TECHNICAL MECHANICS OF ASSET HARDENING
+
+ TECHNICAL MECHANICS OF ASSET HARDENING
 
 Asset hardening is a balance sheet discipline that combines predictable cash flow assets, controlled duration liabilities, and multi layer liquidity reserves. It is not wealth preservation. It is wealth reinforcement. The technical framework includes four core mechanisms:
 
@@ -62,7 +64,8 @@ In the North American energy landscape, this includes assets such as SAGD and CS
 4. Opportunity Velocity 
 Once liquidity architecture is established, families can operate at higher opportunity velocity without increasing risk. The key is that velocity is controlled by liquidity design rather than appetite for returns. This is how long horizon families have historically acquired industrial assets during dislocations. They were prepared. Preparation was not cash sitting idle. Preparation was liquidity structured with purpose.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital serves as a strategic navigator for families repositioning their capital architecture. The mandate is alignment, not asset management. The firm provides institutional level intelligence across North American private markets, energy assets, and structured credit. When appropriate, Roials Capital introduces families to operational partners with deep technical competency.
 

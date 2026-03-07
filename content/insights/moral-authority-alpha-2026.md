@@ -29,7 +29,8 @@ A leader anchored in covenantal responsibility is not a safe choice; he is the s
 The repricing is underway.  
 We address the architecture.
 
-PHASE 1: INTERNAL LOGIC  
+
+ INTERNAL LOGIC  
 THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY
 
 The institutional allocator of 2026 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist. They are reaching for the one attribute that cannot be automated, simulated, or purchased:
@@ -63,7 +64,8 @@ Why? Because the steward bound by covenantal responsibility does not defect when
 This is the repricing.  
 This is the return of moral authority as the invisible collateral.
 
-PHASE 2: PRINCIPAL TONE  
+
+ PRINCIPAL TONE  
 THE INDUSTRIAL HERITAGE ADVANTAGE
 
 The Spirit of Gnosjö was never about geography. It was about covenantal behavior: families building industry with integrity, precision, and a sense of duty to the work itself. The world now sees this as a competitive moat.  
@@ -94,7 +96,8 @@ Structural clarity.
 
 Institutions know the markets are entering an era of chronic uncertainty. They want architects, not gamblers. They want builders, not speculators. A leader grounded in stewardship is not merely a safer choice-he is a sovereign one.
 
-PHASE 3: INTERNAL BYPASS  
+
+ INTERNAL BYPASS  
 THE MORAL ALPHA DOCTRINE AS RISK MITIGATION
 
 To understand why moral authority is being repriced as alpha, one must examine the mechanics of institutional risk.

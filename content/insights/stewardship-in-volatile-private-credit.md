@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capi
 
 The current private credit landscape continues to be defined by a structural gap rather than a cyclical aberration. The spread dislocation observed across North American and European middle-market borrowers is an output of regulatory compression and balance sheet retrenchment among traditional lenders. The vacuum is not a symptom of weakened asset bases but of capital architecture that has not kept pace with real-economy demand. This gap has created a market where the durability of capital stewardship has become a differentiator more powerful than scale, branding, or origination velocity.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The private credit market entered a new regime following the liquidity distortions of 2020 to 2022. Central bank intervention suppressed price discovery, forced yield compression, and incentivized duration risk. These features did not dissipate but instead mutated into structural inefficiencies once base rates normalized. This is the source of the present regime shift.
 
@@ -27,7 +28,8 @@ Several macro forces now define allocator decision frameworks:
 
 This regime shift did not break private credit. It exposed a lack of stewardship discipline among both borrowers and lenders. Stewardship is not an ethical overlay. It is a capital structuring discipline. It governs continuity. It prevents waste. It aligns time horizons across stakeholders.
 
-PHASE 2: TECHNICAL MECHANICS OF STEWARDSHIP IN PRIVATE CREDIT
+
+ TECHNICAL MECHANICS OF STEWARDSHIP IN PRIVATE CREDIT
 
 Stewardship in a volatile private credit environment is best understood as a governance system applied to capital. It is a discipline that focuses on the triad of asset durability, balance sheet optimization, and operational accountability. Each component interacts with the others and produces a compounding effect when executed with precision.
 
@@ -68,7 +70,8 @@ Operationally aligned underwriting focuses on:
 
 When operational data is integrated early, the capital structure becomes more accurate, more efficient, and more durable.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator within this environment. The objective is not to manage assets but to provide allocators with structural intelligence, institutional introductions, and calibrated alignment with operationally competent partners.
 

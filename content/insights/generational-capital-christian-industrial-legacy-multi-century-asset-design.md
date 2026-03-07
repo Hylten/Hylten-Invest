@@ -15,7 +15,7 @@ The Swedish industrial fathers understood this. The Gnosjö spirit was never imp
 Phase changes in capital begin with one premise: the asset must outlive the ego of the builder. Anything less is consumption disguised as achievement. A multi‑century asset is not an investment strategy. It is an act of stewardship. It binds the present to the unborn.
 
 Internal logic first.  
-Three directives. Clean. Non-negotiable.
+Clean. Non-negotiable.
 
 1. Order before scale.  
 2. Principle before opportunity.  

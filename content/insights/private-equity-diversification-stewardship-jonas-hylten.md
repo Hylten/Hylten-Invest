@@ -13,7 +13,8 @@ The structural gap that defines private equity diversification in 2026 is a dire
 
 This briefing outlines the regime shift, the technical mechanics of diversification inside a private equity architecture, the partnership model that Roials Capital supports as a strategic navigator, and the stewardship filter that calibrates capital toward generational continuity. The perspective is anchored in the Nordic industrial ethos that shaped my own worldview. The Spirit of Gnosjö ensures capital is never theoretical. It is operational, moral, and accountable.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Private equity diversification is no longer framed as a distribution across sectors but as a dynamic allocation across structural inefficiencies. The allocator who still organizes risk through geography, style, or vintage is operating with a pre 2015 cognitive model that no longer captures institutional reality.
 
@@ -35,7 +36,8 @@ Diversification in this environment requires operational intelligence rather tha
 
 The new objective is not to hold a spread of sectors but to neutralize systemic fragility while accumulating exposure to real economy cash flow engines. 
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Diversification within private equity requires understanding how each strategy behaves along the balance sheet, liquidity, and operational axes. The allocator evaluates structural behavior rather than marketing categories. The analysis below outlines the core mechanics.
 
@@ -111,7 +113,8 @@ The allocator has to ensure:
 
 This transforms diversification from a static structure into a dynamic liquidity engine.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital does not operate as a manager. We operate as a strategic navigator. The distinction is essential. Diversification requires not only allocation but alignment. The institutional landscape is too fragmented for allocators to reliably identify operational excellence without deep domain intelligence.
 

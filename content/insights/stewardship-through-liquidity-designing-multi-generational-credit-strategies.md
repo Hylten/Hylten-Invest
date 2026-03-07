@@ -227,11 +227,7 @@ Every credit strategy requires disciplined risk governance.
 
 Families should use conservative ratios, modest draw levels, and stable structures. 
 
-Three areas deserve particular focus.
 
-### Governance Framework
-
-A credit governance framework defines: 
 • Who approves balance sheet optimization. 
 • How risk is assessed. 
 • When to increase or reduce credit usage. 

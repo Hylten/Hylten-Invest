@@ -13,7 +13,8 @@ The capital vacuum in mature Western markets is not a consequence of resource sc
 
 This memorandum outlines the multi generational stewardship doctrine that has governed successful Nordic industrial families for more than a century. It is designed as institutional intelligence for allocators who seek structural alignment rather than transactional opportunity. The orientation is not thematic. It is architectural. Long horizon capital is not sustained through sentiment. It is sustained through design.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Western markets are experiencing a reversion to fundamental discipline. Energy cost floors, supply chain fragmentation, demographic contraction, and regulatory tightening have created a new regime. It is slower, harsher, and more selective than the monetary expansion cycle of the previous decade. Allocators navigating this regime identify three persistent conditions.
 
@@ -25,7 +26,8 @@ Western markets are experiencing a reversion to fundamental discipline. Energy c
 
 These regime dynamics create an environment where stewardship aligned capital performs a stabilizing function. Not by outcompeting the market but by outlasting it.
 
-PHASE 2: TECHNICAL MECHANICS OF MULTI GENERATIONAL CAPITAL
+
+ TECHNICAL MECHANICS OF MULTI GENERATIONAL CAPITAL
 
 Stewardship is not philosophy. It is an operating system. Families that maintain capital over multiple generations exhibit structural behaviors that can be defined, analyzed, and institutionalized. The following mechanics constitute the core architecture.
 
@@ -63,7 +65,8 @@ Stewardship capital follows an intrinsic physics. It expands slowly, consolidate
 
 4. Cultural codification. Values are codified into the operating rhythm with the same seriousness as financial covenants.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates within this ecosystem as a strategic navigator. The objective is not to replace family structures but to enhance clarity, open institutional pathways, and facilitate access to operational intelligence. The approach rests on three pillars.
 

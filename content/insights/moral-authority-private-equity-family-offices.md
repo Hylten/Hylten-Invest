@@ -21,12 +21,12 @@ That distinction shapes everything. It defines whether a family office becomes a
 
 The verse is blunt. Integrity secures stability. Distortion reveals itself in time. In the world of private equity, that clarity is not an abstraction. It is a structural truth with financial consequences.
 
-PHASE 1: INTERNAL LOGIC - PRIVATE BRIEFING  
+
+ INTERNAL LOGIC - PRIVATE BRIEFING  
 (Principal voice, unfiltered, for the vault.)
 
 I speak plainly. Family offices do not fail because of bad markets. They fail because of bad frameworks. The misdiagnosis is persistent. The true breach originates in the erosion of internal moral authority. Capital begins to drift when the Principal abdicates conviction. Delegation becomes diffusion. Diffusion becomes opacity. Opacity becomes risk without accountability. Then the structure collapses.
 
-Three words matter.  
 Stewardship.  
 Covenant.  
 Accountability.  
@@ -45,7 +45,8 @@ From moral hazard to moral authority.
 
 This is the axis modern family offices must internalize.
 
-PHASE 2: PRINCIPAL TONE - THE MORAL AUTHORITY FRAME
+
+ PRINCIPAL TONE - THE MORAL AUTHORITY FRAME
 
 The family office is not an investor. It is an institution of stewardship. The internal architecture must reflect that identity with absolute precision. Conviction, not appetite, drives allocation. Discipline, not excitement, governs sector selection. We do not chase trends. We assess durability. We do not seek novelty. We seek compounding.
 
@@ -70,7 +71,8 @@ Narrative-driven funds - built on future promises and perpetual rounds - drift t
 
 The distinction is predictable. So is the outcome.
 
-PHASE 3: INTERNAL BYPASS - STRUCTURAL DEPTH
+
+ INTERNAL BYPASS - STRUCTURAL DEPTH
 
 I shift into architecture.
 

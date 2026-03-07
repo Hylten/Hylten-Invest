@@ -88,14 +88,16 @@ The sovereign mandate allocates 175M into a Texas based mid market platform with
 
 The sponsoring entity operates Fund-III, positioning it as a control oriented platform for 2026 expansion. The acquisition requires capital raising for mid market buyout with covenant aligned Strategic Collateralization.
 
-Phase 1: Pre acquisition hardening 
+
+ Pre acquisition hardening 
 Prior to capital deployment, the underwriting team identifies the yield to liquidity curve position of both entities. 
 - The midstream corridor sits at a moderate yield and slow liquidity position. 
 - The fabrication firm sits at low liquidity, high cyclicality.
 
 To engineer enduring liquidity, the midstream corridor is stabilized using a 12 year offtake contract extension with a tiered floor. This shifts 70 percent of revenue into predictable yield. The fabrication firm is placed under a cost restructuring plan that converts variable labor exposure into contract based labor blocks. These blocks sync with seasonal industrial demand cycles, reducing cash flow volatility by 38 percent.
 
-Phase 2: Capital Structure Engineering 
+
+ Capital Structure Engineering 
 The 175M allocation is structured into three liquidity corridors. 
 - 55M is allocated to long horizon structural capital with no forced exit. 
 - 70M is allocated to operational capital with predefined refinance windows at 48 and 72 months. 
@@ -103,15 +105,15 @@ The 175M allocation is structured into three liquidity corridors.
 
 To avoid leverage fragility, the platform utilizes an asset backed financing for businesses facility that secures operational liquidity against energy throughput rather than hard collateral. This allows the sovereign allocator to maintain control without traditional encumbrance.
 
-Phase 3: Asset Hardening Execution 
+
+ Asset Hardening Execution 
 The midstream corridor undergoes technical hardening. 
 - Pipeline integrity systems are replaced with predictive monitoring. 
 - Maintenance intervals are reduced from every 28 months to every 17 months. 
 - Insurance premiums are reduced after risk reclassification.
 
 The fabrication firm undergoes commercial hardening. 
-- Three anchor clients are converted into multiyear service agreements. 
-- A backlog of 48M is secured, reducing revenue volatility. 
+- - A backlog of 48M is secured, reducing revenue volatility. 
 - Supply chain dual sourcing reduces input cost spikes.
 
 Phase 4: Liquidity Extraction and Reinjection 

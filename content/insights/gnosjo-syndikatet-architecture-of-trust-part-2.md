@@ -15,7 +15,8 @@ This briefing outlines the architecture of trust that defines the Gnosjö operat
 
 This is the second chapter of The Gnosjö-Syndikatet series. The focus is the strategic mechanics of trust, the industrial cadence of Småland, and why this execution model outperforms any sophistication-driven alternative.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The global capital regime is pivoting from complexity-driven returns to stewardship-driven resilience. Markets remain liquid, but allocators increasingly encounter fragility in the capital stack. This fragility comes from:
 
@@ -40,7 +41,8 @@ Allocators seeking resilient deployment environments increasingly search for:
 
 Småland meets each attribute with measurable consistency. It outperforms complexity because it eliminates the need for complex risk pricing. Trust eliminates friction. Stewardship eliminates waste. Reliability replaces leverage.
 
-PHASE 2: TECHNICAL MECHANICS OF THE GNOSJÖ TRUST ARCHITECTURE
+
+ TECHNICAL MECHANICS OF THE GNOSJÖ TRUST ARCHITECTURE
 
 The architecture of trust in the Gnosjö region is not cultural decoration. It is an engineered operating system comparable to a manufacturing protocol. It functions through several technical components that collectively produce efficiency and long duration predictability.
 
@@ -67,7 +69,8 @@ Gnosjö companies rarely target liquidity events. They target succession stabili
 
 The aggregated effect is a system with extremely low volatility and high operational integrity. This system outperforms Wall Street because it was designed for real economy durability rather than speculative velocity.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 The role of Roials Capital is not to replicate the Gnosjö model. It is to identify the institutional architecture and translate its principles for allocators who require clarity while navigating modern market conditions. Our role is strategic navigation and institutional introduction, not asset solicitation.
 

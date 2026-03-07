@@ -13,7 +13,8 @@ The capital vacuum in developed markets is a structural consequence of regulator
 
 This briefing defines the mechanics of multi generational liquidity with the precision required by large allocators and family institutions managing century scale mandates. The objective is not promotion. The objective is clarity. Multi generational wealth is not a mystery. It is the outcome of industrial discipline, capital theology, and the precision application of Institutional Liquidity Paths across cycles.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current capital regime is shaped by three forces. First, the Western demographic inversion. Aging populations reduce organic entrepreneurial expansion, which reduces capital velocity. Second, regulatory friction. Compliance layers designed for the 2008 crisis now inhibit the mid market credit creation necessary for industrial continuity. Third, the destruction of operational competency. Industrial families once held the knowledge to manage assets through contraction cycles. This knowledge base has eroded.
 
@@ -21,7 +22,8 @@ The result is a systemic liquidity shortfall. Institutional allocators are incre
 
 Multi generational liquidity, therefore, cannot be understood through financialized constructs alone. It must be anchored in real asset physics, operational intelligence, and jurisdictional durability. The allocator who navigates this regime needs a framework that merges European industrial heritage with North American resource depth. This is the structural foundation of liquidity that lasts beyond a single generation.
 
-PHASE 2: TECHNICAL MECHANICS OF MULTI GENERATIONAL LIQUIDITY
+
+ TECHNICAL MECHANICS OF MULTI GENERATIONAL LIQUIDITY
 
 Multi generational liquidity is not cash. It is not yield. It is not diversification. It is a system of capital continuity engineered across four domains.
 
@@ -39,7 +41,8 @@ Every enduring family institution evolves into one of three archetypes. The oper
 
 These mechanics form the backbone of any credible multi generational capital thesis. The allocator seeking longevity must internalize them as operating principles rather than abstract theory.
 
-PHASE 3: THE PARTNERSHIP MODEL AND STRATEGIC NAVIGATION
+
+ THE PARTNERSHIP MODEL AND STRATEGIC NAVIGATION
 
 As capital environments fragment, the allocator requires a partner capable of navigating multiple domains. Roials Capital operates as a strategic navigator for institutional families, ensuring alignment between the liquidity architecture and real asset intelligence. In the North American energy domain, NAEO functions as the institutional grade partner due to its operational fluency in Alberta heavy oil, thermal recovery methods, and decline curve engineering.
 
@@ -66,9 +69,7 @@ Multi generational liquidity therefore requires a stewardship filter. Every allo
 
 PHASE 5: THE ALLOCATOR'S DECISION LENS
 
-In a fragmented capital world, the allocator requires a decision lens grounded in operational truth. Three questions define the path forward.
-
-1. Does the current portfolio have jurisdictional redundancy that protects against geopolitical and regulatory shifts. 
+In a fragmented capital world, the allocator requires a decision lens grounded in operational truth. 1. Does the current portfolio have jurisdictional redundancy that protects against geopolitical and regulatory shifts. 
 2. Are core assets sufficiently hardened to serve as anchors for future liquidity cycles. 
 3. Is the liquidity architecture engineered or incidental. 
 

@@ -35,7 +35,6 @@ The founder becomes a plumb line. A calibration rod. A reference standard.
 
 Remove such a man from the daily grind and the institution still stands upright because the architecture has already internalised his doctrine. That is the sovereign method for dissolving key‑man risk in a founder‑led platform.
 
-Three words.  
 Principles. Over. Persona.
 
 This is not sentiment. It is structural engineering.

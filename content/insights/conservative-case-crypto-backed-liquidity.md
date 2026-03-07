@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, Strategic Collateralization, asse
 
 The liquidity displacement observed in global credit markets is a consequence of structural balance sheet contraction, not speculative innovation. Digital collateral enters this environment not as a novelty, but as an operational solution to a widening institutional funding gap. The conservative allocator now evaluates crypto backed liquidity not through sentiment, but through mechanics that mirror established secured lending structures.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Institutional allocators navigating 2026 operate within a tri polar credit environment defined by three forces.
 
@@ -26,7 +27,8 @@ Digital assets have matured into balance sheet instruments with transparent on c
 
 This regime shift produces a simple reality. Liquidity demand is rising. Conventional balance sheet supply is not. The gap is filled by institutions capable of integrating alternative collateral types without regulatory drag. This is not a speculative thesis. It is a structural adjustment.
 
-PHASE 2: TECHNICAL MECHANICS OF CRYPTO BACKED LIQUIDITY
+
+ TECHNICAL MECHANICS OF CRYPTO BACKED LIQUIDITY
 
 A crypto collateralized liquidity line is functionally similar to a secured borrowing facility, but with operational differences that enhance collateral visibility and liquidation efficiency. The conservative allocator evaluates five mechanical pillars.
 
@@ -80,7 +82,8 @@ The allocator observes that the primary function is not speculation, but Monetiz
 
 The conservative case emerges from this mechanics driven evaluation. When properly governed, crypto backed credit operates as an over collateralized system with deterministic liquidation. The risk is not theoretical. It is quantifiable.
 
-PHASE 3: ROIALS CAPITAL AND THE PARTNERSHIP MODEL
+
+ ROIALS CAPITAL AND THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator linking balance sheet constrained operators, private credit structures, and digital collateral providers. The positioning is neutral. The role is not to promote a product, but to curate alignment between institutional archetypes.
 

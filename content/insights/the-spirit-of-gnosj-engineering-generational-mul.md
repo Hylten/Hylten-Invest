@@ -198,8 +198,6 @@ The Spirit is not geography.
 It is doctrine. 
 Doctrine can scale anywhere. 
 
-Three translation principles are required.
-
 ### 1. Convert Moral Infrastructure into Operational Standards
 
 The covenant ethos becomes: 

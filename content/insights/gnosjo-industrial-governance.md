@@ -11,8 +11,6 @@ Authority begins with trust. Real trust. Earned in the forge. Held by covenant. 
 *"He that is faithful in that which is least is faithful also in much."*
 - Luke 16:10
 
-Three dynamics define the architecture.
-
 First. High-trust governance scales only when the Principal remains visible. Seen. Known. Accountable. Absent Principals create drift. Drift becomes entropy. Entropy kills the covenant. Gnosjö held the line by presence. By witness. Industrial discipline anchored in moral clarity.
 
 Second. The moral authority of capital flows from purpose, not posture. Capital must serve creation, not extraction. Build things. Repair what is broken. Strengthen the next generation. The free market is not a theory; it is a discipline. It rewards truth. It destroys pretense. Markets lift communities because they insist on value creation, not dependency. Duty is the flywheel.

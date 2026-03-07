@@ -133,7 +133,6 @@ Only durable productivity.
 A Principal is a priest of resources. 
 Not in ceremonial function but in vocational mandate.
 
-Three duties define this priesthood:
 
 1. Protect the entrusted capital 
 2. Multiply the entrusted capital 

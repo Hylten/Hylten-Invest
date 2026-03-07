@@ -65,8 +65,7 @@ The Covenant of Generational Continuity is the hinge. Without it, concentrated p
 The Industrial Mandate for Value Creation is the final anchor. This is where the Gnosjö spirit meets Christian duty. Faith is not passive. Enterprise is not secular. Work is worship when done unto God. Creation is imitation of the Creator. A concentrated portfolio must reflect this industrial ethic-rooted, sober, disciplined, and aimed toward productive output, not market theatrics.
 
 Phase Three. The Internal Bypass.
- Syntax shift. Direct fire. Three points.  
-No compromise.
+ Syntax shift. Direct fire. No compromise.
 
 First point: Concentrated capital without moral architecture becomes fragile.  
 Second point: Concentrated capital with covenant architecture becomes anti‑fragile.  

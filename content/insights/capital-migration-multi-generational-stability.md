@@ -13,7 +13,8 @@ The capital vacuum in North American energy markets is a regulatory and institut
 
 This briefing addresses capital migration as a strategic discipline. It outlines the macro regime shift, the technical mechanics defining Alberta's heavy oil environment, the partnership architecture with Roials Capital and its strategic partner NAEO, and the stewardship framework informed by the European industrial ethos and the Spirit of Gnosjö. The intent is not promotion. The intent is institutional clarity for allocators who manage the burdens and privileges associated with enduring family capital.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The post 2020 capital cycle introduced a structural imbalance in the energy sector. Western capital providers shifted aggressively toward policy aligned renewables, not from an evaluation of risk weighted returns, but from reputational calculus and regulatory pressure. This migration produced three quantifiable distortions:
 
@@ -27,7 +28,8 @@ This is the environment where private capital with disciplined frameworks gains 
 
 European capital has historically sought stability through diversification and fiat denominated financial instruments. In the current regime, those instruments exhibit duration risk, counterparty fragility, and policy intervention vulnerability. Real asset backed exposures, governed by subsurface physics rather than political cycles, offer a different stability vector.
 
-PHASE 2: TECHNICAL MECHANICS OF THE ALBERTA HEAVY OIL ENVIRONMENT
+
+ TECHNICAL MECHANICS OF THE ALBERTA HEAVY OIL ENVIRONMENT
 
 Institutional clarity requires technical specificity. Alberta's heavy oil reservoirs are uniquely suited for long horizon capital because they adhere to stable recovery dynamics. These assets are not speculative. They operate within definable engineering parameters.
 
@@ -54,7 +56,8 @@ These mechanics matter not because they promise returns, but because they reduce
 
 Within this technical environment, the strategic partner NAEO applies a disciplined operational framework. The organization focuses exclusively on Alberta heavy oil, leveraging long term field experience, real time data integration, and reservoir specific optimization. NAEO aligns with the institutional archetype. It favors operational discipline over expansionist ambition and utilizes predictable recovery factors as the foundation for structured growth.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator and institutional introducer. The role is not asset management. The role is clarity, structuring, and alignment. In the Alberta energy environment, NAEO is the operational counterpart that meets institutional thresholds for technical credibility, governance alignment, and forward planning discipline.
 

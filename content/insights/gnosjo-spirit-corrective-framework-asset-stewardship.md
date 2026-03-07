@@ -13,9 +13,7 @@ The structural gap emerging across global capital allocation systems is not a fu
 
 PHASE 1. THE REGIME SHIFT
 
-Institutional allocators are now operating within a market defined by multipolar fragmentation of credit channels, regulatory divergence, and supply chain regionalization. The outdated presumption that global liquidity flows with uniform rhythm has collapsed. Three structural pressures dominate the regime shift.
-
-1. The capital vacuum in foundational industries. 
+Institutional allocators are now operating within a market defined by multipolar fragmentation of credit channels, regulatory divergence, and supply chain regionalization. The outdated presumption that global liquidity flows with uniform rhythm has collapsed. 1. The capital vacuum in foundational industries. 
  North America is experiencing a liquidity deficit across energy, infrastructure, and advanced manufacturing. This is not due to diminishing resource quality. It is rooted in inconsistent regulatory signaling, ESG driven capital constraints, and the retreat of banks from non standardized cash flow profiles.
 
 2. The misalignment between hedge fund style capital and industrial cycle capital. 

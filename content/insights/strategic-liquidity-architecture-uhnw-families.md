@@ -13,7 +13,8 @@ The structural gap in global private wealth management in 2026 is not a shortage
 
 The counter intuitive truth is clear. The families that preserved and expanded their capital during the last three volatility cycles were not those with the highest risk appetite, but those who engineered liquidity with the same discipline used to engineer industrial assets. Liquidity architecture has become a technical discipline, not an investment style. The European industrial tradition has always understood this principle. Capital is a tool, not a windfall. It must be structured for endurance.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current macro environment is defined by three converging dynamics that re write the liquidity expectations for UHNW families. First, global credit compression has increased the cost of short term liquidity and has intensified the premium on balance sheet optionality. Central bank liquidity is no longer a given. Liquidity has returned to its natural state as a scarce resource.
 
@@ -23,7 +24,8 @@ Third, geopolitical realignment has reshaped the decision making framework for s
 
 The current regime rewards liquidity infrastructures that are independent of market volatility, shaped by strategic relationships, and backed by operational intelligence rather than financial engineering alone. Roials Capital operates within this environment as an institutional navigator, aligning families with the highest utility liquidity opportunities and counterparties.
 
-PHASE 2: TECHNICAL MECHANICS OF Monetization Architecture
+
+ TECHNICAL MECHANICS OF Monetization Architecture
 
 Effective liquidity architecture requires precision. UHNW balance sheets often contain a mosaic of operating companies, real assets, structured notes, legacy banking relationships, and cross continental holdings. The architecture must treat liquidity not as an event but as a system.
 
@@ -53,7 +55,8 @@ The most resilient liquidity architectures incorporate private credit relationsh
 6. Liquidity governance 
 Liquidity structures fail when governance is informal. Governance must include liquidity stress testing, tranching of distributions, pre authorized capital calls, and scenario modeling for jurisdictional risk. This transforms liquidity from ad hoc decision making into institutional discipline.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator, not an asset originator or fund manager. The mandate is alignment, not allocation. The responsibility is to create clarity in complex capital environments and introduce families to the counterparties that match their liquidity archetype.
 

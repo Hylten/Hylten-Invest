@@ -29,8 +29,6 @@ Below is the architecture.
 
 The question is not how Gnosjö survived. The question is why its principles now form the ideal governance system for post‑automation industrial SMEs.
 
-Three pillars define the inner mechanics.
-
 1. Covenant over Contract  
 2. Stewardship over Consumption  
 3. Decentralized Workmanship over Centralized Entitlement  

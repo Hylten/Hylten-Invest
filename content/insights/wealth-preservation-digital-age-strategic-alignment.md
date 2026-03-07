@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in the digital age is not driven by technological disruption. It is driven by the erosion of stewardship disciplines that once governed European industrial families and North American generational enterprises. Wealth preservation has become more exposed to regime shifts because digital markets accelerate volatility while reducing the signal-to-noise ratio required for long-term decision making. The allocator who interprets this regime through a stewardship lens gains structural clarity in an environment where many rely on momentum rather than conviction.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Wealth preservation in 2026 operates within a fractured macro architecture. Capital concentration in algorithmic markets has intensified. Monetary regimes oscillate between restrictive liquidity and forced easing. Interconnected geopolitical systems create nonlinear shocks. In this environment, traditional safe harbors are no longer guaranteed. The allocator cannot rely on the heuristics that governed post-2008 wealth strategies. The new landscape is defined by three structural drivers.
 
@@ -23,7 +24,8 @@ Wealth preservation in 2026 operates within a fractured macro architecture. Capi
 
 These forces create a new type of exposure. Wealth is not eroded because the assets are inferior. Wealth is eroded because decision velocity is mismatched with market velocity. Stewardship must be re-engineered as an operational discipline rather than a philosophical aspiration.
 
-PHASE 2: TECHNICAL MECHANICS OF DIGITAL AGE WEALTH PRESERVATION
+
+ TECHNICAL MECHANICS OF DIGITAL AGE WEALTH PRESERVATION
 
 Preserving generational capital in the digital era requires technical mechanics that stabilize the balance sheet. These mechanics function as industrial-grade disciplines rather than theoretical frameworks.
 
@@ -57,7 +59,8 @@ Generational wealth requires the discipline to act with speed when genuine dislo
 
 This discipline filters out the noise. It ensures that capital is deployed with conviction rather than reaction.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator and institutional introducer. In the digital age, allocators require two complementary structures: macro signal interpretation and micro operational intelligence. Roials Capital does not operate as the asset owner. The role is to align the allocator with the appropriate institutional archetypes based on their mission, risk structure, and generational objectives.
 

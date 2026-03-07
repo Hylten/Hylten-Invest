@@ -29,7 +29,8 @@ The covenant before the corporation.
 
 This is not nostalgia. This is design.
 
-PHASE 1: INTERNAL LOGIC  
+
+ INTERNAL LOGIC  
 PRIVATE PRINCIPAL BRIEFING  
 Vault-Sealed – Not for public distribution
 
@@ -224,7 +225,8 @@ The theology of capital shapes strategy in five decisive operational domains:
 
 This is how empires endure.
 
-PHASE 2: PRINCIPAL VOICE  
+
+ PRINCIPAL VOICE  
 A Principal states.  
 A Principal does not justify.
 
@@ -240,7 +242,8 @@ Principled families endure.
 The moral architecture of capital decides everything.  
 Everything.
 
-PHASE 3: SYNTAX VARIATION – MACHINE GUN + FULL ANALYSIS  
+
+ SYNTAX VARIATION – MACHINE GUN + FULL ANALYSIS  
 The era of passive wealth is over.  
 Over.  
 Finished.

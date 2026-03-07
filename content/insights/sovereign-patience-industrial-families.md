@@ -13,7 +13,8 @@ The families who endure understand something simple. Capital grows when characte
 
 I present the following as an internal briefing. Not a sermon. Not a manifesto. A structural analysis of what actually distinguishes families with one-hundred-year balance sheets from those who flash, shimmer, collapse, and disappear.
 
-Phase 1: Internal Logic
+
+ Internal Logic
 
 The long horizon is not a luxury. It is the sovereign architecture of industrial continuity. Those who cultivate intergenerational patience do not merely survive volatility; they absorb it, metabolize it, and turn it into compounding strategic advantage. You asked for empirical grounding. The data is unambiguous when properly disaggregated across jurisdictions, epochs, and industrial sectors. I treat it here as a ledger of truth, not an academic exercise.
 

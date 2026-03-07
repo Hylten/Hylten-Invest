@@ -13,7 +13,8 @@ The capital vacuum within North American and European private credit is not a sy
 
 This briefing is designed for allocators who prioritize durability over excitement. It is written as a partner in strategic alignment, not as an issuer of product. The focus is clarity. The intent is stewardship. The objective is to define how an allocator can institutionalize protection around their balance sheet by anchoring exposure to real collateral, real utility, and real enforceability rather than speculative narratives.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Private credit has entered a regime defined by structural constraint rather than cyclical fluctuation. European banks face tightened capital adequacy requirements. North American mid sized lenders remain impaired by duration mismatches inherited from the 2020 to 2022 monetary cycle. Commercial real estate liquidity remains fractured. Conventional corporate lending continues to retreat.
 
@@ -27,7 +28,8 @@ Third, allocators seeking wealth protection rather than aggressive compounding n
 
 This is the central regime shift. The allocator who understands the gap between hard collateral utility and lender availability gains a protective instrument that did not exist fifteen years ago.
 
-PHASE 2: TECHNICAL MECHANICS OF INSTITUTIONAL GRADE Asset-Based Lending
+
+ TECHNICAL MECHANICS OF INSTITUTIONAL GRADE Asset-Based Lending
 
 True asset based lending is not a marketing term. It is a discipline. It is defined by quantifiable collateral physics, verifiable liquidation pathways, and strict controls around custody, valuation, and operational use.
 
@@ -69,7 +71,8 @@ Opportunity Velocity
 
 Asset-Based Lending creates optionality. Because capital is senior, collateral backed, and short duration, the allocator maintains velocity. Capital can be redeployed into new structures without being trapped in multiyear illiquid commitments. This agility is increasingly valuable as geopolitical and monetary environments shift unpredictably.
 
-PHASE 3: THE PARTNERSHIP MODEL WITH ROIALS CAPITAL
+
+ THE PARTNERSHIP MODEL WITH ROIALS CAPITAL
 
 Roials Capital operates as a strategic navigator. The objective is not to manufacture exposure. It is to introduce allocators to verified, institutional grade operators whose practices conform to conservative collateral discipline.
 

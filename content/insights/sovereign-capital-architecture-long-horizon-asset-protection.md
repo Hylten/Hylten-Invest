@@ -13,11 +13,10 @@ The capital vacuum inside Western economies is a function of allocation misalign
 
 The current regime requires a structural lens that integrates theology of capital, industrial realism, and the operational mechanics of hard asset ecosystems. The objective is not acceleration. The objective is calibration. This briefing outlines the core principles of sovereign capital architecture, the necessary conditions for long horizon protection, and the strategic role of Roials Capital as a navigator for allocators seeking orientation inside a fractured global capital landscape.
 
-PHASE 1: THE REGIME SHIFT
 
-The global capital regime entered a transition period between 2020 and 2025. The transition is not cyclical. It is structural. Three forces define the new operating environment.
+ THE REGIME SHIFT
 
-1. Capital fragmentation. The global cost of capital diverged across blocs. United States private credit markets continued to deepen. Europe faced regulatory compression. Asia accelerated state anchored credit formation. Families and institutions that historically relied on a unified cost of capital environment now operate across discontinuities.
+The global capital regime entered a transition period between 2020 and 2025. The transition is not cyclical. It is structural. 1. Capital fragmentation. The global cost of capital diverged across blocs. United States private credit markets continued to deepen. Europe faced regulatory compression. Asia accelerated state anchored credit formation. Families and institutions that historically relied on a unified cost of capital environment now operate across discontinuities.
 
 2. Physical asset revaluation. Hard asset ecosystems including energy, industrial infrastructure, logistics, real estate, and agricultural land shifted back into strategic primacy. The market valuation of physical throughput capacity began to exceed digital yield structures that dominated the previous cycle.
 
@@ -25,7 +24,8 @@ The global capital regime entered a transition period between 2020 and 2025. The
 
 The implication is precise. Capital is no longer rewarded for velocity. It is rewarded for resilience. [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) is no longer a peripheral discipline. It is core infrastructure. Asset hardening is no longer a defensive tactic. It is a strategic baseline. The allocators that succeed in this regime are those who treat capital not as an instrument but as an inheritance.
 
-PHASE 2: TECHNICAL MECHANICS OF SOVEREIGN CAPITAL ARCHITECTURE
+
+ TECHNICAL MECHANICS OF SOVEREIGN CAPITAL ARCHITECTURE
 
 Sovereign capital architecture requires three simultaneous layers of discipline. Structural. Operational. Theological. These layers are not philosophical. They are mechanical. Each creates the necessary boundary conditions for multi generational durability.
 
@@ -67,7 +67,8 @@ Theology of capital is not metaphorical. It is a practical operating system root
 
 When these three disciplines converge the family or institutional principal operates with sovereign integrity. The architecture becomes durable across regimes.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a navigator rather than an operator. The mandate is orientation, calibration, and introduction. The partnership model is built on three pillars.
 

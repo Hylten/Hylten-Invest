@@ -12,7 +12,6 @@ The mandate is simple. Guard the commons. Expand the inheritance. Strengthen the
 
 Nordic communitarianism thrives because it demands contribution. No passenger seats. Every individual carries weight. Every firm takes responsibility for its own moral perimeter. That discipline transfers cleanly into institutional stewardship. It sharpens governance. It eliminates vanity. It aligns capital with purpose.
 
-Three truths anchor the mandate:
 
 • Communitarian order requires moral authority. Not slogans. Behaviour.  
 • Free enterprise is the engine; stewardship is the governor.  

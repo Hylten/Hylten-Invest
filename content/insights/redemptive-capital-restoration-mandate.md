@@ -28,7 +28,6 @@ This is the industrial cycle our forefathers understood instinctively.
 Forge. Produce. Employ. Preserve.  
 No spectacle. No noise. Only work.
 
-Three directives.  
 Redemptive Capital repairs what central planning erodes.  
 Redemptive Capital restores what speculation neglects.  
 Redemptive Capital expands the moral frontier of free enterprise.

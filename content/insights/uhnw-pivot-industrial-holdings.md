@@ -37,7 +37,8 @@ Vault language.
 Principal to Principal.
 
 =====  
-PHASE 1: INTERNAL LOGIC  
+
+ INTERNAL LOGIC  
 =====
 
 The first truth: short-horizon private equity is structurally incompatible with stewardship.  
@@ -137,7 +138,8 @@ This is the pivot.
 This is the reason.
 
 =====  
-PHASE 2: PRINCIPAL VOICE  
+
+ PRINCIPAL VOICE  
 =====
 
 Short sentences now.  

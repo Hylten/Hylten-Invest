@@ -15,7 +15,8 @@ The capital vacuum across European mid market industrial assets is a function of
 Counter Intuitive Truth:
 The most resilient European assets in 2026 are not the highly financialized technology firms, but the industrial operators with measurable production physics, verifiable asset wear curves, and predictable reinvestment cycles. These are the entities most capable of asset hardening when supported by disciplined Asset-Backed Frameworks rather than speculative valuation frameworks.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The European industrial economy is experiencing a structural regime shift that allocators cannot ignore. The macro drivers are measurable:
 
@@ -32,7 +33,8 @@ This creates the regime shift window: A moment where operationally strong indust
 
 Asset hardening becomes the corrective discipline. It transforms under optimized assets into institutional grade holdings without altering the operational identity of the company. The Hylten Invest Model was constructed to address this structural misalignment.
 
-PHASE 2: THE TECHNICAL MECHANICS OF THE HYLTEN INVEST MODEL
+
+ THE TECHNICAL MECHANICS OF THE HYLTEN INVEST MODEL
 
 The Hylten Invest model is built on three technical pillars:
 
@@ -82,7 +84,8 @@ Stewardship governance requires:
 
 Scripture affirms this discipline. Proverbs 13:22 articulates the principle: A good person leaves an inheritance to their children's children. This is not sentiment. It is a framework for responsible capital action.
 
-PHASE 3: THE PARTNERSHIP MODEL AND ROIALS CAPITAL ALIGNMENT
+
+ THE PARTNERSHIP MODEL AND ROIALS CAPITAL ALIGNMENT
 
 Roials Capital operates as the strategic navigator and institutional alignment partner within the global allocator ecosystem. The firm does not replace operational leadership. It does not impose a new identity on an industrial asset. It performs the role of structural interpreter.
 
@@ -102,7 +105,6 @@ PHASE 4: THE STEWARDSHIP FILTER
 
 Stewardship is the filter that protects capital from misapplication. It is the discipline that prevents waste. Waste is the enemy of generational capital. Capital must compound across time to fulfill its purpose. Stewardship aligns capital with moral responsibility.
 
-Three elements define the Stewardship Filter:
 
 1. Non Wasteful Resource Management 
 Capital must be allocated to productive assets, not speculative vehicles. Every allocation must yield durable utility. The steward does not chase abstractions. The steward reinforces reality.

@@ -75,7 +75,8 @@ These mechanisms convert generational stewardship from a leadership ideal into a
 
 To illustrate how generational stewardship structurally aligns with capital formation and operational resilience, consider a simulated 180 million acquisition of a mid sized NAEOC energy infrastructure operator in the southern United States. The asset generates 28 million EBITDA with 62 percent recurring maintenance contracts across regional utilities.
 
-Phase 1: Capital Formation and Institutional Liquidity Paths
+
+ Capital Formation and Institutional Liquidity Paths
 
 Capital raising for mid market buyout deals of this category often requires cross jurisdictional syndication. The capital stack is structured through:
 
@@ -93,7 +94,8 @@ The liquidity corridors are engineered using a three tier structure.
 
 The yield to liquidity curve is modeled across a 10 year operating horizon, incorporating equipment maintenance cycles, regulatory transformation under evolving US energy standards, and potential supply chain disruptions.
 
-Phase 2: Asset Hardening and Stewardship Integration
+
+ Asset Hardening and Stewardship Integration
 
 The next stage involves hardening the asset for multi generational transfer. The protocol includes:
 
@@ -104,7 +106,8 @@ The next stage involves hardening the asset for multi generational transfer. The
 
 By integrating energy infrastructure modernization with governance hardening, the portfolio company gains resilience that exceeds conventional mid market buyout parameters.
 
-Phase 3: Stewardship Governance Implementation
+
+ Stewardship Governance Implementation
 
 A stewardship aligned governance architecture is deployed immediately after acquisition. It is structured as follows:
 

@@ -29,7 +29,7 @@ A house with moral authority becomes immovable. Markets bend to it.
 European industrial discipline.  
 North American drive.  
 The Protestant ethic as operational doctrine.  
-Three strands. One cord. Unbreakable.
+One cord. Unbreakable.
 
 Identity-based capital forms a competitive perimeter others cannot cross.  
 You cannot counterfeit conviction.  

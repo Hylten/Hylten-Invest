@@ -13,7 +13,8 @@ The capital vacuum in North America’s real-asset ecosystem is an outcome of po
 
 The current regime is defined by a shift from index-driven abundance to an environment where capital scarcity defines pricing power across real assets. Family offices with generational identity are repositioning toward stewardship-based frameworks that prioritize asset hardening, Asset-Backed Frameworks, and continuity of mandate. These principles align closely with the Nordic industrial ethic that shaped the Spirit of Gnosjö: responsibility first, efficiency second, profit as the byproduct rather than the mission. Proverbs 13:22. A good man leaves an inheritance to his children's children.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The global capital cycle has transitioned into a structurally different configuration. The cost of liquidity has increased, regulatory oversight has tightened across European financial centers, and the velocity of institutional risk rotation has accelerated. Legacy-driven allocators now face three macro pressures.
 
@@ -39,7 +40,8 @@ The Alberta energy ecosystem belongs to the Strategic Archetype. While volatilit
 
 Family offices with a legacy outlook increasingly recognize that the environment rewards patient capital willing to look beyond quarterly sentiment.
 
-PHASE 2: TECHNICAL MECHANICS OF LEGACY ANCHORED ENERGY ALLOCATION
+
+ TECHNICAL MECHANICS OF LEGACY ANCHORED ENERGY ALLOCATION
 
 North American heavy oil remains misunderstood within generalist capital circles. The operational physics are not aligned with the sentiment-driven interpretation seen in public markets. The Alberta basin, particularly in thermal recovery regions, behaves with repeatable technical characteristics that lend themselves to long-dated allocation frameworks.
 
@@ -76,7 +78,8 @@ The structural arbitrage in this environment comes from the intersection of:
 
 When capital retreats due to macro sentiment rather than reservoir fundamentals, the opportunity becomes one of Capital Structuring rather than directional commodity exposure.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator and institutional introducer. The objective is not asset promotion but alignment. The family offices we engage with require intelligence, clarity, and structural navigation, not distribution.
 

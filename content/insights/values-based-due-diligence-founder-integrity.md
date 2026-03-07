@@ -13,10 +13,9 @@ The center of capital is character. Always has been. Always will be. In the indu
 
 Internal logic first. Sovereign architecture second. Everything else downstream.
 
-PHASE 1: INTERNAL LOGIC - SECURED BRIEFING  
-This is not a public memo. This is a 
-Three truths drive the architecture.
 
+ INTERNAL LOGIC - SECURED BRIEFING  
+This is not a public memo. This is a 
 Truth One: Moral authority compounds faster than capital.  
 Truth Two: A dishonest founder collapses value at a speed no model can hedge.  
 Truth Three: Stewardship is not a virtue; it is a diagnostic.
@@ -39,7 +38,8 @@ Across the Scandinavian forges and North American workshops that shaped our etho
 Machine gun clarity.   Character first. Competence second. Capacity third.  
 Covenant always.
 
-PHASE 2: PRINCIPAL VOICE - THE METHOD
+
+ PRINCIPAL VOICE - THE METHOD
 
 I present the architecture as it is used. Clean, unembellished, sovereign.
 
@@ -162,7 +162,8 @@ The founder who keeps covenant in obscurity will keep covenant in prosperity.
 That is the entire risk model.  
 Truth precedes scaling.
 
-PHASE 3: INTERNAL BYPASS - EXTENDED ANALYSIS AND SYNTHESIS
+
+ INTERNAL BYPASS - EXTENDED ANALYSIS AND SYNTHESIS
 
 Now the structural integration. Depth, jurisdictional dynamics, lineage.
 

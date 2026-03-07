@@ -65,10 +65,6 @@ It is driven by design, not reaction.
 
  
 
-Three structural pillars form the architecture.
-
- 
-
 Liquidity Extraction. 
 
 Risk Dispersion. 

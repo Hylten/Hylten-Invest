@@ -15,7 +15,8 @@ I write this from the vantage point of stewardship rather than opportunism. My f
 
 What follows is an institutional briefing on the architecture of trust as a capital regime, a structural mechanic, and a stewardship mandate.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 A shift in trust dynamics precedes every credit cycle. Most institutions misread this. They treat trust as a reputational variable rather than a structural one. This is the first error. Trust behaves like a liquidity coefficient. It either tightens or loosens the system.
 
@@ -38,7 +39,8 @@ We see three inefficiencies dominating the current environment.
 
 The greatest inefficiency is the second. The market has no framework for pricing stewardship capacity. It only prices collateral. This creates opportunity for investors with a generational mandate. Stewardship is a long horizon asset. The market treats it as a non-existent variable.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Trust becomes operational inside the mechanics of a credit model. It is quantifiable. It sits inside curves and waterfalls. It is not abstract theology. It is structural risk weighting.
 
@@ -61,7 +63,8 @@ Institutions that fail to engineer trust into their models degrade their own int
 
 Trust, when architected, removes friction. This is its technical purpose.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 Our model is anchored in stewardship. It is not an efficiency fetish. It is a generational mandate. The Spirit of Gnosjö taught our region that capital is not a private commodity. It is a communal inheritance. Wealth creation was never designed to be extractive. It was designed to be fruit-bearing.
 

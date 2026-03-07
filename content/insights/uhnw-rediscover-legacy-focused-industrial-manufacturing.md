@@ -24,8 +24,6 @@ The covenant begins with something you can drop on your foot.
 *"Through wisdom is an house builded; and by understanding it is established."*  
 - Proverbs 24:3
 
-Three forces drive the return.
-
 First. Tangibility.  
 Not sentimentality.  
 Anchoring.  

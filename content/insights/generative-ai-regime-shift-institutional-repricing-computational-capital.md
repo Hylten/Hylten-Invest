@@ -13,7 +13,8 @@ The capital vacuum surrounding generative AI is the predictable result of infras
 
 This briefing defines the structural regime shift, the operational mechanics of generative AI as an investable domain, and the stewardship filters that govern responsible capital deployment into a sector dominated by speed, opacity, and hype velocity. The lens is technical, grounded in the Nordic discipline of industrial stewardship and the Spirit of Gnosjö, where capital is treated as vocation rather than spectacle. The objective is clarity that enables calibrated institutional decision making.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The generative AI sector has entered a capital regime defined by three concurrent forces:
 
@@ -43,7 +44,8 @@ Traditional equity risk frameworks are not designed for asset classes that combi
 
 This is not a technology cycle. It is an industrial realignment that merges compute, grid architecture, and data sovereignty into a single capital marketplace.
 
-PHASE 2: TECHNICAL MECHANICS OF GENERATIVE AI AS AN INVESTABLE DOMAIN
+
+ TECHNICAL MECHANICS OF GENERATIVE AI AS AN INVESTABLE DOMAIN
 
 Understanding the investable mechanics of generative AI requires separating signal from noise. The relevant asset classes differ materially in risk, return profile, and operational exposure. The institutional allocator must categorize exposures into four structural pillars.
 
@@ -98,11 +100,11 @@ Generative AI ROI is governed by computational arithmetic. Training costs can ri
 
 Generative AI capital flows hinge on asset hardening. Models deteriorate without continuous retraining. Deployment costs increase when hardware supply fluctuates. The entire sector resembles heavy industry disguised as digital innovation.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as strategic navigator and institutional introducer across emergent computational sectors. The role is not to promote product. The role is to provide allocators with situational intelligence, jurisdictional context, and alignment architecture.
 
-Three functions define the partnership model:
 
 1. Strategic Alignment 
 Institutional capital requires precision allocation frameworks that - Regulatory risk vectors.

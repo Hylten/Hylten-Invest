@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum within North American energy infrastructure is the product of regulatory drift and legacy divestment mandates, not a depletion of high quality reserves. The allocator that understands this distinction recognizes that capital preservation in the current regime depends less on risk dispersion and more on structural positioning within assets that exhibit predictable physics, long dated production horizons, and measurable subsurface integrity. Preserving capital today is not a matter of defensive posture. It is a matter of choosing institutional structures that neutralize uncertainty.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The global capital environment entered a new cycle in 2022 when liquidity became selective and the low duration, low volatility assets traditionally favored by institutions no longer provided real capital protection. The shift was marked by three irreversible forces.
 
@@ -23,7 +24,8 @@ The global capital environment entered a new cycle in 2022 when liquidity became
 
 These regime elements replaced the prior allocator playbook. Preservation is no longer achieved through government bonds or global index exposure. Preservation is structural. It is engineered within assets that are tangible, operationally validated, and insulated from rapid policy shocks.
 
-PHASE 2: TECHNICAL MECHANICS OF CAPITAL PRESERVATION
+
+ TECHNICAL MECHANICS OF CAPITAL PRESERVATION
 
 Capital preservation requires mechanical clarity. When analyzing North American energy, particularly heavy oil assets within Alberta, the structural advantages are grounded in physics rather than macro speculation. These advantages convert geologic certainty into balance sheet stability.
 
@@ -61,7 +63,8 @@ Preservation requires operational intelligence, not merely financial oversight. 
 
 3. Structured Development Cycles. NAEO operates within defined development sequences that eliminate speculative drilling and focus exclusively on producing assets. This stabilizes cash flow and aligns with institutional time horizons.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as an institutional introducer and strategic navigator. The objective is not to sell exposure, but to structure clarity. Capital preservation requires disciplined alignment between allocator objectives, basin characteristics, and operational capabilities.
 

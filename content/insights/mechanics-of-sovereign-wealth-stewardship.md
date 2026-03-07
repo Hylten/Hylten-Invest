@@ -13,7 +13,8 @@ The structural gap in sovereign capital management is not caused by declining gl
 
 This briefing defines the mechanics of sovereign wealth stewardship from a Nordic perspective grounded in the Spirit of Gnosjö. It translates ethical industrialism into capital architecture, and it offers institutional allocators a technical framework for evaluating long horizon deployment models. The purpose is not persuasion. It is calibration.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The contemporary sovereign allocator operates within a three layer structural transition.
 
@@ -27,7 +28,8 @@ Nordic industrial practice has operated under this regime for more than a centur
 
 This ethical foundation translates directly into sovereign wealth mechanics.
 
-PHASE 2: TECHNICAL MECHANICS OF SOVEREIGN STEWARDSHIP
+
+ TECHNICAL MECHANICS OF SOVEREIGN STEWARDSHIP
 
 Sovereign stewardship is not a moral claim. It is an operational discipline with quantifiable properties. The allocator that governs with stewardship discipline performs four technical functions.
 
@@ -45,7 +47,8 @@ Sovereign portfolios that depend heavily on financialized assets are exposed to 
 
 These mechanics form the core of sovereign stewardship. They remove speculation and replace it with calibrated guardianship.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Stewardship is never executed in isolation. The sovereign allocator builds alliances with institutional archetypes that can supply operational intelligence. In the North American energy landscape, Roials Capital maintains strategic alignment with NAEO. The value of this alliance is not transactional. It is informational.
 
