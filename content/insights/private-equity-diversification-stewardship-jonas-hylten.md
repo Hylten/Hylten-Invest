@@ -112,7 +112,7 @@ It is a calibrated optimizer.
 
 Private Credit Mechanics Private credit has transitioned from a supplementary allocation to a structural 
 
-### Pillar D: ue to regulatory displacement in the banking system
+# Pillar D: ue to regulatory displacement in the banking system
 
 .
 

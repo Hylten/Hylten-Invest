@@ -16,7 +16,7 @@ For families with multi generational enterprises, this dislocation defines the n
 
 Asset Based Lending, when structured with precision and stewarded under a disciplined framework, becomes a mechanism for legacy continuity rather than leverage expansion. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -62,7 +62,7 @@ They are seeking instruments that align liquidity with stewardship.
 
 Asset Based Lending becomes the anchor because it respects the hierarchy of real assets, operational continuity, and prudential control. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -110,7 +110,7 @@ It mitigates generational transitions by preventing equity dilution or forced sa
 
 The machinery that built the family's identity becomes a financial anchor rather than a liability. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a capital deployer.
 
@@ -148,7 +148,7 @@ The institutional
 
 These activities provide clarity for families that require precision, confidentiality, and multi generational awareness. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is not theoretical.
 
@@ -178,7 +178,7 @@ Asset Based Lending, when filtered through stewardship, becomes an instrument of
 
 It prevents unnecessary divestitures, protects core employment, and allows successors to inherit systems rather than crises. 
 
-### Phase V: .
+### Phase V:
 
 NAVIGATION LENS FOR THE INSTITUTIONAL ALLOCATOR OR FAMILY PRINCIPAL Families and allocators evaluating Asset-Based Lending structures for legacy preservation should apply a lens grounded in structural stability rather than cost of capital alone.
 

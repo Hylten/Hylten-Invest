@@ -76,7 +76,7 @@ A principle: If you want a value to endure, build a mechanism that makes violati
 
 That is succession‑proofing. 
 
-### Phase I
+### Phase I:
 
 GOVERNANCE AS COVENANT A stewardship enterprise begins where ego ends.
 
@@ -115,7 +115,9 @@ This is not limitation; it is protection. *"Only take heed to thyself, and keep 
 
 A family that remembers multiplies it. 
 
-### Phase II: CAPITAL THAT RESISTS CORRUPTION Money follows incentives
+### Phase II:
+
+CAPITAL THAT RESISTS CORRUPTION Money follows incentives
 
 .
 
@@ -141,7 +143,7 @@ The system must ensure the family’s values continue even if the family’s res
 
 That is the architecture of moral durability. 
 
-### Phase II: I
+### Phase II:
 
 THE DOCTRINE OF PRODUCTIVE REINVESTMENT Industrial wealth is not preserved by hoarding.
 
@@ -177,7 +179,7 @@ Work is the discipline.
 
 Value creation is the moral expression. 
 
-### Phase I: V
+### Phase I:
 
 THE THREE VAULTS Every multi-generational enterprise must build three vaults of preservation:
 
@@ -211,7 +213,7 @@ You cannot structure what you do not define.
 
 And you cannot define what you do not believe. 
 
-### Phase V
+### Phase V:
 
 THE INDUSTRIAL FAMILY AS CUSTODIAN, NOT OWNER Ownership is secular.
 
@@ -248,7 +250,7 @@ Not expansion.
 
 Faithfulness to the covenant, to the craft, to the calling. 
 
-### Phase V: I
+### Phase V:
 
 THE SOVEREIGN ARCHITECTURE A succession-proof enterprise must become sovereign.
 
@@ -276,7 +278,9 @@ The architecture enforces the direction.
 
 The generations maintain the covenant. 
 
-### Phase VII: THE MORAL CASE FOR ENDURANCE Why must an enterprise endure
+### Phase VII:
+
+THE MORAL CASE FOR ENDURANCE Why must an enterprise endure
 
 ?
 

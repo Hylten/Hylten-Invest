@@ -24,7 +24,7 @@ The stewardship lens is no longer a secondary consideration.
 
 It is becoming the primary filter through which families and principals evaluate capital alignment. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -70,7 +70,7 @@ These values are now sought as strategic advantages in global allocation.
 
 The result is a bifurcation between opportunistic actors still seeking short term liquidity extraction and stewardship-driven principals establishing multi generational systems for capital preservation. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -139,7 +139,7 @@ This shift aligns with the Biblical principle of responsible resource management
 
 * . 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL The allocator landscape is fragmenting into two archetypes: managers who sell product and strategic partners who navigate markets.
 
@@ -173,7 +173,7 @@ In non energy sectors such as private credit, real estate, and industrials, the 
 
 The strategic partner model is distinctly aligned with stewardship because it prioritizes clarity, education, and long term alignment rather than transactional behavior. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER The stewardship filter is a decision making protocol that evaluates opportunities through both technical and moral dimensions.
 
@@ -227,7 +227,7 @@ Stewardship honors this trust by deploying capital where it can create real valu
 
 This principle is foundational to sustainable generational legacy. 
 
-### Phase V: .
+### Phase V:
 
 THE CALIBRATION LENS FOR 2026 The allocator entering 2026 faces a structurally altered world.
 

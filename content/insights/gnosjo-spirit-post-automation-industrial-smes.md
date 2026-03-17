@@ -386,11 +386,11 @@ For the children's children. *"Through wisdom is an house builded; and by unders
 
 * 
 
-# Phase II: I
+### Phase II:
 
 Bypass 
 
-### Layer M: achine-Gun + Deep Structure Alternation Hard truth.
+# Layer M: achine-Gun + Deep Structure Alternation Hard truth.
 
 Soft culture collapses.
 

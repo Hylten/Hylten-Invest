@@ -104,7 +104,7 @@ Each layer enhances the stability of expected returns.
 
 Each 
 
-### Layer I
+### Layer I:
 
 ncreases the resilience of a family’s long term capital plan.
 

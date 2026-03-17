@@ -140,7 +140,7 @@ Structures become more conservative.
 
 This 
 
-### Phase I
+### Phase I:
 
 s often invisible to casual observers until it becomes acute.
 

@@ -225,7 +225,9 @@ Stewardship is personal.
 
 Professionalization occurs, but mission remains founder-true. 
 
-### Phase III: Expansion The family becomes an industrial reference point
+### Phase III:
+
+Expansion The family becomes an industrial reference point
 
 .
 

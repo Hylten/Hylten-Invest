@@ -320,7 +320,7 @@ This includes:
 
 The next 
 
-### Step I
+### Step I:
 
 s an applied calibration of the allocator's existing portfolio to determine where stewardship aligned structures can enhance durability and continuity across generations. [END OF BRIEFING]
 

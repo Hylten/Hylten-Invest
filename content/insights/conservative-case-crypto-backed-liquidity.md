@@ -76,7 +76,7 @@ The allocator benefits from:
 
 - multi jurisdiction supervisory frameworks The custody 
 
-### Layer MI: rrors the rigor applied to precious metal vaulting or Leve
+# Layer MI: rrors the rigor applied to precious metal vaulting or Leve
 
 l
 

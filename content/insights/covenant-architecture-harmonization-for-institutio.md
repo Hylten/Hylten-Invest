@@ -34,7 +34,9 @@ With harmonization, every covenant set becomes a component within a coherent arc
 
 - 
 
-- # Introducing The Fiduciary Razor The Fiduciary Razor is a design principle developed to bring architectural clarity to lending structures.
+- 
+
+# Introducing The Fiduciary Razor The Fiduciary Razor is a design principle developed to bring architectural clarity to lending structures.
 
 It is not a template.
 
@@ -70,7 +72,9 @@ This is attractive to family offices and institutional lenders because noise ero
 
 - 
 
-- # The Harmonic Covenant Stack Harmonization is not achieved by simply rewriting sections.
+- 
+
+# The Harmonic Covenant Stack Harmonization is not achieved by simply rewriting sections.
 
 It requires a structural lens.
 
@@ -169,7 +173,9 @@ This approach reduces escalation risk and increases lender borrower trust.
 
 - 
 
-- # Harmonization Across a Portfolio Institutional lenders typically manage multiple borrowers with different legal histories.
+- 
+
+# Harmonization Across a Portfolio Institutional lenders typically manage multiple borrowers with different legal histories.
 
 The goal is not to impose identical covenant sets.
 
@@ -195,7 +201,9 @@ This is particularly valuable for family offices and long horizon capital pools 
 
 - 
 
-- # Eliminating Unnecessary Complexity Over time, covenants accumulate the same way portfolios accumulate clutter.
+- 
+
+# Eliminating Unnecessary Complexity Over time, covenants accumulate the same way portfolios accumulate clutter.
 
 Every cycle adds reactive clauses.
 
@@ -225,7 +233,9 @@ It is about being essential.
 
 - 
 
-- # The Strategic Advantage for Institutional Lenders Institutional lenders using The Fiduciary Razor achieve several long term advantages.
+- 
+
+# The Strategic Advantage for Institutional Lenders Institutional lenders using The Fiduciary Razor achieve several long term advantages.
 
 Improved Resilience Harmonized covenants strengthen borrower discipline
 
@@ -261,7 +271,9 @@ Risk models become more accurate.
 
 - 
 
-- # The Fiduciary Razor as a Stewardship Tool The Razor is not only a drafting methodology.
+- 
+
+# The Fiduciary Razor as a Stewardship Tool The Razor is not only a drafting methodology.
 
 It is a stewardship philosophy.
 
@@ -283,7 +295,9 @@ Institutional lenders that adopt this philosophy are better positioned to protec
 
 - 
 
-- # Case Archetypes Below are three archetypes that illustrate how harmonized covenant architecture improves outcomes.
+- 
+
+# Case Archetypes Below are three archetypes that illustrate how harmonized covenant architecture improves outcomes.
 
 These are composites rather than specific client cases.
 
@@ -331,7 +345,9 @@ The result was a globally coherent covenant system that could be monitored by a 
 
 - 
 
-- # Institutional Implementation Harmonization is achieved through a disciplined multi stage process.
+- 
+
+# Institutional Implementation Harmonization is achieved through a disciplined multi stage process.
 
 Large institutions can integrate the Razor into their operating model using the following method: 
 
@@ -373,7 +389,9 @@ The implementation process itself is straightforward when executed with discipli
 
 - 
 
-- # Covenant Architecture for Long Term Stewards Families of scale and institutional lenders aligned with multi generational thinking share a common philosophy.
+- 
+
+# Covenant Architecture for Long Term Stewards Families of scale and institutional lenders aligned with multi generational thinking share a common philosophy.
 
 They prefer quiet structures.
 

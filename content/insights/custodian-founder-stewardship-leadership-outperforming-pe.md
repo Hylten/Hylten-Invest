@@ -37,9 +37,7 @@ Professionalized management does not. *"The integrity of the upright shall guide
 
 * 
 
-# Phase I
-
-.
+### Phase I:
 
 PRIVATE BRIEFING: STRUCTURAL INTELLIGENCE FOR PRINCIPALS ONLY The first principle is straightforward: systems built on stewardship outperform systems built on extraction
 
@@ -131,7 +129,7 @@ They are structural dynamics.
 
 Markets are rebalancing toward them. 
 
-### Phase II: .
+### Phase II:
 
 PRINCIPAL VOICE THE PRINCIPAL STATES.
 
@@ -177,7 +175,7 @@ Renewal is why custodian-led firms outperform across downturns, succession windo
 
 Renewal requires belief, and belief cannot be installed through compensation packages. 
 
-### Phase III: .
+### Phase III:
 
 INTERNAL BYPASS STRUCTURAL DEPTH
 

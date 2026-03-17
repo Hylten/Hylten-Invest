@@ -221,7 +221,7 @@ It is structured as follows:
 
 This governance structure allows the asset to become a compounder rather than a depleting cash flow source. 
 
-### Phase I: V
+### Phase I:
 
 Exit Optionality and Intergenerational Transfer The exit timeline is not fixed.
 

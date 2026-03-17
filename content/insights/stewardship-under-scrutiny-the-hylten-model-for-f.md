@@ -181,7 +181,7 @@ Action clarifies legacy.
 
 The Capital Deployment 
 
-### Layer D: eployment is where families are most often compromised
+# Layer D: eployment is where families are most often compromised
 
 .
 
@@ -196,7 +196,7 @@ The Hylten Model corrects this through three filters.
 
 The Legacy Continuation 
 
-### Layer L: egacy is not reputation
+# Layer L: egacy is not reputation
 
 .
 

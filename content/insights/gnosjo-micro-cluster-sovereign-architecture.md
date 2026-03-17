@@ -53,7 +53,7 @@ Layer by layer.
 
 With the tone appropriate to an Institutional Principal safeguarding industrial legacy and the children’s children. ( 
 
-# Phase I
+### Phase I:
 
 - SEALED BRIEFING) The mechanics of micro‑clusters operate according to a triad: covenantal trust, industrial interdependence, and disciplined stewardship.
 
@@ -290,7 +290,7 @@ You cannot build generational capital on short-termism.
 
 But you can build all of it-industry, prosperity, continuity-on stewardship grounded in covenant. 
 
-### Phase II: .
+### Phase II:
 
 PRINCIPAL TONE No embellishment.
 

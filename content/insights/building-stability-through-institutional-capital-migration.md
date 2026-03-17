@@ -276,7 +276,7 @@ It will reward stability.
 
 Global markets are entering a 
 
-### Phase D: efined by structural realignment
+# Phase D: efined by structural realignment
 
 .
 

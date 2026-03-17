@@ -272,7 +272,7 @@ Allocators who adopt this framework achieve three advantages:
 
 - Greater alignment between purpose and capital formation The decisive 
 
-### Step I
+### Step I:
 
 s a structural audit of the allocator’s existing frameworks, governance, and operating assumptions.
 

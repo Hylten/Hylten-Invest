@@ -44,7 +44,7 @@ Below is the structural argument for moral authority as a governing force in pri
 
 The First 
 
-### Pillar C
+# Pillar C
 
 ovenant Stewardship as Operating Logic Covenant Stewardship is the recognition that capital is not owned.
 
@@ -254,7 +254,7 @@ Execution Velocity becomes the fruit of moral order.
 
 The Fifth 
 
-### Pillar I
+### Pillar I:
 
 nstitutional Trust as a Byproduct of Moral Authority Institutional committees evaluate two categories.
 

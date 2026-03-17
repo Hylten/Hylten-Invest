@@ -88,7 +88,7 @@ Capital deployed carefully, patiently, sacrificially.
 
 The institutional challenge arises when such families 
 
-### Step I
+### Step I:
 
 nto global domains where velocity overrides wisdom, and leverage overshadows prudence.
 
@@ -100,7 +100,11 @@ Capital that moves with intelligence but never haste.
 
 Start with foundational architecture.
 
-Families with cross‑border footprints require multi‑layer vehicles that preserve clarity of ownership while granting jurisdictional maneuverability.
+Families with cross‑border footprints require multi‑
+
+### Layer V:
+
+ehicles that preserve clarity of ownership while granting jurisdictional maneuverability.
 
 The objective is not avoidance but resilience.
 

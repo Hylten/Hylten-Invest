@@ -84,7 +84,7 @@ S
 
  OF ASSET HARDENING Asset hardening is a balance sheet discipline that combines predictable cash flow assets, controlled duration liabilities, and multi 
 
-### Layer LI: quidity reserves
+# Layer LI: quidity reserves
 
 .
 

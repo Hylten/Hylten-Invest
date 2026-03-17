@@ -58,7 +58,9 @@ Vault language.
 
 Principal to Principal. ===== 
 
- ## ===== The first truth: short-horizon private equity is structurally incompatible with stewardship.
+ 
+
+# ===== The first truth: short-horizon private equity is structurally incompatible with stewardship.
 
 The second: stewardship is returning as the dominant framework for UHNW wealth architecture, not because it is fashionable, but because it is correct.
 
@@ -360,7 +362,7 @@ Short-term funds do not. =====
 
  
 
-## CONCLUSIO
+# CONCLUSIO
 
 N
 

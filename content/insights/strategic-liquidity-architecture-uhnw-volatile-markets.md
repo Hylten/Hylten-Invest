@@ -10,7 +10,7 @@ slug: "strategic-liquidity-architecture-uhnw-volatile-markets"
 
  
 
-## THE MANDAT
+# THE MANDAT
 
 E
 
@@ -232,7 +232,7 @@ Liquidity conversion timeline averages
 
 210 days, which is operationally unacceptable for 2026 conditions. 
 
-### Step I: .
+### Step I:
 
 Diagnostic Liquidity Audit The audit identifies the following:
 
@@ -257,7 +257,7 @@ Diagnostic Liquidity Audit The audit identifies the following:
 
 Volatility exposure is high due to slow conversion and lack of diversified liquidity channels. 
 
-### Step II: .
+### Step II:
 
 Liquidity Zoning Implementation The new architecture reallocates the liquidity spine.
 
@@ -277,7 +277,7 @@ Long horizon: Unchanged.
 
 This zoning aligns precisely with the family’s three strategic objectives. 
 
-### Step III: .
+### Step III:
 
 Asset-backed Monetization Architecture A tiered advance rate strategy is executed:
 
@@ -295,7 +295,7 @@ This creates a total of
 
 125 million in new strategic liquidity without asset impairment. 
 
-### Step IV: .
+### Step IV:
 
 RCM Optimization The manufacturing division undergoes an RCM cycle restructuring:
 
@@ -317,7 +317,7 @@ Net result:
 
 11 million annual liquidity liberated. 
 
-### Step V: .
+### Step V:
 
 Opportunity Deployment The refined architecture enables:
 

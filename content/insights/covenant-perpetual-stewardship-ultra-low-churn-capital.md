@@ -20,7 +20,7 @@ A Principal does not negotiate with fashion.
 
 I begin. ( 
 
-# Phase I
+### Phase I:
 
 ) The emerging strength of perpetual stewardship vehicles is not driven by their novelty but by their refusal to leak value.
 

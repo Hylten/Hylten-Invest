@@ -12,7 +12,7 @@ It is the result of regulatory overreach, capital migration patterns, and the in
 
 Into this vacuum 
 
-### Step D: I
+# Step D: I
 
 sciplined operators, technical specialists, and families with a deep comprehension of stewardship as a governing principle rather than a branding device.
 
@@ -38,7 +38,9 @@ The inheritance referenced is not limited to assets.
 
 It refers to the discipline required to build, defend, and transmit an ecosystem that allocates capital with purpose rather than appetite. 
 
-### Phase I: - ## THE REGIME SHIF
+### Phase I: -
+
+# THE REGIME SHIF
 
 T
 
@@ -84,7 +86,9 @@ Instead, it serves as a stabilizing anchor that evaluates whether the moral and 
 
 When the architecture holds, strategic introductions can then be executed with purpose. 
 
-### Phase II: - ## TECHNICAL MECHANIC
+### Phase II: -
+
+# TECHNICAL MECHANIC
 
 S
 
@@ -132,7 +136,7 @@ Instead, it verifies whether the operator respects the natural constraints of th
 
 This is balance-sheet ethics applied to industrial environments. 
 
-### Phase II: I
+### Phase II:
 
 - THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator.
 
@@ -178,7 +182,7 @@ It is a governance system. **Genesis 2:15
 
 * provides the foundational pattern: 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 
@@ -229,7 +233,7 @@ They ensure that capital flows into environments where moral stability supports 
 
 Without this integration, the allocator inherits risk that no financial structure can mitigate. 
 
-### Phase V
+### Phase V:
 
 - THE DECISION-MAKING LENS For UHNWIs, institutional LPs, and family investment offices, the primary question is not exposure to energy or industrial assets.
 

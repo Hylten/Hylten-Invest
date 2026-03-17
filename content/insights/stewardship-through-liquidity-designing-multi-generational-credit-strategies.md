@@ -265,7 +265,7 @@ Liquidity Coverage Discipline There should always be a clear liquidity buffer re
 
 Liquidity coverage protects the family from external shocks and internal transitions. (See [special mandates execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 
-## Integrating Credit Into Family Office Structure Credit strategy is not independent
+# Integrating Credit Into Family Office Structure Credit strategy is not independent
 
 .
 

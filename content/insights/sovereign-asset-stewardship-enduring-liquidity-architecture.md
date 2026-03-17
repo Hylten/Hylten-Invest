@@ -10,7 +10,7 @@ slug: "sovereign-asset-stewardship-enduring-liquidity-architecture"
 
  
 
-## THE MANDAT
+# THE MANDAT
 
 E
 
@@ -257,7 +257,7 @@ The fabrication firm undergoes commercial hardening.
 
 - Supply chain dual sourcing reduces input cost spikes. 
 
-### Phase I: V
+### Phase I:
 
 Liquidity Extraction and Reinjection Eighteen months after stabilization, Strategic Collateralization is performed.
 
@@ -273,7 +273,9 @@ The sovereign allocator maintains exposure while extending the asset’s duratio
 
 Enduring liquidity is preserved without compromising structural capital. 
 
-### Phase V: Stewardship Governance A governance cycle is established
+### Phase V:
+
+Stewardship Governance A governance cycle is established
 
 .
 

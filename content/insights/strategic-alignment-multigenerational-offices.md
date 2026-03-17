@@ -216,7 +216,7 @@ Not because of opportunistic pricing but because the global energy mix cannot tr
 
 Families that understand physical systems, supply constraints, and geopolitical latency can 
 
-### Step I
+### Step I:
 
 nto structured positions that deliver durable cash flow with operational leverage.
 
