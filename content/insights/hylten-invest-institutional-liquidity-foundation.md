@@ -35,7 +35,9 @@ Christian moral arithmetic.
 Stewardship above ownership.
 
 Responsibility above appetite. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaveth an inheritance to his children's children.
 
 This is the governing logic.
@@ -385,7 +387,9 @@ Assets should outlive the founder.
 Liquidity should strengthen successors.
 
 Decisions must echo forward. **Proverbs 13:22
-*
+
+* 
+
 * remains the anchor: inheritance not as wealth, but as responsibility.
 
 Every deployment must survive transitions in technology, politics, and sentiment.

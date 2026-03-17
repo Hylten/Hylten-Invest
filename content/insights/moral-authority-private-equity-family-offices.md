@@ -31,10 +31,14 @@ It defines whether a family office becomes a caretaker or a dissipator.
 It defines whether capital compounds across three generations or collapses by the second.
 
 It defines whether the allocation to private equity becomes a disciplined extension of vocation or a fashionable drift into opacity. *"He that walketh uprightly walketh surely; but he that perverteth his ways shall be known."
+
 * 
--  **Proverbs 10:
+
+- **Proverbs 10:
 9
-*
+
+* 
+
 * The verse is blunt.
 
 Integrity secures stability.
@@ -45,8 +49,9 @@ In the world of private equity, that clarity is not an abstraction.
 
 It is a structural truth with financial consequences. 
 
- ## 
--  PRIVATE BRIEFING (Principal voice, unfiltered, for the vault.) I speak plainly.
+ ##
+
+- PRIVATE BRIEFING (Principal voice, unfiltered, for the vault.) I speak plainly.
 
 Family offices do not fail because of bad markets.
 
@@ -128,8 +133,9 @@ From moral hazard to moral authority.
 
 This is the axis modern family offices must internalize.
 
-PRINCIPAL TONE 
--  THE MORAL AUTHORITY FRAME The family office is not an investor.
+PRINCIPAL TONE
+
+- THE MORAL AUTHORITY FRAME The family office is not an investor.
 
 It is an institution of stewardship.
 
@@ -193,27 +199,37 @@ A Principal sees immediately.
 
 A moral lens clarifies the entire field.
 
-Deep Industrial Funds 
--  built on operational improvement and real productivity 
--  align naturally with moral authority.
+Deep Industrial Funds
 
-Narrative-driven funds 
--  built on future promises and perpetual rounds 
--  drift toward moral hazard.
+- built on operational improvement and real productivity
+
+- align naturally with moral authority.
+
+Narrative-driven funds
+
+- built on future promises and perpetual rounds
+
+- drift toward moral hazard.
 
 The distinction is predictable.
 
 So is the outcome.
 
-INTERNAL BYPASS 
--  STRUCTURAL DEPTH I shift into architecture.
+INTERNAL BYPASS
 
-Moral Hazard Indicators in Private Equity: 
--  Distance from operational reality. 
--  Excessive reliance on multiple expansion. 
--  Compensation structures that reward short-term optics over long-term durability. 
--  Boardrooms filled with managers, not builders. 
--  Portfolio strategies dependent on leverage rather than productivity.
+- STRUCTURAL DEPTH I shift into architecture.
+
+Moral Hazard Indicators in Private Equity:
+
+- Distance from operational reality.
+
+- Excessive reliance on multiple expansion.
+
+- Compensation structures that reward short-term optics over long-term durability.
+
+- Boardrooms filled with managers, not builders.
+
+- Portfolio strategies dependent on leverage rather than productivity.
 
 These produce fragility.
 
@@ -223,13 +239,19 @@ The structure is brittle because its value creation mechanism is theoretical.
 
 A family office anchored in stewardship must treat these as red flags.
 
-Moral Authority Indicators: 
--  Principals with industrial backgrounds. 
--  Capital deployed into actual problem-solving. 
--  Teams with operational scars 
--  proof of real battle, not academic modeling. 
--  Value creation rooted in engineering, logistics, manufacturing, or technical service. 
--  Active boards where the owners speak plainly and demand accountability.
+Moral Authority Indicators:
+
+- Principals with industrial backgrounds.
+
+- Capital deployed into actual problem-solving.
+
+- Teams with operational scars
+
+- proof of real battle, not academic modeling.
+
+- Value creation rooted in engineering, logistics, manufacturing, or technical service.
+
+- Active boards where the owners speak plainly and demand accountability.
 
 This produces strength.
 
@@ -250,10 +272,14 @@ The family office that operates under this ethos becomes immovable.
 Markets fluctuate, but conviction remains.
 
 Volatility becomes manageable because the underlying assets are built on real value creation, not price momentum. *"The integrity of the upright shall guide them."
+
 * 
--  **Proverbs 11:
+
+- **Proverbs 11:
 3
-*
+
+* 
+
 * Guide.
 
 That is the word.
@@ -300,8 +326,9 @@ Stewardship is that ethic in financial form.
 
 The Enterprise Layer Here is where free enterprise speaks with moral clarity.
 
-Capital must flow toward builders, entrepreneurs, founders 
--  the people who create the larger pie.
+Capital must flow toward builders, entrepreneurs, founders
+
+- the people who create the larger pie.
 
 The family office becomes a catalyst for societal flourishing by allocating resources to those who solve real problems.
 
@@ -384,8 +411,10 @@ Stewardship-driven asset managers.
 Transparent operational leaders.
 
 In certain cases, this includes structuring channels such as *institutional capital execution through Roials Capital
-* ([Roials Capital](https://roialscapital.com/)) when jurisdictional design is required 
--  but always with ethical alignment at the core.
+
+* ([Roials Capital](https://roialscapital.com/)) when jurisdictional design is required
+
+- but always with ethical alignment at the core.
 
 THE PRINCIPAL’S CLOSING POSITION I speak with the authority of industrial heritage.
 
@@ -397,22 +426,29 @@ Moral hazard is the enemy of generational capital.
 
 Moral authority is its foundation.
 
-Free enterprise 
--  properly governed and morally anchored 
--  remains the greatest engine of wealth, dignity, and societal uplift ever created.
+Free enterprise
+
+- properly governed and morally anchored
+
+- remains the greatest engine of wealth, dignity, and societal uplift ever created.
 
 But it requires real men and women to carry real responsibility.
 
 Family offices must reclaim that responsibility with conviction.
 
-They must stand where previous generations stood 
--  on principle, not on convenience.
+They must stand where previous generations stood
+
+- on principle, not on convenience.
 
 On stewardship, not on drift. *"The just man walketh in his integrity: his children are blessed after him."
+
 * 
--  **Proverbs 20:
+
+- **Proverbs 20:
 7
-*
+
+* 
+
 * This is the architecture.
 
 This is the standard.

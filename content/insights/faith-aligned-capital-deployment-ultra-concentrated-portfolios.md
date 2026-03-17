@@ -31,8 +31,11 @@ No abstractions.
 No sentimental theology.
 
 Only covenantal truth. *"Teach us to number our days, that we may apply our hearts unto wisdom."
+
 * ‑ **Psalm 90:12
-*
+
+* 
+
 * A concentrated portfolio is not an act of aggression.
 
 It is an act of devotion.
@@ -70,6 +73,7 @@ Legacy determines allocation.
 Now the architecture deepens.
 
 A concentrated portfolio must answer a single question: *Is the capital serving the mission, or is the mission serving the capital?
+
 * If you bend the mission to fit the capital, you break the covenant.
 
 If you bend the capital to fit the mission, you build the house on rock.
@@ -130,10 +134,14 @@ I do not argue.
 
 I declare.
 
-Concentrated capital must be governed by four pillars: 
--  The Theology of Ownership 
--  The Doctrine of Productive Stewardship 
--  The Covenant of Generational Continuity
+Concentrated capital must be governed by four pillars:
+
+- The Theology of Ownership
+
+- The Doctrine of Productive Stewardship
+
+- The Covenant of Generational Continuity
+
 • The Industrial Mandate for Value Creation These are not embellishments.
 
 These are structural steel beams.
@@ -165,8 +173,11 @@ He protects the enterprise from moral decay, philosophical drift, and the tempta
 There is no room for idleness in a faith‑aligned capital structure.
 
 The Protestant ethic condemns stagnation as severely as waste. *"In all labour there is profit: but the talk of the lips tendeth only to penury."
+
 * ‑ **Proverbs 14:23
-*
+
+* 
+
 * Every asset must serve a productive purpose.
 
 Even when held long-term, it must be *working*-creating value, creating opportunity, creating resilience.
@@ -196,9 +207,12 @@ No ambiguity.
 No improvisation.
 
 Faith‑aligned capital has a mandate: prepare the children’s children. *"One generation shall praise thy works to another, and shall declare thy mighty acts."
+
 * ‑ **Psalm 145:
 4
-*
+
+* 
+
 * The Industrial Mandate for Value Creation is the final anchor.
 
 This is where the Gnosjö spirit meets Christian duty.
@@ -249,10 +263,13 @@ Principles do not.
 
 You build the portfolio so it can survive turbulence without violating conscience.
 
-The architecture includes: 
--  A moral jurisdiction (identity, covenant, chartering) 
--  A production jurisdiction (industrial output, labor, enterprise) 
--  A deployment jurisdiction (capital formation, structured expansion) Each carries a role.
+The architecture includes:
+
+- A moral jurisdiction (identity, covenant, chartering)
+
+- A production jurisdiction (industrial output, labor, enterprise)
+
+- A deployment jurisdiction (capital formation, structured expansion) Each carries a role.
 
 Each carries a cost.
 
@@ -360,9 +377,11 @@ The secular world reverses this, and that is why it produces short cycles and br
 
 Obedience creates durability.
 
-Within this architecture, capital deployment uses two key engines: 
--  Concentrated conviction portfolios rooted in enterprise value. 
--  Strategic hedges tied to real‑world productivity.
+Within this architecture, capital deployment uses two key engines:
+
+- Concentrated conviction portfolios rooted in enterprise value.
+
+- Strategic hedges tied to real‑world productivity.
 
 Not paper abstractions.
 
@@ -411,8 +430,11 @@ If the mission served the capital, the next generation receives confusion.
 All concentrated families face this crossroads.
 
 Only a morally governed architecture ensures the correct path. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
+
 * ‑ **Psalm 33:11
-*
+
+* 
+
 * Final clarity from the Principal’s chair: Concentrated capital is not dangerous.
 
 Unprincipled capital is dangerous.

@@ -72,13 +72,19 @@ This is crucial for families who value stability, privacy, and continuity.
 
 ## Asset-Based Lending as a Multi-Generational Tool A well-structured Institutional Liquidity Paths line becomes part of the family office architecture.
 
-It provides liquidity for: 
--  intergenerational transfers 
--  private market opportunities 
--  philanthropic commitments 
--  liquidity imbalances 
--  tax planning 
--  strategic acquisitions When liquidity becomes an engineered system rather than a reactive event, the family is able to make decisions with clarity.
+It provides liquidity for:
+
+- intergenerational transfers
+
+- private market opportunities
+
+- philanthropic commitments
+
+- liquidity imbalances
+
+- tax planning
+
+- strategic acquisitions When liquidity becomes an engineered system rather than a reactive event, the family is able to make decisions with clarity.
 
 They can operate on long-term time horizons.
 
@@ -98,12 +104,17 @@ It means focusing on the essential.
 
 It means reducing noise in favor of structure.
 
-A minimalist credit structure is: 
--  simple 
--  transparent 
--  aligned with long-term objectives 
--  free of unnecessary conditions 
--  engineered for clarity At Hyltén Invest, the Strategic Collateralization process reflects this philosophy.
+A minimalist credit structure is:
+
+- simple
+
+- transparent
+
+- aligned with long-term objectives
+
+- free of unnecessary conditions
+
+- engineered for clarity At Hyltén Invest, the Strategic Collateralization process reflects this philosophy.
 
 We do not impose complexity for the sake of formality.
 

@@ -133,7 +133,9 @@ Families avoid dependence on external refinancing.
 They build internal liquidity pools that allow opportunistic acquisition during downturns.
 
 This practice mirrors the biblical stewardship principle in **Proverbs 13:22
-*
+
+* 
+
 * which frames wealth as a multi generational trust. 
 
 4.
@@ -259,7 +261,9 @@ It is the recognition that capital carries moral obligation.
 This principle is structural in the Gnosjö Spirit, where community, work ethic, and practical humility formed one of the most resilient industrial clusters in Europe.
 
 It aligns with the biblical mandate in **Luke 16:10
-*
+
+* 
+
 * which emphasizes faithfulness in small things as preparation for greater responsibility.
 
 The Stewardship Filter applied to modern capital operates across four dimensions.
@@ -294,20 +298,31 @@ The question is which structures have the durability to survive volatility.
 
 Multi generational stewardship provides that framework.
 
-Families and institutions aligned with stewardship principles benefit from: 
--  Cross cycle resilience 
--  Operational transparency 
--  Lower behavioral risk 
--  Higher probability of continuity 
--  Stronger alignment with real asset behavior 
--  Strategic calm in high volatility environments Roials Capital supports this process through a Confidential Strategy Audit.
+Families and institutions aligned with stewardship principles benefit from:
 
-This includes: 
--  Structural analysis of capital stacks 
--  Evaluation of Capital Structuring capacity 
--  Review of operational alignment 
--  Identification of institutional grade partners such as NAEO 
--  Calibration of long horizon asset exposure This memorandum provides the strategic foundation.
+- Cross cycle resilience
+
+- Operational transparency
+
+- Lower behavioral risk
+
+- Higher probability of continuity
+
+- Stronger alignment with real asset behavior
+
+- Strategic calm in high volatility environments Roials Capital supports this process through a Confidential Strategy Audit.
+
+This includes:
+
+- Structural analysis of capital stacks
+
+- Evaluation of Capital Structuring capacity
+
+- Review of operational alignment
+
+- Identification of institutional grade partners such as NAEO
+
+- Calibration of long horizon asset exposure This memorandum provides the strategic foundation.
 
 The next step is an applied calibration of the allocator's existing portfolio to determine where stewardship aligned structures can enhance durability and continuity across generations. [END OF BRIEFING]
 

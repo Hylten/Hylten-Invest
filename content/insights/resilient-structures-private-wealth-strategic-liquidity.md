@@ -84,10 +84,13 @@ The objective is not yield maximization.
 
 It is operational reliability.
 
-Effective Strategic Collateralization uses: 
--  Time segmented capital pools that function independently rather than as a blended NAV. 
--  Institutional liquidity corridors that allow capital to exit or enter positions without disrupting the whole structure. 
--  Tactical liquidity overlays that serve as shock absorbers during market compression events.
+Effective Strategic Collateralization uses:
+
+- Time segmented capital pools that function independently rather than as a blended NAV.
+
+- Institutional liquidity corridors that allow capital to exit or enter positions without disrupting the whole structure.
+
+- Tactical liquidity overlays that serve as shock absorbers during market compression events.
 
 Families that fail to engineer liquidity fall into one of two errors.
 
@@ -99,10 +102,13 @@ Robust structures avoid both extremes.
 
 Balance sheet optimization This is the process of aligning family liabilities, income flows, and investment horizons so that the balance sheet becomes strategically receptive rather than reactive.
 
-Balance sheet optimization uses tools such as: 
--  Hybrid credit facilities for tactical deployment. 
--  Controlled leverage rather than defensive deleveraging. 
--  Cross structure cash flow mapping that ensures predictability during stress periods.
+Balance sheet optimization uses tools such as:
+
+- Hybrid credit facilities for tactical deployment.
+
+- Controlled leverage rather than defensive deleveraging.
+
+- Cross structure cash flow mapping that ensures predictability during stress periods.
 
 An optimized balance sheet acts as a force multiplier.
 
@@ -116,10 +122,13 @@ It is not an asset class category.
 
 It is a durability function.
 
-Institutional grade asset hardening typically includes exposures such as: 
--  Real economy cash flows where physical production or essential services create persistence. 
--  Collateralized structures with transparent risk parameters and defined seniority. 
--  Real asset backbones with long duration relevance.
+Institutional grade asset hardening typically includes exposures such as:
+
+- Real economy cash flows where physical production or essential services create persistence.
+
+- Collateralized structures with transparent risk parameters and defined seniority.
+
+- Real asset backbones with long duration relevance.
 
 One of the more significant examples in North America is the traditional energy sector.
 
@@ -174,21 +183,26 @@ These values were not created for narratives.
 They were created because they optimize long term survival.
 
 For families of faith, stewardship is anchored in principles such as **Proverbs 13:22
-*
+
+* 
+
 * which highlights generational responsibility.
 
 Capital is not deployed merely for the benefit of a present actor but for the guardianship of future decision makers.
 
 This requires a structural humility that prioritizes solidity over visibility.
 
-Stewardship adheres to several principles. 
--  No waste.
+Stewardship adheres to several principles.
 
-Capital should not remain idle unless that idle position serves a purpose. 
--  No speculation.
+- No waste.
 
-Decisions must be grounded in data, not sentiment. 
--  No shortcuts.
+Capital should not remain idle unless that idle position serves a purpose.
+
+- No speculation.
+
+Decisions must be grounded in data, not sentiment.
+
+- No shortcuts.
 
 Governance and diligence frameworks must exceed industry norms.
 

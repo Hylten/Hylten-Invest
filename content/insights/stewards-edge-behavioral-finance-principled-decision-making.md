@@ -73,9 +73,13 @@ This is the Steward’s Edge: the moral architecture that binds psychology to re
 Without it, wealth is accidental.
 
 With it, wealth becomes inheritance. *"He that ruleth his spirit is better than he that taketh a city."
+
 * 
--  **Proverbs 16:32
-*
+
+- **Proverbs 16:32
+
+* 
+
 * CONTROL OF IMPULSE The first pillar.
 
 The most violated.
@@ -128,11 +132,15 @@ It is risk ordering.
 
 The covenant mindset puts responsibility before opportunity, truth before trend, and long-horizon construction before momentary comfort.
 
-This mindset creates a psychological firewall: 
--  Against overconfidence: the delusion that timing or trend is mastery. 
--  Against loss aversion: the fear that paralyzes productive allocation. 
--  Against herd behavior: the imitation instinct that crushes differentiation. 
--  Against sunk cost bias: the emotional attachment to flawed strategies.
+This mindset creates a psychological firewall:
+
+- Against overconfidence: the delusion that timing or trend is mastery.
+
+- Against loss aversion: the fear that paralyzes productive allocation.
+
+- Against herd behavior: the imitation instinct that crushes differentiation.
+
+- Against sunk cost bias: the emotional attachment to flawed strategies.
 
 Long-term capital is never the fruit of a moment of brilliance.
 
@@ -190,11 +198,15 @@ Replicable logic.
 
 This is the Spirit of Gnosjö-small communities building world-class industry by refusing the theatrical and choosing the empirical.
 
-This mindset neutralizes critical behavioral distortions: 
--  Confirmation bias is confronted by operational data. 
--  Anchoring bias is shattered by technical truth. 
--  Optimism bias is corrected by cost-reality. 
--  Ambiguity aversion is reduced by careful modeling.
+This mindset neutralizes critical behavioral distortions:
+
+- Confirmation bias is confronted by operational data.
+
+- Anchoring bias is shattered by technical truth.
+
+- Optimism bias is corrected by cost-reality.
+
+- Ambiguity aversion is reduced by careful modeling.
 
 The free market rewards accuracy.
 
@@ -226,12 +238,17 @@ The architecture cracks because the values that created the wealth were never st
 
 The steward’s task is transmission-codifying the principles that resist psychological decay.
 
-The architecture includes: 
--  Narrative continuity: telling the industrial story truthfully to younger generations. 
--  Operational exposure: letting them see factories, workshops, service lines-not merely spreadsheets. 
--  Responsibility training: giving them controlled authority early, with real feedback loops. 
--  Moral apprenticeship: teaching them the biblical and philosophical foundations of free enterprise. 
--  Governance rituals: establishing predictable, principled decision frameworks that cannot be overturned by mood.
+The architecture includes:
+
+- Narrative continuity: telling the industrial story truthfully to younger generations.
+
+- Operational exposure: letting them see factories, workshops, service lines-not merely spreadsheets.
+
+- Responsibility training: giving them controlled authority early, with real feedback loops.
+
+- Moral apprenticeship: teaching them the biblical and philosophical foundations of free enterprise.
+
+- Governance rituals: establishing predictable, principled decision frameworks that cannot be overturned by mood.
 
 These practices inoculate against the three corrosive forces of multigenerational capital: 
 
@@ -277,11 +294,15 @@ The Gnosjö region calls it cooperation under responsibility.
 
 The Bible calls it dominion-structured, righteous, humble authority over the garden entrusted to man.
 
-When applied to capital, this produces a pattern: 
--  Firms that endure refuse the emotional cycle of fear-greed-euphoria-despair. 
--  Families that endure transmit values, not merely shares. 
--  Entrepreneurs that endure focus on real value creation, not perceived excitement. 
--  Communities that endure respect the covenant between labor, innovation, and moral duty.
+When applied to capital, this produces a pattern:
+
+- Firms that endure refuse the emotional cycle of fear-greed-euphoria-despair.
+
+- Families that endure transmit values, not merely shares.
+
+- Entrepreneurs that endure focus on real value creation, not perceived excitement.
+
+- Communities that endure respect the covenant between labor, innovation, and moral duty.
 
 Free markets amplify these virtues because free markets are discipline markets.
 
@@ -303,13 +324,19 @@ He builds governance that anticipates failure modes.
 
 He reduces the need for emotional heroics by designing systems that withstand emotional volatility.
 
-The stewardship architecture incorporates: 
--  Decision pre-commitments 
--  Long-cycle evaluation periods 
--  Principle-based veto thresholds 
--  Independent review mechanisms 
--  Covenant language in policy documents 
--  Seasonal reflection periods for recalibration This is how emotional turbulence is neutralized.
+The stewardship architecture incorporates:
+
+- Decision pre-commitments
+
+- Long-cycle evaluation periods
+
+- Principle-based veto thresholds
+
+- Independent review mechanisms
+
+- Covenant language in policy documents
+
+- Seasonal reflection periods for recalibration This is how emotional turbulence is neutralized.
 
 Not by willpower alone, but by design.
 
@@ -337,9 +364,7 @@ It is the foundation stone.
 
 The covenant anchor.
 
-The industrial inheritance from the 18
-
-74 forge onward.
+The industrial inheritance from the 1874 forge onward.
 
 For those seeking deeper structuring of governance, behavioral design, and moral capital frameworks, the institutional interface through Hylten-Invest remains the principal channel.
 

@@ -20,9 +20,7 @@ It is a matter of choosing institutional structures that neutralize uncertainty.
 
 ## THE REGIME SHIFT
 
- The global capital environment entered a new cycle in 20
-
-22 when liquidity became selective and the low duration, low volatility assets traditionally favored by institutions no longer provided real capital protection.
+ The global capital environment entered a new cycle in 2022 when liquidity became selective and the low duration, low volatility assets traditionally favored by institutions no longer provided real capital protection.
 
 The shift was marked by three irreversible forces. 
 
@@ -54,11 +52,7 @@ The result was a widening valuation gap between intrinsic value and market price
 
 Supply reliability premium.
 
-The 20
-
-24 to 20
-
-26 geopolitical landscape demonstrated that basins with stable property rights and transparent royalty frameworks began to carry a premium over foreign sources, even if those foreign sources offered short term pricing advantages.
+The 2024 to 2026 geopolitical landscape demonstrated that basins with stable property rights and transparent royalty frameworks began to carry a premium over foreign sources, even if those foreign sources offered short term pricing advantages.
 
 Alberta in particular emerged as a reliability anchor because its basin physics are well mapped and its regulatory cycle is slow but consistent.
 
@@ -261,7 +255,9 @@ The Spirit of Gnosjö shaped a culture where small communities built global indu
 Stewardship is the theology of responsible dominion.
 
 Finance, when properly aligned, follows the principles that govern creation. **Proverbs 13:22
-*
+
+* 
+
 * establishes the trans generational responsibility of capital.
 
 A good person leaves an inheritance not only for children, but for grandchildren.
@@ -310,9 +306,7 @@ Preservation without stewardship is merely defensive investment.
 
 Preservation with stewardship is generational capital discipline.
 
-DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating the 20
-
-26 landscape are confronted with a structural choice.
+DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating the 2026 landscape are confronted with a structural choice.
 
 Preserve capital through abstraction or preserve capital through engineered stability.
 

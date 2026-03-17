@@ -28,9 +28,12 @@ They require the discipline of industrial Sweden.
 
 They require the Spirit of Gnosjö.
 
-They require a sovereign architecture able to outlive the founder and bind the next generation into a covenant of responsibility. 
--  **Proverbs 13:22
-*
+They require a sovereign architecture able to outlive the founder and bind the next generation into a covenant of responsibility.
+
+- **Proverbs 13:22
+
+* 
+
 * : A good man leaves an inheritance to his children’s children.
 
 The text does not specify the form.
@@ -71,10 +74,13 @@ Family crypto holdings are not speculative pools.
 
 They are proto‑sovereign treasuries.
 
-They must be handled accordingly. 
--  
--  
--  The first mandate is classification.
+They must be handled accordingly.
+
+- 
+
+- 
+
+- The first mandate is classification.
 
 No family can govern what it does not categorize.
 

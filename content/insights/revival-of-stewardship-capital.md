@@ -35,10 +35,14 @@ Stand accountable before God.
 This is not nostalgia.
 
 This is institutional recalibration. *"He that walketh uprightly walketh surely."
+
 * 
--  **Proverbs 10:
+
+- **Proverbs 10:
 9
-*
+
+* 
+
 * Principal logic follows.
 
 Markets reward coherence.
@@ -74,10 +78,14 @@ Responsibility.
 Create more than you consume.
 
 Leave more than you inherit. *"By humility and the fear of the Lord are riches, and honour, and life."
+
 * 
--  **Proverbs 22:
+
+- **Proverbs 22:
 4
-*
+
+* 
+
 * Institutional desks want that ethic again.
 
 They pursue it without naming it.
@@ -111,6 +119,7 @@ Moral authority as operating leverage.
 A Principal who understands that free markets flourish only under truth.
 
 Some of them now route mandates through *institutional capital execution
+
 * at [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)).
 
 Not for theatrics.

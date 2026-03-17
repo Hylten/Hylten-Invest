@@ -39,7 +39,9 @@ Asset hardening.
 Risk compression.
 
 Inter‑generational transfer without entropy. **Proverbs 13:22
-*
+
+* 
+
 * teaches with clarity: A good man leaves an inheritance to his children's children.
 
 The verse is not metaphor.

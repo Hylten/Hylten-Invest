@@ -66,8 +66,7 @@ However, their utility is often constrained by volatility, storage architecture,
 
 Our crypto Capital Structuring begins at a minimum threshold of 2,000,
 
-00
-0 USD.
+000 USD.
 
 This ensures we maintain alignment with our client profile and the scale at which institutional-grade Monetization Architecture becomes meaningful.
 
@@ -95,8 +94,7 @@ It may trigger market signals that families do not wish to send.
 
 Our public share Institutional Liquidity Paths begins at a minimum threshold of 5,000,
 
-00
-0 USD.
+000 USD.
 
 This ensures the scale and structure are aligned with institutional-grade expectations.
 

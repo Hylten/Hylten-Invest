@@ -27,13 +27,15 @@ A simple truth reasserts itself.
 Moral authority compounds.
 
 Professionalized management does not. *"The integrity of the upright shall guide them."
-* 
--  **Proverbs 11:
-3
-*
+
 * 
 
-Phase I: .
+- **Proverbs 11:
+3
+
+* 
+
+* Phase I: .
 
  
 
@@ -62,7 +64,9 @@ He works under witness.
 Stewardship leadership has three core mechanics that are now beating the professionalization thesis across the middle-market landscape: 
 
 1. **Temporal Sovereignty
-*
+
+* 
+
 * The steward thinks in generational arcs, not quarterly reports.
 
 Decisions align with durability, regenerative capital formation, and the long obedience of building something worthy of inheritance.
@@ -76,7 +80,9 @@ Their exit path is preset.
 Their loyalty is to the model, not the mission. 
 
 2. **Embedded Moral Authority
-*
+
+* 
+
 * Markets reward credibility.
 
 Workers reward honor.
@@ -94,7 +100,9 @@ They rely on incentive packages.
 The steward relies on duty. 
 
 3. **Proximity to the Work
-*
+
+* 
+
 * The steward knows the furnace.
 
 He knows the forge.
@@ -119,7 +127,7 @@ They are structural dynamics.
 
 Markets are rebalancing toward them.
 
-Phase II: .
+### Phase II: .
 
 PRINCIPAL VOICE THE PRINCIPAL STATES.
 
@@ -165,10 +173,11 @@ Renewal is why custodian-led firms outperform across downturns, succession windo
 
 Renewal requires belief, and belief cannot be installed through compensation packages.
 
-Phase III: .
+### Phase III: .
 
-INTERNAL BYPASS STRUCTURAL DEPTH 
--  1500+ WORD PRINCIPAL BRIEFING The industrial heritage of Europe and North America teaches us a central truth: capital follows character when the stakes are highest.
+INTERNAL BYPASS STRUCTURAL DEPTH
+
+- 1500+ WORD PRINCIPAL BRIEFING The industrial heritage of Europe and North America teaches us a central truth: capital follows character when the stakes are highest.
 
 Across every meaningful stress cycle-war, commodity shocks, demographic contractions, technological disruption-the Custodian Founder emerges as the stabilizing force.
 
@@ -176,9 +185,7 @@ He is not agile because agility is fashionable.
 
 He is agile because responsibility requires it.
 
-Consider the Swedish 18
-
-74 forge culture.
+Consider the Swedish 1874 forge culture.
 
 Steel cooled slowly.
 

@@ -49,9 +49,13 @@ Freedom dignifies the worker.
 Markets reward value creation.
 
 Shrinking horizons dishonor the gift. *"The hand of the diligent shall bear rule."
+
 * 
--  **Proverbs 12:24
-*
+
+- **Proverbs 12:24
+
+* 
+
 * Industrial scale becomes moral when anchored in responsibility.
 
 It refuses waste.

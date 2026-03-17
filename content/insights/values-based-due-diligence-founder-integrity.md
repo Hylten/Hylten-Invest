@@ -19,18 +19,23 @@ That is the root.
 That is the covenant.
 
 And that is the foundation of any serious due‑diligence architecture when evaluating a founder who intends to steward generational capital. *"The integrity of the upright shall guide them."
+
 * 
--  **Proverbs 11:
+
+- **Proverbs 11:
 3
-*
+
+* 
+
 * Internal logic first.
 
 Sovereign architecture second.
 
 Everything else downstream. 
 
- ## 
--  SECURED BRIEFING This is not a public memo.
+ ##
+
+- SECURED BRIEFING This is not a public memo.
 
 This is a Truth One: Moral authority compounds faster than capital.
 
@@ -63,10 +68,14 @@ A founder’s integrity is therefore not a “soft” category.
 It is the first pillar of sovereign risk management.
 
 It is the unpriced variable that determines whether a venture becomes an inheritance or a cautionary tale. *"He that walketh uprightly walketh surely."
+
 * 
--  **Proverbs 10:
+
+- **Proverbs 10:
 9
-*
+
+* 
+
 * Truth Four: An industrial lineage produces a sharper lens.
 
 Across the Scandinavian forges and North American workshops that shaped our ethos, a man’s word preceded his capacity.
@@ -89,8 +98,9 @@ Capacity third.
 
 Covenant always.
 
-PRINCIPAL VOICE 
--  THE METHOD I present the architecture as it is used.
+PRINCIPAL VOICE
+
+- THE METHOD I present the architecture as it is used.
 
 Clean, unembellished, sovereign.
 
@@ -174,12 +184,17 @@ THE SILENCE AUDIT People speak boldly when speech benefits them.
 
 Integrity reveals itself in silence-what they do not volunteer.
 
-We audit: 
--  Gaps in narrative 
--  Unexplained transitions 
--  Past obligations never mentioned 
--  Partnerships omitted without reason 
--  Failures reframed too neatly Silence is data.
+We audit:
+
+- Gaps in narrative
+
+- Unexplained transitions
+
+- Past obligations never mentioned
+
+- Partnerships omitted without reason
+
+- Failures reframed too neatly Silence is data.
 
 Precision is character.
 
@@ -188,10 +203,14 @@ The strongest founders tell the truth even when it reduces their shine.
 The weakest curate an image at all costs.
 
 And capital built on curated identity rarely survives real adversity. *"The just man walketh in his integrity: his children are blessed after him."
+
 * 
--  **Proverbs 20:
+
+- **Proverbs 20:
 7
-*
+
+* 
+
 * IV.
 
 THE CROSS‑JURISDICTIONAL CONSISTENCY TEST This is where façades break.
@@ -208,13 +227,19 @@ V.
 
 THE STEWARDSHIP VECTOR Every enterprise bends toward one of two destinies: Short-term wealth extraction or long-term value cultivation.
 
-The stewardship vector is discovered by examining a founder’s relationship to: 
--  Team investment 
--  Supplier fairness 
--  Capital discipline 
--  Truth in reporting 
--  Post‑exit intentions 
--  Treatment of the powerless Patterns across these domains reveal whether the founder intends to become a patriarch of legacy or merely a beneficiary of momentary prosperity.
+The stewardship vector is discovered by examining a founder’s relationship to:
+
+- Team investment
+
+- Supplier fairness
+
+- Capital discipline
+
+- Truth in reporting
+
+- Post‑exit intentions
+
+- Treatment of the powerless Patterns across these domains reveal whether the founder intends to become a patriarch of legacy or merely a beneficiary of momentary prosperity.
 
 A man committed to stewardship is predictable.
 
@@ -279,9 +304,13 @@ No covenant, no capital.
 IX.
 
 THE ECCLESIASTICAL PARALLEL The ancient principles are clear. *"He that is faithful in that which is least is faithful also in much."
+
 * 
--  **Luke 16:10
-*
+
+- **Luke 16:10
+
+* 
+
 * The founder who shortcuts the small will shortcut the large.
 
 The founder who keeps covenant in obscurity will keep covenant in prosperity.
@@ -290,8 +319,9 @@ That is the entire risk model.
 
 Truth precedes scaling.
 
-INTERNAL BYPASS 
--  EXTENDED ANALYSIS AND SYNTHESIS Now the structural integration.
+INTERNAL BYPASS
+
+- EXTENDED ANALYSIS AND SYNTHESIS Now the structural integration.
 
 Depth, jurisdictional dynamics, lineage.
 
@@ -406,10 +436,14 @@ Therefore, the integrity of the founder must be transmissible.
 A founder who lives by principles produces a culture built on principles.
 
 This is the true measure of stewardship. *"By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil."
+
 * 
--  **Proverbs 16:
+
+- **Proverbs 16:
 6
-*
+
+* 
+
 * The enterprise anchored in moral truth does not collapse when winds shift.
 
 It endures.

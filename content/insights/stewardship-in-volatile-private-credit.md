@@ -20,9 +20,7 @@ This gap has created a market where the durability of capital stewardship has be
 
 ## THE REGIME SHIFT
 
- The private credit market entered a new regime following the liquidity distortions of 20
-
-20 to 
+ The private credit market entered a new regime following the liquidity distortions of 2020 to 
 
 2022.
 
@@ -96,16 +94,19 @@ Asset Durability Durable assets provide a stable foundation for private credit.
 
 They generate definable cash flows, have clear industrial use cases, and demonstrate low replacement elasticity.
 
-Examples include: 
--  Alberta heavy oil with predictable decline curves and known recovery ceiling.
+Examples include:
 
-SAGD and CSS cycles inform institutional underwriting, reduce uncertainty, and allow for structured capital layering. 
--  Western European precision manufacturing facilities with 
+- Alberta heavy oil with predictable decline curves and known recovery ceiling.
+
+SAGD and CSS cycles inform institutional underwriting, reduce uncertainty, and allow for structured capital layering.
+
+- Western European precision manufacturing facilities with 
 
 30 to 
 
-40 year useful life horizons. 
--  Owner operated logistics assets with locked in customer throughput and measurable cost of repositioning.
+40 year useful life horizons.
+
+- Owner operated logistics assets with locked in customer throughput and measurable cost of repositioning.
 
 Durability reduces the entropy that often destabilizes private credit portfolios.
 
@@ -121,17 +122,21 @@ The rise of complex capital stacks across middle market borrowers has introduced
 
 Strategic Collateralization is the restructuring of liabilities, covenants, and cash flow availability in order to extend operational runway without sacrificing strategic flexibility.
 
-Key mechanisms include: 
--  LTV recalibration across senior, unitranche, and mezzanine layers.
+Key mechanisms include:
 
-This is particularly relevant when appraised value decouples from replacement value. 
--  Collateral realignment between operating assets and non operating assets.
+- LTV recalibration across senior, unitranche, and mezzanine layers.
 
-This is common among energy operators with multi basin portfolios. 
--  Cash flow waterfall restructuring to align working capital cycles with debt service coverage.
+This is particularly relevant when appraised value decouples from replacement value.
 
-This reduces unnecessary strain during seasonal or commodity driven fluctuations. 
--  Covenant re design to match the operational cadence of the underlying business.
+- Collateral realignment between operating assets and non operating assets.
+
+This is common among energy operators with multi basin portfolios.
+
+- Cash flow waterfall restructuring to align working capital cycles with debt service coverage.
+
+This reduces unnecessary strain during seasonal or commodity driven fluctuations.
+
+- Covenant re design to match the operational cadence of the underlying business.
 
 For example, thermal oil assets in Alberta often require steam cycle based covenant logic rather than monthly coverage testing.
 
@@ -151,12 +156,17 @@ The most resilient private credit structures integrate operational intelligence 
 
 This is particularly clear in the Alberta basin with partners like NAEO, who maintain a depth of technical understanding across SAGD cycle management, reservoir thermodynamics, and recovery factor optimization.
 
-Operationally aligned underwriting focuses on: 
--  Cost curve visibility. 
--  Asset management cycle timing. 
--  Field level maintenance cadence. 
--  Decline curve accuracy. 
--  Cash conversion efficiency.
+Operationally aligned underwriting focuses on:
+
+- Cost curve visibility.
+
+- Asset management cycle timing.
+
+- Field level maintenance cadence.
+
+- Decline curve accuracy.
+
+- Cash conversion efficiency.
 
 When operational data is integrated early, the capital structure becomes more accurate, more efficient, and more durable.
 
@@ -168,17 +178,25 @@ In the North American energy corridor, Roials Capital aligns with NAEO as the in
 
 NAEO operates with a technical rigor that is often absent in mid market operators.
 
-This includes: 
--  Full cycle recovery factor modeling. 
--  EPC level visibility across steam distribution systems. 
--  Tight integration between asset management and financing structures. 
--  Field based cash flow forecasting grounded in reservoir physics.
+This includes:
 
-Within other private credit sectors, Roials Capital focuses on: 
--  Identifying operators with high stewardship integrity. 
--  Mapping out capital stack stress points. 
--  Ensuring allocators have direct visibility into balance sheet optimization pathways. 
--  Facilitating institutional introductions that enhance continuity rather than destabilize it.
+- Full cycle recovery factor modeling.
+
+- EPC level visibility across steam distribution systems.
+
+- Tight integration between asset management and financing structures.
+
+- Field based cash flow forecasting grounded in reservoir physics.
+
+Within other private credit sectors, Roials Capital focuses on:
+
+- Identifying operators with high stewardship integrity.
+
+- Mapping out capital stack stress points.
+
+- Ensuring allocators have direct visibility into balance sheet optimization pathways.
+
+- Facilitating institutional introductions that enhance continuity rather than destabilize it.
 
 Roials Capital does not sell product.
 
@@ -201,7 +219,9 @@ In Swedish industrial history, the Spirit of Gnosjö created a culture where cap
 This produced a generation of companies that thrived through resource scarcity, global competition, and industrial restructuring.
 
 The Biblical framing of stewardship is functional rather than symbolic. **Proverbs 13:22
-*
+
+* 
+
 * states that a good man leaves an inheritance to his children's children.
 
 This is not about wealth accumulation.

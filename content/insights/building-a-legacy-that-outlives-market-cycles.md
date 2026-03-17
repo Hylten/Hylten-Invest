@@ -26,8 +26,7 @@ This is the essence of building a legacy that outlives market cycles.
 
 Hylten‑Invest provides crypto Monetization Architecture only at a minimum threshold of 2,000,
 
-00
-0 USD.
+000 USD.
 
 This maintains an institutional posture and ensures that the Asset-Backed Frameworks environment remains appropriate for HNWI and UHNW clientele.
 
@@ -51,8 +50,7 @@ Yet selling these positions to create liquidity can interrupt decades of compoun
 
 Hylten‑Invest provides public share Strategic Collateralization beginning at a minimum of 5,000,
 
-00
-0 USD.
+000 USD.
 
 This ensures a high threshold consistent with the clientele we serve and the scale required for proper institutional structuring.
 
@@ -90,12 +88,17 @@ It is not absence.
 
 It is precision.
 
-For high net worth and ultra high net worth families, a minimalist approach to Monetization Architecture and liquidity means: 
--  no unnecessary exposure 
--  no speculative pressure 
--  no forced sales 
--  no urgency driven by market headlines 
--  no complexity that obscures risk Minimalism allows clarity and long‑term decision making to dominate.
+For high net worth and ultra high net worth families, a minimalist approach to Monetization Architecture and liquidity means:
+
+- no unnecessary exposure
+
+- no speculative pressure
+
+- no forced sales
+
+- no urgency driven by market headlines
+
+- no complexity that obscures risk Minimalism allows clarity and long‑term decision making to dominate.
 
 It creates a stable environment where legacy planning can take place without interference from market cycles.
 
@@ -217,13 +220,19 @@ This philosophy guides every Institutional Liquidity Paths decision, every thres
 
 It is built through design.
 
-Families who adopt the legacy mindset focus on: 
--  structural liquidity 
--  multigenerational planning 
--  asset preservation 
--  principal authority 
--  disciplined credit solutions 
--  clarity over complexity These elements create a self‑reinforcing cycle of stability.
+Families who adopt the legacy mindset focus on:
+
+- structural liquidity
+
+- multigenerational planning
+
+- asset preservation
+
+- principal authority
+
+- disciplined credit solutions
+
+- clarity over complexity These elements create a self‑reinforcing cycle of stability.
 
 They establish an ecosystem where capital can grow quietly, without disruption from market noise or external pressure.
 
@@ -243,11 +252,9 @@ It is about discipline, conservatism, and clarity.
 
 Hylten‑Invest provides private credit Strategic Collateralization, asset based Monetization Architecture, crypto Strategic Collateralization beginning at 2,000,
 
-00
-0 USD, and public share Strategic Collateralization beginning at 5,000,
+000 USD, and public share Strategic Collateralization beginning at 5,000,
 
-00
-0 USD.
+000 USD.
 
 These are tools for families who understand that long‑term stewardship requires quiet, controlled, and intentional architecture.
 

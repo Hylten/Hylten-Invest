@@ -66,18 +66,25 @@ It sharpens governance.
 
 It eliminates vanity.
 
-It aligns capital with purpose. 
--  Communitarian order requires moral authority.
+It aligns capital with purpose.
+
+- Communitarian order requires moral authority.
 
 Not slogans.
 
-Behaviour. 
--  Free enterprise is the engine; stewardship is the governor. 
--  Generational capital survives only when duty outruns ambition. *"The integrity of the upright shall guide them."
+Behaviour.
+
+- Free enterprise is the engine; stewardship is the governor.
+
+- Generational capital survives only when duty outruns ambition. *"The integrity of the upright shall guide them."
+
 * 
--  **Proverbs 11:
+
+- **Proverbs 11:
 3
-*
+
+* 
+
 * This is where the Nordic tradition intersects the Christian industrial lineage.
 
 The Protestant ethic forces the hand back to the plough.

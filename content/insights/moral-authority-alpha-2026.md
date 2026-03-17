@@ -52,9 +52,7 @@ We address the architecture.
 
  
 
-## THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 20
-
-26 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist.
+## THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 2026 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist.
 
 They are reaching for the one attribute that cannot be automated, simulated, or purchased: Moral authority.
 
@@ -71,10 +69,14 @@ The last decade delivered a cascade of financial engines built by men without an
 When the tide receded, what remained were balance sheets with numbers but no foundations.
 
 The world rediscovered a truth older than the markets: *"He that walketh uprightly walketh surely."
+
 * 
--  **Proverbs 10:
+
+- **Proverbs 10:
 9
-*
+
+* 
+
 * The upright walk surely not because the road is free of obstacles but because their internal architecture absorbs shocks.
 
 Institutional capital, confronted with geopolitical volatility, sovereign debt pressures, and a credit cycle that will not stabilize, is rotating toward this internal architecture.
@@ -121,12 +123,17 @@ Not sentiment-stability.
 
 Not tradition-alpha.
 
-When the global allocator examines the lineage of Christian industrialists, he finds a pattern measurable in financial terms: 
--  Long-duration thinking produces superior capital structures. 
--  Covenant-oriented leadership reduces operational volatility. 
--  Stewardship frameworks outperform growth-for-growth’s-sake models. 
--  Ethical clarity simplifies governance. 
--  Duty compounds more predictably than ambition.
+When the global allocator examines the lineage of Christian industrialists, he finds a pattern measurable in financial terms:
+
+- Long-duration thinking produces superior capital structures.
+
+- Covenant-oriented leadership reduces operational volatility.
+
+- Stewardship frameworks outperform growth-for-growth’s-sake models.
+
+- Ethical clarity simplifies governance.
+
+- Duty compounds more predictably than ambition.
 
 In an era when capital has become nomadic, moral authority is the only force that keeps it rooted.
 
@@ -214,18 +221,19 @@ It remembers the hands that shaped it.
 
 Modern finance lost this memory during the era of abstraction.
 
-But the undercurrents of 20
-
-26 show a reawakening-allocators beginning to understand that capital requires spiritual architecture, not merely numerical architecture.
+But the undercurrents of 2026 show a reawakening-allocators beginning to understand that capital requires spiritual architecture, not merely numerical architecture.
 
 This is not mysticism.
 
 This is stewardship.
 
-The Christian theology of capital is built on three pillars: 
--  Creation: Capital is created through disciplined work. 
--  Dominion: Capital must be governed with integrity. 
--  Covenant: Capital is to be preserved and multiplied for future generations.
+The Christian theology of capital is built on three pillars:
+
+- Creation: Capital is created through disciplined work.
+
+- Dominion: Capital must be governed with integrity.
+
+- Covenant: Capital is to be preserved and multiplied for future generations.
 
 The allocator sees in these principles the antidote to speculative erosion.
 
@@ -281,15 +289,11 @@ This produces a risk-adjusted return profile that institutions consider superior
 
 Moral authority becomes the invisible margin of safety.
 
-THE 18
-
-74 FORGE PRINCIPLE THE INDUSTRIAL ROOT AS RISK SHIELD The allocator respects the man whose lineage touches the forge, the workshop, the sawmill, the early industrial problem-solving environment.
+THE 1874 FORGE PRINCIPLE THE INDUSTRIAL ROOT AS RISK SHIELD The allocator respects the man whose lineage touches the forge, the workshop, the sawmill, the early industrial problem-solving environment.
 
 Because industrial heritage forged character the modern economy can no longer produce reliably.
 
-The 18
-
-74 forge did not produce noise; it produced clarity.
+The 1874 forge did not produce noise; it produced clarity.
 
 It did not produce spectacle; it produced durability.
 
@@ -315,13 +319,19 @@ THE SOVEREIGN ARCHITECTURE WHY HYLTÉN-STEWARDSHIP COMMANDS PREMIUM TRUST When i
 
 They are making underwriting observations.
 
-They see in the stewardship architecture: 
--  Covenant anchored in Christian ethics 
--  Industrial heritage grounded in duty 
--  Discipline shaped through the Spirit of Gnosjö 
--  Generational orientation over opportunistic drift 
--  Moral clarity that does not oscillate with the zeitgeist 
--  A commitment to value creation rooted in service, not extraction This configuration reduces risk.
+They see in the stewardship architecture:
+
+- Covenant anchored in Christian ethics
+
+- Industrial heritage grounded in duty
+
+- Discipline shaped through the Spirit of Gnosjö
+
+- Generational orientation over opportunistic drift
+
+- Moral clarity that does not oscillate with the zeitgeist
+
+- A commitment to value creation rooted in service, not extraction This configuration reduces risk.
 
 It strengthens governance.
 

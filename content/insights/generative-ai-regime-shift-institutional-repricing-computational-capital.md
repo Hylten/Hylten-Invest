@@ -30,10 +30,13 @@ The objective is clarity that enables calibrated institutional decision making.
 
 ## THE REGIME SHIFT
 
- The generative AI sector has entered a capital regime defined by three concurrent forces: 
--  Constraint-driven repricing of computational infrastructure. 
--  Regulatory asymmetry between model developers, cloud platforms, and sovereign actors. 
--  An accelerating divergence between model sophistication and economically viable deployment.
+ The generative AI sector has entered a capital regime defined by three concurrent forces:
+
+- Constraint-driven repricing of computational infrastructure.
+
+- Regulatory asymmetry between model developers, cloud platforms, and sovereign actors.
+
+- An accelerating divergence between model sophistication and economically viable deployment.
 
 Institutions attempting to classify generative AI as a traditional venture technology cycle encounter a mismatch.
 
@@ -71,10 +74,13 @@ It is megawatts.
 
 4.
 
-Institutional misalignment Traditional equity risk frameworks are not designed for asset classes that combine: 
--  Venture risk on application layers. 
--  Industrial risk on infrastructure layers. 
--  Sovereign risk on data control, model alignment, and cross border export constraints.
+Institutional misalignment Traditional equity risk frameworks are not designed for asset classes that combine:
+
+- Venture risk on application layers.
+
+- Industrial risk on infrastructure layers.
+
+- Sovereign risk on data control, model alignment, and cross border export constraints.
 
 This is not a technology cycle.
 
@@ -96,11 +102,15 @@ The institutional allocator must categorize exposures into four structural pilla
 
 Model development This includes frontier model developers and specialized domain specific architectures.
 
-The economics are governed by: 
--  Training compute cycles. 
--  Model refresh frequency. 
--  Inferencing density across customer workloads. 
--  Long term storage cost of foundational datasets.
+The economics are governed by:
+
+- Training compute cycles.
+
+- Model refresh frequency.
+
+- Inferencing density across customer workloads.
+
+- Long term storage cost of foundational datasets.
 
 Model development is capex intensive, hit driven, and sensitive to regulatory policy.
 
@@ -110,11 +120,15 @@ The allocator must treat this category as an R and D asset class with diminishin
 
 Inference infrastructure Inference facilities convert trained models into real time output.
 
-The economics are driven by: 
--  GPU or TPU utilization rates. 
--  Throughput per watt. 
--  Latency tolerance of enterprise workloads. 
--  Preference for inference at edge vs centralized cloud.
+The economics are driven by:
+
+- GPU or TPU utilization rates.
+
+- Throughput per watt.
+
+- Latency tolerance of enterprise workloads.
+
+- Preference for inference at edge vs centralized cloud.
 
 Inference behaves like a distributed utility.
 
@@ -124,12 +138,17 @@ The capital curve resembles telecom buildouts more than software scaling.
 
 Model orchestration and enterprise integration The market often underestimates the industrial complexity of integrating generative AI into enterprise workflows.
 
-The integration layer requires: 
--  Domain specific grounding. 
--  Data quality governance. 
--  Multi agent orchestration. 
--  Hallucination mitigation protocols. 
--  Model governance compliance.
+The integration layer requires:
+
+- Domain specific grounding.
+
+- Data quality governance.
+
+- Multi agent orchestration.
+
+- Hallucination mitigation protocols.
+
+- Model governance compliance.
 
 This category produces more stable cash flows than model development.
 
@@ -141,10 +160,13 @@ Sovereign and sector specific datasets Data is the substrate of generative AI.
 
 Control of vertically integrated, high fidelity datasets yields competitive defensibility similar to mineral rights or proprietary reservoirs.
 
-Three categories dominate: 
--  Medical and clinical datasets. 
--  Industrial and operational telemetry. 
--  National language corpora.
+Three categories dominate:
+
+- Medical and clinical datasets.
+
+- Industrial and operational telemetry.
+
+- National language corpora.
 
 These assets are becoming regulated strategic resources.
 
@@ -156,11 +178,15 @@ Training costs can rise faster than revenue generation.
 
 Large model architecture introduces unavoidable heat, power, and latency constraints.
 
-The investment thesis must therefore incorporate: 
--  Assurance of power availability. 
--  Long term GPU supply rights. 
--  Contractual certainty on cloud prioritization. 
--  Security of dataset ownership.
+The investment thesis must therefore incorporate:
+
+- Assurance of power availability.
+
+- Long term GPU supply rights.
+
+- Contractual certainty on cloud prioritization.
+
+- Security of dataset ownership.
 
 Generative AI capital flows hinge on asset hardening.
 
@@ -178,12 +204,17 @@ The role is to provide allocators with situational intelligence, jurisdictional 
 
 1.
 
-Strategic Alignment Institutional capital requires precision allocation frameworks that 
--  Regulatory risk vectors. 
--  Energy and power constraints. 
--  Model security standards. 
--  Sovereign data obligations. 
--  Long term operational viability.
+Strategic Alignment Institutional capital requires precision allocation frameworks that
+
+- Regulatory risk vectors.
+
+- Energy and power constraints.
+
+- Model security standards.
+
+- Sovereign data obligations.
+
+- Long term operational viability.
 
 Roials Capital evaluates generative AI exposures for congruence with allocator mandates, ensuring that the investment thesis integrates industrial realities rather than marketing narratives. 
 
@@ -213,12 +244,17 @@ Each
 
  INTRODUCTION
 
- is curated to ensure: 
--  Balance sheet integrity. 
--  Compliance discipline. 
--  Transparency on cost structures. 
--  Clear understanding of hardware dependency. 
--  Maturity of monetization frameworks.
+ is curated to ensure:
+
+- Balance sheet integrity.
+
+- Compliance discipline.
+
+- Transparency on cost structures.
+
+- Clear understanding of hardware dependency.
+
+- Maturity of monetization frameworks.
 
 Generative AI requires curation.
 
@@ -235,15 +271,22 @@ It is a discipline rooted in the theology of capital.
 The allocator must treat computational power with the same moral gravity as industrial capability.
 
 The Spirit of Gnosjö defines capital as a generational mandate. **Proverbs 13:22
-*
+
+* 
+
 * frames capital as inheritance, not speculation.
 
-Stewardship therefore demands: 
--  Capital sufficiency over capital velocity. 
--  Infrastructure that preserves societal continuity. 
--  Technological adoption anchored in moral accountability. 
--  Avoidance of wasteful or duplicative compute cycles. 
--  Preference for technologies that elevate human capability.
+Stewardship therefore demands:
+
+- Capital sufficiency over capital velocity.
+
+- Infrastructure that preserves societal continuity.
+
+- Technological adoption anchored in moral accountability.
+
+- Avoidance of wasteful or duplicative compute cycles.
+
+- Preference for technologies that elevate human capability.
 
 Generative AI is not ethically neutral.
 
@@ -251,10 +294,13 @@ Models trained on contaminated datasets reproduce structural errors.
 
 Optimization aligned to engagement can undermine social cohesion.
 
-Allocation must therefore follow a stewardship hierarchy: 
--  Does this technology strengthen human agency? 
--  Does it reinforce the fabric of intergenerational responsibility? 
--  Does it align with the long arc of industrial purpose?
+Allocation must therefore follow a stewardship hierarchy:
+
+- Does this technology strengthen human agency?
+
+- Does it reinforce the fabric of intergenerational responsibility?
+
+- Does it align with the long arc of industrial purpose?
 
 The Nordic industrial legacy teaches that every machine carries the imprint of its builder.
 

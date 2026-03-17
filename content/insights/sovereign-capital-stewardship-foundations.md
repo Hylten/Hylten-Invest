@@ -50,9 +50,12 @@ It is cultivated.
 
 It is shaped by the habits of the steward, not the movements of the market.
 
-The theological foundation is clear: capital is a responsibility given for the purpose of construction, not extraction. 
--  **Proverbs 13:22
-*
+The theological foundation is clear: capital is a responsibility given for the purpose of construction, not extraction.
+
+- **Proverbs 13:22
+
+* 
+
 * articulates this orientation with precision. 
 
  
@@ -245,12 +248,17 @@ Sovereign capital behaves differently because it thinks differently.
 
 It interprets markets not as opportunities for extraction but as systems requiring stewardship.
 
-This creates a distinctive decision making lens anchored in: 
--  alignment with essential industries 
--  preference for long horizon cash flows 
--  structural avoidance of short cycle speculation 
--  governance anchored in moral authority 
--  intergenerational continuity Energy in North America, particularly through disciplined operators such as NAEO, becomes a natural match for this orientation.
+This creates a distinctive decision making lens anchored in:
+
+- alignment with essential industries
+
+- preference for long horizon cash flows
+
+- structural avoidance of short cycle speculation
+
+- governance anchored in moral authority
+
+- intergenerational continuity Energy in North America, particularly through disciplined operators such as NAEO, becomes a natural match for this orientation.
 
 The Alberta basin offers geological predictability.
 

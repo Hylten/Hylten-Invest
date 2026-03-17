@@ -174,12 +174,17 @@ They are discreet, flexible, and engineered for durability.
 
 But the underlying principles remain constant.
 
-The framework must: 
--  Preserve ownership 
--  Maintain optionality 
--  Protect reputation 
--  Minimize operational friction 
--  Enhance long‑term stability When these conditions are met, the portfolio becomes more than an investment.
+The framework must:
+
+- Preserve ownership
+
+- Maintain optionality
+
+- Protect reputation
+
+- Minimize operational friction
+
+- Enhance long‑term stability When these conditions are met, the portfolio becomes more than an investment.
 
 It becomes a sovereign system.
 

@@ -68,12 +68,17 @@ This creates liquidity without forced liquidation, allowing investors to maintai
 
 Minimum mandate depth: $5M+ target size.
 
-This approach favors investors who prioritize: 
--  Low visibility 
--  Long-term horizon 
--  Collateral-backed strategies 
--  Stability over acceleration 
--  Institutional-grade execution Private Credit is increasingly the preferred terrain for UHNW capital because it rewards patience and discourages volatility.
+This approach favors investors who prioritize:
+
+- Low visibility
+
+- Long-term horizon
+
+- Collateral-backed strategies
+
+- Stability over acceleration
+
+- Institutional-grade execution Private Credit is increasingly the preferred terrain for UHNW capital because it rewards patience and discourages volatility.
 
 It offers quiet yield, predictable structures, and alignment with long-term stewardship principles. 
 
@@ -123,15 +128,13 @@ Asset Based Asset-Backed Frameworks across qualified holdings
 
 Crypto Asset-Backed Frameworks at a minimum threshold of 2,000,
 
-00
-0 USD 
+000 USD 
 
 4.
 
 Public Share Monetization Architecture at a minimum threshold of 5,000,
 
-00
-0 USD These thresholds are intentional.
+000 USD These thresholds are intentional.
 
 They enforce discipline.
 
@@ -143,8 +146,7 @@ Hyltén Invest does not operate in that space.
 
 Our approach is conservative, collateral-backed, and focused solely on qualified investors with a minimum position of 2,000,
 
-00
-0 USD.
+000 USD.
 
 This threshold is not arbitrary.
 
@@ -166,13 +168,11 @@ For structure.
 
 Positions below 5,000,
 
-00
-0 USD often lack the flexibility and stability required for institutionally aligned Asset-Backed Frameworks frameworks.
+000 USD often lack the flexibility and stability required for institutionally aligned Asset-Backed Frameworks frameworks.
 
 This is why Hyltén Invest maintains a minimum threshold of 5,000,
 
-00
-0 USD.
+000 USD.
 
 At this scale, public equity holdings transition from mere market exposure into meaningful collateral assets.
 
@@ -228,12 +228,17 @@ It is measured in continuity.
 
 ## Institutional Mechanics for Private Capital There is a growing convergence between institutional capital frameworks and private wealth architecture.
 
-HNWI and UHNW investors now seek: 
--  Predictable Capital Structuring structures 
--  Minimal exposure to external volatility 
--  Quiet liquidity solutions 
--  Collateral-based flexibility 
--  Stability across generational time horizons Our role is to bring institutional mechanics into private capital environments.
+HNWI and UHNW investors now seek:
+
+- Predictable Capital Structuring structures
+
+- Minimal exposure to external volatility
+
+- Quiet liquidity solutions
+
+- Collateral-based flexibility
+
+- Stability across generational time horizons Our role is to bring institutional mechanics into private capital environments.
 
 This bridges the gap between traditional wealth management and the structural sophistication that institutional investors have relied on for decades.
 

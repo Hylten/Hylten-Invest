@@ -98,11 +98,15 @@ When applied to regions such as Alberta, stewardship becomes quantifiable.
 
 Conventional heavy oil, particularly in reservoirs suitable for SAGD and CSS methods, offers repeatable physics based on thermal recovery.
 
-Reservoir behavior is governed by: 
--  Permeability vectors aligned with steam chamber propagation. 
--  Viscosity reduction as a function of controlled heat input. 
--  Predictable pressure windows that stabilize production. 
--  Recovery factors that range from 
+Reservoir behavior is governed by:
+
+- Permeability vectors aligned with steam chamber propagation.
+
+- Viscosity reduction as a function of controlled heat input.
+
+- Predictable pressure windows that stabilize production.
+
+- Recovery factors that range from 
 
 40 to 
 
@@ -118,11 +122,15 @@ This is stewardship in technical form.
 
 It treats the asset as a trust rather than an event.
 
-From a financial perspective, stewardship aligns with: 
--  Conservative LTV calibration relative to PDP reserves. 
--  Balanced reinvestment into production maintenance rather than yield extraction. 
--  Counter cyclical capital deployment to stabilize local ecosystems. 
--  Cash flow structuring that respects reservoir physics rather than quarterly optics.
+From a financial perspective, stewardship aligns with:
+
+- Conservative LTV calibration relative to PDP reserves.
+
+- Balanced reinvestment into production maintenance rather than yield extraction.
+
+- Counter cyclical capital deployment to stabilize local ecosystems.
+
+- Cash flow structuring that respects reservoir physics rather than quarterly optics.
 
 The allocator who adopts this approach aligns with natural systems instead of overriding them.
 
@@ -156,11 +164,15 @@ Stewardship requires [Asset-Backed Frameworks]([Roials Capital](https://roialsca
 
 It requires balance sheet optimization that serves long term sustainability.
 
-The allocator aligned with stewardship will understand why: 
--  Cross collateralized structures stabilize generational portfolios. 
--  Asset hardening creates economic durability in volatile cycles. 
--  Opportunity velocity must be managed rather than maximized. 
--  Institutional partnerships outperform isolated capital action.
+The allocator aligned with stewardship will understand why:
+
+- Cross collateralized structures stabilize generational portfolios.
+
+- Asset hardening creates economic durability in volatile cycles.
+
+- Opportunity velocity must be managed rather than maximized.
+
+- Institutional partnerships outperform isolated capital action.
 
 The partnership model functions as a filter.
 
@@ -189,7 +201,9 @@ This filter operates across four dimensions:
 1.
 
 Temporal discipline Long-horizon thinking governs investment discipline. **Proverbs 13:22
-*
+
+* 
+
 * defines the generational mandate.
 
 A good man leaves an inheritance not only of assets but of stability. 
@@ -222,18 +236,27 @@ It rejects strategies that produce short term yield at the expense of long term 
 
 DECISION MAKING LENS FOR ALLOCATORS Allocators who wish to operate under a theology of capital require a different analytical framework.
 
-They evaluate: 
--  The moral durability of the operator. 
--  The integrity of the production methodology. 
--  The sustainability of the decline curve. 
--  The resilience of the capital structure. 
--  The generational implications of the decision.
+They evaluate:
 
-They avoid: 
--  Excessive leverage. 
--  Yield displacement that damages asset health. 
--  Extractive financial engineering that undermines community ecosystems. 
--  Capital deployment driven by market narratives rather than empirical physics.
+- The moral durability of the operator.
+
+- The integrity of the production methodology.
+
+- The sustainability of the decline curve.
+
+- The resilience of the capital structure.
+
+- The generational implications of the decision.
+
+They avoid:
+
+- Excessive leverage.
+
+- Yield displacement that damages asset health.
+
+- Extractive financial engineering that undermines community ecosystems.
+
+- Capital deployment driven by market narratives rather than empirical physics.
 
 The allocator who adopts this framework will not chase superficial ESG signaling.
 

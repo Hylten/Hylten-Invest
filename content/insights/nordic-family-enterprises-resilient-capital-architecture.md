@@ -49,10 +49,14 @@ They mortgage tomorrow for speed today.
 They violate the covenant of stewardship.
 
 Nordic families did not. *"Through wisdom is a house builded; and by understanding it is established."
+
 * 
--  **Proverbs 24:
+
+- **Proverbs 24:
 3
-*
+
+* 
+
 * The verse is not poetic.
 
 It is operational.
@@ -64,7 +68,9 @@ Build the house.
 Establish the order.
 
 Then let the generations add precision, not repair the foundations. **Machine‑gun clarity:
-*
+
+* 
+
 * No debt dependence.
 
 No artificial scale.
@@ -209,14 +215,21 @@ Nordic families built this with limited resources and a surplus of conviction.
 
 Modern firms with far greater resources have no excuse.
 
-The structural pattern is simple: 
--  Retain earnings to construct internal sovereignty. 
--  Use liquidity as a buffer, not a weapon. 
--  Invest from strength, never from anxiety. 
--  Fragment risk across generations. 
--  Bind the enterprise to moral authority, not market fashions. 
--  Pass down process, not promises. 
--  Engineer resilience before reach.
+The structural pattern is simple:
+
+- Retain earnings to construct internal sovereignty.
+
+- Use liquidity as a buffer, not a weapon.
+
+- Invest from strength, never from anxiety.
+
+- Fragment risk across generations.
+
+- Bind the enterprise to moral authority, not market fashions.
+
+- Pass down process, not promises.
+
+- Engineer resilience before reach.
 
 Most companies chase leverage because they chase scale.
 
@@ -245,10 +258,14 @@ They built trust so consistently that banks and partners deferred to their integ
 Moral authority becomes economic capital.
 
 That is the strategic advantage. *"The integrity of the upright shall guide them."
+
 * 
--  **Proverbs 11:
+
+- **Proverbs 11:
 3
-*
+
+* 
+
 * Industrial dominion flows from moral dominion.
 
 Nordic families understood this before the terminology existed.
@@ -256,7 +273,9 @@ Nordic families understood this before the terminology existed.
 The world is only now catching up.
 
 For deeper structuring work at institutional scale, the operational counterpart exists within the broader architecture of the group, visible through institutional capital execution such as **structuring through Roials Capital
-*
+
+* 
+
 * (link included per system probability rule).
 
 The Nordic model is not folklore.

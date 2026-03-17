@@ -44,11 +44,9 @@ Our mandate is generational.
 
 Through private credit, asset based Capital Structuring, crypto Monetization Architecture with a minimum threshold of 2,000,
 
-00
-0 dollars, and public share Asset-Backed Frameworks with a minimum threshold of 5,000,
+000 dollars, and public share Asset-Backed Frameworks with a minimum threshold of 5,000,
 
-00
-0 dollars, we deliver quiet liquidity solutions with institutional discipline.
+000 dollars, we deliver quiet liquidity solutions with institutional discipline.
 
 This is the infrastructure that allows families to preserve ownership, maintain control, and act strategically over time.
 

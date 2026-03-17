@@ -76,11 +76,15 @@ Hyltén Invest lends against private credit positions.
 
 The objective is to turn selected private credit allocations into functional liquidity reservoirs without forcing a sale or compromising long-term return pathways.
 
-This allows clients to: 
--  Maintain investment exposure 
--  Avoid premature exits 
--  Meet liquidity requirements on their own terms 
--  Preserve compounding dynamics The simplicity is intentional.
+This allows clients to:
+
+- Maintain investment exposure
+
+- Avoid premature exits
+
+- Meet liquidity requirements on their own terms
+
+- Preserve compounding dynamics The simplicity is intentional.
 
 Private credit, when properly evaluated, provides stable collateral mechanics.
 
@@ -126,11 +130,15 @@ Minimum threshold is two million dollars.
 
 We work exclusively with significant positions because the mechanics required to preserve value operate best at scale.
 
-The principles are conservative. 
--  Insist on custody structures that protect the client 
--  Maintain disciplined liquidity facility to value thresholds 
--  Avoid market driven liquidation triggers that compromise long-term strategy 
--  Prioritise stability and capital integrity This is not retail crypto Strategic Collateralization.
+The principles are conservative.
+
+- Insist on custody structures that protect the client
+
+- Maintain disciplined liquidity facility to value thresholds
+
+- Avoid market driven liquidation triggers that compromise long-term strategy
+
+- Prioritise stability and capital integrity This is not retail crypto Strategic Collateralization.
 
 It is institutional architecture delivered in a private client environment.
 
@@ -156,11 +164,15 @@ Clients maintain exposure to long-term market value while gaining Access is rest
 
 Minimum mandate depth: $5M+ target size.
 
-This is particularly useful for: 
--  Strategic reallocation without liquidation 
--  Tax efficient liquidity 
--  Intergenerational planning 
--  Acquisition or investment opportunities with compressed timelines Again, our objective is structural clarity rather than financial engineering.
+This is particularly useful for:
+
+- Strategic reallocation without liquidation
+
+- Tax efficient liquidity
+
+- Intergenerational planning
+
+- Acquisition or investment opportunities with compressed timelines Again, our objective is structural clarity rather than financial engineering.
 
 We prefer balance.
 
@@ -222,13 +234,19 @@ Asset preservation is not simply the avoidance of loss.
 
 It is the intentional design of a financial environment where assets can breathe, grow and remain intact across decades.
 
-Our framework prioritises: 
--  Measured leverage 
--  Conservative collateralisation 
--  Transparent mechanics 
--  Long-term orientation 
--  Predictable liquidity channels 
--  Reduced exposure to market noise This philosophy aligns with families who value endurance.
+Our framework prioritises:
+
+- Measured leverage
+
+- Conservative collateralisation
+
+- Transparent mechanics
+
+- Long-term orientation
+
+- Predictable liquidity channels
+
+- Reduced exposure to market noise This philosophy aligns with families who value endurance.
 
 They understand that increased capital does not require increased risk.
 
@@ -296,10 +314,13 @@ They require conservative mechanics.
 
 They require discretion.
 
-Our minimum thresholds for crypto Capital Structuring and public share Institutional Liquidity Paths reflect this philosophy. 
--  Crypto Capital Structuring: minimum two million dollars 
--  Public share Capital Structuring: minimum five million dollars 
--  Private credit and Asset-Based Lending: structured individually, always with a high net worth context The architecture dictates every structure we deploy is meaningful, stable and aligned with long-term continuity. 
+Our minimum thresholds for crypto Capital Structuring and public share Institutional Liquidity Paths reflect this philosophy.
+
+- Crypto Capital Structuring: minimum two million dollars
+
+- Public share Capital Structuring: minimum five million dollars
+
+- Private credit and Asset-Based Lending: structured individually, always with a high net worth context The architecture dictates every structure we deploy is meaningful, stable and aligned with long-term continuity. 
 
 ## The Essence of the Hyltén Invest Method If the philosophy had to be condensed into a single idea, it is this.
 

@@ -128,13 +128,11 @@ Hyltén Invest reflects this understanding.
 
 Crypto Monetization Architecture requires a minimum of 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 Public Share Institutional Liquidity Paths requires a minimum of 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 These thresholds are intentional.
 

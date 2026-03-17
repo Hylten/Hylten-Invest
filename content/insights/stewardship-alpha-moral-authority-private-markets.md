@@ -18,15 +18,17 @@ Moral authority does.
 
 The covenantal kind.
 
-The kind hammered into steel at the 18
-
-74 forge.
+The kind hammered into steel at the 1874 forge.
 
 The kind that sees capital not as trophy but as duty. *"He that walketh uprightly walketh surely."
+
 * 
--  **Proverbs 10:
+
+- **Proverbs 10:
 9
-*
+
+* 
+
 * The shift is structural.
 
 Not cultural.

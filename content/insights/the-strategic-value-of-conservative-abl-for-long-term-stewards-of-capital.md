@@ -34,13 +34,19 @@ Families prefer systems that are predictable, modular, and resilient.
 
 This is why minimalist Asset-Based Lending frameworks outperform more complex financing instruments.
 
-A short list of benefits often appreciated by family offices includes: 
--  Liquidity without portfolio disruption 
--  No requirement for public disclosure 
--  Predictable collateral management 
--  No forced alignment with external investment strategies 
--  Ability to preserve control of long-term assets 
--  Reduced counterparty noise The simplicity is where the sophistication lives. 
+A short list of benefits often appreciated by family offices includes:
+
+- Liquidity without portfolio disruption
+
+- No requirement for public disclosure
+
+- Predictable collateral management
+
+- No forced alignment with external investment strategies
+
+- Ability to preserve control of long-term assets
+
+- Reduced counterparty noise The simplicity is where the sophistication lives. 
 
 ## The Interplay Between Asset-Based Lending and Private Credit Ecosystems Private credit markets have expanded significantly.
 

@@ -19,7 +19,9 @@ A worldview.
 A covenantal stance toward capital marked by restraint, clarity, and fidelity.
 
 Families that endure-three generations, four, five-share one structural constant: disciplined capital formation anchored in moral authority rather than opportunistic yield hunting. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children's children.
 
 The text is mandate.
@@ -94,17 +96,27 @@ Not simplistic.
 
 Not synonymous with low return.
 
-The discipline integrates: 
--  Collateral dominance 
--  Jurisdictional delta shaping 
--  Bilateral private credit 
--  Inter‑generational liquidity escrows 
--  Operating cash‑flow prioritization 
--  Time‑weighted capital isolation 
--  Asset hardening against inflationary decay 
--  Non‑correlated revenue channels 
--  Controlled leverage cycles 
--  Mandated distribution pacing The objective is autonomy.
+The discipline integrates:
+
+- Collateral dominance
+
+- Jurisdictional delta shaping
+
+- Bilateral private credit
+
+- Inter‑generational liquidity escrows
+
+- Operating cash‑flow prioritization
+
+- Time‑weighted capital isolation
+
+- Asset hardening against inflationary decay
+
+- Non‑correlated revenue channels
+
+- Controlled leverage cycles
+
+- Mandated distribution pacing The objective is autonomy.
 
 Sovereignty.
 
@@ -228,14 +240,21 @@ Conservative financing adopts the long arc.
 
 Families must think in 30‑year increments, not three-year bursts.
 
-The financial architecture must therefore include: 
--  A capital constitution 
--  A debt doctrine 
--  A liquidity calendar 
--  A cross‑border enforcement plan 
--  A capital reserve pact 
--  A next‑generation governance brief 
--  A patriarchal-matriarchal transmission mandate The capital constitution defines what the family will not do.
+The financial architecture must therefore include:
+
+- A capital constitution
+
+- A debt doctrine
+
+- A liquidity calendar
+
+- A cross‑border enforcement plan
+
+- A capital reserve pact
+
+- A next‑generation governance brief
+
+- A patriarchal-matriarchal transmission mandate The capital constitution defines what the family will not do.
 
 The debt doctrine defines acceptable leverage durations, collateral structures, rate ceilings, and sponsor guarantees.
 
@@ -345,12 +364,17 @@ The next generation must receive a capital ecosystem that is understandable, gov
 
 Complexity kills continuity.
 
-Conservative financing simplifies operations into predictable structures: 
--  Known interest schedules 
--  Known reserve thresholds 
--  Known asset coverage ratios 
--  Known liquidity corridors 
--  Known governance mechanics Predictability creates dignity.
+Conservative financing simplifies operations into predictable structures:
+
+- Known interest schedules
+
+- Known reserve thresholds
+
+- Known asset coverage ratios
+
+- Known liquidity corridors
+
+- Known governance mechanics Predictability creates dignity.
 
 Dignity creates confidence.
 
@@ -384,12 +408,17 @@ In a fragmented world, families require an anchor.
 
 Conservative financing is that anchor.
 
-It integrates: 
--  Moral authority 
--  Structural precision 
--  Jurisdictional intelligence 
--  Cash‑flow stability 
--  Multi‑generational cohesion This architecture ensures that capital created by one generation is not consumed by the next but multiplied through discipline and transmitted without corrosion.
+It integrates:
+
+- Moral authority
+
+- Structural precision
+
+- Jurisdictional intelligence
+
+- Cash‑flow stability
+
+- Multi‑generational cohesion This architecture ensures that capital created by one generation is not consumed by the next but multiplied through discipline and transmitted without corrosion.
 
 Legacy is not wealth.
 

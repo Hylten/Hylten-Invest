@@ -202,11 +202,15 @@ These facilities must be conservative and aligned with stewardship principles.
 
 ## Risk Management in Multi Generational Credit Planning Every credit strategy requires disciplined risk governance.
 
-Families should use conservative ratios, modest draw levels, and stable structures. 
--  Who approves balance sheet optimization. 
--  How risk is assessed. 
--  When to increase or reduce credit usage. 
--  What reporting is required.
+Families should use conservative ratios, modest draw levels, and stable structures.
+
+- Who approves balance sheet optimization.
+
+- How risk is assessed.
+
+- When to increase or reduce credit usage.
+
+- What reporting is required.
 
 This ensures clarity across generations and avoids emotional decision making.
 
@@ -224,11 +228,15 @@ Liquidity coverage protects the family from external shocks and internal transit
 
 It connects to investment policy, estate planning, tax planning, and governance.
 
-A holistic approach includes: 
--  A family investment policy that defines the role of credit. 
--  An estate plan that aligns credit structures with generational transitions. 
--  A cash management plan that outlines liquidity thresholds. 
--  A governance model that specifies authority and oversight.
+A holistic approach includes:
+
+- A family investment policy that defines the role of credit.
+
+- An estate plan that aligns credit structures with generational transitions.
+
+- A cash management plan that outlines liquidity thresholds.
+
+- A governance model that specifies authority and oversight.
 
 When these pieces align, the strategy becomes sustainable for decades. 
 
@@ -238,11 +246,15 @@ It removes complexity.
 
 It eliminates noise.
 
-A minimalist credit strategy respects four ideas: 
--  Fewer structures, but stronger ones. 
--  Conservative ratios that do not strain future generations. 
--  Long term tenor that reduces pressure. 
--  Simple execution that can be managed by any competent family office team.
+A minimalist credit strategy respects four ideas:
+
+- Fewer structures, but stronger ones.
+
+- Conservative ratios that do not strain future generations.
+
+- Long term tenor that reduces pressure.
+
+- Simple execution that can be managed by any competent family office team.
 
 This approach transforms credit from a transactional tool into a structural safeguard. 
 

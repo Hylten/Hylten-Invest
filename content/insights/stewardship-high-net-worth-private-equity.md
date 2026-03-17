@@ -30,9 +30,7 @@ The principles reflect the Spirit of Gnosjö: the Nordic industrial ethos built 
 
 ## THE REGIME SHIFT
 
- The private equity market no longer behaves like the expansionary cycle that defined 20
-
-09 through 
+ The private equity market no longer behaves like the expansionary cycle that defined 2009 through 
 
 2021.
 
@@ -85,7 +83,9 @@ This is particularly evident in sectors such as North American energy, specialty
 These pressures recalibrate the meaning of ownership.
 
 Stewardship requires an understanding that value grows in the presence of disciplined constraints. **Proverbs 13:22
-*
+
+* 
+
 * states that a good person leaves an inheritance for their children's children.
 
 This is governance, not sentiment.
@@ -112,16 +112,19 @@ High net worth private equity stakes often lack structured governance.
 
 Documentation exists, but operational oversight does not.
 
-Stewardship corrects this by implementing three non-negotiables. 
--  Board visibility.
+Stewardship corrects this by implementing three non-negotiables.
+
+- Board visibility.
 
 The owner must understand the governance map of every portfolio company.
 
-This includes board composition, voting thresholds, and special approval rights. 
--  GP alignment.
+This includes board composition, voting thresholds, and special approval rights.
 
-The manager's compensation structure must be transparent enough to evaluate whether incentives favor long horizon outcomes. 
--  Documentation mapping.
+- GP alignment.
+
+The manager's compensation structure must be transparent enough to evaluate whether incentives favor long horizon outcomes.
+
+- Documentation mapping.
 
 The owner must possess a clear and current map of capital commitments, uncalled capital, co-investment rights, and GP-led secondary exposure.
 
@@ -137,14 +140,17 @@ Institutional Liquidity Paths Private equity allocators often attempt to treat l
 
 It is not.
 
-Liquidity is engineered through strategy, not circumstance. 
--  Cash flow laddering.
+Liquidity is engineered through strategy, not circumstance.
 
-Aligning distributions from mature assets with capital calls from new vintages. 
--  Cross vehicle synchronization.
+- Cash flow laddering.
 
-Evaluating overlapping exposures across different funds to reduce volatility in capital calls. 
--  Secondary calibration.
+Aligning distributions from mature assets with capital calls from new vintages.
+
+- Cross vehicle synchronization.
+
+Evaluating overlapping exposures across different funds to reduce volatility in capital calls.
+
+- Secondary calibration.
 
 Using institutional grade intermediaries only when liquidity is required and only under controlled valuation frameworks.
 
@@ -162,10 +168,13 @@ Diversification spreads capital.
 
 Decentralization spreads operational exposure.
 
-Effective decentralization includes: 
--  Decoupling sector risk from manager risk. 
--  Ensuring concentration where productivity is highest but ensuring that operational risk is not correlated. 
--  Identifying hidden synthetic exposures where multiple managers hold similar positions in overlapping industry clusters.
+Effective decentralization includes:
+
+- Decoupling sector risk from manager risk.
+
+- Ensuring concentration where productivity is highest but ensuring that operational risk is not correlated.
+
+- Identifying hidden synthetic exposures where multiple managers hold similar positions in overlapping industry clusters.
 
 Stewardship requires that concentration be intentional.
 
@@ -177,11 +186,16 @@ Succession Control The stewardship of private equity stakes extends beyond the o
 
 Many families fail to document operational roles, knowledge pathways, and advisory positions for the next generation.
 
-Succession control includes: 
--  Knowledge transfer schedules for each major holding. 
--  Written governance principles anchored in moral and practical responsibility. 
--  Decision-making guardrails that limit reactive allocation during generational transitions. **Ecclesiastes 7:12
-*
+Succession control includes:
+
+- Knowledge transfer schedules for each major holding.
+
+- Written governance principles anchored in moral and practical responsibility.
+
+- Decision-making guardrails that limit reactive allocation during generational transitions. **Ecclesiastes 7:12
+
+* 
+
 * teaches that wisdom preserves those who have it.
 
 This applies to capital.
@@ -212,11 +226,15 @@ When an owner faces exposure to energy or resource based private equity, Roials 
 
 In North American heavy oil and conventional production, the institutional archetype is represented by our strategic partner NAEO, which brings operational insight into recovery mechanics such as SAGD and CSS, decline curve predictability, and basin physics unique to Alberta production systems.
 
-For non energy allocations, the Roials Capital model emphasizes structural alignment across: 
--  Capital stack optimization. 
--  Fair market governance evaluations. 
--  Cross border regulatory navigation. 
--  Operational intelligence that redirects unfocused capital into disciplined frameworks.
+For non energy allocations, the Roials Capital model emphasizes structural alignment across:
+
+- Capital stack optimization.
+
+- Fair market governance evaluations.
+
+- Cross border regulatory navigation.
+
+- Operational intelligence that redirects unfocused capital into disciplined frameworks.
 
 The intention is not to direct capital but to discipline it.
 
@@ -248,19 +266,24 @@ This created continuity, durability, and intergenerational coherence.
 
 Stewardship operates through filters.
 
-The three filters that govern high net worth private equity stakes under the theology of capital are: 
--  Preservation without stagnation.
+The three filters that govern high net worth private equity stakes under the theology of capital are:
 
-Wealth must be protected but never immobilized. 
--  Growth without excess.
+- Preservation without stagnation.
 
-Capital must expand but never distort values. 
--  Legacy without entitlement.
+Wealth must be protected but never immobilized.
+
+- Growth without excess.
+
+Capital must expand but never distort values.
+
+- Legacy without entitlement.
 
 Inheritance must be earned, not presumed.
 
 The biblical instruction in **Luke 16:10
-*
+
+* 
+
 * that those who are faithful with little will be faithful with much is not about scale.
 
 It is about discipline.
@@ -273,12 +296,17 @@ Growth is a byproduct of disciplined constraints.
 
 The allocator asks how to maintain direction, purpose, and integrity across cycles.
 
-The decision framework includes: 
--  Evaluation of governance architecture. 
--  Validation of Asset-Backed Frameworks pathways. 
--  Identification of succession exposures. 
--  Calibration of purpose driven constraints. 
--  Integration of operational intelligence through strategic partners.
+The decision framework includes:
+
+- Evaluation of governance architecture.
+
+- Validation of Asset-Backed Frameworks pathways.
+
+- Identification of succession exposures.
+
+- Calibration of purpose driven constraints.
+
+- Integration of operational intelligence through strategic partners.
 
 The outcome is clarity.
 

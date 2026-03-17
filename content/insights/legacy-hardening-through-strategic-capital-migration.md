@@ -60,13 +60,19 @@ Capital that survives transitions retains its utility, its optionality, and its 
 
 The catalysts are structural rather than cyclical.
 
-Families are responding to the following pressures: 
--  Consolidation of power among regulatory blocs that can redefine wealth rights. 
--  Rising scrutiny of cross border holdings and private ownership structures. 
--  Increased systemic risk within overleveraged financial institutions. 
--  Legal environments that shift rapidly and unpredictably. 
--  Higher correlation between public markets, resulting in amplified drawdowns. 
--  A global trend toward asset taxation and reporting expansion.
+Families are responding to the following pressures:
+
+- Consolidation of power among regulatory blocs that can redefine wealth rights.
+
+- Rising scrutiny of cross border holdings and private ownership structures.
+
+- Increased systemic risk within overleveraged financial institutions.
+
+- Legal environments that shift rapidly and unpredictably.
+
+- Higher correlation between public markets, resulting in amplified drawdowns.
+
+- A global trend toward asset taxation and reporting expansion.
 
 These pressures create an environment in which the geographical, legal, and institutional placement of capital matters as much as the capital itself.
 
@@ -106,11 +112,15 @@ They create exposure rather than protection.
 
 Hardening requires reassessing these entities and adjusting the architecture.
 
-Migration often includes: 
--  Re domiciling legacy trusts. 
--  Consolidating fragmented holding companies. 
--  Creating clean asset pathways to avoid forced transparency. 
--  Establishing custodial frameworks that insulate capital from litigation or jurisdictional change.
+Migration often includes:
+
+- Re domiciling legacy trusts.
+
+- Consolidating fragmented holding companies.
+
+- Creating clean asset pathways to avoid forced transparency.
+
+- Establishing custodial frameworks that insulate capital from litigation or jurisdictional change.
 
 The aim is to reduce complexity while increasing resilience. # ## 
 
@@ -212,13 +222,19 @@ Migration is simplest before stress occurs.
 
 ## The Cost of Inaction If capital remains static in a dynamic environment, risk accumulates faster than returns.
 
-Inaction exposes families to: 
--  Increased taxation regimes. 
--  Regulation that narrows operational freedom. 
--  Compounded liquidity risk in public markets. 
--  Institutional vulnerabilities among banks and custodians. 
--  Jurisdictional changes that cannot be reversed. 
--  Litigation risk that pierces old structures.
+Inaction exposes families to:
+
+- Increased taxation regimes.
+
+- Regulation that narrows operational freedom.
+
+- Compounded liquidity risk in public markets.
+
+- Institutional vulnerabilities among banks and custodians.
+
+- Jurisdictional changes that cannot be reversed.
+
+- Litigation risk that pierces old structures.
 
 Hardening is therefore not a preference.
 

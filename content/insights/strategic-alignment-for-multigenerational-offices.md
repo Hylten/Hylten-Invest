@@ -40,11 +40,15 @@ Strategic alignment requires a system that ensures liquidity is never reactive.
 
 Hylten‑Invest provides private credit and asset based Strategic Collateralization, creating liquidity that does not disrupt long term strategic positions.
 
-This allows family offices to: 
--  Maintain concentrated holdings without sacrificing flexibility. 
--  Navigate generational transitions without forced asset sales. 
--  Support philanthropic or entrepreneurial initiatives with structural consistency. 
--  Create buffers against market volatility while remaining fully invested.
+This allows family offices to:
+
+- Maintain concentrated holdings without sacrificing flexibility.
+
+- Navigate generational transitions without forced asset sales.
+
+- Support philanthropic or entrepreneurial initiatives with structural consistency.
+
+- Create buffers against market volatility while remaining fully invested.
 
 Our capital is engineered for sophisticated holders.
 
@@ -68,15 +72,15 @@ Hylten‑Invest focuses exclusively on clients who understand the role of respon
 
 HNWI and UHNW families already operate within disciplined frameworks, which allows us to provide credit facilities that are strategic rather than transactional.
 
-Minimum thresholds: 
--  Crypto Monetization Architecture, 2,000,
+Minimum thresholds:
 
-00
-0 USD. 
--  Public Share Institutional Liquidity Paths, 5,000,
+- Crypto Monetization Architecture, 2,000,
 
-00
-0 USD.
+000 USD.
+
+- Public Share Institutional Liquidity Paths, 5,000,
+
+000 USD.
 
 These thresholds are designed to maintain the integrity of our institutional mechanics.
 
@@ -122,12 +126,17 @@ They operate beneath surface volatility.
 
 They move capital over decades, not quarters.
 
-Slow variables include: 
--  Reputation. 
--  Governance stability. 
--  Relationship capital. 
--  Conservatism in leverage. 
--  Quality of external partners.
+Slow variables include:
+
+- Reputation.
+
+- Governance stability.
+
+- Relationship capital.
+
+- Conservatism in leverage.
+
+- Quality of external partners.
 
 Hylten‑Invest is structured for these slow variables.
 
@@ -187,13 +196,11 @@ It requires a shared view on liquidity risk, counterparty risk, and portfolio co
 
 With our crypto Strategic Collateralization threshold at 2,000,
 
-00
-0 USD, we support sophisticated holders who treat digital assets as a structured balance sheet component rather than a speculative pursuit.
+000 USD, we support sophisticated holders who treat digital assets as a structured balance sheet component rather than a speculative pursuit.
 
 By Asset-Backed Frameworks against public securities with a minimum 5,000,
 
-00
-0 USD threshold, we ensure that only scaled, institutionally organized portfolios engage these facilities.
+000 USD threshold, we ensure that only scaled, institutionally organized portfolios engage these facilities.
 
 The alignment here is not about asset class preference.
 
@@ -203,12 +210,17 @@ Discipline maintains unity across generations, even when risk appetites differ.
 
 ## Building a Framework for Multi‑Generational Resilience Families that endure create systems, not reactions.
 
-A resilient family office maintains clarity in: 
--  Capital purpose. 
--  Liquidity channels. 
--  Risk parameters. 
--  Opportunity evaluation. 
--  Intergenerational governance.
+A resilient family office maintains clarity in:
+
+- Capital purpose.
+
+- Liquidity channels.
+
+- Risk parameters.
+
+- Opportunity evaluation.
+
+- Intergenerational governance.
 
 These elements come together to create what can be called strategic gravity, the cohesive pull that keeps the family aligned across varying ambitions and market cycles.
 
@@ -238,12 +250,17 @@ These transitions often create the highest risk of misalignment.
 
 Not because of disagreement, but because of unclear structural planning.
 
-Strategic alignment stabilizes transitions by: 
--  Providing pre engineered liquidity solutions. 
--  Maintaining investment continuity. 
--  Reducing emotional decision pressure. 
--  Supporting governance bodies with consistent tools. 
--  Ensuring that change occurs within a controlled structure.
+Strategic alignment stabilizes transitions by:
+
+- Providing pre engineered liquidity solutions.
+
+- Maintaining investment continuity.
+
+- Reducing emotional decision pressure.
+
+- Supporting governance bodies with consistent tools.
+
+- Ensuring that change occurs within a controlled structure.
 
 Families that prepare structurally move through transitions without destabilization.
 

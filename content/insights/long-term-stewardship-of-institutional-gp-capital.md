@@ -46,17 +46,19 @@ This is achieved through disciplined Capital Structuring against highly interpre
 
 We intentionally restrict our offering to areas where the collateral is knowable, auditable, and functionally durable.
 
-These include: 
--  Private Credit 
--  Asset Based Capital Structuring 
--  Crypto Institutional Liquidity Paths, with a minimum threshold of 2,000,
+These include:
 
-00
-0 USD 
--  Public Share Capital Structuring, with a minimum threshold of 5,000,
+- Private Credit
 
-00
-0 USD This narrow focus is deliberate.
+- Asset Based Capital Structuring
+
+- Crypto Institutional Liquidity Paths, with a minimum threshold of 2,000,
+
+000 USD
+
+- Public Share Capital Structuring, with a minimum threshold of 5,000,
+
+000 USD This narrow focus is deliberate.
 
 We concentrate on assets that carry intrinsic structure.
 
@@ -104,8 +106,7 @@ Yet volatility demands structure.
 
 For holders above the 2,000,
 
-00
-0 USD threshold, crypto assets become candidates for disciplined balance sheet optimization.
+000 USD threshold, crypto assets become candidates for disciplined balance sheet optimization.
 
 Hylten Invest treats large-scale crypto positions as institutionally interpretable collateral.
 
@@ -123,8 +124,7 @@ However, liquidity must be extracted without forcing disposition.
 
 For investors with 5,000,
 
-00
-0 USD or more in liquid public positions, Monetization Architecture against shares creates quiet liquidity without interrupting compounding.
+000 USD or more in liquid public positions, Monetization Architecture against shares creates quiet liquidity without interrupting compounding.
 
 The value is subtle.
 
@@ -176,12 +176,17 @@ Hylten Invest stands precisely where these two values converge.
 
 ## Stewardship for Multi-Generational Capital True stewardship becomes visible not in years but in decades.
 
-Families that operate at scale understand that capital must serve multiple layers: 
--  Operating businesses 
--  Investment portfolios 
--  GP commitments 
--  Trust structures 
--  Legacy planning Long-term Strategic Collateralization solutions allow these layers to coexist.
+Families that operate at scale understand that capital must serve multiple layers:
+
+- Operating businesses
+
+- Investment portfolios
+
+- GP commitments
+
+- Trust structures
+
+- Legacy planning Long-term Strategic Collateralization solutions allow these layers to coexist.
 
 Liquidity is available when required.
 
@@ -197,11 +202,15 @@ Our Asset-Backed Frameworks solutions provide the opposite.
 
 Collateralized liquidity becomes strategic, not reactive.
 
-It allows families and principals to: 
--  Seize opportunities without breaking long-term commitments 
--  Avoid selling at lower valuations 
--  Maintain anchor positions in private credit and public equities 
--  Uphold GP alignment without strain The result is calm.
+It allows families and principals to:
+
+- Seize opportunities without breaking long-term commitments
+
+- Avoid selling at lower valuations
+
+- Maintain anchor positions in private credit and public equities
+
+- Uphold GP alignment without strain The result is calm.
 
 Calm is a competitive advantage. 
 
@@ -222,10 +231,14 @@ Stewardship requires protecting that exposure from unrelated liquidity demands.
 By Institutional Liquidity Paths against institutional-grade collateral, Hylten Invest enables GPs to remain fully aligned with their LPs while Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
--  Personal commitments 
--  Opportunity-driven allocations 
--  Portfolio rebalancing 
--  Family-level considerations No dilution.
+
+- Personal commitments
+
+- Opportunity-driven allocations
+
+- Portfolio rebalancing
+
+- Family-level considerations No dilution.
 
 No disruption.
 

@@ -46,7 +46,9 @@ But as a custodian of the capital entrusted to him by Providence.
 
 ## Capital Under Covenant **Psalm 24:
 1
-*
+
+* 
+
 * “The earth is the Lord’s.
 
 And all it contains.” The origin of capital is divine ownership.
@@ -76,7 +78,9 @@ Christian owners understand its morality.
 The Hyltén Invest doctrine fuses both. 
 
 ## Generational Wealth as Obligation **Proverbs 13:22
-*
+
+* 
+
 * “A good man leaves an inheritance to his children’s children.” Generational wealth is not accumulation.
 
 It is continuity.
@@ -107,11 +111,15 @@ Growth for the sake of the descendants called to govern the results.
 
 ## Asset Hardening Institutional-Grade Readiness Asset hardening transforms wealth from fragile possession into durable instrument.
 
-It ensures that capital meets: 
--  Institutional scrutiny 
--  Private credit standards 
--  Long-horizon governance 
--  Cross-border liquidity demands The architecture is minimalist.
+It ensures that capital meets:
+
+- Institutional scrutiny
+
+- Private credit standards
+
+- Long-horizon governance
+
+- Cross-border liquidity demands The architecture is minimalist.
 
 No narratives.
 
@@ -134,7 +142,9 @@ It is about clarity.
 Clarity that your capital is ready to operate without friction. 
 
 ## Stewardship as Operational Philosophy **Luke 12:48
-*
+
+* 
+
 * “To whom much is given.
 
 Much will be required.” Stewardship requires velocity, not stagnation.
@@ -151,11 +161,15 @@ Noise.
 
 The institutional world respects speed when it is disciplined and data-backed.
 
-Hyltén Invest maintains velocity through: 
--  Direct Principal-to-Principal communication 
--  Zero ceremony 
--  Document-first operations 
--  Binary assessments instead of rhetorical meetings Velocity is moral.
+Hyltén Invest maintains velocity through:
+
+- Direct Principal-to-Principal communication
+
+- Zero ceremony
+
+- Document-first operations
+
+- Binary assessments instead of rhetorical meetings Velocity is moral.
 
 Delay is negligence. 
 
@@ -257,12 +271,17 @@ Preparation is obedience.
 
 Trust is the output of structure.
 
-Trust grows where: 
--  Documentation is exact 
--  Processes are mechanical 
--  Thresholds are respected 
--  Communication is austere 
--  Authority is clear Christian stewardship adds transcendental credibility.
+Trust grows where:
+
+- Documentation is exact
+
+- Processes are mechanical
+
+- Thresholds are respected
+
+- Communication is austere
+
+- Authority is clear Christian stewardship adds transcendental credibility.
 
 The combination is rare.
 
@@ -310,11 +329,15 @@ Irregular leadership destroys enterprises.
 
 Irregular stewardship insults Providence.
 
-The sacred geometry of capital aligns: 
--  Cash flow rhythm 
--  Risk segmentation 
--  Asset visibility 
--  Debt coverage integrity This is not mysticism.
+The sacred geometry of capital aligns:
+
+- Cash flow rhythm
+
+- Risk segmentation
+
+- Asset visibility
+
+- Debt coverage integrity This is not mysticism.
 
 This is precision. 
 
@@ -343,7 +366,9 @@ Less fashionable.
 But its survival record is unmatched. 
 
 ## Wealth as Witness **Matthew 5:16
-*
+
+* 
+
 * “Let your light shine before men.
 
 That they may see your good works.” Wealth is witness.
@@ -394,11 +419,15 @@ Without covenant, capital corrupts.
 
 Without stewardship, capital evaporates.
 
-Theology provides: 
--  Boundary 
--  Purpose 
--  Constraint 
--  Continuity It turns the Principal from opportunist into custodian.
+Theology provides:
+
+- Boundary
+
+- Purpose
+
+- Constraint
+
+- Continuity It turns the Principal from opportunist into custodian.
 
 In an age of volatility, only rooted custodians endure. 
 
@@ -408,11 +437,15 @@ It is not aimless.
 
 It is not directionless.
 
-It is a tool in the hands of a steward called to: 
--  Guard 
--  Multiply 
--  Govern 
--  Transfer The Theology of Capital is not theoretical.
+It is a tool in the hands of a steward called to:
+
+- Guard
+
+- Multiply
+
+- Govern
+
+- Transfer The Theology of Capital is not theoretical.
 
 It is operational.
 

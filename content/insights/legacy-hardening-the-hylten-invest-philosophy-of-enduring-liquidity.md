@@ -106,20 +106,23 @@ In a world where visibility is vulnerability, silence is strength.
 
 ## The Hylten Invest Client Profile We do not serve everyone.
 
-We serve: 
--  Family offices. 
--  High Net Worth individuals. 
--  Ultra High Net Worth individuals. 
--  Institutional‑scale private clients. 
--  Stewards of multi‑generational capital.
+We serve:
+
+- Family offices.
+
+- High Net Worth individuals.
+
+- Ultra High Net Worth individuals.
+
+- Institutional‑scale private clients.
+
+- Stewards of multi‑generational capital.
 
 Our Strategic Collateralization minimums reflect this focus. 2,000,
 
-00
-0 USD for crypto [Capital Structuring]([Roials Capital](https://roialscapital.com/)). 5,000,
+000 USD for crypto [Capital Structuring]([Roials Capital](https://roialscapital.com/)). 5,000,
 
-00
-0 USD for public share Institutional Liquidity Paths.
+000 USD for public share Institutional Liquidity Paths.
 
 These thresholds ensure alignment.
 

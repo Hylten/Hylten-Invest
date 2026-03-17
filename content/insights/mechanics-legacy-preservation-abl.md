@@ -16,9 +16,12 @@ The Spirit of Gnosjö defined it.
 
 A theology of work.
 
-A theology of responsibility. 
--  **Proverbs 13:22
-*
+A theology of responsibility.
+
+- **Proverbs 13:22
+
+* 
+
 * : A good man leaves an inheritance to his children's children.
 
 That mandate shaped factories.
@@ -250,9 +253,8 @@ Structured correctly, inventory becomes a liquidity source, not a liability.
 Appraisal-driven valuations deliver transparent coverage.
 
 Advance rates sit between 25
--
 
-65 percent, depending on commodity stability.
+- 65 percent, depending on commodity stability.
 
 This transforms warehouses from sunk cost to strategic shield.
 
@@ -455,7 +457,9 @@ Just enduring.
 Asset-Based Lending is the quiet architecture of endurance.
 
 It is the institutional expression of **Proverbs 13:22
-*
+
+* 
+
 * .
 
 Not abstract.

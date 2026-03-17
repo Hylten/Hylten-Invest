@@ -17,7 +17,9 @@ It is an entrusted substance, morally charged, structurally defined, spiritually
 The market treats capital as motion.
 
 The principal treats capital as mandate. **Proverbs 13:22
-*
+
+* 
+
 * states: A good man leaves an inheritance to his children's children.
 
 In institutional terms, this is not poetry.
@@ -130,10 +132,13 @@ Every other form is costume capital.
 
 Synthetic confidence.
 
-True sovereign capital operates under a tri-fold discipline: 
--  positional sovereignty 
--  Monetization Architecture 
--  moral authority Positional sovereignty means the principal defines the jurisdictional frame, not the market.
+True sovereign capital operates under a tri-fold discipline:
+
+- positional sovereignty
+
+- Monetization Architecture
+
+- moral authority Positional sovereignty means the principal defines the jurisdictional frame, not the market.
 
 Jurisdiction is a weapon.
 
@@ -241,10 +246,13 @@ The principal must engineer this advantage intentionally.
 
 The stewardship of sovereign capital demands filtration.
 
-Opportunities must be filtered by three questions: 
--  Does this strengthen the lineage? 
--  Does this harden the base layer? 
--  Does this extend dominion for the next generation?
+Opportunities must be filtered by three questions:
+
+- Does this strengthen the lineage?
+
+- Does this harden the base layer?
+
+- Does this extend dominion for the next generation?
 
 If the answer is no, allocate nothing.
 
@@ -266,11 +274,15 @@ Ecosystem design is the highest level of capital stewardship.
 
 In Asset-Backed Frameworks, the focus is always the same: optionality.
 
-Optionality is created through four levers: 
--  cash reserves 
--  credit lines 
--  collateral architecture 
--  time arbitrage Time arbitrage is misunderstood.
+Optionality is created through four levers:
+
+- cash reserves
+
+- credit lines
+
+- collateral architecture
+
+- time arbitrage Time arbitrage is misunderstood.
 
 It is not timing the market.
 
@@ -430,10 +442,13 @@ The principal desires duty first.
 
 Returns follow.
 
-The future of capital stewardship lies in three frontiers: 
--  cross-border liquidity architectures 
--  private-credit sovereignty 
--  industrial regeneration Cross-border liquidity architectures require jurisdictional intelligence.
+The future of capital stewardship lies in three frontiers:
+
+- cross-border liquidity architectures
+
+- private-credit sovereignty
+
+- industrial regeneration Cross-border liquidity architectures require jurisdictional intelligence.
 
 Jurisdiction defines tax friction, regulatory exposure, enforcement asymmetry.
 
@@ -514,7 +529,9 @@ Compounding produces inheritance.
 Inheritance is the ultimate KPI.
 
 A good man leaves an inheritance to his children's children. **Proverbs 13:22
-*
+
+* 
+
 * .
 
 This is not suggestion.

@@ -36,12 +36,17 @@ This is the environment in which Hylten‑Invest functions as a structural partn
 
 It is a competitive advantage.
 
-Families with silent liquidity can: 
--  Acquire distressed assets when the market is dislocated. 
--  Restructure portfolios without forced selling. 
--  Bridge succession planning without financial turbulence. 
--  Privately finance internal family ventures. 
--  Maintain control within private companies during generational transitions.
+Families with silent liquidity can:
+
+- Acquire distressed assets when the market is dislocated.
+
+- Restructure portfolios without forced selling.
+
+- Bridge succession planning without financial turbulence.
+
+- Privately finance internal family ventures.
+
+- Maintain control within private companies during generational transitions.
 
 Liquidity is the operating leverage of long term wealth management.
 
@@ -55,12 +60,17 @@ Families with large balance sheets do not require elaborate narratives.
 
 They require infrastructure that works reliably.
 
-The minimalist mindset ensures: 
--  Clean collateral pathways. 
--  Clear liquidity facility mechanics. 
--  Predictable liquidity schedules. 
--  Reduced operational friction. 
--  Absolute discretion.
+The minimalist mindset ensures:
+
+- Clean collateral pathways.
+
+- Clear liquidity facility mechanics.
+
+- Predictable liquidity schedules.
+
+- Reduced operational friction.
+
+- Absolute discretion.
 
 This is not a trend.
 
@@ -88,12 +98,17 @@ Where institutions optimize for average outcomes, we optimize for continuity and
 
 Where mass affluent products dominate the market, we remain focused on private credit, asset backed Institutional Liquidity Paths, and specialized liquidity solutions for families that require institutional mechanics without institutional exposure.
 
-Our environment is built for: 
--  Quiet stability. 
--  Multi generational continuity. 
--  Capital structures that outlive any single economic cycle. 
--  Strategic liquidity that reinforces governance. 
--  Families who expect more than standardized financial products.
+Our environment is built for:
+
+- Quiet stability.
+
+- Multi generational continuity.
+
+- Capital structures that outlive any single economic cycle.
+
+- Strategic liquidity that reinforces governance.
+
+- Families who expect more than standardized financial products.
 
 This is not wealth management.
 

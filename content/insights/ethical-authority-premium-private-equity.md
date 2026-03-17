@@ -37,20 +37,29 @@ Value requires backbone.
 Legacy requires order.
 
 Enterprise requires truth. *"He that walketh uprightly walketh surely."
+
 * 
--  **Proverbs 10:
+
+- **Proverbs 10:
 9
-*
-* Principal logic: 
--  Authority is not declared.
 
-Authority is inherited, proven, tested under pressure. 
--  Institutional LPs read balance sheets second.
+* 
 
-They read character first. 
--  The market now prices integrity as a risk variable. 
--  Covenant stewardship creates an asymmetry: durability becomes yield. 
--  Free enterprise trusts the builder who carries moral weight.
+* Principal logic:
+
+- Authority is not declared.
+
+Authority is inherited, proven, tested under pressure.
+
+- Institutional LPs read balance sheets second.
+
+They read character first.
+
+- The market now prices integrity as a risk variable.
+
+- Covenant stewardship creates an asymmetry: durability becomes yield.
+
+- Free enterprise trusts the builder who carries moral weight.
 
 Not fashion.
 

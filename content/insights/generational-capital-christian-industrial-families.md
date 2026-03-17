@@ -25,9 +25,13 @@ Duty first.
 Yield second.
 
 Legacy always. *A good man leaveth an inheritance to his children's children.
+
 * 
--  **Proverbs 13:22
-*
+
+- **Proverbs 13:22
+
+* 
+
 * Generational capital is not an asset pool.
 
 It is an internal code.
@@ -44,8 +48,9 @@ It builds markets.
 
 This is the architecture that outlives founders and withstands cycles.
 
-Three pillars recur in every enduring Christian industrial house: 
--  Covenant thinking.
+Three pillars recur in every enduring Christian industrial house:
+
+- Covenant thinking.
 
 The enterprise is never a playground for ambition.
 
@@ -53,8 +58,9 @@ It is a trust.
 
 A burden taken willingly.
 
-Profit becomes a tool for service, not spectacle. 
--  Industrial clarity.
+Profit becomes a tool for service, not spectacle.
+
+- Industrial clarity.
 
 Solve real problems.
 
@@ -70,8 +76,9 @@ Production.
 
 When the work is tangible, the family stays grounded.
 
-The children see cause and effect. 
--  Moral hierarchy.
+The children see cause and effect.
+
+- Moral hierarchy.
 
 A Principal leads.
 

@@ -6,11 +6,15 @@ author: "Hylten Invest"
 slug: "asset-hardening-strategies-global-families"
 --- 
 
-title: "Asset Hardening Strategies for Global Families: Long-Horizon Liquidity and Structural Defense" description: "Institutional brief on liquidity engineering, cross-border structuring, and multigenerational asset hardening frameworks for global industrial families." date: "2025-07-24" author: "Jonas Hyltén 
--  Hylten-Invest" slug: "asset-hardening-strategies-global-families" keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening" 
--  
--  
--  Global families face a structural dilemma.
+title: "Asset Hardening Strategies for Global Families: Long-Horizon Liquidity and Structural Defense" description: "Institutional brief on liquidity engineering, cross-border structuring, and multigenerational asset hardening frameworks for global industrial families." date: "2025-07-24" author: "Jonas Hyltén
+
+- Hylten-Invest" slug: "asset-hardening-strategies-global-families" keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
+
+- 
+
+- 
+
+- Global families face a structural dilemma.
 
 Capital expands.
 
@@ -57,8 +61,11 @@ Ownership becomes stratified, not linear.
 Risk becomes choreographed, not inherited.
 
 The strategic logic follows three governing principles:
+
 • Hard assets first.
+
 • Liquidity last, but engineered.
+
 • Structures as shields, not containers.
 
 Hard assets form the ballast.
@@ -285,8 +292,9 @@ This is the surface layer.
 
 Clock two: Medium-horizon liquidity.
 
-Five 
--  to twelve-year cycles.
+Five
+
+- to twelve-year cycles.
 
 Private credit.
 

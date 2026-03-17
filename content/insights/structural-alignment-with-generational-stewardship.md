@@ -26,12 +26,17 @@ A mandate is not a goal.
 
 A mandate is an assignment.
 
-For Hyltén Invest and aligned Fund-III grade activities, the core mandates remain: 
--  North American Energy Opportunities 
--  European acquisition corridor under MiFID II 
--  structural asset hardening 
--  covenant stewardship across owner layers 
--  engineering driven origination Mandate discipline prevents distraction.
+For Hyltén Invest and aligned Fund-III grade activities, the core mandates remain:
+
+- North American Energy Opportunities
+
+- European acquisition corridor under MiFID II
+
+- structural asset hardening
+
+- covenant stewardship across owner layers
+
+- engineering driven origination Mandate discipline prevents distraction.
 
 Distraction fractures stewardship.
 
@@ -41,10 +46,13 @@ Fractured stewardship erodes generational continuity.
 
 It prevents drift into risk profiles that compromise the enterprise.
 
-Current thresholds: 
--  crypto backed Asset-Backed Frameworks from 2M USD 
--  public share Asset-Backed Frameworks from 5M USD 
--  no exceptions without board level covenant review In covenant stewardship, predictability is moral.
+Current thresholds:
+
+- crypto backed Asset-Backed Frameworks from 2M USD
+
+- public share Asset-Backed Frameworks from 5M USD
+
+- no exceptions without board level covenant review In covenant stewardship, predictability is moral.
 
 It communicates reliability.
 
@@ -54,12 +62,17 @@ It signals seriousness.
 
 It will be defined by structure.
 
-The families that rise will be those that understand: 
--  capital as calling 
--  structure as witness 
--  discipline as protection 
--  velocity as obedience 
--  covenant as governance The Spirit of Gnosjö is not nostalgia.
+The families that rise will be those that understand:
+
+- capital as calling
+
+- structure as witness
+
+- discipline as protection
+
+- velocity as obedience
+
+- covenant as governance The Spirit of Gnosjö is not nostalgia.
 
 It is a living pattern of Christian industriousness that remains relevant in modern private markets.
 

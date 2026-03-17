@@ -35,10 +35,14 @@ Duty.
 They built more than firms.
 
 They built foundations. *"The earth is the Lord’s, and the fulness thereof."
+
 * 
--  **Psalm 24:
+
+- **Psalm 24:
 1
-*
+
+* 
+
 * Sacred capital begins in recognition.
 
 You do not own the resource.
@@ -88,7 +92,9 @@ Character protects value.
 And only a principled architecture preserves it across generations.
 
 Three pillars form the sovereign structure:
+
 • The Moral Mandate: Capital deployed with clean hands and straight purpose.
+
 • The Industrial Mandate: Build.
 
 Fix.
@@ -96,6 +102,7 @@ Fix.
 Solve.
 
 Pass forward.
+
 • The Covenant Mandate: Guard the long arc.
 
 Protect the children’s children.
@@ -118,8 +125,9 @@ A system where talent rises.
 
 Where ambition is not punished.
 
-Where industrious communities like Gnosjö demonstrate the power of voluntary cooperation 
--  and where the strong become strong by serving.
+Where industrious communities like Gnosjö demonstrate the power of voluntary cooperation
+
+- and where the strong become strong by serving.
 
 For global structuring, Roials Capital handles the operational machinery of scale, but the blueprint originates here in the covenant chamber [Roials Capital](https://roialscapital.com/) Guard the capital.
 

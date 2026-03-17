@@ -20,9 +20,12 @@ The Nordic industrial families understood this.
 
 Gnosjö understood this.
 
-The biblical principle stands: A good man leaves an inheritance to his children’s children, 
--  **Proverbs 13:22
-*
+The biblical principle stands: A good man leaves an inheritance to his children’s children,
+
+- **Proverbs 13:22
+
+* 
+
 * .
 
 Migration of capital is, at its core, the migration of trust.
@@ -370,7 +373,9 @@ Into safer jurisdictions.
 Into clearer governance.
 
 Into institutional frameworks that honor lineage. **Proverbs 13:22
-*
+
+* 
+
 * stands not as sentiment but as mandate.
 
 Inheritance is structural.

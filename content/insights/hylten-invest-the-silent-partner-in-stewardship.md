@@ -278,10 +278,13 @@ Hylten’s clients understand that transparency is a process, not a promise.
 
 They value conservative underwriting, clear collateral rules, and the absence of aggressive leverage.
 
-This architecture of trust is built on three ideas. 
--  Stability over speed 
--  Precision over performance claims 
--  Stewardship over speculation Families that think long term do not need complexity.
+This architecture of trust is built on three ideas.
+
+- Stability over speed
+
+- Precision over performance claims
+
+- Stewardship over speculation Families that think long term do not need complexity.
 
 They need clarity.
 

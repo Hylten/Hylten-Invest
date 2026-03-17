@@ -48,12 +48,17 @@ It offers the ability to navigate stress environments without sacrificing long-t
 
 It allows liquidity to move independently of volatility.
 
-This is particularly important in environments where: 
--  Interest rates shift 
--  Market valuations compress 
--  Liquidity becomes uneven 
--  Financing windows open and close unpredictably 
--  Private and public asset correlations distort Stewardship in the modern era cannot rely on static frameworks.
+This is particularly important in environments where:
+
+- Interest rates shift
+
+- Market valuations compress
+
+- Liquidity becomes uneven
+
+- Financing windows open and close unpredictably
+
+- Private and public asset correlations distort Stewardship in the modern era cannot rely on static frameworks.
 
 It must incorporate flexible liquidity structures that preserve the long arc of wealth.
 

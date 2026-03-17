@@ -34,9 +34,12 @@ Families thrive when the architecture is explicit, procedural, and sovereign.
 
 The purpose of this brief is to establish a strategic alignment blueprint for long‑horizon offices operating within an industrial Christian tradition-Hylten‑Invest logic-and to articulate a coherent path for Fund‑III era mandates.
 
-The brief assumes a family enterprise with entrenched industrial DNA, heterogeneous capital appetites, and the moral expectation that wealth functions not as status but as stewardship. 
--  **Proverbs 13:22
-*
+The brief assumes a family enterprise with entrenched industrial DNA, heterogeneous capital appetites, and the moral expectation that wealth functions not as status but as stewardship.
+
+- **Proverbs 13:22
+
+* 
+
 * directs 
 
 ## THE MANDATE
@@ -63,10 +66,13 @@ Not an investment shell.
 
 A sovereign adjudicator of capital, values, and continuity.
 
-This requires a three‑tier structure: 
--  A constitutional tier defining rights, duties, and red lines. 
--  A strategic tier defining targets, risk tolerances, and long‑arc themes. 
--  An operating tier defining capital vehicles, liquidity cycles, execution teams, and veto powers.
+This requires a three‑tier structure:
+
+- A constitutional tier defining rights, duties, and red lines.
+
+- A strategic tier defining targets, risk tolerances, and long‑arc themes.
+
+- An operating tier defining capital vehicles, liquidity cycles, execution teams, and veto powers.
 
 The constitutional tier is the anchor.
 
@@ -114,10 +120,13 @@ Manufacturing, energy infrastructure, precision engineering, logistics, heavy in
 
 The Spirit of Gnosjö-industrial pragmatism fused with moral accountability-provides the operational ethos required to remain competitive while preserving dignity.
 
-In the Fund‑III cycle, strategic alignment requires three commitments: 
--  Capital must concentrate toward real‑cashflow platforms. 
--  Debt instruments must be integrated with operational control mechanisms. 
--  Expansion must follow a theology of capital, not an opportunistic chase for yield.
+In the Fund‑III cycle, strategic alignment requires three commitments:
+
+- Capital must concentrate toward real‑cashflow platforms.
+
+- Debt instruments must be integrated with operational control mechanisms.
+
+- Expansion must follow a theology of capital, not an opportunistic chase for yield.
 
 A theology of capital places purpose above performance but recognizes that purpose without performance dies.
 
@@ -313,11 +322,15 @@ This is how families maintain cohesion.
 
 This is how multi‑generational prosperity remains aligned with values, not diluted by ambition.
 
-To maintain precision, the family office must function on four decision rails: 
--  Mandate rail: Defines investment universe and mission parameters. 
--  Governance rail: Defines authority, vetoes, and oversight logic. 
--  Liquidity rail: Defines contributions, distributions, and redemption cycles. 
--  Accountability rail: Defines performance measurement and consequence logic.
+To maintain precision, the family office must function on four decision rails:
+
+- Mandate rail: Defines investment universe and mission parameters.
+
+- Governance rail: Defines authority, vetoes, and oversight logic.
+
+- Liquidity rail: Defines contributions, distributions, and redemption cycles.
+
+- Accountability rail: Defines performance measurement and consequence logic.
 
 If any rail is missing, the structure destabilizes.
 
@@ -377,15 +390,24 @@ When the constitution becomes operational.
 
 When the capital becomes sovereign.
 
-The office must commit to the following imperatives: 
--  Build long‑duration capability, not short‑term returns. 
--  Harden assets before expanding geography. 
--  Use private credit to control operational infrastructure. 
--  Acquire assets that generate institutional optionality. 
--  Prioritize stewardship over optimization. 
--  Engineer internal trust as a structural asset. 
--  Anchor every decision to **Proverbs 13:22
-*
+The office must commit to the following imperatives:
+
+- Build long‑duration capability, not short‑term returns.
+
+- Harden assets before expanding geography.
+
+- Use private credit to control operational infrastructure.
+
+- Acquire assets that generate institutional optionality.
+
+- Prioritize stewardship over optimization.
+
+- Engineer internal trust as a structural asset.
+
+- Anchor every decision to **Proverbs 13:22
+
+* 
+
 * .
 
 At scale, alignment becomes an engine.

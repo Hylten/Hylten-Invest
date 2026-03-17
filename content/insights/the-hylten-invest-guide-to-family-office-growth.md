@@ -98,8 +98,7 @@ It can restrict investment in new ventures, philanthropy initiatives, secondary 
 
 Hylten Invest solves this by providing Capital Structuring against public shares, starting at a minimum threshold of 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 This allows the position to remain intact.
 
@@ -121,14 +120,17 @@ Digital assets are becoming a measurable part of modern balance sheets.
 
 Hylten Invest conducts crypto backed Asset-Backed Frameworks with a minimum threshold of 2,000,
 
-00
-0 dollars.
+000 dollars.
 
-The structure is designed for families who: 
--  hold long term digital asset positions 
--  prefer to avoid liquidation 
--  seek to engage in new projects, private placements, or yield strategies 
--  require institutional clarity, not retail speculation Our crypto Capital Structuring framework is conservative.
+The structure is designed for families who:
+
+- hold long term digital asset positions
+
+- prefer to avoid liquidation
+
+- seek to engage in new projects, private placements, or yield strategies
+
+- require institutional clarity, not retail speculation Our crypto Capital Structuring framework is conservative.
 
 It is designed to protect the borrower from volatility events and to ensure that liquidity does not compromise the strategic posture of the asset.
 
@@ -194,13 +196,19 @@ It preserves the compounding effect of long held positions.
 
 It creates breathing room for new ventures and emerging opportunities. 
 
-## Liquidity as a Competitive Advantage Family offices that maintain ready liquidity are positioned to capitalize on: 
--  distressed assets 
--  secondary market positions 
--  strategic block acquisitions 
--  private credit deals with favorable terms 
--  real estate opportunities 
--  venture consolidation plays Liquidity is not only a buffer.
+## Liquidity as a Competitive Advantage Family offices that maintain ready liquidity are positioned to capitalize on:
+
+- distressed assets
+
+- secondary market positions
+
+- strategic block acquisitions
+
+- private credit deals with favorable terms
+
+- real estate opportunities
+
+- venture consolidation plays Liquidity is not only a buffer.
 
 It is a competitive advantage in markets where timing is often the deciding factor.
 
@@ -218,12 +226,17 @@ We avoid unnecessary leverage.
 
 We focus on predictability.
 
-This allows families to: 
--  maintain low risk balance sheet optimization profiles 
--  control collateral within secure frameworks 
--  avoid forced liquidation scenarios 
--  reduce exposure during market shocks 
--  protect legacy assets The objective is sustainability, not acceleration.
+This allows families to:
+
+- maintain low risk balance sheet optimization profiles
+
+- control collateral within secure frameworks
+
+- avoid forced liquidation scenarios
+
+- reduce exposure during market shocks
+
+- protect legacy assets The objective is sustainability, not acceleration.
 
 Capital that endures is more valuable than capital that expands too quickly. 
 
@@ -245,13 +258,19 @@ This alignment ensures that every decision reinforces the long term compass of t
 
 ## The Role of Quiet Infrastructure Behind every resilient family office is infrastructure that does not draw attention.
 
-This includes: 
--  disciplined reporting 
--  legal precision 
--  secure collateral management 
--  conservatively structured Monetization Architecture instruments 
--  clear liquidity planning 
--  intergenerational financial education Hylten Invest’s role is to provide part of this infrastructure.
+This includes:
+
+- disciplined reporting
+
+- legal precision
+
+- secure collateral management
+
+- conservatively structured Monetization Architecture instruments
+
+- clear liquidity planning
+
+- intergenerational financial education Hylten Invest’s role is to provide part of this infrastructure.
 
 We offer Monetization Architecture mechanics that integrate seamlessly with the family’s broader architecture.
 
@@ -295,22 +314,33 @@ We do not alter the long term vision.
 
 We only strengthen the structural framework that allows the vision to proceed.
 
-Minimal interference means: 
--  no operational disruption 
--  no strategic redirection 
--  no reporting burden beyond essentials 
--  no dilution 
--  no unnecessary complexity It is a conservative, long term philosophy grounded in respect for the family’s heritage and future trajectory. 
+Minimal interference means:
 
-## Creating Calm in Capital Structure A calm capital structure is one with: 
--  predictable cash flows 
--  Access is restricted to approved mandates.
+- no operational disruption
+
+- no strategic redirection
+
+- no reporting burden beyond essentials
+
+- no dilution
+
+- no unnecessary complexity It is a conservative, long term philosophy grounded in respect for the family’s heritage and future trajectory. 
+
+## Creating Calm in Capital Structure A calm capital structure is one with:
+
+- predictable cash flows
+
+- Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
--  stable collateralization 
--  low volatility exposure 
--  transparent obligations 
--  controlled leverage This calmness is essential for next generation transition.
+
+- stable collateralization
+
+- low volatility exposure
+
+- transparent obligations
+
+- controlled leverage This calmness is essential for next generation transition.
 
 It allows heirs to inherit clarity instead of disorder.
 
@@ -338,11 +368,9 @@ We lend through asset based structures.
 
 We provide liquidity against public share positions starting at 5,000,
 
-00
-0 dollars, and against crypto positions starting at 2,000,
+000 dollars, and against crypto positions starting at 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 We operate with principal authority.
 

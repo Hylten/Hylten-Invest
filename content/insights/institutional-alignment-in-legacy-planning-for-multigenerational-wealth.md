@@ -34,12 +34,17 @@ Not noise, but weight.
 
 ## Building a Legacy That Functions Like an Institution Families with significant wealth increasingly resemble private institutions.
 
-They require: 
--  Treasury functions 
--  Liquidity planning 
--  Structural oversight 
--  Credit architecture 
--  Risk corridors Yet they also require discretion and flexibility, attributes not always present in traditional institutional frameworks.
+They require:
+
+- Treasury functions
+
+- Liquidity planning
+
+- Structural oversight
+
+- Credit architecture
+
+- Risk corridors Yet they also require discretion and flexibility, attributes not always present in traditional institutional frameworks.
 
 Hyltén Invest is designed to bridge this gap.
 
@@ -53,12 +58,17 @@ This alignment allows families to preserve independence while maintaining struct
 
 It is about preparing future decision environments.
 
-Institutional alignment ensures that future decision-makers inherit: 
--  Liquidity frameworks 
--  Stable collateral structures 
--  Pre-engineered credit pathways 
--  Clean capital architecture 
--  A system that reduces complexity instead of adding to it This provides the next generation with strategic room to maneuver.
+Institutional alignment ensures that future decision-makers inherit:
+
+- Liquidity frameworks
+
+- Stable collateral structures
+
+- Pre-engineered credit pathways
+
+- Clean capital architecture
+
+- A system that reduces complexity instead of adding to it This provides the next generation with strategic room to maneuver.
 
 It reduces the burden of operational decisions so they can focus on vision and continuity.
 
@@ -78,8 +88,7 @@ We operate quietly.
 
 Our Capital Structuring against private credit, asset-based holdings, crypto positions exceeding 2,000,000, and public share portfolios over 5,000,
 
-00
-0 is designed to serve families who already understand the value of silent institutional architecture.
+000 is designed to serve families who already understand the value of silent institutional architecture.
 
 Our role is structural.
 

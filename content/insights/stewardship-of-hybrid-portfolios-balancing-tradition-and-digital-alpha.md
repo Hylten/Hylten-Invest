@@ -140,12 +140,17 @@ They incorporate alternative Monetization Architecture for liquidity.
 
 They integrate digital assets for future relevance.
 
-This layered architecture allows families to: 
--  Preserve core holdings. 
--  Create multi dimensional liquidity. 
--  Participate in new opportunity cycles. 
--  Maintain privacy and authority. 
--  Operate across several economic regimes.
+This layered architecture allows families to:
+
+- Preserve core holdings.
+
+- Create multi dimensional liquidity.
+
+- Participate in new opportunity cycles.
+
+- Maintain privacy and authority.
+
+- Operate across several economic regimes.
 
 Stewardship becomes a process of balancing flows rather than chasing returns. 
 
@@ -237,13 +242,19 @@ Not as a marketing engine.
 
 As a technical partner for families that require silent, stable, long term mechanics. 
 
-## Designing for Longevity True longevity is created through: 
--  Conservative ratios. 
--  Predictable liquidity. 
--  Minimal operational friction. 
--  Multi collateral design. 
--  Privacy and discretion. 
--  Alignment with family objectives.
+## Designing for Longevity True longevity is created through:
+
+- Conservative ratios.
+
+- Predictable liquidity.
+
+- Minimal operational friction.
+
+- Multi collateral design.
+
+- Privacy and discretion.
+
+- Alignment with family objectives.
 
 Hybrid portfolios deliver these qualities.
 

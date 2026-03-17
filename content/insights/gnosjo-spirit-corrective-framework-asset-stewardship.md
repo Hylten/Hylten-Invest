@@ -18,7 +18,7 @@ They sustain disciplined order, locality rooted accountability, stewardship cent
 
 This asymmetry provides a corrective architecture for allocators evaluating long duration asset classes across North America, Europe, and the Gulf.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -63,7 +63,7 @@ Across these shifts, an allocator must understand which environments maintain st
 
 Here, the Gnosjö Spirit demonstrates unusual relevance.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -98,7 +98,9 @@ Businesses are structured around multi generational continuity.
 Leadership operates with an obligation to preserve and expand assets for future stewards.
 
 This aligns with the principle in **Proverbs 13:22
-*
+
+* 
+
 * that a good individual leaves an inheritance for the following generations.
 
 The inheritance is not merely financial.
@@ -135,7 +137,7 @@ It pursues sustainable operational margins that can withstand shocks without res
 
 When applied to contemporary global markets, these mechanics offer a counterweight to short-termist financial systems that continually generate unintended fragility.
 
-Phase III: .
+### Phase III: .
 
 APPLICATION TO NORTH AMERICAN ENERGY.
 
@@ -143,9 +145,7 @@ WHY THE GNOSJÖ SPIRIT CORRECTS MARKET MISALIGNMENT The Alberta energy landscape
 
 North American Energy Operators, NAEO, functions within a capital vacuum created by the withdrawal of conventional lenders and the misallocation of global capital to fad driven sustainability narratives.
 
-The lowest risk barrels in 20
-
-26 are heavy conventional assets with stable decline curves.
+The lowest risk barrels in 2026 are heavy conventional assets with stable decline curves.
 
 The issue is not geological uncertainty.
 
@@ -191,16 +191,21 @@ Hard asset durability.
 
 These assets carry intrinsic value due to long duration extraction windows, not short term commodity spikes.
 
-NAEO’s operational model is grounded in stewardship centered behaviors that mirror the functional attributes of Gnosjö. 
--  Prudence in capital deployment. 
--  Disciplined field operations. 
--  Ethical execution. 
--  Local accountability. 
--  Interoperable expertise across multiple field types.
+NAEO’s operational model is grounded in stewardship centered behaviors that mirror the functional attributes of Gnosjö.
+
+- Prudence in capital deployment.
+
+- Disciplined field operations.
+
+- Ethical execution.
+
+- Local accountability.
+
+- Interoperable expertise across multiple field types.
 
 This positioning allows Roials Capital, in its role as strategic navigator and institutional introducer, to map allocators into a sector where the technical predictability of the reservoirs aligns with the moral predictability embedded in stewardship cultures.
 
-Phase IV: .
+### Phase IV: .
 
 THE PARTNERSHIP MODEL.
 
@@ -244,7 +249,7 @@ The partnership model therefore substitutes sales driven engagement models with 
 
 This is closer to how multi generational Nordic industries have preserved relevance through systemic change.
 
-Phase V: .
+### Phase V: .
 
 THE STEWARDSHIP FILTER .
 
@@ -256,12 +261,17 @@ The Christian industrial legacy of Scandinavia produced an economic culture wher
 
 The theology of capital asserts that resources are entrusted, not owned.
 
-This creates a hierarchy of obligations. 
--  Order before scale. 
--  Accountability before leverage. 
--  Service before extraction. 
--  Continuity before experimentation. 
--  Intergenerational orientation before quarterly performance.
+This creates a hierarchy of obligations.
+
+- Order before scale.
+
+- Accountability before leverage.
+
+- Service before extraction.
+
+- Continuity before experimentation.
+
+- Intergenerational orientation before quarterly performance.
 
 This framework corrects many distortions currently visible in global financial markets.
 
@@ -274,14 +284,16 @@ In a global environment increasingly shaped by entropy, scarcity of expertise, a
 The obligation assigned in 
 1 **Corinthians 4:
 2
-*
+
+* 
+
 * that individuals who have been entrusted with resources must prove faithful is not sentimental.
 
 It is operational.
 
 Faithfulness reduces fragility and creates compounding stability, which is vital for allocators deploying capital across long horizon asset classes such as energy, infrastructure, and real assets.
 
-Phase VI: .
+### Phase VI: .
 
 THE DECISION FRAMEWORK FOR THE ALLOCATOR.
 

@@ -21,13 +21,15 @@ Capital carries judgment.
 You deploy it well, the community strengthens.
 
 You deploy it poorly, the foundation cracks. *"And they shall build the old wastes, they shall raise up the former desolations."
-* 
--  **Isaiah 61:
-4
-*
+
 * 
 
-### Phase I: .
+- **Isaiah 61:
+4
+
+* 
+
+* ### Phase I: .
 
 Internal Logic.
 
@@ -77,7 +79,7 @@ A family firm knows this.
 
 An empire of debt does not.
 
-Phase II: .
+### Phase II: .
 
 Principal Voice.
 
@@ -101,7 +103,7 @@ Moral law and economic law converge.
 
 That is the architecture.
 
-Phase III: .
+### Phase III: .
 
 Bypass.
 

@@ -132,13 +132,19 @@ Its value is in predictability.
 
 Its value is in the quiet confidence it gives a family steward who must manage liquidity across multiple generations, not months.
 
-Private credit has become a core component in: 
--  Wealth transfer planning 
--  Liquidity for asset consolidation 
--  Strategic refinancing of legacy positions 
--  Avoiding forced asset liquidation 
--  Managing cross-border holdings 
--  Reducing exposure to macro volatility The discipline is simple.
+Private credit has become a core component in:
+
+- Wealth transfer planning
+
+- Liquidity for asset consolidation
+
+- Strategic refinancing of legacy positions
+
+- Avoiding forced asset liquidation
+
+- Managing cross-border holdings
+
+- Reducing exposure to macro volatility The discipline is simple.
 
 Preserve.
 
@@ -176,8 +182,7 @@ Yet liquidity around these assets remains inconsistent and often misaligned with
 
 Hyltén Invest provides crypto Capital Structuring services for clients meeting a minimum threshold of 2,000,
 
-00
-0 USD.
+000 USD.
 
 This ensures we work only with holders who think in strategic horizons, not speculative ones.
 
@@ -209,8 +214,7 @@ The easiest assets to sell are often the ones that should be preserved.
 
 Hyltén Invest resolves this dilemma through public share Monetization Architecture, available at a minimum threshold of 5,000,
 
-00
-0 USD.
+000 USD.
 
 We provide liquidity while the client retains market exposure.
 
@@ -276,12 +280,17 @@ We are not the largest.
 
 We are not seeking mass appeal.
 
-We are built for families who value: 
--  Stability over speculation 
--  Control over velocity 
--  Quiet precision over broad exposure 
--  Institutional mechanics with private discretion 
--  Liquidity that does not fracture legacy holdings This is a niche profile.
+We are built for families who value:
+
+- Stability over speculation
+
+- Control over velocity
+
+- Quiet precision over broad exposure
+
+- Institutional mechanics with private discretion
+
+- Liquidity that does not fracture legacy holdings This is a niche profile.
 
 It is not for everyone.
 
@@ -307,9 +316,12 @@ Providing structure.
 
 Providing stability.
 
-Without noise. 
--  
--  
--  Access is restricted to approved mandates.
+Without noise.
+
+- 
+
+- 
+
+- Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

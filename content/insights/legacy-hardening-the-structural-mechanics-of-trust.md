@@ -122,8 +122,7 @@ For families with crypto positions, divesting often triggers tax events, market 
 
 Hyltén Invest offers crypto-backed Asset-Backed Frameworks with a minimum threshold of 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 This threshold ensures we work only with principals whose holdings meet the structural requirements for conservative credit formation.
 
@@ -147,8 +146,7 @@ It can introduce timing risks that weaken long-term returns.
 
 Hyltén Invest provides public share Strategic Collateralization beginning at a minimum threshold of 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 The structure is intentionally conservative.
 
@@ -186,12 +184,17 @@ Each contributes to resilience.
 
 Each strengthens the load-bearing architecture that supports long-term wealth.
 
-Core mechanics include: 
--  Collateral that is evaluated conservatively. 
--  Liquidity structures that are prepared, not improvised. 
--  Credit facilities that remain available independent of public cycles. 
--  Asset-based systems that reinforce ownership instead of weakening it. 
--  Capital Structuring solutions tailored for private balance sheets, not mass markets.
+Core mechanics include:
+
+- Collateral that is evaluated conservatively.
+
+- Liquidity structures that are prepared, not improvised.
+
+- Credit facilities that remain available independent of public cycles.
+
+- Asset-based systems that reinforce ownership instead of weakening it.
+
+- Capital Structuring solutions tailored for private balance sheets, not mass markets.
 
 The result is an architecture that converts wealth into stability.
 

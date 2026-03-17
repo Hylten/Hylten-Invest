@@ -86,11 +86,15 @@ Capital Structure Integrity Asset preservation begins with the balance sheet.
 
 The structure must absorb shocks without compromising operational continuity.
 
-Key components include: 
--  Conservative leverage profiles aligned with cash flow durability 
--  Emphasis on unencumbered assets to support Asset-Backed Frameworks 
--  Use of structural seniority when engaging external capital 
--  Avoidance of complexity not backed by operational necessity The objective is resilience.
+Key components include:
+
+- Conservative leverage profiles aligned with cash flow durability
+
+- Emphasis on unencumbered assets to support Asset-Backed Frameworks
+
+- Use of structural seniority when engaging external capital
+
+- Avoidance of complexity not backed by operational necessity The objective is resilience.
 
 The balance sheet becomes a strategic shield that prevents short term capital behavior from imposing long term harm.
 
@@ -98,11 +102,15 @@ B.
 
 Asset Hardening Assets must be evaluated for their ability to retain usefulness independent of market sentiment.
 
-Hardening includes: 
--  Reducing dependency on non essential external inputs 
--  Ensuring clarity of title, rights, and operational control 
--  Upgrading systems that affect longevity rather than optics 
--  Strengthening operational redundancies to reduce fragility bottlenecks Asset hardening is not cosmetic improvement.
+Hardening includes:
+
+- Reducing dependency on non essential external inputs
+
+- Ensuring clarity of title, rights, and operational control
+
+- Upgrading systems that affect longevity rather than optics
+
+- Strengthening operational redundancies to reduce fragility bottlenecks Asset hardening is not cosmetic improvement.
 
 It is the transformation of assets into entities that can withstand volatility without loss of function.
 
@@ -119,7 +127,9 @@ This ensures alignment between resource allocation and real world constraints.
 The Hylten philosophy treats governance as part of the moral architecture of capital.
 
 Stewardship reflects **Proverbs 13:22
-*
+
+* 
+
 * .
 
 Capital must be allocated with awareness of generational impact.
@@ -132,11 +142,15 @@ Integrity of Incentive Structures Short cycle incentives create asset erosion.
 
 Long cycle incentives create durability.
 
-The Hylten Invest approach uses mechanisms that reward: 
--  Preservation of structural health 
--  Responsible deployment of liquidity 
--  Reduction of entropy in operational environments 
--  Investments that increase longevity rather than short term optics These mechanics ensure that asset preservation is not dependent on the goodwill of participants.
+The Hylten Invest approach uses mechanisms that reward:
+
+- Preservation of structural health
+
+- Responsible deployment of liquidity
+
+- Reduction of entropy in operational environments
+
+- Investments that increase longevity rather than short term optics These mechanics ensure that asset preservation is not dependent on the goodwill of participants.
 
 It becomes structurally reinforced.
 
@@ -150,11 +164,15 @@ When interacting with energy or North American resource assets, institutional pa
 
 In the Nordic context, partnership selection is a discipline.
 
-Strategic alignment is defined by: 
--  Transparency of incentive structures 
--  Ability to operate under scarcity rather than abundance 
--  Track record of maintaining integrity under regulatory pressure 
--  Capability to manage complex physical assets in low noise environments When Roials Capital introduces a partner, it is based on institutional fit rather than commercial promotion.
+Strategic alignment is defined by:
+
+- Transparency of incentive structures
+
+- Ability to operate under scarcity rather than abundance
+
+- Track record of maintaining integrity under regulatory pressure
+
+- Capability to manage complex physical assets in low noise environments When Roials Capital introduces a partner, it is based on institutional fit rather than commercial promotion.
 
 The intent is to connect capital allocators with operators whose technical capacity reduces the operational entropy of the asset base.
 
@@ -185,7 +203,9 @@ Duty of continuity Decisions must not degrade the asset base for future generati
 Capital is entrusted, not owned in permanence.
 
 This aligns with the principle expressed in **Proverbs 22:29
-*
+
+* 
+
 * regarding excellence in work and its societal positioning. 
 
 3.
@@ -210,9 +230,7 @@ It is a filter through which every structural decision is examined.
 
 Assets are preserved when they are governed with discipline, humility, and long horizon accountability.
 
-DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating in 20
-
-26 must navigate an environment shaped by volatility, regulatory inertia, and declining industrial literacy.
+DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 must navigate an environment shaped by volatility, regulatory inertia, and declining industrial literacy.
 
 The Hylten Invest approach provides a decision framework calibrated for this environment.
 

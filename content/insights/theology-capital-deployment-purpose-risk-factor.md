@@ -69,10 +69,14 @@ Duty.
 Consequence.
 
 These are not abstractions; they are industrial safeguards. *"The integrity of the upright shall guide them."
+
 * 
--  **Proverbs 11:
+
+- **Proverbs 11:
 3
-*
+
+* 
+
 * Guidance is not optional.
 
 It is the architecture that separates sovereign capital from drifting capital.
@@ -91,9 +95,7 @@ Not the posturing kind.
 
 The inherited kind.
 
-The 18
-
-74 kind.
+The 1874 kind.
 
 The kind that shapes sons and daughters into guardians rather than gamblers.
 

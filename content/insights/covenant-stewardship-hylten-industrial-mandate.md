@@ -19,7 +19,9 @@ Built in small rooms.
 Forged in Gnosjö workshops.
 
 Hardened through scarcity, responsibility, and the old truth of **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children’s children.
 
 This mandate is not soft.
@@ -74,10 +76,13 @@ And it positions capital not as an instrument of extraction, but as an instrumen
 
 This brief codifies the doctrine.
 
-Not as philosophy, but as institutional design. 
--  
--  
--  Covenant stewardship begins with first principles.
+Not as philosophy, but as institutional design.
+
+- 
+
+- 
+
+- Covenant stewardship begins with first principles.
 
 Ownership is not entitlement.
 
@@ -191,10 +196,13 @@ Responsibility first.
 
 Capital second.
 
-Always. 
--  
--  
--  The Spirit of Gnosjö is more than a sociological artifact.
+Always.
+
+- 
+
+- 
+
+- The Spirit of Gnosjö is more than a sociological artifact.
 
 It is covenant in operational form.
 
@@ -264,10 +272,13 @@ Strengthened balance sheets survive storms.
 
 Stewardship is therefore not a soft concept.
 
-It is operational alpha. 
--  
--  
--  Covenant stewardship intersects with the theology of capital at the point of succession.
+It is operational alpha.
+
+- 
+
+- 
+
+- Covenant stewardship intersects with the theology of capital at the point of succession.
 
 The true test of industrial purpose is the continuity of responsibility.
 
@@ -276,7 +287,9 @@ Wealth without stewardship collapses into consumption.
 Industry without covenant collapses into fragility.
 
 Only inheritance with duty sustains multi-generational operations. **Proverbs 13:22
-*
+
+* 
+
 * is not merely spiritual wisdom.
 
 It is economic architecture.
@@ -335,10 +348,13 @@ Industrial capital aligned with stewardship becomes resilient, antifragile, and 
 
 Industrial capital aligned with extraction becomes brittle, volatile, and systemically fragile.
 
-This is the fundamental delta Fund-III captures. 
--  
--  
--  Covenant stewardship structures institutions as living entities.
+This is the fundamental delta Fund-III captures.
+
+- 
+
+- 
+
+- Covenant stewardship structures institutions as living entities.
 
 And industrial legacy requires institutional form.
 
@@ -416,10 +432,13 @@ Stronger counterparty alignment.
 
 These are not theological advantages.
 
-They are financial advantages produced by theological structures. 
--  
--  
--  The capital markets of the next decade will not reward velocity.
+They are financial advantages produced by theological structures.
+
+- 
+
+- 
+
+- The capital markets of the next decade will not reward velocity.
 
 They will reward discipline.
 
@@ -465,10 +484,13 @@ This is what institutional investors sense, even if they cannot quantify it.
 
 Covenant stewardship is not a narrative.
 
-It is a valuation factor. 
--  
--  
--  Generational capital is the apex expression of covenant stewardship.
+It is a valuation factor.
+
+- 
+
+- 
+
+- Generational capital is the apex expression of covenant stewardship.
 
 Capital that lives beyond its originator.
 
@@ -514,10 +536,13 @@ And stewardship becomes measurable.
 
 Predictive.
 
-Investable. 
--  
--  
--  The Hylten doctrine is not nostalgic.
+Investable.
+
+- 
+
+- 
+
+- The Hylten doctrine is not nostalgic.
 
 It is forward‑facing.
 

@@ -46,11 +46,15 @@ Institutional capital will seek partners capable of precise execution.
 
 Stewardship will return to the forefront of wealth strategy, and within this return, high trust finance becomes a core pillar.
 
-Hyltén Invest positions itself to support families through this evolution with controlled Strategic Collateralization against: 
--  Private credit. 
--  Real assets. 
--  Institutional grade digital assets. 
--  Public equity portfolios.
+Hyltén Invest positions itself to support families through this evolution with controlled Strategic Collateralization against:
+
+- Private credit.
+
+- Real assets.
+
+- Institutional grade digital assets.
+
+- Public equity portfolios.
 
 The future will favor those who move quietly with intention. 
 

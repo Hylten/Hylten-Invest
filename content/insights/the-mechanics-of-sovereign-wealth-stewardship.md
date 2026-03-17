@@ -42,13 +42,19 @@ These mechanisms give families the same flexibility that large institutions take
 
 It is a tool that enables broader strategic movement.
 
-Common applications include: 
--  Funding new acquisitions without selling existing positions 
--  Managing tax timing and tax exposure 
--  Providing liquidity during generational transitions 
--  Stabilizing family enterprises during temporary cash flow compression 
--  Supporting investment opportunities that require fast execution 
--  Reducing reliance on traditional banking relationships These functions create continuity.
+Common applications include:
+
+- Funding new acquisitions without selling existing positions
+
+- Managing tax timing and tax exposure
+
+- Providing liquidity during generational transitions
+
+- Stabilizing family enterprises during temporary cash flow compression
+
+- Supporting investment opportunities that require fast execution
+
+- Reducing reliance on traditional banking relationships These functions create continuity.
 
 Continuity is the highest form of stability. 
 
@@ -62,12 +68,17 @@ It avoids complexity.
 
 It avoids opacity.
 
-For our clients, minimalism means: 
--  One structure instead of five 
--  One line of liquidity instead of multiple fragmented facilities 
--  Collateral frameworks with predictable behavior 
--  Agreements that do not shift mid cycle 
--  Transparent valuation methodologies This is how sovereign style private capital is built.
+For our clients, minimalism means:
+
+- One structure instead of five
+
+- One line of liquidity instead of multiple fragmented facilities
+
+- Collateral frameworks with predictable behavior
+
+- Agreements that do not shift mid cycle
+
+- Transparent valuation methodologies This is how sovereign style private capital is built.
 
 It is not designed for a quarter.
 

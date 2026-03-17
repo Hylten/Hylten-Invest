@@ -58,10 +58,13 @@ Hyltén Invest provides crypto-backed Institutional Liquidity Paths only above a
 
 The architecture dictates our underwriting, custodial security, and counterparty processes maintain the level of rigor expected by HNWI and UHNW clients.
 
-Crypto Asset-Backed Frameworks in our framework serves three purposes: 
--  Protecting long-term holders from unnecessary disposals. 
--  Unlocking liquidity in a volatile but maturing asset class. 
--  Providing balance sheet flexibility without increasing exposure to market swings.
+Crypto Asset-Backed Frameworks in our framework serves three purposes:
+
+- Protecting long-term holders from unnecessary disposals.
+
+- Unlocking liquidity in a volatile but maturing asset class.
+
+- Providing balance sheet flexibility without increasing exposure to market swings.
 
 We treat digital assets as strategic holdings rather than trading instruments.
 
@@ -77,12 +80,15 @@ For these situations, Hyltén Invest offers public share Asset-Backed Frameworks
 
 This size requirement ensures that the structure remains institutional, discreet, and operationally efficient.
 
-Public share Strategic Collateralization allows clients to: 
--  Retain voting rights and continue long-term stewardship of positions. 
--  Access is restricted to approved mandates.
+Public share Strategic Collateralization allows clients to:
+
+- Retain voting rights and continue long-term stewardship of positions.
+
+- Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
--  Shield core holdings from short-term liquidity pressures.
+
+- Shield core holdings from short-term liquidity pressures.
 
 This is a silent instrument.
 
@@ -126,13 +132,17 @@ It requires the discipline to avoid over-optimization.
 
 It requires the humility to maintain buffers even when markets appear stable.
 
-Building this ecosystem involves several layers: 
--  A reserve strategy that reflects the family’s risk identity. 
--  A liquidity ladder that blends short-term Access is restricted to approved mandates.
+Building this ecosystem involves several layers:
+
+- A reserve strategy that reflects the family’s risk identity.
+
+- A liquidity ladder that blends short-term Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
--  A credit architecture that unlocks capital without jeopardizing asset integrity. 
--  An investment framework that remains detached from immediate cash flow demands.
+
+- A credit architecture that unlocks capital without jeopardizing asset integrity.
+
+- An investment framework that remains detached from immediate cash flow demands.
 
 When these components align, wealth is no longer fragile.
 
@@ -176,10 +186,13 @@ We design Institutional Liquidity Paths solutions that are transparent, stable, 
 
 Every structure is engineered to support longevity rather than velocity.
 
-For HNWI and UHNW families, this approach creates: 
--  Confidence in liquidity. 
--  Protection of legacy assets. 
--  Increased capital efficiency with reduced systemic fragility.
+For HNWI and UHNW families, this approach creates:
+
+- Confidence in liquidity.
+
+- Protection of legacy assets.
+
+- Increased capital efficiency with reduced systemic fragility.
 
 Minimalism ensures that outcomes remain predictable even in unpredictable markets. 
 
@@ -187,11 +200,15 @@ Minimalism ensures that outcomes remain predictable even in unpredictable market
 
 Their decision framework emphasizes permanence.
 
-The core questions they ask are: 
--  Does this preserve sovereignty. 
--  Does this extend optionality. 
--  Does this strengthen the long arc of capital. 
--  Does this reduce exposure to forced decisions.
+The core questions they ask are:
+
+- Does this preserve sovereignty.
+
+- Does this extend optionality.
+
+- Does this strengthen the long arc of capital.
+
+- Does this reduce exposure to forced decisions.
 
 Liquidity structures that align with these principles become strategic tools rather than temporary solutions.
 

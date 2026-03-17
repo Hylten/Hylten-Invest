@@ -30,14 +30,16 @@ High churn destroys lineage.
 
 High churn creates orphans-financially, institutionally, spiritually.
 
-You do not build a forge in 18
-
-74 and then trade the forge every seven years because a committee demands a mark-to-market exit.
+You do not build a forge in 1874 and then trade the forge every seven years because a committee demands a mark-to-market exit.
 
 You build it once, and your children’s children inherit the wealth, the craft, the discipline, and the obligation. *"The counsel of the Lord standeth for ever, the thoughts of His heart to all generations."
+
 * 
--  **Psalm 33:11
-*
+
+- **Psalm 33:11
+
+* 
+
 * This is the operating system behind ultra‑low‑churn capital: permanence as design, not inertia.
 
 Continuity as duty, not hesitation.
@@ -112,13 +114,19 @@ It binds generations.
 
 Perpetual stewardship vehicles are covenantal by construction.
 
-They align: 
--  mission timescale 
--  reinvestment cadence 
--  succession architecture 
--  moral reasoning 
--  community obligation 
--  industrial continuity Contracts cannot hold these responsibilities.
+They align:
+
+- mission timescale
+
+- reinvestment cadence
+
+- succession architecture
+
+- moral reasoning
+
+- community obligation
+
+- industrial continuity Contracts cannot hold these responsibilities.
 
 Only covenants can.
 
@@ -153,10 +161,14 @@ Discipline.
 The Protestant work ethic was never about toil; it was about order.
 
 It was about clarity of duty before God. *"Commit thy works unto the Lord, and thy thoughts shall be established."
+
 * 
--  **Proverbs 16:
+
+- **Proverbs 16:
 3
-*
+
+* 
+
 * Ultra‑low‑churn capital is industrial in spirit even when applied to digital or intellectual holdings.
 
 Its demand is the same: you finish what you start, and you build for people not yet born.
@@ -203,13 +215,19 @@ Deep roots survive everything but moral compromise.
 
 V.
 
-THE SPIRIT OF GNOSJÖ AS ARCHITECTURE The Spirit of Gnosjö teaches that: 
--  work is worship 
--  efficiency is respect 
--  reliability is evangelism 
--  modesty is strength 
--  community compounding is sacred 
--  continuity is the highest strategic edge These are not slogans.
+THE SPIRIT OF GNOSJÖ AS ARCHITECTURE The Spirit of Gnosjö teaches that:
+
+- work is worship
+
+- efficiency is respect
+
+- reliability is evangelism
+
+- modesty is strength
+
+- community compounding is sacred
+
+- continuity is the highest strategic edge These are not slogans.
 
 They are structural engineering principles for society.
 
@@ -229,12 +247,17 @@ THE PROTESTANT ETHIC AS CAPITAL THEORY The Protestant ethic rejects the idol of 
 
 It embraces the long obedience.
 
-In markets, this translates to: 
--  disciplined reinvestment 
--  avoidance of speculative spasms 
--  honoring commitments across decades 
--  rejecting consumption-based decision cycles 
--  preferring compounding over distribution This ethic is not antiquated.
+In markets, this translates to:
+
+- disciplined reinvestment
+
+- avoidance of speculative spasms
+
+- honoring commitments across decades
+
+- rejecting consumption-based decision cycles
+
+- preferring compounding over distribution This ethic is not antiquated.
 
 It is the reason industrial Sweden, industrial Germany, and industrial America became powerhouses in the first place.
 
@@ -243,13 +266,17 @@ Perpetual stewardship vehicles revive this ethic.
 They convert moral clarity into financial endurance. *"Blessed is the man that feareth the Lord, that delighteth greatly in His commandments.
 
 His seed shall be mighty upon earth."
+
 * 
--  **Psalm 112:
+
+- **Psalm 112:
 1
-*
+
 * 
--
-2 The seed is the enterprise.
+
+* 
+
+- 2 The seed is the enterprise.
 
 The might is the continuity.
 
@@ -321,12 +348,17 @@ Nations that understand this attract multi-generational capital.
 
 Nations that idolise volatility repel it.
 
-The architecture of a strong perpetual stewardship vehicle rests on: 
--  stable property rights 
--  predictable inheritance statutes 
--  moral clarity in contract enforcement 
--  non-punitive governance requirements 
--  cultural respect for long-term enterprise This is why Nordic, Swiss, Dutch, and certain North American structures remain unmatched globally.
+The architecture of a strong perpetual stewardship vehicle rests on:
+
+- stable property rights
+
+- predictable inheritance statutes
+
+- moral clarity in contract enforcement
+
+- non-punitive governance requirements
+
+- cultural respect for long-term enterprise This is why Nordic, Swiss, Dutch, and certain North American structures remain unmatched globally.
 
 They understand that capital is not a toy.
 
@@ -389,9 +421,13 @@ Uphold the industrial ethic.
 Build the sovereign architecture that endures.
 
 This is the calling. *"The wise shall inherit glory."
+
 * 
--  **Proverbs 3:35
-*
+
+- **Proverbs 3:35
+
+* 
+
 * The glory is not personal.
 
 The glory is generational continuity.

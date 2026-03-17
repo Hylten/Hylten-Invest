@@ -36,11 +36,7 @@ The objective is to define how an allocator can institutionalize protection arou
 
 European banks face tightened capital adequacy requirements.
 
-North American mid sized lenders remain impaired by duration mismatches inherited from the 20
-
-20 to 20
-
-22 monetary cycle.
+North American mid sized lenders remain impaired by duration mismatches inherited from the 2020 to 2022 monetary cycle.
 
 Commercial real estate liquidity remains fractured.
 
@@ -58,9 +54,7 @@ These are not speculative technologies.
 
 These are physical assets with measurable depreciation curves and established liquidation pathways.
 
-Second, the withdrawal of banks creates space for non bank institutional lenders to occupy the senior secured position with better covenant discipline, better underwriting, and better collateral control than was culturally possible in the pre 20
-
-15 credit era.
+Second, the withdrawal of banks creates space for non bank institutional lenders to occupy the senior secured position with better covenant discipline, better underwriting, and better collateral control than was culturally possible in the pre 2015 credit era.
 
 Third, allocators seeking wealth protection rather than aggressive compounding now face a structurally improved environment.
 
@@ -189,9 +183,13 @@ This triad ensures that the allocator enters structures intentionally, not react
 ## THE STEWARDSHIP FILTER Stewardship is not a moral accessory.
 
 It is an economic discipline grounded in the biblical principle that capital is a resource entrusted for productive use. **Proverbs 13:22
-*
+
+* 
+
 * establishes the generational mandate. **Luke 14:28
-*
+
+* 
+
 * defines the necessity of planning before undertaking a venture.
 
 The Spirit of Gnosjö demonstrates how capital, work ethic, and community discipline produce resilience across generations.

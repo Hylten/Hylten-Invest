@@ -68,12 +68,17 @@ Our value does not lie in noise or novelty.
 
 It lies in engineering quietly effective systems.
 
-The advantages for UHNW families include: 
--  Conservative collateral frameworks 
--  Institutional underwriting standards 
--  Silent execution with minimal operational burden 
--  Predictable long‑term Institutional Liquidity Paths relationships 
--  Structures designed specifically for portfolios over 
+The advantages for UHNW families include:
+
+- Conservative collateral frameworks
+
+- Institutional underwriting standards
+
+- Silent execution with minimal operational burden
+
+- Predictable long‑term Institutional Liquidity Paths relationships
+
+- Structures designed specifically for portfolios over 
 
 25 million We are built for households that prioritize stewardship, not headlines.
 

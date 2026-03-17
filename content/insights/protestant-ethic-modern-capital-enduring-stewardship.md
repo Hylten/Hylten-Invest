@@ -33,7 +33,9 @@ Work as duty.
 Work as worship.
 
 Work as the conduit through which capital becomes moral authority. **Proverbs 13:22
-*
+
+* 
+
 * (*A good man leaveth an inheritance to his children's children.*) 
 
 1.

@@ -158,11 +158,15 @@ A mandate without theological rooting is vanity. # ##
 
 The Governance Layer Governance is the public expression of private conviction.
 
-This includes: 
--  Capital committee with recorded convictions 
--  Allocation rules anchored in stewardship 
--  Covenant style reporting structure 
--  Succession paths based on responsibility rather than genetics Governance clarifies authority.
+This includes:
+
+- Capital committee with recorded convictions
+
+- Allocation rules anchored in stewardship
+
+- Covenant style reporting structure
+
+- Succession paths based on responsibility rather than genetics Governance clarifies authority.
 
 Action clarifies legacy. # ## 
 
@@ -170,10 +174,13 @@ Action clarifies legacy. # ##
 
 The Capital Deployment Layer Deployment is where families are most often compromised.
 
-The Hylten Model corrects this through three filters. 
--  Economic realism 
--  Moral durability 
--  Institutional readiness The result is a deployment architecture that respects both Scripture and scrutiny. # ## 
+The Hylten Model corrects this through three filters.
+
+- Economic realism
+
+- Moral durability
+
+- Institutional readiness The result is a deployment architecture that respects both Scripture and scrutiny. # ## 
 
 4.
 
@@ -203,13 +210,19 @@ It is not narrative engineering.
 
 It is structural alignment for families that understand capital as a multi generational trust under God.
 
-The Hylten Model applies asset hardening across: 
--  Governance 
--  Financial controls 
--  Portfolio exposure 
--  Liquidity architecture 
--  Counterparty analysis 
--  Intergenerational continuity A hardened asset base allows the family to withstand volatility without compromising conviction.
+The Hylten Model applies asset hardening across:
+
+- Governance
+
+- Financial controls
+
+- Portfolio exposure
+
+- Liquidity architecture
+
+- Counterparty analysis
+
+- Intergenerational continuity A hardened asset base allows the family to withstand volatility without compromising conviction.
 
 Weak structure invites pressure.
 
@@ -259,13 +272,19 @@ When a family office moves with quiet authority, it signals alignment.
 
 Execution velocity is achieved not by haste but by pre configured decision architecture.
 
-The Hylten Model implements: 
--  Rapid diligence frameworks 
--  Hard pre screening thresholds 
--  Automated intelligence ingestion 
--  Mandate aligned deal triage 
--  Clear veto authority tied to covenant 
--  Portfolio monitoring that removes ambiguity Velocity without conviction is recklessness.
+The Hylten Model implements:
+
+- Rapid diligence frameworks
+
+- Hard pre screening thresholds
+
+- Automated intelligence ingestion
+
+- Mandate aligned deal triage
+
+- Clear veto authority tied to covenant
+
+- Portfolio monitoring that removes ambiguity Velocity without conviction is recklessness.
 
 Conviction without velocity is negligence.
 
@@ -277,12 +296,17 @@ Energy is not a sector.
 
 Energy is a civilizational foundation.
 
-A Christian conservative family office has moral permission to allocate into: 
--  Upstream operators 
--  Midstream infrastructure 
--  Mineral rights 
--  Surface rights 
--  Energy service providers Provided the structure meets institutional thresholds between 50M and 250M and passes the covenant filters.
+A Christian conservative family office has moral permission to allocate into:
+
+- Upstream operators
+
+- Midstream infrastructure
+
+- Mineral rights
+
+- Surface rights
+
+- Energy service providers Provided the structure meets institutional thresholds between 50M and 250M and passes the covenant filters.
 
 Energy is aligned with stewardship.
 
@@ -326,12 +350,17 @@ It engineers Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-This is achieved through: 
--  Industrial intelligence networks 
--  Principle based outreach 
--  Direct founder correspondence 
--  Theological alignment assessment 
--  Stewardship anchored negotiation Off market origination is not opportunism.
+This is achieved through:
+
+- Industrial intelligence networks
+
+- Principle based outreach
+
+- Direct founder correspondence
+
+- Theological alignment assessment
+
+- Stewardship anchored negotiation Off market origination is not opportunism.
 
 It is relational authority built over time. 
 

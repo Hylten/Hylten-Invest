@@ -94,12 +94,17 @@ It does not compromise the structural integrity of the assets.
 
 It is engineered with clarity and long-term discipline.
 
-At Hyltén Invest, liquidity facilities are designed to be: 
--  Non-intrusive 
--  Tax efficient 
--  Collateral-driven 
--  Predictable across cycles 
--  Aligned with private family timelines These are not retail instruments.
+At Hyltén Invest, liquidity facilities are designed to be:
+
+- Non-intrusive
+
+- Tax efficient
+
+- Collateral-driven
+
+- Predictable across cycles
+
+- Aligned with private family timelines These are not retail instruments.
 
 They are institutional mechanics applied to private wealth.
 
@@ -141,14 +146,21 @@ It ensures continuity.
 
 It protects the strategic heart of the family’s wealth.
 
-A liquidity perimeter is built from: 
--  Private credit Capital Structuring 
--  Asset based Monetization Architecture 
--  Public share Capital Structuring 
--  Institutional crypto facilities 
--  Conservatively calibrated liquidity facility-to-value ratios 
--  Counterparty strength 
--  Silent execution When these elements are combined, the family gains a defensive advantage.
+A liquidity perimeter is built from:
+
+- Private credit Capital Structuring
+
+- Asset based Monetization Architecture
+
+- Public share Capital Structuring
+
+- Institutional crypto facilities
+
+- Conservatively calibrated liquidity facility-to-value ratios
+
+- Counterparty strength
+
+- Silent execution When these elements are combined, the family gains a defensive advantage.
 
 They gain flexibility.
 

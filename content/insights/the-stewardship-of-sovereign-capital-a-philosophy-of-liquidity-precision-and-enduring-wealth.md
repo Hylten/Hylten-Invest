@@ -24,9 +24,11 @@ Our purpose remains constant.
 
 It has matured into one of the core pillars of modern wealth architecture for those with multi‑generational planning horizons.
 
-For HNWI and UHNW families the attraction is twofold. 
--  Stability that is not reliant on public market volatility. 
--  The ability to Access is restricted to approved mandates.
+For HNWI and UHNW families the attraction is twofold.
+
+- Stability that is not reliant on public market volatility.
+
+- The ability to Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
@@ -54,11 +56,15 @@ At Hylten‑Invest we apply Asset-Based Lending to complex portfolios with conse
 
 Our intention is to create liquidity channels that honor the asset, its long‑term purpose, and the privacy of the owner.
 
-Asset-Based Lending supports scenarios where liquidity is required without selling: 
--  Rebalancing portfolios during market dislocations. 
--  Funding private acquisitions or strategic consolidations. 
--  Liquidity bridging during generational succession. 
--  Maintaining composure during macroeconomic turbulence.
+Asset-Based Lending supports scenarios where liquidity is required without selling:
+
+- Rebalancing portfolios during market dislocations.
+
+- Funding private acquisitions or strategic consolidations.
+
+- Liquidity bridging during generational succession.
+
+- Maintaining composure during macroeconomic turbulence.
 
 This is what sovereign capital demands: stability without compromise. 
 
@@ -72,8 +78,7 @@ We only serve those who approach crypto assets with the same ethos they apply to
 
 Our minimum threshold for crypto Monetization Architecture is 2,000,
 
-00
-0 USD.
+000 USD.
 
 At this level capital behaves differently.
 
@@ -93,17 +98,19 @@ Asset-Backed Frameworks introduces mobility while preserving structure.
 
 Our minimum threshold for public share Capital Structuring is 5,000,
 
-00
-0 USD.
+000 USD.
 
 This threshold reflects our position in the market.
 
 We operate only where capital is significant enough to require quiet handling.
 
-Public share Monetization Architecture allows wealth holders to: 
--  Retain voting rights where applicable. 
--  Avoid disruption of long‑term strategies. 
--  Unlock liquidity for acquisitions, private investment, or generational planning.
+Public share Monetization Architecture allows wealth holders to:
+
+- Retain voting rights where applicable.
+
+- Avoid disruption of long‑term strategies.
+
+- Unlock liquidity for acquisitions, private investment, or generational planning.
 
 Liquidity becomes a strategic extension of the equity position rather than a break in its continuity. 
 
@@ -215,11 +222,15 @@ Uncompromising.
 
 It requires institutional mechanics without institutional exposure.
 
-This is where Hylten‑Invest positions itself. 
--  Institutional processes. 
--  Private execution. 
--  Conservative frameworks. 
--  Silent operations.
+This is where Hylten‑Invest positions itself.
+
+- Institutional processes.
+
+- Private execution.
+
+- Conservative frameworks.
+
+- Silent operations.
 
 We provide the infrastructure normally reserved for major institutions, without the noise, the bureaucracy, or the dilution of client intent. 
 
@@ -233,11 +244,15 @@ The next decade will reward those who maintain optionality, clarity, and quiet A
 
 Minimum mandate depth: $5M+ target size.
 
-We believe that the future of wealth preservation will rely heavily on: 
--  Private credit stability. 
--  Conservative asset based Strategic Collateralization. 
--  Intelligent liquidity extraction from digital and public assets. 
--  Long‑term planning insulated from market momentum.
+We believe that the future of wealth preservation will rely heavily on:
+
+- Private credit stability.
+
+- Conservative asset based Strategic Collateralization.
+
+- Intelligent liquidity extraction from digital and public assets.
+
+- Long‑term planning insulated from market momentum.
 
 Hylten‑Invest is positioned to support this future with the same minimalistic, conservative, and enduring philosophy that defines our brand. 
 

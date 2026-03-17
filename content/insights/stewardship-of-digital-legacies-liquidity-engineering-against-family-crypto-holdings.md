@@ -88,13 +88,19 @@ Liquidity is not an end.
 
 It is a mechanism.
 
-Common motivations include: 
--  Estate structuring. 
--  Strategic business acquisitions. 
--  Allocations into private markets. 
--  Early stage venture commitments. 
--  Real estate consolidation. 
--  Inter generational transfers without liquidation events.
+Common motivations include:
+
+- Estate structuring.
+
+- Strategic business acquisitions.
+
+- Allocations into private markets.
+
+- Early stage venture commitments.
+
+- Real estate consolidation.
+
+- Inter generational transfers without liquidation events.
 
 These are not activities that benefit from market exits.
 
@@ -104,8 +110,7 @@ They benefit from a lender who understands that liquidity should be quiet, discr
 
 Crypto Capital Structuring above the 2,000,
 
-00
-0 threshold allows families to open liquidity channels without disturbing carefully built positions.
+000 threshold allows families to open liquidity channels without disturbing carefully built positions.
 
 This approach mirrors the long standing tradition of balance sheet optimization against large equity positions.
 
@@ -153,13 +158,19 @@ It requires clarity, custody discipline, and liquidity modeling that matches the
 
 At Hyltén Invest we apply classical credit logic to crypto collateral.
 
-That means: 
--  Conservative liquidity facility to value ratios. 
--  Institutional custody. 
--  Clear drawdown mechanics. 
--  Predictable margin procedures. 
--  Stable interest structures. 
--  Transparent reporting cycles.
+That means:
+
+- Conservative liquidity facility to value ratios.
+
+- Institutional custody.
+
+- Clear drawdown mechanics.
+
+- Predictable margin procedures.
+
+- Stable interest structures.
+
+- Transparent reporting cycles.
 
 These elements transform digital assets into usable collateral without altering their investment thesis.
 
@@ -169,8 +180,7 @@ We provide liquidity against that exposure with structures that align with their
 
 Minimum eligibility begins at 2,000,
 
-00
-0 in crypto collateral because scale is required for stability.
+000 in crypto collateral because scale is required for stability.
 
 At lower levels volatility cannot be structurally neutralized without creating unnecessary risk.
 
@@ -184,17 +194,21 @@ Our responsibility is to treat them accordingly.
 
 At the 5,000,
 
-00
-0 threshold public share Capital Structuring allows families to unlock liquidity without triggering capital gains, without disrupting long term positions, and without introducing unnecessary execution risk.
+000 threshold public share Capital Structuring allows families to unlock liquidity without triggering capital gains, without disrupting long term positions, and without introducing unnecessary execution risk.
 
-This approach is used frequently for: 
--  Portfolio expansion. 
--  Cross asset allocation shifts. 
--  Capital Access is restricted to approved mandates.
+This approach is used frequently for:
+
+- Portfolio expansion.
+
+- Cross asset allocation shifts.
+
+- Capital Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
--  Strategic balance sheet optimization for private placements. 
--  Estate and tax optimization planning.
+
+- Strategic balance sheet optimization for private placements.
+
+- Estate and tax optimization planning.
 
 The principles are identical to crypto Institutional Liquidity Paths.
 
@@ -222,10 +236,13 @@ We allow families to use crypto and public equities in the same structural conve
 
 We bring coherence to asset categories that were once siloed.
 
-This integrated design creates three primary benefits. 
--  Unified liquidity planning across the entire balance sheet. 
--  Reduced friction in capital allocation. 
--  Higher strategic optionality at the family governance level.
+This integrated design creates three primary benefits.
+
+- Unified liquidity planning across the entire balance sheet.
+
+- Reduced friction in capital allocation.
+
+- Higher strategic optionality at the family governance level.
 
 Stewardship is not about controlling assets.
 
@@ -237,11 +254,15 @@ Our Capital Structuring frameworks do exactly that.
 
 It removes distractions.
 
-In Capital Structuring against digital and public assets, minimalism means: 
--  No unnecessary layers. 
--  No speculative complexity. 
--  No performative features. 
--  No dilution of purpose.
+In Capital Structuring against digital and public assets, minimalism means:
+
+- No unnecessary layers.
+
+- No speculative complexity.
+
+- No performative features.
+
+- No dilution of purpose.
 
 A minimalist credit structure is clarity.
 

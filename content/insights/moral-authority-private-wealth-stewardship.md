@@ -20,9 +20,12 @@ Wealth without mandate decays.
 
 Wealth with mandate compounds.
 
-A good man leaves an inheritance to his children’s children ( 
--  **Proverbs 13:22
-*
+A good man leaves an inheritance to his children’s children (
+
+- **Proverbs 13:22
+
+* 
+
 * ).
 
 ## THE MANDATE
@@ -190,14 +193,21 @@ Not sentiment.
 
 Structure.
 
-The architecture is built in layers: 
--  Moral mandate 
--  Jurisdictional stance 
--  Asset selection logic 
--  Liquidity design 
--  Generational continuity 
--  Witness to community 
--  Accountability to transcendent order These layers create institutional gravity.
+The architecture is built in layers:
+
+- Moral mandate
+
+- Jurisdictional stance
+
+- Asset selection logic
+
+- Liquidity design
+
+- Generational continuity
+
+- Witness to community
+
+- Accountability to transcendent order These layers create institutional gravity.
 
 Without gravity, the platform floats.
 

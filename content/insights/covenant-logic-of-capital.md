@@ -43,10 +43,14 @@ Work forged into value.
 Then value forged into legacy.
 
 This is the sovereign architecture of wealth that endures. *"The integrity of the upright shall guide them."
+
 * 
--  **Proverbs 11:
+
+- **Proverbs 11:
 3
-*
+
+* 
+
 * A sovereign family does not allocate from emotion.
 
 It allocates from mandate.
@@ -63,12 +67,17 @@ Sentiment fades.
 
 Only mission remains.
 
-One principle governs the architecture: 
--  Capital anchored in moral authority compounds with greater stability than capital driven by appetite. 
--  Families who treat wealth as stewardship-never entitlement-build dynasties, not portfolios. 
--  Free enterprise remains the only system that rewards the brave, the diligent, the builders of real value. 
--  Markets punish vanity projects but reward firms that solve industrial problems at scale. 
--  The Spirit of Gnosjö proves it: community discipline multiplies output without sacrificing conscience.
+One principle governs the architecture:
+
+- Capital anchored in moral authority compounds with greater stability than capital driven by appetite.
+
+- Families who treat wealth as stewardship-never entitlement-build dynasties, not portfolios.
+
+- Free enterprise remains the only system that rewards the brave, the diligent, the builders of real value.
+
+- Markets punish vanity projects but reward firms that solve industrial problems at scale.
+
+- The Spirit of Gnosjö proves it: community discipline multiplies output without sacrificing conscience.
 
 Machine Gun now.
 

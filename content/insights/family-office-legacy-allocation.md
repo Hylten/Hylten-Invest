@@ -72,11 +72,15 @@ This often includes a blend of conservative instruments.
 
 It is designed to endure crises without forcing the family to liquidate long-term positions.
 
-Typical elements include: 
--  Short duration high grade instruments 
--  Strategic cash reserves 
--  Defensive fixed income 
--  Essential real assets with low operational complexity These allocations serve a singular purpose.
+Typical elements include:
+
+- Short duration high grade instruments
+
+- Strategic cash reserves
+
+- Defensive fixed income
+
+- Essential real assets with low operational complexity These allocations serve a singular purpose.
 
 They ensure the family can act from strength, not fear, during dislocations. # ## 
 
@@ -90,11 +94,15 @@ Their value is not determined by quarterly performance.
 
 Their value emerges through structural expansion.
 
-Common components include: 
--  Global equity exposure 
--  High quality private equity 
--  Select venture capital with prudent pacing 
--  Scalable real estate platforms The emphasis is on quality, durability, and simplicity.
+Common components include:
+
+- Global equity exposure
+
+- High quality private equity
+
+- Select venture capital with prudent pacing
+
+- Scalable real estate platforms The emphasis is on quality, durability, and simplicity.
 
 The objective is to build exposure to global progress while avoiding unnecessary complexity. # ## 
 
@@ -108,11 +116,15 @@ They are strategic.
 
 They support the family’s identity, mission, and societal position.
 
-Examples include: 
--  Direct ownership in operating companies 
--  Sector concentrations tied to legacy expertise 
--  Philanthropic or mission aligned investments 
--  Cultural or regional assets supporting family heritage These positions carry long duration and deep meaning.
+Examples include:
+
+- Direct ownership in operating companies
+
+- Sector concentrations tied to legacy expertise
+
+- Philanthropic or mission aligned investments
+
+- Cultural or regional assets supporting family heritage These positions carry long duration and deep meaning.
 
 They are not evaluated only through financial metrics.
 
@@ -134,11 +146,15 @@ Optionality capital serves one purpose.
 
 It positions the next generation with the flexibility to adapt.
 
-This may include: 
--  Exploration of emerging strategies 
--  Tactical opportunities during market dislocations 
--  Early entry into transformative technologies 
--  Off-market or relationship based opportunities Optionality is a silent asset.
+This may include:
+
+- Exploration of emerging strategies
+
+- Tactical opportunities during market dislocations
+
+- Early entry into transformative technologies
+
+- Off-market or relationship based opportunities Optionality is a silent asset.
 
 It nurtures adaptability.
 
@@ -174,12 +190,17 @@ Governance without clarity collapses.
 
 A legacy allocation framework relies on structured governance that is predictable and enduring.
 
-Typical elements include: 
--  Investment policy documents 
--  Defined decision hierarchies 
--  Processes for onboarding the next generation 
--  Clear protocols for review and revision 
--  A rhythm of communication rooted in transparency Good governance does not restrict the family.
+Typical elements include:
+
+- Investment policy documents
+
+- Defined decision hierarchies
+
+- Processes for onboarding the next generation
+
+- Clear protocols for review and revision
+
+- A rhythm of communication rooted in transparency Good governance does not restrict the family.
 
 It protects the family from drift.
 
@@ -197,12 +218,17 @@ Not only technically.
 
 Also philosophically.
 
-This includes: 
--  Financial literacy 
--  Exposure to decision making 
--  Understanding risk and restraint 
--  Practice in strategic thinking 
--  Development of stewardship identity A legacy is secure only when those who inherit it understand its purpose. 
+This includes:
+
+- Financial literacy
+
+- Exposure to decision making
+
+- Understanding risk and restraint
+
+- Practice in strategic thinking
+
+- Development of stewardship identity A legacy is secure only when those who inherit it understand its purpose. 
 
 ## The Role of External Partners A disciplined family office maintains independence, yet also recognizes the importance of selective partnerships.
 
@@ -224,12 +250,17 @@ And where external insights elevate long-term outcomes.
 
 They are not forced into reactive behavior.
 
-They maintain: 
--  Ample liquidity 
--  Clear principles 
--  Time horizon advantages 
--  Flexible optionality capital 
--  Strategic insulation from short-term volatility By avoiding unnecessary movement, they reduce error.
+They maintain:
+
+- Ample liquidity
+
+- Clear principles
+
+- Time horizon advantages
+
+- Flexible optionality capital
+
+- Strategic insulation from short-term volatility By avoiding unnecessary movement, they reduce error.
 
 By maintaining long-term exposure, they capture structural growth.
 
