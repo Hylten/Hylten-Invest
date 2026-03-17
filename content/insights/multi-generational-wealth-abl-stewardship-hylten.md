@@ -20,15 +20,11 @@ The counter intuitive truth in the 2026 environment is that wealth durability is
 
 Asset Backed Lending functions as a governance instrument that protects families from drift, emotional decision making, and exposure to unpriced volatility.
 
-It creates predictability in a world where public markets fluctuate without reference to operational reality.
+It creates predictability in a world where public markets fluctuate without reference to operational reality. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,15 +58,11 @@ The Spirit of Gnosjö created an operating environment where stewardship, discip
 
 Modern allocators face a world where these principles must be intentionally engineered into the balance sheet.
 
-Asset Backed Lending has become one of the few mechanisms that preserves this ethos within an institutional framework.
+Asset Backed Lending has become one of the few mechanisms that preserves this ethos within an institutional framework. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -148,9 +140,9 @@ For multi generational wealth, this converts external volatility into internal s
 
 This allows family offices to shift from episodic allocation to continuous balance sheet optimization, where capital is redeployed with precision.
 
-This creates compounding stability, not compounding risk.
+This creates compounding stability, not compounding risk. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
@@ -182,9 +174,9 @@ They require navigation.
 
 They require intelligence that clarifies where stability can be engineered and where drift must be eliminated.
 
-This is the institutional archetype of the introducer: the one who ensures alignment between capital, collateral, and operational reality.
+This is the institutional archetype of the introducer: the one who ensures alignment between capital, collateral, and operational reality. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Every significant allocation for a multi generational family must pass through the stewardship filter.
 
@@ -234,9 +226,9 @@ Stewardship is not passive.
 
 Stewardship is active management of responsibility.
 
-Asset Backed Lending is a modern expression of this ancient discipline.
+Asset Backed Lending is a modern expression of this ancient discipline. 
 
-# Phase V: .
+### Phase V: .
 
 THE
 

@@ -22,15 +22,11 @@ The Spirit of Gnosjö, with its emphasis on frugality, industriousness, and inte
 
 The stewardship lens is no longer a secondary consideration.
 
-It is becoming the primary filter through which families and principals evaluate capital alignment.
+It is becoming the primary filter through which families and principals evaluate capital alignment. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -72,15 +68,11 @@ The Nordic industrial tradition demonstrated that stewardship, discipline, and i
 
 These values are now sought as strategic advantages in global allocation.
 
-The result is a bifurcation between opportunistic actors still seeking short term liquidity extraction and stewardship-driven principals establishing multi generational systems for capital preservation.
+The result is a bifurcation between opportunistic actors still seeking short term liquidity extraction and stewardship-driven principals establishing multi generational systems for capital preservation. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -145,9 +137,9 @@ This shift aligns with the Biblical principle of responsible resource management
 
 * 
 
-* .
+* . 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL The allocator landscape is fragmenting into two archetypes: managers who sell product and strategic partners who navigate markets.
 
@@ -179,9 +171,9 @@ These technical insights are essential for family offices seeking to understand 
 
 In non energy sectors such as private credit, real estate, and industrials, the role of Roials Capital is to provide structural intelligence on LTV curves, collateralization models, cash flow waterfalls, and replacement cost analysis.
 
-The strategic partner model is distinctly aligned with stewardship because it prioritizes clarity, education, and long term alignment rather than transactional behavior.
+The strategic partner model is distinctly aligned with stewardship because it prioritizes clarity, education, and long term alignment rather than transactional behavior. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER The stewardship filter is a decision making protocol that evaluates opportunities through both technical and moral dimensions.
 
@@ -233,9 +225,9 @@ Alignment with Providence Capital is a tool entrusted to individuals for the adv
 
 Stewardship honors this trust by deploying capital where it can create real value.
 
-This principle is foundational to sustainable generational legacy.
+This principle is foundational to sustainable generational legacy. 
 
-# Phase V: .
+### Phase V: .
 
 THE CALIBRATION LENS FOR 2026 The allocator entering 2026 faces a structurally altered world.
 

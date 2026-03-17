@@ -26,9 +26,9 @@ Our focus remains constant, which is conservative Monetization Architecture agai
 
 The future of stewardship will not belong to those who chase velocity.
 
-It will belong to those who control liquidity with intention. 
+It will belong to those who control liquidity with intention.
 
-## Stewardship in the Next Decade The next decade will reward conservatism
+Stewardship in the Next Decade The next decade will reward conservatism
 
 .
 
@@ -60,9 +60,9 @@ Hyltén Invest positions itself to support families through this evolution with 
 
 - Public equity portfolios.
 
-The future will favor those who move quietly with intention. 
+The future will favor those who move quietly with intention.
 
-## The Families That Endure Wealth longevity is rarely the result of innovation
+The Families That Endure Wealth longevity is rarely the result of innovation
 
 .
 
@@ -90,11 +90,9 @@ It allows capital to thrive without being compromised by short term markets.
 
 It transforms the concept of liquidity from reactive to proactive.
 
-This is the essence of stewardship. 
+This is the essence of stewardship.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

@@ -26,13 +26,9 @@ Asset hardening is the corrective mechanism.
 
 It transforms capital from a static store into an operational instrument.
 
-It anchors the family while creating the latitude to engage with new opportunities at controlled velocity. 
+It anchors the family while creating the latitude to engage with new opportunities at controlled velocity.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -80,19 +76,15 @@ A similar pattern exists in mid market private credit, industrial real estate, a
 
 The result is a regime that penalizes passive exposure and rewards engineered liquidity supported by operationally grounded assets.
 
-Families must recalibrate from asset accumulation to structural resilience. 
+Families must recalibrate from asset accumulation to structural resilience.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
  OF ASSET HARDENING Asset hardening is a balance sheet discipline that combines predictable cash flow assets, controlled duration liabilities, and multi 
 
-# Layer LI: quidity reserves
+### Layer LI: quidity reserves
 
 .
 
@@ -170,7 +162,7 @@ Preparation was liquidity structured with purpose.
 
 THE PARTNERSHIP MODEL Roials Capital serves as a strategic navigator for families repositioning their capital architecture.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -196,13 +188,9 @@ Roials Capital does not function as an asset manager.
 
 Instead, it acts as an institutional introducer, providing families with a calibrated understanding of market structures, operational realities, and capital positioning mechanics.
 
-The objective is navigation, not distribution. 
+The objective is navigation, not distribution.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a sentimental principle
+THE STEWARDSHIP FILTER Stewardship is not a sentimental principle
 
 .
 

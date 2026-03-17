@@ -24,13 +24,9 @@ These principles align closely with the Nordic industrial ethic that shaped the 
 
 * .
 
-A good man leaves an inheritance to his children's children. 
+A good man leaves an inheritance to his children's children.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -82,13 +78,9 @@ The pullback of banks and large E&P consolidators has left operationally strong 
 
 This is not a commentary on commodity speculation but a statement of capital misalignment.
 
-Family offices with a legacy outlook increasingly recognize that the environment rewards patient capital willing to look beyond quarterly sentiment. 
+Family offices with a legacy outlook increasingly recognize that the environment rewards patient capital willing to look beyond quarterly sentiment.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -222,13 +214,9 @@ Relationships are not transactional.
 
 They are covenantal.
 
-They are grounded in responsibility, clarity, and respect for generational capital. 
+They are grounded in responsibility, clarity, and respect for generational capital.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not an aesthetic or philosophical notion
+THE STEWARDSHIP FILTER Stewardship is not an aesthetic or philosophical notion
 
 .
 

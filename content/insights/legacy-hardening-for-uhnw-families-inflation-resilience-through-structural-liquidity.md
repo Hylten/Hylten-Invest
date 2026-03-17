@@ -22,9 +22,9 @@ It is about controlled liquidity, selective leverage, and defensive optionality.
 
 Hyltén Invest operates within this domain with principal authority.
 
-We build the structural mechanics that allow institutional capital to move efficiently through the private wealth ecosystem. 
+We build the structural mechanics that allow institutional capital to move efficiently through the private wealth ecosystem.
 
-## The Strategic Outcome: Liquidity Without Compromise Legacy hardening ultimately produces a simple result
+The Strategic Outcome: Liquidity Without Compromise Legacy hardening ultimately produces a simple result
 
 .
 
@@ -42,11 +42,9 @@ When the world becomes volatile, capital does not freeze.
 
 It flows.
 
-This is the defining characteristic of enduring wealth. 
+This is the defining characteristic of enduring wealth.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

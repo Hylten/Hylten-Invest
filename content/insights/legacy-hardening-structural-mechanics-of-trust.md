@@ -28,13 +28,9 @@ The perspective is grounded in the Nordic industrial tradition, the Spirit of Gn
 
 * establishes the thesis: "A good man leaves an inheritance to his children's children." This is not sentiment.
 
-It is a design specification for the balance sheet of a multi-generational enterprise. 
+It is a design specification for the balance sheet of a multi-generational enterprise.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -86,13 +82,9 @@ THE REGIME SHIFT
 
 This scarcity is the source of the opportunity.
 
-When trust becomes rare, the institutions capable of producing it achieve a structural advantage. 
+When trust becomes rare, the institutions capable of producing it achieve a structural advantage.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -138,9 +130,7 @@ Intergenerational transfer mechanics Intergenerational capital transfer requires
 
 - Stewardship constraints: Successors are not free to do what they wish with the enterprise.
 
-They are free to do what is required to preserve 
-
-## THE MANDAT
+They are free to do what is required to preserve THE MANDAT
 
 E
 
@@ -222,13 +212,9 @@ The partnership model is not transactional.
 
 It is architectural.
 
-The objective is to strengthen the allocator’s institutional identity and ensure that capital flows reflect long-term purpose rather than short-term impulses. 
+The objective is to strengthen the allocator’s institutional identity and ensure that capital flows reflect long-term purpose rather than short-term impulses.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of honoring what one inherits and strengthening what one will pass forward
+THE STEWARDSHIP FILTER Stewardship is the discipline of honoring what one inherits and strengthening what one will pass forward
 
 .
 
@@ -240,9 +226,7 @@ It is operational rigor informed by ethical conviction.
 
 The stewardship filter evaluates every decision through five criteria.
 
-- Alignment: Does this action extend 
-
-## THE MANDAT
+- Alignment: Does this action extend THE MANDAT
 
 E
 
@@ -288,13 +272,11 @@ Allocators who adopt this framework achieve three advantages:
 
 - Greater alignment between purpose and capital formation The decisive 
 
-# Step I
+### Step I
 
 s a structural audit of the allocator’s existing frameworks, governance, and operating assumptions.
 
-This process identifies gaps, strengthens architecture, and clarifies 
-
-## THE MANDAT
+This process identifies gaps, strengthens architecture, and clarifies THE MANDAT
 
 E
 

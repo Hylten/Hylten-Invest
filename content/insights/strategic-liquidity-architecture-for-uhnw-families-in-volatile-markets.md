@@ -32,19 +32,19 @@ We structure.
 
 We preserve optionality.
 
-## Family Governance Support Predictable liquidity strengthens governance frameworks
+Family Governance Support Predictable liquidity strengthens governance frameworks
 
 .
 
 It removes emotional decision making and enforces discipline across multi‑branch families.
 
-## Balance Sheet Smoothing Asset backed Capital Structuring removes short‑term distortions and keeps the long view intact
+Balance Sheet Smoothing Asset backed Capital Structuring removes short‑term distortions and keeps the long view intact
 
 .
 
-The family maintains composure while markets fluctuate. 
+The family maintains composure while markets fluctuate.
 
-## The Long View Why Structure Outperforms Prediction UHNW families do not try to outguess markets
+The Long View Why Structure Outperforms Prediction UHNW families do not try to outguess markets
 
 .
 
@@ -64,9 +64,9 @@ We create stability where markets create chaos.
 
 We create optionality where volatility creates limitation.
 
-We create continuity where the world offers discontinuity. 
+We create continuity where the world offers discontinuity.
 
-## The Hylten‑Invest Advantage Minimalist
+The Hylten‑Invest Advantage Minimalist
 
 .
 
@@ -94,9 +94,9 @@ The advantages for UHNW families include:
 
 For families who hold assets across decades, not quarters.
 
-For decision makers who require liquidity without compromising strategy, privacy, or control. 
+For decision makers who require liquidity without compromising strategy, privacy, or control.
 
-## Closing Perspective Volatility Is Not the Threat Illiquidity Is The modern market is fast and unstable
+Closing Perspective Volatility Is Not the Threat Illiquidity Is The modern market is fast and unstable
 
 .
 

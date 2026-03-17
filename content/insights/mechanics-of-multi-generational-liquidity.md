@@ -22,13 +22,9 @@ The objective is clarity.
 
 Multi generational wealth is not a mystery.
 
-It is the outcome of industrial discipline, capital theology, and the precision application of Institutional Liquidity Paths across cycles. 
+It is the outcome of industrial discipline, capital theology, and the precision application of Institutional Liquidity Paths across cycles.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ It must be anchored in real asset physics, operational intelligence, and jurisdi
 
 The allocator who navigates this regime needs a framework that merges European industrial heritage with North American resource depth.
 
-This is the structural foundation of liquidity that lasts beyond a single generation. 
+This is the structural foundation of liquidity that lasts beyond a single generation.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -168,13 +160,9 @@ Operational Integrity No strategy can be multi generational if operational risk 
 
 This includes reservoir engineering in energy, LTV curves in credit, and replacement cost analytics in real estate.
 
-The strategic navigator ensures that operational intelligence is embedded at the decision layer. 
+The strategic navigator ensures that operational intelligence is embedded at the decision layer.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The foundation of multi generational liquidity is stewardship
+THE STEWARDSHIP FILTER The foundation of multi generational liquidity is stewardship
 
 .
 

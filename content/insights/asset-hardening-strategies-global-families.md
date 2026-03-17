@@ -24,9 +24,7 @@ The balance between liquidity and durability compresses under regulatory velocit
 
 Families built on industry-real production, real assets, real moral authority-now operate in a fragmented landscape where financial abstraction outpaces stewardship.
 
-Yet 
-
-## THE MANDAT
+Yet THE MANDAT
 
 E
 
@@ -494,7 +492,7 @@ It builds structures that cannot be coerced.
 
 It sustains families that refuse fragility.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

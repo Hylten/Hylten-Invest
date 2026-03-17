@@ -12,13 +12,9 @@ The spread dislocation observed across North American and European middle-market
 
 The vacuum is not a symptom of weakened asset bases but of capital architecture that has not kept pace with real-economy demand.
 
-This gap has created a market where the durability of capital stewardship has become a differentiator more powerful than scale, branding, or origination velocity. 
+This gap has created a market where the durability of capital stewardship has become a differentiator more powerful than scale, branding, or origination velocity.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -78,13 +74,9 @@ It governs continuity.
 
 It prevents waste.
 
-It aligns time horizons across stakeholders. 
+It aligns time horizons across stakeholders.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -208,13 +200,9 @@ Roials Capital navigates markets on behalf of allocators, providing clarity wher
 
 The objective is alignment.
 
-The output is institutional confidence. 
+The output is institutional confidence.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a theological concept applied to finance
+THE STEWARDSHIP FILTER Stewardship is not a theological concept applied to finance
 
 .
 

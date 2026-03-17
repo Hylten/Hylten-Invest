@@ -24,13 +24,9 @@ This memorandum outlines the Hylten Invest philosophy of Enduring Liquidity.
 
 The analysis delineates the distinction between capital accumulation and capital stewardship, the importance of hardening legacy assets into structures with predictable liquidity vectors, and the operational mechanics that convert long duration industrial exposure into multi generational stability.
 
-The briefing is intended for institutional allocators, private credit managers, and family principals evaluating the intersection of moral authority, operational discipline, and Asset-Backed Frameworks. 
+The briefing is intended for institutional allocators, private credit managers, and family principals evaluating the intersection of moral authority, operational discipline, and Asset-Backed Frameworks.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -76,13 +72,9 @@ Liquidity must be built, not assumed.
 
 Legacy must be structured, not hoped.
 
-Continuity requires operational intelligence, not optimism. 
+Continuity requires operational intelligence, not optimism.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -192,13 +184,9 @@ This separation is critical.
 
 Stewardship requires that families and institutions maintain agency.
 
-The partnership model supports that agency by removing informational asymmetry without transferring ownership or discretion. 
+The partnership model supports that agency by removing informational asymmetry without transferring ownership or discretion.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
 
 .
 

@@ -26,9 +26,9 @@ Minimum mandate depth: $5M+ target size.
 
 The future of legacy is not speculative.
 
-It is engineered through asset based Strategic Collateralization, private credit, and AI supported stewardship. 
+It is engineered through asset based Strategic Collateralization, private credit, and AI supported stewardship.
 
-## The AI Enhanced Family Office The next evolution of the Family Office is not larger staff or broader investment committees
+The AI Enhanced Family Office The next evolution of the Family Office is not larger staff or broader investment committees
 
 .
 
@@ -46,9 +46,9 @@ Crypto and public share Asset-Backed Frameworks become liquidity structures.
 
 The family retains total control over the strategic blueprint.
 
-This is how legacy shifts from preservation to continuation. 
+This is how legacy shifts from preservation to continuation.
 
-## A Conservative Approach to a High Complexity Future Although the world is becoming more dynamic, the families that endure are simplifying their frameworks
+A Conservative Approach to a High Complexity Future Although the world is becoming more dynamic, the families that endure are simplifying their frameworks
 
 .
 
@@ -66,11 +66,9 @@ Hyltén Invest provides the structural mechanics that allow this endurance to ta
 
 We build frameworks that minimize noise and maximize optionality.
 
-Through AI supported Asset-Based Lending and private credit Capital Structuring, we create liquidity solutions that align with conservative long term philosophies. 
+Through AI supported Asset-Based Lending and private credit Capital Structuring, we create liquidity solutions that align with conservative long term philosophies.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

@@ -10,13 +10,9 @@ The liquidity displacement observed in global credit markets is a consequence of
 
 Digital collateral enters this environment not as a novelty, but as an operational solution to a widening institutional funding gap.
 
-The conservative allocator now evaluates crypto backed liquidity not through sentiment, but through mechanics that mirror established secured lending structures. 
+The conservative allocator now evaluates crypto backed liquidity not through sentiment, but through mechanics that mirror established secured lending structures.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ The gap is filled by institutions capable of integrating alternative collateral 
 
 This is not a speculative thesis.
 
-It is a structural adjustment. 
+It is a structural adjustment.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -84,7 +76,7 @@ The allocator benefits from:
 
 - multi jurisdiction supervisory frameworks The custody 
 
-# Layer MI: rrors the rigor applied to precious metal vaulting or Leve
+### Layer MI: rrors the rigor applied to precious metal vaulting or Leve
 
 l
 
@@ -178,13 +170,9 @@ This is the strategic function.
 
 It is not transaction driven.
 
-It is alignment driven. 
+It is alignment driven.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the disciplined management of resources allocated under responsibility, not ownership
+THE STEWARDSHIP FILTER Stewardship is the disciplined management of resources allocated under responsibility, not ownership
 
 .
 

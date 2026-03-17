@@ -24,9 +24,9 @@ Our purpose is to strengthen the financial position of families, principals, and
 
 We provide the mechanics.
 
-You retain the authority. 
+You retain the authority.
 
-## Capital Migration That Preserves Identity For UHNW individuals, wealth is not merely capital
+Capital Migration That Preserves Identity For UHNW individuals, wealth is not merely capital
 
 .
 
@@ -44,11 +44,9 @@ This is stewardship rather than transaction.
 
 This is conservation rather than consumption.
 
-This is the long view. 
+This is the long view.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

@@ -40,9 +40,7 @@ The brief assumes a family enterprise with entrenched industrial DNA, heterogene
 
 * 
 
-* directs 
-
-## THE MANDAT
+* directs THE MANDAT
 
 E
 
@@ -78,9 +76,7 @@ This requires a three‑tier structure:
 
 The constitutional tier is the anchor.
 
-Without constitutional firmness, no generation will respect 
-
-## THE MANDAT
+Without constitutional firmness, no generation will respect THE MANDAT
 
 E
 
@@ -158,7 +154,7 @@ Families survive on institutional muscle.
 
 The institution must outlive the personalities.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -220,7 +216,7 @@ Not because of opportunistic pricing but because the global energy mix cannot tr
 
 Families that understand physical systems, supply constraints, and geopolitical latency can 
 
-# Step I
+### Step I
 
 nto structured positions that deliver durable cash flow with operational leverage.
 
@@ -292,9 +288,7 @@ It must evaluate readiness.
 
 When readiness is lacking, authority is withheld.
 
-This protects the family, the capital, and 
-
-## THE MANDAT
+This protects the family, the capital, and THE MANDAT
 
 E
 
@@ -436,7 +430,7 @@ Fragmented families cannot compound.
 
 Unified families compound effortlessly.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

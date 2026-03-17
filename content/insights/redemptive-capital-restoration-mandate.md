@@ -79,9 +79,9 @@ Legacy behaves differently than yield-chasing.
 
 A family firm knows this.
 
-An empire of debt does not.
+An empire of debt does not. 
 
-# Phase II: .
+### Phase II: .
 
 Principal Voice.
 
@@ -103,9 +103,9 @@ When productivity rises, returns compound.
 
 Moral law and economic law converge.
 
-That is the architecture.
+That is the architecture. 
 
-# Phase III: .
+### Phase III: .
 
 Bypass.
 

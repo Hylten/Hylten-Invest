@@ -26,13 +26,9 @@ The perspective is anchored in the Nordic industrial ethos that shaped my own wo
 
 The Spirit of Gnosjö ensures capital is never theoretical.
 
-It is operational, moral, and accountable. 
+It is operational, moral, and accountable.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,13 +60,9 @@ An allocator has to map exposure to:
 
 - Leverage cycle stress points
 
-- Capital stack rigidity The new objective is not to hold a spread of sectors but to neutralize systemic fragility while accumulating exposure to real economy cash flow engines. 
+- Capital stack rigidity The new objective is not to hold a spread of sectors but to neutralize systemic fragility while accumulating exposure to real economy cash flow engines.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -120,7 +112,7 @@ It is a calibrated optimizer.
 
 Private Credit Mechanics Private credit has transitioned from a supplementary allocation to a structural 
 
-# Pillar D: ue to regulatory displacement in the banking system
+### Pillar D: ue to regulatory displacement in the banking system
 
 .
 
@@ -246,13 +238,9 @@ Operational Intelligence We provide analytical frameworks that clarify:
 
 - Duration mismatches
 
-- Return pathways without performance promises This is the foundation for institutional grade portfolio construction. 
+- Return pathways without performance promises This is the foundation for institutional grade portfolio construction.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The stewardship mandate is not a moral overlay
+THE STEWARDSHIP FILTER The stewardship mandate is not a moral overlay
 
 .
 

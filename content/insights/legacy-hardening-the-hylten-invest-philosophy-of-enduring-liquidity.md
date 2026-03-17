@@ -24,9 +24,9 @@ We are not in the business of noise.
 
 We are in the business of structural liquidity.
 
-And it is structural liquidity that becomes legacy. 
+And it is structural liquidity that becomes legacy.
 
-## The Architecture of Liquidity Liquidity is often misunderstood as immediacy
+The Architecture of Liquidity Liquidity is often misunderstood as immediacy
 
 .
 
@@ -38,7 +38,7 @@ The certainty that capital can be activated when required, without forced liquid
 
 We construct liquidity architecture with the following principles.
 
-## Asset priority: Stability first We prioritize assets that have intrinsic stability
+Asset priority: Stability first We prioritize assets that have intrinsic stability
 
 .
 
@@ -52,7 +52,7 @@ Digital assets with institutional custody.
 
 This priority ensures that liquidity originates from strength.
 
-## Conservative leverage ratios Our posture is conservative
+Conservative leverage ratios Our posture is conservative
 
 .
 
@@ -64,7 +64,7 @@ Low leverage is clarity.
 
 Conservative structures endure.
 
-## Optionality without exposure Liquidity must not create exposure
+Optionality without exposure Liquidity must not create exposure
 
 .
 
@@ -78,7 +78,7 @@ Does this expand the client's long‑term freedom.
 
 If the answer is no, we do not advance the line.
 
-## Constant reinforcement of the balance sheet Liquidity should strengthen the balance sheet
+Constant reinforcement of the balance sheet Liquidity should strengthen the balance sheet
 
 .
 
@@ -88,9 +88,9 @@ Not overextend it.
 
 Through disciplined private credit and Asset-Based Lending, every Monetization Architecture cycle becomes a reinforcement cycle.
 
-A cycle that hardens the legacy. 
+A cycle that hardens the legacy.
 
-## Why Families Choose Silent Structures HNWI and UHNW families operate differently than institutions
+Why Families Choose Silent Structures HNWI and UHNW families operate differently than institutions
 
 .
 
@@ -116,9 +116,9 @@ Maximum control.
 
 Silent structures give families the ability to navigate complexity without signaling movement.
 
-In a world where visibility is vulnerability, silence is strength. 
+In a world where visibility is vulnerability, silence is strength.
 
-## The Hylten Invest Client Profile We do not serve everyone
+The Hylten Invest Client Profile We do not serve everyone
 
 .
 
@@ -146,9 +146,9 @@ Alignment of scale.
 
 Alignment of intent.
 
-Alignment of stewardship philosophy. 
+Alignment of stewardship philosophy.
 
-## A Minimalist Approach to Wealth Infrastructure Minimalism is clarity
+A Minimalist Approach to Wealth Infrastructure Minimalism is clarity
 
 .
 
@@ -172,9 +172,9 @@ Balance‑sheet durability.
 
 We do not require more.
 
-We require precision. 
+We require precision.
 
-## The Philosophy in Practice Legacy hardening is not a slogan
+The Philosophy in Practice Legacy hardening is not a slogan
 
 .
 
@@ -198,9 +198,9 @@ Deliberately careful.
 
 Deliberately aligned with long‑term horizons.
 
-Because every liquidity decision becomes part of the legacy. 
+Because every liquidity decision becomes part of the legacy.
 
-## When Liquidity Becomes Legacy There is a moment, often unnoticed, when liquidity ceases to be transactional and becomes foundational
+When Liquidity Becomes Legacy There is a moment, often unnoticed, when liquidity ceases to be transactional and becomes foundational
 
 .
 
@@ -218,11 +218,9 @@ To the family.
 
 To the steward.
 
-To the next generation. 
+To the next generation.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

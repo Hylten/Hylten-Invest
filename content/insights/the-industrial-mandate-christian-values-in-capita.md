@@ -42,9 +42,9 @@ The objective is architectural clarity.
 
 No spectacle.
 
-Only precision and covenant logic. 
+Only precision and covenant logic.
 
-## The Order of Capital
+The Order of Capital
 
 .
 
@@ -92,13 +92,13 @@ No theatrics.
 
 No detached governance.
 
-Only discipline and truth. 
+Only discipline and truth.
 
-## The Industrial Mandate The industrial mandate defines the purpose of capital deployment under Christian stewardship
+The Industrial Mandate The industrial mandate defines the purpose of capital deployment under Christian stewardship
 
 .
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -146,9 +146,9 @@ No waste.
 
 No drift.
 
-No indulgence. 
+No indulgence.
 
-## Asset Hardening as Theological Logic In secular markets, asset hardening is risk management
+Asset Hardening as Theological Logic In secular markets, asset hardening is risk management
 
 .
 
@@ -190,9 +190,9 @@ Leadership that understands duty before ambition Asset hardening transforms a fi
 
 The theology is simple.
 
-A steward must ensure that the institution entrusted to him can endure. 
+A steward must ensure that the institution entrusted to him can endure.
 
-## Covenant Stewardship
+Covenant Stewardship
 
 .
 
@@ -234,9 +234,9 @@ They are distribution of faithfulness.
 
 The enterprise is not a personal achievement.
 
-It is a trust. 
+It is a trust.
 
-## Execution Velocity without Spectacle Modern markets often conflate visibility with competence
+Execution Velocity without Spectacle Modern markets often conflate visibility with competence
 
 .
 
@@ -260,9 +260,7 @@ This is why the Gnosjö model consistently outperforms larger metropolitan firms
 
 They do not waste motion.
 
-They move when 
-
-## THE MANDAT
+They move when THE MANDAT
 
 E
 
@@ -272,9 +270,9 @@ They do not negotiate against their own conscience.
 
 Execution velocity is not a tactic.
 
-It is a moral stance. 
+It is a moral stance.
 
-## Capital Deployment Under the Industrial Mandate When deploying capital under a Christian framework, one evaluates not only the enterprise, but the moral architecture behind it
+Capital Deployment Under the Industrial Mandate When deploying capital under a Christian framework, one evaluates not only the enterprise, but the moral architecture behind it
 
 .
 
@@ -312,9 +310,9 @@ The Christian investor reads structure.
 
 Hope is an emotion.
 
-Structure is measurable. 
+Structure is measurable.
 
-## The Hyltén Invest Position Hyltén Invest operates under this doctrinal architecture
+The Hyltén Invest Position Hyltén Invest operates under this doctrinal architecture
 
 .
 
@@ -324,7 +322,7 @@ Not self-promotion.
 
 Not market theater.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -356,15 +354,15 @@ Continuity over spectacle.
 
 Each is governed by the same covenant logic.
 
-No deviation. 
+No deviation.
 
-## NAEOC
+NAEOC
 
 .
 
 The North American Energy Mandate The North American energy corridor remains one of the last spheres where industrial logic, Christian work ethic, and high-return private markets converge.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -396,9 +394,9 @@ It fortifies regional economies.
 
 It supports generational work.
 
-This is why NAEOC fits within the wider industrial mandate. 
+This is why NAEOC fits within the wider industrial mandate.
 
-## EU MiFID II
+EU MiFID II
 
 .
 
@@ -426,9 +424,9 @@ It ensures their legacy remains intact.
 
 It transfers ownership to a steward willing to uphold responsibility.
 
-It reintroduces order where drift has taken hold. 
+It reintroduces order where drift has taken hold.
 
-## Off Market Deal Origination True covenant opportunities rarely appear in public markets
+Off Market Deal Origination True covenant opportunities rarely appear in public markets
 
 .
 
@@ -470,9 +468,7 @@ Strong covenant logic but weak institutional readiness These firms do not want n
 
 They want continuity.
 
-They want a steward. 
-
-## liquidity engineering Thresholds and the Moral Logic of Credit Credit requires discernment
+They want a steward. liquidity engineering Thresholds and the Moral Logic of Credit Credit requires discernment
 
 .
 
@@ -494,9 +490,9 @@ Too much noise.
 
 Credit is not granted for convenience.
 
-Credit is granted for stewardship. 
+Credit is granted for stewardship.
 
-## The Theology of Wealth Builders Wealth builders think differently
+The Theology of Wealth Builders Wealth builders think differently
 
 .
 
@@ -518,17 +514,15 @@ This is the Christian conservative tradition of business.
 
 This is the Spirit of Gnosjö.
 
-This is the logic that built Sweden’s most resilient enterprises. 
+This is the logic that built Sweden’s most resilient enterprises.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
  .
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -554,9 +548,7 @@ A source of order.
 
 A testament to stewardship.
 
-This is 
-
-## THE MANDAT
+This is THE MANDAT
 
 E
 

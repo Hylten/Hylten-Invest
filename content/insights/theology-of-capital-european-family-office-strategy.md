@@ -58,11 +58,9 @@ The covenant before the corporation.
 
 This is not nostalgia.
 
-This is design. 
+This is design.
 
- 
-
-## PRIVATE PRINCIPAL BRIEFING Vault-Sealed , Not for public distribution European family offices are now navigating three converging frontiers:
+PRIVATE PRINCIPAL BRIEFING Vault-Sealed , Not for public distribution European family offices are now navigating three converging frontiers:
 
  
 

@@ -24,13 +24,9 @@ The focus is clarity.
 
 The intent is stewardship.
 
-The objective is to define how an allocator can institutionalize protection around their balance sheet by anchoring exposure to real collateral, real utility, and real enforceability rather than speculative narratives. 
+The objective is to define how an allocator can institutionalize protection around their balance sheet by anchoring exposure to real collateral, real utility, and real enforceability rather than speculative narratives.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,13 +60,9 @@ The retreat of traditional lenders increases the ability to price risk conservat
 
 This is the central regime shift.
 
-The allocator who understands the gap between hard collateral utility and lender availability gains a protective instrument that did not exist fifteen years ago. 
+The allocator who understands the gap between hard collateral utility and lender availability gains a protective instrument that did not exist fifteen years ago.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -178,13 +170,9 @@ Institutional
 
  to operators who manage collateral heavy lending programs with audited track records, documented liquidation pathways, and governance systems consistent with conservative family offices and institutional LP requirements.
 
-This triad ensures that the allocator enters structures intentionally, not reactively. 
+This triad ensures that the allocator enters structures intentionally, not reactively.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral accessory
+THE STEWARDSHIP FILTER Stewardship is not a moral accessory
 
 .
 

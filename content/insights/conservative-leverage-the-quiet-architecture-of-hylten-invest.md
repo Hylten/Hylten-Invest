@@ -38,9 +38,9 @@ Predictable in its mathematics.
 
 Transparent in its constraints.
 
-This article explores how conservative leverage functions when built on private credit and asset based Capital Structuring, how these structures offer liquidity without distortion, and why such frameworks serve HNWI and UHNW families seeking quiet authority in a volatile world. 
+This article explores how conservative leverage functions when built on private credit and asset based Capital Structuring, how these structures offer liquidity without distortion, and why such frameworks serve HNWI and UHNW families seeking quiet authority in a volatile world.
 
-## Long-Term Stewardship as a Capital Strategy Stewardship is not a passive stance
+Long-Term Stewardship as a Capital Strategy Stewardship is not a passive stance
 
 .
 
@@ -68,9 +68,9 @@ Not acceleration.
 
 Not spectacle.
 
-Not risk inflation. 
+Not risk inflation.
 
-## The Hylten Invest Ethos: Quiet, Structural, Enduring Our role is not to project authority
+The Hylten Invest Ethos: Quiet, Structural, Enduring Our role is not to project authority
 
 .
 
@@ -86,6 +86,8 @@ It is deliberate.
 
 It is calm.
 
-It is built for families and individuals who measure success in decades. # Access is restricted to approved mandates.
+It is built for families and individuals who measure success in decades.
+
+Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

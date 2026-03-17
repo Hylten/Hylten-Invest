@@ -28,9 +28,9 @@ Our approach is minimalist, conservative, and intentionally quiet.
 
 We provide credit against private assets, structured mechanics for institutional capital, and liquidity solutions designed for those who think generationally rather than transactionally.
 
-This article explores stewardship as a guiding principle for private credit participants who value durability more than acceleration, and clarity more than noise. 
+This article explores stewardship as a guiding principle for private credit participants who value durability more than acceleration, and clarity more than noise.
 
-## The Nature of Volatility in Private Credit Volatility in private credit rarely expresses itself as price swings
+The Nature of Volatility in Private Credit Volatility in private credit rarely expresses itself as price swings
 
 .
 
@@ -56,9 +56,9 @@ Stewardship begins by recognizing this asymmetry.
 
 The role of the investor is not simply to acquire yield.
 
-It is to maintain optionality. 
+It is to maintain optionality.
 
-## Stewardship as a Strategic Posture Stewardship is slow capital
+Stewardship as a Strategic Posture Stewardship is slow capital
 
 .
 
@@ -80,9 +80,9 @@ We support private credit participants by providing Asset-Backed Frameworks stru
 
 We provide clarity when markets narrow.
 
-We remain silent when the environment is noisy. 
+We remain silent when the environment is noisy.
 
-## Liquidity as a Form of Control In private credit, liquidity is not the opposite of illiquidity
+Liquidity as a Form of Control In private credit, liquidity is not the opposite of illiquidity
 
 .
 
@@ -100,9 +100,9 @@ We provide liquidity against collateral that conventional lenders often misunder
 
 This is the essence of stewardship.
 
-Not the pursuit of more assets, but the preservation of the freedom to act when others cannot. 
+Not the pursuit of more assets, but the preservation of the freedom to act when others cannot.
 
-## Asset Based Monetization Architecture for Long-Term Investors Asset Based Monetization Architecture, in its purest form, is a discipline of clarity
+Asset Based Monetization Architecture for Long-Term Investors Asset Based Monetization Architecture, in its purest form, is a discipline of clarity
 
 .
 
@@ -126,9 +126,9 @@ Hyltén Invest specializes in this domain.
 
 We lend against private credit assets, structured portfolios, and select forms of institutional-grade collateral.
 
-Our frameworks prioritize overcollateralization, simplicity, and the quiet authority expected by sophisticated families and private offices. 
+Our frameworks prioritize overcollateralization, simplicity, and the quiet authority expected by sophisticated families and private offices.
 
-## Stewardship Within Private Credit Volatility Cycles Volatility in private credit moves in cycles that are slower and more structural than in public markets
+Stewardship Within Private Credit Volatility Cycles Volatility in private credit moves in cycles that are slower and more structural than in public markets
 
 .
 
@@ -140,7 +140,7 @@ Structures become more conservative.
 
 This 
 
-# Phase I
+### Phase I
 
 s often invisible to casual observers until it becomes acute.
 
@@ -154,9 +154,9 @@ By securing facilities that offer flexibility rather than rigidity.
 
 Hyltén Invest is designed for this anticipatory posture.
 
-We provide Capital Structuring that reinforces the durability of a family's financial architecture, not just their portfolio yield. 
+We provide Capital Structuring that reinforces the durability of a family's financial architecture, not just their portfolio yield.
 
-## The principal authority Model Our brand operates under a principle we call principal authority
+The principal authority Model Our brand operates under a principle we call principal authority
 
 .
 
@@ -178,9 +178,9 @@ principal authority is the opposite of performance signaling.
 
 It is the architecture behind the architecture.
 
-It is the mechanical layer that ensures capital behaves the way it should. 
+It is the mechanical layer that ensures capital behaves the way it should.
 
-## Crypto Institutional Liquidity Paths for Institutional Grade Holders Crypto Monetization Architecture has matured, but the risks have not disappeared
+Crypto Institutional Liquidity Paths for Institutional Grade Holders Crypto Monetization Architecture has matured, but the risks have not disappeared
 
 .
 
@@ -202,9 +202,9 @@ We value governance, custody, and transparency.
 
 We do not speculate.
 
-We underwrite. 
+We underwrite.
 
-## Public Share Monetization Architecture for Strategic Flexibility Large public equity positions often create a paradox
+Public Share Monetization Architecture for Strategic Flexibility Large public equity positions often create a paradox
 
 .
 
@@ -222,9 +222,9 @@ These structures allow families to manage liquidity without disturbing their str
 
 They allow them to act without broadcasting their intentions to the market.
 
-They allow them to maintain alignment with long-term stewardship. 
+They allow them to maintain alignment with long-term stewardship.
 
-## The Role of Collateral in a Stewardship Framework In a volatile environment, collateral becomes more than security
+The Role of Collateral in a Stewardship Framework In a volatile environment, collateral becomes more than security
 
 .
 
@@ -250,9 +250,9 @@ Public equity positions with clean ownership structure.
 
 Stewardship begins with what you choose to hold.
 
-It continues with how you choose to leverage it. 
+It continues with how you choose to leverage it.
 
-## Structural Mechanics for Institutional Capital The private credit ecosystem increasingly relies on intermediaries who provide structure
+Structural Mechanics for Institutional Capital The private credit ecosystem increasingly relies on intermediaries who provide structure
 
 .
 
@@ -278,9 +278,9 @@ Minimum mandate depth: $5M+ target size.
 
 principal authority is executed through craftsmanship.
 
-Not visibility. 
+Not visibility.
 
-## Stewardship as a Competitive Advantage In volatile markets, noise becomes expensive
+Stewardship as a Competitive Advantage In volatile markets, noise becomes expensive
 
 .
 
@@ -304,9 +304,9 @@ We do not amplify exposure.
 
 We do not push clients into structures that remove control.
 
-We support the long-term orientation that defines enduring families. 
+We support the long-term orientation that defines enduring families.
 
-## A Future Defined by Discipline The next cycle of private credit will reward discipline
+A Future Defined by Discipline The next cycle of private credit will reward discipline
 
 .
 
@@ -328,9 +328,9 @@ Hyltén Invest will continue to serve as an anchor for those who prioritize long
 
 Our focus will remain on Asset-Backed Frameworks against private credit, Asset-Based Lending structures, crypto positions above two million dollars, and public equity positions above five million dollars.
 
-We will continue to provide the silent structural layer that institutional capital requires, and that private families trust. 
+We will continue to provide the silent structural layer that institutional capital requires, and that private families trust.
 
-## Access is restricted to approved mandates
+Access is restricted to approved mandates
 
 .
 

@@ -260,7 +260,7 @@ Enforcement is inconsistent.
 
 Therefore, the next 
 
-# Layer I: s jurisdictional mapping
+### Layer I: s jurisdictional mapping
 
 .
 
@@ -452,7 +452,7 @@ Leverage is sovereignty.
 
 The next structural 
 
-# Layer I: s credit
+### Layer I: s credit
 
 .
 

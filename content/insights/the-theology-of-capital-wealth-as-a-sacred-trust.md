@@ -44,9 +44,9 @@ At the center stands the Principal.
 
 Not as a service provider.
 
-But as a custodian of the capital entrusted to him by Providence. 
+But as a custodian of the capital entrusted to him by Providence.
 
-## Capital Under Covenant **Psalm 24
+Capital Under Covenant **Psalm 24
 
 :
 1
@@ -79,9 +79,9 @@ Institutional audiences understand the permanence of mandate.
 
 Christian owners understand its morality.
 
-The Hyltén Invest doctrine fuses both. 
+The Hyltén Invest doctrine fuses both.
 
-## Generational Wealth as Obligation **Proverbs 13:22
+Generational Wealth as Obligation **Proverbs 13:22
 
 * 
 
@@ -111,9 +111,9 @@ Biblical stewardship is built on this exact principle.
 
 Not growth for its own sake.
 
-Growth for the sake of the descendants called to govern the results. 
+Growth for the sake of the descendants called to govern the results.
 
-## Asset Hardening Institutional-Grade Readiness Asset hardening transforms wealth from fragile possession into durable instrument
+Asset Hardening Institutional-Grade Readiness Asset hardening transforms wealth from fragile possession into durable instrument
 
 .
 
@@ -145,9 +145,9 @@ Asset hardening is not about defense.
 
 It is about clarity.
 
-Clarity that your capital is ready to operate without friction. 
+Clarity that your capital is ready to operate without friction.
 
-## Stewardship as Operational Philosophy **Luke 12:48
+Stewardship as Operational Philosophy **Luke 12:48
 
 * 
 
@@ -177,9 +177,9 @@ Hyltén Invest maintains velocity through:
 
 - Binary assessments instead of rhetorical meetings Velocity is moral.
 
-Delay is negligence. 
+Delay is negligence.
 
-## The Industrial Legacy Swedish Christian industrialism was never about scale for vanity
+The Industrial Legacy Swedish Christian industrialism was never about scale for vanity
 
 .
 
@@ -207,9 +207,9 @@ This legacy forms the philosophical engine behind the Hyltén Invest capital pos
 
 Not modern theatrics.
 
-Only durable productivity. 
+Only durable productivity.
 
-## The Capital Priesthood A Principal is a priest of resources
+The Capital Priesthood A Principal is a priest of resources
 
 .
 
@@ -233,9 +233,9 @@ Transfer without either is failure.
 
 The theology of capital binds all three.
 
-This creates the moral firewall necessary for institutional-grade credit deployment. 
+This creates the moral firewall necessary for institutional-grade credit deployment.
 
-## Institutional Alignment Through Moral Authority In a world of shifting narratives
+Institutional Alignment Through Moral Authority In a world of shifting narratives
 
 .
 
@@ -259,9 +259,9 @@ Christian ethics produce stability.
 
 Stability produces predictable governance.
 
-Predictable governance attracts disciplined capital. 
+Predictable governance attracts disciplined capital.
 
-## Liquidity as Instrument of Order Liquidity is not convenience
+Liquidity as Instrument of Order Liquidity is not convenience
 
 .
 
@@ -279,9 +279,9 @@ It honors the biblical call to stewardship while ensuring that capital remains m
 
 Liquidity is preparation.
 
-Preparation is obedience. 
+Preparation is obedience.
 
-## The Architecture of Trust Trust is not emotional
+The Architecture of Trust Trust is not emotional
 
 .
 
@@ -301,9 +301,9 @@ Trust grows where:
 
 The combination is rare.
 
-Its reputation compounds faster than capital itself. 
+Its reputation compounds faster than capital itself.
 
-## The Principal’s Posture A Principal does not negotiate identity
+The Principal’s Posture A Principal does not negotiate identity
 
 .
 
@@ -331,9 +331,9 @@ Accountability to capital partners This hierarchy cannot be reversed.
 
 When followed, it generates legitimacy.
 
-When ignored, it erodes both authority and asset base. 
+When ignored, it erodes both authority and asset base.
 
-## The Sacred Geometry of Capital Capital must flow like a liturgy
+The Sacred Geometry of Capital Capital must flow like a liturgy
 
 .
 
@@ -359,9 +359,9 @@ The sacred geometry of capital aligns:
 
 - Debt coverage integrity This is not mysticism.
 
-This is precision. 
+This is precision.
 
-## Institutional Language Without Compromise Christian conservative values and institutional finance are not in conflict
+Institutional Language Without Compromise Christian conservative values and institutional finance are not in conflict
 
 .
 
@@ -385,9 +385,9 @@ Stricter.
 
 Less fashionable.
 
-But its survival record is unmatched. 
+But its survival record is unmatched.
 
-## Wealth as Witness **Matthew 5:16
+Wealth as Witness **Matthew 5:16
 
 * 
 
@@ -411,9 +411,9 @@ A Principal who treats wealth as divine assignment becomes a beacon.
 
 Not through self-promotion.
 
-Through order. 
+Through order.
 
-## Tiered Capital Deployment Stewardship expresses itself through tiered allocation
+Tiered Capital Deployment Stewardship expresses itself through tiered allocation
 
 .
 
@@ -435,9 +435,9 @@ Strategic legacy expansion.
 
 This hierarchy protects the Principal from emotional decisions.
 
-It anchors every deployment in the covenant logic of duty before opportunity. 
+It anchors every deployment in the covenant logic of duty before opportunity.
 
-## Why Theology Matters in Finance Without theology, capital drifts
+Why Theology Matters in Finance Without theology, capital drifts
 
 .
 
@@ -455,9 +455,9 @@ Theology provides:
 
 - Continuity It turns the Principal from opportunist into custodian.
 
-In an age of volatility, only rooted custodians endure. 
+In an age of volatility, only rooted custodians endure.
 
-## Final Benediction of the Principal Wealth under covenant is not fragile
+Final Benediction of the Principal Wealth under covenant is not fragile
 
 .
 

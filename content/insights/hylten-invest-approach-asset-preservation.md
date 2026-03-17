@@ -16,13 +16,9 @@ This combination has left the real economy under capitalized at the exact moment
 
 Asset preservation has therefore become less about defense and more about strategic clarity.
 
-The Hylten Invest approach formalizes this clarity into a framework that aligns moral authority, industrial discipline, and multi generational capital stewardship. 
+The Hylten Invest approach formalizes this clarity into a framework that aligns moral authority, industrial discipline, and multi generational capital stewardship.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -70,13 +66,9 @@ It rejects passive defense and instead focuses on predetermined structures that 
 
 The objective is not to chase yield.
 
-It is to ensure that capital retains its functional integrity across market cycles. 
+It is to ensure that capital retains its functional integrity across market cycles.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -180,13 +172,9 @@ Strategic alignment is defined by:
 
 The intent is to connect capital allocators with operators whose technical capacity reduces the operational entropy of the asset base.
 
-This aligns with the Hylten Invest principle that asset preservation begins with who is entrusted to manage the operational layer. 
+This aligns with the Hylten Invest principle that asset preservation begins with who is entrusted to manage the operational layer.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The stewardship filter is the moral and functional core of the Hylten Invest doctrine
+THE STEWARDSHIP FILTER The stewardship filter is the moral and functional core of the Hylten Invest doctrine
 
 .
 

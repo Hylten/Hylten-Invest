@@ -26,9 +26,9 @@ We provide structural liquidity solutions for High Net Worth and Ultra High Net 
 
 Our purpose is not noise.
 
-Our purpose is continuity. 
+Our purpose is continuity.
 
-## Strategic Liquidity as Multi Generational Protection Liquidity is not only about opportunity
+Strategic Liquidity as Multi Generational Protection Liquidity is not only about opportunity
 
 .
 
@@ -60,9 +60,9 @@ This creates a buffer around generational capital.
 
 A quiet safeguard.
 
-A structural advantage. 
+A structural advantage.
 
-## When Liquidity Becomes a Strategic Asset Liquidity is often treated as a static number
+When Liquidity Becomes a Strategic Asset Liquidity is often treated as a static number
 
 .
 
@@ -90,9 +90,9 @@ Liquidity becomes part of the family’s strategic infrastructure.
 
 Not a reaction.
 
-A design. 
+A design.
 
-## A Conservative Future Forward Framework The world’s wealthiest families are shifting toward models of stewardship
+A Conservative Future Forward Framework The world’s wealthiest families are shifting toward models of stewardship
 
 .
 

@@ -24,9 +24,9 @@ It is a continuum, built on clarity, discretion, and precise liquidity architect
 
 We focus on the structural mechanics, not the spectacle.
 
-Our mandate is to provide principal authority behind the scenes, enabling private capital to flow with stability and purpose. 
+Our mandate is to provide principal authority behind the scenes, enabling private capital to flow with stability and purpose.
 
-## The Future of Sovereign Asset Liquidity The financial landscape is expanding, and liquidity is evolving with it
+The Future of Sovereign Asset Liquidity The financial landscape is expanding, and liquidity is evolving with it
 
 .
 
@@ -38,11 +38,9 @@ Those who treat liquidity as architecture, not transaction.
 
 Those who preserve their ability to act when others cannot.
 
-This is the essence of sovereign stewardship. 
+This is the essence of sovereign stewardship.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

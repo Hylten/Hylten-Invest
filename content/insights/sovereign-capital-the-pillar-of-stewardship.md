@@ -28,9 +28,9 @@ We serve as an architecture firm for capital.
 
 We shape liquidity in ways that allow private balance sheets to remain sovereign, insulated, and structurally sound.
 
-This is the function and philosophy behind sovereign capital. 
+This is the function and philosophy behind sovereign capital.
 
-## Asset Based Asset-Backed Frameworks as a Framework for Control Asset based Monetization Architecture, or Asset-Based Lending, is a mechanical system that brings precision to liquidity planning
+Asset Based Asset-Backed Frameworks as a Framework for Control Asset based Monetization Architecture, or Asset-Based Lending, is a mechanical system that brings precision to liquidity planning
 
 .
 
@@ -52,9 +52,9 @@ The objective is not to maximize leverage.
 
 It is to maximize control.
 
-Asset-Based Lending becomes a stabilizer, a financial counterweight that reinforces the entire balance sheet. 
+Asset-Based Lending becomes a stabilizer, a financial counterweight that reinforces the entire balance sheet.
 
-## Crypto Capital Structuring for Institutional-Level Holders The emergence of digital assets has created a new liquidity category for sovereign capital
+Crypto Capital Structuring for Institutional-Level Holders The emergence of digital assets has created a new liquidity category for sovereign capital
 
 .
 
@@ -78,7 +78,7 @@ This conservatism allows clients to maintain directional conviction without comp
 
 Minimum mandate depth: $5M+ target size.
 
-## Public Share Strategic Collateralization for High Concentration Holders Many wealthy individuals hold significant positions in public equities, often through founder shares, inheritance, or long-term accumulation
+Public Share Strategic Collateralization for High Concentration Holders Many wealthy individuals hold significant positions in public equities, often through founder shares, inheritance, or long-term accumulation
 
 .
 
@@ -100,9 +100,9 @@ Minimum mandate depth: $5M+ target size.
 
 This is a silent instrument.
 
-It operates quietly and efficiently, reinforcing the client’s sovereignty over their public market positions. 
+It operates quietly and efficiently, reinforcing the client’s sovereignty over their public market positions.
 
-## The Philosophy of principal authority We maintain an F-Hierarchical Dynamics
+The Philosophy of principal authority We maintain an F-Hierarchical Dynamics
 
 .
 
@@ -128,9 +128,9 @@ We move quietly.
 
 We build frameworks.
 
-We reinforce sovereignty. 
+We reinforce sovereignty.
 
-## Designing Liquidity for Multi Generational Capital Families that last understand one principle
+Designing Liquidity for Multi Generational Capital Families that last understand one principle
 
 .
 
@@ -162,9 +162,9 @@ It becomes sovereign.
 
 It becomes structural.
 
-It becomes transferable across generations without introducing instability. 
+It becomes transferable across generations without introducing instability.
 
-## The New Paradigm of Stewardship for HNWI and UHNW Families The modern wealth paradigm has shifted
+The New Paradigm of Stewardship for HNWI and UHNW Families The modern wealth paradigm has shifted
 
 .
 
@@ -186,9 +186,9 @@ Precision in execution.
 
 Stewardship, when practiced at a sovereign tier, becomes a discipline.
 
-It is a commitment to ensuring that assets remain functional, protected, and insulated from forced events. 
+It is a commitment to ensuring that assets remain functional, protected, and insulated from forced events.
 
-## Why Hyltén Invest Operates With a Minimalist Strategy Minimalism is not absence
+Why Hyltén Invest Operates With a Minimalist Strategy Minimalism is not absence
 
 .
 
@@ -210,9 +210,9 @@ For HNWI and UHNW families, this approach creates:
 
 - Increased capital efficiency with reduced systemic fragility.
 
-Minimalism ensures that outcomes remain predictable even in unpredictable markets. 
+Minimalism ensures that outcomes remain predictable even in unpredictable markets.
 
-## The Steward’s Decision Framework Stewards operate differently from traders or short-term allocators
+The Steward’s Decision Framework Stewards operate differently from traders or short-term allocators
 
 .
 
@@ -230,9 +230,9 @@ The core questions they ask are:
 
 Liquidity structures that align with these principles become strategic tools rather than temporary solutions.
 
-They form a backbone for family governance, investment strategy, and risk management. 
+They form a backbone for family governance, investment strategy, and risk management.
 
-## The Long Horizon of Structural Liquidity The greatest asset families possess is time
+The Long Horizon of Structural Liquidity The greatest asset families possess is time
 
 .
 
@@ -252,9 +252,9 @@ The objective is not to chase returns.
 
 It is to create a fortified environment where returns accumulate naturally and consistently.
 
-This is the horizon that sovereign capital supports. 
+This is the horizon that sovereign capital supports.
 
-## Hyltén Invest as a Pillar for Sovereign Capital Our role is simple
+Hyltén Invest as a Pillar for Sovereign Capital Our role is simple
 
 .
 
@@ -282,9 +282,9 @@ To avoid unnecessary liquidation.
 
 To reinforce their long-term vision.
 
-To operate without external noise. 
+To operate without external noise.
 
-## The Continuity of Stewardship Stewardship is a continuum
+The Continuity of Stewardship Stewardship is a continuum
 
 .
 
@@ -304,6 +304,8 @@ When liquidity is engineered correctly, the family remains in control.
 
 When control is maintained, assets remain intact.
 
-When assets remain intact, legacy becomes inevitable. # Access is restricted to approved mandates.
+When assets remain intact, legacy becomes inevitable.
+
+Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

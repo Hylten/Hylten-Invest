@@ -40,11 +40,7 @@ The structure reflects institutional navigation intelligence rather than product
 
 # Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -122,23 +118,19 @@ Wise families store resources not for complacency but for duty.
 
 # Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
  THE ARCHITECTURE OF CONSERVATIVE Institutional Liquidity Paths A conservative liquidity framework for generational capital requires four distinct layers.
 
-Each layer performs a different operational function and each must be evaluated on its velocity, jurisdictional security, and loss absorption capacity.
+Each layer performs a different operational function and each must be evaluated on its velocity, jurisdictional security, and loss absorption capacity. 
 
-# Layer I: .
+### Layer I: .
 
 Immediate Liquidity This 
 
-# Layer C: overs obligations that cannot be deferred
+### Layer C: overs obligations that cannot be deferred
 
 .
 
@@ -150,21 +142,21 @@ The goal is frictionless execution at any point in the cycle.
 
 It also serves as the final line of strategic autonomy.
 
-Families who neglect this layer typically compromise their ability to act with conviction when market opportunities arise.
+Families who neglect this layer typically compromise their ability to act with conviction when market opportunities arise. 
 
-# Layer II: .
+### Layer II: .
 
 Short Duration Liquidity Instruments This 
 
-# Layer C
+### Layer C
 
 aptures near liquid assets such as short duration credit, treasury instruments, and structured liquidity notes.
 
 The purpose is yield stability without sacrificing response time.
 
-Institutional allocators prefer predictable maturity ladders because they create a liquidity conveyor belt that is not dependent on market sentiment.
+Institutional allocators prefer predictable maturity ladders because they create a liquidity conveyor belt that is not dependent on market sentiment. 
 
-# Layer III: .
+### Layer III: .
 
 Strategic Liquidity Reserves This category contains assets that are not fully liquid but possess rapid convertibility under normal market conditions.
 
@@ -178,13 +170,13 @@ This is where strategic partners such as NAEO demonstrate institutional grade ex
 
 Their extraction programs in Alberta use predictable physics rather than speculative assumptions.
 
-SAGD and CSS mechanics produce structured recovery profiles that can be integrated into a liquidity planning model with higher certainty than many financial assets.
+SAGD and CSS mechanics produce structured recovery profiles that can be integrated into a liquidity planning model with higher certainty than many financial assets. 
 
-# Layer IV: .
+### Layer IV: .
 
 Long Duration Stewardship Assets This 
 
-# Layer I
+### Layer I
 
 ncludes industrial holdings, private companies, mineral positions, and intergenerational land.
 
@@ -248,9 +240,9 @@ Operational Intelligence that integrates decline curve analytics, field optimiza
 
 Institutional Grade Reporting suitable for LP level scrutiny.
 
-When allocators position energy assets within the liquidity architecture described earlier, NAEO aligned assets typically fall within
+When allocators position energy assets within the liquidity architecture described earlier, NAEO aligned assets typically fall within 
 
-# Layer III: .
+### Layer III: .
 
 They are not instant liquidity, yet they provide structured cash flow release that supports longer term balance sheet stability.
 

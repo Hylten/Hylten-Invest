@@ -6,13 +6,7 @@ author: "Hylten Invest"
 slug: "principal-stewardship-mandates-for-long-duration-assets"
 --- 
 
-# Principal Stewardship Mandates for Long Duration Assets Using The Fiduciary Razor Technique
-
- 
-
- 
-
-## INTRODUCTIO
+# Principal Stewardship Mandates for Long Duration Assets Using The Fiduciary Razor Technique INTRODUCTIO
 
 N
 
@@ -26,9 +20,9 @@ It is a decision making model designed for families and institutions that view c
 
 This article outlines the principles and structure of principal stewardship mandates built on this technique.
 
-It is written for high net worth principals, family offices, and long horizon allocators who prioritise stability, clarity, and enduring capital discipline. 
+It is written for high net worth principals, family offices, and long horizon allocators who prioritise stability, clarity, and enduring capital discipline.
 
-## The Nature of Long Duration Stewardship Long duration stewardship differs from asset management in intention and in mandate design
+The Nature of Long Duration Stewardship Long duration stewardship differs from asset management in intention and in mandate design
 
 .
 
@@ -46,9 +40,9 @@ The goal is to ensure that decisions made today do not compromise optionality to
 
 The guiding question is not what increases returns.
 
-The guiding question is what reduces long term regret. 
+The guiding question is what reduces long term regret.
 
-## The Fiduciary Razor The Fiduciary Razor is a minimalist framework used to filter decisions across a multi decade horizon
+The Fiduciary Razor The Fiduciary Razor is a minimalist framework used to filter decisions across a multi decade horizon
 
 .
 
@@ -58,7 +52,7 @@ The technique is built on three core principles: clarity, durability, and revers
 
 Each principle shapes the design of a principal stewardship mandate.
 
-## Principle One: Clarity Clarity means that all decisions must be traceable to a small set of unchanging rules
+Principle One: Clarity Clarity means that all decisions must be traceable to a small set of unchanging rules
 
 .
 
@@ -74,11 +68,9 @@ Clarity enforces discipline.
 
 It protects the principal from advisor driven drift.
 
-## Principle Two: Durability Durability is the central
+Principle Two: Durability Durability is the central 
 
- 
-
-# Criterion I: n long duration stewardship
+### Criterion I: n long duration stewardship
 
 .
 
@@ -90,7 +82,7 @@ Durability eliminates fragile strategies.
 
 It aligns the steward with the long term interests of the principal.
 
-## Principle Three: Reversibility Reversibility measures how easily a decision can be unwound
+Principle Three: Reversibility Reversibility measures how easily a decision can be unwound
 
 .
 
@@ -102,9 +94,9 @@ The Fiduciary Razor treats irreversible commitments as rare events.
 
 Only the highest conviction structures qualify.
 
-This protects long duration portfolios from exposure to hidden compounding risks that surface years later. 
+This protects long duration portfolios from exposure to hidden compounding risks that surface years later.
 
-## The Structure of a Principal Stewardship Mandate A principal stewardship mandate is a formalised engagement with Hylten Invest where the steward acts as the long term interpreter of capital
+The Structure of a Principal Stewardship Mandate A principal stewardship mandate is a formalised engagement with Hylten Invest where the steward acts as the long term interpreter of capital
 
 .
 
@@ -114,7 +106,7 @@ It is not performance chasing.
 
 It is an ongoing partnership with the goal of preserving optionality across decades.
 
-## Mandate Element One: Principal Level Alignment The steward must think and act as the principal would
+Mandate Element One: Principal Level Alignment The steward must think and act as the principal would
 
 .
 
@@ -128,7 +120,7 @@ There is only delegation of execution.
 
 This ensures that decision making remains close to the owner mindset.
 
-## Mandate Element Two: Long Horizon Governance Architecture The core function of a stewardship mandate is the construction of a governance architecture that survives personnel changes, market cycles, and generational transitions
+Mandate Element Two: Long Horizon Governance Architecture The core function of a stewardship mandate is the construction of a governance architecture that survives personnel changes, market cycles, and generational transitions
 
 .
 
@@ -144,7 +136,7 @@ Long horizon governance includes:
 
 The objective is to create a disciplined environment that constrains emotional decision making and provides clarity in periods of uncertainty.
 
-## Mandate Element Three: Asset Level Stewardship Each long duration asset is treated as a standalone strategic organism
+Mandate Element Three: Asset Level Stewardship Each long duration asset is treated as a standalone strategic organism
 
 .
 
@@ -164,7 +156,7 @@ The steward does not micromanage operations.
 
 The steward protects the asset from unnecessary risks, structural decay, and value leakage.
 
-## Mandate Element Four: Liquidity Architecture Liquidity is the master variable in long duration strategy
+Mandate Element Four: Liquidity Architecture Liquidity is the master variable in long duration strategy
 
 .
 
@@ -182,7 +174,7 @@ A liquidity architecture includes:
 
 The aim is to maintain the ability to act when others cannot.
 
-## Mandate Element Five: Counterparty and Advisor Oversight Long duration portfolios attract advisors, managers, and intermediaries
+Mandate Element Five: Counterparty and Advisor Oversight Long duration portfolios attract advisors, managers, and intermediaries
 
 .
 
@@ -192,9 +184,9 @@ Advisor complexity is a systemic risk.
 
 The stewardship mandate ensures that only those who support the long term objectives remain engaged.
 
-This reduces costs, reduces confusion, and maintains accountability. 
+This reduces costs, reduces confusion, and maintains accountability.
 
-## Applying The Fiduciary Razor The Fiduciary Razor is not a metaphor
+Applying The Fiduciary Razor The Fiduciary Razor is not a metaphor
 
 .
 
@@ -244,7 +236,7 @@ Convexity creates asymmetry that compounds quietly but consistently.
 
 Step Four: Preserve Optionality The final 
 
-# Step I: s preservation
+### Step I: s preservation
 
 .
 
@@ -254,9 +246,9 @@ Optionality allows the steward to act strategically when conditions shift.
 
 Optionality protects the portfolio from irreversible errors.
 
-The stewardship mandate structures liquidity and governance to maintain optionality at all times. 
+The stewardship mandate structures liquidity and governance to maintain optionality at all times.
 
-## The Strategic Value of Principal Stewardship A principal stewardship mandate is not a cost
+The Strategic Value of Principal Stewardship A principal stewardship mandate is not a cost
 
 .
 
@@ -266,25 +258,25 @@ In environments defined by volatility, political change, and technological disru
 
 Continuity is the most underpriced advantage in long horizon investing.
 
-## Families Families benefit from a steward who neutralises internal conflict, aligns interests across generations, and prevents unnecessary wealth fragmentation
+Families Families benefit from a steward who neutralises internal conflict, aligns interests across generations, and prevents unnecessary wealth fragmentation
 
 .
 
 The steward protects both capital and relationships.
 
-## Institutions Institutions gain a disciplined structure that resists short term political pressure and prevents mission drift
+Institutions Institutions gain a disciplined structure that resists short term political pressure and prevents mission drift
 
 .
 
 The steward ensures that institutional capital remains aligned with its founding objectives.
 
-## Entrepreneurs and Founders Entrepreneurs benefit from stewardship after liquidity events, where the primary risk is unstructured decision making
+Entrepreneurs and Founders Entrepreneurs benefit from stewardship after liquidity events, where the primary risk is unstructured decision making
 
 .
 
-The steward introduces clarity, process, and long term orientation. 
+The steward introduces clarity, process, and long term orientation.
 
-## Why The Fiduciary Razor Matters Now Global conditions increasingly favour long term discipline over tactical optimisation
+Why The Fiduciary Razor Matters Now Global conditions increasingly favour long term discipline over tactical optimisation
 
 .
 
@@ -304,9 +296,9 @@ It does not promise high returns.
 
 It promises clarity, resilience, and alignment.
 
-These qualities compound more reliably than short term performance. 
+These qualities compound more reliably than short term performance.
 
-## The Hylten Invest Approach Hylten Invest operates with a minimalist and conservative philosophy
+The Hylten Invest Approach Hylten Invest operates with a minimalist and conservative philosophy
 
 .
 
@@ -320,11 +312,9 @@ Every mandate is customised to the specific needs of the principal.
 
 Every decision is filtered through The Fiduciary Razor.
 
-The result is a disciplined and resilient architecture for generational capital. 
+The result is a disciplined and resilient architecture for generational capital.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

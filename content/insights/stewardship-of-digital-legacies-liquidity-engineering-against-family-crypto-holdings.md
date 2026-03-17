@@ -28,9 +28,9 @@ We focus on liquidity mechanics.
 
 We focus on capital architecture.
 
-We focus on the steady hands required to navigate multi generational digital strategies. 
+We focus on the steady hands required to navigate multi generational digital strategies.
 
-## The Purpose of Private Credit in a Digital Era Private credit allows families to remain fully invested while unlocking capital for new endeavors
+The Purpose of Private Credit in a Digital Era Private credit allows families to remain fully invested while unlocking capital for new endeavors
 
 .
 
@@ -62,9 +62,9 @@ It is an approach.
 
 It is a way of thinking about capital as a tool of continuity rather than an instrument of speculation.
 
-Families that think in decades understand this logic intuitively. 
+Families that think in decades understand this logic intuitively.
 
-## Digital Legacies as Financial Anchors Crypto holdings once carried the appearance of volatility and novelty
+Digital Legacies as Financial Anchors Crypto holdings once carried the appearance of volatility and novelty
 
 .
 
@@ -84,9 +84,9 @@ It requires a Monetization Architecture partner who can apply institutional stru
 
 Hyltén Invest operates within this specific intersection of traditional credit and digital wealth.
 
-Our responsibility is to bring silence, clarity, and precision to an area often clouded by noise. 
+Our responsibility is to bring silence, clarity, and precision to an area often clouded by noise.
 
-## Why Families Seek Liquidity Against Crypto Instead of Selling Selling digital assets introduces friction. balance sheet optimization against them removes it
+Why Families Seek Liquidity Against Crypto Instead of Selling Selling digital assets introduces friction. balance sheet optimization against them removes it
 
 .
 
@@ -126,9 +126,9 @@ It respects continuity.
 
 It respects compounding.
 
-It respects stewardship. 
+It respects stewardship.
 
-## Structural Mechanics and principal authority Hyltén Invest operates with what we define as principal authority
+Structural Mechanics and principal authority Hyltén Invest operates with what we define as principal authority
 
 .
 
@@ -160,9 +160,9 @@ It respects the need for liquidity that does not disrupt reputational or financi
 
 Through this philosophy we position ourselves not as a product provider but as a structural partner.
 
-Our work is measured not in announcements but in quiet continuity. 
+Our work is measured not in announcements but in quiet continuity.
 
-## Institutional Liquidity Paths Against Family Crypto Holdings Crypto Strategic Collateralization at institutional scale requires precise risk frameworks
+Institutional Liquidity Paths Against Family Crypto Holdings Crypto Strategic Collateralization at institutional scale requires precise risk frameworks
 
 .
 
@@ -200,9 +200,9 @@ At family office scale digital assets behave differently.
 
 They move from speculative exposure to strategic collateral.
 
-Our responsibility is to treat them accordingly. 
+Our responsibility is to treat them accordingly.
 
-## Public Share Asset-Backed Frameworks at Institutional Scale For families holding public equities, Monetization Architecture against stock positions follows a parallel logic
+Public Share Asset-Backed Frameworks at Institutional Scale For families holding public equities, Monetization Architecture against stock positions follows a parallel logic
 
 .
 
@@ -228,9 +228,9 @@ The principles are identical to crypto Institutional Liquidity Paths.
 
 The mechanics differ only in the nature of the underlying asset.
 
-In both cases the objective is to create liquidity that respects the long term trajectory of the family portfolio. 
+In both cases the objective is to create liquidity that respects the long term trajectory of the family portfolio.
 
-## Integrating Digital and Traditional Assets in Family Office Strategy Families that operate across both digital and traditional markets require unified liquidity infrastructure
+Integrating Digital and Traditional Assets in Family Office Strategy Families that operate across both digital and traditional markets require unified liquidity infrastructure
 
 .
 
@@ -264,9 +264,9 @@ Stewardship is not about controlling assets.
 
 It is about enabling assets to serve their long term purpose.
 
-Our Capital Structuring frameworks do exactly that. 
+Our Capital Structuring frameworks do exactly that.
 
-## The Value of Minimalist Capital Architecture A minimalist approach to capital does not reduce depth
+The Value of Minimalist Capital Architecture A minimalist approach to capital does not reduce depth
 
 .
 
@@ -302,9 +302,9 @@ Simplicity is not a compromise.
 
 It is a discipline.
 
-It is the language of long term stewardship. 
+It is the language of long term stewardship.
 
-## Continuity and the Role of Institutional Structure Digital assets are still young relative to the broader arc of financial history
+Continuity and the Role of Institutional Structure Digital assets are still young relative to the broader arc of financial history
 
 .
 
@@ -312,13 +312,13 @@ Their early years were defined by rapid change and ideological experimentation.
 
 The next 
 
-# Phase I: s different
+### Phase I: s different
 
 .
 
 The next 
 
-# Phase I: s defined by structure
+### Phase I: s defined by structure
 
 .
 
@@ -338,9 +338,9 @@ Structure requires discipline.
 
 Discipline requires experience.
 
-We operate precisely at this point of intersection. 
+We operate precisely at this point of intersection.
 
-## Stewardship as an Operating Philosophy Stewardship is the lens through which we view all operations
+Stewardship as an Operating Philosophy Stewardship is the lens through which we view all operations
 
 .
 
@@ -364,9 +364,9 @@ This is the essence of principal authority.
 
 Our presence is structural rather than visible.
 
-Our influence is in the continuity we enable. 
+Our influence is in the continuity we enable.
 
-## The Future of Digital Wealth Stewardship As digital wealth becomes interwoven with global financial systems, Asset-Backed Frameworks infrastructure must evolve alongside it
+The Future of Digital Wealth Stewardship As digital wealth becomes interwoven with global financial systems, Asset-Backed Frameworks infrastructure must evolve alongside it
 
 .
 
@@ -384,9 +384,9 @@ Family wealth is no longer confined to physical or institutional boundaries.
 
 It now spans blockchains, markets, and private networks.
 
-Our responsibility is to ensure that liquidity and structure travel with it. 
+Our responsibility is to ensure that liquidity and structure travel with it.
 
-## A Quiet Invitation If your family holds substantial digital or public market positions and seeks silent, disciplined liquidity solutions grounded in private credit and asset based Strategic Collateralization, we provide the structure that supports your long term trajectory
+A Quiet Invitation If your family holds substantial digital or public market positions and seeks silent, disciplined liquidity solutions grounded in private credit and asset based Strategic Collateralization, we provide the structure that supports your long term trajectory
 
 .
 

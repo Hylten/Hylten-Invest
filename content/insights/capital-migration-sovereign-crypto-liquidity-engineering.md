@@ -10,13 +10,9 @@ The structural gap in cross border capital mobility is expanding due to regulato
 
 The pressure is not coming from economic weakness, but from the increasing friction embedded in traditional settlement systems that were designed for a pre digital era.
 
-For global families with multi jurisdictional exposure, this shift has created a demand for sovereign grade crypto Strategic Collateralization that can reconcile mobility, compliance, and long term stewardship of capital. 
+For global families with multi jurisdictional exposure, this shift has created a demand for sovereign grade crypto Strategic Collateralization that can reconcile mobility, compliance, and long term stewardship of capital.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,13 +60,9 @@ The allocator landscape is now characterized by:
 
 Global families that fail to adapt will experience a gradual compression of mobility and an inflation of compliance cost.
 
-Those that integrate sovereign crypto Institutional Liquidity Paths position themselves for a multi decade horizon where movement and optionality are as valuable as return. 
+Those that integrate sovereign crypto Institutional Liquidity Paths position themselves for a multi decade horizon where movement and optionality are as valuable as return.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -176,13 +168,9 @@ This includes:
 
 Mobility enhances stewardship.
 
-Stewardship enhances durability. 
+Stewardship enhances durability.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL My work in the Nordics has always operated under the conviction that capital is not an object but a responsibility. **Proverbs 13:22
+THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL My work in the Nordics has always operated under the conviction that capital is not an object but a responsibility. **Proverbs 13:22
 
 * 
 

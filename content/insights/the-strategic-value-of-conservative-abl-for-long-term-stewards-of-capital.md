@@ -28,9 +28,9 @@ We do it quietly.
 
 We do it with the expectations of families who view capital as a multi-generational craft, not a quarterly performance race.
 
-This article explores why conservative Asset-Based Lending has become a primary liquidity tool for sophisticated holders of long duration assets, and why the silent architecture matters. 
+This article explores why conservative Asset-Based Lending has become a primary liquidity tool for sophisticated holders of long duration assets, and why the silent architecture matters.
 
-## Minimalist Structures, Maximum Optionality The most effective liquidity structures have the fewest moving parts
+Minimalist Structures, Maximum Optionality The most effective liquidity structures have the fewest moving parts
 
 .
 
@@ -50,9 +50,9 @@ A short list of benefits often appreciated by family offices includes:
 
 - Ability to preserve control of long-term assets
 
-- Reduced counterparty noise The simplicity is where the sophistication lives. 
+- Reduced counterparty noise The simplicity is where the sophistication lives.
 
-## The Interplay Between Asset-Based Lending and Private Credit Ecosystems Private credit markets have expanded significantly
+The Interplay Between Asset-Based Lending and Private Credit Ecosystems Private credit markets have expanded significantly
 
 .
 
@@ -68,9 +68,9 @@ It ensures that liquidity needs do not force asset sales at suboptimal moments.
 
 It aligns with the long-term viewpoint that defines the UHNW mindset.
 
-As private credit becomes more normalized among sophisticated investors, conservative Asset-Based Lending becomes essential infrastructure. 
+As private credit becomes more normalized among sophisticated investors, conservative Asset-Based Lending becomes essential infrastructure.
 
-## The Quiet Architecture Families Rely Upon The families we serve typically operate with a specific mandate
+The Quiet Architecture Families Rely Upon The families we serve typically operate with a specific mandate
 
 .
 
@@ -96,9 +96,9 @@ We do not need to appear in public markets.
 
 We do not seek volume for its own sake.
 
-Our purpose is to provide a foundational layer of financial mechanics that remains invisible until needed. 
+Our purpose is to provide a foundational layer of financial mechanics that remains invisible until needed.
 
-## Conservative Asset-Based Lending in an Uncertain World In a world of shifting rates and unpredictable liquidity cycles, simplicity becomes strength
+Conservative Asset-Based Lending in an Uncertain World In a world of shifting rates and unpredictable liquidity cycles, simplicity becomes strength
 
 .
 
@@ -112,9 +112,9 @@ The strategic value lies not in the liquidity facility itself.
 
 The strategic value lies in the ability to choose the timing.
 
-For UHNW portfolios, timing is often the difference between preservation and compounding. 
+For UHNW portfolios, timing is often the difference between preservation and compounding.
 
-## The Future of Liquidity for High Net Worth Portfolios As regulatory environments evolve and market structures digitize, two trends are becoming clear
+The Future of Liquidity for High Net Worth Portfolios As regulatory environments evolve and market structures digitize, two trends are becoming clear
 
 .
 
@@ -136,11 +136,9 @@ It is quieter.
 
 It is more precise.
 
-It is more aligned with the true nature of long-term wealth. 
+It is more aligned with the true nature of long-term wealth.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

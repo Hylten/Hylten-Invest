@@ -16,13 +16,9 @@ The families, industrial operators, and institutional LPs that prevail across cy
 
 This is no longer an era where scale alone determines longevity.
 
-The decisive variable is stewardship competence. 
+The decisive variable is stewardship competence.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ Families that treat wealth as a calling rather than an entitlement are positione
 
 Market systems are cyclical.
 
-Stewardship is continuous. 
+Stewardship is continuous.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -150,13 +142,9 @@ It is a platform for institutional
 
  where the allocator maintains full autonomy while gaining access to calibrated intelligence and operator relationships that would typically require multiple cycles to source independently.
 
-This positioning ensures that stewardship remains anchored in prudence rather than persuasion. 
+This positioning ensures that stewardship remains anchored in prudence rather than persuasion.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship as taught in the Christian industrial tradition is not optional
+THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship as taught in the Christian industrial tradition is not optional
 
 .
 

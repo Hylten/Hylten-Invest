@@ -28,13 +28,9 @@ It is architectural.
 
 Long horizon capital is not sustained through sentiment.
 
-It is sustained through design. 
+It is sustained through design.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -82,13 +78,9 @@ It is also visible in Central Europe where mid-cap manufacturing remains strateg
 
 These regime dynamics create an environment where stewardship aligned capital performs a stabilizing function.
 
-Not by outcompeting the market but by outlasting it. 
+Not by outcompeting the market but by outlasting it.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -252,13 +244,9 @@ Balance Sheet Optimization.
 
 Roials Capital supports families in evaluating leverage profiles, liquidity thresholds, and inter entity capital flows.
 
-The objective is not to maximize leverage but to calibrate resilience. 
+The objective is not to maximize leverage but to calibrate resilience.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
 
 .
 
@@ -332,7 +320,7 @@ This includes:
 
 The next 
 
-# Step I
+### Step I
 
 s an applied calibration of the allocator's existing portfolio to determine where stewardship aligned structures can enhance durability and continuity across generations. [END OF BRIEFING]
 

@@ -14,13 +14,9 @@ It is a failure of capital structure design.
 
 Counter Intuitive Truth: The most resilient European assets in 2026 are not the highly financialized technology firms, but the industrial operators with measurable production physics, verifiable asset wear curves, and predictable reinvestment cycles.
 
-These are the entities most capable of asset hardening when supported by disciplined Asset-Backed Frameworks rather than speculative valuation frameworks. 
+These are the entities most capable of asset hardening when supported by disciplined Asset-Backed Frameworks rather than speculative valuation frameworks.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,13 +60,7 @@ It transforms under optimized assets into institutional grade holdings without a
 
 The Hylten Invest Model was constructed to address this structural misalignment.
 
-THE 
-
- 
-
- 
-
-## TECHNICAL MECHANIC
+THE TECHNICAL MECHANIC
 
 S
 
@@ -194,13 +184,9 @@ NAEO provides operational intelligence, reservoir validation, and basin physics 
 
 For European industrial assets, the alignment centers on the Hylten Invest model and its Nordic execution discipline.
 
-This combined framework creates a bridge between two worlds: the industrial operator seeking resilience and the institutional allocator seeking clarity. 
+This combined framework creates a bridge between two worlds: the industrial operator seeking resilience and the institutional allocator seeking clarity.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the filter that protects capital from misapplication
+THE STEWARDSHIP FILTER Stewardship is the filter that protects capital from misapplication
 
 .
 

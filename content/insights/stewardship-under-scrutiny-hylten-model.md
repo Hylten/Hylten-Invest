@@ -32,13 +32,9 @@ The objective is not persuasion.
 
 The objective is illumination.
 
-Proper stewardship becomes a navigational instrument, guiding capital toward productive, non speculative, real economy outcomes. 
+Proper stewardship becomes a navigational instrument, guiding capital toward productive, non speculative, real economy outcomes.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -92,13 +88,9 @@ The Hylten Model aligns with this re balancing, prioritizing responsibility, dur
 
 A good man leaves an inheritance to his children's children.
 
-In financial governance, this translates into a two generation horizon instead of an annual performance cycle. 
+In financial governance, this translates into a two generation horizon instead of an annual performance cycle.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -202,13 +194,9 @@ It functions as an institutional guide evaluating alignment between capital and 
 
 The allocator gains navigation, not solicitation.
 
-The operator gains clarity, not promotion. 
+The operator gains clarity, not promotion.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The Hylten stewardship filter is a structured analytical model that screens opportunities by evaluating moral, operational, and generational integrity
+THE STEWARDSHIP FILTER The Hylten stewardship filter is a structured analytical model that screens opportunities by evaluating moral, operational, and generational integrity
 
 .
 

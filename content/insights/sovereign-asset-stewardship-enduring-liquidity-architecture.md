@@ -62,19 +62,13 @@ Sovereign assets must therefore be structured not as static holdings but as dyna
 
 Each requires governance architecture, covenant discipline, and yield to liquidity mapping capable of absorbing rate shocks, geopolitical dislocations, and supply chain oscillations.
 
-This is the structural reality that informs 
-
-## THE MANDAT
+This is the structural reality that informs THE MANDAT
 
 E
 
-. 
+.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -261,9 +255,9 @@ The fabrication firm undergoes commercial hardening.
 
 - A backlog of 48M is secured, reducing revenue volatility.
 
-- Supply chain dual sourcing reduces input cost spikes.
+- Supply chain dual sourcing reduces input cost spikes. 
 
-# Phase I: V
+### Phase I: V
 
 Liquidity Extraction and Reinjection Eighteen months after stabilization, Strategic Collateralization is performed.
 
@@ -277,9 +271,9 @@ It is reinjected into a bolt on acquisition in Oklahoma which expands the corrid
 
 The sovereign allocator maintains exposure while extending the asset’s duration and improving yield curvature.
 
-Enduring liquidity is preserved without compromising structural capital.
+Enduring liquidity is preserved without compromising structural capital. 
 
-# Phase V: Stewardship Governance A governance cycle is established
+### Phase V: Stewardship Governance A governance cycle is established
 
 .
 
@@ -345,13 +339,9 @@ Sovereign scale capital must be guided by technical edge.
 
 Asset-Backed Frameworks, capital efficiency modeling, yield curve mobility analysis, asset hardening protocols, and governance architectures are not optional.
 
-They are structural tools for maintaining sovereignty over capital. 
+They are structural tools for maintaining sovereignty over capital.
 
- 
-
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

@@ -24,13 +24,9 @@ The European industrial tradition has always understood this principle.
 
 Capital is a tool, not a windfall.
 
-It must be structured for endurance. 
+It must be structured for endurance.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ Families that built liquidity architectures across Europe, North America, and th
 
 The current regime rewards liquidity infrastructures that are independent of market volatility, shaped by strategic relationships, and backed by operational intelligence rather than financial engineering alone.
 
-Roials Capital operates within this environment as an institutional navigator, aligning families with the highest utility liquidity opportunities and counterparties. 
+Roials Capital operates within this environment as an institutional navigator, aligning families with the highest utility liquidity opportunities and counterparties.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -142,7 +134,7 @@ This transforms liquidity from ad hoc decision making into institutional discipl
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not an asset originator or fund manager.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -182,13 +174,9 @@ Throughout these pathways, neutrality is critical.
 
 The partnership model centers on disciplined analysis, strategic alignment, and institutional clarity.
 
-The objective is to create durable liquidity architectures that strengthen generational stability. 
+The objective is to create durable liquidity architectures that strengthen generational stability.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER For Nordic and European industrial families, liquidity is not merely a financial instrument
+THE STEWARDSHIP FILTER For Nordic and European industrial families, liquidity is not merely a financial instrument
 
 .
 

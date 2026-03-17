@@ -225,29 +225,29 @@ It is about being essential.
 
 - 
 
-- # The Strategic Advantage for Institutional Lenders Institutional lenders using The Fiduciary Razor achieve several long term advantages. 
+- # The Strategic Advantage for Institutional Lenders Institutional lenders using The Fiduciary Razor achieve several long term advantages.
 
-## Improved Resilience Harmonized covenants strengthen borrower discipline
-
-.
-
-This reduces tail risk and improves stability through economic cycles. 
-
-## Reduced Legal Friction Clean covenant architecture reduces the number of amendments and renegotiations
+Improved Resilience Harmonized covenants strengthen borrower discipline
 
 .
 
-Less friction means more time spent on strategic matters. 
+This reduces tail risk and improves stability through economic cycles.
 
-## Stronger Borrower Relationships Borrowers respect clarity
+Reduced Legal Friction Clean covenant architecture reduces the number of amendments and renegotiations
+
+.
+
+Less friction means more time spent on strategic matters.
+
+Stronger Borrower Relationships Borrowers respect clarity
 
 .
 
 Covenant harmonization eliminates the feeling of arbitrary lender power and replaces it with transparent rules.
 
-This creates healthier multi year relationships. 
+This creates healthier multi year relationships.
 
-## Higher Portfolio Visibility When structures are harmonized, lenders gain clearer insight
+Higher Portfolio Visibility When structures are harmonized, lenders gain clearer insight
 
 .
 
@@ -285,9 +285,9 @@ Institutional lenders that adopt this philosophy are better positioned to protec
 
 - # Case Archetypes Below are three archetypes that illustrate how harmonized covenant architecture improves outcomes.
 
-These are composites rather than specific client cases. 
+These are composites rather than specific client cases.
 
-## Archetype One: Multi Entity Family Industrial Group A family owned industrial group operated with six separate lending agreements negotiated over twelve years
+Archetype One: Multi Entity Family Industrial Group A family owned industrial group operated with six separate lending agreements negotiated over twelve years
 
 .
 
@@ -303,9 +303,9 @@ Within two years, monitoring efficiency improved.
 
 The borrower operated with clearer behavioral guidelines.
 
-The lender reported fewer interpretive disputes. 
+The lender reported fewer interpretive disputes.
 
-## Archetype Two: Institutional Lender with Legacy Documentation A mid sized institutional lender inherited a series of lending templates from prior legal regimes
+Archetype Two: Institutional Lender with Legacy Documentation A mid sized institutional lender inherited a series of lending templates from prior legal regimes
 
 .
 
@@ -315,9 +315,9 @@ The Fiduciary Razor removed approximately forty percent of document volume while
 
 Borrower relations improved.
 
-The lender’s internal teams gained more time for strategic analysis. 
+The lender’s internal teams gained more time for strategic analysis.
 
-## Archetype Three: Cross Border Family Office Capital Deployment A family office with international exposure faced inconsistent covenant styles across jurisdictions
+Archetype Three: Cross Border Family Office Capital Deployment A family office with international exposure faced inconsistent covenant styles across jurisdictions
 
 .
 

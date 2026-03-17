@@ -12,13 +12,9 @@ It is driven by the erosion of stewardship disciplines that once governed Europe
 
 Wealth preservation has become more exposed to regime shifts because digital markets accelerate volatility while reducing the signal-to-noise ratio required for long-term decision making.
 
-The allocator who interprets this regime through a stewardship lens gains structural clarity in an environment where many rely on momentum rather than conviction. 
+The allocator who interprets this regime through a stewardship lens gains structural clarity in an environment where many rely on momentum rather than conviction.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ Wealth is not eroded because the assets are inferior.
 
 Wealth is eroded because decision velocity is mismatched with market velocity.
 
-Stewardship must be re-engineered as an operational discipline rather than a philosophical aspiration. 
+Stewardship must be re-engineered as an operational discipline rather than a philosophical aspiration.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -176,13 +168,9 @@ The focus is on:
 
 - Institutional ecosystem access The partnership model exists to reduce friction.
 
-It ensures the allocator navigates the modern regime without the structural mistakes that typically erode multi generational wealth. 
+It ensures the allocator navigates the modern regime without the structural mistakes that typically erode multi generational wealth.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a theological ornament
+THE STEWARDSHIP FILTER Stewardship is not a theological ornament
 
 .
 

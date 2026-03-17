@@ -38,15 +38,11 @@ This briefing outlines the architecture of generational stewardship through an i
 
 The analysis is technical, not sentimental.
 
-It addresses the engineering of capital durability, the operational models that sustain multi generational continuity, and the strategic alignment frameworks used by families and institutions that intend to steward capital beyond a single successor cycle.
+It addresses the engineering of capital durability, the operational models that sustain multi generational continuity, and the strategic alignment frameworks used by families and institutions that intend to steward capital beyond a single successor cycle. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -86,15 +82,11 @@ Within this regime shift, the demand for moral clarity has risen.
 
 Not as branding language, but as operational risk mitigation.
 
-Covenant based stewardship is emerging as a strategic differentiator because it produces decision making coherence, which reduces volatility exposure.
+Covenant based stewardship is emerging as a strategic differentiator because it produces decision making coherence, which reduces volatility exposure. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -168,13 +160,11 @@ It stabilizes decision patterns, imposes prudence, and reduces the risk of devia
 
 Stewardship in the Christian tradition frames capital as entrusted rather than owned.
 
-This creates internal constraints that align with long term value preservation.
+This creates internal constraints that align with long term value preservation. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -254,9 +244,9 @@ The
 
 - Market navigation systems across emergent sectors such as energy, private credit, and industrial technology Stewardship does not operate in isolation.
 
-It requires a constellation of aligned partners.
+It requires a constellation of aligned partners. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER The Stewardship Filter is a diagnostic protocol used to determine whether a decision aligns with generational objectives.
 
@@ -292,9 +282,9 @@ SUCCESSION FILTER Is the next generation strengthened in competence and convicti
 
 CLARITY FILTER Is the decision free from urgency driven distortion.
 
-The Stewardship Filter transforms capital management from reactive allocation into intentional architecture.
+The Stewardship Filter transforms capital management from reactive allocation into intentional architecture. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION MAKING LENS FOR THE ALLOCATOR Generational stewardship requires disciplined navigation.
 
@@ -336,9 +326,7 @@ They preserve direction.
 
 They preserve identity.
 
-They preserve 
-
-## THE MANDAT
+They preserve THE MANDAT
 
 E
 

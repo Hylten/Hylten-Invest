@@ -48,9 +48,9 @@ The following intelligence outlines the architecture behind this mandate.
 
 Not as marketing.
 
-As doctrine. 
+As doctrine.
 
-## The Theology of Capital Capital is neutral only to those who misunderstand it
+The Theology of Capital Capital is neutral only to those who misunderstand it
 
 .
 
@@ -98,9 +98,9 @@ Hyltén Invest restores alignment by reintroducing Biblical accountability into 
 
 This is not moral decoration.
 
-It is operational design. 
+It is operational design.
 
-## The Industrial Mandate Sweden's old industrial order did not rely on slogans
+The Industrial Mandate Sweden's old industrial order did not rely on slogans
 
 .
 
@@ -140,9 +140,9 @@ A return to fundamentals: collateral, covenant, and competence.
 
 In that light, asset hardening becomes a moral obligation.
 
-Not merely a financial one. 
+Not merely a financial one.
 
-## Asset Hardening as Covenant The phrase asset hardening is often interpreted as technical
+Asset Hardening as Covenant The phrase asset hardening is often interpreted as technical
 
 .
 
@@ -158,9 +158,7 @@ I will set you over much.
 
 * Faithfulness demands reinforcement.
 
-Weak structures dishonor 
-
-## THE MANDAT
+Weak structures dishonor THE MANDAT
 
 E
 
@@ -200,15 +198,13 @@ The threshold is not exclusion.
 
 It is alignment.
 
-It ensures that partners enter the structure with seriousness worthy of 
-
-## THE MANDAT
+It ensures that partners enter the structure with seriousness worthy of THE MANDAT
 
 E
 
-. 
+.
 
-## Institutional Readiness and Structural Alignment Executives managing multi generational capital do not require entertainment
+Institutional Readiness and Structural Alignment Executives managing multi generational capital do not require entertainment
 
 .
 
@@ -255,9 +251,9 @@ No noise.
 
 No confusion.
 
-No drift. 
+No drift.
 
-## Execution Velocity as Moral Discipline In secular finance, speed is strategy
+Execution Velocity as Moral Discipline In secular finance, speed is strategy
 
 .
 
@@ -291,9 +287,9 @@ When velocity is paired with covenant boundaries, the result is acceleration wit
 
 A rare combination.
 
-A decisive advantage. 
+A decisive advantage.
 
-## Christian Industrial Legacy as Operating System The wider industrial tradition does not sit in the past
+Christian Industrial Legacy as Operating System The wider industrial tradition does not sit in the past
 
 .
 
@@ -331,9 +327,9 @@ It allocates with calm authority.
 
 This posture attracts the right partners and repels the wrong ones.
 
-This is strength, not limitation. 
+This is strength, not limitation.
 
-## Liquidity as a Sacred Trust Liquidity is often treated as a commodity
+Liquidity as a Sacred Trust Liquidity is often treated as a commodity
 
 .
 
@@ -363,9 +359,9 @@ Capital that lacks purpose becomes a liability.
 
 Liquidity that lacks covenant becomes danger.
 
-Hence the rigorous selection criteria. 
+Hence the rigorous selection criteria.
 
-## Industrial Wisdom in the Private Credit Cycle Private credit has entered a phase where institutional players seek disciplined operators rather than large platforms
+Industrial Wisdom in the Private Credit Cycle Private credit has entered a phase where institutional players seek disciplined operators rather than large platforms
 
 .
 
@@ -393,9 +389,9 @@ It is why the firm thrives in environments where others retreat.
 
 It is why capital partners remain long term.
 
-It is why the covenant strengthens with each deployment. 
+It is why the covenant strengthens with each deployment.
 
-## Generational Transfer and the Weight of Inheritance Christian conservatism does not treat inheritance as optional
+Generational Transfer and the Weight of Inheritance Christian conservatism does not treat inheritance as optional
 
 .
 
@@ -440,9 +436,9 @@ It forces patience.
 
 It enforces minimalism.
 
-It rejects anything that cannot survive beyond its originator. 
+It rejects anything that cannot survive beyond its originator.
 
-## Why Hyltén Invest Attracts Institutional Mandates Institutional allocators seek three things
+Why Hyltén Invest Attracts Institutional Mandates Institutional allocators seek three things
 
 :
 
@@ -506,9 +502,9 @@ Growth is not the goal.
 
 Faithfulness is the goal.
 
-Growth becomes a by product. 
+Growth becomes a by product.
 
-## Final Word: Stewardship Before Scale The world rewards noise
+Final Word: Stewardship Before Scale The world rewards noise
 
 .
 
@@ -522,9 +518,7 @@ It stands on generational responsibility.
 
 This is the Hylten legacy.
 
-This is 
-
-## THE MANDAT
+This is THE MANDAT
 
 E
 

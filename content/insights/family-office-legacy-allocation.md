@@ -14,9 +14,9 @@ They operate with a horizon that stretches beyond market cycles, beyond generati
 
 This long arc shapes a unique discipline.
 
-A discipline defined by restraint, clarity, and the uninterrupted continuation of a legacy. 
+A discipline defined by restraint, clarity, and the uninterrupted continuation of a legacy.
 
-## Understanding Legacy Allocation Legacy allocation is the strategic distribution of capital with the intention of securing a family’s influence, wealth, and values far into the future
+Understanding Legacy Allocation Legacy allocation is the strategic distribution of capital with the intention of securing a family’s influence, wealth, and values far into the future
 
 .
 
@@ -42,9 +42,9 @@ Legacy allocation, therefore, is a long-term architecture.
 
 It is not static, yet it is stable.
 
-It evolves at the pace of structural shifts, not short-term noise. 
+It evolves at the pace of structural shifts, not short-term noise.
 
-## The Foundation of Generational Stewardship Families with multi-generational wealth tend to adhere to a core principle
+The Foundation of Generational Stewardship Families with multi-generational wealth tend to adhere to a core principle
 
 .
 
@@ -66,9 +66,9 @@ Stewardship requires structure.
 
 Structure requires clarity.
 
-Clarity requires a documented investment philosophy that is consistently revisited and stress tested. 
+Clarity requires a documented investment philosophy that is consistently revisited and stress tested.
 
-## Core Elements of a Legacy Allocation Framework
+Core Elements of a Legacy Allocation Framework
 
  
 1.
@@ -162,9 +162,9 @@ This may include:
 
 It nurtures adaptability.
 
-It strengthens resilience. 
+It strengthens resilience.
 
-## The Minimalist Approach in Family Office Strategy High net worth families with longevity understand the power of simplicity
+The Minimalist Approach in Family Office Strategy High net worth families with longevity understand the power of simplicity
 
 .
 
@@ -188,9 +188,9 @@ In a world that promotes velocity, minimalism supports clarity.
 
 Clarity supports continuity.
 
-Continuity supports legacy. 
+Continuity supports legacy.
 
-## Building a Multi-Generational Governance System Wealth without governance fragments
+Building a Multi-Generational Governance System Wealth without governance fragments
 
 .
 
@@ -212,9 +212,9 @@ Typical elements include:
 
 It protects the family from drift.
 
-It ensures continuity when leadership transitions occur. 
+It ensures continuity when leadership transitions occur.
 
-## Intergenerational Transition and Education The greatest risk to a legacy is unprepared successors
+Intergenerational Transition and Education The greatest risk to a legacy is unprepared successors
 
 .
 
@@ -238,9 +238,9 @@ This includes:
 
 - Practice in strategic thinking
 
-- Development of stewardship identity A legacy is secure only when those who inherit it understand its purpose. 
+- Development of stewardship identity A legacy is secure only when those who inherit it understand its purpose.
 
-## The Role of External Partners A disciplined family office maintains independence, yet also recognizes the importance of selective partnerships
+The Role of External Partners A disciplined family office maintains independence, yet also recognizes the importance of selective partnerships
 
 .
 
@@ -256,9 +256,9 @@ This creates a collaborative architecture.
 
 A structure where the family retains full authority.
 
-And where external insights elevate long-term outcomes. 
+And where external insights elevate long-term outcomes.
 
-## Why Legacy Allocation Outperforms Over Time Families that practice legacy allocation often experience superior long-term outcomes for one reason
+Why Legacy Allocation Outperforms Over Time Families that practice legacy allocation often experience superior long-term outcomes for one reason
 
 .
 
@@ -284,9 +284,9 @@ This approach is quiet.
 
 It is steady.
 
-It is enduring. 
+It is enduring.
 
-## Hyltén Invest Perspective Hyltén Invest operates with a philosophy centered on stewardship
+Hyltén Invest Perspective Hyltén Invest operates with a philosophy centered on stewardship
 
 .
 
@@ -300,11 +300,9 @@ Structures that preserve independence.
 
 Structures that protect legacy.
 
-Structures that align capital with identity. 
+Structures that align capital with identity.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

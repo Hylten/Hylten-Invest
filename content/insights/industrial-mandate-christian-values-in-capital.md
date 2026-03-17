@@ -18,15 +18,11 @@ The Nordic industrial tribes understood this instinctively.
 
 The Spirit of Gnosjö is not folklore.
 
-It is a model for governance, discipline, and community scale enterprise that has survived multiple economic cycles.
+It is a model for governance, discipline, and community scale enterprise that has survived multiple economic cycles. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,15 +62,11 @@ THE REGIME SHIFT
 
 It is cultural.
 
-The institutions that will dominate the next cycle are those able to anchor capital to purpose, operational truth, and the classical disciplines of stewardship.
+The institutions that will dominate the next cycle are those able to anchor capital to purpose, operational truth, and the classical disciplines of stewardship. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -186,9 +178,9 @@ In energy, this appears in decline curve modeling.
 
 In manufacturing, it appears in takt-time management.
 
-In credit structures, it appears in cash flow waterfall predictability.
+In credit structures, it appears in cash flow waterfall predictability. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer where alignment and operational discipline are paramount.
 
@@ -218,9 +210,9 @@ No solicitation.
 
 No return projection.
 
-Only structural illumination.
+Only structural illumination. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship imposes a specific filtering mechanism on all industrial and financial decisions.
 
@@ -274,9 +266,9 @@ They are building a lineage.
 
 The discipline required to pass resources forward is greater than the discipline required to accumulate them.
 
-This enhances risk calibration and reduces emotional allocation patterns.
+This enhances risk calibration and reduces emotional allocation patterns. 
 
-# Phase V: .
+### Phase V: .
 
 ALLOCATOR DECISION FRAMEWORK The institutional allocator or family principal evaluating capital deployment in the present regime needs a decision lens shaped by stewardship rather than market noise.
 

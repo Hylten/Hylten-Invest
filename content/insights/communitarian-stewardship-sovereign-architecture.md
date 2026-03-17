@@ -24,7 +24,7 @@ The Spirit of Gnosjö did not emerge from comfort.
 
 It emerged from responsibility accepted without complaint.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

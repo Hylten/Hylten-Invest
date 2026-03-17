@@ -32,9 +32,9 @@ It requires the capacity to unlock liquidity without operational disruption, wit
 
 This is the domain of legacy hardening.
 
-This is the environment in which Hylten‑Invest functions as a structural partner. 
+This is the environment in which Hylten‑Invest functions as a structural partner.
 
-## Liquidity as a Strategic Weapon for Families Liquidity is not only a buffer
+Liquidity as a Strategic Weapon for Families Liquidity is not only a buffer
 
 .
 
@@ -56,9 +56,9 @@ Liquidity is the operating leverage of long term wealth management.
 
 Hylten‑Invest provides the ability to create these liquidity lines using assets that families already own.
 
-The outcome is a structure where wealth is preserved, but also activated. 
+The outcome is a structure where wealth is preserved, but also activated.
 
-## The Minimalist Approach to Capital Stewardship Minimalism in wealth management is about removing noise, removing unnecessary complexity, and focusing on function
+The Minimalist Approach to Capital Stewardship Minimalism in wealth management is about removing noise, removing unnecessary complexity, and focusing on function
 
 .
 
@@ -88,9 +88,9 @@ Minimalist structures survive.
 
 They endure.
 
-They scale across generations without requiring reinvention. 
+They scale across generations without requiring reinvention.
 
-## Institutions Serve the Market
+Institutions Serve the Market
 
 .
 
@@ -120,11 +120,9 @@ Our environment is built for:
 
 This is not wealth management.
 
-It is legacy engineering. 
+It is legacy engineering.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

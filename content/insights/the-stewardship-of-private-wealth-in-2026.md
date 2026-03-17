@@ -36,9 +36,9 @@ This article explores how stewardship, liquidity, and asset-backed Monetization 
 
 It outlines how Hyltén Invest positions itself as a conservative yet adaptive partner.
 
-And it provides directional clarity for those who view liquidity not as an event, but as an ongoing architecture. 
+And it provides directional clarity for those who view liquidity not as an event, but as an ongoing architecture.
 
-## The Role of Quiet Partners HNWI and UHNW families do not seek attention
+The Role of Quiet Partners HNWI and UHNW families do not seek attention
 
 .
 
@@ -64,9 +64,9 @@ Our value is in the mechanics beneath the surface.
 
 A partner in stewardship must understand both the assets and the philosophy.
 
-We position ourselves accordingly. 
+We position ourselves accordingly.
 
-## The Stewardship Imperative in 2026 Stewardship is not a slogan
+The Stewardship Imperative in 2026 Stewardship is not a slogan
 
 .
 
@@ -90,9 +90,9 @@ They use crypto Capital Structuring and share Monetization Architecture with dis
 
 They avoid speculation disguised as opportunity.
 
-Hyltén Invest supports these priorities with a conservative, precise, and quiet framework. 
+Hyltén Invest supports these priorities with a conservative, precise, and quiet framework.
 
-## The Future of Private Wealth Infrastructure The next decade will introduce greater fragmentation in global finance
+The Future of Private Wealth Infrastructure The next decade will introduce greater fragmentation in global finance
 
 .
 
@@ -114,6 +114,8 @@ Digital assets will integrate further into sophisticated balance sheets.
 
 Those who create clarity today will inherit stability tomorrow.
 
-This is the stewardship mindset. # Access is restricted to approved mandates.
+This is the stewardship mindset.
+
+Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

@@ -300,13 +300,13 @@ Independence accelerates it.
 
 The architecture of Fund-III must reflect this.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is not high-yield noise.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -326,7 +326,7 @@ Strong capital expands last.
 
 The expansion 
 
-# Phase I: s the reward for restraint
+### Phase I: s the reward for restraint
 
 .
 
@@ -424,9 +424,7 @@ Truth: capital must serve creation, not destruction.
 
 Truth: capital must harden society, not hollow it.
 
-Truth: capital must outlive the principal or it has failed 
-
-## THE MANDAT
+Truth: capital must outlive the principal or it has failed THE MANDAT
 
 E
 

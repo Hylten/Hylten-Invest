@@ -12,13 +12,9 @@ It is a structural imbalance created by fragmented advisory silos, regulatory in
 
 The families that endure across generations adapt their structures before markets force adaptation.
 
-The transition from opportunistic accumulation to disciplined stewardship requires a liquidity architecture that remains functional under stress rather than aspirational in theory. 
+The transition from opportunistic accumulation to disciplined stewardship requires a liquidity architecture that remains functional under stress rather than aspirational in theory.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,13 +60,9 @@ This is the architecture that distinguishes the Nordic industrial families who p
 
 It is not a strategy set.
 
-It is a structural identity. 
+It is a structural identity.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -170,13 +162,9 @@ Not a transaction.
 
 Not a pursuit of yield.
 
-A calibration of interlocking functions. 
+A calibration of interlocking functions.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a technical discipline, not a philosophical theme
+THE STEWARDSHIP FILTER Stewardship is a technical discipline, not a philosophical theme
 
 .
 

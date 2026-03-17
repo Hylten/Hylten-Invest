@@ -14,15 +14,11 @@ This creates a structural spread between intrinsic asset durability and market c
 
 For families with multi generational enterprises, this dislocation defines the new regime.
 
-Asset Based Lending, when structured with precision and stewarded under a disciplined framework, becomes a mechanism for legacy continuity rather than leverage expansion.
+Asset Based Lending, when structured with precision and stewarded under a disciplined framework, becomes a mechanism for legacy continuity rather than leverage expansion. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,15 +60,11 @@ Families seeking to preserve industrial legacy are not pursuing risk expansion.
 
 They are seeking instruments that align liquidity with stewardship.
 
-Asset Based Lending becomes the anchor because it respects the hierarchy of real assets, operational continuity, and prudential control.
+Asset Based Lending becomes the anchor because it respects the hierarchy of real assets, operational continuity, and prudential control. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -116,9 +108,9 @@ In Nordic industrial settings, Asset-Based Lending stabilizes enterprises where 
 
 It mitigates generational transitions by preventing equity dilution or forced sale of productive assets.
 
-The machinery that built the family's identity becomes a financial anchor rather than a liability.
+The machinery that built the family's identity becomes a financial anchor rather than a liability. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a capital deployer.
 
@@ -154,9 +146,9 @@ The institutional
 
 - Opportunity Velocity Structuring.
 
-These activities provide clarity for families that require precision, confidentiality, and multi generational awareness.
+These activities provide clarity for families that require precision, confidentiality, and multi generational awareness. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not theoretical.
 
@@ -184,9 +176,9 @@ The Spirit of Gnosjö created enterprises capable of enduring multiple cycles be
 
 Asset Based Lending, when filtered through stewardship, becomes an instrument of conservation and dignity.
 
-It prevents unnecessary divestitures, protects core employment, and allows successors to inherit systems rather than crises.
+It prevents unnecessary divestitures, protects core employment, and allows successors to inherit systems rather than crises. 
 
-# Phase V: .
+### Phase V: .
 
 NAVIGATION LENS FOR THE INSTITUTIONAL ALLOCATOR OR FAMILY PRINCIPAL Families and allocators evaluating Asset-Based Lending structures for legacy preservation should apply a lens grounded in structural stability rather than cost of capital alone.
 

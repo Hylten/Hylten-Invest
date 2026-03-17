@@ -12,13 +12,9 @@ The allocator that understands this distinction recognizes that capital preserva
 
 Preserving capital today is not a matter of defensive posture.
 
-It is a matter of choosing institutional structures that neutralize uncertainty. 
+It is a matter of choosing institutional structures that neutralize uncertainty.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ Preservation is no longer achieved through government bonds or global index expo
 
 Preservation is structural.
 
-It is engineered within assets that are tangible, operationally validated, and insulated from rapid policy shocks. 
+It is engineered within assets that are tangible, operationally validated, and insulated from rapid policy shocks.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -242,13 +234,9 @@ Instead, it specializes vertically within a basin that rewards precision, not ex
 
 Through the partnership model, Roials Capital introduces allocators to NAEO only when structural alignment is evident.
 
-The objective is strategic navigation, not transactional intermediation. 
+The objective is strategic navigation, not transactional intermediation.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Preservation is not merely financial
+THE STEWARDSHIP FILTER Preservation is not merely financial
 
 .
 

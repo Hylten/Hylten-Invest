@@ -30,13 +30,9 @@ Allocators who understand this framework gain access to a rare operational arche
 
 This is the second chapter of The Gnosjö-Syndikatet series.
 
-The focus is the strategic mechanics of trust, the industrial cadence of Småland, and why this execution model outperforms any sophistication-driven alternative. 
+The focus is the strategic mechanics of trust, the industrial cadence of Småland, and why this execution model outperforms any sophistication-driven alternative.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -92,13 +88,9 @@ Trust eliminates friction.
 
 Stewardship eliminates waste.
 
-Reliability replaces leverage. 
+Reliability replaces leverage.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -226,13 +218,9 @@ It is an operator with a predictable asset base and a stewardship oriented P and
 
 Roials Capital functions as the translator between these systems.
 
-Our mandate is to provide operational intelligence and structural clarity so allocators understand the environment before making any strategic alignment decisions. 
+Our mandate is to provide operational intelligence and structural clarity so allocators understand the environment before making any strategic alignment decisions.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral accessory
+THE STEWARDSHIP FILTER Stewardship is not a moral accessory
 
 .
 

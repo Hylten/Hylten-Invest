@@ -32,9 +32,9 @@ Governance is the vessel that protects both. *"The counsel of the Lord standeth 
 
 * Industrial families that forget this truth drift.
 
-Those who remember it build enterprises that outlive wars, cycles, fashions, and even their own names. 
+Those who remember it build enterprises that outlive wars, cycles, fashions, and even their own names.
 
-## THE FIRST PRINCIPAL FACT Values survive succession only when the capital architecture itself enforces them
+THE FIRST PRINCIPAL FACT Values survive succession only when the capital architecture itself enforces them
 
 .
 
@@ -48,9 +48,9 @@ Clarity first.
 
 Ambiguity kills legacies.
 
-Structures protect them. 
+Structures protect them.
 
-## THE INDUSTRIAL HERITAGE PRINCIPLE Where the Gnosjö spirit flourished, prosperity followed
+THE INDUSTRIAL HERITAGE PRINCIPLE Where the Gnosjö spirit flourished, prosperity followed
 
 .
 
@@ -74,9 +74,9 @@ Governance, share classes, voting structures, and capital discipline-all of thes
 
 A principle: If you want a value to endure, build a mechanism that makes violating it impossible or unprofitable.
 
-That is succession‑proofing.
+That is succession‑proofing. 
 
-# Phase I
+### Phase I
 
 GOVERNANCE AS COVENANT A stewardship enterprise begins where ego ends.
 
@@ -113,9 +113,9 @@ This is not limitation; it is protection. *"Only take heed to thyself, and keep 
 
 * A family that forgets loses the enterprise.
 
-A family that remembers multiplies it.
+A family that remembers multiplies it. 
 
-# Phase II: CAPITAL THAT RESISTS CORRUPTION Money follows incentives
+### Phase II: CAPITAL THAT RESISTS CORRUPTION Money follows incentives
 
 .
 
@@ -139,9 +139,9 @@ For Hylten-Invest, this is the moral center of succession-proof capital.
 
 The system must ensure the family’s values continue even if the family’s resolve weakens.
 
-That is the architecture of moral durability.
+That is the architecture of moral durability. 
 
-# Phase II: I
+### Phase II: I
 
 THE DOCTRINE OF PRODUCTIVE REINVESTMENT Industrial wealth is not preserved by hoarding.
 
@@ -175,9 +175,9 @@ The next generation does not inherit ease; they inherit duty. *"In all labour th
 
 Work is the discipline.
 
-Value creation is the moral expression.
+Value creation is the moral expression. 
 
-# Phase I: V
+### Phase I: V
 
 THE THREE VAULTS Every multi-generational enterprise must build three vaults of preservation:
 
@@ -209,9 +209,9 @@ Note this truth: You cannot succession-proof what you do not structure.
 
 You cannot structure what you do not define.
 
-And you cannot define what you do not believe.
+And you cannot define what you do not believe. 
 
-# Phase V
+### Phase V
 
 THE INDUSTRIAL FAMILY AS CUSTODIAN, NOT OWNER Ownership is secular.
 
@@ -246,9 +246,9 @@ Not prestige.
 
 Not expansion.
 
-Faithfulness to the covenant, to the craft, to the calling.
+Faithfulness to the covenant, to the craft, to the calling. 
 
-# Phase V: I
+### Phase V: I
 
 THE SOVEREIGN ARCHITECTURE A succession-proof enterprise must become sovereign.
 
@@ -274,9 +274,9 @@ The Sovereign Architecture consists of:
 
 The architecture enforces the direction.
 
-The generations maintain the covenant.
+The generations maintain the covenant. 
 
-# Phase VII: THE MORAL CASE FOR ENDURANCE Why must an enterprise endure
+### Phase VII: THE MORAL CASE FOR ENDURANCE Why must an enterprise endure
 
 ?
 

@@ -28,9 +28,9 @@ Not noise.
 
 Our role is to provide the structural mechanics that allow their assets to function across decades.
 
-Quiet, precise, unintrusive. 
+Quiet, precise, unintrusive.
 
-## Liquidity as a Long-Term Architectural Framework True liquidity does not behave like cash
+Liquidity as a Long-Term Architectural Framework True liquidity does not behave like cash
 
 .
 
@@ -62,9 +62,9 @@ A liquidity architecture must:
 
 Over time, this architecture becomes part of the family's internal governance.
 
-It becomes a stabilizing force, not a tactical tool. 
+It becomes a stabilizing force, not a tactical tool.
 
-## The Silent Advantages of [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) Against Private Credit For HNW and UHNW families, private credit has transformed from a secondary allocation to a core yield engine
+The Silent Advantages of [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) Against Private Credit For HNW and UHNW families, private credit has transformed from a secondary allocation to a core yield engine
 
 .
 
@@ -96,9 +96,9 @@ This approach is not built for traders.
 
 It is built for stewards.
 
-Families who intend to keep assets functioning over decades, not quarters. 
+Families who intend to keep assets functioning over decades, not quarters.
 
-## Asset Based Monetization Architecture, The Foundation of Tangible Stability Asset Based Capital Structuring has always been the hidden backbone of conservative liquidity strategies
+Asset Based Monetization Architecture, The Foundation of Tangible Stability Asset Based Capital Structuring has always been the hidden backbone of conservative liquidity strategies
 
 .
 
@@ -118,9 +118,9 @@ Asset-Based Lending provides:
 
 At Hyltén Invest, Asset-Based Lending is not a tactical instrument.
 
-It is a foundational pillar for families who see capital as a multi generational continuum. 
+It is a foundational pillar for families who see capital as a multi generational continuum.
 
-## Public Share Asset-Backed Frameworks for Large Concentrated Positions Many families hold significant public equity positions acquired through founder events, inherited allocations, or long-term accumulation
+Public Share Asset-Backed Frameworks for Large Concentrated Positions Many families hold significant public equity positions acquired through founder events, inherited allocations, or long-term accumulation
 
 .
 
@@ -142,9 +142,9 @@ The structure allows families to:
 
 The objective is not leverage for acceleration.
 
-It is stability for continuity. 
+It is stability for continuity.
 
-## Crypto Monetization Architecture for Institutional Scale Holders Digital assets have matured into institutional-grade holdings for certain UHNW families
+Crypto Monetization Architecture for Institutional Scale Holders Digital assets have matured into institutional-grade holdings for certain UHNW families
 
 .
 
@@ -168,9 +168,9 @@ This structure benefits families by:
 
 * Providing liquidity that is protected from market shocks.
 
-We serve those whose digital asset allocations operate at a scale that requires precision, not hype. 
+We serve those whose digital asset allocations operate at a scale that requires precision, not hype.
 
-## Multi Generational Liquidity as an Operating Philosophy We view liquidity through the lens of family governance
+Multi Generational Liquidity as an Operating Philosophy We view liquidity through the lens of family governance
 
 .
 
@@ -198,9 +198,9 @@ It reduces forced decision points.
 
 It creates resilience in the face of uncertainty.
 
-When this philosophy is embedded early, it becomes a silent form of governance. 
+When this philosophy is embedded early, it becomes a silent form of governance.
 
-## The Importance of Non-Disruptive Liquidity Disruption is the enemy of multi generational strategy
+The Importance of Non-Disruptive Liquidity Disruption is the enemy of multi generational strategy
 
 .
 
@@ -218,9 +218,9 @@ It should operate beneath the surface, supporting the entire capital structure w
 
 This is the foundation of our Monetization Architecture approach.
 
-We provide liquidity that leaves the underlying strategy untouched. 
+We provide liquidity that leaves the underlying strategy untouched.
 
-## Structural Mechanics, Not Market Timing Hyltén Invest operates with a philosophy of principal authority
+Structural Mechanics, Not Market Timing Hyltén Invest operates with a philosophy of principal authority
 
 .
 
@@ -246,9 +246,9 @@ To simplify.
 
 To maintain continuity.
 
-This is the quiet power of structural liquidity. 
+This is the quiet power of structural liquidity.
 
-## The Stewardship View Stewardship is the central theme across multi generational families
+The Stewardship View Stewardship is the central theme across multi generational families
 
 .
 
@@ -270,9 +270,9 @@ It allows assets to function correctly.
 
 It prevents fragmentation of long-term holdings.
 
-Families with strong stewardship cultures design liquidity mechanisms early, then maintain them consistently over decades. 
+Families with strong stewardship cultures design liquidity mechanisms early, then maintain them consistently over decades.
 
-## When Liquidity Becomes a Governance Tool As families grow, the demands on capital change
+When Liquidity Becomes a Governance Tool As families grow, the demands on capital change
 
 .
 
@@ -286,9 +286,9 @@ When liquidity is engineered as a governance tool, these transitions unfold with
 
 By integrating private credit Monetization Architecture, Asset-Based Lending, public share Monetization Architecture, and institutional-scale crypto Institutional Liquidity Paths, families create a multi dimensional liquidity structure that evolves with them.
 
-This structure becomes part of the family's long-term blueprint. 
+This structure becomes part of the family's long-term blueprint.
 
-## The Hyltén Invest Liquidity Framework Our framework is simple in form and deep in architecture
+The Hyltén Invest Liquidity Framework Our framework is simple in form and deep in architecture
 
 .
 
@@ -308,9 +308,9 @@ Optionality ensures that assets do not need to be liquidated prematurely.
 
 Continuity ensures that each generation inherits not only wealth, but functional capital.
 
-This is how liquidity becomes multi generational. 
+This is how liquidity becomes multi generational.
 
-## A Long-Term Partnership Approach We work only with high net worth and ultra high net worth individuals
+A Long-Term Partnership Approach We work only with high net worth and ultra high net worth individuals
 
 .
 
@@ -326,6 +326,8 @@ They value precision in capital structure.
 
 They value a partner that does not require spotlight or narrative.
 
-This is the architecture of principal authority. # Access is restricted to approved mandates.
+This is the architecture of principal authority.
+
+Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

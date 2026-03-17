@@ -18,13 +18,9 @@ The objective is not acceleration.
 
 The objective is calibration.
 
-This briefing outlines the core principles of sovereign capital architecture, the necessary conditions for long horizon protection, and the strategic role of Roials Capital as a navigator for allocators seeking orientation inside a fractured global capital landscape. 
+This briefing outlines the core principles of sovereign capital architecture, the necessary conditions for long horizon protection, and the strategic role of Roials Capital as a navigator for allocators seeking orientation inside a fractured global capital landscape.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -80,13 +76,9 @@ Asset hardening is no longer a defensive tactic.
 
 It is a strategic baseline.
 
-The allocators that succeed in this regime are those who treat capital not as an instrument but as an inheritance. 
+The allocators that succeed in this regime are those who treat capital not as an instrument but as an inheritance.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -212,7 +204,7 @@ The architecture becomes durable across regimes.
 
 THE PARTNERSHIP MODEL Roials Capital functions as a navigator rather than an operator.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -274,13 +266,9 @@ The objective is strategic clarity.
 
 The allocator remains in control of decision making.
 
-The architecture becomes intentional rather than reactive. 
+The architecture becomes intentional rather than reactive.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the final filter because it governs the alignment between capital, character, and time
+THE STEWARDSHIP FILTER Stewardship is the final filter because it governs the alignment between capital, character, and time
 
 .
 

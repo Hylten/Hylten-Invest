@@ -20,9 +20,9 @@ It is written for principals, allocators, and owners carrying multi generational
 
 It is not advisory language.
 
-It is a framing of capital as vocation. 
+It is a framing of capital as vocation.
 
-## Mandate Discipline A mature enterprise operates under mandate
+Mandate Discipline A mature enterprise operates under mandate
 
 .
 
@@ -44,9 +44,7 @@ For Hyltén Invest and aligned Fund-III grade activities, the core mandates rema
 
 Distraction fractures stewardship.
 
-Fractured stewardship erodes generational continuity. 
-
-## liquidity engineering Threshold Integrity Threshold clarity protects counterparties and owners
+Fractured stewardship erodes generational continuity. liquidity engineering Threshold Integrity Threshold clarity protects counterparties and owners
 
 .
 
@@ -62,9 +60,9 @@ Current thresholds:
 
 It communicates reliability.
 
-It signals seriousness. 
+It signals seriousness.
 
-## Toward a Generational Standard The next frontier of Christian industrial leadership will not be defined by rhetoric
+Toward a Generational Standard The next frontier of Christian industrial leadership will not be defined by rhetoric
 
 .
 
@@ -90,9 +88,9 @@ Capital respects conviction backed by architecture.
 
 Institutions respect order backed by clarity.
 
-Generations respect legacy backed by stewardship. 
+Generations respect legacy backed by stewardship.
 
-## Closing for Principals Structural alignment is not an administrative exercise
+Closing for Principals Structural alignment is not an administrative exercise
 
 .
 

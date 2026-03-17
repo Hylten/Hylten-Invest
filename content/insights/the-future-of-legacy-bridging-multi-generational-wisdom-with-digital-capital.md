@@ -32,9 +32,9 @@ Hyltén Invest operates where these lines converge.
 
 We support families who think in generations.
 
-We provide Asset-Backed Frameworks structures that respect discretion, uphold sovereignty, and enhance liquidity without compromising long-term holdings. 
+We provide Asset-Backed Frameworks structures that respect discretion, uphold sovereignty, and enhance liquidity without compromising long-term holdings.
 
-## The Silent Architecture of Institutional Mechanics Hyltén Invest maintains a principle we call principal authority
+The Silent Architecture of Institutional Mechanics Hyltén Invest maintains a principle we call principal authority
 
 .
 
@@ -56,9 +56,9 @@ We offer terms anchored in long-term conservatism.
 
 We maintain operational integrity that mirrors institutional capital behavior.
 
-This posture attracts those who prefer stewardship over speculation. 
+This posture attracts those who prefer stewardship over speculation.
 
-## Digital Capital and the Rise of Crypto-Backed Liquidity Digital capital now plays a non-trivial role in UHNW portfolios
+Digital Capital and the Rise of Crypto-Backed Liquidity Digital capital now plays a non-trivial role in UHNW portfolios
 
 .
 
@@ -86,9 +86,9 @@ They Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-For those who hold digital capital, it becomes another pillar of generational strategy rather than an isolated modern asset. 
+For those who hold digital capital, it becomes another pillar of generational strategy rather than an isolated modern asset.
 
-## Public Share Asset-Backed Frameworks for Control Preservation Significant public share positions often carry emotional and strategic weight
+Public Share Asset-Backed Frameworks for Control Preservation Significant public share positions often carry emotional and strategic weight
 
 .
 
@@ -114,9 +114,9 @@ This safeguards strategic positions.
 
 This reinforces long-term planning.
 
-Preservation of control is often the most important form of wealth management. 
+Preservation of control is often the most important form of wealth management.
 
-## Multi-Generational Wisdom as an Operating Principle True legacy is not merely financial
+Multi-Generational Wisdom as an Operating Principle True legacy is not merely financial
 
 .
 
@@ -140,9 +140,9 @@ We avoid strategies that compromise sovereignty.
 
 Instead, we specialize in clear, conservative frameworks that support continuity.
 
-Liquidity should serve legacy, not distort it. 
+Liquidity should serve legacy, not distort it.
 
-## The Fusion of Heritage and Digital Modernity As digital capital becomes more prominent, families face a cultural shift
+The Fusion of Heritage and Digital Modernity As digital capital becomes more prominent, families face a cultural shift
 
 .
 
@@ -164,9 +164,9 @@ Hyltén Invest serves as the bridge between these perspectives.
 
 We translate modern instruments into conservative, reliable Capital Structuring structures.
 
-We respect the heritage, while enabling the future. 
+We respect the heritage, while enabling the future.
 
-## Institutional Liquidity With Family Office Precision Our position is distinct
+Institutional Liquidity With Family Office Precision Our position is distinct
 
 .
 
@@ -188,9 +188,9 @@ We focus on liquidity optionality rather than leverage.
 
 We focus on long-term alignment rather than short-term optimization.
 
-This institutional quietness is what families rely on generation after generation. 
+This institutional quietness is what families rely on generation after generation.
 
-## Liquidity as the Enabler of Opportunity Opportunities rarely announce themselves
+Liquidity as the Enabler of Opportunity Opportunities rarely announce themselves
 
 .
 
@@ -214,9 +214,9 @@ It maintains intergenerational stability.
 
 Private credit Monetization Architecture, Asset-Based Lending, crypto Strategic Collateralization, and public share Strategic Collateralization all serve one purpose.
 
-They protect legacy while unlocking opportunity. 
+They protect legacy while unlocking opportunity.
 
-## A Conservative Vision for the Future The future of legacy will not be defined by rapid shifts
+A Conservative Vision for the Future The future of legacy will not be defined by rapid shifts
 
 .
 
@@ -238,9 +238,9 @@ We serve those who think in generations.
 
 We uphold the philosophy of quiet stewardship.
 
-If legacy is the long arc, liquidity is the line that keeps it steady. 
+If legacy is the long arc, liquidity is the line that keeps it steady.
 
-## Access is restricted to approved mandates
+Access is restricted to approved mandates
 
 .
 

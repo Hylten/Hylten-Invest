@@ -22,13 +22,9 @@ It is written from the vantage point of conviction and moral authority.
 
 The objective is to equip leaders who carry responsibility not only for current allocations, but for the inheritance embedded in their decisions.
 
-The principles reflect the Spirit of Gnosjö: the Nordic industrial ethos built on sobriety, community duty, and operational excellence without waste. 
+The principles reflect the Spirit of Gnosjö: the Nordic industrial ethos built on sobriety, community duty, and operational excellence without waste.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -92,13 +88,9 @@ Stewardship requires an understanding that value grows in the presence of discip
 
 This is governance, not sentiment.
 
-It is a framework for endurance. 
+It is a framework for endurance.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -242,13 +234,9 @@ For non energy allocations, the Roials Capital model emphasizes structural align
 
 The intention is not to direct capital but to discipline it.
 
-The partnership model creates a buffer between the emotional pressure of ownership and the requirements of multi generational stewardship. 
+The partnership model creates a buffer between the emotional pressure of ownership and the requirements of multi generational stewardship.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship is a moral discipline
+THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship is a moral discipline
 
 .
 

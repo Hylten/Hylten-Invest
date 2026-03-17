@@ -12,13 +12,9 @@ Institutional allocators interpret this as volatility.
 
 Generational families recognize it as an opening.
 
-The rise of sovereign capital frameworks is rooted in a simple, counter intuitive dynamic: durable capital outperforms opportunistic capital when the market is defined by regulatory shifts rather than resource scarcity. 
+The rise of sovereign capital frameworks is rooted in a simple, counter intuitive dynamic: durable capital outperforms opportunistic capital when the market is defined by regulatory shifts rather than resource scarcity.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -58,13 +54,9 @@ The theological foundation is clear: capital is a responsibility given for the p
 
 * 
 
-* articulates this orientation with precision. 
+* articulates this orientation with precision.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -112,7 +104,7 @@ Their long term recoverability is not subject to consumer sentiment.
 
 When managed by operators with discipline and transparent field level execution, such as our strategic partner NAEO, these assets become a stabilizing 
 
-# Pillar I: n a portfolio architecture
+### Pillar I: n a portfolio architecture
 
 .
 
@@ -162,13 +154,9 @@ Roials Capital's function is to position the allocator not in the operational tr
 
 The focus is alignment, not intervention.
 
-The partnership is structured so that the allocator benefits from field level predictability while maintaining the governance distance appropriate for institutional mandates. 
+The partnership is structured so that the allocator benefits from field level predictability while maintaining the governance distance appropriate for institutional mandates.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The stewardship filter is the central pillar of sovereign capital
+THE STEWARDSHIP FILTER The stewardship filter is the central pillar of sovereign capital
 
 .
 
@@ -212,9 +200,7 @@ A steward is accountable to those who came before and those who will come after.
 
 This is the theological foundation.
 
-Numbers do not drive 
-
-## THE MANDAT
+Numbers do not drive THE MANDAT
 
 E
 

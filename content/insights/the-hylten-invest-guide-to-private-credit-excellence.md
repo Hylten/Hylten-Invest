@@ -20,9 +20,9 @@ We believe that capital should remain productive without unnecessary exposure.
 
 We believe that credit, when disciplined by real assets and institutional structure, becomes an instrument of continuity rather than speculation.
 
-This guide outlines the principles that define Hylten Invest, the frameworks we use, and the reasons families and private wealth stewards choose us for private credit excellence. 
+This guide outlines the principles that define Hylten Invest, the frameworks we use, and the reasons families and private wealth stewards choose us for private credit excellence.
 
-## The Hylten Invest Framework for Excellence Our framework rests on several pillars
+The Hylten Invest Framework for Excellence Our framework rests on several pillars
 
 .
 
@@ -38,9 +38,9 @@ principal authority at every stage.
 
 These pillars form the foundation of our Asset-Backed Frameworks philosophy.
 
-They support private credit structures that are resilient, liquid, and strategically aligned with the needs of sophisticated wealth holders. 
+They support private credit structures that are resilient, liquid, and strategically aligned with the needs of sophisticated wealth holders.
 
-## How Hylten Invest Serves Family Offices Family offices require a partner that understands the reality of multi dimensional capital
+How Hylten Invest Serves Family Offices Family offices require a partner that understands the reality of multi dimensional capital
 
 .
 
@@ -56,9 +56,9 @@ Hylten Invest integrates seamlessly into family office infrastructure.
 
 We provide structured credit that reinforces long term planning, not short term convenience.
 
-Our Asset-Backed Frameworks instruments allow family offices to maintain control, preserve tax strategy, and deploy liquidity exactly when it matters. 
+Our Asset-Backed Frameworks instruments allow family offices to maintain control, preserve tax strategy, and deploy liquidity exactly when it matters.
 
-## Why Minimalism Matters in Private Credit Minimalism in finance is not about doing less
+Why Minimalism Matters in Private Credit Minimalism in finance is not about doing less
 
 .
 
@@ -82,9 +82,9 @@ The continuity of the client’s vision.
 
 This is the essence of conservative Capital Structuring.
 
-It is the essence of the Hylten Invest method. 
+It is the essence of the Hylten Invest method.
 
-## Closing Perspective Private credit excellence is not built on noise
+Closing Perspective Private credit excellence is not built on noise
 
 .
 

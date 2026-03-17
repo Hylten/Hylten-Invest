@@ -28,7 +28,7 @@ A good man leaves an inheritance to his children’s children (
 
 * ).
 
-## THE MANDAT
+THE MANDAT
 
 E
 

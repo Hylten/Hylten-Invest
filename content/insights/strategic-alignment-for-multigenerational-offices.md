@@ -28,9 +28,9 @@ Silent.
 
 Precise.
 
-Institutional in its mechanics. 
+Institutional in its mechanics.
 
-## Liquidity as a Long‑Term Stabilizer Liquidity is not the opposite of investment
+Liquidity as a Long‑Term Stabilizer Liquidity is not the opposite of investment
 
 .
 
@@ -56,9 +56,9 @@ This allows family offices to:
 
 Our capital is engineered for sophisticated holders.
 
-We lend against Private Credit portfolios and Asset Based Institutional Liquidity Paths positions, maintaining the conservative posture required by multi generational stewards. 
+We lend against Private Credit portfolios and Asset Based Institutional Liquidity Paths positions, maintaining the conservative posture required by multi generational stewards.
 
-## Private Credit, Asset-Based Lending, and the Architecture of Optionality For multi generational families, optionality is a form of wealth conservation
+Private Credit, Asset-Based Lending, and the Architecture of Optionality For multi generational families, optionality is a form of wealth conservation
 
 .
 
@@ -90,9 +90,9 @@ Minimum thresholds:
 
 These thresholds are designed to maintain the integrity of our institutional mechanics.
 
-They filter for scale, governance maturity, and long term orientation. 
+They filter for scale, governance maturity, and long term orientation.
 
-## Intergenerational Governance and Financial Infrastructure Alignment cannot exist without governance
+Intergenerational Governance and Financial Infrastructure Alignment cannot exist without governance
 
 .
 
@@ -126,9 +126,9 @@ Strategic alignment does not require uniformity of ambition across generations.
 
 It requires uniformity of process.
 
-Once process is aligned, capital can serve multiple intergenerational objectives without friction. 
+Once process is aligned, capital can serve multiple intergenerational objectives without friction.
 
-## Stewardship and the Slow Variables The most powerful forces in multi generational wealth are slow
+Stewardship and the Slow Variables The most powerful forces in multi generational wealth are slow
 
 .
 
@@ -160,9 +160,9 @@ Silence protects longevity.
 
 Precision protects optionality.
 
-Alignment protects intent. 
+Alignment protects intent.
 
-## The Role of Structural Credit in Family Continuity Multi generational offices increasingly recognize that credit is not a short term tool
+The Role of Structural Credit in Family Continuity Multi generational offices increasingly recognize that credit is not a short term tool
 
 .
 
@@ -188,9 +188,9 @@ Hylten‑Invest’s mandate aligns with this philosophy.
 
 We do not encourage unnecessary leverage.
 
-We provide liquidity to those who already demonstrate conservative stewardship. 
+We provide liquidity to those who already demonstrate conservative stewardship.
 
-## Strategic Alignment in an Era of Fragmentation Modern markets introduce new complexities for family offices
+Strategic Alignment in an Era of Fragmentation Modern markets introduce new complexities for family offices
 
 .
 
@@ -220,9 +220,9 @@ The alignment here is not about asset class preference.
 
 It is about discipline.
 
-Discipline maintains unity across generations, even when risk appetites differ. 
+Discipline maintains unity across generations, even when risk appetites differ.
 
-## Building a Framework for Multi‑Generational Resilience Families that endure create systems, not reactions
+Building a Framework for Multi‑Generational Resilience Families that endure create systems, not reactions
 
 .
 
@@ -250,9 +250,9 @@ It supports long term annualized outcomes.
 
 Hylten‑Invest provides this infrastructure with a conservative ethos.
 
-Our focus is on enduring capital, not episodic events. 
+Our focus is on enduring capital, not episodic events.
 
-## Maintaining Alignment Through Transitional Phases Every family experiences periods of transition
+Maintaining Alignment Through Transitional Phases Every family experiences periods of transition
 
 .
 
@@ -284,9 +284,9 @@ Families that prepare structurally move through transitions without destabilizat
 
 Families that do not prepare are forced into reactive moves that erode capital.
 
-Hylten‑Invest integrates into transitional planning by providing liquidity mechanics that sit quietly beneath the strategic plan, supporting the office through each phase without altering its trajectory. 
+Hylten‑Invest integrates into transitional planning by providing liquidity mechanics that sit quietly beneath the strategic plan, supporting the office through each phase without altering its trajectory.
 
-## Institutional Capital Mechanics for Private Families HNWI and UHNW families are increasingly operating like micro institutions
+Institutional Capital Mechanics for Private Families HNWI and UHNW families are increasingly operating like micro institutions
 
 .
 
@@ -300,11 +300,9 @@ Our principal authority reflects a core principle.
 
 Power is not declared.
 
-Power is engineered. 
+Power is engineered.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

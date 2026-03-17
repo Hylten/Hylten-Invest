@@ -46,9 +46,9 @@ We support public share Capital Structuring from a minimum threshold of
 
 We design liquidity pathways for those who require stability without disclosure, and leverage without spectacle. 2026 is reshaping the stewardship expectations of the UHNW class.
 
-Below is a detailed view of the trends, forces, and structural considerations that matter. 
+Below is a detailed view of the trends, forces, and structural considerations that matter.
 
-## The Consolidation of Family Office Practices Family offices continue to consolidate processes and eliminate inefficiencies
+The Consolidation of Family Office Practices Family offices continue to consolidate processes and eliminate inefficiencies
 
 .
 
@@ -74,9 +74,9 @@ Hyltén Invest supports this direction.
 
 Our role is structural.
 
-We supply the mechanics that make family office consolidation functional and fluid. 
+We supply the mechanics that make family office consolidation functional and fluid.
 
-## The Long Horizon Mindset The most powerful stewardship trend for 2026 is the shift toward long horizon thinking
+The Long Horizon Mindset The most powerful stewardship trend for 2026 is the shift toward long horizon thinking
 
 .
 
@@ -114,11 +114,9 @@ It removes noise.
 
 It replaces short term execution pressure with measured, deliberate action.
 
-This is the future of UHNW stewardship. 
+This is the future of UHNW stewardship.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

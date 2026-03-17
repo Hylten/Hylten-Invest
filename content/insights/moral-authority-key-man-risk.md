@@ -40,9 +40,9 @@ What follows is an internal briefing-vault language, not public narrative. *“T
 
 * 
 
-* Phase shifts begin here.
+* Phase shifts begin here. 
 
-# Phase I
+### Phase I
 
 - ## THE SOVEREIGN BLUEPRINT FOR RISK DISSOLUTION Key‑man risk emerges when a platform’s value is inseparable from a single individual’s operational presence.
 
@@ -120,9 +120,9 @@ A builder from the 1874 forge understood this intuitively: the man is a vessel, 
 
 Markets rarely understand this depth because markets are built on quarterly thinking, not generational continuity.
 
-But we are not bound to their rhythm.
+But we are not bound to their rhythm. 
 
-# Phase I: I
+### Phase I: I
 
 - PRINCIPAL TONE THE MORAL CASE FOR FOUNDER CONTINUITY WITHOUT DEPENDENCE I will state the thesis plainly: A founder with moral authority cannot produce key‑man fragility.
 
@@ -176,9 +176,9 @@ Stewardship multiplies value.
 
 Continuity dissolves key‑man fragility.
 
-This is sovereign architecture.
+This is sovereign architecture. 
 
-# Phase II: I
+### Phase II: I
 
 - INTERNAL BYPASS MACHINE‑GUN SENTENCES, THEN DEPTH The cadence tightens.
 
@@ -248,15 +248,15 @@ Relentless.
 
 A moral engine disguised as a region.
 
-Founder‑risk cannot infect an institution built on that foundation. 
+Founder‑risk cannot infect an institution built on that foundation.
 
-## DEEP STRUCTURAL ANALYSIS (1500+ WORD INTEGRATED BRIEFING) To understand why moral authority mitigates key‑man risk, one must trace the mechanism through three layers: doctrinal, cultural, and operational
+DEEP STRUCTURAL ANALYSIS (1500+ WORD INTEGRATED BRIEFING) To understand why moral authority mitigates key‑man risk, one must trace the mechanism through three layers: doctrinal, cultural, and operational
 
 .
 
-These layers are sequential but mutually reinforcing.
+These layers are sequential but mutually reinforcing. 
 
-# Layer I
+### Layer I
 
 - DOCTRINAL The doctrine is simple: responsibility is personal, outcomes are communal, and stewardship is generational.
 
@@ -272,9 +272,9 @@ A custodian does not chase optics; he safeguards truth.
 
 A custodian does not create dependency; he builds capability.
 
-Thus the doctrine itself ensures continuity.
+Thus the doctrine itself ensures continuity. 
 
-# Layer II: - CULTURAL Culture is what people do when unobserved
+### Layer II: - CULTURAL Culture is what people do when unobserved
 
 .
 
@@ -288,9 +288,9 @@ The institution becomes self‑correcting.
 
 The normative behaviours are internalised.
 
-Senior leaders do not ask: “What would the founder want?” They simply do what is right because the standard has been absorbed.
+Senior leaders do not ask: “What would the founder want?” They simply do what is right because the standard has been absorbed. 
 
-# Layer II: I
+### Layer II: I
 
 - OPERATIONAL Because the moral code is embedded, the operational architecture becomes resilient.
 
@@ -300,9 +300,9 @@ This compresses the decision-making variance that outsiders attribute to the fou
 
 The organisation becomes predictable even without the founder’s day‑to‑day involvement.
 
-This is how moral authority becomes a structural mitigation mechanism. 
+This is how moral authority becomes a structural mitigation mechanism.
 
-## THE INDUSTRIAL HERITAGE FACTOR Why does moral authority in Sweden’s industrial tradition matter here
+THE INDUSTRIAL HERITAGE FACTOR Why does moral authority in Sweden’s industrial tradition matter here
 
 ?
 
@@ -326,9 +326,9 @@ That is the covenant we protect.
 
 The world sees a founder.
 
-We see a lineage. 
+We see a lineage.
 
-## THE THEOLOGY OF CAPITAL Capital is not merely money
+THE THEOLOGY OF CAPITAL Capital is not merely money
 
 .
 
@@ -350,9 +350,9 @@ If one believes that truth is objective, then decision‑making is principled.
 
 If one believes that the future belongs to the faithful, then the institution is built for centuries, not for liquidity events.
 
-This is how moral authority scales across generations. 
+This is how moral authority scales across generations.
 
-## THE MECHANICS OF RISK DISSOLUTION Key‑man risk disappears through three structural mechanisms
+THE MECHANICS OF RISK DISSOLUTION Key‑man risk disappears through three structural mechanisms
 
 :
 

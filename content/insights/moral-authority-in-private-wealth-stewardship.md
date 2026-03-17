@@ -40,13 +40,11 @@ It is the axis where Förvaltarskap converts duty into structure.
 
 It is the axis where the Principal becomes the custodian rather than the consumer.
 
-Below is the structural argument for moral authority as a governing force in private wealth stewardship viewed through the lens of generational ownership, covenant responsibility, and institutional alignment. 
+Below is the structural argument for moral authority as a governing force in private wealth stewardship viewed through the lens of generational ownership, covenant responsibility, and institutional alignment.
 
-## The First
+The First 
 
- 
-
-# Pillar C
+### Pillar C
 
 ovenant Stewardship as Operating Logic Covenant Stewardship is the recognition that capital is not owned.
 
@@ -92,9 +90,9 @@ A Principal operating under Covenant Stewardship understands that the purpose of
 
 The purpose is dominion with responsibility.
 
-The purpose is to build what can be handed over without moral dilution. 
+The purpose is to build what can be handed over without moral dilution.
 
-## The Second Pillar Generational Wealth as Mandate not Lifestyle Generational wealth is not an aspiration
+The Second Pillar Generational Wealth as Mandate not Lifestyle Generational wealth is not an aspiration
 
 .
 
@@ -152,9 +150,9 @@ The conservative Christian position is simple.
 
 Wealth unaligned with duty collapses.
 
-Wealth aligned with duty compounds. 
+Wealth aligned with duty compounds.
 
-## The Third Pillar The Theology of Capital Capital itself is neutral
+The Third Pillar The Theology of Capital Capital itself is neutral
 
 .
 
@@ -200,9 +198,9 @@ It aligns capital with calling rather than preference.
 
 Institutions recognize this alignment immediately.
 
-Not because they share the theology but because they recognize the structural clarity it creates. 
+Not because they share the theology but because they recognize the structural clarity it creates.
 
-## The Fourth Pillar Execution Velocity under Moral Restraint Velocity without restraint is ruin
+The Fourth Pillar Execution Velocity under Moral Restraint Velocity without restraint is ruin
 
 .
 
@@ -252,13 +250,11 @@ It accelerates selection.
 
 It improves close rate and post acquisition integration.
 
-Execution Velocity becomes the fruit of moral order. 
+Execution Velocity becomes the fruit of moral order.
 
-## The Fifth
+The Fifth 
 
- 
-
-# Pillar I
+### Pillar I
 
 nstitutional Trust as a Byproduct of Moral Authority Institutional committees evaluate two categories.
 
@@ -302,9 +298,9 @@ The capital flows with clarity.
 
 The acquisition pipeline expands.
 
-The family office matures into a Principal grade counterparty. 
+The family office matures into a Principal grade counterparty.
 
-## The Sixth Pillar The Christian Conservative Mandate for Capital Christian conservatism is not political
+The Sixth Pillar The Christian Conservative Mandate for Capital Christian conservatism is not political
 
 .
 
@@ -348,9 +344,9 @@ It strengthens internal authority.
 
 Capital without doctrine is fragile.
 
-Capital with doctrine becomes generational. 
+Capital with doctrine becomes generational.
 
-## The Seventh Pillar The Spirit of Gnosjö in Modern Private Capital The Spirit of Gnosjö is not nostalgia
+The Seventh Pillar The Spirit of Gnosjö in Modern Private Capital The Spirit of Gnosjö is not nostalgia
 
 .
 
@@ -390,9 +386,9 @@ This is the architecture that Fund-III allocators search for.
 
 This is the architecture that family offices must restore.
 
-This is the architecture that aligns with the conservative Christian mandate. 
+This is the architecture that aligns with the conservative Christian mandate.
 
-## The Eighth Pillar Principal Identity vs Service Provider Identity Most families never transition from operator to Principal
+The Eighth Pillar Principal Identity vs Service Provider Identity Most families never transition from operator to Principal
 
 .
 
@@ -424,9 +420,9 @@ It rejects service providers disguised as owners.
 
 This distinction cannot be outsourced.
 
-It must be lived. 
+It must be lived.
 
-## The Ninth Pillar The Hardening of the House A house must be hardened
+The Ninth Pillar The Hardening of the House A house must be hardened
 
 .
 
@@ -460,9 +456,9 @@ Hardening is not defensive.
 
 Hardening is preparatory.
 
-Hardening is a sign of readiness to govern more. 
+Hardening is a sign of readiness to govern more.
 
-## The Tenth Pillar Stewardship as Testimony Stewardship is the public evidence of private conviction
+The Tenth Pillar Stewardship as Testimony Stewardship is the public evidence of private conviction
 
 .
 
@@ -484,11 +480,9 @@ A steward transfers.
 
 This is the highest expression of Christian responsibility.
 
-It is also the strongest foundation for private capital growth with integrity. 
+It is also the strongest foundation for private capital growth with integrity.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

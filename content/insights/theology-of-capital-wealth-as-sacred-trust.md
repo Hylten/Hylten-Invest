@@ -30,13 +30,9 @@ They were resource management doctrines.
 
 They created a class of European operators whose factories, family offices, and community infrastructures were built with multi-generational intent.
 
-It is critical to understand this foundation because the discipline of stewardship determines how an allocator engages opportunities across energy, manufacturing, infrastructure, and Strategic Collateralization. 
+It is critical to understand this foundation because the discipline of stewardship determines how an allocator engages opportunities across energy, manufacturing, infrastructure, and Strategic Collateralization.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -82,13 +78,9 @@ Wealth is a sacred trust, governed by responsibility that extends beyond the own
 
 The allocator who operates without this framework will always chase velocity over durability.
 
-The allocator who operates with it will understand why capital flows drift out of equilibrium and how to navigate the resulting inefficiencies. 
+The allocator who operates with it will understand why capital flows drift out of equilibrium and how to navigate the resulting inefficiencies.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -184,13 +176,9 @@ Roials Capital ensures alignment between allocator philosophy and operator disci
 
 When this alignment is calibrated correctly, the capital ecosystem behaves as an interdependent community akin to Gnosjö’s industrial tradition.
 
-Capital becomes a collaborative instrument rather than a destabilizing force. 
+Capital becomes a collaborative instrument rather than a destabilizing force.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Every decision an allocator makes reveals their theology
+THE STEWARDSHIP FILTER Every decision an allocator makes reveals their theology
 
 .
 

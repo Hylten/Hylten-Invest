@@ -14,9 +14,9 @@ It is a discipline of clarity and longevity.
 
 A form of engineering.
 
-A form of silence. 
+A form of silence.
 
-## Why Private Families Need Structural Liquidity Mechanics HNWI and UHNW families face a unique challenge
+Why Private Families Need Structural Liquidity Mechanics HNWI and UHNW families face a unique challenge
 
 .
 
@@ -40,9 +40,9 @@ Public share [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.co
 
 Crypto collateral frameworks.
 
-These mechanisms give families the same flexibility that large institutions take for granted. 
+These mechanisms give families the same flexibility that large institutions take for granted.
 
-## Strategic Applications of Collateralized Liquidity Collateral based Monetization Architecture is not an end in itself
+Strategic Applications of Collateralized Liquidity Collateral based Monetization Architecture is not an end in itself
 
 .
 
@@ -62,9 +62,9 @@ Common applications include:
 
 - Reducing reliance on traditional banking relationships These functions create continuity.
 
-Continuity is the highest form of stability. 
+Continuity is the highest form of stability.
 
-## The Minimalist Approach to Capital Engineering Minimalism is not aesthetic
+The Minimalist Approach to Capital Engineering Minimalism is not aesthetic
 
 .
 
@@ -90,9 +90,9 @@ For our clients, minimalism means:
 
 It is not designed for a quarter.
 
-It is designed for a generation. 
+It is designed for a generation.
 
-## The Long Term Horizon as a Defensive Asset Time, when paired with liquidity, becomes a defensive moat
+The Long Term Horizon as a Defensive Asset Time, when paired with liquidity, becomes a defensive moat
 
 .
 
@@ -106,9 +106,9 @@ This is how long term wealth avoids erosion.
 
 Liquidity is not a luxury.
 
-It is a shield. 
+It is a shield.
 
-## The Stewardship Equation Sovereign wealth stewardship is the intersection of three elements
+The Stewardship Equation Sovereign wealth stewardship is the intersection of three elements
 
 .
 
@@ -126,9 +126,9 @@ Time is the horizon that transforms volatility into opportunity.
 
 When these three align, wealth becomes sovereign in the truest sense.
 
-It becomes self governing and self sustaining. 
+It becomes self governing and self sustaining.
 
-## Closing Thoughts Sovereign wealth stewardship requires more than investment expertise
+Closing Thoughts Sovereign wealth stewardship requires more than investment expertise
 
 .
 

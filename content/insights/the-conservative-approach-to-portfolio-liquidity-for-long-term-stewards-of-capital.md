@@ -34,9 +34,9 @@ We support clients who understand that liquidity can be engineered without force
 
 We support those who prioritize continuity.
 
-Below is a conservative framework for approaching portfolio liquidity, designed for long-term capital stewards who value silence, structure, and discretion. 
+Below is a conservative framework for approaching portfolio liquidity, designed for long-term capital stewards who value silence, structure, and discretion.
 
-## The Role of Liquidity in Multi-Generational Planning For wealthy families, liquidity is not merely for consumption
+The Role of Liquidity in Multi-Generational Planning For wealthy families, liquidity is not merely for consumption
 
 .
 
@@ -62,9 +62,9 @@ Families preserve optionality for future stewards.
 
 They avoid structural rigidity.
 
-They maintain strategic calm. 
+They maintain strategic calm.
 
-## Conservatism as a Competitive Advantage rapid speculation, conservatism is increasingly rare
+Conservatism as a Competitive Advantage rapid speculation, conservatism is increasingly rare
 
 .
 
@@ -86,9 +86,9 @@ Over long horizons, these avoided losses become a significant competitive edge.
 
 Conservatism is not restriction.
 
-It is precision. 
+It is precision.
 
-## The Architecture of Discretionary Liquidity A sophisticated liquidity strategy does not draw attention
+The Architecture of Discretionary Liquidity A sophisticated liquidity strategy does not draw attention
 
 .
 
@@ -118,9 +118,9 @@ They are institutional mechanics applied to private wealth.
 
 They offer families a foundation that remains stable through market cycles.
 
-They turn illiquid strength into flexible capability. 
+They turn illiquid strength into flexible capability.
 
-## Maintaining Control in an Age of Market Acceleration The modern financial environment is faster than most families prefer
+Maintaining Control in an Age of Market Acceleration The modern financial environment is faster than most families prefer
 
 .
 
@@ -144,9 +144,9 @@ This is essential for multi-decade planning.
 
 Control is a luxury.
 
-Structured liquidity preserves it. 
+Structured liquidity preserves it.
 
-## Building the Liquidity Perimeter Every sophisticated portfolio requires a liquidity perimeter
+Building the Liquidity Perimeter Every sophisticated portfolio requires a liquidity perimeter
 
 .
 
@@ -178,9 +178,9 @@ They gain flexibility.
 
 They gain peace of mind.
 
-Most importantly, they maintain uninterrupted stewardship. 
+Most importantly, they maintain uninterrupted stewardship.
 
-## Liquidity as a Source of Strength During Market Dislocation During times of market stress, liquidity becomes the dividing line between those who maintain their strategy and those who lose it
+Liquidity as a Source of Strength During Market Dislocation During times of market stress, liquidity becomes the dividing line between those who maintain their strategy and those who lose it
 
 .
 
@@ -200,9 +200,9 @@ They do not participate in panic.
 
 They stay long-term when others become short-term.
 
-This is the quiet power of a conservative liquidity strategy. 
+This is the quiet power of a conservative liquidity strategy.
 
-## The Hyltén Invest Approach to Capital Stewardship Our philosophy is simple
+The Hyltén Invest Approach to Capital Stewardship Our philosophy is simple
 
 .
 
@@ -222,9 +222,9 @@ We serve families who prefer precision over spectacle.
 
 We build liquidity architectures that reinforce the strength of the portfolio rather than dilute it.
 
-This is our contribution to long-term stewardship. 
+This is our contribution to long-term stewardship.
 
-## Closing Perspective Liquidity is not a short-term convenience
+Closing Perspective Liquidity is not a short-term convenience
 
 .
 

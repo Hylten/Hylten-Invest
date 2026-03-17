@@ -30,9 +30,9 @@ Quietly.
 
 Deliberately.
 
-At institutional depth and with private family discretion. 
+At institutional depth and with private family discretion.
 
-## The Purpose of Private Credit in Legacy Preservation Private credit has matured far beyond the opportunistic Asset-Backed Frameworks structures that defined the early years of the market
+The Purpose of Private Credit in Legacy Preservation Private credit has matured far beyond the opportunistic Asset-Backed Frameworks structures that defined the early years of the market
 
 .
 
@@ -56,9 +56,9 @@ It supports intergenerational transitions.
 
 It reduces forced sales.
 
-It slows the portfolio down in a world that pushes everything to move faster. 
+It slows the portfolio down in a world that pushes everything to move faster.
 
-## Asset-Based Strategic Collateralization, A Counterpoint to Volatility Asset Based Institutional Liquidity Paths, Asset-Based Lending, is the quiet counterweight to market-driven liquidity strategies
+Asset-Based Strategic Collateralization, A Counterpoint to Volatility Asset Based Institutional Liquidity Paths, Asset-Based Lending, is the quiet counterweight to market-driven liquidity strategies
 
 .
 
@@ -82,9 +82,9 @@ No unnecessary structuring.
 
 No complexity for the sake of sophistication.
 
-Just stability, clarity, and durability. 
+Just stability, clarity, and durability.
 
-## Why Families Choose Asset-Based Lending Over Asset Disposal HNWI and UHNW families rarely sell assets because they want to
+Why Families Choose Asset-Based Lending Over Asset Disposal HNWI and UHNW families rarely sell assets because they want to
 
 .
 
@@ -104,9 +104,9 @@ Liquidity is obtained without compromising strategic legacy holdings.
 
 Private credit does not replace asset management.
 
-It strengthens it. 
+It strengthens it.
 
-## Structural Mechanics for Institutional Capital Hyltén Invest operates with principal authority
+Structural Mechanics for Institutional Capital Hyltén Invest operates with principal authority
 
 .
 
@@ -122,9 +122,9 @@ We specialize in delivering the infrastructure that institutional capital requir
 
 This is a balance few lenders manage.
 
-It is a balance we have built our identity on. 
+It is a balance we have built our identity on.
 
-## The Growing Role of Private Credit in Family Offices Family offices worldwide have increased their exposure to private credit
+The Growing Role of Private Credit in Family Offices Family offices worldwide have increased their exposure to private credit
 
 .
 
@@ -162,9 +162,9 @@ Preserve.
 
 Protect.
 
-Continue. 
+Continue.
 
-## Capital Structuring Against Private Credit and Asset-Based Lending at Hyltén Invest Our framework is intentionally minimal
+Capital Structuring Against Private Credit and Asset-Based Lending at Hyltén Invest Our framework is intentionally minimal
 
 .
 
@@ -186,9 +186,9 @@ Each engagement is built around a long-term arc rather than a short-term perform
 
 Our clients do not need speed.
 
-They need precision. 
+They need precision.
 
-## Crypto Asset-Backed Frameworks for Institutional-Grade Holders Digital assets have reached the point of institutional seriousness
+Crypto Asset-Backed Frameworks for Institutional-Grade Holders Digital assets have reached the point of institutional seriousness
 
 .
 
@@ -216,9 +216,9 @@ It is conservative.
 
 It is overcollateralized.
 
-It is designed for families who think one or two cycles ahead, not one or two weeks. 
+It is designed for families who think one or two cycles ahead, not one or two weeks.
 
-## Public Share Institutional Liquidity Paths for Structured Liquidity Public equities often hold substantial sentimental and strategic value in a family portfolio
+Public Share Institutional Liquidity Paths for Structured Liquidity Public equities often hold substantial sentimental and strategic value in a family portfolio
 
 .
 
@@ -240,9 +240,7 @@ We allow reallocation without divestment.
 
 We preserve continuity while creating flexibility.
 
-Families choose this structure when they need capital but refuse to compromise the integrity of their long-term holdings. 
-
-## principal authority as a Strategic Advantage HNWI and UHNW families seek infrastructure, not noise
+Families choose this structure when they need capital but refuse to compromise the integrity of their long-term holdings. principal authority as a Strategic Advantage HNWI and UHNW families seek infrastructure, not noise
 
 .
 
@@ -258,9 +256,9 @@ We engage institutional partners without diminishing the privacy of the families
 
 Our clients remain unseen.
 
-But their structures remain strong. 
+But their structures remain strong.
 
-## Protecting Multi-Generational Assets Through Stability Legacy assets are rarely about performance
+Protecting Multi-Generational Assets Through Stability Legacy assets are rarely about performance
 
 .
 
@@ -286,9 +284,9 @@ Stability becomes a form of protection.
 
 Protection becomes a form of respect for the generations that built the foundation.
 
-And respect becomes a responsibility to the generations that will inherit it. 
+And respect becomes a responsibility to the generations that will inherit it.
 
-## Why Legacy Families Choose Hyltén Invest Clients choose Hyltén Invest for reasons that rarely appear in standard marketing narratives
+Why Legacy Families Choose Hyltén Invest Clients choose Hyltén Invest for reasons that rarely appear in standard marketing narratives
 
 .
 
@@ -318,9 +316,9 @@ We are built for families who value:
 
 It is not for everyone.
 
-It is exactly for the clients we serve. 
+It is exactly for the clients we serve.
 
-## The Future of Private Credit for Family Wealth The next decades will likely produce more volatility, more regulation, and more unpredictable liquidity cycles
+The Future of Private Credit for Family Wealth The next decades will likely produce more volatility, more regulation, and more unpredictable liquidity cycles
 
 .
 

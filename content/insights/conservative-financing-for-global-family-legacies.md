@@ -88,7 +88,7 @@ Capital deployed carefully, patiently, sacrificially.
 
 The institutional challenge arises when such families 
 
-# Step I
+### Step I
 
 nto global domains where velocity overrides wisdom, and leverage overshadows prudence.
 
@@ -384,7 +384,7 @@ Continuity is the highest form of conservative finance.
 
 When one 
 
-# Layer I: s pressured, another layer shields
+### Layer I: s pressured, another layer shields
 
 .
 

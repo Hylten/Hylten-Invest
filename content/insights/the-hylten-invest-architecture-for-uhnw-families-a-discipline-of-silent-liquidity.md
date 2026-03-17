@@ -36,11 +36,9 @@ Our stance is conservative.
 
 Our presence is discreet.
 
-Our mandate is generational. 
+Our mandate is generational.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

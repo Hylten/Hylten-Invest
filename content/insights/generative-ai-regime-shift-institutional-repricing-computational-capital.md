@@ -22,13 +22,9 @@ This briefing defines the structural regime shift, the operational mechanics of 
 
 The lens is technical, grounded in the Nordic discipline of industrial stewardship and the Spirit of Gnosjö, where capital is treated as vocation rather than spectacle.
 
-The objective is clarity that enables calibrated institutional decision making. 
+The objective is clarity that enables calibrated institutional decision making.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -86,13 +82,9 @@ Institutional misalignment Traditional equity risk frameworks are not designed f
 
 This is not a technology cycle.
 
-It is an industrial realignment that merges compute, grid architecture, and data sovereignty into a single capital marketplace. 
+It is an industrial realignment that merges compute, grid architecture, and data sovereignty into a single capital marketplace.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -262,13 +254,9 @@ Each
 
 Generative AI requires curation.
 
-Unfiltered exposure introduces unacceptable model drift, counterparty risk, and operational fragility. 
+Unfiltered exposure introduces unacceptable model drift, counterparty risk, and operational fragility.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a marketing term
+THE STEWARDSHIP FILTER Stewardship is not a marketing term
 
 .
 

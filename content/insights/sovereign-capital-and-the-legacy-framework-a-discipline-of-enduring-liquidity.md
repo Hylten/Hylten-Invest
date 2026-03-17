@@ -26,9 +26,9 @@ Hyltén Invest operates inside this long horizon.
 
 We focus on private credit and asset based Monetization Architecture structures that serve one function: to deliver strategic liquidity without eroding ownership or long-term positioning.
 
-This is the foundation of what we call the Legacy Framework. 
+This is the foundation of what we call the Legacy Framework.
 
-## The Nature of Sovereign Capital Sovereign capital is not merely large capital
+The Nature of Sovereign Capital Sovereign capital is not merely large capital
 
 .
 
@@ -52,9 +52,9 @@ A partner that does not impose velocity for the sake of activity.
 
 A partner that maintains principal authority: a structural presence rather than a spotlight.
 
-Hyltén Invest exists in that silence. 
+Hyltén Invest exists in that silence.
 
-## Private Credit as a Controlled Liquidity Engine Private credit has grown into the central architecture of modern wealth strategy for families who prefer control over uncertainty
+Private Credit as a Controlled Liquidity Engine Private credit has grown into the central architecture of modern wealth strategy for families who prefer control over uncertainty
 
 .
 
@@ -76,9 +76,9 @@ Hyltén Invest is specialized in this exact mechanism.
 
 We lend against private credit exposures and asset-based structures for the purpose of strategic liquidity.
 
-This preserves the integrity of the client’s existing allocations while unlocking capital in a disciplined, non-reactive manner. 
+This preserves the integrity of the client’s existing allocations while unlocking capital in a disciplined, non-reactive manner.
 
-## Asset Based Strategic Collateralization in a Sovereign Context Asset Based Capital Structuring, Asset-Based Lending, is one of the oldest financial mechanisms in history
+Asset Based Strategic Collateralization in a Sovereign Context Asset Based Capital Structuring, Asset-Based Lending, is one of the oldest financial mechanisms in history
 
 .
 
@@ -102,9 +102,9 @@ It protects the integrity of long-term objectives.
 
 It provides operational grace during uncertain periods.
 
-It reinforces the quiet authority that sovereign capital is known for. 
+It reinforces the quiet authority that sovereign capital is known for.
 
-## Crypto Capital Structuring for Institutional‑Grade Holders Digital assets have evolved from speculative instruments into institutional collateral
+Crypto Capital Structuring for Institutional‑Grade Holders Digital assets have evolved from speculative instruments into institutional collateral
 
 .
 
@@ -120,7 +120,7 @@ Positions are large enough to integrate into structured collateral frameworks.
 
 For UHNW clients, crypto Strategic Collateralization becomes another 
 
-# Pillar I: n the multi‑asset liquidity architecture
+### Pillar I: n the multi‑asset liquidity architecture
 
 .
 
@@ -128,9 +128,9 @@ It provides an additional buffer of capital without requiring divestment from lo
 
 It also offers an alternative liquidity path distinct from traditional financial systems.
 
-This redundancy is a hallmark of the sovereign approach. 
+This redundancy is a hallmark of the sovereign approach.
 
-## Public Share Strategic Collateralization for Strategic Investors Public equity holdings often represent some of the most valuable positions in a client’s portfolio
+Public Share Strategic Collateralization for Strategic Investors Public equity holdings often represent some of the most valuable positions in a client’s portfolio
 
 .
 
@@ -146,9 +146,7 @@ Public share Institutional Liquidity Paths within the Legacy Framework is not us
 
 It is used for liquidity deployment, acquisition strategies, defensive capital buffers, and long-term planning.
 
-It keeps the client in control of their capital narrative. 
-
-## principal authority and the F‑Hierarchical Dynamics In private wealth structures, authority is often expressed loudly
+It keeps the client in control of their capital narrative. principal authority and the F‑Hierarchical Dynamics In private wealth structures, authority is often expressed loudly
 
 .
 
@@ -176,9 +174,9 @@ It is measured by the precision with which we support the capital structures of 
 
 principal authority is not absence.
 
-It is intentional presence. 
+It is intentional presence.
 
-## The Legacy Framework: A Model for Multi‑Generational Liquidity Legacy requires architecture
+The Legacy Framework: A Model for Multi‑Generational Liquidity Legacy requires architecture
 
 .
 
@@ -216,9 +214,9 @@ They protect the lineage of their holdings.
 
 They maintain structural autonomy.
 
-They avoid the decay that occurs when wealth becomes reactive instead of strategic. 
+They avoid the decay that occurs when wealth becomes reactive instead of strategic.
 
-## Applying the Framework: Practical Scenarios for HNWI and UHNW Families The value of the Legacy Framework becomes visible in real scenarios
+Applying the Framework: Practical Scenarios for HNWI and UHNW Families The value of the Legacy Framework becomes visible in real scenarios
 
 .
 
@@ -234,9 +232,9 @@ A multi‑generational family office can establish layered liquidity lines for o
 
 These are not theoretical benefits.
 
-They are the daily reality for clients who choose a sovereign approach to wealth. 
+They are the daily reality for clients who choose a sovereign approach to wealth.
 
-## The Discipline of Minimalism in Capital Strategy Minimalism is not the absence of complexity
+The Discipline of Minimalism in Capital Strategy Minimalism is not the absence of complexity
 
 .
 
@@ -260,9 +258,9 @@ We support leverage for stability, opportunity, and protection.
 
 Minimalism in capital is a sign of maturity.
 
-It is the hallmark of families that intend to endure. 
+It is the hallmark of families that intend to endure.
 
-## Liquidity as a Strategic Asset Liquidity is often misunderstood as cash
+Liquidity as a Strategic Asset Liquidity is often misunderstood as cash
 
 .
 
@@ -286,9 +284,9 @@ It allows the family to remain still when the market is chaotic.
 
 It protects the internal narrative from external forces.
 
-This is the essence of the Legacy Framework. 
+This is the essence of the Legacy Framework.
 
-## Long-Term Stewardship as Identity Hyltén Invest is not built for short-term participants
+Long-Term Stewardship as Identity Hyltén Invest is not built for short-term participants
 
 .
 
@@ -314,9 +312,9 @@ It ensures maturity.
 
 It ensures that our ecosystem remains aligned with long-term thinking.
 
-We are selective because the families we serve are selective. 
+We are selective because the families we serve are selective.
 
-## Closing Perspective: The Quiet Strength of Structure In a world driven by speed, visibility, and constant noise, sovereign capital moves slowly, intentionally, and silently
+Closing Perspective: The Quiet Strength of Structure In a world driven by speed, visibility, and constant noise, sovereign capital moves slowly, intentionally, and silently
 
 .
 

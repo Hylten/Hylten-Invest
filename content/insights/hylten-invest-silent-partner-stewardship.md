@@ -12,7 +12,7 @@ It is the result of regulatory overreach, capital migration patterns, and the in
 
 Into this vacuum 
 
-# Step D: I
+### Step D: I
 
 sciplined operators, technical specialists, and families with a deep comprehension of stewardship as a governing principle rather than a branding device.
 
@@ -36,9 +36,9 @@ Its relevance is defined by its alignment with a legacy of responsibility. **Pro
 
 The inheritance referenced is not limited to assets.
 
-It refers to the discipline required to build, defend, and transmit an ecosystem that allocates capital with purpose rather than appetite.
+It refers to the discipline required to build, defend, and transmit an ecosystem that allocates capital with purpose rather than appetite. 
 
-# Phase I: - ## THE REGIME SHIF
+### Phase I: - ## THE REGIME SHIF
 
 T
 
@@ -82,9 +82,9 @@ It does not attempt to replace the scale of institutional allocators.
 
 Instead, it serves as a stabilizing anchor that evaluates whether the moral and technical architecture of an operator is sound.
 
-When the architecture holds, strategic introductions can then be executed with purpose.
+When the architecture holds, strategic introductions can then be executed with purpose. 
 
-# Phase II: - ## TECHNICAL MECHANIC
+### Phase II: - ## TECHNICAL MECHANIC
 
 S
 
@@ -130,9 +130,9 @@ A stewardship-driven allocator does not search for asymmetrical risk profiles.
 
 Instead, it verifies whether the operator respects the natural constraints of the reservoir, deploys capital proportionally, and structures liabilities responsibly.
 
-This is balance-sheet ethics applied to industrial environments.
+This is balance-sheet ethics applied to industrial environments. 
 
-# Phase II: I
+### Phase II: I
 
 - THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator.
 
@@ -166,9 +166,9 @@ It protects the allocator from single-source bias and ensures that any
 
  INTRODUCTION
 
- or alignment is grounded in both operational realism and moral clarity.
+ or alignment is grounded in both operational realism and moral clarity. 
 
-# Phase IV: - THE STEWARDSHIP FILTER Stewardship is not a metaphor
+### Phase IV: - THE STEWARDSHIP FILTER Stewardship is not a metaphor
 
 .
 
@@ -227,9 +227,9 @@ These filters are applied before any strategic
 
 They ensure that capital flows into environments where moral stability supports operational stability.
 
-Without this integration, the allocator inherits risk that no financial structure can mitigate.
+Without this integration, the allocator inherits risk that no financial structure can mitigate. 
 
-# Phase V
+### Phase V
 
 - THE DECISION-MAKING LENS For UHNWIs, institutional LPs, and family investment offices, the primary question is not exposure to energy or industrial assets.
 

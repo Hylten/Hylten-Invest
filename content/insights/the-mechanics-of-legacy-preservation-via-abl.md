@@ -26,9 +26,9 @@ It is where liquidity is engineered, not requested.
 
 It is where assets are made productive without being liquidated.
 
-It is where stewardship replaces speculation. 
+It is where stewardship replaces speculation.
 
-## The Principle of principal authority Hyltén Invest positions itself not as a public figure, but as the structural partner behind serious capital
+The Principle of principal authority Hyltén Invest positions itself not as a public figure, but as the structural partner behind serious capital
 
 .
 
@@ -50,9 +50,9 @@ We support institutional scale decisions without requiring institutional bureauc
 
 principal authority is the domain of those who build for decades, not quarters.
 
-Our role is to fortify that path. 
+Our role is to fortify that path.
 
-## Engineering Liquidity Without Signalling One of the greatest risks for UHNW individuals is the visibility of their moves
+Engineering Liquidity Without Signalling One of the greatest risks for UHNW individuals is the visibility of their moves
 
 .
 
@@ -74,9 +74,9 @@ The strategy remains intact.
 
 The narrative remains unchanged.
 
-This is crucial for families who value stability, privacy, and continuity. 
+This is crucial for families who value stability, privacy, and continuity.
 
-## Asset-Based Lending as a Multi-Generational Tool A well-structured Institutional Liquidity Paths line becomes part of the family office architecture
+Asset-Based Lending as a Multi-Generational Tool A well-structured Institutional Liquidity Paths line becomes part of the family office architecture
 
 .
 
@@ -102,9 +102,9 @@ They can maintain their identity as stewards rather than traders.
 
 Asset-Based Lending gives the family the ability to say no when markets demand yes.
 
-And to say yes when opportunities require immediate action. 
+And to say yes when opportunities require immediate action.
 
-## The Minimalist Approach to Credit Minimalism in wealth management does not mean doing less
+The Minimalist Approach to Credit Minimalism in wealth management does not mean doing less
 
 .
 
@@ -134,9 +134,9 @@ This preserves cognitive bandwidth.
 
 It reduces administrative drag.
 
-It protects focus on the generational mission. 
+It protects focus on the generational mission.
 
-## The Future of Legacy Preservation The next decades will challenge traditional wealth frameworks
+The Future of Legacy Preservation The next decades will challenge traditional wealth frameworks
 
 .
 
@@ -160,9 +160,9 @@ We provide the mechanics.
 
 Families provide the vision.
 
-Together, legacy is preserved. 
+Together, legacy is preserved.
 
-## A Closing Note on Stewardship Stewardship is not a strategy
+A Closing Note on Stewardship Stewardship is not a strategy
 
 .
 

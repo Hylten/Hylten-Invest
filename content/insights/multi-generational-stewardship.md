@@ -26,9 +26,9 @@ It protects momentum.
 
 It reduces conflict.
 
-Intergenerational alignment is created through education, shared principles, and intentional transfer of responsibility over time. 
+Intergenerational alignment is created through education, shared principles, and intentional transfer of responsibility over time.
 
-## Designing a Multi Generational Capital Strategy A long term capital strategy is not built around predictions
+Designing a Multi Generational Capital Strategy A long term capital strategy is not built around predictions
 
 .
 
@@ -42,7 +42,7 @@ Interest rate cycles come and go.
 
 Principles remain.
 
-## Core components of the long horizon strategy
+Core components of the long horizon strategy
 
  
 
@@ -66,15 +66,15 @@ These components create a resilient foundation.
 
 They reduce the need for reactive behavior.
 
-They support long term compounding. 
+They support long term compounding.
 
-## Stewardship of Non Financial Assets Multi generational stewardship extends beyond capital
+Stewardship of Non Financial Assets Multi generational stewardship extends beyond capital
 
 .
 
 A family with a century long vision must steward culture, reputation, relationships, and knowledge.
 
-## Cultural Stewardship Culture determines behavior in moments of uncertainty
+Cultural Stewardship Culture determines behavior in moments of uncertainty
 
 .
 
@@ -86,7 +86,7 @@ It is consistent.
 
 It is stable.
 
-## Reputation Stewardship Reputation compounds faster than capital and can be destroyed faster as well
+Reputation Stewardship Reputation compounds faster than capital and can be destroyed faster as well
 
 .
 
@@ -98,7 +98,7 @@ It favors substance over visibility.
 
 Presence over noise.
 
-## Knowledge Stewardship Every generation gathers insights
+Knowledge Stewardship Every generation gathers insights
 
 .
 
@@ -108,9 +108,9 @@ This creates continuity.
 
 It reduces the learning curve for successors.
 
-It builds internal wisdom. 
+It builds internal wisdom.
 
-## The Value of Minimalism in Multi Generational Strategy Minimalism is often misunderstood
+The Value of Minimalism in Multi Generational Strategy Minimalism is often misunderstood
 
 .
 
@@ -130,9 +130,9 @@ Minimalism supports clarity.
 
 Clarity supports longevity.
 
-Longevity supports compounding. 
+Longevity supports compounding.
 
-## The Role of Conservative Decision Making Conservatism in stewardship is not static
+The Role of Conservative Decision Making Conservatism in stewardship is not static
 
 .
 
@@ -152,9 +152,9 @@ They move with awareness of second order consequences.
 
 Conservative decision making is not slow.
 
-It is precise. 
+It is precise.
 
-## Governance That Endures Governance is the engine that preserves family continuity
+Governance That Endures Governance is the engine that preserves family continuity
 
 .
 
@@ -162,7 +162,7 @@ Without structure, emotion dominates.
 
 With structure, decisions become predictable.
 
-## Effective governance includes
+Effective governance includes
 
  
 
@@ -186,9 +186,9 @@ Good governance does not constrain.
 
 It liberates.
 
-It creates stability so each member can act with clarity and confidence. 
+It creates stability so each member can act with clarity and confidence.
 
-## Preparing the Next Generation A legacy is not something given
+Preparing the Next Generation A legacy is not something given
 
 .
 
@@ -202,9 +202,9 @@ Preparation involves education, gradual responsibility transfer, and exposure to
 
 It includes developing judgment, not only knowledge.
 
-When the next generation understands both the privilege and the responsibility of stewardship, continuity becomes natural. 
+When the next generation understands both the privilege and the responsibility of stewardship, continuity becomes natural.
 
-## The Power of Long Term Compounding Stewardship amplifies compounding
+The Power of Long Term Compounding Stewardship amplifies compounding
 
 .
 
@@ -216,9 +216,9 @@ The mathematics of compounding becomes transformative only across long periods.
 
 Families that protect capital and reinvest systematically experience growth that appears slow in the short term and extraordinary in the long term.
 
-The steward understands that time is the most valuable asset. 
+The steward understands that time is the most valuable asset.
 
-## Resilience in the Face of Uncertainty Uncertainty is a constant
+Resilience in the Face of Uncertainty Uncertainty is a constant
 
 .
 
@@ -232,9 +232,9 @@ Resilience requires liquidity, diversification, conservative leverage, and psych
 
 The objective is not to predict the future.
 
-It is to withstand it. 
+It is to withstand it.
 
-## The Discipline of Quiet Strength True multi generational wealth is quiet
+The Discipline of Quiet Strength True multi generational wealth is quiet
 
 .
 
@@ -258,11 +258,9 @@ It is consistent.
 
 It is purpose driven.
 
-This is the style of Hylten Invest. 
+This is the style of Hylten Invest.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

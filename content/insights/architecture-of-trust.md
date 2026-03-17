@@ -34,13 +34,9 @@ My framework is shaped by the industrial pietism of Småland, the Spirit of Gnos
 
 Capital is inherited responsibility before it becomes deployed authority.
 
-What follows is an institutional briefing on the architecture of trust as a capital regime, a structural mechanic, and a stewardship mandate. 
+What follows is an institutional briefing on the architecture of trust as a capital regime, a structural mechanic, and a stewardship mandate.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -108,13 +104,9 @@ This creates opportunity for investors with a generational mandate.
 
 Stewardship is a long horizon asset.
 
-The market treats it as a non-existent variable. 
+The market treats it as a non-existent variable.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -181,11 +173,9 @@ They permit managerial entropy to contaminate capital efficiency.
 
 Trust, when architected, removes friction.
 
-This is its technical purpose. 
+This is its technical purpose.
 
- 
-
-## THE
+THE
 
  
 
@@ -255,13 +245,9 @@ Liquidity generates opportunity flow.
 
 Opportunity flow compounds generational wealth.
 
-This is the institutional flywheel. 
+This is the institutional flywheel.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER I am often asked why theology enters an institutional conversation
+THE STEWARDSHIP FILTER I am often asked why theology enters an institutional conversation
 
 .
 

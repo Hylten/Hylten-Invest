@@ -24,13 +24,9 @@ It translates ethical industrialism into capital architecture, and it offers ins
 
 The purpose is not persuasion.
 
-It is calibration. 
+It is calibration.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -86,13 +82,9 @@ A fortune is not the accomplishment of a lifetime.
 
 It is the obligation of a lineage.
 
-This ethical foundation translates directly into sovereign wealth mechanics. 
+This ethical foundation translates directly into sovereign wealth mechanics.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -188,13 +180,9 @@ Roials Capital serves as the translator between the sovereign allocator and the 
 
 This partnership model is essential for sovereign entities that require accurate assessment of operational realities without assuming operational liability.
 
-The sovereign allocator protects its balance sheet while gaining access to calibrated ground truth. 
+The sovereign allocator protects its balance sheet while gaining access to calibrated ground truth.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The ethical dimension of capital is not rhetorical
+THE STEWARDSHIP FILTER The ethical dimension of capital is not rhetorical
 
 .
 

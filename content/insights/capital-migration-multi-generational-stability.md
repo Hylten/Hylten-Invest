@@ -24,13 +24,9 @@ It outlines the macro regime shift, the
 
 The intent is not promotion.
 
-The intent is institutional clarity for allocators who manage the burdens and privileges associated with enduring family capital. 
+The intent is institutional clarity for allocators who manage the burdens and privileges associated with enduring family capital.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -70,13 +66,9 @@ European capital has historically sought stability through diversification and f
 
 In the current regime, those instruments exhibit duration risk, counterparty fragility, and policy intervention vulnerability.
 
-Real asset backed exposures, governed by subsurface physics rather than political cycles, offer a different stability vector. 
+Real asset backed exposures, governed by subsurface physics rather than political cycles, offer a different stability vector.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -174,13 +166,9 @@ NAEO operationalizes them.
 
 The partnership model is built on discipline.
 
-It avoids speculation, minimizes operational surprises, and reinforces the principle that capital, when strategically aligned with real world assets, becomes resilient. 
+It avoids speculation, minimizes operational surprises, and reinforces the principle that capital, when strategically aligned with real world assets, becomes resilient.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not sentiment
+THE STEWARDSHIP FILTER Stewardship is not sentiment
 
 .
 

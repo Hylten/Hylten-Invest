@@ -338,7 +338,7 @@ Through Fund‑III design principles-hard collateral, predictable tenor, jurisdi
 
 A central 
 
-# Pillar I: s psychological durability
+### Pillar I: s psychological durability
 
 .
 
@@ -434,7 +434,7 @@ Architect.
 
 Principal authority.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

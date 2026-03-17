@@ -12,13 +12,9 @@ The issue is not asset scarcity but a deficit of disciplined operators capable o
 
 Counter-Intuitive Truth: In 2026, the most resilient capital outcomes emerge from environments where stewardship is treated as a moral calling rather than a financial tactic.
 
-Nordic industrialists understood this long before contemporary asset managers began referencing sustainability as a theme rather than a discipline. 
+Nordic industrialists understood this long before contemporary asset managers began referencing sustainability as a theme rather than a discipline.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -54,13 +50,9 @@ Waste is a breach of duty.
 
 When mapped onto contemporary allocation frameworks, this principle becomes a competitive differentiator.
 
-It delivers durability in cycles where capital volume no longer guarantees advantage. 
+It delivers durability in cycles where capital volume no longer guarantees advantage.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -194,13 +186,9 @@ The partnership model focuses on navigation rather than promotion.
 
 It identifies where stewardship-driven operations intersect with capital structures that benefit from predictable production, disciplined cost management, and hardened asset bases.
 
-It provides allocators with an interpretive lens to evaluate operating partners, field performance architectures, and risk-adjusted opportunity sets. 
+It provides allocators with an interpretive lens to evaluate operating partners, field performance architectures, and risk-adjusted opportunity sets.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The stewardship filter is an evaluative framework that determines whether an operator, asset, or capital structure is aligned with responsible resource management
+THE STEWARDSHIP FILTER The stewardship filter is an evaluative framework that determines whether an operator, asset, or capital structure is aligned with responsible resource management
 
 .
 

@@ -40,9 +40,9 @@ We offer public share Asset-Backed Frameworks with a minimum threshold of
 
 Our clients operate silently.
 
-Our structures mirror that silence. 
+Our structures mirror that silence.
 
-## Asset Based Asset-Backed Frameworks as a Long Term Stewardship Tool Asset Based Institutional Liquidity Paths, often misunderstood as tactical, is in fact a long term stewardship mechanism for families with significant private holdings
+Asset Based Asset-Backed Frameworks as a Long Term Stewardship Tool Asset Based Institutional Liquidity Paths, often misunderstood as tactical, is in fact a long term stewardship mechanism for families with significant private holdings
 
 .
 
@@ -66,9 +66,9 @@ For families and private offices, this provides predictable liquidity without co
 
 This conservatism is intentional.
 
-Long term wealth demands disciplined frameworks rather than aggressive capital extraction. 
+Long term wealth demands disciplined frameworks rather than aggressive capital extraction.
 
-## The Digital Layer: Crypto Asset-Backed Frameworks with Institutional Structure Digital assets occupy a unique place in hybrid portfolios
+The Digital Layer: Crypto Asset-Backed Frameworks with Institutional Structure Digital assets occupy a unique place in hybrid portfolios
 
 .
 
@@ -99,9 +99,9 @@ Minimum mandate depth: $5M+ target size.
 
 It preserves long term holdings while enabling short term action.
 
-This approach treats digital assets as a mature collateral category rather than a speculative asset. 
+This approach treats digital assets as a mature collateral category rather than a speculative asset.
 
-## Public Share Institutional Liquidity Paths at Scale Equities remain a core pillar of long term wealth
+Public Share Institutional Liquidity Paths at Scale Equities remain a core pillar of long term wealth
 
 .
 
@@ -130,9 +130,9 @@ Public share Capital Structuring allows families to remain invested while Access
 
 Minimum mandate depth: $5M+ target size.
 
-The result is flexibility without erosion of core positions. 
+The result is flexibility without erosion of core positions.
 
-## Why Hybrid Stewardship Matters for Generational Capital Generational wealth is not built through short cycles
+Why Hybrid Stewardship Matters for Generational Capital Generational wealth is not built through short cycles
 
 .
 
@@ -162,9 +162,9 @@ This layered architecture allows families to:
 
 - Operate across several economic regimes.
 
-Stewardship becomes a process of balancing flows rather than chasing returns. 
+Stewardship becomes a process of balancing flows rather than chasing returns.
 
-## Structural Precision Over Market Narratives Modern markets amplify noise
+Structural Precision Over Market Narratives Modern markets amplify noise
 
 .
 
@@ -180,9 +180,9 @@ They support long term strategy rather than market timing.
 
 They provide stability even when markets oscillate.
 
-This is essential for families who measure success in decades rather than quarters. 
+This is essential for families who measure success in decades rather than quarters.
 
-## Liquidity as a Strategic Asset Liquidity is often misunderstood as a byproduct
+Liquidity as a Strategic Asset Liquidity is often misunderstood as a byproduct
 
 .
 
@@ -206,9 +206,9 @@ Public shares.
 
 Each of these channels provides a different form of liquidity with its own cycle, cost, and timeline.
 
-The synthesis of these channels creates a liquidity layer that is resilient and adaptive. 
+The synthesis of these channels creates a liquidity layer that is resilient and adaptive.
 
-## Reducing Portfolio Fragility Fragility appears when portfolios rely on a single liquidity source
+Reducing Portfolio Fragility Fragility appears when portfolios rely on a single liquidity source
 
 .
 
@@ -232,9 +232,9 @@ Each channel supports the others.
 
 The portfolio becomes multidimensional.
 
-Market conditions lose their ability to dictate actions. 
+Market conditions lose their ability to dictate actions.
 
-## The Role of Stewardship in an Era of Complexity As asset classes diversify, the complexity of managing them increases
+The Role of Stewardship in an Era of Complexity As asset classes diversify, the complexity of managing them increases
 
 .
 
@@ -258,9 +258,9 @@ Not as a public presence.
 
 Not as a marketing engine.
 
-As a technical partner for families that require silent, stable, long term mechanics. 
+As a technical partner for families that require silent, stable, long term mechanics.
 
-## Designing for Longevity True longevity is created through
+Designing for Longevity True longevity is created through
 
 :
 
@@ -280,9 +280,9 @@ Hybrid portfolios deliver these qualities.
 
 They evolve as markets evolve while remaining grounded in tradition.
 
-They hold space for digital alpha without compromising the historical foundations of wealth. 
+They hold space for digital alpha without compromising the historical foundations of wealth.
 
-## The Next Era of Wealth Architecture The coming decade will not be defined by a binary choice between traditional finance and digital assets
+The Next Era of Wealth Architecture The coming decade will not be defined by a binary choice between traditional finance and digital assets
 
 .
 

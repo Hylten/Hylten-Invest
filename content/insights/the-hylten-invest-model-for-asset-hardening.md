@@ -16,9 +16,9 @@ The Hylten Invest Model for Asset Hardening is designed for this exact environme
 
 It is minimalist in appearance and conservative in execution.
 
-Behind the surface, it is engineered to institutional standards, positioned with principal authority, and delivered through a disciplined approach to private credit and asset based Asset-Backed Frameworks. 
+Behind the surface, it is engineered to institutional standards, positioned with principal authority, and delivered through a disciplined approach to private credit and asset based Asset-Backed Frameworks.
 
-## Liquidity Without Distortion Liquidity should not distort the underlying asset
+Liquidity Without Distortion Liquidity should not distort the underlying asset
 
 .
 
@@ -34,9 +34,9 @@ The intention is simple.
 
 The client determines direction.
 
-Liquidity follows that direction without altering it. 
+Liquidity follows that direction without altering it.
 
-## Stewardship for Multi Generational Capital The clients who engage with Hylten Invest often operate across multiple time horizons
+Stewardship for Multi Generational Capital The clients who engage with Hylten Invest often operate across multiple time horizons
 
 .
 
@@ -60,9 +60,9 @@ Stewardship is at the core of our model.
 
 Not in a symbolic sense, but in a practical one.
 
-We design structures that survive transitions, market cycles, and changes in strategic intent. 
+We design structures that survive transitions, market cycles, and changes in strategic intent.
 
-## The Structural Mechanics Behind the Model The internal mechanics of the Hylten Invest Model are built to align with institutional standards, without adopting institutional rigidity
+The Structural Mechanics Behind the Model The internal mechanics of the Hylten Invest Model are built to align with institutional standards, without adopting institutional rigidity
 
 .
 
@@ -78,9 +78,9 @@ Risk frameworks that prioritize long term strength over short term leverage.
 
 The result is a model that is both quiet and strong.
 
-It supports decisive action while maintaining balance sheet integrity. 
+It supports decisive action while maintaining balance sheet integrity.
 
-## The Importance of Minimalism in Financial Structure Minimalism is not aesthetic
+The Importance of Minimalism in Financial Structure Minimalism is not aesthetic
 
 .
 
@@ -98,9 +98,9 @@ Decisions can be evaluated without noise.
 
 The balance sheet remains legible.
 
-This minimalist discipline guides all components of the Hylten Invest Model. 
+This minimalist discipline guides all components of the Hylten Invest Model.
 
-## The Role of Discipline in Capital Structuring Relationships Discipline protects both sides of the relationship
+The Role of Discipline in Capital Structuring Relationships Discipline protects both sides of the relationship
 
 .
 
@@ -116,9 +116,9 @@ We assess whether the liquidity request supports or undermines the client’s st
 
 If it strengthens the trajectory, we proceed.
 
-If it weakens the trajectory, we do not. 
+If it weakens the trajectory, we do not.
 
-## Asset Hardening as an Ongoing Process Asset hardening is not a single event
+Asset Hardening as an Ongoing Process Asset hardening is not a single event
 
 .
 
@@ -134,9 +134,9 @@ Because of this, structures must retain both strength and adaptability.
 
 Hylten Invest reviews structures with clients on a periodic basis, ensuring that the asset base remains reinforced and the liquidity channels remain aligned with the current phase of the client’s planning.
 
-This long view is what allows our clients to navigate across cycles with stability. 
+This long view is what allows our clients to navigate across cycles with stability.
 
-## Why Institutional Mechanics Matter HNWI and UHNW clients increasingly require institutional grade systems without institutional friction
+Why Institutional Mechanics Matter HNWI and UHNW clients increasingly require institutional grade systems without institutional friction
 
 .
 
@@ -150,9 +150,9 @@ Hylten Invest carries the mechanics expected by institutional capital, yet opera
 
 This is the advantage of principal authority.
 
-Institutional structure without institutional noise. 
+Institutional structure without institutional noise.
 
-## The Hylten Invest Client Profile The typical client engaging with the Hylten Invest Model exhibits several characteristics
+The Hylten Invest Client Profile The typical client engaging with the Hylten Invest Model exhibits several characteristics
 
 .
 
@@ -164,9 +164,9 @@ They prioritize liquidity as a strategic tool rather than a reactive one.
 
 They appreciate conservative frameworks that support multi decade decision making.
 
-They value systems that preserve their core asset integrity while expanding their optionality. 
+They value systems that preserve their core asset integrity while expanding their optionality.
 
-## Long Term Continuity As Core Strategy The foundation of every Hylten Invest structure is continuity
+Long Term Continuity As Core Strategy The foundation of every Hylten Invest structure is continuity
 
 .
 
@@ -184,9 +184,9 @@ It requires discipline.
 
 It requires systems that are built to remain stable across varying market climates.
 
-This is why the Hylten Invest Model prioritizes structural resilience above short term maximization. 
+This is why the Hylten Invest Model prioritizes structural resilience above short term maximization.
 
-## Final Perspective The Hylten Invest Model for Asset Hardening is a conservative, long term framework designed to support significant private capital
+Final Perspective The Hylten Invest Model for Asset Hardening is a conservative, long term framework designed to support significant private capital
 
 .
 

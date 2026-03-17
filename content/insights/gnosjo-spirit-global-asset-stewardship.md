@@ -14,13 +14,9 @@ Balance sheets have expanded faster than the ethical frameworks required to gove
 
 The Gnosjö Spirit, a Scandinavian industrial tradition grounded in order, duty, and covenantal responsibility, presents a counter architecture.
 
-It provides a stabilizing logic for asset stewardship across energy, infrastructure, and private credit. 
+It provides a stabilizing logic for asset stewardship across energy, infrastructure, and private credit.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ Institutions absorb higher exposure to political risk, technological uncertainty
 
 It prioritizes order over speculation, relationships over transactions, and multi generational responsibility over interim mark to market outcomes.
 
-This creates stability in environments where global capital markets have become untethered from materiality. 
+This creates stability in environments where global capital markets have become untethered from materiality.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -154,13 +146,9 @@ Roials Capital maintains introducer neutrality.
 
 The objective is to calibrate allocators to markets where disciplined operators can execute consistently.
 
-This is Strategic Collateralization focused on predictable value extraction rather than speculative timing. 
+This is Strategic Collateralization focused on predictable value extraction rather than speculative timing.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The Theology of Capital provides the governing lens
+THE STEWARDSHIP FILTER The Theology of Capital provides the governing lens
 
 .
 
@@ -208,7 +196,7 @@ When applied to global assets, it creates a decision architecture built on stabi
 
 For institutions evaluating complex sectors such as North American energy, private credit, or specialty real assets, the next 
 
-# Step I: s a structured evaluation of strategic alignment
+### Step I: s a structured evaluation of strategic alignment
 
 .
 

@@ -18,9 +18,9 @@ It is also a structure that allows the family to act when the world is uncertain
 
 Liquidity is not simply held.
 
-Liquidity is designed. 
+Liquidity is designed.
 
-## The Shift From Wealth Preservation to Structural Resilience Wealth preservation protects assets
+The Shift From Wealth Preservation to Structural Resilience Wealth preservation protects assets
 
 .
 
@@ -36,9 +36,9 @@ Resilience becomes strategy.
 
 Resilience becomes identity.
 
-Resilience becomes freedom of action. 
+Resilience becomes freedom of action.
 
-## The Purpose of the Balance Sheet A balance sheet is not a static document
+The Purpose of the Balance Sheet A balance sheet is not a static document
 
 .
 
@@ -62,9 +62,9 @@ These outcomes require architecture.
 
 They require policy.
 
-They require a lender that understands the language of private capital. 
+They require a lender that understands the language of private capital.
 
-## The Hyltén Invest Philosophy Hyltén Invest operates quietly behind the structure
+The Hyltén Invest Philosophy Hyltén Invest operates quietly behind the structure
 
 .
 
@@ -88,9 +88,9 @@ Each product is designed for private balance sheet optimization, not for trading
 
 Each solution supports conservative liquidity creation, not speculation.
 
-We serve families that value long term discipline over short term acceleration. 
+We serve families that value long term discipline over short term acceleration.
 
-## Principles of the Resilient Family Office Balance Sheet A resilient balance sheet follows a set of clear principles
+Principles of the Resilient Family Office Balance Sheet A resilient balance sheet follows a set of clear principles
 
 .
 
@@ -100,7 +100,7 @@ They create order.
 
 They create clarity in the midst of uncertainty.
 
-## Principle 1: Capital Should Be Deployable, Not Idle Idle capital is expensive
+Principle 1: Capital Should Be Deployable, Not Idle Idle capital is expensive
 
 .
 
@@ -118,7 +118,7 @@ Liquidity is not an asset.
 
 Liquidity is an infrastructure.
 
-## Principle 2: balance sheet optimization Should Be Secured, Not Speculative Unsecured leverage introduces unnecessary risk
+Principle 2: balance sheet optimization Should Be Secured, Not Speculative Unsecured leverage introduces unnecessary risk
 
 .
 
@@ -138,7 +138,7 @@ They protect long term investment horizons.
 
 They create the freedom to wait for value to emerge.
 
-## Principle 3: Liquidity Should Be Structural, Not Event Driven Families with multi generational perspectives avoid reactive financing
+Principle 3: Liquidity Should Be Structural, Not Event Driven Families with multi generational perspectives avoid reactive financing
 
 .
 
@@ -152,7 +152,7 @@ This is how institutional capital behaves.
 
 It is also how resilient families preserve control.
 
-## Principle 4: Volatility Should Be Isolated, Not Internalized A family office must insulate the decisions of today from the volatility of the market
+Principle 4: Volatility Should Be Isolated, Not Internalized A family office must insulate the decisions of today from the volatility of the market
 
 .
 
@@ -172,7 +172,7 @@ The liquidity layer.
 
 Each one insulated, yet aligned.
 
-## Principle 5: Capital Providers Should Be Partners, Not Counterparties HNWI and UHNW families require discretion
+Principle 5: Capital Providers Should Be Partners, Not Counterparties HNWI and UHNW families require discretion
 
 .
 
@@ -188,9 +188,9 @@ Quiet.
 
 Precise.
 
-Consistent. 
+Consistent.
 
-## Engineering Liquidity Against Private Credit Private Credit has matured into a core allocation for family offices
+Engineering Liquidity Against Private Credit Private Credit has matured into a core allocation for family offices
 
 .
 
@@ -216,9 +216,9 @@ Families can rebalance without liquidating.
 
 They can capture opportunities without reversing long term commitments.
 
-They can maintain compounding without interruption. 
+They can maintain compounding without interruption.
 
-## Asset Based Strategic Collateralization as a Liquidity Engine Asset Based Strategic Collateralization portfolios offer reliable collateral
+Asset Based Strategic Collateralization as a Liquidity Engine Asset Based Strategic Collateralization portfolios offer reliable collateral
 
 .
 
@@ -240,9 +240,9 @@ No disturbance to the core portfolio.
 
 No forced sales.
 
-No unnecessary risk. 
+No unnecessary risk.
 
-## Public Share Asset-Backed Frameworks for Quiet Liquidity Extraction Public equity positions are often foundational holdings for families, especially when they originate from legacy operating businesses or concentrated ownership
+Public Share Asset-Backed Frameworks for Quiet Liquidity Extraction Public equity positions are often foundational holdings for families, especially when they originate from legacy operating businesses or concentrated ownership
 
 .
 
@@ -258,9 +258,9 @@ No pressure on the market.
 
 No noise.
 
-This is liquidity that preserves the narrative the family chooses to maintain. 
+This is liquidity that preserves the narrative the family chooses to maintain.
 
-## Crypto Capital Structuring for Institutional Scale Families Crypto has evolved from a speculative frontier to a formal asset class
+Crypto Capital Structuring for Institutional Scale Families Crypto has evolved from a speculative frontier to a formal asset class
 
 .
 
@@ -280,9 +280,9 @@ Rebalance broader portfolios.
 
 Protect tax planning strategies.
 
-Our structures are conservative, transparent, and aligned with institutional standards. 
+Our structures are conservative, transparent, and aligned with institutional standards.
 
-## The Architecture of a Mature Family Office Balance Sheet A mature balance sheet integrates all layers into a unified structure
+The Architecture of a Mature Family Office Balance Sheet A mature balance sheet integrates all layers into a unified structure
 
 .
 
@@ -310,9 +310,9 @@ This architecture preserves dignity.
 
 It preserves control.
 
-It preserves the family's long term intent. 
+It preserves the family's long term intent.
 
-## Liquidity as a Stewardship Discipline Liquidity is not about opportunity
+Liquidity as a Stewardship Discipline Liquidity is not about opportunity
 
 .
 
@@ -330,9 +330,9 @@ Liquidity is the silent protector of dignity.
 
 In mature family offices, liquidity is treated with the same seriousness as governance or succession.
 
-It is a core discipline. 
+It is a core discipline.
 
-## Why Quiet Balance Sheet Engineering Matters Now We are entering a cycle defined by higher rates, tighter credit, and more institutional competition for private assets
+Why Quiet Balance Sheet Engineering Matters Now We are entering a cycle defined by higher rates, tighter credit, and more institutional competition for private assets
 
 .
 
@@ -346,9 +346,9 @@ They will be able to maintain positions while others unwind.
 
 They will be able to act without signaling.
 
-They will be able to preserve and expand their long term legacy. 
+They will be able to preserve and expand their long term legacy.
 
-## The Hyltén Invest Role We do not replace advisors
+The Hyltén Invest Role We do not replace advisors
 
 .
 
@@ -368,11 +368,9 @@ Precise.
 
 Conservative.
 
-This is the infrastructure that families use to steward capital, not just preserve it. 
+This is the infrastructure that families use to steward capital, not just preserve it.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

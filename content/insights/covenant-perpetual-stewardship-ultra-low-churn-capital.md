@@ -18,9 +18,7 @@ A Principal states the architecture.
 
 A Principal does not negotiate with fashion.
 
-I begin. 
-
- ## ( 
+I begin. ( 
 
 # Phase I
 
@@ -434,13 +432,9 @@ This is the calling. *"The wise shall inherit glory."
 
 The glory is generational continuity.
 
-XI. 
+XI.
 
- 
-
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

@@ -104,7 +104,7 @@ Endurance over expansion.
 
 The first 
 
-# Layer I: s asset hardening
+### Layer I: s asset hardening
 
 .
 
@@ -130,7 +130,7 @@ It unlocks liquidity without unlocking control.
 
 The second 
 
-# Layer I: s covenant engineering
+### Layer I: s covenant engineering
 
 .
 

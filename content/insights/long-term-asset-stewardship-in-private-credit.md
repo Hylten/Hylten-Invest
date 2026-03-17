@@ -34,9 +34,9 @@ Long-term.
 
 Quiet.
 
-Structural. 
+Structural.
 
-## Stewardship Within Cycles Economic cycles are increasingly compressed
+Stewardship Within Cycles Economic cycles are increasingly compressed
 
 .
 
@@ -66,9 +66,9 @@ This is particularly important in environments where:
 
 It must incorporate flexible liquidity structures that preserve the long arc of wealth.
 
-This is the role that private credit fulfills for sophisticated holders. 
+This is the role that private credit fulfills for sophisticated holders.
 
-## The Long Arc of Private Wealth Architecture The architecture of modern private wealth is evolving
+The Long Arc of Private Wealth Architecture The architecture of modern private wealth is evolving
 
 .
 
@@ -98,9 +98,9 @@ Structure over speculation.
 
 Wealth is preserved when the architecture around it is stable and flexible.
 
-Stewardship is the method through which that stability is maintained. 
+Stewardship is the method through which that stability is maintained.
 
-## The Horizon Ahead Long-term private credit stewardship will continue to expand as the global financial system becomes increasingly fragmented and nonlinear
+The Horizon Ahead Long-term private credit stewardship will continue to expand as the global financial system becomes increasingly fragmented and nonlinear
 
 .
 
@@ -120,9 +120,9 @@ We provide Institutional Liquidity Paths that protects capital.
 
 Asset-Backed Frameworks that respects long-term holdings.
 
-Strategic Collateralization that aligns with multigenerational purpose. 
+Strategic Collateralization that aligns with multigenerational purpose.
 
-## Access is restricted to approved mandates
+Access is restricted to approved mandates
 
 .
 

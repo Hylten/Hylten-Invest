@@ -48,11 +48,9 @@ A leader anchored in covenantal responsibility is not a safe choice; he is the s
 
 The repricing is underway.
 
-We address the architecture. 
+We address the architecture.
 
- 
-
-## THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 2026 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist
+THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 2026 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist
 
 .
 

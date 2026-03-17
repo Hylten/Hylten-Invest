@@ -28,9 +28,9 @@ The firm exists for High Net Worth and Ultra High Net Worth individuals who requ
 
 We function as principal authority: not loud, not promotional, simply institutional mechanics delivered with exactness.
 
-This is capital migration in practice: the conversion of illiquid strength into liquid optionality, without compromising ownership or long-term intent. 
+This is capital migration in practice: the conversion of illiquid strength into liquid optionality, without compromising ownership or long-term intent.
 
-## The Principle of Controlled Mobility Multi-generational families understand that wealth loses integrity when it becomes immobile
+The Principle of Controlled Mobility Multi-generational families understand that wealth loses integrity when it becomes immobile
 
 .
 
@@ -44,9 +44,9 @@ It allows wealth to remain anchored in its preferred form, while still participa
 
 Liquidity is not the opposite of long-term holding.
 
-Liquidity is what protects long-term holding. 
+Liquidity is what protects long-term holding.
 
-## Private Credit as a Liquidity Backbone Hyltén Invest lends against private credit positions
+Private Credit as a Liquidity Backbone Hyltén Invest lends against private credit positions
 
 .
 
@@ -66,9 +66,9 @@ This is liquidity as a protective layer.
 
 It is not about leverage for risk.
 
-It is about leverage for endurance. 
+It is about leverage for endurance.
 
-## Asset Based Capital Structuring, Asset-Based Lending, as Structural Optionality Asset-Based Monetization Architecture creates mobility in portfolios that were previously static
+Asset Based Capital Structuring, Asset-Based Lending, as Structural Optionality Asset-Based Monetization Architecture creates mobility in portfolios that were previously static
 
 .
 
@@ -102,9 +102,9 @@ Hyltén Invest specializes in this form of structural liquidity.
 
 We do not replace traditional banking.
 
-We exist where traditional banking becomes too rigid or too public for families of scale. 
+We exist where traditional banking becomes too rigid or too public for families of scale.
 
-## Crypto Asset-Backed Frameworks for Institutional-Grade Holders The crypto domain has matured
+Crypto Asset-Backed Frameworks for Institutional-Grade Holders The crypto domain has matured
 
 .
 
@@ -128,9 +128,9 @@ Liquidity against such positions must be precise.
 
 It must be discreet.
 
-And it must be engineered with long-term intent, not short-term adrenaline. 
+And it must be engineered with long-term intent, not short-term adrenaline.
 
-## Public Share Asset-Backed Frameworks for Concentrated Positions Concentrated equity holdings create both power and constraint
+Public Share Asset-Backed Frameworks for Concentrated Positions Concentrated equity holdings create both power and constraint
 
 .
 
@@ -154,9 +154,9 @@ It protects both the holder and the market perception.
 
 It protects governance.
 
-It protects legacy. 
+It protects legacy.
 
-## The principal authority Position Hyltén Invest functions as structural infrastructure
+The principal authority Position Hyltén Invest functions as structural infrastructure
 
 .
 
@@ -180,9 +180,9 @@ Liquidity when required.
 
 Discretion without compromise.
 
-Mechanics delivered quietly with precision. 
+Mechanics delivered quietly with precision.
 
-## Multi-Generational Thinking as an Operating System Families that endure multiple generations operate differently from those who only accumulate capital
+Multi-Generational Thinking as an Operating System Families that endure multiple generations operate differently from those who only accumulate capital
 
 .
 
@@ -208,9 +208,9 @@ They protect long-term strategy from short-term shocks.
 
 Generational capital is not measured by aggressiveness.
 
-It is measured by endurance. 
+It is measured by endurance.
 
-## Liquidity as a Defensive Strategy Many families underestimate the defensive power of liquidity
+Liquidity as a Defensive Strategy Many families underestimate the defensive power of liquidity
 
 .
 
@@ -226,9 +226,9 @@ Liquidity is what enables strategic acquisitions when competitors become distres
 
 Liquidity is what ensures that inheritance transfers do not trigger capital destruction.
 
-In the architecture of generational wealth, liquidity is the quiet foundation upon which all other decisions rest. 
+In the architecture of generational wealth, liquidity is the quiet foundation upon which all other decisions rest.
 
-## The Migration Model Capital migration is not a single event
+The Migration Model Capital migration is not a single event
 
 .
 
@@ -252,9 +252,9 @@ It is not hurried.
 
 It is not reactive.
 
-It is intentional and cyclical. 
+It is intentional and cyclical.
 
-## Protecting the Family Narrative Wealth is not purely numeric
+Protecting the Family Narrative Wealth is not purely numeric
 
 .
 
@@ -280,9 +280,9 @@ When liquidity is structured, the narrative holds.
 
 Every generation inherits not only capital but the framework for how to handle capital.
 
-This is the essence of multi-generational stability. 
+This is the essence of multi-generational stability.
 
-## Why Capital Migration Matters Now The global financial environment is shifting
+Why Capital Migration Matters Now The global financial environment is shifting
 
 .
 
@@ -308,9 +308,9 @@ This is why families with scale invest in structural liquidity.
 
 It is not a luxury.
 
-It is an anchor. 
+It is an anchor.
 
-## The Hyltén Invest Distinction We operate quietly
+The Hyltén Invest Distinction We operate quietly
 
 .
 
@@ -336,9 +336,9 @@ Not noise.
 
 Not exposure.
 
-Only durability. 
+Only durability.
 
-## The Philosophy of Enough Oxygen The white space between decisions is as important as the decisions themselves
+The Philosophy of Enough Oxygen The white space between decisions is as important as the decisions themselves
 
 .
 
@@ -366,9 +366,9 @@ It is oxygen for strategy.
 
 Without it, portfolios suffocate.
 
-With it, portfolios last. 
+With it, portfolios last.
 
-## A Closing Reflection Capital migration is not innovation
+A Closing Reflection Capital migration is not innovation
 
 .
 
@@ -386,7 +386,7 @@ Exactly.
 
 For families seeking to protect, mobilize, and sustain their capital across generations, the next 
 
-# Step I: s a conversation
+### Step I: s a conversation
 
 .
 

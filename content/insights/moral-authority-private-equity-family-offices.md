@@ -133,7 +133,7 @@ From moral hazard to moral authority.
 
 This is the 
 
-# Axis M: odern family offices must internalize
+### Axis M: odern family offices must internalize
 
 .
 
@@ -344,7 +344,7 @@ It is duty.
 
 The Discipline 
 
-# Layer M: arkets tempt drift
+### Layer M: arkets tempt drift
 
 .
 
@@ -368,7 +368,7 @@ Proof does.
 
 The Accountability 
 
-# Layer M: oral authority demands consequence
+### Layer M: oral authority demands consequence
 
 .
 
