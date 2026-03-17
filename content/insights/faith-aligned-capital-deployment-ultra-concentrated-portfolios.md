@@ -129,8 +129,8 @@ I declare.
 Concentrated capital must be governed by four pillars: 
 -  The Theology of Ownership 
 -  The Doctrine of Productive Stewardship 
--  The Covenant of Generational Continuity 
-•  The Industrial Mandate for Value Creation These are not embellishments.
+-  The Covenant of Generational Continuity
+• The Industrial Mandate for Value Creation These are not embellishments.
 
 These are structural steel beams.
 

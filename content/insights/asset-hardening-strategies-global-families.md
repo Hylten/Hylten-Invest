@@ -54,10 +54,10 @@ Ownership becomes stratified, not linear.
 
 Risk becomes choreographed, not inherited.
 
-The strategic logic follows three governing principles: 
-•  Hard assets first. 
-•  Liquidity last, but engineered. 
-•  Structures as shields, not containers.
+The strategic logic follows three governing principles:
+• Hard assets first.
+• Liquidity last, but engineered.
+• Structures as shields, not containers.
 
 Hard assets form the ballast.
 

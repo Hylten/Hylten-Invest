@@ -106,22 +106,22 @@ This ensures that decision making remains close to the owner mindset. #
 
 ## Mandate Element Two: Long Horizon Governance Architecture The core function of a stewardship mandate is the construction of a governance architecture that survives personnel changes, market cycles, and generational transitions.
 
-Long horizon governance includes: 
-•  Definition of non negotiable principles. 
-•  Decision hierarchies that clarify what must be escalated. 
-•  Review cycles that prevent drift. 
-•  Transparent communication structures.
+Long horizon governance includes:
+• Definition of non negotiable principles.
+• Decision hierarchies that clarify what must be escalated.
+• Review cycles that prevent drift.
+• Transparent communication structures.
 
 The objective is to create a disciplined environment that constrains emotional decision making and provides clarity in periods of uncertainty. # 
 
 ## Mandate Element Three: Asset Level Stewardship Each long duration asset is treated as a standalone strategic organism.
 
-The stewardship process examines: 
-•  Capital resilience. 
-•  Operational durability. 
-•  Management integrity. 
-•  Competitive asymmetry. 
-•  Structural risks that may impact long term viability.
+The stewardship process examines:
+• Capital resilience.
+• Operational durability.
+• Management integrity.
+• Competitive asymmetry.
+• Structural risks that may impact long term viability.
 
 The steward does not micromanage operations.
 
@@ -131,11 +131,11 @@ The steward protects the asset from unnecessary risks, structural decay, and val
 
 The steward designs liquidity buffers that protect the system from forced sales, dilution, or distress.
 
-A liquidity architecture includes: 
-•  Core reserves. 
-•  Contingency reserves. 
-•  Event driven liquidity planning. 
-•  Low correlation liquidity sources.
+A liquidity architecture includes:
+• Core reserves.
+• Contingency reserves.
+• Event driven liquidity planning.
+• Low correlation liquidity sources.
 
 The aim is to maintain the ability to act when others cannot. # 
 
@@ -159,11 +159,11 @@ Applied consistently, it produces stability and structural advantage across deca
 
 Anything that introduces fragility, complexity, or unnecessary risk is removed.
 
-The most common removals include: 
-•  Managers with inconsistent track records. 
-•  Strategies dependent on high leverage. 
-•  Illiquid commitments without structural durability. 
-•  Products with opaque fee structures.
+The most common removals include:
+• Managers with inconsistent track records.
+• Strategies dependent on high leverage.
+• Illiquid commitments without structural durability.
+• Products with opaque fee structures.
 
 The objective is to avoid problems before they form. # 
 
@@ -179,11 +179,11 @@ The aim is to produce a quiet and stable operating environment that compounds va
 
 The Fiduciary Razor prioritises convex structures over linear ones.
 
-Examples include: 
-•  High quality operating companies with reinvestment capacity. 
-•  Mission aligned private holdings. 
-•  Permanent capital vehicles with low volatility. 
-•  Essential infrastructure with multi decade demand.
+Examples include:
+• High quality operating companies with reinvestment capacity.
+• Mission aligned private holdings.
+• Permanent capital vehicles with low volatility.
+• Essential infrastructure with multi decade demand.
 
 Convexity creates asymmetry that compounds quietly but consistently. # 
 

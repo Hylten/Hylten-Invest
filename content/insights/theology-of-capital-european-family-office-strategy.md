@@ -299,12 +299,12 @@ OPERATIONAL ARCHITECTURE
 
 Not corporate legalese-multi-generational commitments. 
 
-2. **Investment Filters** Evaluate opportunities through a stewardship matrix: 
-•  Does it create value? 
-•  Does it strengthen community? 
-•  Does it honor workers? 
-•  Does it reduce dependency? 
-•  Does it endure? 
+2. **Investment Filters** Evaluate opportunities through a stewardship matrix:
+• Does it create value?
+• Does it strengthen community?
+• Does it honor workers?
+• Does it reduce dependency?
+• Does it endure? 
 
 3. **Succession Protocols** Teach faith and discipline before finance and strategy.
 

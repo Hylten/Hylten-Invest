@@ -83,16 +83,16 @@ Character protects value.
 
 And only a principled architecture preserves it across generations.
 
-Three pillars form the sovereign structure: 
-•  The Moral Mandate: Capital deployed with clean hands and straight purpose. 
-•  The Industrial Mandate: Build.
+Three pillars form the sovereign structure:
+• The Moral Mandate: Capital deployed with clean hands and straight purpose.
+• The Industrial Mandate: Build.
 
 Fix.
 
 Solve.
 
-Pass forward. 
-•  The Covenant Mandate: Guard the long arc.
+Pass forward.
+• The Covenant Mandate: Guard the long arc.
 
 Protect the children’s children.
 
