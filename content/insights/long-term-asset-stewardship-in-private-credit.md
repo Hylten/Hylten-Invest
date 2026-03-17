@@ -18,7 +18,7 @@ It reflects a deeper recognition that capital management today must be more adap
 
 Within this environment, Hyltén Invest focuses on asset based Asset-Backed Frameworks and private credit structures built for long-term stewardship.
 
-Our approach is conservative, minimalist, and designed to serve as a silent authority behind the balance sheets of those who require liquidity without exposure.
+Our approach is conservative, minimalist, and designed to serve as a principal authority behind the balance sheets of those who require liquidity without exposure.
 
 We lend against private assets.
 
@@ -32,7 +32,9 @@ Long-term.
 
 Quiet.
 
-Structural. ## Stewardship Within Cycles Economic cycles are increasingly compressed.
+Structural. 
+
+## Stewardship Within Cycles Economic cycles are increasingly compressed.
 
 Volatility shocks ripple faster.
 
@@ -47,20 +49,17 @@ It offers the ability to navigate stress environments without sacrificing long-t
 It allows liquidity to move independently of volatility.
 
 This is particularly important in environments where: 
-
 -  Interest rates shift 
-
 -  Market valuations compress 
-
 -  Liquidity becomes uneven 
-
 -  Financing windows open and close unpredictably 
-
 -  Private and public asset correlations distort Stewardship in the modern era cannot rely on static frameworks.
 
 It must incorporate flexible liquidity structures that preserve the long arc of wealth.
 
-This is the role that private credit fulfills for sophisticated holders. ## The Long Arc of Private Wealth Architecture The architecture of modern private wealth is evolving.
+This is the role that private credit fulfills for sophisticated holders. 
+
+## The Long Arc of Private Wealth Architecture The architecture of modern private wealth is evolving.
 
 It is becoming more distributed across asset classes.
 
@@ -88,7 +87,9 @@ Structure over speculation.
 
 Wealth is preserved when the architecture around it is stable and flexible.
 
-Stewardship is the method through which that stability is maintained. ## The Horizon Ahead Long-term private credit stewardship will continue to expand as the global financial system becomes increasingly fragmented and nonlinear.
+Stewardship is the method through which that stability is maintained. 
+
+## The Horizon Ahead Long-term private credit stewardship will continue to expand as the global financial system becomes increasingly fragmented and nonlinear.
 
 Traditional financing sources will oscillate between overextension and restriction.
 
@@ -106,6 +107,8 @@ We provide Institutional Liquidity Paths that protects capital.
 
 Asset-Backed Frameworks that respects long-term holdings.
 
-Strategic Collateralization that aligns with multigenerational purpose. ## Contact for stewardship discussion Hyltén Invest maintains a focused and selective approach.
+Strategic Collateralization that aligns with multigenerational purpose. 
 
-For inquiries related to long-term asset stewardship and private credit structures, contact for a stewardship discussion.
+## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+
+For inquiries related to long-term asset stewardship and private credit structures, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

@@ -11,7 +11,6 @@ Capital reveals the household.
 Governance reveals the heart.
 
 Stewardship binds both into covenant order. *"The earth is the Lord’s, and the fulness thereof."* 
-
 -  **Psalm 24:1** Private wealth without theology drifts.
 
 Private markets without moral authority fracture.
@@ -124,4 +123,4 @@ Create the value.
 
 Pass the blueprint to the children’s children.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

@@ -22,7 +22,9 @@ Our purpose is to strengthen the financial position of families, principals, and
 
 We provide the mechanics.
 
-You retain the authority. ## Capital Migration That Preserves Identity For UHNW individuals, wealth is not merely capital.
+You retain the authority. 
+
+## Capital Migration That Preserves Identity For UHNW individuals, wealth is not merely capital.
 
 It is identity.
 
@@ -48,6 +50,6 @@ We operate quietly.
 
 We build for resilience.
 
-We maintain Silent Authority so that your capital can move without exposure.
+We maintain principal authority so that your capital can move without exposure.
 
-If you require strategic liquidity that respects your long term architecture, contact for stewardship discussion.
+If you require strategic liquidity that respects your long term architecture, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

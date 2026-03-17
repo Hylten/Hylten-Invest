@@ -73,11 +73,8 @@ And it positions capital not as an instrument of extraction, but as an instrumen
 This brief codifies the doctrine.
 
 Not as philosophy, but as institutional design. 
-
 -  
-
 -  
-
 -  Covenant stewardship begins with first principles.
 
 Ownership is not entitlement.
@@ -193,11 +190,8 @@ Responsibility first.
 Capital second.
 
 Always. 
-
 -  
-
 -  
-
 -  The Spirit of Gnosjö is more than a sociological artifact.
 
 It is covenant in operational form.
@@ -269,11 +263,8 @@ Strengthened balance sheets survive storms.
 Stewardship is therefore not a soft concept.
 
 It is operational alpha. 
-
 -  
-
 -  
-
 -  Covenant stewardship intersects with the theology of capital at the point of succession.
 
 The true test of industrial purpose is the continuity of responsibility.
@@ -341,11 +332,8 @@ Industrial capital aligned with stewardship becomes resilient, antifragile, and 
 Industrial capital aligned with extraction becomes brittle, volatile, and systemically fragile.
 
 This is the fundamental delta Fund-III captures. 
-
 -  
-
 -  
-
 -  Covenant stewardship structures institutions as living entities.
 
 And industrial legacy requires institutional form.
@@ -425,11 +413,8 @@ Stronger counterparty alignment.
 These are not theological advantages.
 
 They are financial advantages produced by theological structures. 
-
 -  
-
 -  
-
 -  The capital markets of the next decade will not reward velocity.
 
 They will reward discipline.
@@ -477,11 +462,8 @@ This is what institutional investors sense, even if they cannot quantify it.
 Covenant stewardship is not a narrative.
 
 It is a valuation factor. 
-
 -  
-
 -  
-
 -  Generational capital is the apex expression of covenant stewardship.
 
 Capital that lives beyond its originator.
@@ -529,11 +511,8 @@ And stewardship becomes measurable.
 Predictive.
 
 Investable. 
-
 -  
-
 -  
-
 -  The Hylten doctrine is not nostalgic.
 
 It is forward‑facing.
@@ -594,4 +573,4 @@ Technical metric: Legacy Continuity Ratio
 
 1. 
 
-73. Contact for stewardship discussion.
+73. Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

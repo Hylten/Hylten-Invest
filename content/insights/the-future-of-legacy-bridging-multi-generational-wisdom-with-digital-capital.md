@@ -30,7 +30,9 @@ Hyltén Invest operates where these lines converge.
 
 We support families who think in generations.
 
-We provide Asset-Backed Frameworks structures that respect discretion, uphold sovereignty, and enhance liquidity without compromising long-term holdings. ## The Silent Architecture of Institutional Mechanics Hyltén Invest maintains a principle we call Silent Authority.
+We provide Asset-Backed Frameworks structures that respect discretion, uphold sovereignty, and enhance liquidity without compromising long-term holdings. 
+
+## The Silent Architecture of Institutional Mechanics Hyltén Invest maintains a principle we call principal authority.
 
 We do not seek attention.
 
@@ -38,7 +40,7 @@ We do not signal loudly.
 
 We build the unseen mechanics that allow families and institutions to operate with stability.
 
-Silent Authority means the strength of our capital structures does not require amplification.
+principal authority means the strength of our capital structures does not require amplification.
 
 It is self-evident in precision, reliability, and discretion.
 
@@ -50,7 +52,9 @@ We offer terms anchored in long-term conservatism.
 
 We maintain operational integrity that mirrors institutional capital behavior.
 
-This posture attracts those who prefer stewardship over speculation. ## Digital Capital and the Rise of Crypto-Backed Liquidity Digital capital now plays a non-trivial role in UHNW portfolios.
+This posture attracts those who prefer stewardship over speculation. 
+
+## Digital Capital and the Rise of Crypto-Backed Liquidity Digital capital now plays a non-trivial role in UHNW portfolios.
 
 The transformation is no longer speculative.
 
@@ -70,9 +74,11 @@ Families retain their positions.
 
 They preserve potential upside.
 
-They access capital in a controlled, conservative structure.
+They Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
-For those who hold digital capital, it becomes another pillar of generational strategy rather than an isolated modern asset. ## Public Share Asset-Backed Frameworks for Control Preservation Significant public share positions often carry emotional and strategic weight.
+For those who hold digital capital, it becomes another pillar of generational strategy rather than an isolated modern asset. 
+
+## Public Share Asset-Backed Frameworks for Control Preservation Significant public share positions often carry emotional and strategic weight.
 
 They represent history, influence, operating involvement, or a stake in long-standing family enterprises.
 
@@ -94,7 +100,9 @@ This safeguards strategic positions.
 
 This reinforces long-term planning.
 
-Preservation of control is often the most important form of wealth management. ## Multi-Generational Wisdom as an Operating Principle True legacy is not merely financial.
+Preservation of control is often the most important form of wealth management. 
+
+## Multi-Generational Wisdom as an Operating Principle True legacy is not merely financial.
 
 It is philosophical.
 
@@ -116,7 +124,9 @@ We avoid strategies that compromise sovereignty.
 
 Instead, we specialize in clear, conservative frameworks that support continuity.
 
-Liquidity should serve legacy, not distort it. ## The Fusion of Heritage and Digital Modernity As digital capital becomes more prominent, families face a cultural shift.
+Liquidity should serve legacy, not distort it. 
+
+## The Fusion of Heritage and Digital Modernity As digital capital becomes more prominent, families face a cultural shift.
 
 The younger generation often operates with higher digital fluency.
 
@@ -136,7 +146,9 @@ Hyltén Invest serves as the bridge between these perspectives.
 
 We translate modern instruments into conservative, reliable Capital Structuring structures.
 
-We respect the heritage, while enabling the future. ## Institutional Liquidity With Family Office Precision Our position is distinct.
+We respect the heritage, while enabling the future. 
+
+## Institutional Liquidity With Family Office Precision Our position is distinct.
 
 We operate with institutional mechanics, but we maintain the precision and discretion required by family offices.
 
@@ -156,7 +168,9 @@ We focus on liquidity optionality rather than leverage.
 
 We focus on long-term alignment rather than short-term optimization.
 
-This institutional quietness is what families rely on generation after generation. ## Liquidity as the Enabler of Opportunity Opportunities rarely announce themselves.
+This institutional quietness is what families rely on generation after generation. 
+
+## Liquidity as the Enabler of Opportunity Opportunities rarely announce themselves.
 
 They appear during dislocation.
 
@@ -178,7 +192,9 @@ It maintains intergenerational stability.
 
 Private credit Monetization Architecture, Asset-Based Lending, crypto Strategic Collateralization, and public share Strategic Collateralization all serve one purpose.
 
-They protect legacy while unlocking opportunity. ## A Conservative Vision for the Future The future of legacy will not be defined by rapid shifts.
+They protect legacy while unlocking opportunity. 
+
+## A Conservative Vision for the Future The future of legacy will not be defined by rapid shifts.
 
 It will be defined by the quiet strength of those who prepare.
 
@@ -198,4 +214,6 @@ We serve those who think in generations.
 
 We uphold the philosophy of quiet stewardship.
 
-If legacy is the long arc, liquidity is the line that keeps it steady. ## Contact for stewardship discussion
+If legacy is the long arc, liquidity is the line that keeps it steady. 
+
+## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

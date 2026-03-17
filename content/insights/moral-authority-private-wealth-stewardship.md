@@ -21,7 +21,6 @@ Wealth without mandate decays.
 Wealth with mandate compounds.
 
 A good man leaves an inheritance to his children’s children ( 
-
 -  **Proverbs 13:22** ).
 
 ## THE MANDATE
@@ -189,19 +188,12 @@ Not sentiment.
 Structure.
 
 The architecture is built in layers: 
-
 -  Moral mandate 
-
 -  Jurisdictional stance 
-
 -  Asset selection logic 
-
 -  Liquidity design 
-
 -  Generational continuity 
-
 -  Witness to community 
-
 -  Accountability to transcendent order These layers create institutional gravity.
 
 Without gravity, the platform floats.
@@ -326,7 +318,7 @@ It must settle into intentional liquidity.
 
 Purpose first.
 
-Access second.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Layer five: generational continuity.
 
@@ -692,6 +684,6 @@ Legacy is not memory.
 
 Legacy is governance.
 
-For further alignment, contact for stewardship discussion.
+For further alignment, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Technical Mandate: 4.6% Stewardship Delta Index.

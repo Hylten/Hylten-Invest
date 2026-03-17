@@ -142,7 +142,9 @@ Calibration involves restructuring liabilities, sequencing liquidity windows, an
 
 This includes reservoir engineering in energy, LTV curves in credit, and replacement cost analytics in real estate.
 
-The strategic navigator ensures that operational intelligence is embedded at the decision layer. ## ## ## ## ## THE STEWARDSHIP FILTER The foundation of multi generational liquidity is stewardship.
+The strategic navigator ensures that operational intelligence is embedded at the decision layer. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER The foundation of multi generational liquidity is stewardship.
 
 This is not a financial term.
 
@@ -170,7 +172,9 @@ Every allocation decision must answer whether it strengthens or weakens the fami
 
 Stewardship rejects impulsive allocation, fragile yield structures, and capital dissipation.
 
-It prioritizes durability, reserve capacity, and long horizon value creation. ## ## THE ALLOCATOR'S DECISION LENS In a fragmented capital world, the allocator requires a decision lens grounded in operational truth. 
+It prioritizes durability, reserve capacity, and long horizon value creation. ## 
+
+## THE ALLOCATOR'S DECISION LENS In a fragmented capital world, the allocator requires a decision lens grounded in operational truth. 
 
 1. Does the current portfolio have jurisdictional redundancy that protects against geopolitical and regulatory shifts. 
 
@@ -181,3 +185,5 @@ It prioritizes durability, reserve capacity, and long horizon value creation. ##
 For families and institutions seeking a deeper understanding of structural alignment, Roials Capital conducts confidential strategy audits and portfolio calibration reviews.
 
 These engagements provide clarity on alignment between long range objectives, operational realities, and the mechanics required for multi generational liquidity.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

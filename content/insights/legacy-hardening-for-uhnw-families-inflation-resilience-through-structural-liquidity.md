@@ -18,9 +18,11 @@ Legacy hardening is the discipline of transforming static wealth into a resilien
 
 It is about controlled liquidity, selective leverage, and defensive optionality.
 
-Hyltén Invest operates within this domain with silent authority.
+Hyltén Invest operates within this domain with principal authority.
 
-We build the structural mechanics that allow institutional capital to move efficiently through the private wealth ecosystem. ## The Strategic Outcome: Liquidity Without Compromise Legacy hardening ultimately produces a simple result.
+We build the structural mechanics that allow institutional capital to move efficiently through the private wealth ecosystem. 
+
+## The Strategic Outcome: Liquidity Without Compromise Legacy hardening ultimately produces a simple result.
 
 A family retains its assets.
 
@@ -46,4 +48,4 @@ If your objective is long-term continuity, if your priority is keeping wealth re
 
 Hyltén Invest stands ready to support your stewardship.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

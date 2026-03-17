@@ -29,7 +29,6 @@ Capital is not consumed.
 Capital is cultivated.
 
 This aligns with 
-
 -  **Proverbs 13:22** , which defines the moral architecture behind multi generational asset management.
 
 In stewardship aligned private equity, the objective is to build assets that are engineered to survive cyclical shocks, jurisdictional transitions, market digitization, and the capital intensity cycles of asset backed financing for businesses that operate in energy, industrials, logistics, and healthcare.
@@ -96,7 +95,9 @@ It includes: * Dual horizon decision making that evaluates impact within a 3 yea
 
 These mechanisms convert generational stewardship from a leadership ideal into a repeatable operational discipline. 
 
-3. CASE ## ANALYSIS: A SIMULATED 180M INDUSTRIAL ENERGY INFRASTRUCTURE BUYOUT To illustrate how generational stewardship structurally aligns with capital formation and operational resilience, consider a simulated 180 million acquisition of a mid sized NAEOC energy infrastructure operator in the southern United States.
+3. CASE 
+
+## ANALYSIS: A SIMULATED 180M INDUSTRIAL ENERGY INFRASTRUCTURE BUYOUT To illustrate how generational stewardship structurally aligns with capital formation and operational resilience, consider a simulated 180 million acquisition of a mid sized NAEOC energy infrastructure operator in the southern United States.
 
 The asset generates 28 million EBITDA with 62 percent recurring maintenance contracts across regional utilities.
 
@@ -193,3 +194,5 @@ In an era where capital is abundant but durable assets are scarce, stewardship b
 It is the model that builds generational wealth rather than transactional returns.
 
 It is the structural alignment that defines the next chapter of private equity. [END INTELLIGENCE REPORT]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

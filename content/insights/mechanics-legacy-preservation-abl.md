@@ -17,7 +17,6 @@ The Spirit of Gnosjö defined it.
 A theology of work.
 
 A theology of responsibility. 
-
 -  **Proverbs 13:22** : A good man leaves an inheritance to his children's children.
 
 That mandate shaped factories.
@@ -462,6 +461,6 @@ Sovereignty preserves identity.
 
 Identity carries legacy.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 End state: Collateralization Ratio ≥ 1.42.

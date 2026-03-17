@@ -51,7 +51,6 @@ Industrial families that optimized for expansion often built wide but shallow li
 Families that optimized for stewardship built narrow but deep liquidity, capable of sustaining multi generational transfer without forced asset liquidation.
 
 The theology of capital that shaped these decisions is simple. 
-
 -  **Proverbs 13:22** notes that a good man leaves an inheritance to his children's children.
 
 This is not sentiment.
@@ -168,7 +167,9 @@ This separation is critical.
 
 Stewardship requires that families and institutions maintain agency.
 
-The partnership model supports that agency by removing informational asymmetry without transferring ownership or discretion. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+The partnership model supports that agency by removing informational asymmetry without transferring ownership or discretion. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
 It is a capital discipline.
 
@@ -204,7 +205,11 @@ Stewardship is therefore the governance layer that protects the Asset-Backed Fra
 
 Honor must be engineered into the balance sheet.
 
-It cannot be assumed. ## ## THE ## ## DECISION MAKING LENS FOR ALLOCATORS Industrial families, private credit managers, and institutional allocators face the same question.
+It cannot be assumed. ## 
+
+## THE ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Industrial families, private credit managers, and institutional allocators face the same question.
 
 How can capital be positioned to endure, not merely accumulate.
 
@@ -235,3 +240,5 @@ The philosophy of Hylten Invest is anchored in this conviction.
 Capital is a tool for service, not a monument.
 
 It must be shaped with integrity, governed with responsibility, and transferred with wisdom. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

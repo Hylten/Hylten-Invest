@@ -162,7 +162,9 @@ Institutional ##
 
  to operators who manage collateral heavy lending programs with audited track records, documented liquidation pathways, and governance systems consistent with conservative family offices and institutional LP requirements.
 
-This triad ensures that the allocator enters structures intentionally, not reactively. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral accessory.
+This triad ensures that the allocator enters structures intentionally, not reactively. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a moral accessory.
 
 It is an economic discipline grounded in the biblical principle that capital is a resource entrusted for productive use. **Proverbs 13:22** establishes the generational mandate. **Luke 14:28** defines the necessity of planning before undertaking a venture.
 
@@ -192,7 +194,9 @@ Asset-Based Lending aligns with this doctrine because it channels capital into r
 
 Generational architecture Families who manage capital with a multigenerational time horizon require instruments that prioritize preservation and continuity.
 
-Asset-Based Lending delivers this because it anchors capital to collateral that can be audited, verified, and defended through cycles. ## ## THE DECISION LENS FOR THE ALLOCATOR An allocator evaluating institutional grade Asset-Based Lending should anchor the decision process around five analytical filters.
+Asset-Based Lending delivers this because it anchors capital to collateral that can be audited, verified, and defended through cycles. ## 
+
+## THE DECISION LENS FOR THE ALLOCATOR An allocator evaluating institutional grade Asset-Based Lending should anchor the decision process around five analytical filters.
 
 Collateral realism Does the collateral base have measurable operational utility, secondary market liquidity, and enforceable custody?
 
@@ -213,3 +217,5 @@ It is structural integrity.
 When executed correctly, Asset-Based Lending becomes a shield around wealth rather than a speculative engine.
 
 Roials Capital remains available for a confidential strategy audit to map the allocator's current posture, identify structural vulnerabilities, and calibrate future positioning through institutional grade Asset-Based Lending frameworks. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

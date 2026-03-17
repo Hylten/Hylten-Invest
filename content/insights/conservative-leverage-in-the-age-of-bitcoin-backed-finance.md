@@ -22,9 +22,11 @@ Structure creates continuity.
 
 Structure preserves legacy.
 
-In this era of Bitcoin backed finance and increasing access to institution grade collateralization, conservative leverage is not a contradiction.
+In this era of Bitcoin backed finance and increasing Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
-It is the natural evolution of prudent liquidity management for those who operate in multi generational timeframes. ## Long Term Stewardship in a Volatile World Stewardship is not measured by ambition.
+It is the natural evolution of prudent liquidity management for those who operate in multi generational timeframes. 
+
+## Long Term Stewardship in a Volatile World Stewardship is not measured by ambition.
 
 It is measured by the capacity to maintain control over time.
 
@@ -54,7 +56,9 @@ New asset classes will continue to emerge.
 
 Markets will remain cyclical.
 
-But stewardship, when practiced correctly, remains constant. ## The Future of Conservative Liquidity The next decade will be defined by the integration of digital collateral into traditional Strategic Collateralization frameworks.
+But stewardship, when practiced correctly, remains constant. 
+
+## The Future of Conservative Liquidity The next decade will be defined by the integration of digital collateral into traditional Strategic Collateralization frameworks.
 
 Families that accept this shift early will benefit from an unprecedented combination of security and flexibility.
 
@@ -72,7 +76,9 @@ We maintain the architecture.
 
 We ensure that liquidity remains available, quiet, and dependable.
 
-In a world that increasingly rewards noise, we remain committed to silence. ## Final Reflection The age of Bitcoin backed finance is not the rise of a new speculative era.
+In a world that increasingly rewards noise, we remain committed to silence. 
+
+## Final Reflection The age of Bitcoin backed finance is not the rise of a new speculative era.
 
 It is the return to collateral based thinking, supported by modern instruments.
 
@@ -84,6 +90,6 @@ Through infrastructure.
 
 Through discipline.
 
-Through Silent Authority.
+Through principal authority.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

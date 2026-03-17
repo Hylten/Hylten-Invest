@@ -29,7 +29,6 @@ They require the discipline of industrial Sweden.
 They require the Spirit of Gnosjö.
 
 They require a sovereign architecture able to outlive the founder and bind the next generation into a covenant of responsibility. 
-
 -  **Proverbs 13:22** : A good man leaves an inheritance to his children’s children.
 
 The text does not specify the form.
@@ -71,11 +70,8 @@ Family crypto holdings are not speculative pools.
 They are proto‑sovereign treasuries.
 
 They must be handled accordingly. 
-
 -  
-
 -  
-
 -  The first mandate is classification.
 
 No family can govern what it does not categorize.
@@ -132,7 +128,7 @@ Consolidate by utility.
 
 Use segregated vaults.
 
-Use tiered access.
+Use tiered Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Use deterministic recovery systems.
 
@@ -142,7 +138,7 @@ It encodes shared responsibility within the family.
 
 It binds heirs into a structure that forces dialogue, continuity, and discipline.
 
-No inheritance should be accessible through the cognition of one individual.
+No inheritance should be Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Multi‑sig ensures sovereignty does not die with the patriarch.
 
@@ -204,7 +200,7 @@ It uses cross‑jurisdictional arbitrage in tax and reporting regimes.
 
 It uses private credit channels to create predictable liquidity without fragmenting asset base.
 
-The family retains sovereignty over its assets while accessing predictable liquidity streams for operations, philanthropy, and expansion.
+The family retains sovereignty over its assets while Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Liquidity is no longer an event.
 
@@ -236,7 +232,7 @@ They project longevity.
 
 They signal seriousness to banks, regulators, and counterparties.
 
-Families with hardened treasuries gain access to institutional corridors inaccessible to retail-level crypto holders.
+Families with hardened treasuries gain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 The family must acknowledge that digital assets remain jurisdictionally unstable.
 
@@ -340,13 +336,13 @@ Succession in digital assets is not a transfer.
 
 It is a translation.
 
-The shift must be encoded through contracts, vault access, multi-sig roles, and trustee mandates.
+The shift must be encoded through contracts, vault Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Treat succession as a phased handover.
 
 Phase one: knowledge transfer.
 
-Phase two: access scaffolding.
+Phase two: Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Phase three: delegated governance.
 
@@ -438,7 +434,7 @@ Private credit arrangements using crypto collateral allow families to deploy liq
 
 Credit creates dual cycles: digital compounding and real‑world expansion.
 
-Families with credit access outperform those relying on asset sales.
+Families with credit Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Build relationships with private lenders.
 
@@ -566,6 +562,6 @@ Inheritance is not a transaction.
 
 It is a mandate.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Metric: target liquidity coverage ratio 1.85.

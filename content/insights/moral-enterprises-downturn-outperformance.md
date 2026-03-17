@@ -47,3 +47,5 @@ Work as worship.
 Enterprise as calling.
 
 Capital as responsibility, not indulgence. *"
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

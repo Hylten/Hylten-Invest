@@ -41,7 +41,6 @@ They mortgage tomorrow for speed today.
 They violate the covenant of stewardship.
 
 Nordic families did not. *"Through wisdom is a house builded; and by understanding it is established."* 
-
 -  **Proverbs 24:3** The verse is not poetic.
 
 It is operational.
@@ -197,19 +196,12 @@ Nordic families built this with limited resources and a surplus of conviction.
 Modern firms with far greater resources have no excuse.
 
 The structural pattern is simple: 
-
 -  Retain earnings to construct internal sovereignty. 
-
 -  Use liquidity as a buffer, not a weapon. 
-
 -  Invest from strength, never from anxiety. 
-
 -  Fragment risk across generations. 
-
 -  Bind the enterprise to moral authority, not market fashions. 
-
 -  Pass down process, not promises. 
-
 -  Engineer resilience before reach.
 
 Most companies chase leverage because they chase scale.
@@ -239,7 +231,6 @@ They built trust so consistently that banks and partners deferred to their integ
 Moral authority becomes economic capital.
 
 That is the strategic advantage. *"The integrity of the upright shall guide them."* 
-
 -  **Proverbs 11:3** Industrial dominion flows from moral dominion.
 
 Nordic families understood this before the terminology existed.
@@ -256,4 +247,4 @@ It is a covenant turned into cash flow.
 
 It is stewardship transformed into sovereign architecture.
 
-Contact for stewardship discussion
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

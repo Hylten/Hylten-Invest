@@ -14,7 +14,7 @@ It is governed.
 
 It is preserved through structural clarity rather than emotional decision making.
 
-And above all, it is protected through access to liquidity that does not compromise long term stewardship.
+And above all, it is protected through Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Families with significant capital often discover that the challenge is not wealth creation.
 
@@ -28,42 +28,36 @@ It requires the capacity to unlock liquidity without operational disruption, wit
 
 This is the domain of legacy hardening.
 
-This is the environment in which Hylten‑Invest functions as a structural partner. ## Liquidity as a Strategic Weapon for Families Liquidity is not only a buffer.
+This is the environment in which Hylten‑Invest functions as a structural partner. 
+
+## Liquidity as a Strategic Weapon for Families Liquidity is not only a buffer.
 
 It is a competitive advantage.
 
 Families with silent liquidity can: 
-
 -  Acquire distressed assets when the market is dislocated. 
-
 -  Restructure portfolios without forced selling. 
-
 -  Bridge succession planning without financial turbulence. 
-
 -  Privately finance internal family ventures. 
-
 -  Maintain control within private companies during generational transitions.
 
 Liquidity is the operating leverage of long term wealth management.
 
 Hylten‑Invest provides the ability to create these liquidity lines using assets that families already own.
 
-The outcome is a structure where wealth is preserved, but also activated. ## The Minimalist Approach to Capital Stewardship Minimalism in wealth management is about removing noise, removing unnecessary complexity, and focusing on function.
+The outcome is a structure where wealth is preserved, but also activated. 
+
+## The Minimalist Approach to Capital Stewardship Minimalism in wealth management is about removing noise, removing unnecessary complexity, and focusing on function.
 
 Families with large balance sheets do not require elaborate narratives.
 
 They require infrastructure that works reliably.
 
 The minimalist mindset ensures: 
-
 -  Clean collateral pathways. 
-
 -  Clear liquidity facility mechanics. 
-
 -  Predictable liquidity schedules. 
-
 -  Reduced operational friction. 
-
 -  Absolute discretion.
 
 This is not a trend.
@@ -76,7 +70,9 @@ Minimalist structures survive.
 
 They endure.
 
-They scale across generations without requiring reinvention. ## Institutions Serve the Market.
+They scale across generations without requiring reinvention. 
+
+## Institutions Serve the Market.
 
 We Serve the Family.
 
@@ -91,15 +87,10 @@ Where institutions optimize for average outcomes, we optimize for continuity and
 Where mass affluent products dominate the market, we remain focused on private credit, asset backed Institutional Liquidity Paths, and specialized liquidity solutions for families that require institutional mechanics without institutional exposure.
 
 Our environment is built for: 
-
 -  Quiet stability. 
-
 -  Multi generational continuity. 
-
 -  Capital structures that outlive any single economic cycle. 
-
 -  Strategic liquidity that reinforces governance. 
-
 -  Families who expect more than standardized financial products.
 
 This is not wealth management.
@@ -144,4 +135,4 @@ Preserve intentionally.
 
 And carry the legacy without interruption.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

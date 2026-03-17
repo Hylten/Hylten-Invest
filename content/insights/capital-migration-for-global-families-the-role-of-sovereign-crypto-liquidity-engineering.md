@@ -41,3 +41,5 @@ In this article we explore how sovereign crypto Institutional Liquidity Paths, w
 It is not a trend.
 
 It is an emerging pillar of long-term stewardship.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

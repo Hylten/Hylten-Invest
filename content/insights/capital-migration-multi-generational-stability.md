@@ -140,7 +140,9 @@ NAEO operationalizes them.
 
 The partnership model is built on discipline.
 
-It avoids speculation, minimizes operational surprises, and reinforces the principle that capital, when strategically aligned with real world assets, becomes resilient. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not sentiment.
+It avoids speculation, minimizes operational surprises, and reinforces the principle that capital, when strategically aligned with real world assets, becomes resilient. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
 It is governance.
 
@@ -182,7 +184,11 @@ Stewardship is the filter that ensures capital serves purpose.
 
 It disciplines decision making.
 
-It reorients the allocator toward sustainability measured in decades. ## ## A ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators managing intergenerational mandates face three pressures: 
+It reorients the allocator toward sustainability measured in decades. ## 
+
+## A ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators managing intergenerational mandates face three pressures: 
 
 1. Inflation erosion 
 
@@ -207,3 +213,5 @@ The objective is alignment.
 The mechanism is structure.
 
 The outcome is continuity across generations. [END]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

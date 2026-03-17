@@ -27,10 +27,13 @@ A simple truth reasserts itself.
 Moral authority compounds.
 
 Professionalized management does not. *"The integrity of the upright shall guide them."* 
+-  **Proverbs 11:3** 
 
--  **Proverbs 11:3** ## PHASE 
+## PHASE 
 
-1. ## ## ## PRIVATE BRIEFING: STRUCTURAL INTELLIGENCE FOR PRINCIPALS ONLY The first principle is straightforward: systems built on stewardship outperform systems built on extraction.
+1. ## ## 
+
+## PRIVATE BRIEFING: STRUCTURAL INTELLIGENCE FOR PRINCIPALS ONLY The first principle is straightforward: systems built on stewardship outperform systems built on extraction.
 
 This is not sentiment.
 
@@ -104,7 +107,9 @@ These are not romantic notions.
 
 They are structural dynamics.
 
-Markets are rebalancing toward them. ## PHASE 
+Markets are rebalancing toward them. 
+
+## PHASE 
 
 2. PRINCIPAL VOICE THE PRINCIPAL STATES.
 
@@ -148,10 +153,13 @@ Renewal is the differentiator.
 
 Renewal is why custodian-led firms outperform across downturns, succession windows, and capital transitions.
 
-Renewal requires belief, and belief cannot be installed through compensation packages. ## PHASE 
+Renewal requires belief, and belief cannot be installed through compensation packages. 
 
-3. ## ## INTERNAL BYPASS STRUCTURAL DEPTH 
+## PHASE 
 
+3. ## 
+
+## INTERNAL BYPASS STRUCTURAL DEPTH 
 -  1500+ WORD PRINCIPAL BRIEFING The industrial heritage of Europe and North America teaches us a central truth: capital follows character when the stakes are highest.
 
 Across every meaningful stress cycle-war, commodity shocks, demographic contractions, technological disruption-the Custodian Founder emerges as the stabilizing force.
@@ -325,3 +333,5 @@ This is why some founders now partner with firms capable of supporting generatio
 The point is simple.
 
 Stewardship sca
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

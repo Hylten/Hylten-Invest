@@ -366,7 +366,7 @@ By maintaining silence, the firm maintains sovereignty.
 
 By avoiding the spotlight, it avoids behavioral drift.
 
-Institutions partnering with Hylten Invest gain access to this sovereign posture.
+Institutions partnering with Hylten Invest gain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Not leverage.
 
@@ -544,6 +544,6 @@ A strategic advantage.
 
 A moral stance.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Terminal Metric: Liquidity Integrity Ratio ≥ 0.97 over 10-year horizon.

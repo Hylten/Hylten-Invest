@@ -91,13 +91,11 @@ It governs exposure, liquidity, seniority, and jurisdictional optimization.
 It determines the survivability of the asset base through economic, regulatory, and political volatility.
 
 Key structural mechanics include: 
-
 -  Jurisdictional Stratification.
 
 Sovereign families and industrial principals distribute asset classes across stable jurisdictions.
 
 Switzerland, Scandinavia, Alberta, Texas, and the UAE remain foundational due to regulatory predictability, property rights clarity, and operational continuity. 
-
 -  Capital Stack Differentiation.
 
 Resilient families segment assets into protective layers.
@@ -107,7 +105,6 @@ Foundational assets include energy producing properties, industrial acreage, and
 Yield assets include private credit, mid market acquisition finance, and infrastructure linked revenue lines.
 
 Agile assets include tactical liquidity reserves, acquisition dry powder, and opportunistic credit. 
-
 -  Liability Containment.
 
 Long horizon protection requires suppression of unnecessary leverage.
@@ -115,7 +112,6 @@ Long horizon protection requires suppression of unnecessary leverage.
 Leverage is used for asset acquisition but not for operating consumption.
 
 The structure is clean, not inflated. 
-
 -  Intergenerational Transfer Mechanics.
 
 Families that endure fifty to one hundred years pre engineer their transition frameworks.
@@ -129,25 +125,21 @@ Operational Discipline Operational discipline converts structural architecture i
 This is the domain where technical partners such as NAEO provide institutional grade intelligence inside specific asset classes.
 
 For energy anchored allocations the operational components include: 
-
 -  Field Level Production Forecasting.
 
 Heavy oil and conventional reservoirs in Alberta produce predictable decline curves when operated with SAGD or CSS systems.
 
 This creates measurable durability for long horizon planning. 
-
 -  Cost of Extraction Control.
 
 Reservoir physics combined with long term field discipline generate high visibility into operating costs.
 
 Predictability is more valuable than peak yield. 
-
 -  Asset Hardening through Development Cycles.
 
 Operational teams reinvest into field maintenance, surface optimization, and long cycle reservoir work.
 
 This converts volatile assets into stable production engines that can support generational planning. 
-
 -  Depletion as a Governance Tool.
 
 Mature producing assets with low variability reduce behavioural risk inside family governance.
@@ -165,17 +157,14 @@ It is a practical operating system rooted in historic Christian industrialism an
 A good man leaves an inheritance to his children's children.
 
 The theology of capital establishes three non negotiable principles. 
-
 -  Capital must be productive.
 
 Idle capital decays.
 
 Deployed capital cultivates generational resilience. 
-
 -  Capital must be moral.
 
 Stewardship prohibits exploitation and demands responsibility for the land, the workforce, and the community. 
-
 -  Capital must be long horizon.
 
 Families that compress their timeline cease to be sovereign.
@@ -221,34 +210,26 @@ The allocator receives clarity without solicitation pressure.
 Operational Intelligence Operational intelligence includes due diligence frameworks, structural risk mapping, and long horizon modelling.
 
 For energy allocations this includes: 
-
 -  Decline curve analytics. 
-
 -  Recovery factor optimization. 
-
 -  Steam to oil ratio forecasting inside SAGD systems. 
-
 -  Asset lifecycle extension through surface facility modernization. 
-
 -  Regulatory horizon mapping inside the Alberta regime.
 
 For private credit this includes: 
-
 -  Cash flow waterfall diagnostics. 
-
 -  LTV boundary evaluation. 
-
 -  Covenant durability. 
-
 -  Sponsor discipline analysis. 
-
 -  Security package hardening.
 
 The objective is strategic clarity.
 
 The allocator remains in control of decision making.
 
-The architecture becomes intentional rather than reactive. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the final filter because it governs the alignment between capital, character, and time.
+The architecture becomes intentional rather than reactive. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the final filter because it governs the alignment between capital, character, and time.
 
 Stewardship is not passive.
 
@@ -286,26 +267,23 @@ It designs governance systems so that the next generation inherits structure rat
 
 The Spirit of Gnosjö teaches that small disciplined steps produce enduring outcomes.
 
-Families anchored in this philosophy preserve both identity and wealth. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating in the current regime requires a precise lens.
+Families anchored in this philosophy preserve both identity and wealth. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating in the current regime requires a precise lens.
 
 That lens includes: 
-
 -  Duration analysis.
 
 Does the asset stabilize or destabilize the long horizon. 
-
 -  Jurisdictional resilience.
 
 Does the jurisdiction reinforce or undermine continuity. 
-
 -  Operational integrity.
 
 Does the operator produce predictability or variance. 
-
 -  Theological alignment.
 
 Does the allocation reflect stewardship or speculation. 
-
 -  Sovereign posture.
 
 Does the architecture strengthen or weaken sovereignty.
@@ -317,3 +295,5 @@ These audits identify structural drift, liquidity imbalance, operational vulnera
 The objective is not acquisition.
 
 The objective is sovereign clarity.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

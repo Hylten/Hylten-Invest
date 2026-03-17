@@ -14,7 +14,7 @@ One defined less by spectacle and more by precision, restraint, and structural c
 
 For the UHNW class, the theme is simple.
 
-Liquidity is no longer an accessory, it is the infrastructure behind every decision.
+Liquidity is no longer an Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 The shift is not driven by volatility alone.
 
@@ -40,20 +40,18 @@ We support public share Capital Structuring from a minimum threshold of 5 millio
 
 We design liquidity pathways for those who require stability without disclosure, and leverage without spectacle. 2026 is reshaping the stewardship expectations of the UHNW class.
 
-Below is a detailed view of the trends, forces, and structural considerations that matter. ## The Consolidation of Family Office Practices Family offices continue to consolidate processes and eliminate inefficiencies.
+Below is a detailed view of the trends, forces, and structural considerations that matter. 
+
+## The Consolidation of Family Office Practices Family offices continue to consolidate processes and eliminate inefficiencies.
 
 There is a growing trend toward outsourcing non essential functions and centralizing core decision making. 2026 places emphasis on liquidity readiness, governance strength, and simplified capital structures.
 
 One of the biggest shifts is the incorporation of private Monetization Architecture lines as a permanent feature of family office infrastructure.
 
 This includes: 
-
 -  credit secured against private assets 
-
 -  liquidity sourced through Asset-Based Lending mechanics 
-
 -  dedicated crypto Institutional Liquidity Paths channels 
-
 -  public equity Capital Structuring used as a baseline facility These Monetization Architecture structures allow family offices to act with speed while maintaining a conservative portfolio posture.
 
 The objective is not leverage for growth.
@@ -64,7 +62,9 @@ Hyltén Invest supports this direction.
 
 Our role is structural.
 
-We supply the mechanics that make family office consolidation functional and fluid. ## The Long Horizon Mindset The most powerful stewardship trend for 2026 is the shift toward long horizon thinking.
+We supply the mechanics that make family office consolidation functional and fluid. 
+
+## The Long Horizon Mindset The most powerful stewardship trend for 2026 is the shift toward long horizon thinking.
 
 Not five years.
 
@@ -124,10 +124,10 @@ We serve HNWI and UHNW individuals who prefer silence, stability, and structural
 
 We do not project authority.
 
-We operate with silent authority.
+We operate with principal authority.
 
 We provide the mechanics.
 
 You maintain control.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

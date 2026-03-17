@@ -190,7 +190,9 @@ Instead, it specializes vertically within a basin that rewards precision, not ex
 
 Through the partnership model, Roials Capital introduces allocators to NAEO only when structural alignment is evident.
 
-The objective is strategic navigation, not transactional intermediation. ## ## ## ## ## THE STEWARDSHIP FILTER Preservation is not merely financial.
+The objective is strategic navigation, not transactional intermediation. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Preservation is not merely financial.
 
 Preservation is a moral obligation.
 
@@ -238,7 +240,9 @@ This stewardship filter is fundamental to how I, Jonas Hyltén, evaluate any ass
 
 Preservation without stewardship is merely defensive investment.
 
-Preservation with stewardship is generational capital discipline. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating the 2026 landscape are confronted with a structural choice.
+Preservation with stewardship is generational capital discipline. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating the 2026 landscape are confronted with a structural choice.
 
 Preserve capital through abstraction or preserve capital through engineered stability.
 
@@ -277,3 +281,5 @@ It is strategic calibration.
 Allocators that understand the structural dynamics of Alberta heavy oil, the mechanics of SAGD based production, the importance of cost stability, and the long term reliability premium recognize that capital preservation today is not passive.
 
 It is engineered.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

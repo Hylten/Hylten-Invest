@@ -44,10 +44,10 @@ Through private credit, asset based Capital Structuring, crypto Monetization Arc
 
 This is the infrastructure that allows families to preserve ownership, maintain control, and act strategically over time.
 
-Silent authority.
+principal authority.
 
 Minimalist mechanics.
 
 Long-term stewardship.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

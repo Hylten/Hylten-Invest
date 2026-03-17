@@ -83,13 +83,9 @@ The technical framework includes four core mechanisms:
 1. Strategic Collateralization Families require liquidity structures that do not force asset sales during adverse conditions.
 
 This is accomplished through: 
-
 -  Controlled leverage tied to operational assets with hard covenants 
-
 -  Liquidity corridors that convert operating cash flow into flexible reserves 
-
 -  Cross collateralized structures where appropriate to reduce cost of capital 
-
 -  Duration matching between operational cycles and financing terms Traditional liquidity management focuses on cash reserves.
 
 Capital Structuring transforms predictable cash flows into strategic mobility without weakening the underlying asset. 
@@ -97,13 +93,9 @@ Capital Structuring transforms predictable cash flows into strategic mobility wi
 2. Balance Sheet Optimization The primary objective is to remove fragility.
 
 This includes: 
-
 -  Eliminating stranded assets that drain management attention 
-
 -  Realigning operating subsidiaries into coherent families of assets 
-
 -  Using senior secured credit structures to stabilize cash flow cycles 
-
 -  Deploying capital only into assets with measurable decline physics or repeatable operating mechanics Families with complex holdings often suffer from silent erosion.
 
 Optimization restores clarity.
@@ -113,13 +105,9 @@ It creates a structure where assets reinforce each other rather than dilute stra
 3. Asset Hardening Asset hardening increases the resilience and institutional profile of the family balance sheet.
 
 The mechanics include: 
-
 -  Increasing exposure to assets with predictable decline or usage profiles such as long life energy assets, industrial infrastructure, or logistics hubs 
-
 -  Reducing reliance on assets with valuation dependency rather than operational certainty 
-
 -  Creating cash flow redundancy through multi asset layering 
-
 -  Prioritizing sectors where technical recovery or operational regimes are well understood In the North American energy landscape, this includes assets such as SAGD and CSS operations with established decline curves and known steam oil ratios.
 
 Heavy oil behaves predictably under proper engineering.
@@ -164,7 +152,9 @@ Roials Capital does not function as an asset manager.
 
 Instead, it acts as an institutional introducer, providing families with a calibrated understanding of market structures, operational realities, and capital positioning mechanics.
 
-The objective is navigation, not distribution. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a sentimental principle.
+The objective is navigation, not distribution. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a sentimental principle.
 
 It is a technical discipline rooted in responsibility, accountability, and the pursuit of non wasteful management.
 
@@ -179,31 +169,24 @@ The family balance sheet should not be a collection of unrelated assets.
 It should be a coherent ecosystem of operational instruments that strengthen future generations.
 
 Stewardship applied to modern capital dictates: 
-
 -  Avoidance of fragile assets 
-
 -  Commitment to operational clarity 
-
 -  Reluctance toward speculative exposure 
-
 -  Prioritization of productive assets that create multi generational continuity Families that understand stewardship recognize that capital is not an end state.
 
 It is a tool for constructing systems that support future decision makers.
 
 Asset hardening is the mechanism through which stewardship becomes tangible.
 
-It embeds moral responsibility into financial architecture. ## ## PORTFOLIO CALIBRATION FOR THE NEXT GENERATION Allocators responsible for family capital face an environment defined by structural volatility and regulatory scarcity.
+It embeds moral responsibility into financial architecture. ## 
+
+## PORTFOLIO CALIBRATION FOR THE NEXT GENERATION Allocators responsible for family capital face an environment defined by structural volatility and regulatory scarcity.
 
 The disciplined path forward requires: 
-
 -  Asset classifications based on operational predictability 
-
 -  Liquidity architecture designed for resilience rather than convenience 
-
 -  Partnerships anchored in technical competence and transparency 
-
 -  Strategic alignment with operators whose performance derives from repeatable engineering 
-
 -  Governance frameworks that transition control without eroding integrity The next generation benefits most from systems rather than assets.
 
 Asset hardening builds systems.
@@ -235,3 +218,5 @@ The mechanisms are available.
 The alignment is achievable.
 
 The responsibility rests with those who steward the present with clarity and conviction.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

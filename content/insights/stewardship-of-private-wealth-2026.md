@@ -132,7 +132,9 @@ It is a platform for institutional ##
 
  where the allocator maintains full autonomy while gaining access to calibrated intelligence and operator relationships that would typically require multiple cycles to source independently.
 
-This positioning ensures that stewardship remains anchored in prudence rather than persuasion. ## ## ## ## ## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship as taught in the Christian industrial tradition is not optional.
+This positioning ensures that stewardship remains anchored in prudence rather than persuasion. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship as taught in the Christian industrial tradition is not optional.
 
 It is a command.
 
@@ -174,7 +176,11 @@ Stewardship rejects such structures.
 
 3. Does this deployment reflect alignment between talent, timing, and terrain Stewardship requires coherence.
 
-The allocator must operate in domains where their knowledge or partnerships provide structural advantage. ## ## THE ## ## DECISION MAKING LENS FOR 2026 The environment facing private wealth in 2026 is not defined by instability.
+The allocator must operate in domains where their knowledge or partnerships provide structural advantage. ## 
+
+## THE ## 
+
+## DECISION MAKING LENS FOR 2026 The environment facing private wealth in 2026 is not defined by instability.
 
 It is defined by divergence.
 
@@ -209,3 +215,5 @@ It is not a sales mechanism.
 It is a structural assessment designed to map resources, obligations, and opportunities against the stewardship mandate.
 
 This is the point where clarity replaces complexity and where capital begins to align with calling. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

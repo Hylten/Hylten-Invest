@@ -47,7 +47,6 @@ It is cultivated.
 It is shaped by the habits of the steward, not the movements of the market.
 
 The theological foundation is clear: capital is a responsibility given for the purpose of construction, not extraction. 
-
 -  **Proverbs 13:22** articulates this orientation with precision. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
@@ -142,7 +141,9 @@ Roials Capital's function is to position the allocator not in the operational tr
 
 The focus is alignment, not intervention.
 
-The partnership is structured so that the allocator benefits from field level predictability while maintaining the governance distance appropriate for institutional mandates. ## ## ## ## ## THE STEWARDSHIP FILTER The stewardship filter is the central pillar of sovereign capital.
+The partnership is structured so that the allocator benefits from field level predictability while maintaining the governance distance appropriate for institutional mandates. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER The stewardship filter is the central pillar of sovereign capital.
 
 It evaluates decisions through resource responsibility, governance integrity, and intergenerational continuity.
 
@@ -222,22 +223,19 @@ They build steadily.
 
 They avoid unnecessary visibility.
 
-The outcomes are strong because the foundation is steady. ## ## THE STRATEGIC LENS FOR ALLOCATORS The current global landscape demands a new archetype of allocator.
+The outcomes are strong because the foundation is steady. ## 
+
+## THE STRATEGIC LENS FOR ALLOCATORS The current global landscape demands a new archetype of allocator.
 
 Sovereign capital behaves differently because it thinks differently.
 
 It interprets markets not as opportunities for extraction but as systems requiring stewardship.
 
 This creates a distinctive decision making lens anchored in: 
-
 -  alignment with essential industries 
-
 -  preference for long horizon cash flows 
-
 -  structural avoidance of short cycle speculation 
-
 -  governance anchored in moral authority 
-
 -  intergenerational continuity Energy in North America, particularly through disciplined operators such as NAEO, becomes a natural match for this orientation.
 
 The Alberta basin offers geological predictability.
@@ -255,3 +253,5 @@ The outcome is clarity.
 Sovereign capital is not defined by its size.
 
 It is defined by its discipline. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

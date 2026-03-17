@@ -30,7 +30,9 @@ Reduce noise.
 
 Clarify authority.
 
-Preserve optionality. ## The Nature of Shifting Credit Regimes Credit regimes do not shift suddenly.
+Preserve optionality. 
+
+## The Nature of Shifting Credit Regimes Credit regimes do not shift suddenly.
 
 They transition.
 
@@ -58,7 +60,9 @@ During tightening cycles, lenders often require rapid intervention capacity.
 
 Control rights must adjust to match these cycles.
 
-This is a discipline of timing, ranking, and restraint. ## Why Control Rights Matter in a Stewardship Framework Control rights are often misinterpreted as adversarial instruments.
+This is a discipline of timing, ranking, and restraint. 
+
+## Why Control Rights Matter in a Stewardship Framework Control rights are often misinterpreted as adversarial instruments.
 
 For long term stewards, they are risk dampeners.
 
@@ -78,7 +82,9 @@ In real asset structures, they influence operational governance.
 
 Across all categories, they provide continuity.
 
-They reduce the cost of uncertainty. ## The Fiduciary Razor The Fiduciary Razor is a filtering mechanism.
+They reduce the cost of uncertainty. 
+
+## The Fiduciary Razor The Fiduciary Razor is a filtering mechanism.
 
 It examines every control right through three questions.
 
@@ -100,7 +106,9 @@ The Razor rewards clarity.
 
 For Hylten-Invest, the Razor ensures that each contractual right serves an enduring purpose.
 
-It eliminates the temptation to add clauses that feel protective but function as friction. ## Applying The Fiduciary Razor Across Three Credit Environments Control rights behave differently depending on the regime.
+It eliminates the temptation to add clauses that feel protective but function as friction. 
+
+## Applying The Fiduciary Razor Across Three Credit Environments Control rights behave differently depending on the regime.
 
 Below, the Razor is applied to three representative environments.
 
@@ -120,7 +128,7 @@ The Razor prioritizes the following.
 
 Clear reporting cadence.
 
-Direct access to financial systems where feasible.
+Direct Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Defined triggers tied to operational metrics, not market valuations.
 
@@ -178,7 +186,9 @@ In this regime, the execution of control rights is more common.
 
 The key is discernment.
 
-Intervention is a stewardship action, not a reaction. ## Control Rights as Strategic Levers Control rights are not binary instruments.
+Intervention is a stewardship action, not a reaction. 
+
+## Control Rights as Strategic Levers Control rights are not binary instruments.
 
 They operate along a continuum.
 
@@ -212,7 +222,9 @@ Switches conserve capital but disrupt relationships.
 
 Levers preserve the relationship and extend the runway for recovery.
 
-For Hylten-Invest, the long term focus means levers dominate. ## Negotiating Control Rights in an Uncertain Environment Negotiating rights during credit regime shifts requires clarity and restraint.
+For Hylten-Invest, the long term focus means levers dominate. 
+
+## Negotiating Control Rights in an Uncertain Environment Negotiating rights during credit regime shifts requires clarity and restraint.
 
 Borrowers are increasingly sensitive to overreach.
 
@@ -234,7 +246,9 @@ Rights that are backed by a clear stewardship philosophy are easier to negotiate
 
 Rights that appear tactical generate resistance.
 
-Minimalism becomes a negotiation advantage. ## Calibration Methodology Control rights calibration requires a systematic process.
+Minimalism becomes a negotiation advantage. 
+
+## Calibration Methodology Control rights calibration requires a systematic process.
 
 The following structure is effective for long term investors.
 
@@ -256,7 +270,9 @@ This methodology is cyclical.
 
 It does not depend on market timing.
 
-It depends on internal discipline. ## Measuring the Effectiveness of Control Rights Stewards must measure the outputs of governance design.
+It depends on internal discipline. 
+
+## Measuring the Effectiveness of Control Rights Stewards must measure the outputs of governance design.
 
 Effective control rights produce measurable outcomes.
 
@@ -278,7 +294,9 @@ If rights are used aggressively, their design may be excessive.
 
 The Razor prefers subtle influence.
 
-Impact without disruption. ## Case Structure: Credit Repricing Cycle and Rights Activation During repricing cycles, control rights often activate naturally.
+Impact without disruption. 
+
+## Case Structure: Credit Repricing Cycle and Rights Activation During repricing cycles, control rights often activate naturally.
 
 A typical sequence follows.
 
@@ -298,7 +316,9 @@ The goal is not to penalize the borrower.
 
 The goal is to maintain alignment.
 
-The Razor supports this by making the activation pathway clear, predictable, and fair. ## Avoiding Governance Overreach Overreach is a cost.
+The Razor supports this by making the activation pathway clear, predictable, and fair. 
+
+## Avoiding Governance Overreach Overreach is a cost.
 
 It reduces goodwill.
 
@@ -316,7 +336,9 @@ This trust becomes valuable during downturns.
 
 Borrowers collaborate more readily when they believe rights will be exercised responsibly.
 
-This is stewardship applied through structure, not force. ## The Role of Simplicity in Complex Regimes Simplicity is often underestimated.
+This is stewardship applied through structure, not force. 
+
+## The Role of Simplicity in Complex Regimes Simplicity is often underestimated.
 
 In shifting credit regimes, complexity does not protect.
 
@@ -336,7 +358,9 @@ It removes the unnecessary.
 
 It concentrates authority where it matters.
 
-It supports disciplined responses during uncertain periods. ## The Influence of Interest Rate Volatility Interest rate volatility is the primary variable that drives regime transition.
+It supports disciplined responses during uncertain periods. 
+
+## The Influence of Interest Rate Volatility Interest rate volatility is the primary variable that drives regime transition.
 
 As volatility increases, the time horizon for credit risk assessment shortens.
 
@@ -354,7 +378,9 @@ The Razor creates proportionality.
 
 No more than required.
 
-No less than necessary. ## Integration Into Family Office Governance Family offices and long term owners often maintain governance structures designed for stability rather than rapid adaptation.
+No less than necessary. 
+
+## Integration Into Family Office Governance Family offices and long term owners often maintain governance structures designed for stability rather than rapid adaptation.
 
 Shifting credit regimes challenge this model.
 
@@ -374,7 +400,9 @@ Consistent reporting escalation paths.
 
 This consistency supports faster decision cycles.
 
-It also supports clearer communication to stakeholders. ## The Future of Rights Calibration Control rights design will become more dynamic.
+It also supports clearer communication to stakeholders. 
+
+## The Future of Rights Calibration Control rights design will become more dynamic.
 
 Credit markets are shifting toward structural volatility.
 
@@ -416,4 +444,4 @@ It strengthens governance.
 
 It positions assets for resilience regardless of the credit cycle.
 
-Contact for stewardship discussion
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

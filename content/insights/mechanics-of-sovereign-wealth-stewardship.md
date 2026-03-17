@@ -162,7 +162,9 @@ Roials Capital serves as the translator between the sovereign allocator and the 
 
 This partnership model is essential for sovereign entities that require accurate assessment of operational realities without assuming operational liability.
 
-The sovereign allocator protects its balance sheet while gaining access to calibrated ground truth. ## ## ## ## ## THE STEWARDSHIP FILTER The ethical dimension of capital is not rhetorical.
+The sovereign allocator protects its balance sheet while gaining access to calibrated ground truth. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER The ethical dimension of capital is not rhetorical.
 
 It is operational.
 
@@ -222,7 +224,9 @@ A buffer against volatility.
 
 Identity determines allocation.
 
-A portfolio without identity becomes a hostage of market cycles. ## ## THE CALIBRATION FRAMEWORK FOR SOVEREIGN ALLOCATORS The sovereign allocator evaluating global deployment opportunities must apply a calibration framework.
+A portfolio without identity becomes a hostage of market cycles. ## 
+
+## THE CALIBRATION FRAMEWORK FOR SOVEREIGN ALLOCATORS The sovereign allocator evaluating global deployment opportunities must apply a calibration framework.
 
 This framework replaces reactive decision making with structured assessment. 
 
@@ -315,3 +319,5 @@ A confidential strategy audit can assess whether an allocator’s framework, gov
 The steward who governs with intention strengthens the nation.
 
 The steward who governs with drift weakens it. [END BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

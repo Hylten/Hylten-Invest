@@ -73,33 +73,23 @@ The allocator must focus on:
 Effective Asset-Backed Frameworks aligns asset duration with operational requirements.
 
 This includes: 
-
 -  Segmented liquidity tiers with predetermined activation triggers 
-
 -  Pre-structured liquidity pathways for stressed scenarios 
-
 -  Cross-jurisdictional buffers that reduce regulatory bottlenecks 
 
 2. Asset Hardening Digital portfolios often contain assets that behave like soft liabilities during market stress.
 
 Asset hardening is the process of stabilizing exposure by prioritizing: 
-
 -  Real asset linkage 
-
 -  Non correlated cash flow channels 
-
 -  Defensive collateral arrangements 
-
 -  Durability over velocity 
 
 3. Balance Sheet Optimization The modern balance sheet is not measured by the quantity of assets but by the alignment of assets with the family's institutional archetype.
 
 Optimization includes: 
-
 -  Strategic allocation based on mission rather than momentum 
-
 -  Reduction of derivatives based on market noise 
-
 -  Integration of private credit or real asset income for baseline stability 
 
 4. Opportunity Velocity Generational wealth requires the discipline to act with speed when genuine dislocations appear.
@@ -107,13 +97,9 @@ Optimization includes:
 Digital markets produce false dislocations that appear attractive but lack structural foundation.
 
 Opportunity velocity measures the family's ability to mobilize capital only when the opportunity aligns with: 
-
 -  Enduring cash flows 
-
 -  Fundamental value drivers 
-
 -  Operational intelligence 
-
 -  Verification through strategic partners This discipline filters out the noise.
 
 It ensures that capital is deployed with conviction rather than reaction.
@@ -129,28 +115,21 @@ The role is to align the allocator with the appropriate institutional archetypes
 Within energy markets, operational intelligence is provided through the institutional partner NAEO.
 
 This partner provides: 
-
 -  Verified decline curves 
-
 -  Recovery factor modeling 
-
 -  Technical field data 
-
 -  Alberta basin physics 
-
 -  Multi decade operational alignment In other asset classes, Roials Capital maintains neutrality.
 
 The focus is on: 
-
 -  Structural alignment 
-
 -  Risk posture calibration 
-
 -  Balance sheet strategy 
-
 -  Institutional ecosystem access The partnership model exists to reduce friction.
 
-It ensures the allocator navigates the modern regime without the structural mistakes that typically erode multi generational wealth. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a theological ornament.
+It ensures the allocator navigates the modern regime without the structural mistakes that typically erode multi generational wealth. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a theological ornament.
 
 It is a technical and moral standard that governs how families manage capital across generations.
 
@@ -180,7 +159,9 @@ It must not be exposed to noise.
 
 It must be deployed with careful selection and operational intelligence.
 
-The theology of capital demands precise, principled decision making. ## ## THE DECISION FRAMEWORK FOR THE ALLOCATOR Navigating wealth preservation in the digital age is not an act of prediction.
+The theology of capital demands precise, principled decision making. ## 
+
+## THE DECISION FRAMEWORK FOR THE ALLOCATOR Navigating wealth preservation in the digital age is not an act of prediction.
 
 It is an act of alignment.
 
@@ -213,3 +194,5 @@ The digital age introduces volatility.
 Stewardship introduces clarity.
 
 When the allocator aligns these disciplines, wealth preservation transitions from defensive posture to generational continuity. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

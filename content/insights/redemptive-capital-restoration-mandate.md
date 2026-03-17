@@ -21,7 +21,6 @@ Capital carries judgment.
 You deploy it well, the community strengthens.
 
 You deploy it poorly, the foundation cracks. *"And they shall build the old wastes, they shall raise up the former desolations."* 
-
 -  **Isaiah 61:4** Phase 
 
 1. Internal Logic.
@@ -132,4 +131,4 @@ It is free enterprise with a spine.
 
 It is capital remembering its Creator.
 
-Contact for stewardship discussion
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

@@ -450,4 +450,4 @@ A good man leaves an inheritance to his children's children.
 
 Technical Mandate: Minimum asset-hardening ratio 1.7x within 36 months.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

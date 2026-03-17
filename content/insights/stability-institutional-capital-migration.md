@@ -21,7 +21,6 @@ The Nordic industrial families understood this.
 Gnosjö understood this.
 
 The biblical principle stands: A good man leaves an inheritance to his children’s children, 
-
 -  **Proverbs 13:22** .
 
 Migration of capital is, at its core, the migration of trust.
@@ -434,4 +433,4 @@ Minimum institutional stability coefficient:
 
 0. 
 
-87. Contact for stewardship discussion.
+87. Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

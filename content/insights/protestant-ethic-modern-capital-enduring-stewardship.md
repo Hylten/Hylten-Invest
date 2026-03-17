@@ -140,4 +140,4 @@ Covenant.
 
 That is capital worthy of inheritance.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

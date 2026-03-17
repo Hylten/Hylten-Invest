@@ -118,7 +118,9 @@ This includes: * Litigation proof custody * Multi signature institutional contro
 
 Mobility enhances stewardship.
 
-Stewardship enhances durability. ## ## ## ## ## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL My work in the Nordics has always operated under the conviction that capital is not an object but a responsibility. **Proverbs 13:22** states that a good person leaves an inheritance to their grandchildren, meaning that wealth must be structured to outlast individual lifetimes.
+Stewardship enhances durability. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL My work in the Nordics has always operated under the conviction that capital is not an object but a responsibility. **Proverbs 13:22** states that a good person leaves an inheritance to their grandchildren, meaning that wealth must be structured to outlast individual lifetimes.
 
 This requires discipline, clarity, and strategy.
 
@@ -142,7 +144,9 @@ Crypto settlement rails are not a disruption to stewardship.
 
 They are a tool for protecting the ability to allocate responsibly.
 
-Every secure transfer, every preserved option, every compliant movement of liquidity contributes to the long horizon vision embedded in generational families. ## ## ## ## DECISION MAKING LENS FOR THE GLOBAL ALLOCATOR Allocators evaluating sovereign crypto liquidity infrastructure should examine the question through five filters: * Does the architecture increase or decrease dependency on any one jurisdiction. * Does it enhance or restrict operational liquidity. * Does it strengthen or weaken audit transparency. * Does it accelerate or hinder balance sheet optimization. * Does it align with long horizon stewardship mandates.
+Every secure transfer, every preserved option, every compliant movement of liquidity contributes to the long horizon vision embedded in generational families. ## ## ## 
+
+## DECISION MAKING LENS FOR THE GLOBAL ALLOCATOR Allocators evaluating sovereign crypto liquidity infrastructure should examine the question through five filters: * Does the architecture increase or decrease dependency on any one jurisdiction. * Does it enhance or restrict operational liquidity. * Does it strengthen or weaken audit transparency. * Does it accelerate or hinder balance sheet optimization. * Does it align with long horizon stewardship mandates.
 
 Families that integrate sovereign liquidity rails position themselves above jurisdictional noise.
 
@@ -151,3 +155,5 @@ Those that delay risk embedding fragility into an otherwise resilient structure.
 Roials Capital conducts confidential Strategy Consultations for families requiring deeper analysis, regulatory mapping, or institutional introductions to sovereign grade crypto infrastructure partners in Switzerland, the Emirates, and Singapore.
 
 The objective is clarity, mobility, and alignment with long horizon stewardship.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

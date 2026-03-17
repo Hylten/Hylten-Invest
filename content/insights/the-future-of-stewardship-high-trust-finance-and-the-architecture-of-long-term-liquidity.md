@@ -16,7 +16,7 @@ For High Net Worth and Ultra High Net Worth families, the financial landscape is
 
 It is built around preservation, controlled leverage, and the ability to move within an increasingly constrained global framework.
 
-Hyltén Invest operates within this environment with silent authority.
+Hyltén Invest operates within this environment with principal authority.
 
 We provide the structural mechanics that enable institutional precision without institutional noise.
 
@@ -24,7 +24,9 @@ Our focus remains constant, which is conservative Monetization Architecture agai
 
 The future of stewardship will not belong to those who chase velocity.
 
-It will belong to those who control liquidity with intention. ## Stewardship in the Next Decade The next decade will reward conservatism.
+It will belong to those who control liquidity with intention. 
+
+## Stewardship in the Next Decade The next decade will reward conservatism.
 
 Not stagnation.
 
@@ -45,16 +47,14 @@ Institutional capital will seek partners capable of precise execution.
 Stewardship will return to the forefront of wealth strategy, and within this return, high trust finance becomes a core pillar.
 
 Hyltén Invest positions itself to support families through this evolution with controlled Strategic Collateralization against: 
-
 -  Private credit. 
-
 -  Real assets. 
-
 -  Institutional grade digital assets. 
-
 -  Public equity portfolios.
 
-The future will favor those who move quietly with intention. ## The Families That Endure Wealth longevity is rarely the result of innovation.
+The future will favor those who move quietly with intention. 
+
+## The Families That Endure Wealth longevity is rarely the result of innovation.
 
 It is the result of discipline.
 
@@ -96,4 +96,4 @@ Hyltén Invest remains committed to providing the Strategic Collateralization ar
 
 If your mandate is long term, and if your priority is disciplined liquidity, our approach aligns with your values.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

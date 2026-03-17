@@ -77,13 +77,10 @@ Asset Durability Durable assets provide a stable foundation for private credit.
 They generate definable cash flows, have clear industrial use cases, and demonstrate low replacement elasticity.
 
 Examples include: 
-
 -  Alberta heavy oil with predictable decline curves and known recovery ceiling.
 
 SAGD and CSS cycles inform institutional underwriting, reduce uncertainty, and allow for structured capital layering. 
-
 -  Western European precision manufacturing facilities with 30 to 40 year useful life horizons. 
-
 -  Owner operated logistics assets with locked in customer throughput and measurable cost of repositioning.
 
 Durability reduces the entropy that often destabilizes private credit portfolios.
@@ -101,19 +98,15 @@ The rise of complex capital stacks across middle market borrowers has introduced
 Strategic Collateralization is the restructuring of liabilities, covenants, and cash flow availability in order to extend operational runway without sacrificing strategic flexibility.
 
 Key mechanisms include: 
-
 -  LTV recalibration across senior, unitranche, and mezzanine layers.
 
 This is particularly relevant when appraised value decouples from replacement value. 
-
 -  Collateral realignment between operating assets and non operating assets.
 
 This is common among energy operators with multi basin portfolios. 
-
 -  Cash flow waterfall restructuring to align working capital cycles with debt service coverage.
 
 This reduces unnecessary strain during seasonal or commodity driven fluctuations. 
-
 -  Covenant re design to match the operational cadence of the underlying business.
 
 For example, thermal oil assets in Alberta often require steam cycle based covenant logic rather than monthly coverage testing.
@@ -135,15 +128,10 @@ The most resilient private credit structures integrate operational intelligence 
 This is particularly clear in the Alberta basin with partners like NAEO, who maintain a depth of technical understanding across SAGD cycle management, reservoir thermodynamics, and recovery factor optimization.
 
 Operationally aligned underwriting focuses on: 
-
 -  Cost curve visibility. 
-
 -  Asset management cycle timing. 
-
 -  Field level maintenance cadence. 
-
 -  Decline curve accuracy. 
-
 -  Cash conversion efficiency.
 
 When operational data is integrated early, the capital structure becomes more accurate, more efficient, and more durable.
@@ -157,23 +145,15 @@ In the North American energy corridor, Roials Capital aligns with NAEO as the in
 NAEO operates with a technical rigor that is often absent in mid market operators.
 
 This includes: 
-
 -  Full cycle recovery factor modeling. 
-
 -  EPC level visibility across steam distribution systems. 
-
 -  Tight integration between asset management and financing structures. 
-
 -  Field based cash flow forecasting grounded in reservoir physics.
 
 Within other private credit sectors, Roials Capital focuses on: 
-
 -  Identifying operators with high stewardship integrity. 
-
 -  Mapping out capital stack stress points. 
-
 -  Ensuring allocators have direct visibility into balance sheet optimization pathways. 
-
 -  Facilitating institutional introductions that enhance continuity rather than destabilize it.
 
 Roials Capital does not sell product.
@@ -182,7 +162,9 @@ Roials Capital navigates markets on behalf of allocators, providing clarity wher
 
 The objective is alignment.
 
-The output is institutional confidence. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a theological concept applied to finance.
+The output is institutional confidence. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a theological concept applied to finance.
 
 It is a financial discipline rooted in theological origin.
 
@@ -214,7 +196,11 @@ It allows allocators to operate with confidence during periods of rapid repricin
 
 It protects generational capital from unnecessary exposure.
 
-It restores long term alignment between operator and financier. ## ## A ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within this environment benefit from a structured decision framework.
+It restores long term alignment between operator and financier. ## 
+
+## A ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within this environment benefit from a structured decision framework.
 
 The following filter is often most effective: 
 
@@ -255,3 +241,5 @@ For energy specific mandates, partners like NAEO represent the technical backbon
 Allocators seeking to calibrate portfolios within a volatile private credit environment benefit from a Confidential Strategy Audit.
 
 This provides system level visibility, identifies structural vulnerabilities, and outlines pathways to enhance stewardship, resilience, and long term operational alignment. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

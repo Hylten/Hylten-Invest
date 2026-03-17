@@ -41,3 +41,5 @@ Families call this caution.
 It is entropy.
 
 It kills initiati
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -47,7 +47,6 @@ No drift.
 No indulgence.
 
 Value forms at the anvil, not in sentiment. *"He that is faithful in that which is least is faithful also in much."* 
-
 -  **Luke 16:10** Hierarchy emerges naturally.
 
 The doer sits above the talker.
@@ -129,5 +128,4 @@ The lesson stands: Guard the ethic.
 Guard the craft.
 
 Guard the legacy. *"The integrity of the upright shall guide them."* 
-
--  **Proverbs 11:3** Contact for stewardship discussion
+-  **Proverbs 11:3** Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

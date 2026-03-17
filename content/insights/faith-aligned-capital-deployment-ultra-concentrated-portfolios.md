@@ -127,13 +127,9 @@ I do not argue.
 I declare.
 
 Concentrated capital must be governed by four pillars: 
-
 -  The Theology of Ownership 
-
 -  The Doctrine of Productive Stewardship 
-
 -  The Covenant of Generational Continuity 
-
 •  The Industrial Mandate for Value Creation These are not embellishments.
 
 These are structural steel beams.
@@ -243,11 +239,8 @@ Principles do not.
 You build the portfolio so it can survive turbulence without violating conscience.
 
 The architecture includes: 
-
 -  A moral jurisdiction (identity, covenant, chartering) 
-
 -  A production jurisdiction (industrial output, labor, enterprise) 
-
 -  A deployment jurisdiction (capital formation, structured expansion) Each carries a role.
 
 Each carries a cost.
@@ -345,9 +338,7 @@ The secular world reverses this, and that is why it produces short cycles and br
 Obedience creates durability.
 
 Within this architecture, capital deployment uses two key engines: 
-
 -  Concentrated conviction portfolios rooted in enterprise value. 
-
 -  Strategic hedges tied to real‑world productivity.
 
 Not paper abstractions.
@@ -412,4 +403,4 @@ Service to God precedes service to markets.
 
 When that order is honored, the portfolio becomes unshakeable.
 
-Contact for stewardship discussion
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

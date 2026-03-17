@@ -142,7 +142,9 @@ Roials Capital maintains introducer neutrality.
 
 The objective is to calibrate allocators to markets where disciplined operators can execute consistently.
 
-This is Strategic Collateralization focused on predictable value extraction rather than speculative timing. ## ## ## ## ## THE STEWARDSHIP FILTER The Theology of Capital provides the governing lens.
+This is Strategic Collateralization focused on predictable value extraction rather than speculative timing. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER The Theology of Capital provides the governing lens.
 
 Stewardship is not an aesthetic.
 
@@ -174,7 +176,9 @@ Capital that reduces waste, volatility, and disorder is capital under stewardshi
 
 The Gnosjö Spirit operationalizes all four criteria.
 
-It transforms capital allocation into an act of disciplined responsibility. ## ## DECISION ARCHITECTURE FOR THE ALLOCATOR Modern allocators operate in an environment where noise outpaces signal.
+It transforms capital allocation into an act of disciplined responsibility. ## 
+
+## DECISION ARCHITECTURE FOR THE ALLOCATOR Modern allocators operate in an environment where noise outpaces signal.
 
 The Gnosjö framework provides a filtration mechanism that restores clarity.
 
@@ -187,3 +191,5 @@ Roials Capital supports this process through confidential strategy audits and po
 The focus is clarity, not commitment.
 
 The objective is alignment, not allocation. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

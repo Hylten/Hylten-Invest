@@ -28,20 +28,17 @@ At Hyltén Invest, we approach legacy planning by reinforcing this alignment.
 
 We provide structural mechanics, supported by private credit and asset based Institutional Liquidity Paths, that allow capital to move with precision.
 
-We maintain silent authority, not visibility.
+We maintain principal authority, not visibility.
 
-Not noise, but weight. ## Building a Legacy That Functions Like an Institution Families with significant wealth increasingly resemble private institutions.
+Not noise, but weight. 
+
+## Building a Legacy That Functions Like an Institution Families with significant wealth increasingly resemble private institutions.
 
 They require: 
-
 -  Treasury functions 
-
 -  Liquidity planning 
-
 -  Structural oversight 
-
 -  Credit architecture 
-
 -  Risk corridors Yet they also require discretion and flexibility, attributes not always present in traditional institutional frameworks.
 
 Hyltén Invest is designed to bridge this gap.
@@ -50,25 +47,24 @@ We bring institutional-grade mechanics without institutional overhead.
 
 We operate as an external spine that supports internal decision-making.
 
-This alignment allows families to preserve independence while maintaining structure. ## The Strategic Horizon: Looking Beyond the Present Generation Legacy planning is not about predicting future markets.
+This alignment allows families to preserve independence while maintaining structure. 
+
+## The Strategic Horizon: Looking Beyond the Present Generation Legacy planning is not about predicting future markets.
 
 It is about preparing future decision environments.
 
 Institutional alignment ensures that future decision-makers inherit: 
-
 -  Liquidity frameworks 
-
 -  Stable collateral structures 
-
 -  Pre-engineered credit pathways 
-
 -  Clean capital architecture 
-
 -  A system that reduces complexity instead of adding to it This provides the next generation with strategic room to maneuver.
 
 It reduces the burden of operational decisions so they can focus on vision and continuity.
 
-It creates an environment where legacy is not merely preserved, but deployed. ## Why Hyltén Invest Exists in This Landscape We do not exist to replace family offices.
+It creates an environment where legacy is not merely preserved, but deployed. 
+
+## Why Hyltén Invest Exists in This Landscape We do not exist to replace family offices.
 
 We exist to strengthen them.
 
@@ -86,7 +82,9 @@ Our role is structural.
 
 Our value is longevity.
 
-Our mandate is stability. ## Final Reflection: Alignment as an Act of Stewardship Institutional alignment is not a tactic.
+Our mandate is stability. 
+
+## Final Reflection: Alignment as an Act of Stewardship Institutional alignment is not a tactic.
 
 It is a form of stewardship.
 
@@ -100,4 +98,4 @@ For those who operate at scale, alignment is not optional.
 
 It is the foundation upon which continuity rests.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

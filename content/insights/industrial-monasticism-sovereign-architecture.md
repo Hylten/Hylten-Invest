@@ -63,7 +63,6 @@ A forge in 1874 had one theological mandate: work as unto the Lord.
 Modern manufacturing has the same.
 
 Strip until only purpose remains. *"Let the beauty of the Lord our God be upon us: and establish thou the work of our hands upon us."* 
-
 -  **Psalm 90:17** Hierarchy follows naturally.
 
 The disciplined house produces stable value.
@@ -96,4 +95,4 @@ Sovereign.
 
 Enduring.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

@@ -67,11 +67,8 @@ The objective is not yield maximization.
 It is operational reliability.
 
 Effective Strategic Collateralization uses: 
-
 -  Time segmented capital pools that function independently rather than as a blended NAV. 
-
 -  Institutional liquidity corridors that allow capital to exit or enter positions without disrupting the whole structure. 
-
 -  Tactical liquidity overlays that serve as shock absorbers during market compression events.
 
 Families that fail to engineer liquidity fall into one of two errors.
@@ -83,11 +80,8 @@ Robust structures avoid both extremes.
 2. Balance sheet optimization This is the process of aligning family liabilities, income flows, and investment horizons so that the balance sheet becomes strategically receptive rather than reactive.
 
 Balance sheet optimization uses tools such as: 
-
 -  Hybrid credit facilities for tactical deployment. 
-
 -  Controlled leverage rather than defensive deleveraging. 
-
 -  Cross structure cash flow mapping that ensures predictability during stress periods.
 
 An optimized balance sheet acts as a force multiplier.
@@ -101,11 +95,8 @@ It is not an asset class category.
 It is a durability function.
 
 Institutional grade asset hardening typically includes exposures such as: 
-
 -  Real economy cash flows where physical production or essential services create persistence. 
-
 -  Collateralized structures with transparent risk parameters and defined seniority. 
-
 -  Real asset backbones with long duration relevance.
 
 One of the more significant examples in North America is the traditional energy sector.
@@ -144,7 +135,9 @@ Not a transaction.
 
 Not a pursuit of yield.
 
-A calibration of interlocking functions. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a technical discipline, not a philosophical theme.
+A calibration of interlocking functions. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a technical discipline, not a philosophical theme.
 
 It is the governance lens that evaluates capital decisions based on moral clarity and operational responsibility.
 
@@ -161,15 +154,12 @@ Capital is not deployed merely for the benefit of a present actor but for the gu
 This requires a structural humility that prioritizes solidity over visibility.
 
 Stewardship adheres to several principles. 
-
 -  No waste.
 
 Capital should not remain idle unless that idle position serves a purpose. 
-
 -  No speculation.
 
 Decisions must be grounded in data, not sentiment. 
-
 -  No shortcuts.
 
 Governance and diligence frameworks must exceed industry norms.
@@ -180,7 +170,9 @@ Balance sheet optimization becomes a responsibility.
 
 Asset hardening becomes an act of protection.
 
-Wealth becomes a resource to be managed, not an identity to be inflated. ## ## THE DECISION LENS FOR THE MODERN ALLOCATOR HNWI families and family offices increasingly seek structures that are resilient, practical, and aligned with generational mandates.
+Wealth becomes a resource to be managed, not an identity to be inflated. ## 
+
+## THE DECISION LENS FOR THE MODERN ALLOCATOR HNWI families and family offices increasingly seek structures that are resilient, practical, and aligned with generational mandates.
 
 The allocator environment requires the following evaluation steps. 
 
@@ -217,3 +209,5 @@ The families that endure across generations do not pursue yield.
 They pursue alignment, discipline, and resilience.
 
 This is the architecture of long term stewardship and the foundation of strategic liquidity for the modern wealth environment.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

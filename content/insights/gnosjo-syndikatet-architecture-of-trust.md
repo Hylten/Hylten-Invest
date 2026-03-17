@@ -410,6 +410,6 @@ Everything else is speculation.
 
 Everything else is drift.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Institutional Mandate Density Index: 0.87

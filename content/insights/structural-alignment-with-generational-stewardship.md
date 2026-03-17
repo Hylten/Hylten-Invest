@@ -18,54 +18,47 @@ It is written for principals, allocators, and owners carrying multi generational
 
 It is not advisory language.
 
-It is a framing of capital as vocation. ## Mandate Discipline A mature enterprise operates under mandate.
+It is a framing of capital as vocation. 
+
+## Mandate Discipline A mature enterprise operates under mandate.
 
 A mandate is not a goal.
 
 A mandate is an assignment.
 
 For Hyltén Invest and aligned Fund-III grade activities, the core mandates remain: 
-
 -  North American Energy Opportunities 
-
 -  European acquisition corridor under MiFID II 
-
 -  structural asset hardening 
-
 -  covenant stewardship across owner layers 
-
 -  engineering driven origination Mandate discipline prevents distraction.
 
 Distraction fractures stewardship.
 
-Fractured stewardship erodes generational continuity. ## liquidity engineering Threshold Integrity Threshold clarity protects counterparties and owners.
+Fractured stewardship erodes generational continuity. 
+
+## liquidity engineering Threshold Integrity Threshold clarity protects counterparties and owners.
 
 It prevents drift into risk profiles that compromise the enterprise.
 
 Current thresholds: 
-
 -  crypto backed Asset-Backed Frameworks from 2M USD 
-
 -  public share Asset-Backed Frameworks from 5M USD 
-
 -  no exceptions without board level covenant review In covenant stewardship, predictability is moral.
 
 It communicates reliability.
 
-It signals seriousness. ## Toward a Generational Standard The next frontier of Christian industrial leadership will not be defined by rhetoric.
+It signals seriousness. 
+
+## Toward a Generational Standard The next frontier of Christian industrial leadership will not be defined by rhetoric.
 
 It will be defined by structure.
 
 The families that rise will be those that understand: 
-
 -  capital as calling 
-
 -  structure as witness 
-
 -  discipline as protection 
-
 -  velocity as obedience 
-
 -  covenant as governance The Spirit of Gnosjö is not nostalgia.
 
 It is a living pattern of Christian industriousness that remains relevant in modern private markets.
@@ -76,7 +69,9 @@ Capital respects conviction backed by architecture.
 
 Institutions respect order backed by clarity.
 
-Generations respect legacy backed by stewardship. ## Closing for Principals Structural alignment is not an administrative exercise.
+Generations respect legacy backed by stewardship. 
+
+## Closing for Principals Structural alignment is not an administrative exercise.
 
 It is an act of faithfulness.
 
@@ -88,4 +83,4 @@ A firm that embodies this becomes investable.
 
 A legacy grounded in this becomes durable.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

@@ -13,3 +13,5 @@ Moving beyond mere text and image generation, we are entering the era of agentic
 At Hyltén Invest, we focus on identifying the platforms building the essential infrastructure for this transformation.
 
 We believe that the next wave of value will be captured by systems that don't just "chat," but "act."
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

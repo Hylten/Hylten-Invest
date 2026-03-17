@@ -73,7 +73,6 @@ A sovereign fund, by definition, requires a multigenerational horizon.
 Multigenerational capital demands a multigenerational ethic.
 
 That is why the analysis now points back to faith-rooted governance models. *"The integrity of the upright shall guide them."* 
-
 -  **Proverbs 11:3** The architecture becomes simple.
 
 Duty first.
@@ -110,4 +109,4 @@ But it moves toward strength.
 
 And strength still resides in governance built on moral authority, free enterprise, and the understanding that capital is a trust-not a trophy.
 
-Contact for stewardship discussion
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

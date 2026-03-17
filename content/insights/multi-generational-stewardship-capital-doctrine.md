@@ -202,7 +202,9 @@ This gives stewards the ability to evaluate opportunity not as a transaction but
 
 Roials Capital supports families in evaluating leverage profiles, liquidity thresholds, and inter entity capital flows.
 
-The objective is not to maximize leverage but to calibrate resilience. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+The objective is not to maximize leverage but to calibrate resilience. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
 It is the recognition that capital carries moral obligation.
 
@@ -232,7 +234,9 @@ They plan for succession long before transition becomes urgent.
 
 Covenantal Integrity Stewardship recognizes that resources are entrusted, not owned in absolute terms.
 
-This creates a disciplined humility in decision making and reduces excessive risk taking. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating in the new regime require clarity.
+This creates a disciplined humility in decision making and reduces excessive risk taking. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating in the new regime require clarity.
 
 The question is no longer which opportunity offers the highest upside.
 
@@ -241,29 +245,20 @@ The question is which structures have the durability to survive volatility.
 Multi generational stewardship provides that framework.
 
 Families and institutions aligned with stewardship principles benefit from: 
-
 -  Cross cycle resilience 
-
 -  Operational transparency 
-
 -  Lower behavioral risk 
-
 -  Higher probability of continuity 
-
 -  Stronger alignment with real asset behavior 
-
 -  Strategic calm in high volatility environments Roials Capital supports this process through a Confidential Strategy Audit.
 
 This includes: 
-
 -  Structural analysis of capital stacks 
-
 -  Evaluation of Capital Structuring capacity 
-
 -  Review of operational alignment 
-
 -  Identification of institutional grade partners such as NAEO 
-
 -  Calibration of long horizon asset exposure This memorandum provides the strategic foundation.
 
 The next step is an applied calibration of the allocator's existing portfolio to determine where stewardship aligned structures can enhance durability and continuity across generations. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

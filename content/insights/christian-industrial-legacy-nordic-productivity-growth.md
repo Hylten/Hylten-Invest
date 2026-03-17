@@ -41,7 +41,6 @@ They refined.
 They upheld the covenant between labor, capital, and faith.
 
 Their factories became temples of order, discipline, and transformation. *"Commit thy works unto the Lord, and thy thoughts shall be established."* 
-
 -  **Proverbs 16:3** This is the core.
 
 This is the engine.
@@ -71,13 +70,9 @@ That generational continuity is obligation, not aspiration.
 These firms formed the underlying structural skeleton long before any modern policy model existed.
 
 Their logic was simple and uncompromising. 
-
 -  Resourcefulness as creed 
-
 -  Covenant as capital 
-
 -  Discipline as sovereign advantage 
-
 -  Innovation as duty They practiced stewardship not as a slogan but as the foundation of operational architecture.
 
 Machine-gun clarity: Work mattered.
@@ -221,29 +216,17 @@ You cannot extract the fruit and abandon the root.
 Now the deeper mechanics.
 
 Christian industrial legacy firms created productivity through: 
-
 -  Temporal discipline 
-
 -  long horizons, patient capital, multi-decade equipment cycles 
-
 -  Human capabilities 
-
 -  apprenticeship, dignity of labor, craft pride 
-
 -  Structural clarity 
-
 -  simple hierarchies, delegated authority, direct accountability 
-
 -  Community density 
-
 -  tight, trust-based supplier networks 
-
 -  Covenant thinking 
-
 -  the household as the sovereign capital allocator 
-
 -  Moral philosophy 
-
 -  work as calling, not consumption This matrix produced stable, compounding advantages.
 
 The Protestant ethic is not an abstraction.
@@ -275,7 +258,6 @@ They saw the enterprise not as a personal asset but as a multi-generational trus
 The Bible formed the governance code.
 
 The factory floor translated it into motion. *"Seest thou a man diligent in his business? he shall stand before kings."* 
-
 -  **Proverbs 22:29** The Nordics built their productivity miracle on exactly that.
 
 And this is where the modern misalignment begins.
@@ -366,4 +348,4 @@ Silenced in public.
 
 Indelible in reality.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

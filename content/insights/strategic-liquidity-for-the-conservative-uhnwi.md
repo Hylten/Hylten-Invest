@@ -24,7 +24,9 @@ We provide structural liquidity solutions for High Net Worth and Ultra High Net 
 
 Our purpose is not noise.
 
-Our purpose is continuity. ## Strategic Liquidity as Multi Generational Protection Liquidity is not only about opportunity.
+Our purpose is continuity. 
+
+## Strategic Liquidity as Multi Generational Protection Liquidity is not only about opportunity.
 
 It is also about resilience.
 
@@ -54,7 +56,9 @@ This creates a buffer around generational capital.
 
 A quiet safeguard.
 
-A structural advantage. ## When Liquidity Becomes a Strategic Asset Liquidity is often treated as a static number.
+A structural advantage. 
+
+## When Liquidity Becomes a Strategic Asset Liquidity is often treated as a static number.
 
 However, for the UHNWI, liquidity should function as an asset in itself.
 
@@ -70,7 +74,7 @@ This enables three core outcomes.
 
 Preservation of exposure.
 
-Access to capital without friction.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Continuation of long term compounding.
 
@@ -78,7 +82,9 @@ Liquidity becomes part of the family’s strategic infrastructure.
 
 Not a reaction.
 
-A design. ## A Conservative Future Forward Framework The world’s wealthiest families are shifting toward models of stewardship.
+A design. 
+
+## A Conservative Future Forward Framework The world’s wealthiest families are shifting toward models of stewardship.
 
 Less focus on acceleration.
 
@@ -98,6 +104,6 @@ We provide a path for conservative capital to remain ready, patient, and resilie
 
 This is strategic liquidity.
 
-This is silent authority in practice.
+This is principal authority in practice.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

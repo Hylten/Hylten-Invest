@@ -22,13 +22,15 @@ The year 2026 demands a framework that is conservative in temperament, long-term
 
 The Hylten Framework is built specifically for this landscape.
 
-It exists to guard capital, to elevate operating optionality, and to maintain what we call Silent Authority.
+It exists to guard capital, to elevate operating optionality, and to maintain what we call principal authority.
 
 This article outlines the architecture behind that approach.
 
 It is written for families, private offices, and principals who require discretion, institutional grade mechanics, and the ability to mobilize liquidity against asset classes that traditional lenders often misunderstand.
 
-We begin at the foundation: asset stewardship as a sovereign function. ## The Liquidity Architecture Behind the Hylten Framework Liquidity is the central nervous system of sovereign wealth.
+We begin at the foundation: asset stewardship as a sovereign function. 
+
+## The Liquidity Architecture Behind the Hylten Framework Liquidity is the central nervous system of sovereign wealth.
 
 It must be engineered.
 
@@ -56,7 +58,9 @@ But as a sovereign function.
 
 The engineering behind our Asset-Based Lending and private credit Institutional Liquidity Paths is built to integrate with family office structures, trusts, offshore entities, and multi jurisdictional holdings.
 
-Liquidity, when structured correctly, becomes a multi generational instrument. ## Stewardship for the 2026 Landscape 2026 is defined by capital realignment.
+Liquidity, when structured correctly, becomes a multi generational instrument. 
+
+## Stewardship for the 2026 Landscape 2026 is defined by capital realignment.
 
 The world is shifting from a single liquidity center to parallel liquidity zones.
 
@@ -76,7 +80,9 @@ This is not a strategy for short-term gains.
 
 It is a strategy for resilience.
 
-Families who maintain liquidity, control, and clarity will remain sovereign regardless of global conditions. ## The Future of Institutional Mechanics for Private Families Institutional capital is increasingly seeking partnerships with private wealth that can deliver structured access to high-quality collateral.
+Families who maintain liquidity, control, and clarity will remain sovereign regardless of global conditions. 
+
+## The Future of Institutional Mechanics for Private Families Institutional capital is increasingly seeking partnerships with private wealth that can deliver structured Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Families who manage their assets with sovereign discipline can position themselves as quiet co-creators of institutional liquidity channels.
 
@@ -100,8 +106,8 @@ Stewardship is a long-term responsibility.
 
 Liquidity is a structural tool.
 
-Silent Authority is the posture that maintains continuity across generations.
+principal authority is the posture that maintains continuity across generations.
 
 For principals who require conservative, minimalist, and sovereign-aligned Capital Structuring against private credit, asset-based positions, public equities, or large-scale digital assets, Hyltén Invest provides the structural mechanics.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

@@ -14,15 +14,17 @@ It is shaped through structure, governance, liquidity, and the ability to operat
 
 Families that endure across generations do not rely on luck or timing.
 
-They rely on systems that protect capital, preserve optionality, and maintain silent authority in a world that grows more complex each year.
+They rely on systems that protect capital, preserve optionality, and maintain principal authority in a world that grows more complex each year.
 
 Hyltén Invest exists in this quiet intersection.
 
-We provide liquidity without exposure, structure without noise, and access without dilution.
+We provide liquidity without exposure, structure without noise, and Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 The future of legacy is not speculative.
 
-It is engineered through asset based Strategic Collateralization, private credit, and AI supported stewardship. ## The AI Enhanced Family Office The next evolution of the Family Office is not larger staff or broader investment committees.
+It is engineered through asset based Strategic Collateralization, private credit, and AI supported stewardship. 
+
+## The AI Enhanced Family Office The next evolution of the Family Office is not larger staff or broader investment committees.
 
 It is augmentation.
 
@@ -38,7 +40,9 @@ Crypto and public share Asset-Backed Frameworks become liquidity structures.
 
 The family retains total control over the strategic blueprint.
 
-This is how legacy shifts from preservation to continuation. ## A Conservative Approach to a High Complexity Future Although the world is becoming more dynamic, the families that endure are simplifying their frameworks.
+This is how legacy shifts from preservation to continuation. 
+
+## A Conservative Approach to a High Complexity Future Although the world is becoming more dynamic, the families that endure are simplifying their frameworks.
 
 Minimalist strategy.
 
@@ -66,8 +70,8 @@ Families that build liquidity frameworks without sacrificing control will become
 
 Asset-Based Lending, private credit, crypto Capital Structuring, and public share Capital Structuring, when combined with AI supported governance, create a system of stability that outperforms any reactive strategy.
 
-This is the architecture of silent authority.
+This is the architecture of principal authority.
 
 This is the architecture of long term wealth.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

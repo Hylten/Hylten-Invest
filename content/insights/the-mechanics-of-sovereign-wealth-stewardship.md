@@ -12,7 +12,9 @@ It is a discipline of clarity and longevity.
 
 A form of engineering.
 
-A form of silence. ## Why Private Families Need Structural Liquidity Mechanics HNWI and UHNW families face a unique challenge.
+A form of silence. 
+
+## Why Private Families Need Structural Liquidity Mechanics HNWI and UHNW families face a unique challenge.
 
 Their wealth is often embedded in operating companies, long term equity positions, or private assets that are not easily liquidated.
 
@@ -34,25 +36,23 @@ Public share [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.co
 
 Crypto collateral frameworks.
 
-These mechanisms give families the same flexibility that large institutions take for granted. ## Strategic Applications of Collateralized Liquidity Collateral based Monetization Architecture is not an end in itself.
+These mechanisms give families the same flexibility that large institutions take for granted. 
+
+## Strategic Applications of Collateralized Liquidity Collateral based Monetization Architecture is not an end in itself.
 
 It is a tool that enables broader strategic movement.
 
 Common applications include: 
-
 -  Funding new acquisitions without selling existing positions 
-
 -  Managing tax timing and tax exposure 
-
 -  Providing liquidity during generational transitions 
-
 -  Stabilizing family enterprises during temporary cash flow compression 
-
 -  Supporting investment opportunities that require fast execution 
-
 -  Reducing reliance on traditional banking relationships These functions create continuity.
 
-Continuity is the highest form of stability. ## The Minimalist Approach to Capital Engineering Minimalism is not aesthetic.
+Continuity is the highest form of stability. 
+
+## The Minimalist Approach to Capital Engineering Minimalism is not aesthetic.
 
 It is structural.
 
@@ -63,20 +63,17 @@ It avoids complexity.
 It avoids opacity.
 
 For our clients, minimalism means: 
-
 -  One structure instead of five 
-
 -  One line of liquidity instead of multiple fragmented facilities 
-
 -  Collateral frameworks with predictable behavior 
-
 -  Agreements that do not shift mid cycle 
-
 -  Transparent valuation methodologies This is how sovereign style private capital is built.
 
 It is not designed for a quarter.
 
-It is designed for a generation. ## The Long Term Horizon as a Defensive Asset Time, when paired with liquidity, becomes a defensive moat.
+It is designed for a generation. 
+
+## The Long Term Horizon as a Defensive Asset Time, when paired with liquidity, becomes a defensive moat.
 
 Families who do not need to sell can remain patient.
 
@@ -88,7 +85,9 @@ This is how long term wealth avoids erosion.
 
 Liquidity is not a luxury.
 
-It is a shield. ## The Stewardship Equation Sovereign wealth stewardship is the intersection of three elements.
+It is a shield. 
+
+## The Stewardship Equation Sovereign wealth stewardship is the intersection of three elements.
 
 Capital.
 
@@ -104,7 +103,9 @@ Time is the horizon that transforms volatility into opportunity.
 
 When these three align, wealth becomes sovereign in the truest sense.
 
-It becomes self governing and self sustaining. ## Closing Thoughts Sovereign wealth stewardship requires more than investment expertise.
+It becomes self governing and self sustaining. 
+
+## Closing Thoughts Sovereign wealth stewardship requires more than investment expertise.
 
 It requires structural insight.
 
@@ -124,8 +125,8 @@ Public share Asset-Backed Frameworks from five million dollars.
 
 Structural discretion for families that do not seek attention.
 
-Silent Authority is not a slogan.
+principal authority is not a slogan.
 
 It is a function.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

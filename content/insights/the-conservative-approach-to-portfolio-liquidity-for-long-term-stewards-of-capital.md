@@ -12,7 +12,7 @@ It is the deliberate practice of structuring capital in a way that resists noise
 
 It is the practice of maintaining liquidity not as a convenience but as a strategic foundation.
 
-For HNWI and UHNW portfolios, liquidity is not simply access to cash.
+For HNWI and UHNW portfolios, liquidity is not simply Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 It is the ability to reposition capital without eroding asset value.
 
@@ -30,7 +30,9 @@ We support clients who understand that liquidity can be engineered without force
 
 We support those who prioritize continuity.
 
-Below is a conservative framework for approaching portfolio liquidity, designed for long-term capital stewards who value silence, structure, and discretion. ## The Role of Liquidity in Multi-Generational Planning For wealthy families, liquidity is not merely for consumption.
+Below is a conservative framework for approaching portfolio liquidity, designed for long-term capital stewards who value silence, structure, and discretion. 
+
+## The Role of Liquidity in Multi-Generational Planning For wealthy families, liquidity is not merely for consumption.
 
 It serves multiple generational functions.
 
@@ -54,7 +56,9 @@ Families preserve optionality for future stewards.
 
 They avoid structural rigidity.
 
-They maintain strategic calm. ## Conservatism as a Competitive Advantage rapid speculation, conservatism is increasingly rare.
+They maintain strategic calm. 
+
+## Conservatism as a Competitive Advantage rapid speculation, conservatism is increasingly rare.
 
 But for generational capital, conservatism is a strategic advantage.
 
@@ -74,7 +78,9 @@ Over long horizons, these avoided losses become a significant competitive edge.
 
 Conservatism is not restriction.
 
-It is precision. ## The Architecture of Discretionary Liquidity A sophisticated liquidity strategy does not draw attention.
+It is precision. 
+
+## The Architecture of Discretionary Liquidity A sophisticated liquidity strategy does not draw attention.
 
 It sits quietly beneath the portfolio.
 
@@ -87,22 +93,19 @@ It does not compromise the structural integrity of the assets.
 It is engineered with clarity and long-term discipline.
 
 At Hyltén Invest, liquidity facilities are designed to be: 
-
 -  Non-intrusive 
-
 -  Tax efficient 
-
 -  Collateral-driven 
-
 -  Predictable across cycles 
-
 -  Aligned with private family timelines These are not retail instruments.
 
 They are institutional mechanics applied to private wealth.
 
 They offer families a foundation that remains stable through market cycles.
 
-They turn illiquid strength into flexible capability. ## Maintaining Control in an Age of Market Acceleration The modern financial environment is faster than most families prefer.
+They turn illiquid strength into flexible capability. 
+
+## Maintaining Control in an Age of Market Acceleration The modern financial environment is faster than most families prefer.
 
 Speed can drive dislocation.
 
@@ -124,7 +127,9 @@ This is essential for multi-decade planning.
 
 Control is a luxury.
 
-Structured liquidity preserves it. ## Building the Liquidity Perimeter Every sophisticated portfolio requires a liquidity perimeter.
+Structured liquidity preserves it. 
+
+## Building the Liquidity Perimeter Every sophisticated portfolio requires a liquidity perimeter.
 
 This is the structure that surrounds the core assets.
 
@@ -135,26 +140,21 @@ It ensures continuity.
 It protects the strategic heart of the family’s wealth.
 
 A liquidity perimeter is built from: 
-
 -  Private credit Capital Structuring 
-
 -  Asset based Monetization Architecture 
-
 -  Public share Capital Structuring 
-
 -  Institutional crypto facilities 
-
 -  Conservatively calibrated liquidity facility-to-value ratios 
-
 -  Counterparty strength 
-
 -  Silent execution When these elements are combined, the family gains a defensive advantage.
 
 They gain flexibility.
 
 They gain peace of mind.
 
-Most importantly, they maintain uninterrupted stewardship. ## Liquidity as a Source of Strength During Market Dislocation During times of market stress, liquidity becomes the dividing line between those who maintain their strategy and those who lose it.
+Most importantly, they maintain uninterrupted stewardship. 
+
+## Liquidity as a Source of Strength During Market Dislocation During times of market stress, liquidity becomes the dividing line between those who maintain their strategy and those who lose it.
 
 Forced selling destroys compounding.
 
@@ -172,7 +172,9 @@ They do not participate in panic.
 
 They stay long-term when others become short-term.
 
-This is the quiet power of a conservative liquidity strategy. ## The Hyltén Invest Approach to Capital Stewardship Our philosophy is simple.
+This is the quiet power of a conservative liquidity strategy. 
+
+## The Hyltén Invest Approach to Capital Stewardship Our philosophy is simple.
 
 We provide liquidity without disruption.
 
@@ -190,7 +192,9 @@ We serve families who prefer precision over spectacle.
 
 We build liquidity architectures that reinforce the strength of the portfolio rather than dilute it.
 
-This is our contribution to long-term stewardship. ## Closing Perspective Liquidity is not a short-term convenience.
+This is our contribution to long-term stewardship. 
+
+## Closing Perspective Liquidity is not a short-term convenience.
 
 It is a structural component of wealth preservation.
 
@@ -208,4 +212,4 @@ Hyltén Invest provides the mechanisms required to maintain this stability.
 
 For families who value discretion, structure, and long-term stewardship, engineered liquidity becomes a fundamental part of their legacy architecture.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

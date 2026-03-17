@@ -28,7 +28,7 @@ Public markets offer liquidity but not stability.
 
 Banks offer structure but not flexibility.
 
-Private markets offer yield but not access.
+Private markets offer yield but not Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 This is where Asset Based Institutional Liquidity Paths, backed by high quality private credit and institutional grade collateral, provides an alternative path.
 
@@ -38,7 +38,9 @@ Hyltén Invest specializes in providing this structural mechanics layer.
 
 We serve as a quiet liquidity partner for HNWI and UHNW individuals, and for the family offices that manage their legacy assets.
 
-We maintain silent authority, a design principle that ensures capital flows in a controlled, discreet, institutionally scalable manner. ## Asset-Based Lending Diversification as a Multi Generational Tool Wealth designed for multi generational continuity requires more than asset selection.
+We maintain principal authority, a design principle that ensures capital flows in a controlled, discreet, institutionally scalable manner. 
+
+## Asset-Based Lending Diversification as a Multi Generational Tool Wealth designed for multi generational continuity requires more than asset selection.
 
 It requires liquidity architecture.
 
@@ -56,7 +58,9 @@ This prevents liquidity shocks, stabilizes portfolio strategy, and supports inte
 
 The most successful family offices do not wait for liquidity needs.
 
-They pre build liquidity structures that eliminate these needs entirely. ## Implementing Strategic Asset-Based Lending Diversification: A Conservative Blueprint The process begins with clarity.
+They pre build liquidity structures that eliminate these needs entirely. 
+
+## Implementing Strategic Asset-Based Lending Diversification: A Conservative Blueprint The process begins with clarity.
 
 Clarity around assets.
 
@@ -80,7 +84,9 @@ The goal is durability.
 
 Durability of liquidity.
 
-Durability of control. ## When Asset-Based Lending Becomes a Strategic Advantage Strategic Asset-Based Lending diversification creates several advantages that accumulate over time.
+Durability of control. 
+
+## When Asset-Based Lending Becomes a Strategic Advantage Strategic Asset-Based Lending diversification creates several advantages that accumulate over time.
 
 It strengthens negotiating power by ensuring liquidity during acquisition windows.
 
@@ -96,7 +102,9 @@ These advantages are rarely visible in the short term.
 
 They become evident in moments of pressure and transition.
 
-This is where strategy becomes protection. ## The Hyltén Invest Role in the Ecosystem Hyltén Invest exists to provide the structural credit mechanics required for sophisticated liquidity management.
+This is where strategy becomes protection. 
+
+## The Hyltén Invest Role in the Ecosystem Hyltén Invest exists to provide the structural credit mechanics required for sophisticated liquidity management.
 
 We lend against private credit and Asset-Based Lending portfolios.
 
@@ -130,6 +138,6 @@ It offers stability without visibility.
 
 It preserves core assets while expanding optionality.
 
-Hyltén Invest supports this mission with silent authority, conservative structure, and a commitment to long term stewardship.
+Hyltén Invest supports this mission with principal authority, conservative structure, and a commitment to long term stewardship.
 
-Contact for stewardship discussion
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

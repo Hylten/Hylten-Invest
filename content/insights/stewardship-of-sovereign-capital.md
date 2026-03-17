@@ -129,11 +129,8 @@ Every other form is costume capital.
 Synthetic confidence.
 
 True sovereign capital operates under a tri-fold discipline: 
-
 -  positional sovereignty 
-
 -  Monetization Architecture 
-
 -  moral authority Positional sovereignty means the principal defines the jurisdictional frame, not the market.
 
 Jurisdiction is a weapon.
@@ -243,11 +240,8 @@ The principal must engineer this advantage intentionally.
 The stewardship of sovereign capital demands filtration.
 
 Opportunities must be filtered by three questions: 
-
 -  Does this strengthen the lineage? 
-
 -  Does this harden the base layer? 
-
 -  Does this extend dominion for the next generation?
 
 If the answer is no, allocate nothing.
@@ -271,13 +265,9 @@ Ecosystem design is the highest level of capital stewardship.
 In Asset-Backed Frameworks, the focus is always the same: optionality.
 
 Optionality is created through four levers: 
-
 -  cash reserves 
-
 -  credit lines 
-
 -  collateral architecture 
-
 -  time arbitrage Time arbitrage is misunderstood.
 
 It is not timing the market.
@@ -439,11 +429,8 @@ The principal desires duty first.
 Returns follow.
 
 The future of capital stewardship lies in three frontiers: 
-
 -  cross-border liquidity architectures 
-
 -  private-credit sovereignty 
-
 -  industrial regeneration Cross-border liquidity architectures require jurisdictional intelligence.
 
 Jurisdiction defines tax friction, regulatory exposure, enforcement asymmetry.
@@ -540,4 +527,4 @@ Clarity demands conviction.
 
 Conviction requires action.
 
-Contact for stewardship discussion. 23.7% target IRR.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

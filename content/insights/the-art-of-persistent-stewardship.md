@@ -67,7 +67,6 @@ The mechanics fall into four primary disciplines.
 1. Resource Constraint Management Stewardship begins with the assumption of limit.
 
 This is aligned with 
-
 -  **Proverbs 27:23** which instructs leaders to know the condition of their flocks.
 
 Modern industrial environments suffer from an illusion of unlimited throughput because digital systems have obscured the physicality of production cycles.
@@ -166,7 +165,9 @@ The partnership model focuses on navigation rather than promotion.
 
 It identifies where stewardship-driven operations intersect with capital structures that benefit from predictable production, disciplined cost management, and hardened asset bases.
 
-It provides allocators with an interpretive lens to evaluate operating partners, field performance architectures, and risk-adjusted opportunity sets. ## ## ## ## ## THE STEWARDSHIP FILTER The stewardship filter is an evaluative framework that determines whether an operator, asset, or capital structure is aligned with responsible resource management.
+It provides allocators with an interpretive lens to evaluate operating partners, field performance architectures, and risk-adjusted opportunity sets. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER The stewardship filter is an evaluative framework that determines whether an operator, asset, or capital structure is aligned with responsible resource management.
 
 It does not evaluate sentiment.
 
@@ -190,7 +191,9 @@ The stewardship filter is not moralistic.
 
 It is functional.
 
-It identifies environments where capital is protected not through hedging but through disciplined practice. ## ## DECISION LENS FOR ALLOCATORS Allocators evaluating energy, private credit, or industrial real assets face a bifurcation.
+It identifies environments where capital is protected not through hedging but through disciplined practice. ## 
+
+## DECISION LENS FOR ALLOCATORS Allocators evaluating energy, private credit, or industrial real assets face a bifurcation.
 
 One path leads to structures optimized for short horizon extraction.
 
@@ -213,3 +216,5 @@ The objective is not product exposure.
 It is structural calibration.
 
 It identifies where stewardship-driven operations, including NAEO within the energy domain, can support institutional-grade navigation across a shifting global environment. [END]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

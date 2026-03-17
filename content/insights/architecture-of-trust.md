@@ -144,7 +144,9 @@ They permit managerial entropy to contaminate capital efficiency.
 
 Trust, when architected, removes friction.
 
-This is its technical purpose. ## ## ## THE ## 
+This is its technical purpose. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -204,7 +206,9 @@ Liquidity generates opportunity flow.
 
 Opportunity flow compounds generational wealth.
 
-This is the institutional flywheel. ## ## ## ## ## THE STEWARDSHIP FILTER I am often asked why theology enters an institutional conversation.
+This is the institutional flywheel. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER I am often asked why theology enters an institutional conversation.
 
 The answer is structural.
 
@@ -260,8 +264,10 @@ A generation that wastes forfeits inheritance. **Proverbs 21:5** .
 
 The stewardship filter is not decorative.
 
-It is risk mitigation at the deepest level. ## ## EXIT The architecture of trust is validated not in origination but in exit.
+It is risk mitigation at the deepest level. ## 
+
+## EXIT The architecture of trust is validated not in origination but in exit.
 
 A well-architected trust structure produces: Recovery variance under 3 percent.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

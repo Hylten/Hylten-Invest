@@ -27,7 +27,6 @@ Assets that force discipline and reveal character.
 Industry does what paper never can.
 
 UHNW investors rediscover the truth: The covenant begins with something you can drop on your foot. *"Through wisdom is an house builded; and by understanding it is established."* 
-
 -  **Proverbs 24:3** First.
 
 Tangibility.
@@ -100,4 +99,4 @@ He seeks dominion through service.
 
 He builds, therefore he leads.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

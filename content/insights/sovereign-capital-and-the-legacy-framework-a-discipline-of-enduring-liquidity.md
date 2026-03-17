@@ -24,7 +24,9 @@ Hyltén Invest operates inside this long horizon.
 
 We focus on private credit and asset based Monetization Architecture structures that serve one function: to deliver strategic liquidity without eroding ownership or long-term positioning.
 
-This is the foundation of what we call the Legacy Framework. ## The Nature of Sovereign Capital Sovereign capital is not merely large capital.
+This is the foundation of what we call the Legacy Framework. 
+
+## The Nature of Sovereign Capital Sovereign capital is not merely large capital.
 
 It is capital that behaves independently of volatility.
 
@@ -44,9 +46,11 @@ A partner that does not speculate.
 
 A partner that does not impose velocity for the sake of activity.
 
-A partner that maintains silent authority: a structural presence rather than a spotlight.
+A partner that maintains principal authority: a structural presence rather than a spotlight.
 
-Hyltén Invest exists in that silence. ## Private Credit as a Controlled Liquidity Engine Private credit has grown into the central architecture of modern wealth strategy for families who prefer control over uncertainty.
+Hyltén Invest exists in that silence. 
+
+## Private Credit as a Controlled Liquidity Engine Private credit has grown into the central architecture of modern wealth strategy for families who prefer control over uncertainty.
 
 It is steady, asset‑anchored, and insulated from the volatility of market cycles.
 
@@ -66,7 +70,9 @@ Hyltén Invest is specialized in this exact mechanism.
 
 We lend against private credit exposures and asset-based structures for the purpose of strategic liquidity.
 
-This preserves the integrity of the client’s existing allocations while unlocking capital in a disciplined, non-reactive manner. ## Asset Based Strategic Collateralization in a Sovereign Context Asset Based Capital Structuring, Asset-Based Lending, is one of the oldest financial mechanisms in history.
+This preserves the integrity of the client’s existing allocations while unlocking capital in a disciplined, non-reactive manner. 
+
+## Asset Based Strategic Collateralization in a Sovereign Context Asset Based Capital Structuring, Asset-Based Lending, is one of the oldest financial mechanisms in history.
 
 It is simple, conservative, and effective.
 
@@ -88,7 +94,9 @@ It protects the integrity of long-term objectives.
 
 It provides operational grace during uncertain periods.
 
-It reinforces the quiet authority that sovereign capital is known for. ## Crypto Capital Structuring for Institutional‑Grade Holders Digital assets have evolved from speculative instruments into institutional collateral.
+It reinforces the quiet authority that sovereign capital is known for. 
+
+## Crypto Capital Structuring for Institutional‑Grade Holders Digital assets have evolved from speculative instruments into institutional collateral.
 
 However, the maturity of this asset class is found only at scale.
 
@@ -106,7 +114,9 @@ It provides an additional buffer of capital without requiring divestment from lo
 
 It also offers an alternative liquidity path distinct from traditional financial systems.
 
-This redundancy is a hallmark of the sovereign approach. ## Public Share Strategic Collateralization for Strategic Investors Public equity holdings often represent some of the most valuable positions in a client’s portfolio.
+This redundancy is a hallmark of the sovereign approach. 
+
+## Public Share Strategic Collateralization for Strategic Investors Public equity holdings often represent some of the most valuable positions in a client’s portfolio.
 
 However, selling these positions for liquidity can disrupt tax planning, long-term appreciation, and strategic voting or governance rights.
 
@@ -120,7 +130,9 @@ Public share Institutional Liquidity Paths within the Legacy Framework is not us
 
 It is used for liquidity deployment, acquisition strategies, defensive capital buffers, and long-term planning.
 
-It keeps the client in control of their capital narrative. ## Silent Authority and the F‑Hierarchical Dynamics In private wealth structures, authority is often expressed loudly.
+It keeps the client in control of their capital narrative. 
+
+## principal authority and the F‑Hierarchical Dynamics In private wealth structures, authority is often expressed loudly.
 
 Sovereign capital behaves differently.
 
@@ -144,9 +156,11 @@ It is measured by the discretion we maintain.
 
 It is measured by the precision with which we support the capital structures of families who think in decades and centuries.
 
-Silent authority is not absence.
+principal authority is not absence.
 
-It is intentional presence. ## The Legacy Framework: A Model for Multi‑Generational Liquidity Legacy requires architecture.
+It is intentional presence. 
+
+## The Legacy Framework: A Model for Multi‑Generational Liquidity Legacy requires architecture.
 
 Not yearly plans.
 
@@ -176,7 +190,9 @@ They protect the lineage of their holdings.
 
 They maintain structural autonomy.
 
-They avoid the decay that occurs when wealth becomes reactive instead of strategic. ## Applying the Framework: Practical Scenarios for HNWI and UHNW Families The value of the Legacy Framework becomes visible in real scenarios.
+They avoid the decay that occurs when wealth becomes reactive instead of strategic. 
+
+## Applying the Framework: Practical Scenarios for HNWI and UHNW Families The value of the Legacy Framework becomes visible in real scenarios.
 
 A family holding a large public equity stake can borrow against that position rather than sell.
 
@@ -190,7 +206,9 @@ A multi‑generational family office can establish layered liquidity lines for o
 
 These are not theoretical benefits.
 
-They are the daily reality for clients who choose a sovereign approach to wealth. ## The Discipline of Minimalism in Capital Strategy Minimalism is not the absence of complexity.
+They are the daily reality for clients who choose a sovereign approach to wealth. 
+
+## The Discipline of Minimalism in Capital Strategy Minimalism is not the absence of complexity.
 
 It is the refinement of structure.
 
@@ -212,13 +230,15 @@ We support leverage for stability, opportunity, and protection.
 
 Minimalism in capital is a sign of maturity.
 
-It is the hallmark of families that intend to endure. ## Liquidity as a Strategic Asset Liquidity is often misunderstood as cash.
+It is the hallmark of families that intend to endure. 
 
-For sovereign capital, liquidity is access.
+## Liquidity as a Strategic Asset Liquidity is often misunderstood as cash.
 
-Access without selling.
+For sovereign capital, liquidity is Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
-Access without compromise.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 When liquidity becomes strategic, it becomes a form of sovereignty in itself.
 
@@ -228,7 +248,9 @@ It allows the family to remain still when the market is chaotic.
 
 It protects the internal narrative from external forces.
 
-This is the essence of the Legacy Framework. ## Long-Term Stewardship as Identity Hyltén Invest is not built for short-term participants.
+This is the essence of the Legacy Framework. 
+
+## Long-Term Stewardship as Identity Hyltén Invest is not built for short-term participants.
 
 We are built for stewards.
 
@@ -252,7 +274,9 @@ It ensures maturity.
 
 It ensures that our ecosystem remains aligned with long-term thinking.
 
-We are selective because the families we serve are selective. ## Closing Perspective: The Quiet Strength of Structure In a world driven by speed, visibility, and constant noise, sovereign capital moves slowly, intentionally, and silently.
+We are selective because the families we serve are selective. 
+
+## Closing Perspective: The Quiet Strength of Structure In a world driven by speed, visibility, and constant noise, sovereign capital moves slowly, intentionally, and silently.
 
 It is built on frameworks, not reactions.
 
@@ -270,4 +294,4 @@ For HNWI and UHNW families who value discretion, stability, and long-term stewar
 
 It is the only approach that endures.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

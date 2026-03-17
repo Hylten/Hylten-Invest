@@ -22,7 +22,9 @@ It is a continuum, built on clarity, discretion, and precise liquidity architect
 
 We focus on the structural mechanics, not the spectacle.
 
-Our mandate is to provide silent authority behind the scenes, enabling private capital to flow with stability and purpose. ## The Future of Sovereign Asset Liquidity The financial landscape is expanding, and liquidity is evolving with it.
+Our mandate is to provide principal authority behind the scenes, enabling private capital to flow with stability and purpose. 
+
+## The Future of Sovereign Asset Liquidity The financial landscape is expanding, and liquidity is evolving with it.
 
 What remains constant is the need for discretion, precision, and non-correlated stability.
 
@@ -52,4 +54,4 @@ Minimal.
 
 Enduring.
 
-Contact for stewardship discussion.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
