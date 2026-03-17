@@ -4,7 +4,7 @@ description: "A principal-level briefing on the structural logic, moral groundin
 date: "2025-10-11"
 author: "Hylten-Invest"
 slug: "covenant-perpetual-stewardship-ultra-low-churn-capital"
----
+--- 
 
 Ultra‑low‑churn capital is not a financial innovation.
 

@@ -4,7 +4,7 @@ description: "A high‑end exploration of liquidity, private credit, and asset-b
 date: "2025-11-11"
 author: "Hyltén Invest"
 slug: "legacy-hardening-the-structural-mechanics-of-trust"
----
+--- 
 
 # Legacy Hardening: The Structural Mechanics of Trust Wealth that endures does not respond to immediacy.
 

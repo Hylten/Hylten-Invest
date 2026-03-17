@@ -4,7 +4,7 @@ description: "An institutional analysis of 2026’s stewardship regime shift, fo
 date: "2025-11-08"
 author: "Jonas Hyltén"
 slug: "stewardship-trends-2026-uhnw-outlook"
----
+--- 
 
 The capital vacuum in North America’s core energy basins is the predictable outcome of a decade of misaligned incentives, yet the more influential transition in 2026 is occurring within the allocator class itself.
 

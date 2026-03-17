@@ -4,7 +4,7 @@ description: "A technical and institutional analysis of the Hylten Invest doctri
 date: "2026-02-18"
 author: "Jonas Hyltén"
 slug: "hylten-invest-approach-asset-preservation"
----
+--- 
 
 The capital vacuum in Western industrial economies is the predictable outcome of two structural forces moving in opposite directions.
 

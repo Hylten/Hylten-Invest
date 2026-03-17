@@ -4,7 +4,7 @@ description: "Institutional briefing on how Asset Backed Lending functions as a 
 date: "2026-01-28"
 author: "Jonas Hyltén"
 slug: "multi-generational-wealth-abl-stewardship-hylten"
----
+--- 
 
 The capital vacuum emerging in both North American and European credit markets is not a temporary dislocation.
 

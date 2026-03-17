@@ -4,7 +4,7 @@ description: "Moral authority as a due‑diligence differentiator rooted in Chri
 date: "2026-02-26"
 author: "Hylten-Invest"
 slug: "stewardship-alpha-moral-authority-private-markets"
----
+--- 
 
 Value reveals character.
 

@@ -4,7 +4,7 @@ description: "A principal-level briefing on the compounding moral, strategic, an
 date: "2025-10-24"
 author: "Hylten-Invest"
 slug: "sovereign-patience-industrial-families"
----
+--- 
 
 The families who endure understand something simple.
 

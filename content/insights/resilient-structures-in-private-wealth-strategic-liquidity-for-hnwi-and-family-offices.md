@@ -4,7 +4,7 @@ description: "A high end analysis of liquidity architecture through private cred
 date: "2025-07-18"
 author: "Hyltén Invest"
 slug: "resilient-structures-in-private-wealth-strategic-liquidity-for-hnwi-and-family-offices"
----
+--- 
 
 # Building Resilience in a Private Wealth Portfolio In an environment shaped by shifting rates, compressed yield opportunities, and an increasingly complex global financial order, the long term architecture of private wealth requires a structural approach rather than a cyclical one.
 

@@ -4,7 +4,7 @@ description: "Institutional investors are elevating purpose from narrative ornam
 date: "2025-12-31"
 author: "Hylten-Invest"
 slug: "theology-capital-deployment-purpose-risk-factor"
----
+--- 
 
 Purpose now moves.
 

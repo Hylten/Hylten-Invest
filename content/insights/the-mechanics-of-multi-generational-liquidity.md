@@ -4,7 +4,7 @@ description: "A high end exploration of liquidity architecture for multi generat
 date: "2025-09-08"
 author: "Hyltén Invest"
 slug: "the-mechanics-of-multi-generational-liquidity"
----
+--- 
 
 # The Mechanics of Multi Generational Liquidity Liquidity is not merely an event.
 

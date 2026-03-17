@@ -4,7 +4,7 @@ description: "An institutional analysis of stewardship, generational capital, an
 date: "2025-10-25"
 author: "Jonas Hyltén"
 slug: "theology-of-capital-wealth-as-sacred-trust"
----
+--- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 

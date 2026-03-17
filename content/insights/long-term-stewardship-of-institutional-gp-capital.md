@@ -4,7 +4,7 @@ description: "A strategic exploration of long-term liquidity, private credit, an
 date: "2025-11-30"
 author: "Hyltén Invest"
 slug: "long-term-stewardship-of-institutional-gp-capital"
----
+--- 
 
 # Long-Term Stewardship of Institutional GP Capital Institutional capital moves differently than private wealth, yet both share one foundational need, a long-term stewardship framework that respects time, preserves optionality, and ensures that capital remains functional across market cycles.
 

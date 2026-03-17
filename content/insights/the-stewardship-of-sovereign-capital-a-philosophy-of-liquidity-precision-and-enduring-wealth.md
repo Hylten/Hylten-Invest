@@ -4,7 +4,7 @@ description: "A high‑end exploration of liquidity architecture, private credit
 date: "2025-10-19"
 author: "Hyltén Invest"
 slug: "the-stewardship-of-sovereign-capital-a-philosophy-of-liquidity-precision-and-enduring-wealth"
----
+--- 
 
 # The Stewardship of Sovereign Capital Capital is sovereign when it is unhurried.
 

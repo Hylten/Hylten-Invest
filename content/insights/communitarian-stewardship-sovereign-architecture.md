@@ -4,7 +4,7 @@ description: "A principal brief on Nordic communitarian doctrine as a structural
 date: "2026-01-25"
 author: "Hylten‑Invest"
 slug: "communitarian-stewardship-sovereign-architecture"
----
+--- 
 
 Nordic communitarianism is not sentiment.
 

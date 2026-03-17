@@ -4,7 +4,7 @@ description: "A high-end analysis of liquidity architecture, private credit, and
 date: "2026-02-14"
 author: "Hyltén Invest"
 slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-enduring-dynasties"
----
+--- 
 
 # Legacy Hardening for Multi-Generational Wealth Wealth that lasts is rarely accidental.
 

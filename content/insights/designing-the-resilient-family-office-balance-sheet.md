@@ -4,7 +4,7 @@ description: "A high authority exploration of liquidity engineering and asset ba
 date: "2026-02-27"
 author: "Hyltén Invest"
 slug: "designing-the-resilient-family-office-balance-sheet"
----
+--- 
 
 # Designing the Resilient Family Office Balance Sheet A resilient family office balance sheet is engineered, not inherited.
 

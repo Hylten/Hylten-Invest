@@ -4,7 +4,7 @@ description: "A strategic exploration of liquidity and asset based liquidity eng
 date: "2025-10-22"
 author: "Hyltén Invest"
 slug: "conservative-capital-deployment-for-enduring-stability"
----
+--- 
 
 # Conservative Capital Deployment for Stability Hyltén Invest serves a specific investor archetype.
 

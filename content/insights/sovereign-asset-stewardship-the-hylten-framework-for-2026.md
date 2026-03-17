@@ -4,7 +4,7 @@ description: "A strategic examination of liquidity architecture, private credit,
 date: "2026-01-09"
 author: "Hyltén Invest"
 slug: "sovereign-asset-stewardship-the-hylten-framework-for-2026"
----
+--- 
 
 # Sovereign Asset Stewardship: The Hylten Framework for 2026 Stewardship for private wealth has entered a new era.
 

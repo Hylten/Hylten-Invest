@@ -4,7 +4,7 @@ description: "A high-level exploration of conservative asset-based liquidity eng
 date: "2026-03-14"
 author: "Hyltén Invest"
 slug: "the-strategic-value-of-conservative-abl-for-long-term-stewards-of-capital"
----
+--- 
 
 # The Strategic Value of Conservative Asset-Based Lending for Long-Term Stewards of Capital Liquidity is not an event for the long-term steward.
 

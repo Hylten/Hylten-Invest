@@ -4,7 +4,7 @@ description: "A principal-level briefing on Christian stewardship, industrial he
 date: "2025-08-24"
 author: "Hylten-Invest"
 slug: "theology-of-capital-uhnw-governance"
----
+--- 
 
 Capital reveals the household.
 

@@ -4,7 +4,7 @@ description: "A principal-level brief on Scandinavian trust-governance, Christia
 date: "2025-09-11"
 author: "Hylten-Invest"
 slug: "gnosjo-industrial-governance"
----
+--- 
 
 Authority begins with trust.
 

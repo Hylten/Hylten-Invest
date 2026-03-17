@@ -4,7 +4,7 @@ description: "A principal-level briefing on generational capital formation withi
 date: "2025-11-14"
 author: "Hylten-Invest"
 slug: "generational-capital-christian-industrial-families"
----
+--- 
 
 Internal briefing.
 

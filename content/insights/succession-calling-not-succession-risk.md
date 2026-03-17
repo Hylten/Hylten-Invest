@@ -4,7 +4,7 @@ description: "A principal-level examination of generational transfer, succession
 date: "2025-11-01"
 author: "Hylten-Invest"
 slug: "succession-calling-not-succession-risk"
----
+--- 
 
 Succession collapses when treated as risk.
 

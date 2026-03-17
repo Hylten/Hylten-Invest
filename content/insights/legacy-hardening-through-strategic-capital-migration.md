@@ -4,7 +4,7 @@ description: "A long‑horizon framework for UHNW families seeking resilience, c
 date: "2025-08-21"
 author: "Hyltén Invest"
 slug: "legacy-hardening-through-strategic-capital-migration"
----
+--- 
 
 # Legacy Hardening: Protecting UHNW Families Through Strategic Capital Migration Ultra high net worth families face a landscape that is shifting with greater speed than at any previous point in modern financial history.
 

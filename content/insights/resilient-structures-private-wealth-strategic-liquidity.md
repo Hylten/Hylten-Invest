@@ -4,7 +4,7 @@ description: "Institutional analysis on liquidity engineering, balance sheet dur
 date: "2025-07-19"
 author: "Jonas Hyltén"
 slug: "resilient-structures-private-wealth-strategic-liquidity"
----
+--- 
 
 The capital vacuum in private wealth ecosystems is no longer a function of insufficient assets.
 

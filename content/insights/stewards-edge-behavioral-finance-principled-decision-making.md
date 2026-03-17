@@ -4,7 +4,7 @@ description: "A deep architectural analysis of stewardship psychology, Christian
 date: "2026-03-16"
 author: "Hylten-Invest"
 slug: "stewards-edge-behavioral-finance-principled-decision-making"
----
+--- 
 
 Behavior shapes capital.
 

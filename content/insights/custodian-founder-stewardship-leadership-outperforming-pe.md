@@ -4,7 +4,7 @@ description: "A principal-level briefing on why stewardship-driven founders are 
 date: "2025-12-24"
 author: "Hylten-Invest"
 slug: "custodian-founder-stewardship-leadership-outperforming-pe"
----
+--- 
 
 The age of the Custodian Founder has returned.
 

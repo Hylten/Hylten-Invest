@@ -4,7 +4,7 @@ description: "A deep analysis of strategic alignment for multi generational offi
 date: "2025-12-23"
 author: "Hyltén Invest"
 slug: "strategic-alignment-for-multigenerational-offices"
----
+--- 
 
 # Strategic Alignment for Multi‑Generational Offices Long term continuity begins with structural clarity.
 

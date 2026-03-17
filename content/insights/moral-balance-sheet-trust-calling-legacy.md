@@ -4,7 +4,7 @@ description: "A principal brief on the quantification of trust, calling, and gen
 date: "2025-07-08"
 author: "Hylten-Invest"
 slug: "moral-balance-sheet-trust-calling-legacy"
----
+--- 
 
 Trust stands first.
 

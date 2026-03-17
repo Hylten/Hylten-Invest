@@ -4,7 +4,7 @@ description: "Insights on Multi Generational Stewardship from Roials Capital and
 date: "2025-11-28"
 author: "Hyltén Invest"
 slug: "multi-generational-stewardship"
----
+--- 
 
 # Multi Generational Stewardship A Hylten Invest Perspective # 
 

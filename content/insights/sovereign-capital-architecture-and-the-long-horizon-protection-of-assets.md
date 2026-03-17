@@ -4,7 +4,7 @@ description: "A high-end analysis on liquidity structuring, private credit, and 
 date: "2026-02-19"
 author: "Hyltén Invest"
 slug: "sovereign-capital-architecture-and-the-long-horizon-protection-of-assets"
----
+--- 
 
 # Sovereign Capital and the Protection of Assets The concept of sovereign capital is not defined by geography, government, or public mandate.
 

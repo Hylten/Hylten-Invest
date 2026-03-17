@@ -4,7 +4,7 @@ description: "A clinical institutional briefing on the stewardship mechanics, ba
 date: "2025-08-22"
 author: "Jonas Hyltén"
 slug: "stewardship-high-net-worth-private-equity"
----
+--- 
 
 The dislocation in global private equity allocations is not primarily a function of market volatility.
 

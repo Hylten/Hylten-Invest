@@ -4,7 +4,7 @@ description: "Institutional analysis of moral authority, generational capital, C
 date: "2026-02-28"
 author: "Jonas Hyltén"
 slug: "moral-authority-private-wealth-stewardship"
----
+--- 
 
 Moral authority in private wealth stewardship emerges only where capital formation aligns with conviction.
 

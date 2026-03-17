@@ -4,7 +4,7 @@ description: "How shared belief systems reduce friction, compress transaction co
 date: "2025-08-05"
 author: "Hylten-Invest"
 slug: "cultural-covenant-investing"
----
+--- 
 
 Covenant first.
 

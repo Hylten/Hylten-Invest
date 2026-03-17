@@ -4,7 +4,7 @@ description: "Why Principled Operators Are Now the Prime Targets for Direct Coâ€
 date: "2026-03-10"
 author: "Hyltenâ€‘Invest"
 slug: "values-driven-founders-co-investments"
----
+--- 
 
 Conviction draws capital.
 

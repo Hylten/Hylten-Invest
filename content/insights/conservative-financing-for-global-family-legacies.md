@@ -4,7 +4,7 @@ description: "Institutional brief examining conservative capital formation, priv
 date: "2026-03-08"
 author: "Jonas Hyltén"
 slug: "conservative-financing-for-global-family-legacies"
----
+--- 
 
 Conservative capital is not a posture.
 

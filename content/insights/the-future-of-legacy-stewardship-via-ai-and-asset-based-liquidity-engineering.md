@@ -4,7 +4,7 @@ description: "High net worth liquidity solutions built on private credit, asset 
 date: "2025-11-11"
 author: "Hyltén Invest"
 slug: "the-future-of-legacy-stewardship-via-ai-and-asset-based-liquidity-engineering"
----
+--- 
 
 # The Future of Legacy: Stewardship via AI and Asset-Based Lending Legacy is not inherited.
 

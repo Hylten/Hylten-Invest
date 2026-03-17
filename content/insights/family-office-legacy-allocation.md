@@ -4,7 +4,7 @@ description: "Insights on Family Office Legacy Allocation from Roials Capital an
 date: "2025-12-16"
 author: "Hyltén Invest"
 slug: "family-office-legacy-allocation"
----
+--- 
 
 # Family Office Legacy Allocation Hyltén Invest Family offices carry a responsibility that is different in nature from traditional wealth management.
 

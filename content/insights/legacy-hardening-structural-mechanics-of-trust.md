@@ -4,7 +4,7 @@ description: "An institutional examination of generational capital formation, No
 date: "2025-10-05"
 author: "Jonas Hyltén"
 slug: "legacy-hardening-structural-mechanics-of-trust"
----
+--- 
 
 The capital vacuum that defines the current global investment climate originates not from a shortage of assets, but from a degradation of trust as a functional infrastructure.
 

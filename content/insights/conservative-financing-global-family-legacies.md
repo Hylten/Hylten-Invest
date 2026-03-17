@@ -4,7 +4,7 @@ description: "Institutional brief on conservative capital engineering for family
 date: "2026-01-24"
 author: "Jonas Hyltén"
 slug: "conservative-financing-global-family-legacies"
----
+--- 
 
 Conservative financing is not a trend.
 

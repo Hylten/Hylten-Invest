@@ -4,7 +4,7 @@ description: "A clinical examination of capital migration dynamics, balance shee
 date: "2025-12-22"
 author: "Hyltén Invest"
 slug: "capital-migration-multi-generational-stability"
----
+--- 
 
 The capital vacuum in North American energy markets is a regulatory and institutional phenomenon rather than a function of resource scarcity.
 

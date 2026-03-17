@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural mechanics, moral architec
 date: "2025-11-20"
 author: "Hyltén Invest"
 slug: "architecture-of-generational-stewardship"
----
+--- 
 
 The structural gap inside contemporary capital formation is not primarily financial.
 

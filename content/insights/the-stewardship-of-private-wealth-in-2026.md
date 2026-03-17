@@ -4,7 +4,7 @@ description: "A high-level exploration of liquidity strategy and asset-based liq
 date: "2026-03-04"
 author: "Hyltén Invest"
 slug: "the-stewardship-of-private-wealth-in-2026"
----
+--- 
 
 # The Stewardship of Private Wealth in 2026 Stewardship in 2026 is defined by clarity, patience, and structural intelligence.
 

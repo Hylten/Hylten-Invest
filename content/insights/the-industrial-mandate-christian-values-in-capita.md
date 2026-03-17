@@ -4,7 +4,7 @@ description: "The Industrial Mandate: Christian Values In Capita"
 date: "2025-08-10"
 author: "Hyltén Invest"
 slug: "the-industrial-mandate-christian-values-in-capita"
----
+--- 
 
 # The Industrial Mandate.
 

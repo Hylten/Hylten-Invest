@@ -4,7 +4,7 @@ description: "A deep exploration of conservative leverage, private credit, and a
 date: "2025-08-09"
 author: "Hyltén Invest"
 slug: "conservative-leverage-the-quiet-architecture-of-hylten-invest"
----
+--- 
 
 # Conservative Leverage: The Hylten Invest Philosophy High net worth individuals move through markets differently than institutions.
 

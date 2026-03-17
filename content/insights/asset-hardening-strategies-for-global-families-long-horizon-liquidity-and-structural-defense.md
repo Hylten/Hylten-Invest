@@ -4,7 +4,7 @@ description: "A strategic exploration of liquidity, private credit, and asset ba
 date: "2025-08-03"
 author: "Hyltén Invest"
 slug: "asset-hardening-strategies-for-global-families-long-horizon-liquidity-and-structural-defense"
----
+--- 
 
 # Asset Hardening Strategies for Global Families Global families operate within a landscape defined by complexity, cross border exposure, and the need for quietly fortified balance sheets.
 

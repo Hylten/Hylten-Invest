@@ -4,7 +4,7 @@ description: "A principal brief on Christian industrial legacy, generational des
 date: "2025-12-12"
 author: "Hylten-Invest"
 slug: "generational-capital-christian-industrial-legacy-multi-century-asset-design"
----
+--- 
 
 Legacy does not emerge.
 

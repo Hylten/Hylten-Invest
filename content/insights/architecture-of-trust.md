@@ -4,7 +4,7 @@ description: "Institutional exposition of capital stewardship, moral authority, 
 date: "2025-11-30"
 author: "Jonas Hyltén"
 slug: "architecture-of-trust"
----
+--- 
 
 A deficit of moral clarity always shows up as a pricing inefficiency.
 

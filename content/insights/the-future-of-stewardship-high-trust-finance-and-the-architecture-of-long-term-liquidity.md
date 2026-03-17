@@ -4,7 +4,7 @@ description: "A strategic exploration of high trust finance, liquidity architect
 date: "2025-06-29"
 author: "Hyltén Invest"
 slug: "the-future-of-stewardship-high-trust-finance-and-the-architecture-of-long-term-liquidity"
----
+--- 
 
 # The Future of Stewardship: High Trust Finance Stewardship is entering a new era.
 

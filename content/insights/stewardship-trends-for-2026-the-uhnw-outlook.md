@@ -4,7 +4,7 @@ description: "A deep analysis of 2026 stewardship trends for UHNW investors with
 date: "2025-10-15"
 author: "Hyltén Invest"
 slug: "stewardship-trends-for-2026-the-uhnw-outlook"
----
+--- 
 
 # Stewardship Trends for 2026: The UHNW Outlook Stewardship in 2026 is entering a new phase.
 

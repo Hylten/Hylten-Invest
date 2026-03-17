@@ -4,7 +4,7 @@ description: "Institutional doctrine for long-horizon asset preservation, liquid
 date: "2026-01-17"
 author: "Hylten-Invest"
 slug: "hylten-invest-asset-preservation-framework"
----
+--- 
 
 The architecture of generational capital does not emerge through accumulation alone.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on digital age capital preservation, stewar
 date: "2025-07-07"
 author: "Jonas Hyltén"
 slug: "wealth-preservation-digital-age-strategic-alignment"
----
+--- 
 
 The capital vacuum in the digital age is not driven by technological disruption.
 

@@ -4,7 +4,7 @@ description: "A principal-level briefing on the resurgence of conviction-driven 
 date: "2025-08-26"
 author: "Hylten-Invest"
 slug: "conviction-industrialism-2030-family-offices"
----
+--- 
 
 Conviction is capital.
 

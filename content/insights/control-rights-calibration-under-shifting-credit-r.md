@@ -4,7 +4,7 @@ description: "Control Rights Calibration Under Shifting Credit Regimes Using The
 date: "2026-03-20"
 author: "Hylten Invest"
 slug: "control-rights-calibration-under-shifting-credit-regimes-using-the-fiduciary-razor"
----
+--- 
 
 # Control Rights Calibration Under Shifting Credit Regimes Using The Fiduciary Razor ## ## 
 

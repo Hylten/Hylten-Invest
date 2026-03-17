@@ -4,7 +4,7 @@ description: "Institutional briefing on cross border capital migration, sovereig
 date: "2025-07-18"
 author: "Hyltén Invest"
 slug: "capital-migration-sovereign-crypto-liquidity-engineering"
----
+--- 
 
 The structural gap in cross border capital mobility is expanding due to regulatory desynchronization across Europe, North America, and the Gulf.
 

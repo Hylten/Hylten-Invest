@@ -4,7 +4,7 @@ description: "A technical institutional briefing on the Scandinavian trust archi
 date: "2025-09-30"
 author: "Hyltén Invest"
 slug: "gnosjo-syndikatet-architecture-of-trust-part-2"
----
+--- 
 
 The structural gap in modern capital markets is not the absence of liquidity.
 

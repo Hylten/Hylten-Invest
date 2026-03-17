@@ -4,7 +4,7 @@ description: "Why sovereign wealth institutions are dissecting faith‑rooted go
 date: "2026-03-09"
 author: "Hylten-Invest"
 slug: "sovereign-funds-faith-rooted-governance"
----
+--- 
 
 Sovereign committees are circling back to first principles.
 

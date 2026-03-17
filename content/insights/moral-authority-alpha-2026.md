@@ -4,7 +4,7 @@ description: "A principal-level analysis on why global allocators are elevating 
 date: "2026-02-04"
 author: "Hylten-Invest"
 slug: "moral-authority-alpha-2026"
----
+--- 
 
 The market has shifted.
 

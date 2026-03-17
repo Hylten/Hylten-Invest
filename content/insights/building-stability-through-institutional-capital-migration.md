@@ -4,7 +4,7 @@ description: "A strategic exploration of liquidity creation and asset based liqu
 date: "2025-10-21"
 author: "Hyltén Invest"
 slug: "building-stability-through-institutional-capital-migration"
----
+--- 
 
 # Building Stability via Institutional Capital Migration Institutional capital migrates slowly.
 

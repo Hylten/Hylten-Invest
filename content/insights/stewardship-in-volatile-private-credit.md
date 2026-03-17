@@ -4,7 +4,7 @@ description: "Institutional briefing on stewardship as a capital discipline with
 date: "2026-01-26"
 author: "Jonas Hyltén"
 slug: "stewardship-in-volatile-private-credit"
----
+--- 
 
 The current private credit landscape continues to be defined by a structural gap rather than a cyclical aberration.
 

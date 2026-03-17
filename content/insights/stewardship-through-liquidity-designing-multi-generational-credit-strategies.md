@@ -4,7 +4,7 @@ description: "Designing evergreen credit lines and liquidity strategies for fami
 date: "2026-03-01"
 author: "Hyltén Invest"
 slug: "stewardship-through-liquidity-designing-multi-generational-credit-strategies"
----
+--- 
 
 # Stewardship Through Liquidity: Designing Multi-Generational Credit Strategies for Family Wealth Family wealth grows through time.
 

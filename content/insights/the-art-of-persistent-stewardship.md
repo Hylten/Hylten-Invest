@@ -4,7 +4,7 @@ description: "A high-density institutional briefing examining the structural mec
 date: "2025-08-09"
 author: "Jonas Hyltén"
 slug: "the-art-of-persistent-stewardship"
----
+--- 
 
 Structural Gap: The absence of persistent stewardship in modern capital formation is the primary driver of global inefficiencies.
 

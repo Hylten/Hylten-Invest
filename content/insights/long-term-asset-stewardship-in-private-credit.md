@@ -4,7 +4,7 @@ description: "A high-end exploration of liquidity architecture and asset-based l
 date: "2025-08-31"
 author: "Hyltén Invest"
 slug: "long-term-asset-stewardship-in-private-credit"
----
+--- 
 
 # Long-Term Asset Stewardship in Private Credit Private credit has matured into one of the most structurally essential forces in global finance.
 

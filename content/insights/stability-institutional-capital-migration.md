@@ -4,7 +4,7 @@ description: "A principal-level examination of cross‑jurisdictional capital mi
 date: "2025-09-24"
 author: "Hylten-Invest"
 slug: "stability-institutional-capital-migration"
----
+--- 
 
 Institutional stability is never inherited.
 

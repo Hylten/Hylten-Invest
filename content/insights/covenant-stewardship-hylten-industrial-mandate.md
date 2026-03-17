@@ -4,7 +4,7 @@ description: "A principal-level institutional brief on the theology of capital, 
 date: "2025-08-16"
 author: "Jonas Hyltén"
 slug: "covenant-stewardship-hylten-industrial-mandate"
----
+--- 
 
 Covenant stewardship is not a metaphor.
 

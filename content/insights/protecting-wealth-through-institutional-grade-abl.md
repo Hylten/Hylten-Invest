@@ -4,7 +4,7 @@ description: "A strategic overview of how High Net Worth investors preserve liqu
 date: "2026-03-07"
 author: "Hyltén Invest"
 slug: "protecting-wealth-through-institutional-grade-abl"
----
+--- 
 
 # Protecting Wealth via Institutional Grade Asset-Based Lending Wealth, once created, requires a different architecture than the one that built it.
 

@@ -4,7 +4,7 @@ description: "Institutional allocators are re-weighting moral authority, steward
 date: "2025-12-11"
 author: "Hylten-Invest"
 slug: "revival-of-stewardship-capital"
----
+--- 
 
 The pivot is quiet.
 

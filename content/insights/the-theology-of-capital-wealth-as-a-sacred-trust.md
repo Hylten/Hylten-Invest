@@ -4,7 +4,7 @@ description: "The Theology Of Capital: Wealth As A Sacred Trust"
 date: "2025-11-21"
 author: "Hyltén Invest"
 slug: "the-theology-of-capital-wealth-as-a-sacred-trust"
----
+--- 
 
 # The Theology of Capital Wealth as a Sacred Trust Capital is not neutral.
 

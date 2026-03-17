@@ -4,7 +4,7 @@ description: "Institutional briefing on the stewardship architecture, legacy all
 date: "2025-08-15"
 author: "Jonas Hyltén"
 slug: "family-office-legacy-allocation-stewardship-architecture"
----
+--- 
 
 The capital vacuum in North America’s real-asset ecosystem is an outcome of policy friction and institutional retreat, not a deterioration in resource quality.
 

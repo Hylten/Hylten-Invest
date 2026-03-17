@@ -4,7 +4,7 @@ description: "Institutional briefing on the Nordic discipline of capital steward
 date: "2025-09-11"
 author: "Jonas Hyltén"
 slug: "legacy-hardening-hylten-invest-liquidity-engineering"
----
+--- 
 
 The structural gap that defines modern capital markets is no longer information scarcity.
 

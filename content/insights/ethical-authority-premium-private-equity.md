@@ -4,7 +4,7 @@ description: "An institutional brief on how moral authority, covenantal stewards
 date: "2025-12-28"
 author: "Hylten-Invest"
 slug: "ethical-authority-premium-private-equity"
----
+--- 
 
 Ethical authority rises.
 

@@ -4,7 +4,7 @@ description: "A principal brief on capital as moral repair, covenantal stewardsh
 date: "2025-08-06"
 author: "Hylten-Invest"
 slug: "redemptive-capital-restoration-mandate"
----
+--- 
 
 Internal.
 

@@ -4,7 +4,7 @@ description: "A high‑end analysis of crypto‑secured liquidity within private
 date: "2026-01-04"
 author: "Hyltén Invest"
 slug: "the-conservative-case-for-cryptobacked-liquidity"
----
+--- 
 
 # The Conservative Case for Crypto Backed Liquidity High net worth capital behaves differently than speculative capital.
 

@@ -4,7 +4,7 @@ description: "A strategic overview of liquidity engineering through private cred
 date: "2026-01-21"
 author: "Hyltén Invest"
 slug: "legacy-hardening-for-uhnw-families-inflation-resilience-through-structural-liquidity"
----
+--- 
 
 # Legacy Hardening: Protecting UHNW Families from Inflationary Shocks Inflation does not erode wealth evenly.
 

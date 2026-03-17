@@ -4,7 +4,7 @@ description: "A technical examination of the Hylten Invest asset hardening model
 date: "2025-12-08"
 author: "Jonas Hyltén"
 slug: "hylten-invest-model-asset-hardening"
----
+--- 
 
 Structural Gap: The capital vacuum across European mid market industrial assets is a function of balance sheet dilution, fragmented ownership cohorts, and regulatory rigidity.
 

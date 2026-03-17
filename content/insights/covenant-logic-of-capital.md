@@ -4,7 +4,7 @@ description: "A principal brief on faith‑aligned allocation, generational auth
 date: "2025-12-23"
 author: "Hylten-Invest"
 slug: "covenant-logic-of-capital"
----
+--- 
 
 Capital moves with conviction.
 

@@ -4,7 +4,7 @@ description: "A principal‑level briefing on generational stewardship, ultra‑
 date: "2025-07-11"
 author: "Hylten‑Invest"
 slug: "faith-aligned-capital-deployment-ultra-concentrated-portfolios"
----
+--- 
 
 The structure must stand before the capital flows.
 

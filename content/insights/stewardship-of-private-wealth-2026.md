@@ -4,7 +4,7 @@ description: "An institutional analysis of private wealth stewardship in 2026, e
 date: "2026-01-20"
 author: "Jonas Hyltén"
 slug: "stewardship-of-private-wealth-2026"
----
+--- 
 
 The capital vacuum shaping private wealth in 2026 is a structural consequence of governance realignment, institutional contraction, and regulatory drift.
 

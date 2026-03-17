@@ -4,7 +4,7 @@ description: "A principal-level brief on conservative liquidity engineering, ins
 date: "2026-03-02"
 author: "Jonas Hyltén — Hylten‑Invest"
 slug: "conservative-portfolio-liquidity-stewardship-hylten-invest"
----
+--- 
 
 The architecture of liquidity defines the architecture of power.
 

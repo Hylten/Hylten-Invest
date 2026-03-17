@@ -4,7 +4,7 @@ description: "Why Hyltén Invest sees significant potential in agentic AI and it
 date: "2025-10-23"
 author: "Hyltén Invest"
 slug: "the-future-of-generative-ai-investments"
----
+--- 
 
 Artificial Intelligence is currently undergoing a paradigm shift.
 

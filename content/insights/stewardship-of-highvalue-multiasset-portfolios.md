@@ -4,7 +4,7 @@ description: "A minimalist and conservative framework for liquidity optimization
 date: "2025-12-18"
 author: "Hyltén Invest"
 slug: "stewardship-of-highvalue-multiasset-portfolios"
----
+--- 
 
 # Stewardship of High Value Multi Asset Portfolios High value portfolios require more than management.
 

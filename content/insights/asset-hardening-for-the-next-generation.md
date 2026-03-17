@@ -4,7 +4,7 @@ description: "A technical briefing on institutional asset hardening, liquidity e
 date: "2025-10-08"
 author: "Hyltén Invest"
 slug: "asset-hardening-next-generation-structural-liquidity"
----
+--- 
 
 The structural gap facing multi generational families is not a shortage of assets.
 

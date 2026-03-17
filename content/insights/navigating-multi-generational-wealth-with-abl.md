@@ -4,7 +4,7 @@ description: "A strategic exploration of liquidity, private credit, and asset ba
 date: "2025-07-10"
 author: "Hyltén Invest"
 slug: "navigating-multi-generational-wealth-with-abl"
----
+--- 
 
 # Navigating Multi-Generational Wealth with Asset-Based Lending Multi generational wealth is not merely inherited, it is engineered.
 

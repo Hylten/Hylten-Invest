@@ -4,7 +4,7 @@ description: "A strategic analysis of how Christian industrial heritage, Nordic 
 date: "2026-02-27"
 author: "Jonas Hyltén"
 slug: "industrial-mandate-christian-values-in-capital"
----
+--- 
 
 The capital vacuum in modern industry is not created by scarcity.
 

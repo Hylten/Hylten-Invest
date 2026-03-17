@@ -4,7 +4,7 @@ description: "A high-end exploration of liquidity stewardship for HNWI and UHNW 
 date: "2026-01-05"
 author: "Hyltén Invest"
 slug: "the-stewardship-of-sovereign-assets-and-the-architecture-of-enduring-liquidity"
----
+--- 
 
 # The Stewardship of Sovereign Assets and the Architecture of Enduring Liquidity True wealth is not measured by velocity.
 

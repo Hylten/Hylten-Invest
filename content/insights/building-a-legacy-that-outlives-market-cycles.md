@@ -4,7 +4,7 @@ description: "A high‑end strategic perspective on liquidity, private credit, a
 date: "2025-10-07"
 author: "Hyltén Invest"
 slug: "building-a-legacy-that-outlives-market-cycles"
----
+--- 
 
 # Building a Legacy That Outlives Market Cycles Wealth has always moved in cycles.
 

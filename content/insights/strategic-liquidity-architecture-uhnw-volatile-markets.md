@@ -4,7 +4,7 @@ description: "A principal-grade intelligence brief on liquidity engineering, cap
 date: "2025-09-18"
 author: "Hyltén Invest"
 slug: "strategic-liquidity-architecture-uhnw-volatile-markets"
----
+--- 
 
 [START INTELLIGENCE REPORT] ## ## 
 

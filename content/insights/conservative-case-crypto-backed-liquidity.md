@@ -4,7 +4,7 @@ description: "An institutional analysis of crypto collateral mechanics, liquidit
 date: "2025-08-04"
 author: "Hyltén Invest"
 slug: "conservative-case-crypto-backed-liquidity"
----
+--- 
 
 The liquidity displacement observed in global credit markets is a consequence of structural balance sheet contraction, not speculative innovation.
 

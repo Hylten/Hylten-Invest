@@ -4,7 +4,7 @@ description: "Institutional brief on asset‑based lending as a generational pre
 date: "2026-01-14"
 author: "Jonas Hyltén"
 slug: "mechanics-legacy-preservation-abl"
----
+--- 
 
 Legacy is not sentiment.
 

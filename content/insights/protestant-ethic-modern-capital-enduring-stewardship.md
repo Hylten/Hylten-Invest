@@ -4,7 +4,7 @@ description: "A principal-level brief on why discipline, work, and covenantal st
 date: "2025-12-20"
 author: "Hylten‑Invest"
 slug: "protestant-ethic-modern-capital-enduring-stewardship"
----
+--- 
 
 Hard work compounds.
 

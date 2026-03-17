@@ -4,7 +4,7 @@ description: "A principal-level briefing on the structural, moral, and strategic
 date: "2025-12-06"
 author: "Hylten-Invest"
 slug: "uhnw-pivot-industrial-holdings"
----
+--- 
 
 The pivot began quietly.
 

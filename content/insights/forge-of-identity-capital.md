@@ -4,7 +4,7 @@ description: "An analyst-grade examination of value-coherent investment architec
 date: "2025-09-30"
 author: "Hylten-Invest"
 slug: "forge-of-identity-capital"
----
+--- 
 
 Identity is not branding.
 

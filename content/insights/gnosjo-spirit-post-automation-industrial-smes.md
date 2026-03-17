@@ -4,7 +4,7 @@ description: "Gnosjo Spirit Post Automation Industrial Smes | Institutional Brie
 date: "2026-03-20"
 author: "Hylten Invest"
 slug: "gnosjo-spirit-post-automation-industrial-smes"
----
+--- 
 
 title: "The Sovereign Logic of the Gnosjö Spirit in a Post‑Automation Industrial Age" description: "A principal-level, high-clarity architecture of how the Spirit of Gnosjö becomes the operational blueprint for post-automation industrial SMEs seeking moral authority, covenantal stewardship, and generational durability." date: "2026-03-03" author: "Hylten-Invest" slug: "gnosjo-spirit-post-automation-industrial-smes" 
 -  

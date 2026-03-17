@@ -4,7 +4,7 @@ description: "A principal-level directive on spiritually anchored capital, indus
 date: "2025-10-16"
 author: "Hylten-Invest"
 slug: "capital-under-covenant"
----
+--- 
 
 Capital becomes sacred when it is placed under covenant.
 

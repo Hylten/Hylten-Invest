@@ -4,7 +4,7 @@ description: "How the Spirit of Gnosjö reshapes emerging PE operating models th
 date: "2025-07-19"
 author: "Hylten-Invest"
 slug: "gnosjo-imprint-private-equity"
----
+--- 
 
 The forge precedes the fund.
 

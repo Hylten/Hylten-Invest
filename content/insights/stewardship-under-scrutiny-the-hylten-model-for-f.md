@@ -4,7 +4,7 @@ description: "Stewardship Under Scrutiny: The Hylten Model For F"
 date: "2026-02-18"
 author: "Hyltén Invest"
 slug: "stewardship-under-scrutiny-the-hylten-model-for-f"
----
+--- 
 
 # Stewardship Under Scrutiny 
 

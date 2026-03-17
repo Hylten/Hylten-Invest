@@ -4,7 +4,7 @@ description: "A principal-level doctrine on liquidity governance, precision allo
 date: "2026-01-12"
 author: "Jonas Hylten"
 slug: "stewardship-of-sovereign-capital"
----
+--- 
 
 The stewardship of sovereign capital begins where sentiment ends.
 

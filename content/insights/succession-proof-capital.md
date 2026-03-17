@@ -4,7 +4,7 @@ description: "Succession Proof Capital | Institutional Briefing by Hylten-Invest
 date: "2026-03-20"
 author: "Hylten Invest"
 slug: "succession-proof-capital"
----
+--- 
 
 title: "Succession‑Proof Capital" description: "A principled architectural analysis of multi‑generational enterprise stewardship, values preservation, and covenantal capital design." date: "2025-10-05" author: "Hylten-Invest" slug: "succession-proof-capital" 
 -  

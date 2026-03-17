@@ -4,7 +4,7 @@ description: "Industrial kinship networks, Protestant stewardship, and the coven
 date: "2025-09-12"
 author: "Hylten-Invest"
 slug: "gnosjo-effect-durable-alpha"
----
+--- 
 
 The Gnosjö network is not a mystery.
 

@@ -4,7 +4,7 @@ description: "A technical intelligence brief linking stewardship aligned capital
 date: "2025-12-03"
 author: "Hyltén Invest"
 slug: "structural-alignment-generational-stewardship"
----
+--- 
 
 [START INTELLIGENCE REPORT] 
 

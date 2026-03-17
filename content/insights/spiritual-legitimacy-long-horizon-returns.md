@@ -4,7 +4,7 @@ description: "A principal-level examination of spiritual legitimacy as a determi
 date: "2025-09-29"
 author: "Hylten-Invest"
 slug: "spiritual-legitimacy-long-horizon-returns"
----
+--- 
 
 The long horizon is merciless.
 

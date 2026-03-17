@@ -4,7 +4,7 @@ description: "Institutional analysis of Hylten Invest as a moral-capital allocat
 date: "2026-02-10"
 author: "Jonas Hyltén"
 slug: "hylten-invest-silent-partner-stewardship"
----
+--- 
 
 The capital vacuum in North America’s energy landscape is not a function of asset degradation.
 

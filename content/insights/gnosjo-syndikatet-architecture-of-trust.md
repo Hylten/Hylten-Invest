@@ -4,7 +4,7 @@ description: "A principal-level examination of Småland's trust‑driven industr
 date: "2026-03-02"
 author: "Jonas Hyltén"
 slug: "gnosjo-syndikatet-architecture-of-trust"
----
+--- 
 
 Trust builds faster than capital.
 

@@ -4,7 +4,7 @@ description: "Institutional brief on stewardship architecture, capital theology,
 date: "2025-06-27"
 author: "Jonas Hyltén"
 slug: "strategic-alignment-multigenerational-offices"
----
+--- 
 
 Multi‑generational offices do not fail from scarcity.
 

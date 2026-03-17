@@ -4,7 +4,7 @@ description: "Insights on Private Equity Diversification from Roials Capital and
 date: "2025-10-17"
 author: "Hyltén Invest"
 slug: "private-equity-diversification"
----
+--- 
 
 # Private Equity Diversification A Long Term Framework for High Net Worth Investors and Family Offices Private equity has become a central pillar in long term wealth stewardship.
 

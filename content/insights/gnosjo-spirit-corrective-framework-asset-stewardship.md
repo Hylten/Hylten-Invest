@@ -4,7 +4,7 @@ description: "Institutional briefing on Nordic industrial ethics, the Gnosjö co
 date: "2025-11-07"
 author: "Jonas Hyltén"
 slug: "gnosjo-spirit-corrective-framework-asset-stewardship"
----
+--- 
 
 The structural gap emerging across global capital allocation systems is not a function of resource scarcity.
 

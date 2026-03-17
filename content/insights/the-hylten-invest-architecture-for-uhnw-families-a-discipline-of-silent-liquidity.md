@@ -4,7 +4,7 @@ description: "A high-end exploration of Hylten Invest’s liquidity architecture
 date: "2026-03-13"
 author: "Hyltén Invest"
 slug: "the-hylten-invest-architecture-for-uhnw-families-a-discipline-of-silent-liquidity"
----
+--- 
 
 # The Hylten Invest Architecture for UHNW Families We begin with a principle.
 

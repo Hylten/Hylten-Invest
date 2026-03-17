@@ -4,7 +4,7 @@ description: "A principal-level briefing on industrial monasticism as a covenant
 date: "2026-02-25"
 author: "Hylten-Invest"
 slug: "industrial-monasticism-sovereign-architecture"
----
+--- 
 
 Internal doors closed.
 

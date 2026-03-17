@@ -4,7 +4,7 @@ description: "A Principal‑level briefing on how Nordic industrial families eng
 date: "2025-10-25"
 author: "Hylten‑Invest"
 slug: "nordic-family-enterprises-resilient-capital-architecture"
----
+--- 
 
 ,-.-,---.-...,,.---..,--,--.---,--.,--,,,---,.,,, The Nordic family enterprise behaves differently because it thinks differently.
 

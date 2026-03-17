@@ -4,7 +4,7 @@ description: "A high level exploration of liquidity architecture and asset based
 date: "2025-12-01"
 author: "Hyltén Invest"
 slug: "the-mechanics-of-sovereign-wealth-stewardship"
----
+--- 
 
 # The Mechanics of Sovereign Wealth Stewardship Sovereign wealth stewardship begins with a single premise, the quiet preservation of capital requires structure that does not shift under market weather.
 

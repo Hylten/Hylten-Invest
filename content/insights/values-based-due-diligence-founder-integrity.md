@@ -4,7 +4,7 @@ description: "A principal-level briefing on integrity assessment, covenantal ste
 date: "2026-02-01"
 author: "Hylten-Invest"
 slug: "values-based-due-diligence-founder-integrity"
----
+--- 
 
 The center of capital is character.
 

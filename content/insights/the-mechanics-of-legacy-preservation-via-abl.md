@@ -4,7 +4,7 @@ description: "An in depth exploration of how Asset Based liquidity engineering a
 date: "2026-02-26"
 author: "Hyltén Invest"
 slug: "the-mechanics-of-legacy-preservation-via-abl"
----
+--- 
 
 # The Mechanics of Legacy Preservation via Asset-Based Lending Legacy is a structural concept.
 

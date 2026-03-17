@@ -4,7 +4,7 @@ description: "A principal-level investigation into faith-rooted investment archi
 date: "2026-02-11"
 author: "Hylten-Invest"
 slug: "theology-of-capital-european-family-office-strategy"
----
+--- 
 
 Capital carries a spirit.
 

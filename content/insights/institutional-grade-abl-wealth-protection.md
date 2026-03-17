@@ -4,7 +4,7 @@ description: "A technical analysis of institutional Asset-Based Lending structur
 date: "2025-12-07"
 author: "Jonas Hyltén"
 slug: "institutional-grade-abl-wealth-protection"
----
+--- 
 
 The capital vacuum within North American and European private credit is not a symptom of structural weakness.
 

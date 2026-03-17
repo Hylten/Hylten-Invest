@@ -4,7 +4,7 @@ description: "An institutional brief on Hylten Invest’s role as a Swedish fami
 date: "2026-01-28"
 author: "Jonas Hylten"
 slug: "hylten-invest-institutional-liquidity-foundation"
----
+--- 
 
 Hylten Invest operates in a register that avoids spectacle.
 

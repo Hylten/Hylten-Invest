@@ -4,7 +4,7 @@ description: "A high density institutional analysis of Asset Based Lending as a 
 date: "2026-02-09"
 author: "Jonas Hyltén"
 slug: "legacy-preservation-abl-mechanics"
----
+--- 
 
 The capital vacuum impacting North American and European industrial operators originates from balance sheet misalignment rather than asset exhaustion.
 

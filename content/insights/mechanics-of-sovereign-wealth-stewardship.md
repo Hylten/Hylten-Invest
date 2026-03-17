@@ -4,7 +4,7 @@ description: "Institutional level briefing on sovereign capital regimes, steward
 date: "2025-10-21"
 author: "Jonas Hyltén"
 slug: "mechanics-of-sovereign-wealth-stewardship"
----
+--- 
 
 The structural gap in sovereign capital management is not caused by declining global liquidity.
 

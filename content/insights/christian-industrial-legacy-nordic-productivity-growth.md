@@ -4,7 +4,7 @@ description: "A principal-level briefing on the moral, industrial, and covenanta
 date: "2025-09-23"
 author: "Hylten-Invest"
 slug: "christian-industrial-legacy-nordic-productivity-growth"
----
+--- 
 
 Insight begins here.
 

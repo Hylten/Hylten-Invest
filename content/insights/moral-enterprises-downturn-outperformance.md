@@ -4,7 +4,7 @@ description: "Why value‑anchored family enterprises with covenantal ethics out
 date: "2025-12-25"
 author: "Hylten-Invest"
 slug: "moral-enterprises-downturn-outperformance"
----
+--- 
 
 Decline tests foundations.
 

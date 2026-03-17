@@ -4,7 +4,7 @@ description: "Institutional brief on liquidity engineering, succession structuri
 date: "2026-01-26"
 author: "Jonas Hyltén — Hylten-Invest"
 slug: "stewardship-digital-legacies-family-crypto-liquidity-engineering"
----
+--- 
 
 Institutional capital begins with order.
 

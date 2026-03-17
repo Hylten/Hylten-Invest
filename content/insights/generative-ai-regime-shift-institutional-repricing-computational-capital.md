@@ -4,7 +4,7 @@ description: "A clinical institutional briefing on the structural mechanics, cap
 date: "2025-10-27"
 author: "Jonas Hyltén"
 slug: "generative-ai-regime-shift-institutional-repricing-computational-capital"
----
+--- 
 
 The capital vacuum surrounding generative AI is the predictable result of infrastructural constraint rather than  abundance.
 

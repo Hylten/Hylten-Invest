@@ -4,7 +4,7 @@ description: "A high level exploration of liquidity creation through private cre
 date: "2025-09-25"
 author: "Hyltén Invest"
 slug: "stewardship-of-digital-legacies-liquidity-engineering-against-family-crypto-holdings"
----
+--- 
 
 # Stewardship of Digital Legacies: Asset-Backed Frameworks Against Family Crypto Holdings Digital wealth has matured into a multigenerational asset class.
 

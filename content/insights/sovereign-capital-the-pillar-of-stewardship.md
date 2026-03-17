@@ -4,7 +4,7 @@ description: "A high‑end exploration of long‑term liquidity architecture, pr
 date: "2026-01-25"
 author: "Hyltén Invest"
 slug: "sovereign-capital-the-pillar-of-stewardship"
----
+--- 
 
 # Sovereign Capital: The Pillar of Stewardship Sovereign capital carries a silent gravity.
 

@@ -4,7 +4,7 @@ description: "A principal-level brief on moral authority as capital structure, i
 date: "2025-07-13"
 author: "Hylten-Invest"
 slug: "virtue-as-strategic-architecture"
----
+--- 
 
 Conviction precedes structure.
 

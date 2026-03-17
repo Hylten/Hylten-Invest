@@ -4,7 +4,7 @@ description: "A high-density structural briefing on moral hazard, moral authorit
 date: "2025-07-30"
 author: "Hylten-Invest"
 slug: "moral-authority-private-equity-family-offices"
----
+--- 
 
 A family office allocates capital not as a game, not as a speculative exercise, but as a covenantal act.
 

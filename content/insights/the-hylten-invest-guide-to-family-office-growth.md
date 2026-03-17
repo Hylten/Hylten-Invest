@@ -4,7 +4,7 @@ description: "A strategic guide to liquidity, private credit, and asset based li
 date: "2025-12-13"
 author: "Hyltén Invest"
 slug: "the-hylten-invest-guide-to-family-office-growth"
----
+--- 
 
 # The Hylten Invest Guide to Family Office Growth Family offices grow quietly.
 

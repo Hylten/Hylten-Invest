@@ -4,7 +4,7 @@ description: "A principal-level architectural briefing on how covenant-based mic
 date: "2025-12-02"
 author: "Hylten-Invest"
 slug: "gnosjo-micro-cluster-sovereign-architecture"
----
+--- 
 
 The strength of a nation does not emerge from capitals, ministries, or institutions of spectacle.
 

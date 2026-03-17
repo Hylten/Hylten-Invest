@@ -4,7 +4,7 @@ description: "An institutional briefing on the structural discipline of sovereig
 date: "2026-02-10"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-architecture-long-horizon-asset-protection"
----
+--- 
 
 The capital vacuum inside Western economies is a function of allocation misalignment rather than resource scarcity.
 

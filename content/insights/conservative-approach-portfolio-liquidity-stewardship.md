@@ -4,7 +4,7 @@ description: "An institutional briefing on liquidity engineering, stewardship di
 date: "2026-02-07"
 author: "Hyltén Invest"
 slug: "conservative-approach-portfolio-liquidity-stewardship"
----
+--- 
 
 The capital vacuum in North American and European markets is a function of regulatory drift and institutional crowding, not a shortage of viable assets.
 

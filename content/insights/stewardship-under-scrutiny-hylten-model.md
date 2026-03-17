@@ -4,7 +4,7 @@ description: "An institutional examination of stewardship, capital ethics, Nordi
 date: "2025-09-21"
 author: "Jonas Hyltén"
 slug: "stewardship-under-scrutiny-hylten-model"
----
+--- 
 
 The structural gap in global capital formation is a consequence of moral drift, not capital scarcity.
 

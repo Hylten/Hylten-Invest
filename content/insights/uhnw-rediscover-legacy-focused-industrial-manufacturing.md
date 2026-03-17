@@ -4,7 +4,7 @@ description: "UHNW families are turning back to real-asset manufacturing, covena
 date: "2025-12-30"
 author: "Hylten-Invest"
 slug: "uhnw-rediscover-legacy-focused-industrial-manufacturing"
----
+--- 
 
 Industrial capital is returning to its rightful custodians.
 

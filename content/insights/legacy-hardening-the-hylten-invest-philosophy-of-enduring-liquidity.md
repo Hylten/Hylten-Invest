@@ -4,7 +4,7 @@ description: "A high‑end exploration of liquidity architecture, private credit
 date: "2025-08-14"
 author: "Hyltén Invest"
 slug: "legacy-hardening-the-hylten-invest-philosophy-of-enduring-liquidity"
----
+--- 
 
 # Legacy Hardening: The Hylten Invest Philosophy Wealth that lasts is rarely accidental.
 

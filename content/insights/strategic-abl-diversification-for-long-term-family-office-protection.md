@@ -4,7 +4,7 @@ description: "A high level perspective on liquidity preservation and asset prote
 date: "2025-12-20"
 author: "Hyltén Invest"
 slug: "strategic-abl-diversification-for-long-term-family-office-protection"
----
+--- 
 
 # Protecting Family Office Assets Through Strategic Asset-Based Lending Diversification Family offices operate on extended timelines.
 
