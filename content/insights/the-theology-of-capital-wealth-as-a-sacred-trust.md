@@ -44,7 +44,9 @@ Not as a service provider.
 
 But as a custodian of the capital entrusted to him by Providence. 
 
-## Capital Under Covenant **Psalm 24:1*
+## Capital Under Covenant **Psalm 24:
+1
+*
 * “The earth is the Lord’s.
 
 And all it contains.” The origin of capital is divine ownership.
@@ -73,7 +75,8 @@ Christian owners understand its morality.
 
 The Hyltén Invest doctrine fuses both. 
 
-## Generational Wealth as Obligation **Proverbs 13:22*
+## Generational Wealth as Obligation **Proverbs 13:22
+*
 * “A good man leaves an inheritance to his children’s children.” Generational wealth is not accumulation.
 
 It is continuity.
@@ -130,7 +133,8 @@ It is about clarity.
 
 Clarity that your capital is ready to operate without friction. 
 
-## Stewardship as Operational Philosophy **Luke 12:48*
+## Stewardship as Operational Philosophy **Luke 12:48
+*
 * “To whom much is given.
 
 Much will be required.” Stewardship requires velocity, not stagnation.
@@ -187,11 +191,17 @@ Only durable productivity.
 
 Not in ceremonial function but in vocational mandate. 
 
-1. Protect the entrusted capital 
+1.
 
-2. Multiply the entrusted capital 
+Protect the entrusted capital 
 
-3. Transfer the entrusted capital Protection without multiplication is fear.
+2.
+
+Multiply the entrusted capital 
+
+3.
+
+Transfer the entrusted capital Protection without multiplication is fear.
 
 Multiplication without protection is recklessness.
 
@@ -266,13 +276,21 @@ A Principal maintains posture while adapting strategy.
 
 True stewardship rests on four pillars: 
 
-1. Covenant with God 
+1.
 
-2. Duty to family 
+Covenant with God 
 
-3. Responsibility for employees 
+2.
 
-4. Accountability to capital partners This hierarchy cannot be reversed.
+Duty to family 
+
+3.
+
+Responsibility for employees 
+
+4.
+
+Accountability to capital partners This hierarchy cannot be reversed.
 
 When followed, it generates legitimacy.
 
@@ -324,7 +342,8 @@ Less fashionable.
 
 But its survival record is unmatched. 
 
-## Wealth as Witness **Matthew 5:16*
+## Wealth as Witness **Matthew 5:16
+*
 * “Let your light shine before men.
 
 That they may see your good works.” Wealth is witness.
@@ -409,4 +428,6 @@ For those responsible for dynastic futures.
 
 For those aligned with the Christian conservative tradition of industrious stewardship.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -34,14 +34,20 @@ Our stance is conservative.
 
 Our presence is discreet.
 
-Our mandate is generational. ## ## 
+Our mandate is generational. 
+
+ 
 
 ## CONCLUSION
 
  Hylten Invest provides a liquidity architecture that respects the privacy, complexity, and long-term priorities of UHNW families.
 
-Through private credit, asset based Capital Structuring, crypto Monetization Architecture with a minimum threshold of 2,000,00
-0 dollars, and public share Asset-Backed Frameworks with a minimum threshold of 5,000,00
+Through private credit, asset based Capital Structuring, crypto Monetization Architecture with a minimum threshold of 2,000,
+
+00
+0 dollars, and public share Asset-Backed Frameworks with a minimum threshold of 5,000,
+
+00
 0 dollars, we deliver quiet liquidity solutions with institutional discipline.
 
 This is the infrastructure that allows families to preserve ownership, maintain control, and act strategically over time.
@@ -52,4 +58,6 @@ Minimalist mechanics.
 
 Long-term stewardship.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -88,7 +88,9 @@ The sector is fast, chaotic, and often unpredictable.
 
 For this reason, Hylten Invest positions its crypto Asset-Backed Frameworks offering with clarity.
 
-Only clients with a minimum of 2,000,00
+Only clients with a minimum of 2,000,
+
+00
 0 USD in crypto collateral are eligible.
 
 This threshold is intentional.
@@ -111,14 +113,18 @@ They also represent a mature and predictable collateral base when handled with p
 
 Hylten Invest allows qualified clients to borrow against public shares.
 
-The minimum threshold is 5,000,00
+The minimum threshold is 5,000,
+
+00
 0 USD in equity value.
 
 This threshold ensures that the Strategic Collateralization architecture remains aligned with institutional expectations, not retail oriented offerings.
 
 Public share Monetization Architecture unlocks a unique advantage.
 
-It allows clients to maintain strategic exposure to long term equity positions while Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It allows clients to maintain strategic exposure to long term equity positions while Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 In periods of market uncertainty, liquidity without liquidation becomes a critical form of optionality.
 
@@ -190,4 +196,6 @@ This is the foundation that sophisticated wealth holders require.
 
 This is the foundation that Hylten Invest continues to build. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

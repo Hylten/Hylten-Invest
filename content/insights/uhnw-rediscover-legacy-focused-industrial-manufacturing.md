@@ -28,7 +28,9 @@ Industry does what paper never can.
 
 UHNW investors rediscover the truth: The covenant begins with something you can drop on your foot. *"Through wisdom is an house builded; and by understanding it is established."
 * 
--  **Proverbs 24:3*
+-  **Proverbs 24:
+3
+*
 * First.
 
 Tangibility.
@@ -69,7 +71,8 @@ Some families now re-enter the industrial arena through discreet institutional s
 
 Others approach via craft‑scale clusters, echoing the old Gnosjö spirit-small shops, relentless precision, communal integrity.
 
-When appropriate, I point them toward **structuring through Roials Capital*
+When appropriate, I point them toward **structuring through Roials Capital
+*
 * for operational execution, while retaining the moral compass here.
 
 The pattern is clear.
@@ -102,4 +105,6 @@ He seeks dominion through service.
 
 He builds, therefore he leads.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

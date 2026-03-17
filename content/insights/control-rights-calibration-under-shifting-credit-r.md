@@ -6,7 +6,9 @@ author: "Hylten Invest"
 slug: "control-rights-calibration-under-shifting-credit-regimes-using-the-fiduciary-razor"
 --- 
 
-# Control Rights Calibration Under Shifting Credit Regimes Using The Fiduciary Razor ## ## 
+# Control Rights Calibration Under Shifting Credit Regimes Using The Fiduciary Razor 
+
+ 
 
 ## INTRODUCTION
 
@@ -114,7 +116,9 @@ Below, the Razor is applied to three representative environments.
 
 The objective is to strip governance to its essential components. # ## 
 
-1. Loose Credit Regime Loose credit regimes are defined by narrow spreads, abundant liquidity, and borrower leverage tolerance.
+1.
+
+Loose Credit Regime Loose credit regimes are defined by narrow spreads, abundant liquidity, and borrower leverage tolerance.
 
 Information signals are often muted.
 
@@ -128,7 +132,9 @@ The Razor prioritizes the following.
 
 Clear reporting cadence.
 
-Direct Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Direct Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Defined triggers tied to operational metrics, not market valuations.
 
@@ -136,7 +142,9 @@ The role of direct intervention is limited in loose regimes.
 
 The priority is early detection. # ## 
 
-2. Transitional Credit Regime Transitional regimes represent inflection periods.
+2.
+
+Transitional Credit Regime Transitional regimes represent inflection periods.
 
 Liquidity rotation begins.
 
@@ -164,7 +172,9 @@ The objective is not to intervene.
 
 The objective is to maintain the ability to intervene with minimal friction. # ## 
 
-3. Tight Credit Regime Tight regimes are characterized by high rates, constrained liquidity, and sharp repricing across capital structures.
+3.
+
+Tight Credit Regime Tight regimes are characterized by high rates, constrained liquidity, and sharp repricing across capital structures.
 
 Borrowers often face operational strain.
 
@@ -418,7 +428,9 @@ Minimalism will be a competitive advantage.
 
 Clarity will be a performance driver.
 
-Stewardship will require both precision and restraint. ## ## 
+Stewardship will require both precision and restraint. 
+
+ 
 
 ## CONCLUSION
 
@@ -444,4 +456,6 @@ It strengthens governance.
 
 It positions assets for resilience regardless of the credit cycle.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

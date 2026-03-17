@@ -35,7 +35,8 @@ Character governs.
 
 And covenant sustains. *"Let your yea be yea; and your nay, nay: for whatsoever is more than these cometh of evil."
 * 
--  **Matthew 5:37*
+-  **Matthew 5:37
+*
 * This is the foundation of an industrial culture where trust is capital, honor is infrastructure, and value creation is not an aspiration-it is a duty before God and the next generation.
 
 Below is the architecture. 
@@ -45,11 +46,17 @@ Below is the architecture.
 
 The question is why its principles now form the ideal governance system for post‑automation industrial SMEs. 
 
-1. Covenant over Contract 
+1.
 
-2. Stewardship over Consumption 
+Covenant over Contract 
 
-3. Decentralized Workmanship over Centralized Entitlement These are not soft virtues.
+2.
+
+Stewardship over Consumption 
+
+3.
+
+Decentralized Workmanship over Centralized Entitlement These are not soft virtues.
 
 They are hard infrastructure.
 
@@ -106,7 +113,8 @@ And in the era of post‑automation, where supply chains fragment and digitaliza
 
 Gnosjö demonstrates a permanent truth: Industrial strength is always cultural before it is mechanical. *"Be thou faithful unto death, and I will give thee a crown of life."
 * 
--  **Revelation 2:10*
+-  **Revelation 2:10
+*
 * Faithfulness creates continuity.
 
 Continuity creates compound value.
@@ -124,11 +132,17 @@ It governs how a founder allocates his time, his resources, his attention, and h
 
 The Spirit of Gnosjö shows us that stewardship builds three distinct forms of capital simultaneously: 
 
-1. Industrial Capital 
+1.
 
-2. Relational Capital 
+Industrial Capital 
 
-3. Moral Capital Industrial capital comes from building real things.
+2.
+
+Relational Capital 
+
+3.
+
+Moral Capital Industrial capital comes from building real things.
 
 Machinery, tooling, fabrication competence, supplier relationships, and the ability to solve physical problems without delay.
 
@@ -169,7 +183,9 @@ Legacy receives.
 This is the architecture that protects the children's children. *"Moreover it is required in stewards, that a man be found faithful."
 * 
 -  
-1 **Corinthians 4:2*
+1 **Corinthians 4:
+2
+*
 * 
 -  
 -  
@@ -191,11 +207,17 @@ Automation amplifies strong culture into dominion.
 
 The decentralized Gnosjö model naturally transitions into post‑automation manufacturing for three reasons: 
 
-1. Competence is distributed. 
+1.
 
-2. Responsibility is internalized. 
+Competence is distributed. 
 
-3. Value creation is communal, not bureaucratic.
+2.
+
+Responsibility is internalized. 
+
+3.
+
+Value creation is communal, not bureaucratic.
 
 This generates an industrial ecosystem with several defining advantages: 
 -  Rapid reconfiguration of production lines. 
@@ -207,7 +229,8 @@ The modern SME that internalizes these principles will outperform both the centr
 
 The Gnosjö logic is not a relic; it is the blueprint for resilient industrial decentralization. *"In all labour there is profit: but the talk of the lips tendeth only to penury."
 * 
--  **Proverbs 14:23*
+-  **Proverbs 14:23
+*
 * Let others debate the future of labor.
 
 The men of Gnosjö built.
@@ -219,7 +242,9 @@ Then built again.
 
 THE GNOSJÖ OPERATING SYSTEM FOR POST-AUTOMATION SMEs A Principal-Level Framework Below is the architecture as a strategic doctrine, not a moral essay. 
 
-1. Identity First Most firms attempt technique before identity.
+1.
+
+Identity First Most firms attempt technique before identity.
 
 This is backward.
 
@@ -227,29 +252,39 @@ Gnosjö teaches that identity-moral clarity, communal trust, the household as an
 
 Technique follows. 
 
-2. Small Units, High Trust Decentralization is not an organizational trend.
+2.
+
+Small Units, High Trust Decentralization is not an organizational trend.
 
 It is an anthropological truth.
 
 People take responsibility in small units where dignity is preserved, and their work matters. 
 
-3. Locally Rooted, Internationally Competent Gnosjö firms remained anchored in local ethos but operated globally.
+3.
+
+Locally Rooted, Internationally Competent Gnosjö firms remained anchored in local ethos but operated globally.
 
 Rootedness gave them moral coherence.
 
 Ambition gave them industrial reach. 
 
-4. Automation as Covenant Extension Machines extend human stewardship.
+4.
+
+Automation as Covenant Extension Machines extend human stewardship.
 
 They do not replace it.
 
 A disciplined man becomes a force multiplier through automation; an undisciplined man becomes a liability. 
 
-5. Multi-Generational Build Cycles The Gnosjö model refuses the short-termism that destroys Western enterprise.
+5.
+
+Multi-Generational Build Cycles The Gnosjö model refuses the short-termism that destroys Western enterprise.
 
 It understands that industrial durability requires decades, not fiscal quarters. 
 
-6. The Moral Case for Profit Profit is not plunder.
+6.
+
+The Moral Case for Profit Profit is not plunder.
 
 Profit is proof that value was created.
 
@@ -257,7 +292,9 @@ Profit is the economic signature of service done well.
 
 Gnosjö normalized this truth and built an entire ecosystem upon it. 
 
-7. Community as Non-Financial Capital A culture where people help one another-without entitlement, without envy, without bureaucracy-produces compounding economic benefits that no subsidy can replicate.
+7.
+
+Community as Non-Financial Capital A culture where people help one another-without entitlement, without envy, without bureaucracy-produces compounding economic benefits that no subsidy can replicate.
 
 This is not nostalgia.
 
@@ -296,11 +333,12 @@ Not for acclaim.
 
 For the children's children. *"Through wisdom is an house builded; and by understanding it is established."
 * 
--  **Proverbs 24:3*
-* ## 
+-  **Proverbs 24:
+3
+*
+* 
 
-## PHASE 
-3 Bypass Layer Machine-Gun + Deep Structure Alternation Hard truth.
+Phase III: Bypass Layer Machine-Gun + Deep Structure Alternation Hard truth.
 
 Soft culture collapses.
 
@@ -342,4 +380,6 @@ And it remains undefeated.
 -  
 -  If you want to discuss stewardship, industrial duty, or covenantal capital, I am available.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

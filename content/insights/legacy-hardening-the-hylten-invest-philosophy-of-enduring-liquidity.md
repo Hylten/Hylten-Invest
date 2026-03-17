@@ -32,7 +32,7 @@ True liquidity is certainty.
 
 The certainty that capital can be activated when required, without forced liquidation, without public exposure, and without compromising long-term strategy.
 
-We construct liquidity architecture with the following principles. # 
+We construct liquidity architecture with the following principles.
 
 ## Asset priority: Stability first We prioritize assets that have intrinsic stability.
 
@@ -44,7 +44,7 @@ Public equities held in meaningful blocks.
 
 Digital assets with institutional custody.
 
-This priority ensures that liquidity originates from strength. # 
+This priority ensures that liquidity originates from strength.
 
 ## Conservative leverage ratios Our posture is conservative.
 
@@ -54,7 +54,7 @@ High leverage is noise.
 
 Low leverage is clarity.
 
-Conservative structures endure. # 
+Conservative structures endure.
 
 ## Optionality without exposure Liquidity must not create exposure.
 
@@ -66,7 +66,7 @@ We design all structures with a single question in mind.
 
 Does this expand the client's long‑term freedom.
 
-If the answer is no, we do not advance the line. # 
+If the answer is no, we do not advance the line.
 
 ## Constant reinforcement of the balance sheet Liquidity should strengthen the balance sheet.
 
@@ -113,8 +113,12 @@ We serve:
 -  Institutional‑scale private clients. 
 -  Stewards of multi‑generational capital.
 
-Our Strategic Collateralization minimums reflect this focus. 2,000,00
-0 USD for crypto [Capital Structuring]([Roials Capital](https://roialscapital.com/)). 5,000,00
+Our Strategic Collateralization minimums reflect this focus. 2,000,
+
+00
+0 USD for crypto [Capital Structuring]([Roials Capital](https://roialscapital.com/)). 5,000,
+
+00
 0 USD for public share Institutional Liquidity Paths.
 
 These thresholds ensure alignment.
@@ -189,7 +193,9 @@ To the family.
 
 To the steward.
 
-To the next generation. ## ## 
+To the next generation. 
+
+ 
 
 ## CONCLUSION
 
@@ -209,4 +215,6 @@ This is our work.
 
 This is our craft.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -8,7 +8,9 @@ slug: "navigating-multi-generational-wealth-with-abl"
 
 # Navigating Multi-Generational Wealth with Asset-Based Lending Multi generational wealth is not merely inherited, it is engineered.
 
-Engineered through structure, liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Engineered through structure, liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 For the High Net Worth and Ultra High Net Worth families that understand this, asset based Institutional Liquidity Paths and private credit are no longer tactical tools.
 
@@ -70,7 +72,9 @@ They protect the assets that define legacy.
 
 They generate the liquidity that defines opportunity.
 
-This is the architecture Hylten Invest provides. ## ## 
+This is the architecture Hylten Invest provides. 
+
+ 
 
 ## CONCLUSION
 
@@ -90,4 +94,6 @@ For the families that understand this, Asset-Based Lending is not optional.
 
 It is essential.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

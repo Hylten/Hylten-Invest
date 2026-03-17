@@ -49,9 +49,13 @@ We intentionally restrict our offering to areas where the collateral is knowable
 These include: 
 -  Private Credit 
 -  Asset Based Capital Structuring 
--  Crypto Institutional Liquidity Paths, with a minimum threshold of 2,000,00
+-  Crypto Institutional Liquidity Paths, with a minimum threshold of 2,000,
+
+00
 0 USD 
--  Public Share Capital Structuring, with a minimum threshold of 5,000,00
+-  Public Share Capital Structuring, with a minimum threshold of 5,000,
+
+00
 0 USD This narrow focus is deliberate.
 
 We concentrate on assets that carry intrinsic structure.
@@ -98,7 +102,9 @@ It is infrastructure.
 
 Yet volatility demands structure.
 
-For holders above the 2,000,00
+For holders above the 2,000,
+
+00
 0 USD threshold, crypto assets become candidates for disciplined balance sheet optimization.
 
 Hylten Invest treats large-scale crypto positions as institutionally interpretable collateral.
@@ -115,7 +121,9 @@ This framing transforms crypto from a high-beta asset into a long-term liquidity
 
 However, liquidity must be extracted without forcing disposition.
 
-For investors with 5,000,00
+For investors with 5,000,
+
+00
 0 USD or more in liquid public positions, Monetization Architecture against shares creates quiet liquidity without interrupting compounding.
 
 The value is subtle.
@@ -211,7 +219,9 @@ Discipline builds longevity.
 
 Stewardship requires protecting that exposure from unrelated liquidity demands.
 
-By Institutional Liquidity Paths against institutional-grade collateral, Hylten Invest enables GPs to remain fully aligned with their LPs while Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+By Institutional Liquidity Paths against institutional-grade collateral, Hylten Invest enables GPs to remain fully aligned with their LPs while Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 -  Personal commitments 
 -  Opportunity-driven allocations 
 -  Portfolio rebalancing 
@@ -231,7 +241,9 @@ A structural counterparty.
 
 Hylten Invest occupies this role deliberately.
 
-We lend quietly, conservatively, and with full respect for the dignity of long-term capital. ## ## 
+We lend quietly, conservatively, and with full respect for the dignity of long-term capital. 
+
+ 
 
 ## CONCLUSION
 
@@ -245,4 +257,6 @@ Hylten Invest provides Capital Structuring solutions that protect optionality an
 
 For those who think in decades, structure matters.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -20,7 +20,8 @@ They worked.
 
 They built for those not yet born. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 * 
--  **Psalm 33:11*
+-  **Psalm 33:11
+*
 * I present the following as an internal briefing.
 
 Not a sermon.
@@ -126,15 +127,20 @@ It is strategic mechanics. *"Blessed is the man that feareth the Lord, that deli
 
 His seed shall be mighty upon earth."
 * 
--  **Psalm 112:1*
-* -
+-  **Psalm 112:
+1
+*
+* 
+-
 2 Governance Mechanics of the Hundred-Year Balance Sheet You wanted depth.
 
 Then we descend.
 
 The families that persist share five architectural norms: 
 
-1. They enforce a sovereign narrative.
+1.
+
+They enforce a sovereign narrative.
 
 The story is written.
 
@@ -142,19 +148,25 @@ It does not shift with fashions.
 
 A family without narrative discipline fragments under the pressure of growth. 
 
-2. They separate ownership from entitlement.
+2.
+
+They separate ownership from entitlement.
 
 Roles are earned.
 
 Stewardship is assigned by readiness, not by birth order. 
 
-3. They keep bureaucracy small and moral authority large.
+3.
+
+They keep bureaucracy small and moral authority large.
 
 Formal governance exists, but culture does the heavy lifting.
 
 If you need a rulebook, you have already lost the room. 
 
-4. They reinvest disproportionately into industrial capability.
+4.
+
+They reinvest disproportionately into industrial capability.
 
 Machinery before lifestyle.
 
@@ -162,7 +174,9 @@ Expansion before consumption.
 
 Stewardship before spectacle. 
 
-5. They defend the Protestant ethic as a competitive advantage.
+5.
+
+They defend the Protestant ethic as a competitive advantage.
 
 Duty.
 
@@ -306,7 +320,10 @@ Technologies bloom and decay beside you.
 
 But your mandate remains. *"For ye have need of patience, that, after ye have done the will of God, ye might receive the promise."
 * 
--  **Hebrews 10:36*
+-  **Hebrews 10:36
+*
 * Inherited Strength, Not Inherited Ease The greatest misunderstanding of industrial inheritance is the belief that t
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

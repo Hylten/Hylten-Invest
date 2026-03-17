@@ -170,15 +170,21 @@ A sovereign legacy requires systems that endure beyond a single generation.
 
 The Legacy Framework developed by Hyltén Invest focuses on three structural pillars. 
 
-1. Preservation of Core Capital The primary asset base must remain intact.
+1.
+
+Preservation of Core Capital The primary asset base must remain intact.
 
 It must not be exposed to unnecessary liquidation or emotional decision cycles. 
 
-2. Controlled Liquidity Extraction Liquidity is drawn from assets, not by selling assets.
+2.
+
+Controlled Liquidity Extraction Liquidity is drawn from assets, not by selling assets.
 
 This preserves compounding and allows long-term positions to mature without disruption. 
 
-3. Sovereign Continuity The system is built to function independently of market volatility.
+3.
+
+Sovereign Continuity The system is built to function independently of market volatility.
 
 Liquidity remains available when the market is stressed.
 
@@ -234,11 +240,17 @@ It is the hallmark of families that intend to endure.
 
 ## Liquidity as a Strategic Asset Liquidity is often misunderstood as cash.
 
-For sovereign capital, liquidity is Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+For sovereign capital, liquidity is Access is restricted to approved mandates.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Minimum mandate depth: $5M+ target size.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
+
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 When liquidity becomes strategic, it becomes a form of sovereignty in itself.
 
@@ -294,4 +306,6 @@ For HNWI and UHNW families who value discretion, stability, and long-term stewar
 
 It is the only approach that endures.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

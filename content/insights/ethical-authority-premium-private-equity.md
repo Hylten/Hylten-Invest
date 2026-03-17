@@ -38,7 +38,9 @@ Legacy requires order.
 
 Enterprise requires truth. *"He that walketh uprightly walketh surely."
 * 
--  **Proverbs 10:9*
+-  **Proverbs 10:
+9
+*
 * Principal logic: 
 -  Authority is not declared.
 
@@ -120,4 +122,6 @@ A return to truth.
 
 A return to the architecture that built every enduring house.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

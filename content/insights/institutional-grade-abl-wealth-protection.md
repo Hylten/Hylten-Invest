@@ -24,7 +24,11 @@ The focus is clarity.
 
 The intent is stewardship.
 
-The objective is to define how an allocator can institutionalize protection around their balance sheet by anchoring exposure to real collateral, real utility, and real enforceability rather than speculative narratives. ## ## ## ## 
+The objective is to define how an allocator can institutionalize protection around their balance sheet by anchoring exposure to real collateral, real utility, and real enforceability rather than speculative narratives. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -32,9 +36,11 @@ The objective is to define how an allocator can institutionalize protection arou
 
 European banks face tightened capital adequacy requirements.
 
-North American mid sized lenders remain impaired by duration mismatches inherited from the 202
-0 to 202
-2 monetary cycle.
+North American mid sized lenders remain impaired by duration mismatches inherited from the 20
+
+20 to 20
+
+22 monetary cycle.
 
 Commercial real estate liquidity remains fractured.
 
@@ -52,8 +58,9 @@ These are not speculative technologies.
 
 These are physical assets with measurable depreciation curves and established liquidation pathways.
 
-Second, the withdrawal of banks creates space for non bank institutional lenders to occupy the senior secured position with better covenant discipline, better underwriting, and better collateral control than was culturally possible in the pre 201
-5 credit era.
+Second, the withdrawal of banks creates space for non bank institutional lenders to occupy the senior secured position with better covenant discipline, better underwriting, and better collateral control than was culturally possible in the pre 20
+
+15 credit era.
 
 Third, allocators seeking wealth protection rather than aggressive compounding now face a structurally improved environment.
 
@@ -61,7 +68,11 @@ The retreat of traditional lenders increases the ability to price risk conservat
 
 This is the central regime shift.
 
-The allocator who understands the gap between hard collateral utility and lender availability gains a protective instrument that did not exist fifteen years ago. ## ## ## ## 
+The allocator who understands the gap between hard collateral utility and lender availability gains a protective instrument that did not exist fifteen years ago. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -93,9 +104,11 @@ This creates a capital structure where the lender holds structural seniority bas
 
 Institutional LTV frameworks operate in bands.
 
-Conservatively managed programs anchor between 3
-0 and 5
-5 percent of forced sale value, not market value.
+Conservatively managed programs anchor between 
+
+30 and 
+
+55 percent of forced sale value, not market value.
 
 This ensures protective headroom, even under duress scenarios.
 
@@ -157,22 +170,28 @@ Many participants market Asset-Based Lending, but few operate within institution
 
 Roials Capital conducts operator due diligence, collateral mapping, reference verification, and structural audits to ensure alignment between allocator intention and operator execution.
 
-Institutional ## 
+Institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
- Once alignment parameters are defined, Roials Capital facilitates the ## 
+ Once alignment parameters are defined, Roials Capital facilitates the 
 
-## INTRODUCTION
+ INTRODUCTION
 
  to operators who manage collateral heavy lending programs with audited track records, documented liquidation pathways, and governance systems consistent with conservative family offices and institutional LP requirements.
 
-This triad ensures that the allocator enters structures intentionally, not reactively. ## ## ## ## 
+This triad ensures that the allocator enters structures intentionally, not reactively. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is not a moral accessory.
 
-It is an economic discipline grounded in the biblical principle that capital is a resource entrusted for productive use. **Proverbs 13:22*
-* establishes the generational mandate. **Luke 14:28*
+It is an economic discipline grounded in the biblical principle that capital is a resource entrusted for productive use. **Proverbs 13:22
+*
+* establishes the generational mandate. **Luke 14:28
+*
 * defines the necessity of planning before undertaking a venture.
 
 The Spirit of Gnosjö demonstrates how capital, work ethic, and community discipline produce resilience across generations.
@@ -201,9 +220,9 @@ Asset-Based Lending aligns with this doctrine because it channels capital into r
 
 Generational architecture Families who manage capital with a multigenerational time horizon require instruments that prioritize preservation and continuity.
 
-Asset-Based Lending delivers this because it anchors capital to collateral that can be audited, verified, and defended through cycles. ## 
+Asset-Based Lending delivers this because it anchors capital to collateral that can be audited, verified, and defended through cycles.
 
-## THE DECISION LENS FOR THE ALLOCATOR An allocator evaluating institutional grade Asset-Based Lending should anchor the decision process around five analytical filters.
+THE DECISION LENS FOR THE ALLOCATOR An allocator evaluating institutional grade Asset-Based Lending should anchor the decision process around five analytical filters.
 
 Collateral realism Does the collateral base have measurable operational utility, secondary market liquidity, and enforceable custody?
 
@@ -225,4 +244,6 @@ When executed correctly, Asset-Based Lending becomes a shield around wealth rath
 
 Roials Capital remains available for a confidential strategy audit to map the allocator's current posture, identify structural vulnerabilities, and calibrate future positioning through institutional grade Asset-Based Lending frameworks. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

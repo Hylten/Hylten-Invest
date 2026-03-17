@@ -31,11 +31,17 @@ It is an eliminative methodology.
 
 Where traditional drafting often accumulates provisions, the Razor removes provisions that fail a three part test: 
 
-1. Does this covenant protect long term capital. 
+1.
 
-2. Does it reduce interpretive ambiguity. 
+Does this covenant protect long term capital. 
 
-3. Does it reinforce the incentives that achieve alignment.
+2.
+
+Does it reduce interpretive ambiguity. 
+
+3.
+
+Does it reinforce the incentives that achieve alignment.
 
 If the provision fails any of these, it is removed or replaced.
 
@@ -58,7 +64,9 @@ The Harmonic Covenant Stack consists of five components.
 
 They must appear in proper sequence. ## 
 
-1. Foundational Purpose Clauses The most underestimated part of covenant architecture is the statement of purpose.
+1.
+
+Foundational Purpose Clauses The most underestimated part of covenant architecture is the statement of purpose.
 
 Purpose clauses must be short, explicit, and written for a lender that expects to remain in the relationship for decades.
 
@@ -71,7 +79,9 @@ Without this clarity, all downstream covenants float without anchor.
 
 With clear purpose, all covenants become aligned components of an intentional structure. ## 
 
-2. Financial Discipline Metrics Many lenders over specify metrics.
+2.
+
+Financial Discipline Metrics Many lenders over specify metrics.
 
 Others under specify them.
 
@@ -90,7 +100,9 @@ Metrics that can be manipulated reduce alignment.
 
 Three metrics tracked with discipline outperform eight metrics tracked inconsistently. ## 
 
-3. Operational Conduct Covenants Conduct covenants define the borrower’s structural behavior.
+3.
+
+Operational Conduct Covenants Conduct covenants define the borrower’s structural behavior.
 
 They govern acquisitions, asset disposals, distributions, and governance changes.
 
@@ -100,7 +112,9 @@ This creates a smaller, sharper set of conduct rules.
 
 The result is a borrower relationship with fewer misunderstandings and fewer ambiguous interactions. ## 
 
-4. Reporting Architecture Reporting covenants often accumulate unnecessary layers.
+4.
+
+Reporting Architecture Reporting covenants often accumulate unnecessary layers.
 
 Institutional lenders typically receive more data than they need, but less signal than they want.
 
@@ -113,7 +127,9 @@ All other reports must pass the three part test.
 
 If the report does not protect capital, reduce ambiguity, or reinforce alignment, it is removed. ## 
 
-5. Cure and Enforcement Mechanics Cure mechanisms are the pressure valves of covenant architecture.
+5.
+
+Cure and Enforcement Mechanics Cure mechanisms are the pressure valves of covenant architecture.
 
 Many lenders underestimate their systemic importance.
 
@@ -253,21 +269,37 @@ The result was a globally coherent covenant system that could be monitored by a 
 
 Large institutions can integrate the Razor into their operating model using the following method: 
 
-1. Map the current covenant universe. 
+1.
 
-2. Identify redundancies and contradictions. 
+Map the current covenant universe. 
 
-3. Define long horizon protection goals. 
+2.
 
-4. Apply the three part test across all provisions. 
+Identify redundancies and contradictions. 
 
-5. Redraft using essentialist principles. 
+3.
 
-6. Standardize definitions across the portfolio. 
+Define long horizon protection goals. 
 
-7. Align reporting and cure mechanics. 
+4.
 
-8. Train internal teams on the new architecture.
+Apply the three part test across all provisions. 
+
+5.
+
+Redraft using essentialist principles. 
+
+6.
+
+Standardize definitions across the portfolio. 
+
+7.
+
+Align reporting and cure mechanics. 
+
+8.
+
+Train internal teams on the new architecture.
 
 The implementation process itself is straightforward when executed with discipline. 
 -  
@@ -293,9 +325,9 @@ It is durable.
 It aligns with the ethos of capital that is designed to endure. 
 -  
 -  
--  # ## 
+-  # 
 
-## CONCLUSION
+ CONCLUSION
 
  Hylten Invest supports institutions that prioritize long term stewardship over short term advantage.
 
@@ -307,4 +339,6 @@ For institutional lenders, family offices, and multi generational capital stewar
 
 It is a strategic advantage.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

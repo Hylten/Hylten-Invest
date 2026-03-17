@@ -30,15 +30,23 @@ They were resource management doctrines.
 
 They created a class of European operators whose factories, family offices, and community infrastructures were built with multi-generational intent.
 
-It is critical to understand this foundation because the discipline of stewardship determines how an allocator engages opportunities across energy, manufacturing, infrastructure, and Strategic Collateralization. ## ## ## ## 
+It is critical to understand this foundation because the discipline of stewardship determines how an allocator engages opportunities across energy, manufacturing, infrastructure, and Strategic Collateralization. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
  The current capital regime is defined by two simultaneous dislocations. 
 
-1. Structural displacement within global energy flows. 
+1.
 
-2. Moral displacement within capital culture itself.
+Structural displacement within global energy flows. 
+
+2.
+
+Moral displacement within capital culture itself.
 
 The first is quantifiable.
 
@@ -72,7 +80,11 @@ Wealth is a sacred trust, governed by responsibility that extends beyond the own
 
 The allocator who operates without this framework will always chase velocity over durability.
 
-The allocator who operates with it will understand why capital flows drift out of equilibrium and how to navigate the resulting inefficiencies. ## ## ## ## 
+The allocator who operates with it will understand why capital flows drift out of equilibrium and how to navigate the resulting inefficiencies. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -90,9 +102,11 @@ Reservoir behavior is governed by:
 -  Permeability vectors aligned with steam chamber propagation. 
 -  Viscosity reduction as a function of controlled heat input. 
 -  Predictable pressure windows that stabilize production. 
--  Recovery factors that range from 4
-0 to 7
-0 percent under optimized thermal operations.
+-  Recovery factors that range from 
+
+40 to 
+
+70 percent under optimized thermal operations.
 
 These are not speculative mechanisms.
 
@@ -126,9 +140,9 @@ The firm’s role is not to own assets.
 
 It is to align institutional allocators with operators and strategies that reflect mature stewardship principles.
 
-In the North American energy domain, this includes institutional ## 
+In the North American energy domain, this includes institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  to NAEO and comparable operator archetypes whose extraction methodology, balance sheet management, and field discipline mirror the industrial heritage of responsible European manufacturing.
 
@@ -154,7 +168,11 @@ Roials Capital ensures alignment between allocator philosophy and operator disci
 
 When this alignment is calibrated correctly, the capital ecosystem behaves as an interdependent community akin to Gnosjö’s industrial tradition.
 
-Capital becomes a collaborative instrument rather than a destabilizing force. ## ## ## ## 
+Capital becomes a collaborative instrument rather than a destabilizing force. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Every decision an allocator makes reveals their theology.
 
@@ -168,20 +186,29 @@ It is a practical filter that ensures disciplined capital behavior.
 
 This filter operates across four dimensions: 
 
-1. Temporal discipline Long-horizon thinking governs investment discipline. **Proverbs 13:22*
+1.
+
+Temporal discipline Long-horizon thinking governs investment discipline. **Proverbs 13:22
+*
 * defines the generational mandate.
 
 A good man leaves an inheritance not only of assets but of stability. 
 
-2. Resource integrity The allocator is responsible for managing creation with intelligence.
+2.
+
+Resource integrity The allocator is responsible for managing creation with intelligence.
 
 Mismanagement of reservoirs, factories, or balance sheets is a breach of mandate. 
 
-3. Community interdependence The Spirit of Gnosjö reflects the biblical model of mutual dependence.
+3.
+
+Community interdependence The Spirit of Gnosjö reflects the biblical model of mutual dependence.
 
 Business exists as an ecosystem, not as an isolated extraction unit. 
 
-4. Accountability to truth Stewardship requires accurate data, conservative modeling, and honest reporting.
+4.
+
+Accountability to truth Stewardship requires accurate data, conservative modeling, and honest reporting.
 
 It rejects narratives that inflate expectations.
 
@@ -191,9 +218,9 @@ This filter is incompatible with speculative accelerationism.
 
 It demands a slower, more intentional, more calibrated form of capital action.
 
-It rejects strategies that produce short term yield at the expense of long term stability. ## ## ## 
+It rejects strategies that produce short term yield at the expense of long term stability.
 
-## DECISION MAKING LENS FOR ALLOCATORS Allocators who wish to operate under a theology of capital require a different analytical framework.
+DECISION MAKING LENS FOR ALLOCATORS Allocators who wish to operate under a theology of capital require a different analytical framework.
 
 They evaluate: 
 -  The moral durability of the operator. 
@@ -230,4 +257,6 @@ Stewardship is not optional.
 
 It is the only discipline capable of producing durable wealth across generations. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

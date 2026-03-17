@@ -40,7 +40,9 @@ This is stewardship rather than transaction.
 
 This is conservation rather than consumption.
 
-This is the long view. ## ## 
+This is the long view. 
+
+ 
 
 ## CONCLUSION
 
@@ -52,4 +54,6 @@ We build for resilience.
 
 We maintain principal authority so that your capital can move without exposure.
 
-If you require strategic liquidity that respects your long term architecture, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+If you require strategic liquidity that respects your long term architecture, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

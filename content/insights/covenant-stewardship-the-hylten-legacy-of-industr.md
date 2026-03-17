@@ -24,7 +24,8 @@ It is inherited.
 
 It is forged through a century of Christian industrial order where ownership meant responsibility and responsibility meant obedience to a higher mandate.
 
-In **Proverbs 13:22*
+In **Proverbs 13:22
+*
 * we read: *A good man leaves an inheritance to his children's children.
 * This is not an aspiration.
 
@@ -52,7 +53,8 @@ It leans toward order or toward decay.
 
 Toward covenant or toward fragmentation.
 
-From **Genesis 1:28*
+From **Genesis 1:28
+*
 * : *Be fruitful and multiply.
 
 Fill the earth and subdue it.
@@ -123,7 +125,8 @@ Not merely a financial one.
 
 For Hyltén Invest it is spiritual.
 
-The steward is commanded to fortify what God has placed under his authority. **Matthew 25:21*
+The steward is commanded to fortify what God has placed under his authority. **Matthew 25:21
+*
 * : *You have been faithful over a little.
 
 I will set you over much.
@@ -190,7 +193,8 @@ For Hyltén Invest, institutional readiness is an extension of faithfulness.
 Order is a form of reverence.
 
 The apostle Paul wrote in 
-1 **Corinthians 14:40*
+1 **Corinthians 14:40
+*
 * : *All things should be done decently and in order.
 * This underpins the firm's operational architecture.
 
@@ -319,7 +323,9 @@ It is why the covenant strengthens with each deployment.
 
 ## Generational Transfer and the Weight of Inheritance Christian conservatism does not treat inheritance as optional.
 
-Inheritance is obligation. **Psalm 112:2*
+Inheritance is obligation. **Psalm 112:
+2
+*
 * : *His offspring will be mighty in the land.
 
 The generation of the upright will be blessed.
@@ -386,9 +392,9 @@ UHNW families sense moral alignment.
 
 HNWI investors sense structure.
 
-This is why the Hylten architecture commands authority beyond its size. ## 
+This is why the Hylten architecture commands authority beyond its size.
 
-## THE MANDATE
+THE MANDATE
 
  Going Forward The covenant stewardship model will guide future expansions of Hyltén Invest across asset based Strategic Collateralization, private credit, and structured liquidity.
 
@@ -425,4 +431,6 @@ This is
 
 This is the architecture that will stand when markets dislocate and narratives collapse.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

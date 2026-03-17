@@ -31,7 +31,8 @@ No abstractions.
 No sentimental theology.
 
 Only covenantal truth. *"Teach us to number our days, that we may apply our hearts unto wisdom."
-* ‑ **Psalm 90:12*
+* ‑ **Psalm 90:12
+*
 * A concentrated portfolio is not an act of aggression.
 
 It is an act of devotion.
@@ -164,7 +165,8 @@ He protects the enterprise from moral decay, philosophical drift, and the tempta
 There is no room for idleness in a faith‑aligned capital structure.
 
 The Protestant ethic condemns stagnation as severely as waste. *"In all labour there is profit: but the talk of the lips tendeth only to penury."
-* ‑ **Proverbs 14:23*
+* ‑ **Proverbs 14:23
+*
 * Every asset must serve a productive purpose.
 
 Even when held long-term, it must be *working*-creating value, creating opportunity, creating resilience.
@@ -194,7 +196,9 @@ No ambiguity.
 No improvisation.
 
 Faith‑aligned capital has a mandate: prepare the children’s children. *"One generation shall praise thy works to another, and shall declare thy mighty acts."
-* ‑ **Psalm 145:4*
+* ‑ **Psalm 145:
+4
+*
 * The Industrial Mandate for Value Creation is the final anchor.
 
 This is where the Gnosjö spirit meets Christian duty.
@@ -322,17 +326,29 @@ Deployment Strategy within a Faith Framework.
 
 The capital deployment sequence must follow the hierarchy: 
 
-1. Mission alignment 
+1.
 
-2. Stewardship requirement 
+Mission alignment 
 
-3. Productive output 
+2.
 
-4. Covenant continuity 
+Stewardship requirement 
 
-5. Risk‑weighted conviction 
+3.
 
-6. Industrial heritage coherence Note the ordering.
+Productive output 
+
+4.
+
+Covenant continuity 
+
+5.
+
+Risk‑weighted conviction 
+
+6.
+
+Industrial heritage coherence Note the ordering.
 
 Mission outweighs risk.
 
@@ -395,7 +411,8 @@ If the mission served the capital, the next generation receives confusion.
 All concentrated families face this crossroads.
 
 Only a morally governed architecture ensures the correct path. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
-* ‑ **Psalm 33:11*
+* ‑ **Psalm 33:11
+*
 * Final clarity from the Principal’s chair: Concentrated capital is not dangerous.
 
 Unprincipled capital is dangerous.
@@ -412,4 +429,6 @@ Service to God precedes service to markets.
 
 When that order is honored, the portfolio becomes unshakeable.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

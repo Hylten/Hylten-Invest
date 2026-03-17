@@ -40,11 +40,17 @@ They are not optional.
 
 They are prerequisites for any enterprise that seeks multi decade relevance under a Christian conservative mandate. 
 
-1. Covenant Stewardship 
+1.
 
-2. Industrial Discipline 
+Covenant Stewardship 
 
-3. Generational Intent Covenant Stewardship is the decisive lever.
+2.
+
+Industrial Discipline 
+
+3.
+
+Generational Intent Covenant Stewardship is the decisive lever.
 
 The business is not a personal instrument.
 
@@ -118,15 +124,23 @@ No leakage of mission.
 
 There are four architectural layers that enable this. 
 
-1. The Moral Core 
+1.
 
-2. The Industrial Base 
+The Moral Core 
 
-3. The Family Governance Framework 
+2.
 
-4. The Capital Expansion Mandate Each layer reinforces the others.
+The Industrial Base 
 
-Each layer supports the long arc of capital formation. # 
+3.
+
+The Family Governance Framework 
+
+4.
+
+The Capital Expansion Mandate Each layer reinforces the others.
+
+Each layer supports the long arc of capital formation.
 
 ## The Moral Core The moral core is not symbolic.
 
@@ -150,7 +164,7 @@ It produces decision makers who understand the covenant between capital and comm
 
 This is not branding.
 
-This is operational theology. # 
+This is operational theology.
 
 ## The Industrial Base The industrial base of the Gnosjö system is not high glamour.
 
@@ -180,7 +194,7 @@ The culture is cohesive.
 
 Institutional buyers find few surprises.
 
-Because the owner has lived with none. # 
+Because the owner has lived with none.
 
 ## The Family Governance Framework A Gnosjö enterprise without family governance is a house without foundation.
 
@@ -200,7 +214,7 @@ They steward a mission.
 
 The enterprise is a trust, not a trophy.
 
-This single principle is enough to extend the lifespan of a firm by multiple decades. # 
+This single principle is enough to extend the lifespan of a firm by multiple decades.
 
 ## The Capital Expansion Mandate Every Gnosjö firm reaches an inflection point.
 
@@ -232,9 +246,13 @@ It is doctrine.
 
 Doctrine can scale anywhere. # ## 
 
-1. Convert Moral Infrastructure into Operational Standards The covenant ethos becomes: transparent reporting clean ledgers consistent margins predictable behavior stable workforce retention The moral spine becomes a measurable operational advantage. # ## 
+1.
 
-2. Convert Industrial Discipline into Acquisition Efficiency Gnosjö discipline accelerates: deal screening integration cycles capital deployment post acquisition stabilization Nothing is bloated.
+Convert Moral Infrastructure into Operational Standards The covenant ethos becomes: transparent reporting clean ledgers consistent margins predictable behavior stable workforce retention The moral spine becomes a measurable operational advantage. # ## 
+
+2.
+
+Convert Industrial Discipline into Acquisition Efficiency Gnosjö discipline accelerates: deal screening integration cycles capital deployment post acquisition stabilization Nothing is bloated.
 
 Nothing is political.
 
@@ -242,7 +260,9 @@ Nothing is performative.
 
 It is action without waste. # ## 
 
-3. Convert Generational Intent into Long Horizon Capital Strategy Generational intent produces: resilience patience anti cyclic opportunity capture stable capitalization This is the environment in which Fund-III partners can operate with clarity.
+3.
+
+Convert Generational Intent into Long Horizon Capital Strategy Generational intent produces: resilience patience anti cyclic opportunity capture stable capitalization This is the environment in which Fund-III partners can operate with clarity.
 
 This is where institutional capital finds a long term home. 
 
@@ -344,4 +364,6 @@ This is the heritage.
 
 This is the future.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

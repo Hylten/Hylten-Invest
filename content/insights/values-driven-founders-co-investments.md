@@ -50,7 +50,9 @@ He protects people.
 
 He protects the covenant of enterprise passed down from forge, workshop, and chapel. *"He that walketh uprightly walketh surely."
 * 
--  **Proverbs 10:9*
+-  **Proverbs 10:
+9
+*
 * Direct co‑investment partners see the distinction instantly.
 
 A values‑driven founder operates with sovereign architecture.
@@ -97,4 +99,6 @@ Not because he is safe.
 
 But because he is sovereign.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

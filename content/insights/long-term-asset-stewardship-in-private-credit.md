@@ -109,6 +109,10 @@ Asset-Backed Frameworks that respects long-term holdings.
 
 Strategic Collateralization that aligns with multigenerational purpose. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
 
-For inquiries related to long-term asset stewardship and private credit structures, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Minimum mandate depth: $5M+ target size.
+
+For inquiries related to long-term asset stewardship and private credit structures, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

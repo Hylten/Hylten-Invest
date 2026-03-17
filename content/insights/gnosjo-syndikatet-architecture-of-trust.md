@@ -40,7 +40,8 @@ A theology of responsibility.
 
 An anthropology of work.
 
-A covenant between hands and roofs and sons and daughters who would inherit a name before they inherited an asset. **Proverbs 13:22*
+A covenant between hands and roofs and sons and daughters who would inherit a name before they inherited an asset. **Proverbs 13:22
+*
 * .
 
 Capital becomes stewardship when the time horizon exceeds the ego.
@@ -411,6 +412,8 @@ Everything else is speculation.
 
 Everything else is drift.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Institutional Mandate Density Index: 0.87

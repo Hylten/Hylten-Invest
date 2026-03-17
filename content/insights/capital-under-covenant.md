@@ -36,7 +36,9 @@ They built more than firms.
 
 They built foundations. *"The earth is the Lord’s, and the fulness thereof."
 * 
--  **Psalm 24:1*
+-  **Psalm 24:
+1
+*
 * Sacred capital begins in recognition.
 
 You do not own the resource.
@@ -127,4 +129,6 @@ Magnify the calling.
 
 A Principal moves under conviction.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

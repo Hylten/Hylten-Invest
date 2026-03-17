@@ -75,7 +75,9 @@ Behaviour.
 -  Free enterprise is the engine; stewardship is the governor. 
 -  Generational capital survives only when duty outruns ambition. *"The integrity of the upright shall guide them."
 * 
--  **Proverbs 11:3*
+-  **Proverbs 11:
+3
+*
 * This is where the Nordic tradition intersects the Christian industrial lineage.
 
 The Protestant ethic forces the hand back to the plough.
@@ -124,4 +126,6 @@ And the inheritance for the children’s children becomes real, not theoretical.
 
 For deeper structuring insight, see institutional capital execution approaches demonstrated through [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)).
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

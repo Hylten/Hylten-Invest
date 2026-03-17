@@ -60,11 +60,17 @@ Accountability demands order.
 
 Christian capital therefore demands three conditions. 
 
-1. Moral clarity 
+1.
 
-2. Structural alignment 
+Moral clarity 
 
-3. Execution without vanity The modern market often rewards spectacle, velocity without grounding, and signal without substance.
+2.
+
+Structural alignment 
+
+3.
+
+Execution without vanity The modern market often rewards spectacle, velocity without grounding, and signal without substance.
 
 The Christian investor rejects this.
 
@@ -102,15 +108,25 @@ In structural terms.
 
 Christian industrial capital must: 
 
-1. Harden the underlying asset 
+1.
 
-2. Establish continuity across generations 
+Harden the underlying asset 
 
-3. Remove disorder, inefficiency, and vanity 
+2.
 
-4. Engineer enterprises that stand under scrutiny from regulators, auditors, and institutional LPs 
+Establish continuity across generations 
 
-5. Produce yield that strengthens families and regions without distortion or speculation This is not nostalgia.
+3.
+
+Remove disorder, inefficiency, and vanity 
+
+4.
+
+Engineer enterprises that stand under scrutiny from regulators, auditors, and institutional LPs 
+
+5.
+
+Produce yield that strengthens families and regions without distortion or speculation This is not nostalgia.
 
 This is not idealism.
 
@@ -138,17 +154,29 @@ Ethically.
 
 This includes: 
 
-1. Real balance sheet clarity 
+1.
 
-2. Non-speculative leverage structures 
+Real balance sheet clarity 
 
-3. Verified earnings without the inflation of narrative 
+2.
 
-4. Governance designed for continuity 
+Non-speculative leverage structures 
 
-5. Documentation that withstands the legal and regulatory regimes of Europe and North America 
+3.
 
-6. Leadership that understands duty before ambition Asset hardening transforms a firm from a private family shop into an institutional-grade covenant asset.
+Verified earnings without the inflation of narrative 
+
+4.
+
+Governance designed for continuity 
+
+5.
+
+Documentation that withstands the legal and regulatory regimes of Europe and North America 
+
+6.
+
+Leadership that understands duty before ambition Asset hardening transforms a firm from a private family shop into an institutional-grade covenant asset.
 
 The theology is simple.
 
@@ -176,11 +204,17 @@ Their job is to deliver the firm stronger than they received it.
 
 Covenant stewardship requires three disciplines. 
 
-1. A moral north star that is not revised by quarterly volatility 
+1.
 
-2. Generational time horizons that exceed the life of the founder 
+A moral north star that is not revised by quarterly volatility 
 
-3. Relational accountability.
+2.
+
+Generational time horizons that exceed the life of the founder 
+
+3.
+
+Relational accountability.
 
 God, family, workers, lenders, and customers Under this view, dividends are not extraction.
 
@@ -228,19 +262,33 @@ It is a moral stance.
 
 This includes: 
 
-1. The truthfulness of reported numbers 
+1.
 
-2. The alignment of leadership with covenant stewardship 
+The truthfulness of reported numbers 
 
-3. The authenticity of generational intent 
+2.
 
-4. The depth of industrial competence 
+The alignment of leadership with covenant stewardship 
 
-5. The maturity of governance 
+3.
 
-6. The discipline of the owners 
+The authenticity of generational intent 
 
-7. The willingness to harden the asset The Christian investor does not chase hope.
+4.
+
+The depth of industrial competence 
+
+5.
+
+The maturity of governance 
+
+6.
+
+The discipline of the owners 
+
+7.
+
+The willingness to harden the asset The Christian investor does not chase hope.
 
 The Christian investor reads structure.
 
@@ -362,19 +410,33 @@ They surface through engineering, not advertising.
 
 Technology and intelligence tools allow identification of firms with: 
 
-1. Structural misalignment 
+1.
 
-2. Ownership fatigue 
+Structural misalignment 
 
-3. Weak governance despite strong fundamentals 
+2.
 
-4. Latent succession issues 
+Ownership fatigue 
 
-5. Untapped industrial capacity 
+3.
 
-6. Faithful but overstretched founders 
+Weak governance despite strong fundamentals 
 
-7. Strong covenant logic but weak institutional readiness These firms do not want noise.
+4.
+
+Latent succession issues 
+
+5.
+
+Untapped industrial capacity 
+
+6.
+
+Faithful but overstretched founders 
+
+7.
+
+Strong covenant logic but weak institutional readiness These firms do not want noise.
 
 They want continuity.
 
@@ -422,7 +484,9 @@ This is the Christian conservative tradition of business.
 
 This is the Spirit of Gnosjö.
 
-This is the logic that built Sweden’s most resilient enterprises. ## ## 
+This is the logic that built Sweden’s most resilient enterprises. 
+
+ 
 
 ## CONCLUSION
 
@@ -460,4 +524,6 @@ This is
 
 This is the standard expected of every owner, manager, and institutional participant.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -76,7 +76,9 @@ We do not speak loudly.
 
 We operate quietly.
 
-Our Capital Structuring against private credit, asset-based holdings, crypto positions exceeding 2,000,000, and public share portfolios over 5,000,00
+Our Capital Structuring against private credit, asset-based holdings, crypto positions exceeding 2,000,000, and public share portfolios over 5,000,
+
+00
 0 is designed to serve families who already understand the value of silent institutional architecture.
 
 Our role is structural.
@@ -99,4 +101,6 @@ For those who operate at scale, alignment is not optional.
 
 It is the foundation upon which continuity rests.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

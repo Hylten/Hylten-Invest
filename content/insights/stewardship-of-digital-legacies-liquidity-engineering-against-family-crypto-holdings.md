@@ -42,9 +42,13 @@ At Hyltén Invest we lend against private credit structures and asset based coll
 
 Crypto holdings qualify when they exceed the minimum threshold of 2,000, 
 
-000. Public share Institutional Liquidity Paths begins above 5,000, 
+000.
 
-000. These thresholds are not arbitrary.
+Public share Institutional Liquidity Paths begins above 5,000, 
+
+000.
+
+These thresholds are not arbitrary.
 
 They exist to ensure institutional grade conditions and to preserve our focus on structural integrity rather than retail behavior.
 
@@ -98,7 +102,9 @@ They benefit from stability.
 
 They benefit from a lender who understands that liquidity should be quiet, discreet, and aligned with the pace of long term planning.
 
-Crypto Capital Structuring above the 2,000,00
+Crypto Capital Structuring above the 2,000,
+
+00
 0 threshold allows families to open liquidity channels without disturbing carefully built positions.
 
 This approach mirrors the long standing tradition of balance sheet optimization against large equity positions.
@@ -161,7 +167,9 @@ Families maintain their exposure to long term digital upside.
 
 We provide liquidity against that exposure with structures that align with their broader portfolio objectives.
 
-Minimum eligibility begins at 2,000,00
+Minimum eligibility begins at 2,000,
+
+00
 0 in crypto collateral because scale is required for stability.
 
 At lower levels volatility cannot be structurally neutralized without creating unnecessary risk.
@@ -174,13 +182,17 @@ Our responsibility is to treat them accordingly.
 
 ## Public Share Asset-Backed Frameworks at Institutional Scale For families holding public equities, Monetization Architecture against stock positions follows a parallel logic.
 
-At the 5,000,00
+At the 5,000,
+
+00
 0 threshold public share Capital Structuring allows families to unlock liquidity without triggering capital gains, without disrupting long term positions, and without introducing unnecessary execution risk.
 
 This approach is used frequently for: 
 -  Portfolio expansion. 
 -  Cross asset allocation shifts. 
--  Capital Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  Capital Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 -  Strategic balance sheet optimization for private placements. 
 -  Estate and tax optimization planning.
 
@@ -323,4 +335,6 @@ Our responsibility is to ensure that liquidity and structure travel with it.
 
 ## A Quiet Invitation If your family holds substantial digital or public market positions and seeks silent, disciplined liquidity solutions grounded in private credit and asset based Strategic Collateralization, we provide the structure that supports your long term trajectory.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

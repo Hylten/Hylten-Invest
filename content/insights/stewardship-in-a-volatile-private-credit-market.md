@@ -246,7 +246,9 @@ Collateral clarity.
 
 Conservative LTV.
 
-Predictable liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Predictable liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 principal authority is executed through craftsmanship.
 
@@ -286,7 +288,9 @@ Not leverage for its own sake.
 
 Private credit remains a powerful domain for sophisticated investors.
 
-But only when paired with conservative structure, liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+But only when paired with conservative structure, liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 As volatility rises, the value of quiet, disciplined capital rises with it.
 
@@ -296,4 +300,6 @@ Our focus will remain on Asset-Backed Frameworks against private credit, Asset-B
 
 We will continue to provide the silent structural layer that institutional capital requires, and that private families trust. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

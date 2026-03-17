@@ -69,9 +69,13 @@ Hylten‑Invest focuses exclusively on clients who understand the role of respon
 HNWI and UHNW families already operate within disciplined frameworks, which allows us to provide credit facilities that are strategic rather than transactional.
 
 Minimum thresholds: 
--  Crypto Monetization Architecture, 2,000,00
+-  Crypto Monetization Architecture, 2,000,
+
+00
 0 USD. 
--  Public Share Institutional Liquidity Paths, 5,000,00
+-  Public Share Institutional Liquidity Paths, 5,000,
+
+00
 0 USD.
 
 These thresholds are designed to maintain the integrity of our institutional mechanics.
@@ -181,10 +185,14 @@ Alignment requires a common language.
 
 It requires a shared view on liquidity risk, counterparty risk, and portfolio concentration.
 
-With our crypto Strategic Collateralization threshold at 2,000,00
+With our crypto Strategic Collateralization threshold at 2,000,
+
+00
 0 USD, we support sophisticated holders who treat digital assets as a structured balance sheet component rather than a speculative pursuit.
 
-By Asset-Backed Frameworks against public securities with a minimum 5,000,00
+By Asset-Backed Frameworks against public securities with a minimum 5,000,
+
+00
 0 USD threshold, we ensure that only scaled, institutionally organized portfolios engage these facilities.
 
 The alignment here is not about asset class preference.
@@ -255,7 +263,9 @@ Our principal authority reflects a core principle.
 
 Power is not declared.
 
-Power is engineered. ## ## 
+Power is engineered. 
+
+ 
 
 ## CONCLUSION
 
@@ -277,4 +287,6 @@ Conservative.
 
 Geared for families whose ambitions span decades, not cycles.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -58,7 +58,9 @@ Children inherit assets.
 
 But they also inherit the structures that stabilize those assets.
 
-Private credit Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Private credit Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Asset-Based Lending facilities become part of the long horizon plan.
 
@@ -118,4 +120,6 @@ Private credit and asset based Institutional Liquidity Paths provide this.
 
 Hyltén Invest exists to steward these systems with minimalist precision and long term integrity.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

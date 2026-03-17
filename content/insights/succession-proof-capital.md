@@ -21,7 +21,8 @@ Stewardship is a covenant.
 
 Governance is the vessel that protects both. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 * 
--  **Psalm 33:11*
+-  **Psalm 33:11
+*
 * Industrial families that forget this truth drift.
 
 Those who remember it build enterprises that outlive wars, cycles, fashions, and even their own names. 
@@ -62,9 +63,9 @@ Governance, share classes, voting structures, and capital discipline-all of thes
 
 A principle: If you want a value to endure, build a mechanism that makes violating it impossible or unprofitable.
 
-That is succession‑proofing. ## 
+That is succession‑proofing.
 
-## PHASE I: GOVERNANCE AS COVENANT A stewardship enterprise begins where ego ends.
+PHASE I: GOVERNANCE AS COVENANT A stewardship enterprise begins where ego ends.
 
 Governance is not paperwork.
 
@@ -85,18 +86,22 @@ Their freedom is constrained by the inherited covenant.
 
 This is not limitation; it is protection. *"Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen."
 * 
--  **Deuteronomy 4:9*
+-  **Deuteronomy 4:
+9
+*
 * A family that forgets loses the enterprise.
 
-A family that remembers multiplies it. ## 
+A family that remembers multiplies it.
 
-## PHASE II: CAPITAL THAT RESISTS CORRUPTION Money follows incentives.
+PHASE II: CAPITAL THAT RESISTS CORRUPTION Money follows incentives.
 
 Capital obeys structure.
 
 Successors follow the rails they inherit.
 
-The enterprise that survives 15
+The enterprise that survives 
+
+15
 0 years does not do so by trusting that future generations will maintain discipline.
 
 It survives by ensuring deviations carry consequences built into the financial architecture.
@@ -111,9 +116,9 @@ For Hylten-Invest, this is the moral center of succession-proof capital.
 
 The system must ensure the family’s values continue even if the family’s resolve weakens.
 
-That is the architecture of moral durability. ## 
+That is the architecture of moral durability.
 
-## PHASE III: THE DOCTRINE OF PRODUCTIVE REINVESTMENT Industrial wealth is not preserved by hoarding.
+PHASE III: THE DOCTRINE OF PRODUCTIVE REINVESTMENT Industrial wealth is not preserved by hoarding.
 
 It is preserved by renewing.
 
@@ -135,22 +140,26 @@ Strengthen the fortress.
 
 The next generation does not inherit ease; they inherit duty. *"In all labour there is profit."
 * 
--  **Proverbs 14:23*
+-  **Proverbs 14:23
+*
 * Profit is not the idol.
 
 Work is the discipline.
 
-Value creation is the moral expression. ## 
+Value creation is the moral expression.
 
-## PHASE IV: THE THREE VAULTS Every multi-generational enterprise must build three vaults of preservation: 
+PHASE IV: THE THREE VAULTS Every multi-generational enterprise must build three vaults of preservation: 
 
-1. **The Capital Vault*
+1. **The Capital Vault
+*
 * The structure protecting liquidity, reinvestment discipline, and capital allocation. 
 
-2. **The Governance Vault*
+2. **The Governance Vault
+*
 * The structure protecting decision integrity, long-horizon thinking, and moral boundaries. 
 
-3. **The Values Vault*
+3. **The Values Vault
+*
 * The structure protecting the ethos of the enterprise: duty, stewardship, industriousness, service, and the Christian moral center.
 
 A legacy survives when all three vaults reinforce each other.
@@ -163,9 +172,9 @@ Note this truth: You cannot succession-proof what you do not structure.
 
 You cannot structure what you do not define.
 
-And you cannot define what you do not believe. ## 
+And you cannot define what you do not believe.
 
-## PHASE V: THE INDUSTRIAL FAMILY AS CUSTODIAN, NOT OWNER Ownership is secular.
+PHASE V: THE INDUSTRIAL FAMILY AS CUSTODIAN, NOT OWNER Ownership is secular.
 
 Custodianship is sacred.
 
@@ -184,7 +193,9 @@ They prioritize integrity over convenience.
 They sacrifice ego for generational stability. *"Moreover it is required in stewards, that a man be found faithful."
 * 
 -  
-1 **Corinthians 4:2*
+1 **Corinthians 4:
+2
+*
 * Faithfulness is the benchmark.
 
 Not wealth.
@@ -193,9 +204,9 @@ Not prestige.
 
 Not expansion.
 
-Faithfulness to the covenant, to the craft, to the calling. ## 
+Faithfulness to the covenant, to the craft, to the calling.
 
-## PHASE VI: THE SOVEREIGN ARCHITECTURE A succession-proof enterprise must become sovereign.
+PHASE VI: THE SOVEREIGN ARCHITECTURE A succession-proof enterprise must become sovereign.
 
 That does not mean isolated; it means self-determining.
 
@@ -213,9 +224,9 @@ The Sovereign Architecture consists of:
 
 The architecture enforces the direction.
 
-The generations maintain the covenant. ## 
+The generations maintain the covenant.
 
-## PHASE VII: THE MORAL CASE FOR ENDURANCE Why must an enterprise endure?
+PHASE VII: THE MORAL CASE FOR ENDURANCE Why must an enterprise endure?
 
 Because human dignity flourishes when families build, preserve, and pass down real value.
 
@@ -236,4 +247,6 @@ It is protected.
 It is passed forward with reverence. 
 -  
 -  
--  Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

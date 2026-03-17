@@ -48,10 +48,13 @@ A leader anchored in covenantal responsibility is not a safe choice; he is the s
 
 The repricing is underway.
 
-We address the architecture. ## ## 
+We address the architecture. 
 
-## THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 202
-6 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist.
+ 
+
+## THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 20
+
+26 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist.
 
 They are reaching for the one attribute that cannot be automated, simulated, or purchased: Moral authority.
 
@@ -69,7 +72,9 @@ When the tide receded, what remained were balance sheets with numbers but no fou
 
 The world rediscovered a truth older than the markets: *"He that walketh uprightly walketh surely."
 * 
--  **Proverbs 10:9*
+-  **Proverbs 10:
+9
+*
 * The upright walk surely not because the road is free of obstacles but because their internal architecture absorbs shocks.
 
 Institutional capital, confronted with geopolitical volatility, sovereign debt pressures, and a credit cycle that will not stabilize, is rotating toward this internal architecture.
@@ -102,9 +107,9 @@ His incentives are anchored to a generational horizon-his children’s children-
 
 This is the repricing.
 
-This is the return of moral authority as the invisible collateral. ## 
+This is the return of moral authority as the invisible collateral.
 
-## PRINCIPAL TONE THE INDUSTRIAL HERITAGE ADVANTAGE The Spirit of Gnosjö was never about geography.
+PRINCIPAL TONE THE INDUSTRIAL HERITAGE ADVANTAGE The Spirit of Gnosjö was never about geography.
 
 It was about covenantal behavior: families building industry with integrity, precision, and a sense of duty to the work itself.
 
@@ -151,9 +156,9 @@ They want architects, not gamblers.
 
 They want builders, not speculators.
 
-A leader grounded in stewardship is not merely a safer choice-he is a sovereign one. ## 
+A leader grounded in stewardship is not merely a safer choice-he is a sovereign one.
 
-## INTERNAL BYPASS THE MORAL ALPHA DOCTRINE AS RISK MITIGATION To understand why moral authority is being repriced as alpha, one must examine the mechanics of institutional risk.
+INTERNAL BYPASS THE MORAL ALPHA DOCTRINE AS RISK MITIGATION To understand why moral authority is being repriced as alpha, one must examine the mechanics of institutional risk.
 
 Risk is no longer defined merely as financial exposure.
 
@@ -209,8 +214,9 @@ It remembers the hands that shaped it.
 
 Modern finance lost this memory during the era of abstraction.
 
-But the undercurrents of 202
-6 show a reawakening-allocators beginning to understand that capital requires spiritual architecture, not merely numerical architecture.
+But the undercurrents of 20
+
+26 show a reawakening-allocators beginning to understand that capital requires spiritual architecture, not merely numerical architecture.
 
 This is not mysticism.
 
@@ -251,15 +257,23 @@ Actual repricing.
 
 They examine: 
 
-1. Intergenerational stability A steward committed to generational legacy will not chase lateral distractions.
+1.
+
+Intergenerational stability A steward committed to generational legacy will not chase lateral distractions.
 
 His time horizon is longer than the market’s panic cycles. 
 
-2. Ethical clarity When a leader’s ethics are grounded in Christian stewardship, governance becomes predictable and transparent. 
+2.
 
-3. Industrial lineage Industrial heritage-particularly of the Northern European Protestant tradition-produces operational discipline, precision, and a bias toward real value creation rather than speculative cycles. 
+Ethical clarity When a leader’s ethics are grounded in Christian stewardship, governance becomes predictable and transparent. 
 
-4. Covenant-driven decisionmaking A leader with covenant thinking does not defect under duress.
+3.
+
+Industrial lineage Industrial heritage-particularly of the Northern European Protestant tradition-produces operational discipline, precision, and a bias toward real value creation rather than speculative cycles. 
+
+4.
+
+Covenant-driven decisionmaking A leader with covenant thinking does not defect under duress.
 
 He governs with accountability before God-not the quarterly report.
 
@@ -267,13 +281,15 @@ This produces a risk-adjusted return profile that institutions consider superior
 
 Moral authority becomes the invisible margin of safety.
 
-THE 187
-4 FORGE PRINCIPLE THE INDUSTRIAL ROOT AS RISK SHIELD The allocator respects the man whose lineage touches the forge, the workshop, the sawmill, the early industrial problem-solving environment.
+THE 18
+
+74 FORGE PRINCIPLE THE INDUSTRIAL ROOT AS RISK SHIELD The allocator respects the man whose lineage touches the forge, the workshop, the sawmill, the early industrial problem-solving environment.
 
 Because industrial heritage forged character the modern economy can no longer produce reliably.
 
-The 187
-4 forge did not produce noise; it produced clarity.
+The 18
+
+74 forge did not produce noise; it produced clarity.
 
 It did not produce spectacle; it produced durability.
 
@@ -337,4 +353,6 @@ And alpha rooted in moral authority is the most durable alpha available.
 
 One may explore institutional structuring models via this portal: [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)) For those who understand stewardship not as branding but as covenant, the conversation is open.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

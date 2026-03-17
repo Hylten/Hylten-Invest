@@ -66,7 +66,9 @@ Industrial usefulness.
 
 The things that endure. *"The integrity of the upright shall guide them."
 * 
--  **Proverbs 11:3*
+-  **Proverbs 11:
+3
+*
 * Industrial heritage sharpens the lens.
 
 You choose companies that solve real problems in the real world.
@@ -127,4 +129,6 @@ We guard legacy by building portfolios that our children’s children would reco
 
 Not because the world applauds virtue, but because virtue alone remains solvent across centuries.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

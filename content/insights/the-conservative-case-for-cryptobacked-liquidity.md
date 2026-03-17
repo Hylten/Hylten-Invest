@@ -38,7 +38,9 @@ Family offices and ultra high net worth individuals understand that liquidity fu
 
 When markets tighten, liquidity buys time.
 
-When opportunities emerge, liquidity buys Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+When opportunities emerge, liquidity buys Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The question is never simply how to acquire liquidity.
 
@@ -260,4 +262,6 @@ The conservative future is one where crypto backed Strategic Collateralization i
 
 Hylten‑Invest is positioned for this future, and prepared to guide the families who require silent, disciplined mechanics beneath their capital strategies. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

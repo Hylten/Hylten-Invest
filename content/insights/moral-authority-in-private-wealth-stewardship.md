@@ -64,11 +64,17 @@ A family that believes capital is assigned will remain aligned.
 
 In institutional terms Covenant Stewardship performs three structural functions. 
 
-1. It reduces entropy inside the ownership group. 
+1.
 
-2. It increases decision coherence across cycles of volatility. 
+It reduces entropy inside the ownership group. 
 
-3. It produces a fortress orientation that institutional partners interpret as strength rather than rigidity.
+2.
+
+It increases decision coherence across cycles of volatility. 
+
+3.
+
+It produces a fortress orientation that institutional partners interpret as strength rather than rigidity.
 
 The market calls this durability.
 
@@ -112,11 +118,17 @@ They test for drift risk, fragmentation risk, and entitlement risk.
 
 Families that maintain moral authority demonstrate three characteristics. 
 
-1. Capital discipline that is measurable. 
+1.
 
-2. Governance clarity that is visible. 
+Capital discipline that is measurable. 
 
-3. Purpose hierarchy that is non negotiable.
+2.
+
+Governance clarity that is visible. 
+
+3.
+
+Purpose hierarchy that is non negotiable.
 
 This creates what institutions call transmission integrity.
 
@@ -204,11 +216,17 @@ Expansions were generational rather than transactional.
 
 Today this combination produces a competitive advantage in three verticals. 
 
-1. Energy acquisition through NAEOC. 
+1.
 
-2. European acquisitions below the MiFID II revenue threshold. 
+Energy acquisition through NAEOC. 
 
-3. Off market origination for buyout and bolt on structures.
+2.
+
+European acquisitions below the MiFID II revenue threshold. 
+
+3.
+
+Off market origination for buyout and bolt on structures.
 
 The Principal who carries moral authority does not chase deals.
 
@@ -290,13 +308,21 @@ It produces Principals who understand their assignment.
 
 From a structural standpoint this doctrine performs four functions inside a family office. 
 
-1. It eliminates moral drift. 
+1.
 
-2. It stabilizes governance. 
+It eliminates moral drift. 
 
-3. It clarifies acquisition mandates. 
+2.
 
-4. It strengthens internal authority.
+It stabilizes governance. 
+
+3.
+
+It clarifies acquisition mandates. 
+
+4.
+
+It strengthens internal authority.
 
 Capital without doctrine is fragile.
 
@@ -324,11 +350,17 @@ It produced alliances that functioned without bureaucracy because moral clarity 
 
 In private wealth today the Spirit of Gnosjö translates into three institutional competencies. 
 
-1. Contract reliability. 
+1.
 
-2. Long horizon planning. 
+Contract reliability. 
 
-3. Capacity to allocate capital with conviction.
+2.
+
+Long horizon planning. 
+
+3.
+
+Capacity to allocate capital with conviction.
 
 This is the architecture that Fund-III allocators search for.
 
@@ -422,7 +454,9 @@ A steward transfers.
 
 This is the highest expression of Christian responsibility.
 
-It is also the strongest foundation for private capital growth with integrity. ## ## 
+It is also the strongest foundation for private capital growth with integrity. 
+
+ 
 
 ## CONCLUSION
 
@@ -460,4 +494,6 @@ They choose to build under the Spirit of Gnosjö.
 
 They choose stewardship as testimony.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

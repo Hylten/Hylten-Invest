@@ -14,7 +14,8 @@ He begins with survival.
 
 He begins with continuity.
 
-He begins with the family-level mandate encoded in **Proverbs 13:22*
+He begins with the family-level mandate encoded in **Proverbs 13:22
+*
 * : a good man leaves an inheritance to his children's children.
 
 That is not sentiment.
@@ -223,7 +224,9 @@ Tier
 The steward allocates to Tier 
 1 and Tier 
 
-2. He occasionally deploys into Tier 
+2.
+
+He occasionally deploys into Tier 
 3 if the counterparty architecture is sound.
 
 Tier 
@@ -485,7 +488,8 @@ If liquidity dies when the principal dies, stewardship failed.
 
 Liquidity is calling.
 
-Liquidity is obedience to **Proverbs 13:22*
+Liquidity is obedience to **Proverbs 13:22
+*
 * .
 
 This is why Hylten‑Invest refuses complexity dressed as sophistication.
@@ -503,7 +507,10 @@ Understanding preserves continuity.
 -  
 -  We close with a mandate, not a summary.
 
-Liquidity ratio target for long-horizon conservative stewards: 1.3
-5 coverage against five-year forward obligations.
+Liquidity ratio target for long-horizon conservative stewards: 1.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+35 coverage against five-year forward obligations.
+
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

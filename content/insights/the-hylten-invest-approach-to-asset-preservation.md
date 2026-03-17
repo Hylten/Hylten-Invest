@@ -60,7 +60,9 @@ We bring institutional-grade mechanics to clients who typically operate above in
 
 Our role is to secure liquidity without dismantling strategic positions.
 
-The emphasis is preservation with Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The emphasis is preservation with Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 ## Private Credit as a Stability Anchor Private credit has become the preferred environment for sophisticated investors seeking predictable yield without the volatility of public markets.
 
@@ -114,7 +116,9 @@ The focus is on institutional mechanics without institutional overhead.
 
 For most families, the difficulty is not in holding digital assets.
 
-The difficulty appears when attempting to Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The difficulty appears when attempting to Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Hyltén Invest addresses this with a clear rule.
 
@@ -148,7 +152,9 @@ The focus is refined.
 
 We provide liquidity against mature, high quality share positions without disturbing underlying strategies.
 
-Clients maintain exposure to long-term market value while gaining Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Clients maintain exposure to long-term market value while gaining Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 This is particularly useful for: 
 -  Strategic reallocation without liquidation 
@@ -313,7 +319,9 @@ It creates space.
 
 It reduces friction.
 
-It maintains clarity. ## ## 
+It maintains clarity. 
+
+ 
 
 ## CONCLUSION
 
@@ -333,4 +341,6 @@ Long-term clarity.
 
 Minimalist structure.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

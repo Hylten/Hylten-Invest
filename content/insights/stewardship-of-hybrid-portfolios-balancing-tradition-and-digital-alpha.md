@@ -87,7 +87,9 @@ The minimum threshold is
 
 This ensures scale, sophistication, and stability.
 
-The structure allows families to Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The structure allows families to Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 It preserves long term holdings while enabling short term action.
 
@@ -116,7 +118,9 @@ It ensures that the mechanics remain aligned with institutional execution.
 
 It ensures that the portfolio maintains structural integrity.
 
-Public share Capital Structuring allows families to remain invested while Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Public share Capital Structuring allows families to remain invested while Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The result is flexibility without erosion of core positions. 
 
@@ -259,9 +263,9 @@ Liquidity becomes a strategic layer.
 
 Hybrid design becomes a standard rather than an exception.
 
-At the center of this shift sits the need for professional, silent, deliberate stewardship. # ## 
+At the center of this shift sits the need for professional, silent, deliberate stewardship. # 
 
-## CONCLUSION
+ CONCLUSION
 
  : Stewardship With principal authority Hybrid portfolios represent the next chapter of long term wealth architecture.
 
@@ -287,4 +291,6 @@ All delivered with minimal visibility and maximal precision.
 
 This is principal authority.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

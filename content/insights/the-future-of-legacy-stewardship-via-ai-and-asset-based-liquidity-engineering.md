@@ -18,7 +18,9 @@ They rely on systems that protect capital, preserve optionality, and maintain pr
 
 Hyltén Invest exists in this quiet intersection.
 
-We provide liquidity without exposure, structure without noise, and Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+We provide liquidity without exposure, structure without noise, and Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The future of legacy is not speculative.
 
@@ -58,7 +60,9 @@ Hyltén Invest provides the structural mechanics that allow this endurance to ta
 
 We build frameworks that minimize noise and maximize optionality.
 
-Through AI supported Asset-Based Lending and private credit Capital Structuring, we create liquidity solutions that align with conservative long term philosophies. ## ## 
+Through AI supported Asset-Based Lending and private credit Capital Structuring, we create liquidity solutions that align with conservative long term philosophies. 
+
+ 
 
 ## CONCLUSION
 
@@ -74,4 +78,6 @@ This is the architecture of principal authority.
 
 This is the architecture of long term wealth.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

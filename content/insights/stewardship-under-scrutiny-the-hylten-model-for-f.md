@@ -42,11 +42,17 @@ The Hylten Model asserts that wealth becomes legitimate only when it is governed
 
 This responsibility is demonstrated in three ways. 
 
-1. Discipline in allocation. 
+1.
 
-2. Clarity in mandate. 
+Discipline in allocation. 
 
-3. Integrity in execution.
+2.
+
+Clarity in mandate. 
+
+3.
+
+Integrity in execution.
 
 These are not abstractions.
 
@@ -148,7 +154,9 @@ A mandate without prohibition is counterfeit.
 
 A mandate without theological rooting is vanity. # ## 
 
-2. The Governance Layer Governance is the public expression of private conviction.
+2.
+
+The Governance Layer Governance is the public expression of private conviction.
 
 This includes: 
 -  Capital committee with recorded convictions 
@@ -158,14 +166,18 @@ This includes:
 
 Action clarifies legacy. # ## 
 
-3. The Capital Deployment Layer Deployment is where families are most often compromised.
+3.
+
+The Capital Deployment Layer Deployment is where families are most often compromised.
 
 The Hylten Model corrects this through three filters. 
 -  Economic realism 
 -  Moral durability 
 -  Institutional readiness The result is a deployment architecture that respects both Scripture and scrutiny. # ## 
 
-4. The Legacy Continuation Layer Legacy is not reputation.
+4.
+
+The Legacy Continuation Layer Legacy is not reputation.
 
 Legacy is ordered continuity.
 
@@ -310,7 +322,9 @@ It does not chase trends.
 
 It does not mimic institutional behavior.
 
-It engineers Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It engineers Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 This is achieved through: 
 -  Industrial intelligence networks 
@@ -369,4 +383,6 @@ It is the architecture expected of Christian families entrusted with significant
 
 It is the architecture that will withstand scrutiny while preserving legacy.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

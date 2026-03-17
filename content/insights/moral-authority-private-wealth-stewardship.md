@@ -21,7 +21,8 @@ Wealth without mandate decays.
 Wealth with mandate compounds.
 
 A good man leaves an inheritance to his children’s children ( 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * ).
 
 ## THE MANDATE
@@ -320,7 +321,9 @@ It must settle into intentional liquidity.
 
 Purpose first.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Layer five: generational continuity.
 
@@ -686,6 +689,8 @@ Legacy is not memory.
 
 Legacy is governance.
 
-For further alignment, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+For further alignment, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Technical Mandate: 4.6% Stewardship Delta Index.

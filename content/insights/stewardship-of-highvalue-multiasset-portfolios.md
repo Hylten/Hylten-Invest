@@ -72,7 +72,9 @@ The mechanic is simple.
 
 The effect is profound. 
 
-## Asset Based Asset-Backed Frameworks for Structural Flexibility Asset based Institutional Liquidity Paths is a longitudinal tool for families who prefer to preserve core assets while Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Asset Based Asset-Backed Frameworks for Structural Flexibility Asset based Institutional Liquidity Paths is a longitudinal tool for families who prefer to preserve core assets while Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 This includes financing backed by private credit, select business assets, and other institutional grade collateral.
 
@@ -94,7 +96,9 @@ They require institutional structure.
 
 Hylten Invest provides crypto backed Monetization Architecture for portfolios with a minimum threshold of 2,000, 
 
-000. This service is designed for clients who treat digital assets not as speculative exposures, but as long horizon strategic positions.
+000.
+
+This service is designed for clients who treat digital assets not as speculative exposures, but as long horizon strategic positions.
 
 Our Institutional Liquidity Paths framework respects the volatility characteristics of the asset class while delivering a conservative and predictable liquidity line.
 
@@ -108,7 +112,9 @@ They also create potential liquidity tension if not structured correctly.
 
 Hylten Invest offers Asset-Backed Frameworks solutions for public share portfolios with a minimum threshold of 5,000, 
 
-000. This allows clients to maintain strategic holdings while unlocking capital for new opportunities or risk management.
+000.
+
+This allows clients to maintain strategic holdings while unlocking capital for new opportunities or risk management.
 
 Share Monetization Architecture protects the narrative of the position.
 
@@ -214,9 +220,13 @@ Asset based Capital Structuring.
 
 Crypto Capital Structuring from 2,000, 
 
-000. Public share Strategic Collateralization from 5,000, 
+000.
 
-000. These are tools.
+Public share Strategic Collateralization from 5,000, 
+
+000.
+
+These are tools.
 
 Stewardship is the philosophy that shapes their use.
 
@@ -226,4 +236,6 @@ We support the lineage of capital without interfering in its expression.
 
 For families who prefer principal authority over visible complexity, we remain the discreet and reliable steward behind the scenes.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

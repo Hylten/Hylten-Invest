@@ -34,7 +34,9 @@ Those who treat liquidity as architecture, not transaction.
 
 Those who preserve their ability to act when others cannot.
 
-This is the essence of sovereign stewardship. ## ## 
+This is the essence of sovereign stewardship. 
+
+ 
 
 ## CONCLUSION
 
@@ -54,4 +56,6 @@ Minimal.
 
 Enduring.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

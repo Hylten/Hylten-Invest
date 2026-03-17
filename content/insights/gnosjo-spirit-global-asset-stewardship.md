@@ -14,12 +14,17 @@ Balance sheets have expanded faster than the ethical frameworks required to gove
 
 The Gnosjö Spirit, a Scandinavian industrial tradition grounded in order, duty, and covenantal responsibility, presents a counter architecture.
 
-It provides a stabilizing logic for asset stewardship across energy, infrastructure, and private credit. ## ## ## ## 
+It provides a stabilizing logic for asset stewardship across energy, infrastructure, and private credit. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
- The post 201
-9 capital cycle has entered a bifurcated phase where technical sophistication is abundant, but moral discipline is scarce.
+ The post 20
+
+19 capital cycle has entered a bifurcated phase where technical sophistication is abundant, but moral discipline is scarce.
 
 First, capital elasticity has become asymmetric.
 
@@ -51,7 +56,11 @@ Institutions absorb higher exposure to political risk, technological uncertainty
 
 It prioritizes order over speculation, relationships over transactions, and multi generational responsibility over interim mark to market outcomes.
 
-This creates stability in environments where global capital markets have become untethered from materiality. ## ## ## ## 
+This creates stability in environments where global capital markets have become untethered from materiality. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -143,13 +152,18 @@ Roials Capital maintains introducer neutrality.
 
 The objective is to calibrate allocators to markets where disciplined operators can execute consistently.
 
-This is Strategic Collateralization focused on predictable value extraction rather than speculative timing. ## ## ## ## 
+This is Strategic Collateralization focused on predictable value extraction rather than speculative timing. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER The Theology of Capital provides the governing lens.
 
 Stewardship is not an aesthetic.
 
-It is an operational mandate defined in **Proverbs 13:22*
+It is an operational mandate defined in **Proverbs 13:22
+*
 * .
 
 Capital is a generational instrument.
@@ -178,9 +192,9 @@ Capital that reduces waste, volatility, and disorder is capital under stewardshi
 
 The Gnosjö Spirit operationalizes all four criteria.
 
-It transforms capital allocation into an act of disciplined responsibility. ## 
+It transforms capital allocation into an act of disciplined responsibility.
 
-## DECISION ARCHITECTURE FOR THE ALLOCATOR Modern allocators operate in an environment where noise outpaces signal.
+DECISION ARCHITECTURE FOR THE ALLOCATOR Modern allocators operate in an environment where noise outpaces signal.
 
 The Gnosjö framework provides a filtration mechanism that restores clarity.
 
@@ -194,4 +208,6 @@ The focus is clarity, not commitment.
 
 The objective is alignment, not allocation. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

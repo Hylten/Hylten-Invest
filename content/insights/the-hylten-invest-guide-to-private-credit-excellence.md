@@ -88,4 +88,6 @@ We maintain principal authority.
 
 We deliver liquidity with precision.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -14,11 +14,13 @@ This creates a structural spread between intrinsic asset durability and market c
 
 For families with multi generational enterprises, this dislocation defines the new regime.
 
-Asset Based Lending, when structured with precision and stewarded under a disciplined framework, becomes a mechanism for legacy continuity rather than leverage expansion. 
+Asset Based Lending, when structured with precision and stewarded under a disciplined framework, becomes a mechanism for legacy continuity rather than leverage expansion.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -44,9 +46,9 @@ Regulations, ESG driven capital flight, and institutional de banking of hydrocar
 
 Productive wells with consistent decline curves remain operationally sound, yet capital providers capable of understanding the physics of recovery have reduced exposure.
 
-This has widened spreads between asset quality and capital availability, increasing opportunity velocity for those positioned as responsible liquidity engineers. ## 
+This has widened spreads between asset quality and capital availability, increasing opportunity velocity for those positioned as responsible liquidity engineers.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  is defined by three dynamics: 
 -  Structural deleveraging within traditional banks. 
@@ -57,11 +59,13 @@ Families seeking to preserve industrial legacy are not pursuing risk expansion.
 
 They are seeking instruments that align liquidity with stewardship.
 
-Asset Based Lending becomes the anchor because it respects the hierarchy of real assets, operational continuity, and prudential control. 
+Asset Based Lending becomes the anchor because it respects the hierarchy of real assets, operational continuity, and prudential control.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -100,17 +104,17 @@ In Nordic industrial settings, Asset-Based Lending stabilizes enterprises where 
 
 It mitigates generational transitions by preventing equity dilution or forced sale of productive assets.
 
-The machinery that built the family's identity becomes a financial anchor rather than a liability. 
+The machinery that built the family's identity becomes a financial anchor rather than a liability.
 
-## PHASE 
+Phase III: .
 
-3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a capital deployer.
+THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a capital deployer.
 
 The objective is not to originate loans but to create alignment between operators, responsible lenders, and the right structural frameworks.
 
-This institutional ## 
+This institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  model allows families to access technical intelligence without facing the typical pressure dynamics associated with financing.
 
@@ -122,9 +126,9 @@ In broader industrial contexts, the role of Roials Capital is to map the capital
 
 This maintains neutrality and preserves trust for families navigating sensitive transitions.
 
-The institutional ## 
+The institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  function includes: 
 -  Legacy Continuity Diagnostics. 
@@ -133,13 +137,11 @@ The institutional ##
 -  Jurisdictional Integrity Assessments. 
 -  Opportunity Velocity Structuring.
 
-These activities provide clarity for families that require precision, confidentiality, and multi generational awareness. 
+These activities provide clarity for families that require precision, confidentiality, and multi generational awareness.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER Stewardship is not theoretical.
+THE STEWARDSHIP FILTER Stewardship is not theoretical.
 
 It is a discipline grounded in non wasteful resource management, operational continuity, and intergenerational responsibility.
 
@@ -149,7 +151,8 @@ Three principles are central:
 -  Responsibility before Expansion.
 
 Growth is legitimate only when core assets are protected and stabilized. 
--  Maintenance before Leverage. **Proverbs 13:22*
+-  Maintenance before Leverage. **Proverbs 13:22
+*
 * frames inheritance as a responsibility for structural prudence, not risk proliferation. 
 -  Truth before Valuation.
 
@@ -159,11 +162,11 @@ The Spirit of Gnosjö created enterprises capable of enduring multiple cycles be
 
 Asset Based Lending, when filtered through stewardship, becomes an instrument of conservation and dignity.
 
-It prevents unnecessary divestitures, protects core employment, and allows successors to inherit systems rather than crises. 
+It prevents unnecessary divestitures, protects core employment, and allows successors to inherit systems rather than crises.
 
-## PHASE 
+Phase V: .
 
-5. NAVIGATION LENS FOR THE INSTITUTIONAL ALLOCATOR OR FAMILY PRINCIPAL Families and allocators evaluating Asset-Based Lending structures for legacy preservation should apply a lens grounded in structural stability rather than cost of capital alone.
+NAVIGATION LENS FOR THE INSTITUTIONAL ALLOCATOR OR FAMILY PRINCIPAL Families and allocators evaluating Asset-Based Lending structures for legacy preservation should apply a lens grounded in structural stability rather than cost of capital alone.
 
 Key considerations: 
 -  Does the structure support operational continuity across generational transitions. 
@@ -175,4 +178,6 @@ For families seeking a confidential assessment, Roials Capital functions as a ne
 
 This creates a path for legacy reinforcement rather than reactive financing. [END OF INSTITUTIONAL BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

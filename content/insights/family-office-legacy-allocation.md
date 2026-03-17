@@ -64,7 +64,9 @@ Clarity requires a documented investment philosophy that is consistently revisit
 
 ## Core Elements of a Legacy Allocation Framework # ## 
 
-1. Capital Preservation Structures A family office must secure the bedrock of its liquidity and stability.
+1.
+
+Capital Preservation Structures A family office must secure the bedrock of its liquidity and stability.
 
 This often includes a blend of conservative instruments.
 
@@ -78,7 +80,9 @@ Typical elements include:
 
 They ensure the family can act from strength, not fear, during dislocations. # ## 
 
-2. Long-Term Appreciation Assets Once preservation is secured, the office establishes its growth engines.
+2.
+
+Long-Term Appreciation Assets Once preservation is secured, the office establishes its growth engines.
 
 These are allocations that compound over decades.
 
@@ -94,7 +98,9 @@ Common components include:
 
 The objective is to build exposure to global progress while avoiding unnecessary complexity. # ## 
 
-3. Strategic Influence Assets Some families deploy capital into categories that maintain or expand their influence.
+3.
+
+Strategic Influence Assets Some families deploy capital into categories that maintain or expand their influence.
 
 These allocations are not merely financial.
 
@@ -112,7 +118,9 @@ They are not evaluated only through financial metrics.
 
 They are evaluated through relevance to the family’s future. # ## 
 
-4. Optionality Capital A modern family office must preserve optionality.
+4.
+
+Optionality Capital A modern family office must preserve optionality.
 
 The world evolves quickly.
 
@@ -245,7 +253,9 @@ Structures that preserve independence.
 
 Structures that protect legacy.
 
-Structures that align capital with identity. ## ## 
+Structures that align capital with identity. 
+
+ 
 
 ## CONCLUSION
 
@@ -261,4 +271,6 @@ They secure not only their wealth.
 
 They secure their future.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

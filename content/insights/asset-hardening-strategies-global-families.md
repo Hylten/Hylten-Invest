@@ -26,8 +26,9 @@ Yet
 
  remains unchanged: steward well, build deep, defend the lineage.
 
-Proverbs 13:2
-2 (*A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.*).
+Proverbs 13:
+
+22 (*A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.*).
 
 Industrial lineage is not sentimental.
 
@@ -146,8 +147,9 @@ First: Duration engineering.
 
 Extend the life of capital beyond market cycles.
 
-Private credit funds with 7–1
-2 year durations.
+Private credit funds with 7–
+
+12 year durations.
 
 Royalties without step-down clauses.
 
@@ -330,7 +332,9 @@ Energy is pre-digital.
 
 Energy is real.
 
-Families aligned with energy-linked private credit effectively lock in Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Families aligned with energy-linked private credit effectively lock in Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Structural defense also requires addressing the tax jurisdictional challenge.
 
@@ -484,11 +488,14 @@ It sustains families that refuse fragility.
 
  is clear: build generational sovereignty through engineered liquidity, fortified structures, and a moral commitment to stewardship over consumption.
 
-Proverbs 13:2
-2 (*A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.*) stands as the constitutional anchor.
+Proverbs 13:
+
+22 (*A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.*) stands as the constitutional anchor.
 
 The inheritance must endure.
 
 The line must stand.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

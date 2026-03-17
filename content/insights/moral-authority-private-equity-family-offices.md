@@ -32,7 +32,9 @@ It defines whether capital compounds across three generations or collapses by th
 
 It defines whether the allocation to private equity becomes a disciplined extension of vocation or a fashionable drift into opacity. *"He that walketh uprightly walketh surely; but he that perverteth his ways shall be known."
 * 
--  **Proverbs 10:9*
+-  **Proverbs 10:
+9
+*
 * The verse is blunt.
 
 Integrity secures stability.
@@ -41,7 +43,9 @@ Distortion reveals itself in time.
 
 In the world of private equity, that clarity is not an abstraction.
 
-It is a structural truth with financial consequences. ## ## ## 
+It is a structural truth with financial consequences. 
+
+ ## 
 -  PRIVATE BRIEFING (Principal voice, unfiltered, for the vault.) I speak plainly.
 
 Family offices do not fail because of bad markets.
@@ -122,9 +126,9 @@ From the speculative to the disciplined.
 
 From moral hazard to moral authority.
 
-This is the axis modern family offices must internalize. ## 
+This is the axis modern family offices must internalize.
 
-## PRINCIPAL TONE 
+PRINCIPAL TONE 
 -  THE MORAL AUTHORITY FRAME The family office is not an investor.
 
 It is an institution of stewardship.
@@ -199,9 +203,9 @@ Narrative-driven funds
 
 The distinction is predictable.
 
-So is the outcome. ## 
+So is the outcome.
 
-## INTERNAL BYPASS 
+INTERNAL BYPASS 
 -  STRUCTURAL DEPTH I shift into architecture.
 
 Moral Hazard Indicators in Private Equity: 
@@ -247,7 +251,9 @@ Markets fluctuate, but conviction remains.
 
 Volatility becomes manageable because the underlying assets are built on real value creation, not price momentum. *"The integrity of the upright shall guide them."
 * 
--  **Proverbs 11:3*
+-  **Proverbs 11:
+3
+*
 * Guide.
 
 That is the word.
@@ -258,7 +264,9 @@ Integrity as strategic clarity.
 
 STRUCTURAL LAYERS OF THE RISK LENS 
 
-1. The Covenant Layer This is the intergenerational frame.
+1.
+
+The Covenant Layer This is the intergenerational frame.
 
 The Principal acts not for personal return but for lineage continuity.
 
@@ -266,7 +274,9 @@ Private equity must therefore align with the family’s industrial heritage, val
 
 Any strategy that cannot be justified to the grandchildren is disqualified immediately. 
 
-2. The Stewardship Layer Stewardship is not passive.
+2.
+
+The Stewardship Layer Stewardship is not passive.
 
 It is active oversight.
 
@@ -286,7 +296,9 @@ The Protestant ethic demanded productive contribution.
 
 Stewardship is that ethic in financial form. 
 
-3. The Enterprise Layer Here is where free enterprise speaks with moral clarity.
+3.
+
+The Enterprise Layer Here is where free enterprise speaks with moral clarity.
 
 Capital must flow toward builders, entrepreneurs, founders 
 -  the people who create the larger pie.
@@ -297,7 +309,9 @@ This is not charity.
 
 It is duty. 
 
-4. The Discipline Layer Markets tempt drift.
+4.
+
+The Discipline Layer Markets tempt drift.
 
 Discipline resists it.
 
@@ -315,7 +329,9 @@ Narratives do not move capital.
 
 Proof does. 
 
-5. The Accountability Layer Moral authority demands consequence.
+5.
+
+The Accountability Layer Moral authority demands consequence.
 
 Governing boards must hold management accountable.
 
@@ -394,11 +410,15 @@ They must stand where previous generations stood
 
 On stewardship, not on drift. *"The just man walketh in his integrity: his children are blessed after him."
 * 
--  **Proverbs 20:7*
+-  **Proverbs 20:
+7
+*
 * This is the architecture.
 
 This is the standard.
 
 This is the inheritance worth defending.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -98,7 +98,9 @@ It is architectural.
 
 ## Asset-Based Monetization Architecture for Direct Ownership and Control Asset Based Monetization Architecture provides another pathway, particularly for investors with operating companies, real assets, or complex family holdings.
 
-Asset-Based Lending respects the underlying value while providing clean Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Asset-Based Lending respects the underlying value while providing clean Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 It avoids the noise of valuation disputes that often arise in more flexible financing environments.
 
@@ -124,10 +126,14 @@ They prefer high minimum thresholds because they know that scale brings discipli
 
 Hyltén Invest reflects this understanding.
 
-Crypto Monetization Architecture requires a minimum of 2,000,00
+Crypto Monetization Architecture requires a minimum of 2,000,
+
+00
 0 dollars.
 
-Public Share Institutional Liquidity Paths requires a minimum of 5,000,00
+Public Share Institutional Liquidity Paths requires a minimum of 5,000,
+
+00
 0 dollars.
 
 These thresholds are intentional.
@@ -254,4 +260,6 @@ Precise.
 
 Enduring.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

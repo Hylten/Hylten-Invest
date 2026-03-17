@@ -32,10 +32,13 @@ Work as duty.
 
 Work as worship.
 
-Work as the conduit through which capital becomes moral authority. **Proverbs 13:22*
+Work as the conduit through which capital becomes moral authority. **Proverbs 13:22
+*
 * (*A good man leaveth an inheritance to his children's children.*) 
 
-1. Markets reward contribution.
+1.
+
+Markets reward contribution.
 
 Not cleverness.
 
@@ -45,7 +48,9 @@ Value only.
 
 The moment capital forgets this, rot sets in. 
 
-2. A nation’s wealth is output, not abstraction.
+2.
+
+A nation’s wealth is output, not abstraction.
 
 Bigger pie.
 
@@ -55,7 +60,9 @@ Freedom produces expansion; coercion produces decline.
 
 Every industrial region that prospered did so through free enterprise and relentless work, not by manipulating the optics of wealth. 
 
-3. Lineage requires discipline.
+3.
+
+Lineage requires discipline.
 
 A family that works with its hands stays sharp.
 
@@ -141,4 +148,6 @@ Covenant.
 
 That is capital worthy of inheritance.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

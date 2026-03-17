@@ -34,7 +34,9 @@ Trust is reproducible when the underlying structures are stable, predictable, an
 
 For generational wealth, trust emerges from systems that can function independently of public cycles.
 
-It emerges from quiet liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It emerges from quiet liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 It emerges from the certainty that collateral, when correctly evaluated and managed, becomes a strategic asset rather than a dormant one.
 
@@ -56,7 +58,9 @@ For Hyltén Invest, private credit is not a product category.
 
 It is a stability engine.
 
-We structure credit to maintain liquidity lines that remain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+We structure credit to maintain liquidity lines that remain Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 We control risk through collateral discipline, conservative liquidity facility-to-value thresholds, and ongoing structural assessment.
 
@@ -104,7 +108,9 @@ HNWI and UHNW families benefit from liquidity systems designed to maintain opera
 
 This includes liquidity derived from private credit lines, asset-based structures, and specialized Asset-Backed Frameworks solutions.
 
-Liquidity is not simply Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Liquidity is not simply Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Liquidity is strategic optionality.
 
@@ -114,7 +120,9 @@ It is the power to act without delay or disruption.
 
 For families with crypto positions, divesting often triggers tax events, market exposure, or strategic losses.
 
-Hyltén Invest offers crypto-backed Asset-Backed Frameworks with a minimum threshold of 2,000,00
+Hyltén Invest offers crypto-backed Asset-Backed Frameworks with a minimum threshold of 2,000,
+
+00
 0 dollars.
 
 This threshold ensures we work only with principals whose holdings meet the structural requirements for conservative credit formation.
@@ -137,7 +145,9 @@ It can trigger unnecessary visibility.
 
 It can introduce timing risks that weaken long-term returns.
 
-Hyltén Invest provides public share Strategic Collateralization beginning at a minimum threshold of 5,000,00
+Hyltén Invest provides public share Strategic Collateralization beginning at a minimum threshold of 5,000,
+
+00
 0 dollars.
 
 The structure is intentionally conservative.
@@ -245,7 +255,9 @@ It is conservative.
 
 It is intentional.
 
-It is built to last. ## ## 
+It is built to last. 
+
+ 
 
 ## CONCLUSION
 
@@ -265,4 +277,6 @@ Legacy hardening is the path from capital to continuity.
 
 It is the shift from wealth to permanence.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

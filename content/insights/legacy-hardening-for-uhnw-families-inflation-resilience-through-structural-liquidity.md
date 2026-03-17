@@ -38,7 +38,9 @@ When the world becomes volatile, capital does not freeze.
 
 It flows.
 
-This is the defining characteristic of enduring wealth. ## ## 
+This is the defining characteristic of enduring wealth. 
+
+ 
 
 ## CONCLUSION
 
@@ -48,4 +50,6 @@ If your objective is long-term continuity, if your priority is keeping wealth re
 
 Hyltén Invest stands ready to support your stewardship.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -44,7 +44,9 @@ Their assets do.
 
 The ability to acquire, reposition, or hedge is restricted when liquidity is fixed.
 
-Sovereign capital solves this by separating ownership from mobility, allowing assets to remain intact while liquidity remains Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Sovereign capital solves this by separating ownership from mobility, allowing assets to remain intact while liquidity remains Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 This shift is not cosmetic.
 
@@ -133,7 +135,9 @@ Crypto Strategic Collateralization in this context is not speculative leverage.
 
 It is sovereign liquidity.
 
-It allows families to retain long-term conviction while Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It allows families to retain long-term conviction while Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The objective is strategic neutrality.
 
@@ -265,7 +269,9 @@ It strengthens protections where necessary.
 
 It operates with minimalist precision.
 
-The objective is simple, keep assets intact, keep liquidity available, and keep families in absolute control of their capital. ## ## 
+The objective is simple, keep assets intact, keep liquidity available, and keep families in absolute control of their capital. 
+
+ 
 
 ## CONCLUSION
 
@@ -287,4 +293,6 @@ Hylten‑Invest supports this sovereign posture through disciplined private cred
 
 For families seeking to protect assets, enhance liquidity, and uphold long‑horizon stewardship, sovereign capital provides the structural clarity required for generational continuity.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

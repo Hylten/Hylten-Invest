@@ -14,7 +14,9 @@ It is governed.
 
 It is preserved through structural clarity rather than emotional decision making.
 
-And above all, it is protected through Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+And above all, it is protected through Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Families with significant capital often discover that the challenge is not wealth creation.
 
@@ -95,7 +97,9 @@ Our environment is built for:
 
 This is not wealth management.
 
-It is legacy engineering. ## ## 
+It is legacy engineering. 
+
+ 
 
 ## CONCLUSION
 
@@ -135,4 +139,6 @@ Preserve intentionally.
 
 And carry the legacy without interruption.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

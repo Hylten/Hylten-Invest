@@ -88,7 +88,7 @@ These principles create calm.
 
 They create order.
 
-They create clarity in the midst of uncertainty. # 
+They create clarity in the midst of uncertainty.
 
 ## Principle 1: Capital Should Be Deployable, Not Idle Idle capital is expensive.
 
@@ -104,7 +104,7 @@ This delivers the same sense of readiness, while allowing capital to remain inve
 
 Liquidity is not an asset.
 
-Liquidity is an infrastructure. # 
+Liquidity is an infrastructure.
 
 ## Principle 2: balance sheet optimization Should Be Secured, Not Speculative Unsecured leverage introduces unnecessary risk.
 
@@ -122,7 +122,7 @@ These structures produce liquidity without forcing asset sales.
 
 They protect long term investment horizons.
 
-They create the freedom to wait for value to emerge. # 
+They create the freedom to wait for value to emerge.
 
 ## Principle 3: Liquidity Should Be Structural, Not Event Driven Families with multi generational perspectives avoid reactive financing.
 
@@ -134,7 +134,7 @@ Structural liquidity, secured well before it is needed, removes the need to nego
 
 This is how institutional capital behaves.
 
-It is also how resilient families preserve control. # 
+It is also how resilient families preserve control.
 
 ## Principle 4: Volatility Should Be Isolated, Not Internalized A family office must insulate the decisions of today from the volatility of the market.
 
@@ -152,7 +152,7 @@ The investment layer.
 
 The liquidity layer.
 
-Each one insulated, yet aligned. # 
+Each one insulated, yet aligned.
 
 ## Principle 5: Capital Providers Should Be Partners, Not Counterparties HNWI and UHNW families require discretion.
 
@@ -182,7 +182,9 @@ Yet private credit is often locked in multi year commitments.
 
 This creates a liquidity paradox.
 
-The return profile is attractive, but Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The return profile is attractive, but Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Hyltén Invest resolves this paradox.
 
@@ -330,7 +332,9 @@ Precise.
 
 Conservative.
 
-This is the infrastructure that families use to steward capital, not just preserve it. ## ## 
+This is the infrastructure that families use to steward capital, not just preserve it. 
+
+ 
 
 ## CONCLUSION
 
@@ -346,4 +350,6 @@ We operate with principal authority.
 
 We provide stability in a world defined by noise.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

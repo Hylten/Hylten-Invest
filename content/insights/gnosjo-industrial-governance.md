@@ -28,7 +28,8 @@ No spectacle.
 
 Only stewardship. *"He that is faithful in that which is least is faithful also in much."
 * 
--  **Luke 16:10*
+-  **Luke 16:10
+*
 * First.
 
 High-trust governance scales only when the Principal remains visible.
@@ -137,4 +138,6 @@ Only stewardship.
 
 Only covenantal clarity.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

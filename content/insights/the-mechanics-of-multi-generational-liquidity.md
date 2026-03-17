@@ -106,7 +106,9 @@ These positions are often central to the family identity and long-term vision.
 
 Divesting them for temporary liquidity can weaken strategic alignment.
 
-This is why we offer public share Strategic Collateralization with a minimum threshold of 5,000,00
+This is why we offer public share Strategic Collateralization with a minimum threshold of 5,000,
+
+00
 0 USD.
 
 The structure allows families to: 
@@ -124,7 +126,9 @@ They present both long-term thesis conviction and short-term liquidity challenge
 
 Our crypto Capital Structuring framework is designed only for institutional scale positions.
 
-Minimum 2,000,00
+Minimum 2,000,
+
+00
 0 USD.
 
 The purpose is not speculation.
@@ -277,4 +281,6 @@ They value precision in capital structure.
 
 They value a partner that does not require spotlight or narrative.
 
-This is the architecture of principal authority. # Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+This is the architecture of principal authority. # Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

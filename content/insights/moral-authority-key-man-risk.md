@@ -31,12 +31,13 @@ I write this as a Principal, not a commentator.
 
 What follows is an internal briefing-vault language, not public narrative. *“Thy faithfulness is unto all generations.”
 * 
--  **Psalms 119:90*
-* Phase shifts begin here. ## 
+-  **Psalms 119:90
+*
+* Phase shifts begin here.
 
-## PHASE 
-1 
--  ## ## 
+Phase I: -
+
+ 
 
 ## THE SOVEREIGN BLUEPRINT FOR RISK DISSOLUTION Key‑man risk emerges when a platform’s value is inseparable from a single individual’s operational presence.
 
@@ -105,18 +106,17 @@ European industrial heritage before it is managerial.
 
 Christian stewardship before it is analytical.
 
-A builder from the 187
-4 forge understood this intuitively: the man is a vessel, the work is the inheritance, and the moral architecture is the covenant passed to the children’s children.
+A builder from the 18
+
+74 forge understood this intuitively: the man is a vessel, the work is the inheritance, and the moral architecture is the covenant passed to the children’s children.
 
 Markets rarely understand this depth because markets are built on quarterly thinking, not generational continuity.
 
-But we are not bound to their rhythm. ## 
+But we are not bound to their rhythm.
 
-## PHASE 
-2 
--  ## 
+Phase II: -
 
-## PRINCIPAL TONE THE MORAL CASE FOR FOUNDER CONTINUITY WITHOUT DEPENDENCE I will state the thesis plainly: A founder with moral authority cannot produce key‑man fragility.
+ PRINCIPAL TONE THE MORAL CASE FOR FOUNDER CONTINUITY WITHOUT DEPENDENCE I will state the thesis plainly: A founder with moral authority cannot produce key‑man fragility.
 
 He produces founder‑permanence without founder‑dependence.
 
@@ -168,13 +168,11 @@ Stewardship multiplies value.
 
 Continuity dissolves key‑man fragility.
 
-This is sovereign architecture. ## 
+This is sovereign architecture.
 
-## PHASE 
-3 
--  ## 
+Phase III: -
 
-## INTERNAL BYPASS MACHINE‑GUN SENTENCES, THEN DEPTH The cadence tightens.
+ INTERNAL BYPASS MACHINE‑GUN SENTENCES, THEN DEPTH The cadence tightens.
 
 Duty first.
 
@@ -248,8 +246,7 @@ Founder‑risk cannot infect an institution built on that foundation.
 
 These layers are sequential but mutually reinforcing.
 
-LAYER 
-1 
+Layer I: 
 -  DOCTRINAL The doctrine is simple: responsibility is personal, outcomes are communal, and stewardship is generational.
 
 The founder acts as custodian of the covenant, not the owner of the enterprise.
@@ -266,8 +263,7 @@ A custodian does not create dependency; he builds capability.
 
 Thus the doctrine itself ensures continuity.
 
-LAYER 
-2 
+Layer II: 
 -  CULTURAL Culture is what people do when unobserved.
 
 A founder with moral authority creates a culture of self‑governance, not surveillance.
@@ -282,8 +278,7 @@ The normative behaviours are internalised.
 
 Senior leaders do not ask: “What would the founder want?” They simply do what is right because the standard has been absorbed.
 
-LAYER 
-3 
+Layer III: 
 -  OPERATIONAL Because the moral code is embedded, the operational architecture becomes resilient.
 
 Key decisions are made not through guesswork or personality projection but through principled reasoning: truth-first, duty-first, value-first.
@@ -351,7 +346,9 @@ It is industrial.
 
 Forged in 
 
-1874. Lived in Gnosjö.
+1874.
+
+Lived in Gnosjö.
 
 Carried into global markets.
 
@@ -372,6 +369,10 @@ It replaces human volatility with theological stability.
 The architecture is complete. 
 -  
 -  
--  If you wish to discuss stewardship at the sovereign level, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  If you wish to discuss stewardship at the sovereign level, Access is restricted to approved mandates.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Minimum mandate depth: $5M+ target size.
+
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

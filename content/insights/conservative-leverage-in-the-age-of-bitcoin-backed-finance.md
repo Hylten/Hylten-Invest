@@ -22,7 +22,9 @@ Structure creates continuity.
 
 Structure preserves legacy.
 
-In this era of Bitcoin backed finance and increasing Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+In this era of Bitcoin backed finance and increasing Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 It is the natural evolution of prudent liquidity management for those who operate in multi generational timeframes. 
 
@@ -92,4 +94,6 @@ Through discipline.
 
 Through principal authority.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

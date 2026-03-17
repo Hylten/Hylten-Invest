@@ -144,7 +144,9 @@ It is the transition from exposed capital to protected capital.
 
 From passive ownership to structural control.
 
-Hylten Invest stands as a partner for families that seek this transition with quiet authority and institutional discipline. ## ## 
+Hylten Invest stands as a partner for families that seek this transition with quiet authority and institutional discipline. 
+
+ 
 
 ## CONCLUSION
 
@@ -172,4 +174,6 @@ Precise.
 
 Enduring.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

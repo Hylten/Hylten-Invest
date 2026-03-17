@@ -64,7 +64,9 @@ It exists in direct agreements, negotiated terms, and relationship-based mechani
 
 Hyltén Invest lends against Private Credit positions.
 
-This creates liquidity without forced liquidation, allowing investors to maintain exposure while Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+This creates liquidity without forced liquidation, allowing investors to maintain exposure while Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 This approach favors investors who prioritize: 
 -  Low visibility 
@@ -109,14 +111,26 @@ This is why collateralized Monetization Architecture is becoming central to soph
 
 Hyltén Invest offers this through three domains of expertise: 
 
-1. Monetization Architecture against Private Credit 
+1.
 
-2. Asset Based Asset-Backed Frameworks across qualified holdings 
+Monetization Architecture against Private Credit 
 
-3. Crypto Asset-Backed Frameworks at a minimum threshold of 2,000,00
+2.
+
+Asset Based Asset-Backed Frameworks across qualified holdings 
+
+3.
+
+Crypto Asset-Backed Frameworks at a minimum threshold of 2,000,
+
+00
 0 USD 
 
-4. Public Share Monetization Architecture at a minimum threshold of 5,000,00
+4.
+
+Public Share Monetization Architecture at a minimum threshold of 5,000,
+
+00
 0 USD These thresholds are intentional.
 
 They enforce discipline.
@@ -127,7 +141,9 @@ They ensure that the capital we serve aligns with the structural demands of the 
 
 Hyltén Invest does not operate in that space.
 
-Our approach is conservative, collateral-backed, and focused solely on qualified investors with a minimum position of 2,000,00
+Our approach is conservative, collateral-backed, and focused solely on qualified investors with a minimum position of 2,000,
+
+00
 0 USD.
 
 This threshold is not arbitrary.
@@ -148,10 +164,14 @@ For structure.
 
 ## Public Share Asset-Backed Frameworks for Large Positions Public Share Monetization Architecture requires scale to function.
 
-Positions below 5,000,00
+Positions below 5,000,
+
+00
 0 USD often lack the flexibility and stability required for institutionally aligned Asset-Backed Frameworks frameworks.
 
-This is why Hyltén Invest maintains a minimum threshold of 5,000,00
+This is why Hyltén Invest maintains a minimum threshold of 5,000,
+
+00
 0 USD.
 
 At this scale, public equity holdings transition from mere market exposure into meaningful collateral assets.
@@ -239,7 +259,9 @@ HNWI and UHNW investors who adopt institutional-style liquidity frameworks today
 
 Those who rely on reactive liquidity will face structural constraints.
 
-Hyltén Invest is positioned to navigate this landscape with precision and quiet authority. ## ## 
+Hyltén Invest is positioned to navigate this landscape with precision and quiet authority. 
+
+ 
 
 ## CONCLUSION
 
@@ -255,4 +277,6 @@ Through Private Credit, Asset Based Institutional Liquidity Paths, Public Share 
 
 For investors who value minimalism, conservative frameworks, and principal authority, we offer a path to durable liquidity in a shifting global environment.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

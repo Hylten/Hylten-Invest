@@ -64,7 +64,9 @@ Crypto assets have become modern stores of value, cross-border liquidity tools, 
 
 However, their utility is often constrained by volatility, storage architecture, and regulatory frameworks.
 
-Our crypto Capital Structuring begins at a minimum threshold of 2,000,00
+Our crypto Capital Structuring begins at a minimum threshold of 2,000,
+
+00
 0 USD.
 
 This ensures we maintain alignment with our client profile and the scale at which institutional-grade Monetization Architecture becomes meaningful.
@@ -75,7 +77,9 @@ Families retain their positions.
 
 They preserve potential upside.
 
-They Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+They Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 For those who hold digital capital, it becomes another pillar of generational strategy rather than an isolated modern asset. 
 
@@ -89,7 +93,9 @@ It may reveal intent.
 
 It may trigger market signals that families do not wish to send.
 
-Our public share Institutional Liquidity Paths begins at a minimum threshold of 5,000,00
+Our public share Institutional Liquidity Paths begins at a minimum threshold of 5,000,
+
+00
 0 USD.
 
 This ensures the scale and structure are aligned with institutional-grade expectations.
@@ -218,4 +224,6 @@ We uphold the philosophy of quiet stewardship.
 
 If legacy is the long arc, liquidity is the line that keeps it steady. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

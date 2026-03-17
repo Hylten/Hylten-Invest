@@ -84,7 +84,9 @@ It must be steady, quiet, and structural.
 
 Hylten Invest approaches migration through four primary pillars. # ## 
 
-1. Jurisdictional Fortification The choice of jurisdiction determines the level of protection available to family wealth.
+1.
+
+Jurisdictional Fortification The choice of jurisdiction determines the level of protection available to family wealth.
 
 This includes protection from legal overreach, regulatory unpredictability, taxation pressure, and institutional fragility.
 
@@ -94,7 +96,9 @@ Jurisdictional fortification is the first line of hardening.
 
 Without it, no structure is stable. # ## 
 
-2. Entity Realignment Families often carry legacy holding structures that were built decades ago.
+2.
+
+Entity Realignment Families often carry legacy holding structures that were built decades ago.
 
 Many of these structures are no longer fit for purpose.
 
@@ -110,7 +114,9 @@ Migration often includes:
 
 The aim is to reduce complexity while increasing resilience. # ## 
 
-3. Asset Class Transition Not all assets survive stress cycles.
+3.
+
+Asset Class Transition Not all assets survive stress cycles.
 
 Public markets lose liquidity precisely when liquidity is needed.
 
@@ -124,7 +130,9 @@ These include private credit, asset based Asset-Backed Frameworks, real asset ex
 
 The emphasis is stability, not speculation. # ## 
 
-4. Privacy and Operational Insulation In the modern era transparency is no longer optional, but it must be curated with precision.
+4.
+
+Privacy and Operational Insulation In the modern era transparency is no longer optional, but it must be curated with precision.
 
 Families need visibility where required and invisibility where appropriate.
 
@@ -226,7 +234,9 @@ It can generate returns without sacrificing privacy or control.
 
 Hardening is therefore the precursor to growth.
 
-It creates the foundation upon which generational capital can operate freely. ## ## 
+It creates the foundation upon which generational capital can operate freely. 
+
+ 
 
 ## CONCLUSION
 
@@ -242,4 +252,6 @@ It safeguards the most important asset any family possesses, the ability to deci
 
 Hylten Invest supports families through this transition with discretion, clarity, and long horizon stewardship.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

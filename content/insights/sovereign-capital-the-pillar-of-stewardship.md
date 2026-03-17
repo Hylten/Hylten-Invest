@@ -65,7 +65,9 @@ Crypto Asset-Backed Frameworks in our framework serves three purposes:
 
 We treat digital assets as strategic holdings rather than trading instruments.
 
-This conservatism allows clients to maintain directional conviction without compromising liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+This conservatism allows clients to maintain directional conviction without compromising liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 ## Public Share Strategic Collateralization for High Concentration Holders Many wealthy individuals hold significant positions in public equities, often through founder shares, inheritance, or long-term accumulation.
 
@@ -77,7 +79,9 @@ This size requirement ensures that the structure remains institutional, discreet
 
 Public share Strategic Collateralization allows clients to: 
 -  Retain voting rights and continue long-term stewardship of positions. 
--  Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 -  Shield core holdings from short-term liquidity pressures.
 
 This is a silent instrument.
@@ -124,7 +128,9 @@ It requires the humility to maintain buffers even when markets appear stable.
 
 Building this ecosystem involves several layers: 
 -  A reserve strategy that reflects the family’s risk identity. 
--  A liquidity ladder that blends short-term Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  A liquidity ladder that blends short-term Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 -  A credit architecture that unlocks capital without jeopardizing asset integrity. 
 -  An investment framework that remains detached from immediate cash flow demands.
 
@@ -257,4 +263,6 @@ When liquidity is engineered correctly, the family remains in control.
 
 When control is maintained, assets remain intact.
 
-When assets remain intact, legacy becomes inevitable. # Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+When assets remain intact, legacy becomes inevitable. # Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

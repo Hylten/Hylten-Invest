@@ -12,14 +12,21 @@ The spread dislocation observed across North American and European middle-market
 
 The vacuum is not a symptom of weakened asset bases but of capital architecture that has not kept pace with real-economy demand.
 
-This gap has created a market where the durability of capital stewardship has become a differentiator more powerful than scale, branding, or origination velocity. ## ## ## ## 
+This gap has created a market where the durability of capital stewardship has become a differentiator more powerful than scale, branding, or origination velocity. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
- The private credit market entered a new regime following the liquidity distortions of 202
-0 to 
+ The private credit market entered a new regime following the liquidity distortions of 20
 
-2022. Central bank intervention suppressed price discovery, forced yield compression, and incentivized duration risk.
+20 to 
+
+2022.
+
+Central bank intervention suppressed price discovery, forced yield compression, and incentivized duration risk.
 
 These features did not dissipate but instead mutated into structural inefficiencies once base rates normalized.
 
@@ -27,25 +34,33 @@ This is the source of the present regime shift.
 
 Several macro forces now define allocator decision frameworks: 
 
-1. Regulatory reduction in bank risk appetite.
+1.
+
+Regulatory reduction in bank risk appetite.
 
 Basel-driven capital weighting elevated the cost of lending to operationally intensive businesses, particularly in energy, manufacturing, and logistics.
 
 Capital that traditionally came from regulated lenders no longer flows at institutional scale or institutional velocity. 
 
-2. Asset level volatility in non cyclical sectors.
+2.
+
+Asset level volatility in non cyclical sectors.
 
 Real assets with predictable utilization profiles have been mispriced due to generalist bias.
 
 Heavy oil in Alberta, midstream corridor assets, and European industrial SMEs face lower capital availability despite operational resilience. 
 
-3. Institutional drift.
+3.
+
+Institutional drift.
 
 Several allocators transitioned into passive or quasi passive models during the low rate era.
 
 These models are poorly suited for markets where underwriting precision, operational visibility, and microstructural literacy carry outsized relevance. 
 
-4. Fragmentation of middle market deal flow.
+4.
+
+Fragmentation of middle market deal flow.
 
 Many family controlled or founder led businesses are engaging in refinancing or recapitalization events under compressed timelines.
 
@@ -63,7 +78,11 @@ It governs continuity.
 
 It prevents waste.
 
-It aligns time horizons across stakeholders. ## ## ## ## 
+It aligns time horizons across stakeholders. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -81,9 +100,11 @@ Examples include:
 -  Alberta heavy oil with predictable decline curves and known recovery ceiling.
 
 SAGD and CSS cycles inform institutional underwriting, reduce uncertainty, and allow for structured capital layering. 
--  Western European precision manufacturing facilities with 3
-0 to 4
-0 year useful life horizons. 
+-  Western European precision manufacturing facilities with 
+
+30 to 
+
+40 year useful life horizons. 
 -  Owner operated logistics assets with locked in customer throughput and measurable cost of repositioning.
 
 Durability reduces the entropy that often destabilizes private credit portfolios.
@@ -165,7 +186,11 @@ Roials Capital navigates markets on behalf of allocators, providing clarity wher
 
 The objective is alignment.
 
-The output is institutional confidence. ## ## ## ## 
+The output is institutional confidence. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is not a theological concept applied to finance.
 
@@ -175,7 +200,8 @@ In Swedish industrial history, the Spirit of Gnosjö created a culture where cap
 
 This produced a generation of companies that thrived through resource scarcity, global competition, and industrial restructuring.
 
-The Biblical framing of stewardship is functional rather than symbolic. **Proverbs 13:22*
+The Biblical framing of stewardship is functional rather than symbolic. **Proverbs 13:22
+*
 * states that a good man leaves an inheritance to his children's children.
 
 This is not about wealth accumulation.
@@ -200,31 +226,41 @@ It allows allocators to operate with confidence during periods of rapid repricin
 
 It protects generational capital from unnecessary exposure.
 
-It restores long term alignment between operator and financier. ## 
+It restores long term alignment between operator and financier.
 
-## A ## 
+A 
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within this environment benefit from a structured decision framework.
+ DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within this environment benefit from a structured decision framework.
 
 The following filter is often most effective: 
 
-1. Asset Reality.
+1.
+
+Asset Reality.
 
 Does the asset produce stable, measurable, and operationally grounded cash flows. 
 
-2. Capital Stack Coherence.
+2.
+
+Capital Stack Coherence.
 
 Does the liability structure support continuity or does it create unnecessary fragility. 
 
-3. Stewardship Integrity.
+3.
+
+Stewardship Integrity.
 
 Does the operator treat capital with responsibility, precision, and restraint. 
 
-4. Operational Transparency.
+4.
+
+Operational Transparency.
 
 Is the allocator protected by visibility into the true mechanics of cash flow generation. 
 
-5. Strategic Alignment.
+5.
+
+Strategic Alignment.
 
 Does the relationship enhance the allocator's long term portfolio resilience.
 
@@ -234,9 +270,9 @@ When any of these conditions are absent, the allocator inherits unnecessary risk
 
 Roials Capital provides allocators with a structured path to assess these conditions.
 
-This includes landscape analysis, technical evaluation, and institutional ## 
+This includes landscape analysis, technical evaluation, and institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  .
 
@@ -246,4 +282,6 @@ Allocators seeking to calibrate portfolios within a volatile private credit envi
 
 This provides system level visibility, identifies structural vulnerabilities, and outlines pathways to enhance stewardship, resilience, and long term operational alignment. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

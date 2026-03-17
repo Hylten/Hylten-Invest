@@ -80,7 +80,9 @@ It allows capital to thrive without being compromised by short term markets.
 
 It transforms the concept of liquidity from reactive to proactive.
 
-This is the essence of stewardship. ## ## 
+This is the essence of stewardship. 
+
+ 
 
 ## CONCLUSION
 
@@ -96,4 +98,6 @@ Hyltén Invest remains committed to providing the Strategic Collateralization ar
 
 If your mandate is long term, and if your priority is disciplined liquidity, our approach aligns with your values.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

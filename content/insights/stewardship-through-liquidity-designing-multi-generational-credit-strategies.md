@@ -14,7 +14,9 @@ Family wealth endures through liquidity.
 
 Long term capital does not need speed.
 
-It needs clarity, structure, and predictable Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It needs clarity, structure, and predictable Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Credit becomes the backbone.
 
@@ -60,7 +62,9 @@ Operating companies, real assets, private equity positions, and long duration ho
 
 A credit strategy solves three essential stewardship challenges. # ## 
 
-1. Cash Flow Smoothing Family wealth is rarely linear.
+1.
+
+Cash Flow Smoothing Family wealth is rarely linear.
 
 Cash inflows and liquidity events are uneven.
 
@@ -70,13 +74,17 @@ A well designed strategy avoids the need to sell assets during downturns or acce
 
 This protects compounding, which is the most important ingredient in multi generational wealth. # ## 
 
-2. Capital Preservation Selling assets to meet short term liquidity needs reduces long term wealth.
+2.
+
+Capital Preservation Selling assets to meet short term liquidity needs reduces long term wealth.
 
 Families that rely on credit structures can preserve core holdings while gaining the cash they need for operations, investment opportunities, or generational transfers.
 
 Credit is a shield for patient capital. # ## 
 
-3. Continuity Across Generations Generational transitions create liquidity stress.
+3.
+
+Continuity Across Generations Generational transitions create liquidity stress.
 
 Transfer taxes, equity restructurings, and settlement of estates often force families to sell assets or dilute control.
 
@@ -88,7 +96,7 @@ It must align with the family’s identity and risk posture.
 
 It must protect assets, not expose them.
 
-Five principles create the foundation. # 
+Five principles create the foundation.
 
 ## Principle 1: Liquidity First Liquidity is not an outcome.
 
@@ -98,7 +106,9 @@ Credit structures built early, during periods of strength, provide the greatest 
 
 Families that wait until liquidity is required often face weaker terms, higher costs, and reduced control.
 
-Liquidity first means preparing credit Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Liquidity first means preparing credit Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 ## Principle 2: Concentration Requires Cushioning Most family balance sheets are concentrated by design.
 
@@ -106,7 +116,7 @@ This concentration increases return potential, but it also increases exposure to
 
 A credit strategy cushions the balance sheet.
 
-It allows the family to maintain concentration while mitigating the risk that concentration creates. # 
+It allows the family to maintain concentration while mitigating the risk that concentration creates.
 
 ## Principle 3: Promote Optionality, Not Leverage Families should not pursue leverage for return generation unless it is part of a long established strategy.
 
@@ -116,11 +126,11 @@ Optionality supports stewardship.
 
 Optionality maintains control.
 
-Credit is a tool for stability, not speculation. # 
+Credit is a tool for stability, not speculation.
 
 ## Principle 4: Long Tenor Over Short Term Facilities Short term liquidity facilities are helpful, but they are not enough for multi generational planning.
 
-Families benefit from long tenor credit structures, because they ensure that liquidity remains available through economic cycles, market disruptions, and generational transitions. # 
+Families benefit from long tenor credit structures, because they ensure that liquidity remains available through economic cycles, market disruptions, and generational transitions.
 
 ## Principle 5: Structure Must Outlive the Architects A multi generational credit strategy should not rely on a single family member or advisor.
 
@@ -134,15 +144,17 @@ This is how multi generational stewardship becomes sustainable.
 
 It is a system.
 
-It balances Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It balances Access is restricted to approved mandates.
 
-The architecture typically includes four components. # 
+Minimum mandate depth: $5M+ target size.
+
+The architecture typically includes four components.
 
 ## Short Term Liquidity Lines These provide flexibility for operating needs, tactical transactions, or short duration imbalances.
 
 They should be simple, inexpensive, and fully aligned with the family’s investment policy.
 
-They also serve as the first defense against unexpected events. # 
+They also serve as the first defense against unexpected events.
 
 ## Medium Duration Facilities These help finance larger liquidity requirements.
 
@@ -150,7 +162,7 @@ They are often secured by marketable securities, real estate, or diversified por
 
 The goal is stability.
 
-The duration should reduce rollover risk. # 
+The duration should reduce rollover risk.
 
 ## Long Duration Credit Structures These are the backbone of a multi generational strategy.
 
@@ -158,29 +170,31 @@ They may include long dated credit lines, private credit arrangements, or asset 
 
 The primary purpose is generational continuity.
 
-They ensure that liquidity is never forced. # 
+They ensure that liquidity is never forced.
 
 ## Opportunistic Liquidity Programs These are optional, but they can create strategic advantage.
 
-When markets dislocate, families with Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+When markets dislocate, families with Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Opportunistic liquidity is a competitive edge for patient families. 
 
 ## Asset Types Suitable for Credit Backing The most effective credit strategies rely on strong collateral.
 
-Families often use a mix of the following. # 
+Families often use a mix of the following.
 
 ## Marketable Securities Equities and fixed income portfolios provide flexibility and fast execution.
 
-They create predictable balance sheet optimization bases and are ideal for short and medium duration structures. # 
+They create predictable balance sheet optimization bases and are ideal for short and medium duration structures.
 
 ## Real Estate Commercial or residential properties can support longer duration financing.
 
-They also allow for amortization schedules that match the yield profile of the underlying asset. # 
+They also allow for amortization schedules that match the yield profile of the underlying asset.
 
 ## Operating Companies Family owned companies create stable collateral when cash flows are predictable.
 
-They can anchor long tenor credit structures that support succession planning, recapitalization, and generational transitions. # 
+They can anchor long tenor credit structures that support succession planning, recapitalization, and generational transitions.
 
 ## Concentrated Holdings Large single asset positions require careful structuring, but they can be used as collateral when the lender understands the family’s long term objectives.
 
@@ -194,13 +208,13 @@ Families should use conservative ratios, modest draw levels, and stable structur
 -  When to increase or reduce credit usage. 
 -  What reporting is required.
 
-This ensures clarity across generations and avoids emotional decision making. # 
+This ensures clarity across generations and avoids emotional decision making.
 
 ## Covenant Sensitivity Families must avoid structures with aggressive or restrictive covenants.
 
 Predictability is more important than price.
 
-The long term nature of family wealth demands flexibility, not complexity. # 
+The long term nature of family wealth demands flexibility, not complexity.
 
 ## Liquidity Coverage Discipline There should always be a clear liquidity buffer relative to commitments, investment needs, and risk scenarios.
 
@@ -232,13 +246,13 @@ A minimalist credit strategy respects four ideas:
 
 This approach transforms credit from a transactional tool into a structural safeguard. 
 
-## The Result: Preservation, Control, and Stability When families design multi generational credit strategies grounded in liquidity, simplicity, and stewardship, three outcomes emerge. # 
+## The Result: Preservation, Control, and Stability When families design multi generational credit strategies grounded in liquidity, simplicity, and stewardship, three outcomes emerge.
 
-## Preservation of Core Holdings Assets that define the family legacy are protected from forced sale. # 
+## Preservation of Core Holdings Assets that define the family legacy are protected from forced sale.
 
 ## Control Over Timing The family decides when to divest, invest, or restructure.
 
-They are not pushed by markets or liquidity events. # 
+They are not pushed by markets or liquidity events.
 
 ## Stability Across Generations Successive generations inherit clarity, not confusion.
 
@@ -250,7 +264,9 @@ Stewardship becomes a lived practice.
 
 Liquidity becomes the method.
 
-Time becomes the advantage. ## ## 
+Time becomes the advantage. 
+
+ 
 
 ## CONCLUSION
 
@@ -262,4 +278,6 @@ A well designed credit strategy protects the balance sheet, stabilizes transitio
 
 It is one of the most powerful expressions of long term stewardship.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

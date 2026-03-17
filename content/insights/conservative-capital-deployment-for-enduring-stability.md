@@ -130,4 +130,6 @@ For the investor who values calm over noise and structure over speculation, cons
 
 It is the foundation.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

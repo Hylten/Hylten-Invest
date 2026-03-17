@@ -36,7 +36,9 @@ This is not nostalgia.
 
 This is institutional recalibration. *"He that walketh uprightly walketh surely."
 * 
--  **Proverbs 10:9*
+-  **Proverbs 10:
+9
+*
 * Principal logic follows.
 
 Markets reward coherence.
@@ -73,7 +75,9 @@ Create more than you consume.
 
 Leave more than you inherit. *"By humility and the fear of the Lord are riches, and honour, and life."
 * 
--  **Proverbs 22:4*
+-  **Proverbs 22:
+4
+*
 * Institutional desks want that ethic again.
 
 They pursue it without naming it.
@@ -119,4 +123,6 @@ Stewardship returns to the center.
 
 Conviction follows.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -38,7 +38,8 @@ It constrains itself by moral law.
 
 It channels human ambition toward creation, not extraction. *"Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein."
 * 
--  **Jeremiah 6:16*
+-  **Jeremiah 6:16
+*
 * This is not nostalgia.
 
 This is architectural truth.
@@ -99,7 +100,8 @@ Too few guard their name.
 
 A Principal builds for the children’s children-never for quarterly applause. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 * 
--  **Psalm 33:11*
+-  **Psalm 33:11
+*
 * A value-coherent investment house becomes a sovereign architecture.
 
 It governs its own direction.
@@ -128,4 +130,6 @@ Institutions follow the houses that refuse compromise.
 
 History sides with those who remember where they came from.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

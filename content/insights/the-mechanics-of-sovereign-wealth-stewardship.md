@@ -129,4 +129,6 @@ principal authority is not a slogan.
 
 It is a function.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

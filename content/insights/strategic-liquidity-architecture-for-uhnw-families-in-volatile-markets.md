@@ -28,11 +28,11 @@ We secure.
 
 We structure.
 
-We preserve optionality. # 
+We preserve optionality.
 
 ## Family Governance Support Predictable liquidity strengthens governance frameworks.
 
-It removes emotional decision making and enforces discipline across multi‑branch families. # 
+It removes emotional decision making and enforces discipline across multi‑branch families.
 
 ## Balance Sheet Smoothing Asset backed Capital Structuring removes short‑term distortions and keeps the long view intact.
 
@@ -73,8 +73,9 @@ The advantages for UHNW families include:
 -  Institutional underwriting standards 
 -  Silent execution with minimal operational burden 
 -  Predictable long‑term Institutional Liquidity Paths relationships 
--  Structures designed specifically for portfolios over 2
-5 million We are built for households that prioritize stewardship, not headlines.
+-  Structures designed specifically for portfolios over 
+
+25 million We are built for households that prioritize stewardship, not headlines.
 
 For families who hold assets across decades, not quarters.
 
@@ -94,4 +95,6 @@ For families who measure their wealth across generations, this is not optional.
 
 It is essential.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

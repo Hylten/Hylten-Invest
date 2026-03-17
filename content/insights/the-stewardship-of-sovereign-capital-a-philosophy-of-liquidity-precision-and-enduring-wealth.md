@@ -26,7 +26,9 @@ It has matured into one of the core pillars of modern wealth architecture for th
 
 For HNWI and UHNW families the attraction is twofold. 
 -  Stability that is not reliant on public market volatility. 
--  The ability to Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  The ability to Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Our Private Credit operations maintain institutional discipline.
 
@@ -68,7 +70,9 @@ The market remains volatile, fragmented, and undisciplined.
 
 We only serve those who approach crypto assets with the same ethos they apply to other long‑term holdings.
 
-Our minimum threshold for crypto Monetization Architecture is 2,000,00
+Our minimum threshold for crypto Monetization Architecture is 2,000,
+
+00
 0 USD.
 
 At this level capital behaves differently.
@@ -87,7 +91,9 @@ Selling introduces tax implications, timing risk, and headline exposure.
 
 Asset-Backed Frameworks introduces mobility while preserving structure.
 
-Our minimum threshold for public share Capital Structuring is 5,000,00
+Our minimum threshold for public share Capital Structuring is 5,000,
+
+00
 0 USD.
 
 This threshold reflects our position in the market.
@@ -223,7 +229,9 @@ Traditional credit markets are tightening.
 
 Asset markets are cyclical and uncertain.
 
-The next decade will reward those who maintain optionality, clarity, and quiet Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The next decade will reward those who maintain optionality, clarity, and quiet Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 We believe that the future of wealth preservation will rely heavily on: 
 -  Private credit stability. 
@@ -231,7 +239,9 @@ We believe that the future of wealth preservation will rely heavily on:
 -  Intelligent liquidity extraction from digital and public assets. 
 -  Long‑term planning insulated from market momentum.
 
-Hylten‑Invest is positioned to support this future with the same minimalistic, conservative, and enduring philosophy that defines our brand. ## ## 
+Hylten‑Invest is positioned to support this future with the same minimalistic, conservative, and enduring philosophy that defines our brand. 
+
+ 
 
 ## CONCLUSION
 
@@ -249,4 +259,6 @@ Our Monetization Architecture frameworks, from Private Credit to Asset-Based Len
 
 For those who require principal authority and long‑term precision, our doors remain discreetly open.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

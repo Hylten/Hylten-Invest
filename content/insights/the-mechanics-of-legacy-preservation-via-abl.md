@@ -58,7 +58,9 @@ Liquidating digital assets can send signals that invite speculation.
 
 Asset-Based Lending removes the signaling effect entirely.
 
-It allows liquidity to be Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It allows liquidity to be Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The assets remain in place.
 
@@ -149,4 +151,6 @@ This is why Asset Based Asset-Backed Frameworks remains one of the most powerful
 
 For those who require quiet liquidity and structural clarity, Hyltén Invest operates with principal authority.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

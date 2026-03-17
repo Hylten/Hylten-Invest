@@ -32,7 +32,9 @@ It requires instruments that retain optionality.
 
 It requires partnerships that provide silence where others provide spectacle.
 
-Hylten‑Invest exists in this space, providing Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Hylten‑Invest exists in this space, providing Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Our position is not to overwhelm, but to underpin.
 
@@ -112,7 +114,9 @@ Selling is rarely desirable. balance sheet optimization provides the flexibility
 
 Our public share Strategic Collateralization begins at five million dollars, which aligns with the scale at which such structures are most effective.
 
-Clients Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Clients Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The result is freedom without disruption.
 
@@ -142,7 +146,9 @@ The result is a form of quiet sovereignty.
 
 A blend of discretion and strength that aligns with the mindset of families and individuals who build legacies, not headlines. 
 
-## Liquidity as a Strategic Weapon Liquidity is not merely Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Liquidity as a Strategic Weapon Liquidity is not merely Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 It is the ability to respond to opportunity.
 
@@ -257,4 +263,6 @@ An architecture that builds legacy.
 
 For those who operate with scale, discretion, and long‑term purpose, Hylten‑Invest provides the silent mechanics of continuity.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

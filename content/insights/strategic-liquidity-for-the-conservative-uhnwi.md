@@ -74,7 +74,9 @@ This enables three core outcomes.
 
 Preservation of exposure.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Continuation of long term compounding.
 
@@ -106,4 +108,6 @@ This is strategic liquidity.
 
 This is principal authority in practice.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

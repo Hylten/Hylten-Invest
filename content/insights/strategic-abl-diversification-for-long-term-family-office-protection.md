@@ -28,7 +28,9 @@ Public markets offer liquidity but not stability.
 
 Banks offer structure but not flexibility.
 
-Private markets offer yield but not Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Private markets offer yield but not Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 This is where Asset Based Institutional Liquidity Paths, backed by high quality private credit and institutional grade collateral, provides an alternative path.
 
@@ -110,9 +112,13 @@ We lend against private credit and Asset-Based Lending portfolios.
 
 We lend against institutional scale crypto holdings above 2,000, 
 
-000. We lend against public share positions above 5,000, 
+000.
 
-000. Our focus is narrow by design.
+We lend against public share positions above 5,000, 
+
+000.
+
+Our focus is narrow by design.
 
 We serve only HNWI and UHNW families.
 
@@ -120,7 +126,9 @@ We maintain privacy, minimalism, and long term partnership.
 
 The objective is not to compete with traditional lenders.
 
-The objective is to complement them, and to offer liquidity pathways that match the complexity and discretion required by family office environments. ## ## 
+The objective is to complement them, and to offer liquidity pathways that match the complexity and discretion required by family office environments. 
+
+ 
 
 ## CONCLUSION
 
@@ -140,4 +148,6 @@ It preserves core assets while expanding optionality.
 
 Hyltén Invest supports this mission with principal authority, conservative structure, and a commitment to long term stewardship.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

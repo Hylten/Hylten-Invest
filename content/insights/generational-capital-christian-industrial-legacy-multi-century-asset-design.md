@@ -22,7 +22,8 @@ The Gnosjö spirit was never improvisation; it was ordered creation.
 
 Discipline made visible in steel. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 * 
--  **Psalm 33:11*
+-  **Psalm 33:11
+*
 * Phase changes in capital begin with one premise: the asset must outlive the ego of the builder.
 
 Anything less is consumption disguised as achievement.
@@ -39,11 +40,17 @@ Clean.
 
 Non-negotiable. 
 
-1. Order before scale. 
+1.
 
-2. Principle before opportunity. 
+Order before scale. 
 
-3. Stewardship before ambition.
+2.
+
+Principle before opportunity. 
+
+3.
+
+Stewardship before ambition.
 
 Free enterprise is the proving ground.
 
@@ -143,4 +150,6 @@ Free enterprise endures.
 
 The covenant stands.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

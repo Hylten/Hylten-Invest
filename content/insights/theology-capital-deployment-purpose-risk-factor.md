@@ -28,7 +28,9 @@ A governing architecture.
 
 The market feels the fracture.
 
-Narratives without moral authority collapse on Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Narratives without moral authority collapse on Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Funds without an internal doctrine bleed discipline.
 
@@ -68,7 +70,9 @@ Consequence.
 
 These are not abstractions; they are industrial safeguards. *"The integrity of the upright shall guide them."
 * 
--  **Proverbs 11:3*
+-  **Proverbs 11:
+3
+*
 * Guidance is not optional.
 
 It is the architecture that separates sovereign capital from drifting capital.
@@ -87,8 +91,9 @@ Not the posturing kind.
 
 The inherited kind.
 
-The 187
-4 kind.
+The 18
+
+74 kind.
 
 The kind that shapes sons and daughters into guardians rather than gamblers.
 
@@ -116,4 +121,6 @@ Order follows purpose.
 
 And purpose, rightly held, becomes the most reliable risk reducer in any generation.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

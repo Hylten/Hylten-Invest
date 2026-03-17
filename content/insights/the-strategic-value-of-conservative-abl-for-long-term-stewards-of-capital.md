@@ -10,7 +10,9 @@ slug: "the-strategic-value-of-conservative-abl-for-long-term-stewards-of-capital
 
 It is a structural principle.
 
-Across the portfolios of high net worth and ultra high net worth families, the challenge is rarely Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Across the portfolios of high net worth and ultra high net worth families, the challenge is rarely Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The challenge is maintaining low friction liquidity without compromising the integrity of the balance sheet.
 
@@ -116,7 +118,9 @@ It is quieter.
 
 It is more precise.
 
-It is more aligned with the true nature of long-term wealth. ## ## 
+It is more aligned with the true nature of long-term wealth. 
+
+ 
 
 ## CONCLUSION
 
@@ -134,4 +138,6 @@ For those who operate at scale, who prefer minimal visibility, and who measure d
 
 It is stewardship infrastructure.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

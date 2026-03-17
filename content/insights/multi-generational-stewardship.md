@@ -6,9 +6,9 @@ author: "Hyltén Invest"
 slug: "multi-generational-stewardship"
 --- 
 
-# Multi Generational Stewardship A Hylten Invest Perspective # 
+# Multi Generational Stewardship A Hylten Invest Perspective
 
-## Pillar Three: Intergenerational Alignment The most overlooked element in wealth continuity is not financial.
+Pillar Three: Intergenerational Alignment The most overlooked element in wealth continuity is not financial.
 
 It is interpersonal.
 
@@ -36,17 +36,25 @@ Technology shifts.
 
 Interest rate cycles come and go.
 
-Principles remain. # 
+Principles remain.
 
 ## Core components of the long horizon strategy 
 
-1. Focus on real assets and productive enterprises. 
+1.
 
-2. Maintain controlled diversification. 
+Focus on real assets and productive enterprises. 
 
-3. Retain optionality through liquidity buffers. 
+2.
 
-4. Avoid exposure to irreversible risk.
+Maintain controlled diversification. 
+
+3.
+
+Retain optionality through liquidity buffers. 
+
+4.
+
+Avoid exposure to irreversible risk.
 
 These components create a resilient foundation.
 
@@ -56,7 +64,7 @@ They support long term compounding.
 
 ## Stewardship of Non Financial Assets Multi generational stewardship extends beyond capital.
 
-A family with a century long vision must steward culture, reputation, relationships, and knowledge. # 
+A family with a century long vision must steward culture, reputation, relationships, and knowledge.
 
 ## Cultural Stewardship Culture determines behavior in moments of uncertainty.
 
@@ -66,7 +74,7 @@ A strong culture is quiet.
 
 It is consistent.
 
-It is stable. # 
+It is stable.
 
 ## Reputation Stewardship Reputation compounds faster than capital and can be destroyed faster as well.
 
@@ -76,7 +84,7 @@ Reputation stewardship aligns with the minimalist style.
 
 It favors substance over visibility.
 
-Presence over noise. # 
+Presence over noise.
 
 ## Knowledge Stewardship Every generation gathers insights.
 
@@ -132,17 +140,25 @@ It is precise.
 
 Without structure, emotion dominates.
 
-With structure, decisions become predictable. # 
+With structure, decisions become predictable.
 
 ## Effective governance includes 
 
-1. Defined roles and responsibilities. 
+1.
 
-2. A process for long term decision making. 
+Defined roles and responsibilities. 
 
-3. Regular alignment meetings. 
+2.
 
-4. Documentation that removes ambiguity.
+A process for long term decision making. 
+
+3.
+
+Regular alignment meetings. 
+
+4.
+
+Documentation that removes ambiguity.
 
 Good governance does not constrain.
 
@@ -212,7 +228,9 @@ It is consistent.
 
 It is purpose driven.
 
-This is the style of Hylten Invest. ## ## 
+This is the style of Hylten Invest. 
+
+ 
 
 ## CONCLUSION
 
@@ -236,4 +254,6 @@ It is a practice.
 
 It is the quiet foundation of families that endure.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

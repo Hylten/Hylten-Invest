@@ -42,4 +42,6 @@ It is not a trend.
 
 It is an emerging pillar of long-term stewardship.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

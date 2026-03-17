@@ -12,7 +12,9 @@ It is the deliberate practice of structuring capital in a way that resists noise
 
 It is the practice of maintaining liquidity not as a convenience but as a strategic foundation.
 
-For HNWI and UHNW portfolios, liquidity is not simply Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+For HNWI and UHNW portfolios, liquidity is not simply Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 It is the ability to reposition capital without eroding asset value.
 
@@ -212,4 +214,6 @@ Hyltén Invest provides the mechanisms required to maintain this stability.
 
 For families who value discretion, structure, and long-term stewardship, engineered liquidity becomes a fundamental part of their legacy architecture.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -83,4 +83,6 @@ A firm that embodies this becomes investable.
 
 A legacy grounded in this becomes durable.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

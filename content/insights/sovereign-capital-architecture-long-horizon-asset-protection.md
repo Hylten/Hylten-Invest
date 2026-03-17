@@ -18,18 +18,27 @@ The objective is not acceleration.
 
 The objective is calibration.
 
-This briefing outlines the core principles of sovereign capital architecture, the necessary conditions for long horizon protection, and the strategic role of Roials Capital as a navigator for allocators seeking orientation inside a fractured global capital landscape. ## ## ## ## 
+This briefing outlines the core principles of sovereign capital architecture, the necessary conditions for long horizon protection, and the strategic role of Roials Capital as a navigator for allocators seeking orientation inside a fractured global capital landscape. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
- The global capital regime entered a transition period between 202
-0 and 
+ The global capital regime entered a transition period between 20
 
-2025. The transition is not cyclical.
+20 and 
+
+2025.
+
+The transition is not cyclical.
 
 It is structural. 
 
-1. Capital fragmentation.
+1.
+
+Capital fragmentation.
 
 The global cost of capital diverged across blocs.
 
@@ -41,13 +50,17 @@ Asia accelerated state anchored credit formation.
 
 Families and institutions that historically relied on a unified cost of capital environment now operate across discontinuities. 
 
-2. Physical asset revaluation.
+2.
+
+Physical asset revaluation.
 
 Hard asset ecosystems including energy, industrial infrastructure, logistics, real estate, and agricultural land shifted back into strategic primacy.
 
 The market valuation of physical throughput capacity began to exceed digital yield structures that dominated the previous cycle. 
 
-3. Duration scarcity.
+3.
+
+Duration scarcity.
 
 The majority of allocators now operate inside shortened decision horizons.
 
@@ -67,7 +80,11 @@ Asset hardening is no longer a defensive tactic.
 
 It is a strategic baseline.
 
-The allocators that succeed in this regime are those who treat capital not as an instrument but as an inheritance. ## ## ## ## 
+The allocators that succeed in this regime are those who treat capital not as an instrument but as an inheritance. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -153,7 +170,8 @@ They stabilize the long horizon architecture.
 
 Theological Discipline Theology of capital is not metaphorical.
 
-It is a practical operating system rooted in historic Christian industrialism and Nordic stewardship culture. **Proverbs 13:22*
+It is a practical operating system rooted in historic Christian industrialism and Nordic stewardship culture. **Proverbs 13:22
+*
 * remains the timeless directive.
 
 A good man leaves an inheritance to his children's children.
@@ -181,9 +199,9 @@ THE PARTNERSHIP MODEL Roials Capital functions as a navigator rather than an ope
 
 ## THE MANDATE
 
- is orientation, calibration, and ## 
+ is orientation, calibration, and 
 
-## INTRODUCTION
+ INTRODUCTION
 
  .
 
@@ -229,7 +247,11 @@ The objective is strategic clarity.
 
 The allocator remains in control of decision making.
 
-The architecture becomes intentional rather than reactive. ## ## ## ## 
+The architecture becomes intentional rather than reactive. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the final filter because it governs the alignment between capital, character, and time.
 
@@ -269,9 +291,9 @@ It designs governance systems so that the next generation inherits structure rat
 
 The Spirit of Gnosjö teaches that small disciplined steps produce enduring outcomes.
 
-Families anchored in this philosophy preserve both identity and wealth. ## ## ## 
+Families anchored in this philosophy preserve both identity and wealth.
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating in the current regime requires a precise lens.
+DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating in the current regime requires a precise lens.
 
 That lens includes: 
 -  Duration analysis.
@@ -298,4 +320,6 @@ The objective is not acquisition.
 
 The objective is sovereign clarity.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

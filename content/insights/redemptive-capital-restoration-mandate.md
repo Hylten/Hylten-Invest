@@ -22,10 +22,14 @@ You deploy it well, the community strengthens.
 
 You deploy it poorly, the foundation cracks. *"And they shall build the old wastes, they shall raise up the former desolations."
 * 
--  **Isaiah 61:4*
-* Phase 
+-  **Isaiah 61:
+4
+*
+* 
 
-1. Internal Logic.
+### Phase I: .
+
+Internal Logic.
 
 Redemptive Capital begins with hierarchy.
 
@@ -73,9 +77,9 @@ A family firm knows this.
 
 An empire of debt does not.
 
-Phase 
+Phase II: .
 
-2. Principal Voice.
+Principal Voice.
 
 We build bigger pies.
 
@@ -97,9 +101,9 @@ Moral law and economic law converge.
 
 That is the architecture.
 
-Phase 
+Phase III: .
 
-3. Bypass.
+Bypass.
 
 Machine Gun.
 
@@ -133,4 +137,6 @@ It is free enterprise with a spine.
 
 It is capital remembering its Creator.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

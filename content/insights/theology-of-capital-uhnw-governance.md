@@ -12,7 +12,9 @@ Governance reveals the heart.
 
 Stewardship binds both into covenant order. *"The earth is the Lord’s, and the fulness thereof."
 * 
--  **Psalm 24:1*
+-  **Psalm 24:
+1
+*
 * Private wealth without theology drifts.
 
 Private markets without moral authority fracture.
@@ -63,7 +65,9 @@ A board with theology governs destiny.
 
 I anchor the UHNW structure around three pillars: 
 
-1. Covenant Authority.
+1.
+
+Covenant Authority.
 
 Capital is held in trust before God, not as an ornament of success but as a tool for generational duty.
 
@@ -71,7 +75,9 @@ This stabilizes the household.
 
 This disciplines the decision-maker. 
 
-2. Stewardship Architecture.
+2.
+
+Stewardship Architecture.
 
 Family constitutions.
 
@@ -83,7 +89,9 @@ Each reinforces moral clarity over short-term appetite.
 
 This creates a sovereign frame for private enterprise. 
 
-3. Protestant Work Ethic as Operating System.
+3.
+
+Protestant Work Ethic as Operating System.
 
 Silent diligence.
 
@@ -125,4 +133,6 @@ Create the value.
 
 Pass the blueprint to the children’s children.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -56,4 +56,6 @@ Institutional Grade Asset-Based Lending delivers liquidity without sacrifice and
 
 Hyltén Invest stands as a structural partner for families whose assets require conservative, institutional, long horizon support.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

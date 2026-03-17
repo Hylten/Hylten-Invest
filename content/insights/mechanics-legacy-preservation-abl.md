@@ -17,7 +17,8 @@ The Spirit of Gnosjö defined it.
 A theology of work.
 
 A theology of responsibility. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * : A good man leaves an inheritance to his children's children.
 
 That mandate shaped factories.
@@ -110,8 +111,9 @@ Inventory cycles that fluctuate seasonally but stabilize annually.
 
 Receivables that major banks underwrite at punitive advance rates.
 
-The legacy‑driven family firm often leaves 40,6
-0 percent of potential collateral unrecognized.
+The legacy‑driven family firm often leaves 40,
+
+60 percent of potential collateral unrecognized.
 
 Asset-Based Lending corrects this asymmetry.
 
@@ -223,8 +225,9 @@ Quantifiable.
 
 Covenant‑light when engineered through private credit rather than traditional banks.
 
-Provides 50.9
-0 percent advance rates depending on customer concentration and historical aging.
+Provides 50.
+
+90 percent advance rates depending on customer concentration and historical aging.
 
 For legacy firms supplying global OEMs, advance rates reach institutional levels.
 
@@ -246,8 +249,10 @@ Structured correctly, inventory becomes a liquidity source, not a liability.
 
 Appraisal-driven valuations deliver transparent coverage.
 
-Advance rates sit between 25-6
-5 percent, depending on commodity stability.
+Advance rates sit between 25
+-
+
+65 percent, depending on commodity stability.
 
 This transforms warehouses from sunk cost to strategic shield.
 
@@ -449,7 +454,8 @@ Just enduring.
 
 Asset-Based Lending is the quiet architecture of endurance.
 
-It is the institutional expression of **Proverbs 13:22*
+It is the institutional expression of **Proverbs 13:22
+*
 * .
 
 Not abstract.
@@ -466,6 +472,8 @@ Sovereignty preserves identity.
 
 Identity carries legacy.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 End state: Collateralization Ratio ≥ 1.42.

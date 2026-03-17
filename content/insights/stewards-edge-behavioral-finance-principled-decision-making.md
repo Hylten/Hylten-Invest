@@ -74,7 +74,8 @@ Without it, wealth is accidental.
 
 With it, wealth becomes inheritance. *"He that ruleth his spirit is better than he that taketh a city."
 * 
--  **Proverbs 16:32*
+-  **Proverbs 16:32
+*
 * CONTROL OF IMPULSE The first pillar.
 
 The most violated.
@@ -143,19 +144,27 @@ Stewardship over thrill.
 
 The behavioral foundations for this pattern can be described clearly: 
 
-1. Identity precedes action.
+1.
+
+Identity precedes action.
 
 The steward is not a speculator; therefore, he does not behave like one. 
 
-2. Purpose defines metrics.
+2.
+
+Purpose defines metrics.
 
 If the objective is generational capital, the metrics must reflect decades, not quarters. 
 
-3. Values shape filters.
+3.
+
+Values shape filters.
 
 A Protestant ethic demands that value creation-not vanity, not perception-determines investment merit. 
 
-4. Accountability is non-negotiable.
+4.
+
+Accountability is non-negotiable.
 
 Without it, drift occurs.
 
@@ -226,11 +235,17 @@ The architecture includes:
 
 These practices inoculate against the three corrosive forces of multigenerational capital: 
 
-1. Entitlement: the belief that consumption replaces contribution. 
+1.
 
-2. Aesthetic wealth: confusing luxury with legacy. 
+Entitlement: the belief that consumption replaces contribution. 
 
-3. Spectator thinking: imagining capital grows without stewardship.
+2.
+
+Aesthetic wealth: confusing luxury with legacy. 
+
+3.
+
+Spectator thinking: imagining capital grows without stewardship.
 
 The steward prevents these diseases through presence, instruction, clarity, and expectation.
 
@@ -322,11 +337,14 @@ It is the foundation stone.
 
 The covenant anchor.
 
-The industrial inheritance from the 187
-4 forge onward.
+The industrial inheritance from the 18
+
+74 forge onward.
 
 For those seeking deeper structuring of governance, behavioral design, and moral capital frameworks, the institutional interface through Hylten-Invest remains the principal channel.
 
 In certain cases, the operational structuring routed through the Roials Capital unit may be contextually integrated into the broader architecture, as seen through institutional capital execution approaches visible at [Roials Capital](https://roialscapital.com/).
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

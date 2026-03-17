@@ -24,16 +24,19 @@ The stewardship framework is the mechanism that sustains it.
 
 Hylten Invest’s relevance is not a function of scale in the modern sense.
 
-Its relevance is defined by its alignment with a legacy of responsibility. **Proverbs 13:22*
+Its relevance is defined by its alignment with a legacy of responsibility. **Proverbs 13:22
+*
 * situates this principle succinctly: A good man leaves an inheritance to his children's children.
 
 The inheritance referenced is not limited to assets.
 
-It refers to the discipline required to build, defend, and transmit an ecosystem that allocates capital with purpose rather than appetite. 
+It refers to the discipline required to build, defend, and transmit an ecosystem that allocates capital with purpose rather than appetite.
 
-## PHASE 
-1 
--  ## ## ## ## 
+Phase I: -
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -57,9 +60,9 @@ Compression enhances operator margins.
 
 Yet most global institutions are structurally restricted from entering such spaces due to ESG compliance frameworks that prioritize optics over physics.
 
-This is ## 
+This is 
 
-## THE REGIME SHIFT
+ THE REGIME SHIFT
 
  in its clearest form.
 
@@ -77,11 +80,13 @@ It does not attempt to replace the scale of institutional allocators.
 
 Instead, it serves as a stabilizing anchor that evaluates whether the moral and technical architecture of an operator is sound.
 
-When the architecture holds, strategic introductions can then be executed with purpose. 
+When the architecture holds, strategic introductions can then be executed with purpose.
 
-## PHASE 
-2 
--  ## ## ## ## 
+Phase II: -
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -93,9 +98,9 @@ SAGD and CSS technologies convert thermal input into mobilized bitumen.
 
 The operator’s skill lies in calibrating steam-oil ratios, managing reservoir pressure, and optimizing lateral well placement.
 
-The ## 
+The 
 
-## TECHNICAL MECHANICS
+ TECHNICAL MECHANICS
 
  that matter for institutional alignment include: 
 -  Predictability of decline curves based on multi-decade historical data 
@@ -121,11 +126,9 @@ A stewardship-driven allocator does not search for asymmetrical risk profiles.
 
 Instead, it verifies whether the operator respects the natural constraints of the reservoir, deploys capital proportionally, and structures liabilities responsibly.
 
-This is balance-sheet ethics applied to industrial environments. 
+This is balance-sheet ethics applied to industrial environments.
 
-## PHASE 
-3 
--  THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator.
+Phase III: -  THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator.
 
 Its mandate is not to sell, promote, or solicit.
 
@@ -150,19 +153,18 @@ The partnership architecture can be understood in three layers:
 
 This structure establishes a triangulated architecture where each party fulfills a distinct function without overlap or conflict.
 
-It protects the allocator from single-source bias and ensures that any ## 
+It protects the allocator from single-source bias and ensures that any 
 
-## INTRODUCTION
+ INTRODUCTION
 
- or alignment is grounded in both operational realism and moral clarity. 
+ or alignment is grounded in both operational realism and moral clarity.
 
-## PHASE 
-4 
--  ## 
+Phase IV: -
 
-## THE STEWARDSHIP FILTER Stewardship is not a metaphor.
+ THE STEWARDSHIP FILTER Stewardship is not a metaphor.
 
-It is a governance system. **Genesis 2:15*
+It is a governance system. **Genesis 2:15
+*
 * provides the foundational pattern: 
 
 ## THE MANDATE
@@ -190,28 +192,28 @@ Stewardship imposes controlled velocity to prevent distortion.
 -  Transparency Requirements Operators must demonstrate technical transparency, accounting clarity, and governance maturity. 
 -  Alignment with Eternal Principles Stewardship recognizes that capital is entrusted, not owned.
 
-It must be deployed in a manner consistent with **Proverbs 21:5*
+It must be deployed in a manner consistent with **Proverbs 21:
+5
+*
 * which states that the plans of the diligent lead surely to abundance.
 
-These filters are applied before any strategic ## 
+These filters are applied before any strategic 
 
-## INTRODUCTION
+ INTRODUCTION
 
  is considered.
 
 They ensure that capital flows into environments where moral stability supports operational stability.
 
-Without this integration, the allocator inherits risk that no financial structure can mitigate. 
+Without this integration, the allocator inherits risk that no financial structure can mitigate.
 
-## PHASE 
-5 
--  THE DECISION-MAKING LENS For UHNWIs, institutional LPs, and family investment offices, the primary question is not exposure to energy or industrial assets.
+Phase V: -  THE DECISION-MAKING LENS For UHNWIs, institutional LPs, and family investment offices, the primary question is not exposure to energy or industrial assets.
 
 The primary question is exposure to operators, systems, and partners who understand stewardship as a discipline rather than a slogan.
 
-The current energy regime, particularly in Alberta, requires navigators who can interpret the ## 
+The current energy regime, particularly in Alberta, requires navigators who can interpret the 
 
-## TECHNICAL MECHANICS
+ TECHNICAL MECHANICS
 
  , the regulatory environment, and the macro capital vacuum.
 
@@ -221,9 +223,9 @@ NAEO provides the operational mechanics.
 
 Hylten Invest provides the moral calibration and intergenerational lens.
 
-Allocators seeking structural alignment may benefit from a confidential Strategy Audit where the focus is not on placement or solicitation, but on evaluating whether their existing portfolio is positioned correctly for ## 
+Allocators seeking structural alignment may benefit from a confidential Strategy Audit where the focus is not on placement or solicitation, but on evaluating whether their existing portfolio is positioned correctly for 
 
-## THE REGIME SHIFT
+ THE REGIME SHIFT
 
  now underway.
 
@@ -233,4 +235,6 @@ The silent partner model remains intact: stewardship first, alignment second, op
 
 This is the architecture that has defined the Spirit of Gnosjö for generations, and it continues to shape the way disciplined families engage with global markets today.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

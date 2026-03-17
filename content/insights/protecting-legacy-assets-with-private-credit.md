@@ -174,7 +174,9 @@ Families now hold significant positions, either through allocation or inheritanc
 
 Yet liquidity around these assets remains inconsistent and often misaligned with long-term ownership.
 
-Hyltén Invest provides crypto Capital Structuring services for clients meeting a minimum threshold of 2,000,00
+Hyltén Invest provides crypto Capital Structuring services for clients meeting a minimum threshold of 2,000,
+
+00
 0 USD.
 
 This ensures we work only with holders who think in strategic horizons, not speculative ones.
@@ -205,7 +207,9 @@ This creates a paradox.
 
 The easiest assets to sell are often the ones that should be preserved.
 
-Hyltén Invest resolves this dilemma through public share Monetization Architecture, available at a minimum threshold of 5,000,00
+Hyltén Invest resolves this dilemma through public share Monetization Architecture, available at a minimum threshold of 5,000,
+
+00
 0 USD.
 
 We provide liquidity while the client retains market exposure.
@@ -306,4 +310,6 @@ Providing stability.
 Without noise. 
 -  
 -  
--  Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -180,4 +180,6 @@ It is built precisely.
 
 It is built for clients who value strength without noise.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -80,4 +80,6 @@ It is deliberate.
 
 It is calm.
 
-It is built for families and individuals who measure success in decades. # Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It is built for families and individuals who measure success in decades. # Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

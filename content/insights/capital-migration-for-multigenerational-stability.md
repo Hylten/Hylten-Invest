@@ -356,4 +356,6 @@ Exactly.
 
 For families seeking to protect, mobilize, and sustain their capital across generations, the next step is a conversation.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
