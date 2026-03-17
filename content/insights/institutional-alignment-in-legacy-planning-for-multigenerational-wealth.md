@@ -6,7 +6,9 @@ author: "Hyltén Invest"
 slug: "institutional-alignment-in-legacy-planning-for-multigenerational-wealth"
 --- 
 
-# Institutional Alignment in Legacy Planning Legacy planning for substantial wealth is never solely about transfer mechanics.
+# Institutional Alignment in Legacy Planning Legacy planning for substantial wealth is never solely about transfer mechanics
+
+.
 
 It is an institutional act, a structural discipline, and a long-term orientation toward stability.
 
@@ -32,7 +34,9 @@ We maintain principal authority, not visibility.
 
 Not noise, but weight. 
 
-## Building a Legacy That Functions Like an Institution Families with significant wealth increasingly resemble private institutions.
+## Building a Legacy That Functions Like an Institution Families with significant wealth increasingly resemble private institutions
+
+.
 
 They require:
 
@@ -54,7 +58,9 @@ We operate as an external spine that supports internal decision-making.
 
 This alignment allows families to preserve independence while maintaining structure. 
 
-## The Strategic Horizon: Looking Beyond the Present Generation Legacy planning is not about predicting future markets.
+## The Strategic Horizon: Looking Beyond the Present Generation Legacy planning is not about predicting future markets
+
+.
 
 It is about preparing future decision environments.
 
@@ -74,7 +80,9 @@ It reduces the burden of operational decisions so they can focus on vision and c
 
 It creates an environment where legacy is not merely preserved, but deployed. 
 
-## Why Hyltén Invest Exists in This Landscape We do not exist to replace family offices.
+## Why Hyltén Invest Exists in This Landscape We do not exist to replace family offices
+
+.
 
 We exist to strengthen them.
 
@@ -96,7 +104,9 @@ Our value is longevity.
 
 Our mandate is stability. 
 
-## Final Reflection: Alignment as an Act of Stewardship Institutional alignment is not a tactic.
+## Final Reflection: Alignment as an Act of Stewardship Institutional alignment is not a tactic
+
+.
 
 It is a form of stewardship.
 

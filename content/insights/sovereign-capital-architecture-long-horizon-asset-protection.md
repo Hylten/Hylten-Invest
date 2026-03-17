@@ -24,7 +24,9 @@ This briefing outlines the core principles of sovereign capital architecture, th
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global capital regime entered a transition period between 2020 and 
 
@@ -84,7 +86,9 @@ The allocators that succeed in this regime are those who treat capital not as an
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF SOVEREIGN CAPITAL ARCHITECTURE Sovereign capital architecture requires three simultaneous layers of discipline.
 
@@ -208,7 +212,9 @@ The architecture becomes durable across regimes.
 
 THE PARTNERSHIP MODEL Roials Capital functions as a navigator rather than an operator.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is orientation, calibration, and 
 
@@ -274,7 +280,9 @@ The architecture becomes intentional rather than reactive.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the final filter because it governs the alignment between capital, character, and time.
+## THE STEWARDSHIP FILTER Stewardship is the final filter because it governs the alignment between capital, character, and time
+
+.
 
 Stewardship is not passive.
 

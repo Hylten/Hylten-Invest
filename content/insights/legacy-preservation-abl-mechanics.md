@@ -16,13 +16,15 @@ For families with multi generational enterprises, this dislocation defines the n
 
 Asset Based Lending, when structured with precision and stewarded under a disciplined framework, becomes a mechanism for legacy continuity rather than leverage expansion.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Industrial families across the Nordic region, DACH, North America, and the energy producing corridors of Alberta are navigating a credit environment characterized by regulatory compression, higher scrutiny on unsecured lending, and a material shift toward collateral centric underwriting.
 
@@ -64,13 +66,15 @@ They are seeking instruments that align liquidity with stewardship.
 
 Asset Based Lending becomes the anchor because it respects the hierarchy of real assets, operational continuity, and prudential control.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ASSET BASED LENDING AS A LEGACY PRESERVATION TOOL Asset-Based Lending is frequently misinterpreted as a tactical financing tool.
 
@@ -114,7 +118,7 @@ It mitigates generational transitions by preventing equity dilution or forced sa
 
 The machinery that built the family's identity becomes a financial anchor rather than a liability.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a capital deployer.
 
@@ -152,7 +156,7 @@ The institutional
 
 These activities provide clarity for families that require precision, confidentiality, and multi generational awareness.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not theoretical.
 
@@ -182,7 +186,7 @@ Asset Based Lending, when filtered through stewardship, becomes an instrument of
 
 It prevents unnecessary divestitures, protects core employment, and allows successors to inherit systems rather than crises.
 
-### Phase V: .
+# Phase V: .
 
 NAVIGATION LENS FOR THE INSTITUTIONAL ALLOCATOR OR FAMILY PRINCIPAL Families and allocators evaluating Asset-Based Lending structures for legacy preservation should apply a lens grounded in structural stability rather than cost of capital alone.
 

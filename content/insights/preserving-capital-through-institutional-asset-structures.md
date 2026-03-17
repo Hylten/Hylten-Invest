@@ -18,7 +18,9 @@ It is a matter of choosing institutional structures that neutralize uncertainty.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global capital environment entered a new cycle in 2022 when liquidity became selective and the low duration, low volatility assets traditionally favored by institutions no longer provided real capital protection.
 
@@ -70,7 +72,9 @@ It is engineered within assets that are tangible, operationally validated, and i
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF CAPITAL PRESERVATION Capital preservation requires mechanical clarity.
 
@@ -244,7 +248,9 @@ The objective is strategic navigation, not transactional intermediation.
 
  
 
-## THE STEWARDSHIP FILTER Preservation is not merely financial.
+## THE STEWARDSHIP FILTER Preservation is not merely financial
+
+.
 
 Preservation is a moral obligation.
 

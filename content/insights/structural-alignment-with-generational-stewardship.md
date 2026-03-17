@@ -6,7 +6,9 @@ author: "Hyltén Invest"
 slug: "structural-alignment-with-generational-stewardship"
 --- 
 
-# Structural Alignment with Generational Stewardship Institutional capital moves toward order.
+# Structural Alignment with Generational Stewardship Institutional capital moves toward order
+
+.
 
 Families that endure build toward covenant.
 
@@ -20,7 +22,9 @@ It is not advisory language.
 
 It is a framing of capital as vocation. 
 
-## Mandate Discipline A mature enterprise operates under mandate.
+## Mandate Discipline A mature enterprise operates under mandate
+
+.
 
 A mandate is not a goal.
 
@@ -42,7 +46,9 @@ Distraction fractures stewardship.
 
 Fractured stewardship erodes generational continuity. 
 
-## liquidity engineering Threshold Integrity Threshold clarity protects counterparties and owners.
+## liquidity engineering Threshold Integrity Threshold clarity protects counterparties and owners
+
+.
 
 It prevents drift into risk profiles that compromise the enterprise.
 
@@ -58,7 +64,9 @@ It communicates reliability.
 
 It signals seriousness. 
 
-## Toward a Generational Standard The next frontier of Christian industrial leadership will not be defined by rhetoric.
+## Toward a Generational Standard The next frontier of Christian industrial leadership will not be defined by rhetoric
+
+.
 
 It will be defined by structure.
 
@@ -84,7 +92,9 @@ Institutions respect order backed by clarity.
 
 Generations respect legacy backed by stewardship. 
 
-## Closing for Principals Structural alignment is not an administrative exercise.
+## Closing for Principals Structural alignment is not an administrative exercise
+
+.
 
 It is an act of faithfulness.
 

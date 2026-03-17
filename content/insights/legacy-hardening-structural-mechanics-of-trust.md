@@ -34,7 +34,9 @@ It is a design specification for the balance sheet of a multi-generational enter
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The modern allocator operates in an environment defined by institutional volatility.
 
@@ -90,7 +92,9 @@ When trust becomes rare, the institutions capable of producing it achieve a stru
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF LEGACY HARDENING Legacy hardening is the process of transforming values into operational architecture.
 
@@ -136,7 +140,9 @@ Intergenerational transfer mechanics Intergenerational capital transfer requires
 
 They are free to do what is required to preserve 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -222,7 +228,9 @@ The objective is to strengthen the allocator’s institutional identity and ensu
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of honoring what one inherits and strengthening what one will pass forward.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of honoring what one inherits and strengthening what one will pass forward
+
+.
 
 It is the foundation of trust.
 
@@ -234,7 +242,9 @@ The stewardship filter evaluates every decision through five criteria.
 
 - Alignment: Does this action extend 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 ?
 
@@ -276,11 +286,17 @@ Allocators who adopt this framework achieve three advantages:
 
 - Lower long-term fragility
 
-- Greater alignment between purpose and capital formation The decisive step is a structural audit of the allocator’s existing frameworks, governance, and operating assumptions.
+- Greater alignment between purpose and capital formation The decisive 
+
+# Step I
+
+s a structural audit of the allocator’s existing frameworks, governance, and operating assumptions.
 
 This process identifies gaps, strengthens architecture, and clarifies 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  for the next generation.
 

@@ -40,7 +40,9 @@ What follows is an institutional briefing on the architecture of trust as a capi
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  A shift in trust dynamics precedes every credit cycle.
 
@@ -112,7 +114,9 @@ The market treats it as a non-existent variable.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Trust becomes operational inside the mechanics of a credit model.
 
@@ -181,7 +185,9 @@ This is its technical purpose.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -255,7 +261,9 @@ This is the institutional flywheel.
 
  
 
-## THE STEWARDSHIP FILTER I am often asked why theology enters an institutional conversation.
+## THE STEWARDSHIP FILTER I am often asked why theology enters an institutional conversation
+
+.
 
 The answer is structural.
 

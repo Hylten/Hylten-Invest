@@ -40,13 +40,15 @@ The analysis is technical, not sentimental.
 
 It addresses the engineering of capital durability, the operational models that sustain multi generational continuity, and the strategic alignment frameworks used by families and institutions that intend to steward capital beyond a single successor cycle.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global capital environment has entered a structural regime characterized by three reinforcing dynamics. 
 
@@ -86,13 +88,15 @@ Not as branding language, but as operational risk mitigation.
 
 Covenant based stewardship is emerging as a strategic differentiator because it produces decision making coherence, which reduces volatility exposure.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF GENERATIONAL CAPITAL DESIGN The mechanics of generational stewardship mirror the mechanics of robust capital structures.
 
@@ -166,11 +170,13 @@ Stewardship in the Christian tradition frames capital as entrusted rather than o
 
 This creates internal constraints that align with long term value preservation.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -250,7 +256,7 @@ The
 
 It requires a constellation of aligned partners.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER The Stewardship Filter is a diagnostic protocol used to determine whether a decision aligns with generational objectives.
 
@@ -288,7 +294,7 @@ CLARITY FILTER Is the decision free from urgency driven distortion.
 
 The Stewardship Filter transforms capital management from reactive allocation into intentional architecture.
 
-### Phase V: .
+# Phase V: .
 
 DECISION MAKING LENS FOR THE ALLOCATOR Generational stewardship requires disciplined navigation.
 
@@ -332,7 +338,9 @@ They preserve identity.
 
 They preserve 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  entrusted to them. [END OF BRIEFING]
 

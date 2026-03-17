@@ -102,7 +102,11 @@ Precision over flash.
 
 Endurance over expansion.
 
-The first layer is asset hardening.
+The first 
+
+# Layer I: s asset hardening
+
+.
 
 Every industrial enterprise carries dormant collateral.
 
@@ -124,7 +128,11 @@ It draws out value without drawing down ownership.
 
 It unlocks liquidity without unlocking control.
 
-The second layer is covenant engineering.
+The second 
+
+# Layer I: s covenant engineering
+
+.
 
 Asset-Based Lending covenants are not punitive when structured through a stewardship lens.
 

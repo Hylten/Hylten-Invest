@@ -30,7 +30,9 @@ The intent is institutional clarity for allocators who manage the burdens and pr
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post 2020 capital cycle introduced a structural imbalance in the energy sector.
 
@@ -74,7 +76,9 @@ Real asset backed exposures, governed by subsurface physics rather than politica
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE ALBERTA HEAVY OIL ENVIRONMENT Institutional clarity requires technical specificity.
 
@@ -176,7 +180,9 @@ It avoids speculation, minimizes operational surprises, and reinforces the princ
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not sentiment.
+## THE STEWARDSHIP FILTER Stewardship is not sentiment
+
+.
 
 It is governance.
 

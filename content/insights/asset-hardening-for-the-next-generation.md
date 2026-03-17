@@ -32,7 +32,9 @@ It anchors the family while creating the latitude to engage with new opportuniti
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The macro landscape affecting long horizon allocators is defined by three converging forces.
 
@@ -84,9 +86,15 @@ Families must recalibrate from asset accumulation to structural resilience.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
 
- OF ASSET HARDENING Asset hardening is a balance sheet discipline that combines predictable cash flow assets, controlled duration liabilities, and multi layer liquidity reserves.
+S
+
+ OF ASSET HARDENING Asset hardening is a balance sheet discipline that combines predictable cash flow assets, controlled duration liabilities, and multi 
+
+# Layer LI: quidity reserves
+
+.
 
 It is not wealth preservation.
 
@@ -162,7 +170,9 @@ Preparation was liquidity structured with purpose.
 
 THE PARTNERSHIP MODEL Roials Capital serves as a strategic navigator for families repositioning their capital architecture.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is alignment, not asset management.
 
@@ -192,7 +202,9 @@ The objective is navigation, not distribution.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a sentimental principle.
+## THE STEWARDSHIP FILTER Stewardship is not a sentimental principle
+
+.
 
 It is a technical discipline rooted in responsibility, accountability, and the pursuit of non wasteful management.
 

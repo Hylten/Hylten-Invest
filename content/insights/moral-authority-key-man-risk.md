@@ -42,7 +42,9 @@ What follows is an internal briefing-vault language, not public narrative. *“T
 
 * Phase shifts begin here.
 
-### Phase I: - ## THE SOVEREIGN BLUEPRINT FOR RISK DISSOLUTION Key‑man risk emerges when a platform’s value is inseparable from a single individual’s operational presence.
+# Phase I
+
+- ## THE SOVEREIGN BLUEPRINT FOR RISK DISSOLUTION Key‑man risk emerges when a platform’s value is inseparable from a single individual’s operational presence.
 
 Markets hate this because markets fear concentration without covenant.
 
@@ -120,7 +122,9 @@ Markets rarely understand this depth because markets are built on quarterly thin
 
 But we are not bound to their rhythm.
 
-### Phase II: - PRINCIPAL TONE THE MORAL CASE FOR FOUNDER CONTINUITY WITHOUT DEPENDENCE I will state the thesis plainly: A founder with moral authority cannot produce key‑man fragility.
+# Phase I: I
+
+- PRINCIPAL TONE THE MORAL CASE FOR FOUNDER CONTINUITY WITHOUT DEPENDENCE I will state the thesis plainly: A founder with moral authority cannot produce key‑man fragility.
 
 He produces founder‑permanence without founder‑dependence.
 
@@ -174,7 +178,9 @@ Continuity dissolves key‑man fragility.
 
 This is sovereign architecture.
 
-### Phase III: - INTERNAL BYPASS MACHINE‑GUN SENTENCES, THEN DEPTH The cadence tightens.
+# Phase II: I
+
+- INTERNAL BYPASS MACHINE‑GUN SENTENCES, THEN DEPTH The cadence tightens.
 
 Duty first.
 
@@ -244,11 +250,15 @@ A moral engine disguised as a region.
 
 Founder‑risk cannot infect an institution built on that foundation. 
 
-## DEEP STRUCTURAL ANALYSIS (1500+ WORD INTEGRATED BRIEFING) To understand why moral authority mitigates key‑man risk, one must trace the mechanism through three layers: doctrinal, cultural, and operational.
+## DEEP STRUCTURAL ANALYSIS (1500+ WORD INTEGRATED BRIEFING) To understand why moral authority mitigates key‑man risk, one must trace the mechanism through three layers: doctrinal, cultural, and operational
+
+.
 
 These layers are sequential but mutually reinforcing.
 
-### Layer I: - DOCTRINAL The doctrine is simple: responsibility is personal, outcomes are communal, and stewardship is generational.
+# Layer I
+
+- DOCTRINAL The doctrine is simple: responsibility is personal, outcomes are communal, and stewardship is generational.
 
 The founder acts as custodian of the covenant, not the owner of the enterprise.
 
@@ -264,7 +274,9 @@ A custodian does not create dependency; he builds capability.
 
 Thus the doctrine itself ensures continuity.
 
-### Layer II: - CULTURAL Culture is what people do when unobserved.
+# Layer II: - CULTURAL Culture is what people do when unobserved
+
+.
 
 A founder with moral authority creates a culture of self‑governance, not surveillance.
 
@@ -278,7 +290,9 @@ The normative behaviours are internalised.
 
 Senior leaders do not ask: “What would the founder want?” They simply do what is right because the standard has been absorbed.
 
-### Layer III: - OPERATIONAL Because the moral code is embedded, the operational architecture becomes resilient.
+# Layer II: I
+
+- OPERATIONAL Because the moral code is embedded, the operational architecture becomes resilient.
 
 Key decisions are made not through guesswork or personality projection but through principled reasoning: truth-first, duty-first, value-first.
 
@@ -288,7 +302,9 @@ The organisation becomes predictable even without the founder’s day‑to‑day
 
 This is how moral authority becomes a structural mitigation mechanism. 
 
-## THE INDUSTRIAL HERITAGE FACTOR Why does moral authority in Sweden’s industrial tradition matter here?
+## THE INDUSTRIAL HERITAGE FACTOR Why does moral authority in Sweden’s industrial tradition matter here
+
+?
 
 Because the region was never built on heroic founders.
 
@@ -312,7 +328,9 @@ The world sees a founder.
 
 We see a lineage. 
 
-## THE THEOLOGY OF CAPITAL Capital is not merely money.
+## THE THEOLOGY OF CAPITAL Capital is not merely money
+
+.
 
 Capital is stored responsibility.
 
@@ -334,7 +352,9 @@ If one believes that the future belongs to the faithful, then the institution is
 
 This is how moral authority scales across generations. 
 
-## THE MECHANICS OF RISK DISSOLUTION Key‑man risk disappears through three structural mechanisms:
+## THE MECHANICS OF RISK DISSOLUTION Key‑man risk disappears through three structural mechanisms
+
+:
 
 - Moral Continuity: The doctrine, not the man, becomes the anchor.
 

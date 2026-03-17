@@ -34,7 +34,9 @@ It is sustained through design.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Western markets are experiencing a reversion to fundamental discipline.
 
@@ -86,7 +88,9 @@ Not by outcompeting the market but by outlasting it.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF MULTI GENERATIONAL CAPITAL Stewardship is not philosophy.
 
@@ -254,7 +258,9 @@ The objective is not to maximize leverage but to calibrate resilience.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+
+.
 
 It is the recognition that capital carries moral obligation.
 
@@ -324,7 +330,11 @@ This includes:
 
 - Calibration of long horizon asset exposure This memorandum provides the strategic foundation.
 
-The next step is an applied calibration of the allocator's existing portfolio to determine where stewardship aligned structures can enhance durability and continuity across generations. [END OF BRIEFING]
+The next 
+
+# Step I
+
+s an applied calibration of the allocator's existing portfolio to determine where stewardship aligned structures can enhance durability and continuity across generations. [END OF BRIEFING]
 
 Access is restricted to approved mandates.
 

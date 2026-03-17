@@ -6,7 +6,9 @@ author: "Hyltén Invest"
 slug: "legacy-hardening-for-uhnw-families-inflation-resilience-through-structural-liquidity"
 --- 
 
-# Legacy Hardening: Protecting UHNW Families from Inflationary Shocks Inflation does not erode wealth evenly.
+# Legacy Hardening: Protecting UHNW Families from Inflationary Shocks Inflation does not erode wealth evenly
+
+.
 
 It attacks weakest links, unstructured balance sheets, and capital that cannot move when it must.
 
@@ -22,7 +24,9 @@ Hyltén Invest operates within this domain with principal authority.
 
 We build the structural mechanics that allow institutional capital to move efficiently through the private wealth ecosystem. 
 
-## The Strategic Outcome: Liquidity Without Compromise Legacy hardening ultimately produces a simple result.
+## The Strategic Outcome: Liquidity Without Compromise Legacy hardening ultimately produces a simple result
+
+.
 
 A family retains its assets.
 
@@ -42,7 +46,9 @@ This is the defining characteristic of enduring wealth.
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  : A Call to Stewards of Multi-Generational Wealth We operate for families that think in decades, not quarters.
 

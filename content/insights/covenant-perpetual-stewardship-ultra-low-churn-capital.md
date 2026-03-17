@@ -22,7 +22,9 @@ I begin.
 
  ## ( 
 
-### Phase I: ) The emerging strength of perpetual stewardship vehicles is not driven by their novelty but by their refusal to leak value.
+# Phase I
+
+) The emerging strength of perpetual stewardship vehicles is not driven by their novelty but by their refusal to leak value.
 
 High churn destroys coherence.
 
@@ -438,7 +440,9 @@ XI.
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  : WHY THIS SHIFT IS NOT A TREND BUT A RETURN Ultra‑low‑churn capital is the rediscovery of what was always true: continuity is the foundation of civilization.
 

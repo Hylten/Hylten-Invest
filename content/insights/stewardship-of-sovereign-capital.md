@@ -300,11 +300,15 @@ Independence accelerates it.
 
 The architecture of Fund-III must reflect this.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not high-yield noise.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is high-integrity yield.
 
@@ -320,7 +324,11 @@ Weak capital expands early.
 
 Strong capital expands last.
 
-The expansion phase is the reward for restraint.
+The expansion 
+
+# Phase I: s the reward for restraint
+
+.
 
 The theology of capital demands humility.
 
@@ -418,7 +426,9 @@ Truth: capital must harden society, not hollow it.
 
 Truth: capital must outlive the principal or it has failed 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 

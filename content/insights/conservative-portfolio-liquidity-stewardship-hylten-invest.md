@@ -283,7 +283,11 @@ Therefore, liquidity must be governed at three layers:
 
 - Enterprise governance
 
-- Fund governance Each layer demands architecture.
+- Fund governance Each 
+
+# Layer D: emands architecture
+
+.
 
 Household governance defines the liquidity covenant: how much must always remain available to meet obligations, maintain dignity, and avoid forced liquidation.
 

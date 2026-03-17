@@ -20,7 +20,9 @@ These are the entities most capable of asset hardening when supported by discipl
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The European industrial economy is experiencing a structural regime shift that allocators cannot ignore.
 
@@ -68,7 +70,9 @@ THE
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE HYLTEN INVEST MODEL The Hylten Invest model is built on three technical pillars: 
 
@@ -196,7 +200,9 @@ This combined framework creates a bridge between two worlds: the industrial oper
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the filter that protects capital from misapplication.
+## THE STEWARDSHIP FILTER Stewardship is the filter that protects capital from misapplication
+
+.
 
 It is the discipline that prevents waste.
 

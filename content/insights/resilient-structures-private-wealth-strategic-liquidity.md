@@ -18,7 +18,9 @@ The transition from opportunistic accumulation to disciplined stewardship requir
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Across the European and North American private wealth landscape, allocators face a structural divergence.
 
@@ -68,7 +70,9 @@ It is a structural identity.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF STRATEGIC Monetization Architecture Resilient private wealth requires three core pillars.
 
@@ -172,7 +176,9 @@ A calibration of interlocking functions.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a technical discipline, not a philosophical theme.
+## THE STEWARDSHIP FILTER Stewardship is a technical discipline, not a philosophical theme
+
+.
 
 It is the governance lens that evaluates capital decisions based on moral clarity and operational responsibility.
 

@@ -26,7 +26,9 @@ Families built on industry-real production, real assets, real moral authority-no
 
 Yet 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  remains unchanged: steward well, build deep, defend the lineage.
 
@@ -492,7 +494,9 @@ It builds structures that cannot be coerced.
 
 It sustains families that refuse fragility.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear: build generational sovereignty through engineered liquidity, fortified structures, and a moral commitment to stewardship over consumption.
 

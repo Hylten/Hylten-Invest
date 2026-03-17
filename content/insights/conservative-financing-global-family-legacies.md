@@ -336,7 +336,11 @@ Conservative financing therefore becomes strategic independence.
 
 Through Fund‑III design principles-hard collateral, predictable tenor, jurisdictional flexibility-families gain consistency in markets marked by institutional inconsistency.
 
-A central pillar is psychological durability.
+A central 
+
+# Pillar I: s psychological durability
+
+.
 
 Families underestimate emotional leverage.
 
@@ -430,7 +434,9 @@ Architect.
 
 Principal authority.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear: build systems that last.
 

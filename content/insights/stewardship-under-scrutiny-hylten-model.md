@@ -38,7 +38,9 @@ Proper stewardship becomes a navigational instrument, guiding capital toward pro
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global capital regime has transitioned from an abundance environment to a scrutiny environment.
 
@@ -96,7 +98,9 @@ In financial governance, this translates into a two generation horizon instead o
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF FUNCTIONAL STEWARDSHIP Functional stewardship is not a philosophical abstraction.
 
@@ -204,7 +208,9 @@ The operator gains clarity, not promotion.
 
  
 
-## THE STEWARDSHIP FILTER The Hylten stewardship filter is a structured analytical model that screens opportunities by evaluating moral, operational, and generational integrity.
+## THE STEWARDSHIP FILTER The Hylten stewardship filter is a structured analytical model that screens opportunities by evaluating moral, operational, and generational integrity
+
+.
 
 It is grounded in the theology of capital.
 

@@ -209,7 +209,9 @@ Patience as an Upward Spiral Families with intergenerational patience demonstrat
 
 These phases are not theoretical-they show up repeatedly in longitudinal analyses of Nordic industrial families and certain North American manufacturing dynasties.
 
-### Phase I: Foundation A single founder carries the weight.
+# Phase I: Foundation A single founder carries the weight
+
+.
 
 Work density is extreme.
 
@@ -217,21 +219,31 @@ Capital is sparse.
 
 Stewardship is personal.
 
-### Phase II: Consolidation Second generation stabilizes governance.
+# Phase II: Consolidation Second generation stabilizes governance
+
+.
 
 Professionalization occurs, but mission remains founder-true.
 
-### Phase III: Expansion The family becomes an industrial reference point.
+# Phase III: Expansion The family becomes an industrial reference point
+
+.
 
 Product lines proliferate.
 
 Regions adapt to their presence.
 
-### Phase IV: Sovereign Maturity The family becomes an institution.
+# Phase IV: Sovereign Maturity The family becomes an institution
+
+.
 
 Economic storms no longer threaten survival; they create opportunity.
 
-Here is the hidden truth: most families stall between Phase II and III because they lose patience.
+Here is the hidden truth: most families stall between 
+
+# Phase II: and III because they lose patience
+
+.
 
 They chase trends, not value creation.
 

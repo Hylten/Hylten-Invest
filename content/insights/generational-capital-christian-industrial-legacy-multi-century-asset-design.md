@@ -28,7 +28,11 @@ Discipline made visible in steel. *"The counsel of the Lord standeth for ever, t
 
 * 
 
-* Phase changes in capital begin with one premise: the asset must outlive the ego of the builder.
+* 
+
+# Phase C
+
+hanges in capital begin with one premise: the asset must outlive the ego of the builder.
 
 Anything less is consumption disguised as achievement.
 

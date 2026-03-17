@@ -16,7 +16,9 @@ For global families with multi jurisdictional exposure, this shift has created a
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Global capital regimes are no longer converging.
 
@@ -68,7 +70,9 @@ Those that integrate sovereign crypto Institutional Liquidity Paths position the
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF SOVEREIGN CRYPTO Asset-Backed Frameworks Sovereign crypto Asset-Backed Frameworks is the discipline of using blockchain based settlement rails to enhance capital mobility while maintaining institutional grade controls.
 

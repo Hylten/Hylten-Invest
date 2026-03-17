@@ -34,7 +34,9 @@ Governance is the vessel that protects both. *"The counsel of the Lord standeth 
 
 Those who remember it build enterprises that outlive wars, cycles, fashions, and even their own names. 
 
-## THE FIRST PRINCIPAL FACT Values survive succession only when the capital architecture itself enforces them.
+## THE FIRST PRINCIPAL FACT Values survive succession only when the capital architecture itself enforces them
+
+.
 
 Good intentions evaporate in the second generation and disappear entirely by the third unless they are embedded structurally.
 
@@ -48,7 +50,9 @@ Ambiguity kills legacies.
 
 Structures protect them. 
 
-## THE INDUSTRIAL HERITAGE PRINCIPLE Where the Gnosjö spirit flourished, prosperity followed.
+## THE INDUSTRIAL HERITAGE PRINCIPLE Where the Gnosjö spirit flourished, prosperity followed
+
+.
 
 That spirit is not mystical.
 
@@ -72,7 +76,9 @@ A principle: If you want a value to endure, build a mechanism that makes violati
 
 That is succession‑proofing.
 
-### Phase I: GOVERNANCE AS COVENANT A stewardship enterprise begins where ego ends.
+# Phase I
+
+GOVERNANCE AS COVENANT A stewardship enterprise begins where ego ends.
 
 Governance is not paperwork.
 
@@ -109,7 +115,9 @@ This is not limitation; it is protection. *"Only take heed to thyself, and keep 
 
 A family that remembers multiplies it.
 
-### Phase II: CAPITAL THAT RESISTS CORRUPTION Money follows incentives.
+# Phase II: CAPITAL THAT RESISTS CORRUPTION Money follows incentives
+
+.
 
 Capital obeys structure.
 
@@ -133,7 +141,9 @@ The system must ensure the family’s values continue even if the family’s res
 
 That is the architecture of moral durability.
 
-### Phase III: THE DOCTRINE OF PRODUCTIVE REINVESTMENT Industrial wealth is not preserved by hoarding.
+# Phase II: I
+
+THE DOCTRINE OF PRODUCTIVE REINVESTMENT Industrial wealth is not preserved by hoarding.
 
 It is preserved by renewing.
 
@@ -167,7 +177,9 @@ Work is the discipline.
 
 Value creation is the moral expression.
 
-### Phase IV: THE THREE VAULTS Every multi-generational enterprise must build three vaults of preservation:
+# Phase I: V
+
+THE THREE VAULTS Every multi-generational enterprise must build three vaults of preservation:
 
 1. **The Capital Vault
 
@@ -199,7 +211,9 @@ You cannot structure what you do not define.
 
 And you cannot define what you do not believe.
 
-### Phase V: THE INDUSTRIAL FAMILY AS CUSTODIAN, NOT OWNER Ownership is secular.
+# Phase V
+
+THE INDUSTRIAL FAMILY AS CUSTODIAN, NOT OWNER Ownership is secular.
 
 Custodianship is sacred.
 
@@ -234,7 +248,9 @@ Not expansion.
 
 Faithfulness to the covenant, to the craft, to the calling.
 
-### Phase VI: THE SOVEREIGN ARCHITECTURE A succession-proof enterprise must become sovereign.
+# Phase V: I
+
+THE SOVEREIGN ARCHITECTURE A succession-proof enterprise must become sovereign.
 
 That does not mean isolated; it means self-determining.
 
@@ -260,7 +276,9 @@ The architecture enforces the direction.
 
 The generations maintain the covenant.
 
-### Phase VII: THE MORAL CASE FOR ENDURANCE Why must an enterprise endure?
+# Phase VII: THE MORAL CASE FOR ENDURANCE Why must an enterprise endure
+
+?
 
 Because human dignity flourishes when families build, preserve, and pass down real value.
 

@@ -49,7 +49,7 @@ In the world of private equity, that clarity is not an abstraction.
 
 It is a structural truth with financial consequences. 
 
- ##
+ 
 
 - PRIVATE BRIEFING (Principal voice, unfiltered, for the vault.) I speak plainly.
 
@@ -131,7 +131,11 @@ From the speculative to the disciplined.
 
 From moral hazard to moral authority.
 
-This is the axis modern family offices must internalize.
+This is the 
+
+# Axis M: odern family offices must internalize
+
+.
 
 PRINCIPAL TONE
 
@@ -338,7 +342,11 @@ It is duty.
 
 4.
 
-The Discipline Layer Markets tempt drift.
+The Discipline 
+
+# Layer M: arkets tempt drift
+
+.
 
 Discipline resists it.
 
@@ -358,7 +366,11 @@ Proof does.
 
 5.
 
-The Accountability Layer Moral authority demands consequence.
+The Accountability 
+
+# Layer M: oral authority demands consequence
+
+.
 
 Governing boards must hold management accountable.
 

@@ -20,7 +20,9 @@ It provides a stabilizing logic for asset stewardship across energy, infrastruct
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post 2019 capital cycle has entered a bifurcated phase where technical sophistication is abundant, but moral discipline is scarce.
 
@@ -60,7 +62,9 @@ This creates stability in environments where global capital markets have become 
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The Gnosjö framework is often described culturally, but its power lies in its operational mechanics.
 
@@ -156,7 +160,9 @@ This is Strategic Collateralization focused on predictable value extraction rath
 
  
 
-## THE STEWARDSHIP FILTER The Theology of Capital provides the governing lens.
+## THE STEWARDSHIP FILTER The Theology of Capital provides the governing lens
+
+.
 
 Stewardship is not an aesthetic.
 
@@ -200,7 +206,11 @@ The Gnosjö framework provides a filtration mechanism that restores clarity.
 
 When applied to global assets, it creates a decision architecture built on stability, order, and intergenerational prudence.
 
-For institutions evaluating complex sectors such as North American energy, private credit, or specialty real assets, the next step is a structured evaluation of strategic alignment.
+For institutions evaluating complex sectors such as North American energy, private credit, or specialty real assets, the next 
+
+# Step I: s a structured evaluation of strategic alignment
+
+.
 
 Roials Capital supports this process through confidential strategy audits and portfolio calibration reviews.
 

@@ -20,13 +20,15 @@ The Spirit of Gnosjö is not folklore.
 
 It is a model for governance, discipline, and community scale enterprise that has survived multiple economic cycles.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The present market environment is shaped by three converging dynamics. 
 
@@ -66,13 +68,15 @@ It is cultural.
 
 The institutions that will dominate the next cycle are those able to anchor capital to purpose, operational truth, and the classical disciplines of stewardship.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Christian values in capital formation are not sentimental or symbolic.
 
@@ -184,7 +188,7 @@ In manufacturing, it appears in takt-time management.
 
 In credit structures, it appears in cash flow waterfall predictability.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer where alignment and operational discipline are paramount.
 
@@ -216,7 +220,7 @@ No return projection.
 
 Only structural illumination.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship imposes a specific filtering mechanism on all industrial and financial decisions.
 
@@ -272,7 +276,7 @@ The discipline required to pass resources forward is greater than the discipline
 
 This enhances risk calibration and reduces emotional allocation patterns.
 
-### Phase V: .
+# Phase V: .
 
 ALLOCATOR DECISION FRAMEWORK The institutional allocator or family principal evaluating capital deployment in the present regime needs a decision lens shaped by stewardship rather than market noise.
 

@@ -22,13 +22,15 @@ Asset Backed Lending functions as a governance instrument that protects families
 
 It creates predictability in a world where public markets fluctuate without reference to operational reality.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Wealth preservation for multi generational families is shaped by the regulatory currents that govern capital availability.
 
@@ -62,13 +64,15 @@ Modern allocators face a world where these principles must be intentionally engi
 
 Asset Backed Lending has become one of the few mechanisms that preserves this ethos within an institutional framework.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ASSET BACKED LENDING Asset Backed Lending is not a single product.
 
@@ -146,7 +150,7 @@ This allows family offices to shift from episodic allocation to continuous balan
 
 This creates compounding stability, not compounding risk.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
@@ -180,7 +184,7 @@ They require intelligence that clarifies where stability can be engineered and w
 
 This is the institutional archetype of the introducer: the one who ensures alignment between capital, collateral, and operational reality.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Every significant allocation for a multi generational family must pass through the stewardship filter.
 
@@ -232,7 +236,7 @@ Stewardship is active management of responsibility.
 
 Asset Backed Lending is a modern expression of this ancient discipline.
 
-### Phase V: .
+# Phase V: .
 
 THE
 

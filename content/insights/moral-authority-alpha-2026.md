@@ -52,7 +52,9 @@ We address the architecture.
 
  
 
-## THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 2026 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist.
+## THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 2026 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist
+
+.
 
 They are reaching for the one attribute that cannot be automated, simulated, or purchased: Moral authority.
 

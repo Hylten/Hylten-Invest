@@ -10,7 +10,11 @@ The capital vacuum in North America’s energy landscape is not a function of as
 
 It is the result of regulatory overreach, capital migration patterns, and the institutional retreat from balance-sheet-intensive industries.
 
-Into this vacuum step disciplined operators, technical specialists, and families with a deep comprehension of stewardship as a governing principle rather than a branding device.
+Into this vacuum 
+
+# Step D: I
+
+sciplined operators, technical specialists, and families with a deep comprehension of stewardship as a governing principle rather than a branding device.
 
 Hylten Invest functions inside this landscape as a silent partner whose leverage is not volume but conviction, not exposure but discernment, not noise but calibration.
 
@@ -34,7 +38,9 @@ The inheritance referenced is not limited to assets.
 
 It refers to the discipline required to build, defend, and transmit an ecosystem that allocates capital with purpose rather than appetite.
 
-### Phase I: - ## THE REGIME SHIFT
+# Phase I: - ## THE REGIME SHIF
+
+T
 
  The global industrial and energy environment is navigating a structural regime transition.
 
@@ -78,7 +84,9 @@ Instead, it serves as a stabilizing anchor that evaluates whether the moral and 
 
 When the architecture holds, strategic introductions can then be executed with purpose.
 
-### Phase II: - ## TECHNICAL MECHANICS
+# Phase II: - ## TECHNICAL MECHANIC
+
+S
 
  Although Hylten Invest remains structurally agnostic across asset classes, the energy sector illustrates the model clearly due to its operational transparency.
 
@@ -124,7 +132,9 @@ Instead, it verifies whether the operator respects the natural constraints of th
 
 This is balance-sheet ethics applied to industrial environments.
 
-### Phase III: - THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator.
+# Phase II: I
+
+- THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator.
 
 Its mandate is not to sell, promote, or solicit.
 
@@ -158,7 +168,9 @@ It protects the allocator from single-source bias and ensures that any
 
  or alignment is grounded in both operational realism and moral clarity.
 
-### Phase IV: - THE STEWARDSHIP FILTER Stewardship is not a metaphor.
+# Phase IV: - THE STEWARDSHIP FILTER Stewardship is not a metaphor
+
+.
 
 It is a governance system. **Genesis 2:15
 
@@ -166,7 +178,9 @@ It is a governance system. **Genesis 2:15
 
 * provides the foundational pattern: 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  to cultivate and guard.
 
@@ -215,7 +229,9 @@ They ensure that capital flows into environments where moral stability supports 
 
 Without this integration, the allocator inherits risk that no financial structure can mitigate.
 
-### Phase V: - THE DECISION-MAKING LENS For UHNWIs, institutional LPs, and family investment offices, the primary question is not exposure to energy or industrial assets.
+# Phase V
+
+- THE DECISION-MAKING LENS For UHNWIs, institutional LPs, and family investment offices, the primary question is not exposure to energy or industrial assets.
 
 The primary question is exposure to operators, systems, and partners who understand stewardship as a discipline rather than a slogan.
 

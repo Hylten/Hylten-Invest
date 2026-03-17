@@ -28,7 +28,9 @@ The objective is clarity that enables calibrated institutional decision making.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The generative AI sector has entered a capital regime defined by three concurrent forces:
 
@@ -90,7 +92,9 @@ It is an industrial realignment that merges compute, grid architecture, and data
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF GENERATIVE AI AS AN INVESTABLE DOMAIN Understanding the investable mechanics of generative AI requires separating signal from noise.
 
@@ -264,7 +268,9 @@ Unfiltered exposure introduces unacceptable model drift, counterparty risk, and 
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a marketing term.
+## THE STEWARDSHIP FILTER Stewardship is not a marketing term
+
+.
 
 It is a discipline rooted in the theology of capital.
 

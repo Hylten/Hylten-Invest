@@ -28,7 +28,9 @@ The principles reflect the Spirit of Gnosjö: the Nordic industrial ethos built 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The private equity market no longer behaves like the expansionary cycle that defined 2009 through 
 
@@ -96,7 +98,9 @@ It is a framework for endurance.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF STEWARDSHIP FOR PRIVATE EQUITY STAKES The stewardship of private equity stakes is a technical discipline.
 
@@ -244,7 +248,9 @@ The partnership model creates a buffer between the emotional pressure of ownersh
 
  
 
-## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship is a moral discipline.
+## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship is a moral discipline
+
+.
 
 It rejects waste.
 

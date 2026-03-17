@@ -18,7 +18,9 @@ Nordic industrialists understood this long before contemporary asset managers be
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Persistent stewardship has re-entered the institutional conversation because allocators are confronting a structural regime change.
 
@@ -58,7 +60,9 @@ It delivers durability in cycles where capital volume no longer guarantees advan
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF PERSISTENT STEWARDSHIP Persistent stewardship operates through 
 
@@ -196,7 +200,9 @@ It provides allocators with an interpretive lens to evaluate operating partners,
 
  
 
-## THE STEWARDSHIP FILTER The stewardship filter is an evaluative framework that determines whether an operator, asset, or capital structure is aligned with responsible resource management.
+## THE STEWARDSHIP FILTER The stewardship filter is an evaluative framework that determines whether an operator, asset, or capital structure is aligned with responsible resource management
+
+.
 
 It does not evaluate sentiment.
 

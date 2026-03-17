@@ -16,7 +16,9 @@ The conservative allocator now evaluates crypto backed liquidity not through sen
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators navigating 2026 operate within a tri polar credit environment defined by three forces. 
 
@@ -60,7 +62,9 @@ It is a structural adjustment.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF CRYPTO BACKED LIQUIDITY A crypto collateralized liquidity line is functionally similar to a secured borrowing facility, but with operational differences that enhance collateral visibility and liquidation efficiency.
 
@@ -78,7 +82,12 @@ The allocator benefits from:
 
 - deterministic control protocols
 
-- multi jurisdiction supervisory frameworks The custody layer mirrors the rigor applied to precious metal vaulting or Level 
+- multi jurisdiction supervisory frameworks The custody 
+
+# Layer MI: rrors the rigor applied to precious metal vaulting or Leve
+
+l
+
 1 securities segregation. 
 
 2.
@@ -175,7 +184,9 @@ It is alignment driven.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the disciplined management of resources allocated under responsibility, not ownership.
+## THE STEWARDSHIP FILTER Stewardship is the disciplined management of resources allocated under responsibility, not ownership
+
+.
 
 This principle applies both to industrial capital and Institutional Liquidity Paths.
 

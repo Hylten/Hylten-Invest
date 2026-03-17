@@ -258,7 +258,11 @@ Tax codes lag.
 
 Enforcement is inconsistent.
 
-Therefore, the next layer is jurisdictional mapping.
+Therefore, the next 
+
+# Layer I: s jurisdictional mapping
+
+.
 
 Sovereign households map their assets like multinational firms map their supply chains.
 
@@ -446,7 +450,11 @@ Governance rights are leverage.
 
 Leverage is sovereignty.
 
-The next structural layer is credit.
+The next structural 
+
+# Layer I: s credit
+
+.
 
 Credit transforms digital assets from dormant capital into productive capital.
 

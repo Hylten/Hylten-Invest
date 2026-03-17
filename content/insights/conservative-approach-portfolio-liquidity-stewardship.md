@@ -36,13 +36,17 @@ The structure reflects institutional navigation intelligence rather than product
 
 - 
 
-- Phase I: .
+- 
+
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  MACRO LIQUIDITY REALIGNMENT AND CAPITAL DISCIPLINE The current market regime is defined by several converging forces that carry direct consequences for liquidity architecture. 
 
@@ -114,21 +118,29 @@ Wise families store resources not for complacency but for duty.
 
 - 
 
-- Phase II: .
+- 
+
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  THE ARCHITECTURE OF CONSERVATIVE Institutional Liquidity Paths A conservative liquidity framework for generational capital requires four distinct layers.
 
 Each layer performs a different operational function and each must be evaluated on its velocity, jurisdictional security, and loss absorption capacity.
 
-### Layer I: .
+# Layer I: .
 
-Immediate Liquidity This layer covers obligations that cannot be deferred.
+Immediate Liquidity This 
+
+# Layer C: overs obligations that cannot be deferred
+
+.
 
 It includes reserve balances, operational float, and contingency capital.
 
@@ -140,15 +152,19 @@ It also serves as the final line of strategic autonomy.
 
 Families who neglect this layer typically compromise their ability to act with conviction when market opportunities arise.
 
-### Layer II: .
+# Layer II: .
 
-Short Duration Liquidity Instruments This layer captures near liquid assets such as short duration credit, treasury instruments, and structured liquidity notes.
+Short Duration Liquidity Instruments This 
+
+# Layer C
+
+aptures near liquid assets such as short duration credit, treasury instruments, and structured liquidity notes.
 
 The purpose is yield stability without sacrificing response time.
 
 Institutional allocators prefer predictable maturity ladders because they create a liquidity conveyor belt that is not dependent on market sentiment.
 
-### Layer III: .
+# Layer III: .
 
 Strategic Liquidity Reserves This category contains assets that are not fully liquid but possess rapid convertibility under normal market conditions.
 
@@ -164,9 +180,13 @@ Their extraction programs in Alberta use predictable physics rather than specula
 
 SAGD and CSS mechanics produce structured recovery profiles that can be integrated into a liquidity planning model with higher certainty than many financial assets.
 
-### Layer IV: .
+# Layer IV: .
 
-Long Duration Stewardship Assets This layer includes industrial holdings, private companies, mineral positions, and intergenerational land.
+Long Duration Stewardship Assets This 
+
+# Layer I
+
+ncludes industrial holdings, private companies, mineral positions, and intergenerational land.
 
 These assets are not liquidity instruments.
 
@@ -202,7 +222,9 @@ Strategic Collateralization aligns each layer with its intended operational purp
 
 - 
 
-- Phase III: .
+- 
+
+# Phase III: .
 
 THE PARTNERSHIP MODEL STRATEGIC ALIGNMENT THROUGH ROIALS CAPITAL AND TECHNICAL PARTNERS Roials Capital operates as a strategic navigator for allocators requiring institutional clarity across energy, private credit, balance sheet optimization, and cross border capital structuring.
 
@@ -228,7 +250,7 @@ Institutional Grade Reporting suitable for LP level scrutiny.
 
 When allocators position energy assets within the liquidity architecture described earlier, NAEO aligned assets typically fall within
 
-### Layer III: .
+# Layer III: .
 
 They are not instant liquidity, yet they provide structured cash flow release that supports longer term balance sheet stability.
 
@@ -256,7 +278,9 @@ Roials Capital resolves this through strategy consultations that map liquidity v
 
 - 
 
-- Phase IV: .
+- 
+
+# Phase IV: .
 
 THE STEWARDSHIP FILTER THE THEOLOGY OF CAPITAL AND THE SPIRIT OF GNOSJÖ Stewardship is the organizational principle that separates transient wealth from generational capital.
 
@@ -336,7 +360,9 @@ This is the philosophical foundation beneath the Capital Structuring frameworks 
 
 - 
 
-- Phase V: .
+- 
+
+# Phase V: .
 
 DECISION MAKING LENS FOR THE ALLOCATOR CALIBRATION TOWARD CONSERVATIVE LIQUIDITY MASTERY For allocators managing generational capital, the conservative approach to liquidity is not about defensive posture.
 

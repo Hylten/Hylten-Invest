@@ -30,7 +30,9 @@ It must be structured for endurance.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current macro environment is defined by three converging dynamics that re write the liquidity expectations for UHNW families.
 
@@ -60,7 +62,9 @@ Roials Capital operates within this environment as an institutional navigator, a
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF Monetization Architecture Effective liquidity architecture requires precision.
 
@@ -138,7 +142,9 @@ This transforms liquidity from ad hoc decision making into institutional discipl
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not an asset originator or fund manager.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is alignment, not allocation.
 
@@ -182,7 +188,9 @@ The objective is to create durable liquidity architectures that strengthen gener
 
  
 
-## THE STEWARDSHIP FILTER For Nordic and European industrial families, liquidity is not merely a financial instrument.
+## THE STEWARDSHIP FILTER For Nordic and European industrial families, liquidity is not merely a financial instrument
+
+.
 
 It is a vehicle of stewardship.
 

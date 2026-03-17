@@ -42,7 +42,9 @@ The brief assumes a family enterprise with entrenched industrial DNA, heterogene
 
 * directs 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 : A good man leaves an inheritance to his children’s children.
 
@@ -78,7 +80,9 @@ The constitutional tier is the anchor.
 
 Without constitutional firmness, no generation will respect 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  of the prior generation.
 
@@ -154,7 +158,9 @@ Families survive on institutional muscle.
 
 The institution must outlive the personalities.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  must outlive the emotions.
 
@@ -212,7 +218,11 @@ In this environment, oil and gas plays re‑emerge as legitimate long‑horizon 
 
 Not because of opportunistic pricing but because the global energy mix cannot transition without hydrocarbon infrastructure.
 
-Families that understand physical systems, supply constraints, and geopolitical latency can step into structured positions that deliver durable cash flow with operational leverage.
+Families that understand physical systems, supply constraints, and geopolitical latency can 
+
+# Step I
+
+nto structured positions that deliver durable cash flow with operational leverage.
 
 Private credit structures anchored to real assets reinforce the base.
 
@@ -284,7 +294,9 @@ When readiness is lacking, authority is withheld.
 
 This protects the family, the capital, and 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -424,7 +436,9 @@ Fragmented families cannot compound.
 
 Unified families compound effortlessly.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear: Structure precedes strategy.
 

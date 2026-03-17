@@ -360,7 +360,9 @@ Short-term funds do not. =====
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  : THE RESPONSIBILITY RETURNS ===== The pivot toward multi-decade industrial holdings is not a trend.
 

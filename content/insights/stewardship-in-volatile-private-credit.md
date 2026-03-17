@@ -18,7 +18,9 @@ This gap has created a market where the durability of capital stewardship has be
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The private credit market entered a new regime following the liquidity distortions of 2020 to 
 
@@ -82,7 +84,9 @@ It aligns time horizons across stakeholders.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF STEWARDSHIP IN PRIVATE CREDIT Stewardship in a volatile private credit environment is best understood as a governance system applied to capital.
 
@@ -210,7 +214,9 @@ The output is institutional confidence.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a theological concept applied to finance.
+## THE STEWARDSHIP FILTER Stewardship is not a theological concept applied to finance
+
+.
 
 It is a financial discipline rooted in theological origin.
 

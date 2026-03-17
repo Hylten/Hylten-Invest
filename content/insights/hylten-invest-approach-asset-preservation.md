@@ -22,7 +22,9 @@ The Hylten Invest approach formalizes this clarity into a framework that aligns 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current macro landscape is shaped by scarcity of operational excellence rather than scarcity of capital.
 
@@ -74,7 +76,9 @@ It is to ensure that capital retains its functional integrity across market cycl
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ASSET PRESERVATION The mechanics of the approach draw from the combined traditions of Swedish industrial conservatism, the theology of capital, and modern institutional risk architecture.
 
@@ -182,7 +186,9 @@ This aligns with the Hylten Invest principle that asset preservation begins with
 
  
 
-## THE STEWARDSHIP FILTER The stewardship filter is the moral and functional core of the Hylten Invest doctrine.
+## THE STEWARDSHIP FILTER The stewardship filter is the moral and functional core of the Hylten Invest doctrine
+
+.
 
 Capital is not treated as an inert object but as a resource with ethical weight.
 

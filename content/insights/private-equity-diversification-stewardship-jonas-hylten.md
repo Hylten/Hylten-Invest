@@ -32,7 +32,9 @@ It is operational, moral, and accountable.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Private equity diversification is no longer framed as a distribution across sectors but as a dynamic allocation across structural inefficiencies.
 
@@ -68,7 +70,9 @@ An allocator has to map exposure to:
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Diversification within private equity requires understanding how each strategy behaves along the balance sheet, liquidity, and operational axes.
 
@@ -114,7 +118,11 @@ It is a calibrated optimizer.
 
 3.
 
-Private Credit Mechanics Private credit has transitioned from a supplementary allocation to a structural pillar due to regulatory displacement in the banking system.
+Private Credit Mechanics Private credit has transitioned from a supplementary allocation to a structural 
+
+# Pillar D: ue to regulatory displacement in the banking system
+
+.
 
 Its diversification value lies in principal protection and cash flow predictability.
 
@@ -244,7 +252,9 @@ Operational Intelligence We provide analytical frameworks that clarify:
 
  
 
-## THE STEWARDSHIP FILTER The stewardship mandate is not a moral overlay.
+## THE STEWARDSHIP FILTER The stewardship mandate is not a moral overlay
+
+.
 
 It is an operational doctrine.
 

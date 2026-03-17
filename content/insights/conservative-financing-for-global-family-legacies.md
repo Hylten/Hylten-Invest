@@ -86,7 +86,11 @@ Community as force multiplier.
 
 Capital deployed carefully, patiently, sacrificially.
 
-The institutional challenge arises when such families step into global domains where velocity overrides wisdom, and leverage overshadows prudence.
+The institutional challenge arises when such families 
+
+# Step I
+
+nto global domains where velocity overrides wisdom, and leverage overshadows prudence.
 
 The countermeasure is structure.
 
@@ -378,7 +382,11 @@ It is continuity.
 
 Continuity is the highest form of conservative finance.
 
-When one layer is pressured, another layer shields.
+When one 
+
+# Layer I: s pressured, another layer shields
+
+.
 
 Families stay whole.
 

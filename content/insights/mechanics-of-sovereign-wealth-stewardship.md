@@ -30,7 +30,9 @@ It is calibration.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The contemporary sovereign allocator operates within a three layer structural transition. 
 
@@ -90,7 +92,9 @@ This ethical foundation translates directly into sovereign wealth mechanics.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF SOVEREIGN STEWARDSHIP Sovereign stewardship is not a moral claim.
 
@@ -190,7 +194,9 @@ The sovereign allocator protects its balance sheet while gaining access to calib
 
  
 
-## THE STEWARDSHIP FILTER The ethical dimension of capital is not rhetorical.
+## THE STEWARDSHIP FILTER The ethical dimension of capital is not rhetorical
+
+.
 
 It is operational.
 

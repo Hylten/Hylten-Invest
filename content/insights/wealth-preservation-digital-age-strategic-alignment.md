@@ -18,7 +18,9 @@ The allocator who interprets this regime through a stewardship lens gains struct
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Wealth preservation in 2026 operates within a fractured macro architecture.
 
@@ -70,7 +72,9 @@ Stewardship must be re-engineered as an operational discipline rather than a phi
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF DIGITAL AGE WEALTH PRESERVATION Preserving generational capital in the digital era requires 
 
@@ -178,7 +182,9 @@ It ensures the allocator navigates the modern regime without the structural mist
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a theological ornament.
+## THE STEWARDSHIP FILTER Stewardship is not a theological ornament
+
+.
 
 It is a technical and moral standard that governs how families manage capital across generations.
 

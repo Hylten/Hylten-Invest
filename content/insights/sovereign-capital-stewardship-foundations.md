@@ -18,7 +18,9 @@ The rise of sovereign capital frameworks is rooted in a simple, counter intuitiv
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Across Europe and North America, the macro landscape has entered a period defined by three converging fractures: capital flight from essential industries, regulatory inconsistency that distorts cost of capital, and a societal abandonment of industrial responsibility.
 
@@ -62,7 +64,9 @@ The theological foundation is clear: capital is a responsibility given for the p
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF STEWARDSHIP CAPITAL Sovereign grade capital systems operate differently from conventional investment strategies.
 
@@ -106,7 +110,11 @@ Their production profiles are predictable.
 
 Their long term recoverability is not subject to consumer sentiment.
 
-When managed by operators with discipline and transparent field level execution, such as our strategic partner NAEO, these assets become a stabilizing pillar in a portfolio architecture.
+When managed by operators with discipline and transparent field level execution, such as our strategic partner NAEO, these assets become a stabilizing 
+
+# Pillar I: n a portfolio architecture
+
+.
 
 The fifth mechanic is operational proximity.
 
@@ -160,7 +168,9 @@ The partnership is structured so that the allocator benefits from field level pr
 
  
 
-## THE STEWARDSHIP FILTER The stewardship filter is the central pillar of sovereign capital.
+## THE STEWARDSHIP FILTER The stewardship filter is the central pillar of sovereign capital
+
+.
 
 It evaluates decisions through resource responsibility, governance integrity, and intergenerational continuity.
 
@@ -204,7 +214,9 @@ This is the theological foundation.
 
 Numbers do not drive 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 

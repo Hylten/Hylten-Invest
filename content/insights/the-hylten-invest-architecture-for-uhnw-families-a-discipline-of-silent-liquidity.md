@@ -6,7 +6,9 @@ author: "Hyltén Invest"
 slug: "the-hylten-invest-architecture-for-uhnw-families-a-discipline-of-silent-liquidity"
 --- 
 
-# The Hylten Invest Architecture for UHNW Families We begin with a principle.
+# The Hylten Invest Architecture for UHNW Families We begin with a principle
+
+.
 
 Liquidity is not an event.
 
@@ -38,7 +40,9 @@ Our mandate is generational.
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  Hylten Invest provides a liquidity architecture that respects the privacy, complexity, and long-term priorities of UHNW families.
 

@@ -36,7 +36,9 @@ The focus is the strategic mechanics of trust, the industrial cadence of Smålan
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global capital regime is pivoting from complexity-driven returns to stewardship-driven resilience.
 
@@ -96,7 +98,9 @@ Reliability replaces leverage.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE GNOSJÖ TRUST ARCHITECTURE The architecture of trust in the Gnosjö region is not cultural decoration.
 
@@ -228,7 +232,9 @@ Our mandate is to provide operational intelligence and structural clarity so all
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral accessory.
+## THE STEWARDSHIP FILTER Stewardship is not a moral accessory
+
+.
 
 It is the backbone of efficient capital systems.
 

@@ -29,7 +29,9 @@ You deploy it poorly, the foundation cracks. *"And they shall build the old wast
 
 * 
 
-* ### Phase I: .
+* 
+
+# Phase I: .
 
 Internal Logic.
 
@@ -79,7 +81,7 @@ A family firm knows this.
 
 An empire of debt does not.
 
-### Phase II: .
+# Phase II: .
 
 Principal Voice.
 
@@ -103,7 +105,7 @@ Moral law and economic law converge.
 
 That is the architecture.
 
-### Phase III: .
+# Phase III: .
 
 Bypass.
 

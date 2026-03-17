@@ -6,7 +6,9 @@ author: "Hyltén Invest"
 slug: "the-future-of-stewardship-high-trust-finance-and-the-architecture-of-long-term-liquidity"
 --- 
 
-# The Future of Stewardship: High Trust Finance Stewardship is entering a new era.
+# The Future of Stewardship: High Trust Finance Stewardship is entering a new era
+
+.
 
 A quieter era.
 
@@ -26,7 +28,9 @@ The future of stewardship will not belong to those who chase velocity.
 
 It will belong to those who control liquidity with intention. 
 
-## Stewardship in the Next Decade The next decade will reward conservatism.
+## Stewardship in the Next Decade The next decade will reward conservatism
+
+.
 
 Not stagnation.
 
@@ -58,7 +62,9 @@ Hyltén Invest positions itself to support families through this evolution with 
 
 The future will favor those who move quietly with intention. 
 
-## The Families That Endure Wealth longevity is rarely the result of innovation.
+## The Families That Endure Wealth longevity is rarely the result of innovation
+
+.
 
 It is the result of discipline.
 
@@ -88,7 +94,9 @@ This is the essence of stewardship.
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  The future of stewardship is not complex.
 

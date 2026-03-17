@@ -22,7 +22,9 @@ The decisive variable is stewardship competence.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global capital regime has passed through a fundamental reconfiguration.
 
@@ -60,7 +62,9 @@ Stewardship is continuous.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF CAPITAL STEWARDSHIP Stewardship in 2026 is not a moral aspiration.
 
@@ -152,7 +156,9 @@ This positioning ensures that stewardship remains anchored in prudence rather th
 
  
 
-## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship as taught in the Christian industrial tradition is not optional.
+## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship as taught in the Christian industrial tradition is not optional
+
+.
 
 It is a command.
 

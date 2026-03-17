@@ -30,7 +30,9 @@ A good man leaves an inheritance to his children's children.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global capital cycle has transitioned into a structurally different configuration.
 
@@ -86,7 +88,9 @@ Family offices with a legacy outlook increasingly recognize that the environment
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF LEGACY ANCHORED ENERGY ALLOCATION North American heavy oil remains misunderstood within generalist capital circles.
 
@@ -224,7 +228,9 @@ They are grounded in responsibility, clarity, and respect for generational capit
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not an aesthetic or philosophical notion.
+## THE STEWARDSHIP FILTER Stewardship is not an aesthetic or philosophical notion
+
+.
 
 It is a governance discipline that determines whether capital strengthens or weakens over time.
 

@@ -30,7 +30,9 @@ The briefing is intended for institutional allocators, private credit managers, 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current macro environment is defined by three interacting dynamics.
 
@@ -80,7 +82,9 @@ Continuity requires operational intelligence, not optimism.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ENDURING LIQUIDITY Enduring liquidity cannot be achieved through diversification alone.
 
@@ -194,7 +198,9 @@ The partnership model supports that agency by removing informational asymmetry w
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+
+.
 
 It is a capital discipline.
 

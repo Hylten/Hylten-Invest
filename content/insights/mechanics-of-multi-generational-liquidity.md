@@ -28,7 +28,9 @@ It is the outcome of industrial discipline, capital theology, and the precision 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current capital regime is shaped by three forces.
 
@@ -70,7 +72,9 @@ This is the structural foundation of liquidity that lasts beyond a single genera
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF MULTI GENERATIONAL LIQUIDITY Multi generational liquidity is not cash.
 
@@ -170,7 +174,9 @@ The strategic navigator ensures that operational intelligence is embedded at the
 
  
 
-## THE STEWARDSHIP FILTER The foundation of multi generational liquidity is stewardship.
+## THE STEWARDSHIP FILTER The foundation of multi generational liquidity is stewardship
+
+.
 
 This is not a financial term.
 

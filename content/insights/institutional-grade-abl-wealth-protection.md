@@ -30,7 +30,9 @@ The objective is to define how an allocator can institutionalize protection arou
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Private credit has entered a regime defined by structural constraint rather than cyclical fluctuation.
 
@@ -68,7 +70,9 @@ The allocator who understands the gap between hard collateral utility and lender
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF INSTITUTIONAL GRADE Asset-Based Lending True asset based lending is not a marketing term.
 
@@ -180,7 +184,9 @@ This triad ensures that the allocator enters structures intentionally, not react
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral accessory.
+## THE STEWARDSHIP FILTER Stewardship is not a moral accessory
+
+.
 
 It is an economic discipline grounded in the biblical principle that capital is a resource entrusted for productive use. **Proverbs 13:22
 

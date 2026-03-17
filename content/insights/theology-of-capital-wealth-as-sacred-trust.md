@@ -36,7 +36,9 @@ It is critical to understand this foundation because the discipline of stewardsh
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current capital regime is defined by two simultaneous dislocations. 
 
@@ -86,7 +88,9 @@ The allocator who operates with it will understand why capital flows drift out o
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  A theology of capital demands technical competence.
 
@@ -186,7 +190,9 @@ Capital becomes a collaborative instrument rather than a destabilizing force.
 
  
 
-## THE STEWARDSHIP FILTER Every decision an allocator makes reveals their theology.
+## THE STEWARDSHIP FILTER Every decision an allocator makes reveals their theology
+
+.
 
 Even if they never use theological language.
 

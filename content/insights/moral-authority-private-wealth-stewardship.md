@@ -28,7 +28,9 @@ A good man leaves an inheritance to his children’s children (
 
 * ).
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is intergenerational.
 

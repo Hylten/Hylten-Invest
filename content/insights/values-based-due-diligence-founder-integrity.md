@@ -33,7 +33,7 @@ Sovereign architecture second.
 
 Everything else downstream. 
 
- ##
+ 
 
 - SECURED BRIEFING This is not a public memo.
 

@@ -6,7 +6,9 @@ author: "Hyltén Invest"
 slug: "capital-migration-for-global-families-the-role-of-sovereign-crypto-liquidity-engineering"
 --- 
 
-# Capital Migration for Global Families: The Role of Sovereign Crypto Capital Structuring Global families move differently than conventional investors.
+# Capital Migration for Global Families: The Role of Sovereign Crypto Capital Structuring Global families move differently than conventional investors
+
+.
 
 They migrate capital, influence, and legacy across jurisdictions.
 

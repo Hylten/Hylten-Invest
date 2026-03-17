@@ -62,7 +62,9 @@ This is design.
 
  
 
-## PRIVATE PRINCIPAL BRIEFING Vault-Sealed , Not for public distribution European family offices are now navigating three converging frontiers: 
+## PRIVATE PRINCIPAL BRIEFING Vault-Sealed , Not for public distribution European family offices are now navigating three converging frontiers:
+
+ 
 
 1. **The return of moral authority as capital advantage
 
