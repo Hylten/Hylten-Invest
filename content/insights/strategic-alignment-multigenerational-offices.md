@@ -35,7 +35,8 @@ Families thrive when the architecture is explicit, procedural, and sovereign.
 The purpose of this brief is to establish a strategic alignment blueprint for long‑horizon offices operating within an industrial Christian tradition-Hylten‑Invest logic-and to articulate a coherent path for Fund‑III era mandates.
 
 The brief assumes a family enterprise with entrenched industrial DNA, heterogeneous capital appetites, and the moral expectation that wealth functions not as status but as stewardship. 
--  **Proverbs 13:22** directs 
+-  **Proverbs 13:22*
+* directs 
 
 ## THE MANDATE
 
@@ -380,7 +381,8 @@ The office must commit to the following imperatives:
 -  Acquire assets that generate institutional optionality. 
 -  Prioritize stewardship over optimization. 
 -  Engineer internal trust as a structural asset. 
--  Anchor every decision to **Proverbs 13:22** .
+-  Anchor every decision to **Proverbs 13:22*
+* .
 
 At scale, alignment becomes an engine.
 
@@ -420,4 +422,5 @@ Alignment is survival.
 
 For multi‑generational offices seeking institutional precision, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
-Terminal metric: 84.3 percent governance‑stability coefficient achieved under unified mandate architecture.
+Terminal metric: 84.
+3 percent governance‑stability coefficient achieved under unified mandate architecture.

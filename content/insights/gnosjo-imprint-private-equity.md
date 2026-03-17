@@ -22,8 +22,10 @@ Men and women who refused waste, refused idleness, refused dependency.
 
 They built a moral architecture long before private equity adopted the language of operational excellence.
 
-The modern firm rediscovers what they lived. *"Whatsoever thy hand findeth to do, do it with thy might."* 
--  **Ecclesiastes 9:10** The Gnosjö pattern is not nostalgia.
+The modern firm rediscovers what they lived. *"Whatsoever thy hand findeth to do, do it with thy might."
+* 
+-  **Ecclesiastes 9:10*
+* The Gnosjö pattern is not nostalgia.
 
 It is instruction.
 
@@ -48,13 +50,15 @@ No debt-fueled spectacle disguised as value creation.
 
 The new operating models that win-quietly, steadily, relentlessly-inherit three Gnosjö traits: 
 
-1. **Proximity to the floor.** Boards that walk the shop.
+1. **Proximity to the floor.*
+* Boards that walk the shop.
 
 Principals who smell the oil.
 
 Managers who know the machine’s tremor before the vibration sensor detects it. 
 
-2. **Covenantal stewardship.** Capital is not a tool for extraction.
+2. **Covenantal stewardship.*
+* Capital is not a tool for extraction.
 
 It is a responsibility.
 
@@ -64,14 +68,17 @@ Legacy requires discipline.
 
 Discipline produces endurance. 
 
-3. **Generational intent.** Not quarter-to-quarter.
+3. **Generational intent.*
+* Not quarter-to-quarter.
 
 Not fund-to-fund.
 
 A design built for the children’s children.
 
-This is where enduring free enterprise stands firm against entropy. *"Through wisdom is an house builded; and by understanding it is established."* 
--  **Proverbs 24:3** The next evolution of private equity-Fund-III structures, industrial platforms, consolidation plays-quietly shifts toward this older logic: Solve real problems.
+This is where enduring free enterprise stands firm against entropy. *"Through wisdom is an house builded; and by understanding it is established."
+* 
+-  **Proverbs 24:3*
+* The next evolution of private equity-Fund-III structures, industrial platforms, consolidation plays-quietly shifts toward this older logic: Solve real problems.
 
 Honor real work.
 
@@ -95,5 +102,7 @@ Work first.
 
 Virtue first.
 
-Then capital flows. *"The integrity of the upright shall guide them."* 
--  **Proverbs 11:3** Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Then capital flows. *"The integrity of the upright shall guide them."
+* 
+-  **Proverbs 11:3*
+* Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

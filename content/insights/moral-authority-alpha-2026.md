@@ -50,7 +50,8 @@ The repricing is underway.
 
 We address the architecture. ## ## 
 
-## THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 2026 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist.
+## THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 202
+6 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist.
 
 They are reaching for the one attribute that cannot be automated, simulated, or purchased: Moral authority.
 
@@ -66,8 +67,10 @@ The last decade delivered a cascade of financial engines built by men without an
 
 When the tide receded, what remained were balance sheets with numbers but no foundations.
 
-The world rediscovered a truth older than the markets: *"He that walketh uprightly walketh surely."* 
--  **Proverbs 10:9** The upright walk surely not because the road is free of obstacles but because their internal architecture absorbs shocks.
+The world rediscovered a truth older than the markets: *"He that walketh uprightly walketh surely."
+* 
+-  **Proverbs 10:9*
+* The upright walk surely not because the road is free of obstacles but because their internal architecture absorbs shocks.
 
 Institutional capital, confronted with geopolitical volatility, sovereign debt pressures, and a credit cycle that will not stabilize, is rotating toward this internal architecture.
 
@@ -206,7 +209,8 @@ It remembers the hands that shaped it.
 
 Modern finance lost this memory during the era of abstraction.
 
-But the undercurrents of 2026 show a reawakening-allocators beginning to understand that capital requires spiritual architecture, not merely numerical architecture.
+But the undercurrents of 202
+6 show a reawakening-allocators beginning to understand that capital requires spiritual architecture, not merely numerical architecture.
 
 This is not mysticism.
 
@@ -263,11 +267,13 @@ This produces a risk-adjusted return profile that institutions consider superior
 
 Moral authority becomes the invisible margin of safety.
 
-THE 1874 FORGE PRINCIPLE THE INDUSTRIAL ROOT AS RISK SHIELD The allocator respects the man whose lineage touches the forge, the workshop, the sawmill, the early industrial problem-solving environment.
+THE 187
+4 FORGE PRINCIPLE THE INDUSTRIAL ROOT AS RISK SHIELD The allocator respects the man whose lineage touches the forge, the workshop, the sawmill, the early industrial problem-solving environment.
 
 Because industrial heritage forged character the modern economy can no longer produce reliably.
 
-The 1874 forge did not produce noise; it produced clarity.
+The 187
+4 forge did not produce noise; it produced clarity.
 
 It did not produce spectacle; it produced durability.
 

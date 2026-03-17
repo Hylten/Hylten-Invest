@@ -44,7 +44,12 @@ Valuations shift, yet family strategies move forward.
 
 This is why liquidity must be engineered as a framework, not an outcome.
 
-A liquidity architecture must: * Protect principal integrity. * Maintain optionality across market cycles. * Remain independent of external volatility. * Reduce forced sale exposure. * Enable long-term familial allocation policy.
+A liquidity architecture must: 
+* Protect principal integrity. 
+* Maintain optionality across market cycles. 
+* Remain independent of external volatility. 
+* Reduce forced sale exposure. 
+* Enable long-term familial allocation policy.
 
 Over time, this architecture becomes part of the family's internal governance.
 
@@ -66,7 +71,11 @@ The liquidity is limited.
 
 This is where our Monetization Architecture structure operates quietly in the background, providing liquidity without interrupting the credit position.
 
-Capital Structuring against private credit offers several advantages: * It preserves the underlying yield engine. * It provides liquidity without triggering credit restructuring. * It protects long-duration positions from short-term liquidity needs. * It aligns with conservative, multi generational mandates.
+Capital Structuring against private credit offers several advantages: 
+* It preserves the underlying yield engine. 
+* It provides liquidity without triggering credit restructuring. 
+* It protects long-duration positions from short-term liquidity needs. 
+* It aligns with conservative, multi generational mandates.
 
 This approach is not built for traders.
 
@@ -82,7 +91,10 @@ It turns fixed assets into functional liquidity while preserving ownership and o
 
 Families with concentrated private holdings, private equity positions, or long-term strategic assets often rely on Asset-Based Lending to maintain equilibrium across generations.
 
-Asset-Based Lending provides: * Clear collateralization in environments where valuation is nuanced. * Liquidity that respects the structural integrity of the underlying asset. * A predictable framework that works across economic cycles.
+Asset-Based Lending provides: 
+* Clear collateralization in environments where valuation is nuanced. 
+* Liquidity that respects the structural integrity of the underlying asset. 
+* A predictable framework that works across economic cycles.
 
 At Hyltén Invest, Asset-Based Lending is not a tactical instrument.
 
@@ -94,9 +106,13 @@ These positions are often central to the family identity and long-term vision.
 
 Divesting them for temporary liquidity can weaken strategic alignment.
 
-This is why we offer public share Strategic Collateralization with a minimum threshold of 5,000,000 USD.
+This is why we offer public share Strategic Collateralization with a minimum threshold of 5,000,00
+0 USD.
 
-The structure allows families to: * Maintain exposure to long-term value growth. * Unlock liquidity without forced selling. * Stabilize portfolio concentration risk while retaining control.
+The structure allows families to: 
+* Maintain exposure to long-term value growth. 
+* Unlock liquidity without forced selling. 
+* Stabilize portfolio concentration risk while retaining control.
 
 The objective is not leverage for acceleration.
 
@@ -108,13 +124,17 @@ They present both long-term thesis conviction and short-term liquidity challenge
 
 Our crypto Capital Structuring framework is designed only for institutional scale positions.
 
-Minimum 2,000,000 USD.
+Minimum 2,000,00
+0 USD.
 
 The purpose is not speculation.
 
 It is the preservation of strategic blockchain allocations without disruption.
 
-This structure benefits families by: * Avoiding liquidation events during volatile markets. * Allowing the asset to remain part of the long-term portfolio thesis. * Providing liquidity that is protected from market shocks.
+This structure benefits families by: 
+* Avoiding liquidation events during volatile markets. 
+* Allowing the asset to remain part of the long-term portfolio thesis. 
+* Providing liquidity that is protected from market shocks.
 
 We serve those whose digital asset allocations operate at a scale that requires precision, not hype. 
 
@@ -194,7 +214,10 @@ This is the quiet power of structural liquidity.
 
 It is a different mindset from wealth creation.
 
-It values: * Preservation over optimization. * Continuity over acceleration. * Clarity over complexity.
+It values: 
+* Preservation over optimization. 
+* Continuity over acceleration. 
+* Clarity over complexity.
 
 Liquidity is part of stewardship.
 

@@ -92,7 +92,8 @@ However, the concentration creates liquidity asymmetry.
 
 It can restrict investment in new ventures, philanthropy initiatives, secondary assets, and real estate expansion.
 
-Hylten Invest solves this by providing Capital Structuring against public shares, starting at a minimum threshold of 5,000,000 dollars.
+Hylten Invest solves this by providing Capital Structuring against public shares, starting at a minimum threshold of 5,000,00
+0 dollars.
 
 This allows the position to remain intact.
 
@@ -112,7 +113,8 @@ Structural.
 
 Digital assets are becoming a measurable part of modern balance sheets.
 
-Hylten Invest conducts crypto backed Asset-Backed Frameworks with a minimum threshold of 2,000,000 dollars.
+Hylten Invest conducts crypto backed Asset-Backed Frameworks with a minimum threshold of 2,000,00
+0 dollars.
 
 The structure is designed for families who: 
 -  hold long term digital asset positions 
@@ -314,7 +316,9 @@ We lend against private credit.
 
 We lend through asset based structures.
 
-We provide liquidity against public share positions starting at 5,000,000 dollars, and against crypto positions starting at 2,000,000 dollars.
+We provide liquidity against public share positions starting at 5,000,00
+0 dollars, and against crypto positions starting at 2,000,00
+0 dollars.
 
 We operate with principal authority.
 

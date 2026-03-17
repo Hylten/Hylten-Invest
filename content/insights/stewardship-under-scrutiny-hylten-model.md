@@ -74,7 +74,8 @@ Capital has drifted from stewardship toward speculation.
 
 Under this regime, disciplined allocators are re balancing toward real assets that provide transparency, tangible output, and operational restraint.
 
-The Hylten Model aligns with this re balancing, prioritizing responsibility, durability, and generational continuity. **Proverbs 13:22** frames this foundationally.
+The Hylten Model aligns with this re balancing, prioritizing responsibility, durability, and generational continuity. **Proverbs 13:22*
+* frames this foundationally.
 
 A good man leaves an inheritance to his children's children.
 
@@ -192,7 +193,8 @@ Are the operations governed ethically without waste.
 Does the asset create stability across generations. 
 -  Testimony.
 
-Would the outcome be defensible before God and man. **Psalm 24:1** states that the earth is the Lord's and everything in it.
+Would the outcome be defensible before God and man. **Psalm 24:1*
+* states that the earth is the Lord's and everything in it.
 
 Therefore capital deployment becomes an act of obedience.
 

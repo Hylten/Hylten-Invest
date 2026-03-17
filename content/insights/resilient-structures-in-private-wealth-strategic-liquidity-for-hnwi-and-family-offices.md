@@ -124,7 +124,8 @@ However, liquidity against digital assets remains inconsistent across the market
 
 Families hold meaningful positions but cannot always Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
-Hyltén Invest offers crypto backed Monetization Architecture with a minimum threshold of 2,000,000 USD.
+Hyltén Invest offers crypto backed Monetization Architecture with a minimum threshold of 2,000,00
+0 USD.
 
 This threshold ensures that we operate within a segment designed for disciplined, professionally managed portfolios.
 
@@ -148,7 +149,8 @@ These positions are valuable.
 
 They are also illiquid when held without a liquidity instrument.
 
-Hyltén Invest provides public share Asset-Backed Frameworks with a minimum threshold of 5,000,000 USD.
+Hyltén Invest provides public share Asset-Backed Frameworks with a minimum threshold of 5,000,00
+0 USD.
 
 This ensures operational focus on substantial portfolios where liquidity can be structured without disturbing market exposure or long term ownership intent.
 

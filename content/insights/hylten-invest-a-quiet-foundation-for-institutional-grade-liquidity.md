@@ -88,7 +88,8 @@ The sector is fast, chaotic, and often unpredictable.
 
 For this reason, Hylten Invest positions its crypto Asset-Backed Frameworks offering with clarity.
 
-Only clients with a minimum of 2,000,000 USD in crypto collateral are eligible.
+Only clients with a minimum of 2,000,00
+0 USD in crypto collateral are eligible.
 
 This threshold is intentional.
 
@@ -110,7 +111,8 @@ They also represent a mature and predictable collateral base when handled with p
 
 Hylten Invest allows qualified clients to borrow against public shares.
 
-The minimum threshold is 5,000,000 USD in equity value.
+The minimum threshold is 5,000,00
+0 USD in equity value.
 
 This threshold ensures that the Strategic Collateralization architecture remains aligned with institutional expectations, not retail oriented offerings.
 

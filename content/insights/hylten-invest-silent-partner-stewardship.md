@@ -24,13 +24,15 @@ The stewardship framework is the mechanism that sustains it.
 
 Hylten Invest’s relevance is not a function of scale in the modern sense.
 
-Its relevance is defined by its alignment with a legacy of responsibility. **Proverbs 13:22** situates this principle succinctly: A good man leaves an inheritance to his children's children.
+Its relevance is defined by its alignment with a legacy of responsibility. **Proverbs 13:22*
+* situates this principle succinctly: A good man leaves an inheritance to his children's children.
 
 The inheritance referenced is not limited to assets.
 
 It refers to the discipline required to build, defend, and transmit an ecosystem that allocates capital with purpose rather than appetite. 
 
-## PHASE 1 
+## PHASE 
+1 
 -  ## ## ## ## 
 
 ## THE REGIME SHIFT
@@ -77,7 +79,8 @@ Instead, it serves as a stabilizing anchor that evaluates whether the moral and 
 
 When the architecture holds, strategic introductions can then be executed with purpose. 
 
-## PHASE 2 
+## PHASE 
+2 
 -  ## ## ## ## 
 
 ## TECHNICAL MECHANICS
@@ -120,7 +123,8 @@ Instead, it verifies whether the operator respects the natural constraints of th
 
 This is balance-sheet ethics applied to industrial environments. 
 
-## PHASE 3 
+## PHASE 
+3 
 -  THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator.
 
 Its mandate is not to sell, promote, or solicit.
@@ -152,12 +156,14 @@ It protects the allocator from single-source bias and ensures that any ##
 
  or alignment is grounded in both operational realism and moral clarity. 
 
-## PHASE 4 
+## PHASE 
+4 
 -  ## 
 
 ## THE STEWARDSHIP FILTER Stewardship is not a metaphor.
 
-It is a governance system. **Genesis 2:15** provides the foundational pattern: 
+It is a governance system. **Genesis 2:15*
+* provides the foundational pattern: 
 
 ## THE MANDATE
 
@@ -184,7 +190,8 @@ Stewardship imposes controlled velocity to prevent distortion.
 -  Transparency Requirements Operators must demonstrate technical transparency, accounting clarity, and governance maturity. 
 -  Alignment with Eternal Principles Stewardship recognizes that capital is entrusted, not owned.
 
-It must be deployed in a manner consistent with **Proverbs 21:5** which states that the plans of the diligent lead surely to abundance.
+It must be deployed in a manner consistent with **Proverbs 21:5*
+* which states that the plans of the diligent lead surely to abundance.
 
 These filters are applied before any strategic ## 
 
@@ -196,7 +203,8 @@ They ensure that capital flows into environments where moral stability supports 
 
 Without this integration, the allocator inherits risk that no financial structure can mitigate. 
 
-## PHASE 5 
+## PHASE 
+5 
 -  THE DECISION-MAKING LENS For UHNWIs, institutional LPs, and family investment offices, the primary question is not exposure to energy or industrial assets.
 
 The primary question is exposure to operators, systems, and partners who understand stewardship as a discipline rather than a slogan.

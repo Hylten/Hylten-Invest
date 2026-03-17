@@ -19,8 +19,10 @@ Heritage is a discipline.
 
 Stewardship is a covenant.
 
-Governance is the vessel that protects both. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."* 
--  **Psalm 33:11** Industrial families that forget this truth drift.
+Governance is the vessel that protects both. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
+* 
+-  **Psalm 33:11*
+* Industrial families that forget this truth drift.
 
 Those who remember it build enterprises that outlive wars, cycles, fashions, and even their own names. 
 
@@ -81,8 +83,10 @@ The founder is free; the successors are guided.
 
 Their freedom is constrained by the inherited covenant.
 
-This is not limitation; it is protection. *"Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen."* 
--  **Deuteronomy 4:9** A family that forgets loses the enterprise.
+This is not limitation; it is protection. *"Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen."
+* 
+-  **Deuteronomy 4:9*
+* A family that forgets loses the enterprise.
 
 A family that remembers multiplies it. ## 
 
@@ -92,7 +96,8 @@ Capital obeys structure.
 
 Successors follow the rails they inherit.
 
-The enterprise that survives 150 years does not do so by trusting that future generations will maintain discipline.
+The enterprise that survives 15
+0 years does not do so by trusting that future generations will maintain discipline.
 
 It survives by ensuring deviations carry consequences built into the financial architecture.
 
@@ -128,8 +133,10 @@ Innovate.
 
 Strengthen the fortress.
 
-The next generation does not inherit ease; they inherit duty. *"In all labour there is profit."* 
--  **Proverbs 14:23** Profit is not the idol.
+The next generation does not inherit ease; they inherit duty. *"In all labour there is profit."
+* 
+-  **Proverbs 14:23*
+* Profit is not the idol.
 
 Work is the discipline.
 
@@ -137,11 +144,14 @@ Value creation is the moral expression. ##
 
 ## PHASE IV: THE THREE VAULTS Every multi-generational enterprise must build three vaults of preservation: 
 
-1. **The Capital Vault** The structure protecting liquidity, reinvestment discipline, and capital allocation. 
+1. **The Capital Vault*
+* The structure protecting liquidity, reinvestment discipline, and capital allocation. 
 
-2. **The Governance Vault** The structure protecting decision integrity, long-horizon thinking, and moral boundaries. 
+2. **The Governance Vault*
+* The structure protecting decision integrity, long-horizon thinking, and moral boundaries. 
 
-3. **The Values Vault** The structure protecting the ethos of the enterprise: duty, stewardship, industriousness, service, and the Christian moral center.
+3. **The Values Vault*
+* The structure protecting the ethos of the enterprise: duty, stewardship, industriousness, service, and the Christian moral center.
 
 A legacy survives when all three vaults reinforce each other.
 
@@ -171,8 +181,11 @@ They seek permanence over visibility.
 
 They prioritize integrity over convenience.
 
-They sacrifice ego for generational stability. *"Moreover it is required in stewards, that a man be found faithful."* 
--  1 **Corinthians 4:2** Faithfulness is the benchmark.
+They sacrifice ego for generational stability. *"Moreover it is required in stewards, that a man be found faithful."
+* 
+-  
+1 **Corinthians 4:2*
+* Faithfulness is the benchmark.
 
 Not wealth.
 

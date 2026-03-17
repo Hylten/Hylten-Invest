@@ -22,7 +22,8 @@ This briefing outlines the core principles of sovereign capital architecture, th
 
 ## THE REGIME SHIFT
 
- The global capital regime entered a transition period between 2020 and 
+ The global capital regime entered a transition period between 202
+0 and 
 
 2025. The transition is not cyclical.
 
@@ -152,7 +153,8 @@ They stabilize the long horizon architecture.
 
 Theological Discipline Theology of capital is not metaphorical.
 
-It is a practical operating system rooted in historic Christian industrialism and Nordic stewardship culture. **Proverbs 13:22** remains the timeless directive.
+It is a practical operating system rooted in historic Christian industrialism and Nordic stewardship culture. **Proverbs 13:22*
+* remains the timeless directive.
 
 A good man leaves an inheritance to his children's children.
 

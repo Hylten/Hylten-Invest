@@ -17,7 +17,8 @@ The current regime is defined by a shift from index-driven abundance to an envir
 Family offices with generational identity are repositioning toward stewardship-based frameworks that prioritize asset hardening, Asset-Backed Frameworks, and continuity of mandate.
 
 These principles align closely with the Nordic industrial ethic that shaped the Spirit of Gnosjö: responsibility first, efficiency second, profit as the byproduct rather than the mission. 
--  **Proverbs 13:22** .
+-  **Proverbs 13:22*
+* .
 
 A good man leaves an inheritance to his children's children. ## ## ## ## 
 
@@ -70,13 +71,17 @@ Key reservoir mechanics:
 
 1. SAGD (Steam Assisted Gravity Drainage) 
 -  Dual horizontal well pairs enable controlled heating of bitumen. 
--  Recovery factors commonly range from 45 to 65 percent depending on reservoir thickness and permeability. 
+-  Recovery factors commonly range from 4
+5 to 6
+5 percent depending on reservoir thickness and permeability. 
 -  Reservoir performance is sensitive to steam-oil ratios and heat containment quality. 
 
 2. CSS (Cyclic Steam Stimulation) 
 -  Injection and production cycles function as temperature management loops. 
 -  Used in shallower or more geologically complex reservoirs with varying heterogeneity. 
--  Recovery factors typically 20 to 30 percent but with high repeatability over multi-year cycles. 
+-  Recovery factors typically 2
+0 to 3
+0 percent but with high repeatability over multi-year cycles. 
 
 3. Pressure and Decline Curve Stability 
 -  Thermal projects display flattening decline curves once steam chamber development is optimized. 
@@ -158,14 +163,16 @@ Family offices with a multi-generational identity operate from four stewardship 
 -  Allocation should echo this pattern. 
 
 3. The Moral Mandate 
--  Responsible dominion over resources is a biblical expectation, not an optional value. **Genesis 2:15** . 
+-  Responsible dominion over resources is a biblical expectation, not an optional value. **Genesis 2:15*
+* . 
 -  The allocator is a caretaker, not an extractor. 
 -  Hydrocarbon stewardship must align with efficiency, environmental responsibility, and transparency. 
 
 4. The Continuity Mandate 
 -  Generational transfer is not merely financial but cultural. 
 -  Capital carries identity. 
--  **Proverbs 22:1** .
+-  **Proverbs 22:1*
+* .
 
 A good name is to be chosen rather than great riches. 
 -  Allocation frameworks must reflect the family’s values, structure, and long-term purpose.

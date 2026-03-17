@@ -6,7 +6,8 @@ author: "Jonas Hyltén"
 slug: "stewardship-of-private-wealth-2026"
 --- 
 
-The capital vacuum shaping private wealth in 2026 is a structural consequence of governance realignment, institutional contraction, and regulatory drift.
+The capital vacuum shaping private wealth in 202
+6 is a structural consequence of governance realignment, institutional contraction, and regulatory drift.
 
 It is not driven by a shortage of opportunity.
 
@@ -54,7 +55,8 @@ Stewardship is continuous. ## ## ## ##
 
 ## TECHNICAL MECHANICS
 
- OF CAPITAL STEWARDSHIP Stewardship in 2026 is not a moral aspiration.
+ OF CAPITAL STEWARDSHIP Stewardship in 202
+6 is not a moral aspiration.
 
 It is an engineering discipline that governs how capital is protected, deployed, and operationalized.
 
@@ -140,7 +142,8 @@ It is a command.
 
 Capital is not a possession.
 
-It is a responsibility delegated by God, and that responsibility includes the duty to multiply without waste. **Proverbs 13:22** establishes the generational mandate.
+It is a responsibility delegated by God, and that responsibility includes the duty to multiply without waste. **Proverbs 13:22*
+* establishes the generational mandate.
 
 A steward must think in epochs, not quarters.
 
@@ -172,7 +175,8 @@ The stewardship filter requires the allocator to evaluate every opportunity thro
 
 Stewardship rejects such structures. 
 
-2. Does this deployment strengthen generational continuity An allocation that cannot endure volatility or provide compounding strategic positioning does not meet the standard of **Proverbs 13:22** . 
+2. Does this deployment strengthen generational continuity An allocation that cannot endure volatility or provide compounding strategic positioning does not meet the standard of **Proverbs 13:22*
+* . 
 
 3. Does this deployment reflect alignment between talent, timing, and terrain Stewardship requires coherence.
 
@@ -180,7 +184,9 @@ The allocator must operate in domains where their knowledge or partnerships prov
 
 ## THE ## 
 
-## DECISION MAKING LENS FOR 2026 The environment facing private wealth in 2026 is not defined by instability.
+## DECISION MAKING LENS FOR 202
+6 The environment facing private wealth in 202
+6 is not defined by instability.
 
 It is defined by divergence.
 

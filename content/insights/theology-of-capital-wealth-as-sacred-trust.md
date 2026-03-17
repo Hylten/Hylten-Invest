@@ -90,7 +90,9 @@ Reservoir behavior is governed by:
 -  Permeability vectors aligned with steam chamber propagation. 
 -  Viscosity reduction as a function of controlled heat input. 
 -  Predictable pressure windows that stabilize production. 
--  Recovery factors that range from 40 to 70 percent under optimized thermal operations.
+-  Recovery factors that range from 4
+0 to 7
+0 percent under optimized thermal operations.
 
 These are not speculative mechanisms.
 
@@ -166,7 +168,8 @@ It is a practical filter that ensures disciplined capital behavior.
 
 This filter operates across four dimensions: 
 
-1. Temporal discipline Long-horizon thinking governs investment discipline. **Proverbs 13:22** defines the generational mandate.
+1. Temporal discipline Long-horizon thinking governs investment discipline. **Proverbs 13:22*
+* defines the generational mandate.
 
 A good man leaves an inheritance not only of assets but of stability. 
 

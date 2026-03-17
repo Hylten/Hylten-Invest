@@ -14,7 +14,8 @@ He begins with survival.
 
 He begins with continuity.
 
-He begins with the family-level mandate encoded in **Proverbs 13:22** : a good man leaves an inheritance to his children's children.
+He begins with the family-level mandate encoded in **Proverbs 13:22*
+* : a good man leaves an inheritance to his children's children.
 
 That is not sentiment.
 
@@ -207,19 +208,26 @@ Simple.
 
 Unforgiving.
 
-Tier 1 Cash-generative real assets without demand elasticity.
+Tier 
+1 Cash-generative real assets without demand elasticity.
 
-Tier 2 Private credit secured by industrial throughput or subsurface extraction.
+Tier 
+2 Private credit secured by industrial throughput or subsurface extraction.
 
-Tier 3 Secondary liquidity rights, GP-led continuation vehicles, conservative refinancing rails.
+Tier 
+3 Secondary liquidity rights, GP-led continuation vehicles, conservative refinancing rails.
 
-Tier 4 Anything that requires goodwill, narrative compression, or beta.
+Tier 
+4 Anything that requires goodwill, narrative compression, or beta.
 
-The steward allocates to Tier 1 and Tier 
+The steward allocates to Tier 
+1 and Tier 
 
-2. He occasionally deploys into Tier 3 if the counterparty architecture is sound.
+2. He occasionally deploys into Tier 
+3 if the counterparty architecture is sound.
 
-Tier 4 is avoided unless the family is engaging in strategic positioning or next-generation skill development.
+Tier 
+4 is avoided unless the family is engaging in strategic positioning or next-generation skill development.
 
 This hierarchy is not ideological.
 
@@ -477,7 +485,8 @@ If liquidity dies when the principal dies, stewardship failed.
 
 Liquidity is calling.
 
-Liquidity is obedience to **Proverbs 13:22** .
+Liquidity is obedience to **Proverbs 13:22*
+* .
 
 This is why Hylten‑Invest refuses complexity dressed as sophistication.
 
@@ -494,6 +503,7 @@ Understanding preserves continuity.
 -  
 -  We close with a mandate, not a summary.
 
-Liquidity ratio target for long-horizon conservative stewards: 1.35 coverage against five-year forward obligations.
+Liquidity ratio target for long-horizon conservative stewards: 1.3
+5 coverage against five-year forward obligations.
 
 Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

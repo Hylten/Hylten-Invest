@@ -40,8 +40,10 @@ They refined.
 
 They upheld the covenant between labor, capital, and faith.
 
-Their factories became temples of order, discipline, and transformation. *"Commit thy works unto the Lord, and thy thoughts shall be established."* 
--  **Proverbs 16:3** This is the core.
+Their factories became temples of order, discipline, and transformation. *"Commit thy works unto the Lord, and thy thoughts shall be established."
+* 
+-  **Proverbs 16:3*
+* This is the core.
 
 This is the engine.
 
@@ -257,8 +259,10 @@ They saw the enterprise not as a personal asset but as a multi-generational trus
 
 The Bible formed the governance code.
 
-The factory floor translated it into motion. *"Seest thou a man diligent in his business? he shall stand before kings."* 
--  **Proverbs 22:29** The Nordics built their productivity miracle on exactly that.
+The factory floor translated it into motion. *"Seest thou a man diligent in his business? he shall stand before kings."
+* 
+-  **Proverbs 22:29*
+* The Nordics built their productivity miracle on exactly that.
 
 And this is where the modern misalignment begins.
 

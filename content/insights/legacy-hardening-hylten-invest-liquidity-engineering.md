@@ -51,7 +51,8 @@ Industrial families that optimized for expansion often built wide but shallow li
 Families that optimized for stewardship built narrow but deep liquidity, capable of sustaining multi generational transfer without forced asset liquidation.
 
 The theology of capital that shaped these decisions is simple. 
--  **Proverbs 13:22** notes that a good man leaves an inheritance to his children's children.
+-  **Proverbs 13:22*
+* notes that a good man leaves an inheritance to his children's children.
 
 This is not sentiment.
 

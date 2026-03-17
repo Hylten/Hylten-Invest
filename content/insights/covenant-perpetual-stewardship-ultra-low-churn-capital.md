@@ -28,10 +28,13 @@ High churn destroys lineage.
 
 High churn creates orphans-financially, institutionally, spiritually.
 
-You do not build a forge in 1874 and then trade the forge every seven years because a committee demands a mark-to-market exit.
+You do not build a forge in 187
+4 and then trade the forge every seven years because a committee demands a mark-to-market exit.
 
-You build it once, and your children’s children inherit the wealth, the craft, the discipline, and the obligation. *"The counsel of the Lord standeth for ever, the thoughts of His heart to all generations."* 
--  **Psalm 33:11** This is the operating system behind ultra‑low‑churn capital: permanence as design, not inertia.
+You build it once, and your children’s children inherit the wealth, the craft, the discipline, and the obligation. *"The counsel of the Lord standeth for ever, the thoughts of His heart to all generations."
+* 
+-  **Psalm 33:11*
+* This is the operating system behind ultra‑low‑churn capital: permanence as design, not inertia.
 
 Continuity as duty, not hesitation.
 
@@ -139,8 +142,10 @@ Discipline.
 
 The Protestant work ethic was never about toil; it was about order.
 
-It was about clarity of duty before God. *"Commit thy works unto the Lord, and thy thoughts shall be established."* 
--  **Proverbs 16:3** Ultra‑low‑churn capital is industrial in spirit even when applied to digital or intellectual holdings.
+It was about clarity of duty before God. *"Commit thy works unto the Lord, and thy thoughts shall be established."
+* 
+-  **Proverbs 16:3*
+* Ultra‑low‑churn capital is industrial in spirit even when applied to digital or intellectual holdings.
 
 Its demand is the same: you finish what you start, and you build for people not yet born.
 
@@ -225,8 +230,11 @@ Perpetual stewardship vehicles revive this ethic.
 
 They convert moral clarity into financial endurance. *"Blessed is the man that feareth the Lord, that delighteth greatly in His commandments.
 
-His seed shall be mighty upon earth."* 
--  **Psalm 112:1** -2 The seed is the enterprise.
+His seed shall be mighty upon earth."
+* 
+-  **Psalm 112:1*
+* -
+2 The seed is the enterprise.
 
 The might is the continuity.
 
@@ -345,8 +353,10 @@ The Principal’s responsibility is simple:
 
 4. Build the sovereign architecture that endures.
 
-This is the calling. *"The wise shall inherit glory."* 
--  **Proverbs 3:35** The glory is not personal.
+This is the calling. *"The wise shall inherit glory."
+* 
+-  **Proverbs 3:35*
+* The glory is not personal.
 
 The glory is generational continuity.
 

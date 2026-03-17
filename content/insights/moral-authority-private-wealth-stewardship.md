@@ -21,7 +21,8 @@ Wealth without mandate decays.
 Wealth with mandate compounds.
 
 A good man leaves an inheritance to his children’s children ( 
--  **Proverbs 13:22** ).
+-  **Proverbs 13:22*
+* ).
 
 ## THE MANDATE
 
@@ -69,7 +70,8 @@ The question then becomes: how does moral authority operate within contemporary 
 
 The answer requires frameworks, not metaphors.
 
-The F‑Framework 2.0 clarifies this: moral authority sits at the intersection of structure, jurisdiction, and telos.
+The F‑Framework 2.
+0 clarifies this: moral authority sits at the intersection of structure, jurisdiction, and telos.
 
 Capital must know why it exists, where it sits, and what it is allowed to become.
 

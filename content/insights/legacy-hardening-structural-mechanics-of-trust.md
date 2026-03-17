@@ -19,7 +19,8 @@ It is a technical asset class subject to design, hardening, and governance.
 This briefing addresses the structural mechanics of trust within generational capital systems and the methodology required to build enduring institutional architectures.
 
 The perspective is grounded in the Nordic industrial tradition, the Spirit of Gnosjö, and the doctrine that capital must be stewarded with purpose, discipline, and long-term fidelity. 
--  **Proverbs 13:22** establishes the thesis: "A good man leaves an inheritance to his children's children." This is not sentiment.
+-  **Proverbs 13:22*
+* establishes the thesis: "A good man leaves an inheritance to his children's children." This is not sentiment.
 
 It is a design specification for the balance sheet of a multi-generational enterprise. ## ## ## ## 
 
@@ -109,7 +110,8 @@ They are free to do what is required to preserve
 
 .
 
-This is consistent with **Proverbs 22:29** , which ties excellence to authority.
+This is consistent with **Proverbs 22:29*
+* , which ties excellence to authority.
 
 Competence precedes command. 
 
@@ -202,7 +204,8 @@ Trust creates capital velocity without risk amplification.
 
 In private markets, this is a structural advantage. ## 
 
-## DECISION FRAMEWORK FOR THE ALLOCATOR The allocator navigating 2026 faces a binary choice.
+## DECISION FRAMEWORK FOR THE ALLOCATOR The allocator navigating 202
+6 faces a binary choice.
 
 Build structures that endure, or operate within the volatility of short-term cycles.
 

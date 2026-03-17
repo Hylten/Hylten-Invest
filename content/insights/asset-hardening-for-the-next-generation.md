@@ -18,7 +18,8 @@ They endured because they institutionalized the mechanics that protected liquidi
 
 Modern markets are entering a regime where this discipline is no longer optional.
 
-The post 2020 monetary period created surface level wealth effects without reinforcing the underlying balance sheet architecture.
+The post 202
+0 monetary period created surface level wealth effects without reinforcing the underlying balance sheet architecture.
 
 Many families today hold fragmented assets, siloed businesses, and legacy holdings without a corresponding liquidity design.
 
@@ -162,7 +163,8 @@ The Spirit of Gnosjö shaped generations of Nordic industrial families through a
 
 Capital was not accumulated for personal expansion but reinvested into productive systems that strengthened the region.
 
-This principle aligns with the biblical mandate found in **Proverbs 13:22** which emphasizes the responsibility to build structures that endure beyond the individual.
+This principle aligns with the biblical mandate found in **Proverbs 13:22*
+* which emphasizes the responsibility to build structures that endure beyond the individual.
 
 The family balance sheet should not be a collection of unrelated assets.
 

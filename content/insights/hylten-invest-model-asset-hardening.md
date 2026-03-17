@@ -12,7 +12,8 @@ It is not a failure of operational talent.
 
 It is a failure of capital structure design.
 
-Counter Intuitive Truth: The most resilient European assets in 2026 are not the highly financialized technology firms, but the industrial operators with measurable production physics, verifiable asset wear curves, and predictable reinvestment cycles.
+Counter Intuitive Truth: The most resilient European assets in 202
+6 are not the highly financialized technology firms, but the industrial operators with measurable production physics, verifiable asset wear curves, and predictable reinvestment cycles.
 
 These are the entities most capable of asset hardening when supported by disciplined Asset-Backed Frameworks rather than speculative valuation frameworks. ## ## ## ## 
 
@@ -113,7 +114,8 @@ Stewardship governance requires:
 -  Reinforcement of operational dignity and workforce craftsmanship. 
 -  Covenant with the community ecosystem that surrounds the asset.
 
-Scripture affirms this discipline. **Proverbs 13:22** articulates the principle: A good person leaves an inheritance to their children's children.
+Scripture affirms this discipline. **Proverbs 13:22*
+* articulates the principle: A good person leaves an inheritance to their children's children.
 
 This is not sentiment.
 
@@ -178,7 +180,8 @@ It is a neutral resource whose value is determined by its application.
 
 Stewardship elevates capital from consumption to purpose. ## 
 
-## THE ALLOCATOR DECISION LENS The allocator evaluating industrial exposure in 2026 must not rely on historical portfolio templates.
+## THE ALLOCATOR DECISION LENS The allocator evaluating industrial exposure in 202
+6 must not rely on historical portfolio templates.
 
 The environment has shifted.
 
@@ -202,7 +205,8 @@ A Confidential Strategy Audit provides clarity on:
 -  Regions or sectors where stewardship aligned governance enhances durability. 
 -  Alignment pathways with Nordic operational excellence models.
 
-Allocators seeking to navigate the next 10 year capital regime benefit from this calibration.
+Allocators seeking to navigate the next 1
+0 year capital regime benefit from this calibration.
 
 The shift toward real assets, industrial tangibility, and stewardship governance is accelerating.
 

@@ -113,7 +113,9 @@ We serve:
 -  Institutional‑scale private clients. 
 -  Stewards of multi‑generational capital.
 
-Our Strategic Collateralization minimums reflect this focus. 2,000,000 USD for crypto [Capital Structuring]([Roials Capital](https://roialscapital.com/)). 5,000,000 USD for public share Institutional Liquidity Paths.
+Our Strategic Collateralization minimums reflect this focus. 2,000,00
+0 USD for crypto [Capital Structuring]([Roials Capital](https://roialscapital.com/)). 5,000,00
+0 USD for public share Institutional Liquidity Paths.
 
 These thresholds ensure alignment.
 

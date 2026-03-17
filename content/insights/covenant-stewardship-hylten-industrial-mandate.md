@@ -18,7 +18,8 @@ Built in small rooms.
 
 Forged in Gnosjö workshops.
 
-Hardened through scarcity, responsibility, and the old truth of **Proverbs 13:22** : A good man leaves an inheritance to his children’s children.
+Hardened through scarcity, responsibility, and the old truth of **Proverbs 13:22*
+* : A good man leaves an inheritance to his children’s children.
 
 This mandate is not soft.
 
@@ -273,7 +274,8 @@ Wealth without stewardship collapses into consumption.
 
 Industry without covenant collapses into fragility.
 
-Only inheritance with duty sustains multi-generational operations. **Proverbs 13:22** is not merely spiritual wisdom.
+Only inheritance with duty sustains multi-generational operations. **Proverbs 13:22*
+* is not merely spiritual wisdom.
 
 It is economic architecture.
 

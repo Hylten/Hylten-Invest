@@ -50,8 +50,11 @@ Legacy ensures that the industrial ethic does not dissolve into convenience.
 
 It keeps the forge lit.
 
-It teaches the children’s children who they are and what they guard. *"Moreover it is required in stewards, that a man be found faithful."* 
--  1 **Corinthians 4:2** Internal Logic.
+It teaches the children’s children who they are and what they guard. *"Moreover it is required in stewards, that a man be found faithful."
+* 
+-  
+1 **Corinthians 4:2*
+* Internal Logic.
 
 Trust behaves like retained earnings.
 

@@ -36,8 +36,10 @@ Value requires backbone.
 
 Legacy requires order.
 
-Enterprise requires truth. *"He that walketh uprightly walketh surely."* 
--  **Proverbs 10:9** Principal logic: 
+Enterprise requires truth. *"He that walketh uprightly walketh surely."
+* 
+-  **Proverbs 10:9*
+* Principal logic: 
 -  Authority is not declared.
 
 Authority is inherited, proven, tested under pressure. 

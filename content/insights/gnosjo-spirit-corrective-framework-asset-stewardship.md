@@ -38,7 +38,9 @@ It is rooted in inconsistent regulatory signaling, ESG driven capital constraint
 
 2. The misalignment between hedge fund style capital and industrial cycle capital.
 
-Short horizon capital is mispriced for sectors that require 8 to 20 year operational visibility.
+Short horizon capital is mispriced for sectors that require 
+8 to 2
+0 year operational visibility.
 
 This creates balance sheet imbalances where assets with strong physical durability are financed through instruments designed for tactical churn rather than operational stewardship. 
 
@@ -80,7 +82,8 @@ Businesses are structured around multi generational continuity.
 
 Leadership operates with an obligation to preserve and expand assets for future stewards.
 
-This aligns with the principle in **Proverbs 13:22** that a good individual leaves an inheritance for the following generations.
+This aligns with the principle in **Proverbs 13:22*
+* that a good individual leaves an inheritance for the following generations.
 
 The inheritance is not merely financial.
 
@@ -118,7 +121,8 @@ WHY THE GNOSJÖ SPIRIT CORRECTS MARKET MISALIGNMENT The Alberta energy landscape
 
 North American Energy Operators, NAEO, functions within a capital vacuum created by the withdrawal of conventional lenders and the misallocation of global capital to fad driven sustainability narratives.
 
-The lowest risk barrels in 2026 are heavy conventional assets with stable decline curves.
+The lowest risk barrels in 202
+6 are heavy conventional assets with stable decline curves.
 
 The issue is not geological uncertainty.
 
@@ -232,7 +236,9 @@ Nordic industrial systems optimized for preservation of productive capacity.
 
 In a global environment increasingly shaped by entropy, scarcity of expertise, and geopolitical instability, stewardship becomes a competitive advantage.
 
-The obligation assigned in 1 **Corinthians 4:2** that individuals who have been entrusted with resources must prove faithful is not sentimental.
+The obligation assigned in 
+1 **Corinthians 4:2*
+* that individuals who have been entrusted with resources must prove faithful is not sentimental.
 
 It is operational.
 

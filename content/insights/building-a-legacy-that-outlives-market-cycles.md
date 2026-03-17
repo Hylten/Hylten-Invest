@@ -24,7 +24,8 @@ This is the essence of building a legacy that outlives market cycles.
 
 ## Crypto Strategic Collateralization for Institutional‑Grade Clients Crypto markets continue to evolve, but the principles of stewardship do not.
 
-Hylten‑Invest provides crypto Monetization Architecture only at a minimum threshold of 2,000,000 USD.
+Hylten‑Invest provides crypto Monetization Architecture only at a minimum threshold of 2,000,00
+0 USD.
 
 This maintains an institutional posture and ensures that the Asset-Backed Frameworks environment remains appropriate for HNWI and UHNW clientele.
 
@@ -44,7 +45,8 @@ Crypto Monetization Architecture becomes another instrument in the architecture 
 
 Yet selling these positions to create liquidity can interrupt decades of compounding and generational planning.
 
-Hylten‑Invest provides public share Strategic Collateralization beginning at a minimum of 5,000,000 USD.
+Hylten‑Invest provides public share Strategic Collateralization beginning at a minimum of 5,000,00
+0 USD.
 
 This ensures a high threshold consistent with the clientele we serve and the scale required for proper institutional structuring.
 
@@ -231,7 +233,9 @@ It is about liquidity.
 
 It is about discipline, conservatism, and clarity.
 
-Hylten‑Invest provides private credit Strategic Collateralization, asset based Monetization Architecture, crypto Strategic Collateralization beginning at 2,000,000 USD, and public share Strategic Collateralization beginning at 5,000,000 USD.
+Hylten‑Invest provides private credit Strategic Collateralization, asset based Monetization Architecture, crypto Strategic Collateralization beginning at 2,000,00
+0 USD, and public share Strategic Collateralization beginning at 5,000,00
+0 USD.
 
 These are tools for families who understand that long‑term stewardship requires quiet, controlled, and intentional architecture.
 

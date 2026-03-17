@@ -19,7 +19,8 @@ The following briefing establishes a stewardship anchored liquidity philosophy f
 The structure reflects institutional navigation intelligence rather than product positioning. 
 -  
 -  
--  -------------------------------------------------
+-  ------------------------------------------------
+-
 -  
 -  
 -  
@@ -68,12 +69,14 @@ Generational capital, by nature, cannot tolerate dependency.
 
 The stewardship perspective views liquidity as a tool of responsibility, not speculation.
 
-What modern finance calls liquidity optionality, the Christian industrial legacy simply called preparedness. **Proverbs 21:20** describes the principle directly.
+What modern finance calls liquidity optionality, the Christian industrial legacy simply called preparedness. **Proverbs 21:20*
+* describes the principle directly.
 
 Wise families store resources not for complacency but for duty. 
 -  
 -  
--  -------------------------------------------------
+-  ------------------------------------------------
+-
 -  
 -  
 -  
@@ -149,7 +152,8 @@ Liquidity mismatch is one of the most common destroyers of family capital.
 Strategic Collateralization aligns each layer with its intended operational purpose. 
 -  
 -  
--  -------------------------------------------------
+-  ------------------------------------------------
+-
 -  
 -  
 -  
@@ -185,7 +189,8 @@ For UHNWIs, institutional LPs, and family enterprises operating internationally,
 Roials Capital resolves this through strategy consultations that map liquidity velocity, capital obligations, jurisdictional constraints, and opportunity zones. 
 -  
 -  
--  -------------------------------------------------
+-  ------------------------------------------------
+-
 -  
 -  
 -  
@@ -232,7 +237,8 @@ A steward knows which assets are for productivity, which are for liquidity, and 
 
 Confusion in hierarchy produces misallocation. 
 
-5. Alignment with Scripture. **Proverbs 13:22** presents a clear mandate.
+5. Alignment with Scripture. **Proverbs 13:22*
+* presents a clear mandate.
 
 A wise person leaves an inheritance not only to children but to grandchildren.
 
@@ -243,7 +249,8 @@ The stewardship filter ensures that liquidity is not maximized for convenience b
 This is the philosophical foundation beneath the Capital Structuring frameworks described earlier. 
 -  
 -  
--  -------------------------------------------------
+-  ------------------------------------------------
+-
 -  
 -  
 -  

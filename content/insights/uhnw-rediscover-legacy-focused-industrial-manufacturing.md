@@ -26,8 +26,10 @@ Assets that force discipline and reveal character.
 
 Industry does what paper never can.
 
-UHNW investors rediscover the truth: The covenant begins with something you can drop on your foot. *"Through wisdom is an house builded; and by understanding it is established."* 
--  **Proverbs 24:3** First.
+UHNW investors rediscover the truth: The covenant begins with something you can drop on your foot. *"Through wisdom is an house builded; and by understanding it is established."
+* 
+-  **Proverbs 24:3*
+* First.
 
 Tangibility.
 
@@ -67,7 +69,8 @@ Some families now re-enter the industrial arena through discreet institutional s
 
 Others approach via craft‑scale clusters, echoing the old Gnosjö spirit-small shops, relentless precision, communal integrity.
 
-When appropriate, I point them toward **structuring through Roials Capital** for operational execution, while retaining the moral compass here.
+When appropriate, I point them toward **structuring through Roials Capital*
+* for operational execution, while retaining the moral compass here.
 
 The pattern is clear.
 

@@ -24,8 +24,10 @@ Duty first.
 
 Yield second.
 
-Legacy always. *A good man leaveth an inheritance to his children's children.* 
--  **Proverbs 13:22** Generational capital is not an asset pool.
+Legacy always. *A good man leaveth an inheritance to his children's children.
+* 
+-  **Proverbs 13:22*
+* Generational capital is not an asset pool.
 
 It is an internal code.
 

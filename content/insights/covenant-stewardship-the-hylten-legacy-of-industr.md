@@ -24,7 +24,9 @@ It is inherited.
 
 It is forged through a century of Christian industrial order where ownership meant responsibility and responsibility meant obedience to a higher mandate.
 
-In **Proverbs 13:22** we read: *A good man leaves an inheritance to his children's children.* This is not an aspiration.
+In **Proverbs 13:22*
+* we read: *A good man leaves an inheritance to his children's children.
+* This is not an aspiration.
 
 It is a command.
 
@@ -50,9 +52,11 @@ It leans toward order or toward decay.
 
 Toward covenant or toward fragmentation.
 
-From **Genesis 1:28** : *Be fruitful and multiply.
+From **Genesis 1:28*
+* : *Be fruitful and multiply.
 
-Fill the earth and subdue it.* This is a directive for construction and dominion.
+Fill the earth and subdue it.
+* This is a directive for construction and dominion.
 
 It is not metaphorical.
 
@@ -119,9 +123,11 @@ Not merely a financial one.
 
 For Hyltén Invest it is spiritual.
 
-The steward is commanded to fortify what God has placed under his authority. **Matthew 25:21** : *You have been faithful over a little.
+The steward is commanded to fortify what God has placed under his authority. **Matthew 25:21*
+* : *You have been faithful over a little.
 
-I will set you over much.* Faithfulness demands reinforcement.
+I will set you over much.
+* Faithfulness demands reinforcement.
 
 Weak structures dishonor 
 
@@ -183,7 +189,10 @@ For Hyltén Invest, institutional readiness is an extension of faithfulness.
 
 Order is a form of reverence.
 
-The apostle Paul wrote in 1 **Corinthians 14:40** : *All things should be done decently and in order.* This underpins the firm's operational architecture.
+The apostle Paul wrote in 
+1 **Corinthians 14:40*
+* : *All things should be done decently and in order.
+* This underpins the firm's operational architecture.
 
 Documentation must be lucid.
 
@@ -310,9 +319,11 @@ It is why the covenant strengthens with each deployment.
 
 ## Generational Transfer and the Weight of Inheritance Christian conservatism does not treat inheritance as optional.
 
-Inheritance is obligation. **Psalm 112:2** : *His offspring will be mighty in the land.
+Inheritance is obligation. **Psalm 112:2*
+* : *His offspring will be mighty in the land.
 
-The generation of the upright will be blessed.* This verse establishes continuity.
+The generation of the upright will be blessed.
+* This verse establishes continuity.
 
 It ties righteousness to economic strength across time.
 

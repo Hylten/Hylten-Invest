@@ -16,7 +16,8 @@ The allocator who interprets this regime through a stewardship lens gains struct
 
 ## THE REGIME SHIFT
 
- Wealth preservation in 2026 operates within a fractured macro architecture.
+ Wealth preservation in 202
+6 operates within a fractured macro architecture.
 
 Capital concentration in algorithmic markets has intensified.
 
@@ -26,7 +27,8 @@ Interconnected geopolitical systems create nonlinear shocks.
 
 In this environment, traditional safe harbors are no longer guaranteed.
 
-The allocator cannot rely on the heuristics that governed post-2008 wealth strategies.
+The allocator cannot rely on the heuristics that governed post-200
+8 wealth strategies.
 
 The new landscape is defined by three structural drivers. 
 
@@ -141,7 +143,8 @@ The stewardship filter consists of four benchmarks.
 
 1. Resource Integrity Every allocation decision must preserve the integrity of the capital entrusted.
 
-This aligns with **Proverbs 13:22** .
+This aligns with **Proverbs 13:22*
+* .
 
 Integrity is measured by prudence, not ambition. 
 

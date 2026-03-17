@@ -18,7 +18,8 @@ A worldview.
 
 A covenantal stance toward capital marked by restraint, clarity, and fidelity.
 
-Families that endure-three generations, four, five-share one structural constant: disciplined capital formation anchored in moral authority rather than opportunistic yield hunting. **Proverbs 13:22** : A good man leaves an inheritance to his children's children.
+Families that endure-three generations, four, five-share one structural constant: disciplined capital formation anchored in moral authority rather than opportunistic yield hunting. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children's children.
 
 The text is mandate.
 

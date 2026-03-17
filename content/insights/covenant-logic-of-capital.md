@@ -42,8 +42,10 @@ Work forged into value.
 
 Then value forged into legacy.
 
-This is the sovereign architecture of wealth that endures. *"The integrity of the upright shall guide them."* 
--  **Proverbs 11:3** A sovereign family does not allocate from emotion.
+This is the sovereign architecture of wealth that endures. *"The integrity of the upright shall guide them."
+* 
+-  **Proverbs 11:3*
+* A sovereign family does not allocate from emotion.
 
 It allocates from mandate.
 

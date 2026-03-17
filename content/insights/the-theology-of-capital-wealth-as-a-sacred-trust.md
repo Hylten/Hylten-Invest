@@ -44,7 +44,8 @@ Not as a service provider.
 
 But as a custodian of the capital entrusted to him by Providence. 
 
-## Capital Under Covenant **Psalm 24:1** “The earth is the Lord’s.
+## Capital Under Covenant **Psalm 24:1*
+* “The earth is the Lord’s.
 
 And all it contains.” The origin of capital is divine ownership.
 
@@ -72,7 +73,8 @@ Christian owners understand its morality.
 
 The Hyltén Invest doctrine fuses both. 
 
-## Generational Wealth as Obligation **Proverbs 13:22** “A good man leaves an inheritance to his children’s children.” Generational wealth is not accumulation.
+## Generational Wealth as Obligation **Proverbs 13:22*
+* “A good man leaves an inheritance to his children’s children.” Generational wealth is not accumulation.
 
 It is continuity.
 
@@ -128,7 +130,8 @@ It is about clarity.
 
 Clarity that your capital is ready to operate without friction. 
 
-## Stewardship as Operational Philosophy **Luke 12:48** “To whom much is given.
+## Stewardship as Operational Philosophy **Luke 12:48*
+* “To whom much is given.
 
 Much will be required.” Stewardship requires velocity, not stagnation.
 
@@ -321,7 +324,8 @@ Less fashionable.
 
 But its survival record is unmatched. 
 
-## Wealth as Witness **Matthew 5:16** “Let your light shine before men.
+## Wealth as Witness **Matthew 5:16*
+* “Let your light shine before men.
 
 That they may see your good works.” Wealth is witness.
 

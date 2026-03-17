@@ -28,7 +28,8 @@ The intent is institutional clarity for allocators who manage the burdens and pr
 
 ## THE REGIME SHIFT
 
- The post 2020 capital cycle introduced a structural imbalance in the energy sector.
+ The post 202
+0 capital cycle introduced a structural imbalance in the energy sector.
 
 Western capital providers shifted aggressively toward policy aligned renewables, not from an evaluation of risk weighted returns, but from reputational calculus and regulatory pressure.
 
@@ -148,7 +149,8 @@ It is governance.
 
 It is the disciplined management of resources with the intent of strengthening future generations.
 
-The theology of capital recognizes that wealth is not accumulated for consumption but entrusted for productive use. **Proverbs 13:22** states that a good person leaves an inheritance to children and grandchildren.
+The theology of capital recognizes that wealth is not accumulated for consumption but entrusted for productive use. **Proverbs 13:22*
+* states that a good person leaves an inheritance to children and grandchildren.
 
 The verse is not merely ethical guidance.
 

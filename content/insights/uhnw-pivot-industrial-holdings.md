@@ -38,8 +38,10 @@ The conversation has changed.
 
 The architecture has shifted.
 
-A new seriousness governs the room. *"Remove not the ancient landmark, which thy fathers have set."* 
--  **Proverbs 22:28** This is not nostalgia.
+A new seriousness governs the room. *"Remove not the ancient landmark, which thy fathers have set."
+* 
+-  **Proverbs 22:28*
+* This is not nostalgia.
 
 This is governance.
 
@@ -82,7 +84,8 @@ And the UHNWI has started asking a question no PE fund wants asked: “Why am I 
 It breaks narratives.
 
 It breaks fee structures. ===== STRUCTURAL ANALYSIS ===== The pivot toward multi-decade industrial holdings is powered by five structural realities that cannot be ignored by any Principal operating at institutional clarity. 
--  1 
+-  
+1 
 -  Industrial assets carry a moral center that transactional portfolios lack.
 
 They solve real problems.
@@ -91,7 +94,8 @@ They serve real communities.
 
 They create real work.
 
-Markets trust them because they *deserve* trust.
+Markets trust them because they *deserve
+* trust.
 
 The UHNWI has realized: moral assets outperform immoral ones over time.
 
@@ -100,7 +104,8 @@ Not by sentiment.
 By consequence.
 
 Where character exists, entropy retreats. 
--  2 
+-  
+2 
 -  Industrial holdings allow jurisdictional agility without risking operational integrity.
 
 A private equity fund cannot pivot jurisdictions mid-cycle without destabilizing everything from LP agreements to tax domiciles to waterfall structures.
@@ -110,20 +115,24 @@ A sovereign industrial holding can reposition its cap table, its governance arc,
 In a world where jurisdictions are diverging, this is not a luxury.
 
 It is survival. 
--  3 
+-  
+3 
 -  Free enterprise flourishes only when the holder of capital is also the holder of responsibility.
 
 Short-horizon PE is fundamentally structured around exit, not accountability.
 
 Industrial holdings reverse the polarity: the Principal carries the weight.
 
-And the weight creates strength. *"In all labour there is profit, but the talk of the lips tendeth only to poverty."* 
--  **Proverbs 14:23** This is not theoretical.
+And the weight creates strength. *"In all labour there is profit, but the talk of the lips tendeth only to poverty."
+* 
+-  **Proverbs 14:23*
+* This is not theoretical.
 
 This is industrial mathematics.
 
 Responsibility compounds. 
--  4 
+-  
+4 
 -  The free market rewards those who build, not those who recycle.
 
 Private equity, at its worst, becomes financial recycling.
@@ -143,7 +152,8 @@ These are not assets.
 They are covenants.
 
 When a Principal holds a covenant, the market responds with trust, and trust is the most undervalued asset class in modern finance. 
--  5 
+-  
+5 
 -  Industrial holdings are the only structure capable of producing a true generational echo.
 
 Private equity produces returns.
@@ -228,21 +238,25 @@ A force grounded in covenant theology, industrial realism, and intergenerational
 
 Consider the four layers of sovereignty regained when an UHNWI pivots into long-duration industrial architecture: 
 
-1. **Sovereignty of time** Time becomes an ally, not an enemy.
+1. **Sovereignty of time*
+* Time becomes an ally, not an enemy.
 
 The Principal can compound patiently, refine systems, and build moats. 
 
-2. **Sovereignty of culture** Industrial culture can be shaped and preserved.
+2. **Sovereignty of culture*
+* Industrial culture can be shaped and preserved.
 
 Values become operational reality. 
 
-3. **Sovereignty of governance** No LP board.
+3. **Sovereignty of governance*
+* No LP board.
 
 No artificial horizons.
 
 Pure governance aligned with long-term value creation. 
 
-4. **Sovereignty of succession** A child can inherit stewardship, not paperwork.
+4. **Sovereignty of succession*
+* A child can inherit stewardship, not paperwork.
 
 They inherit the rhythm, not the exit memo.
 
@@ -250,8 +264,10 @@ This is power.
 
 This is architecture.
 
-This is the return of the old wisdom. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."* 
--  **Psalm 33:11** ===== THE GNOSJÖ PRINCIPLE ===== In Sweden’s Gnosjö region, enterprise is not a financial act.
+This is the return of the old wisdom. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
+* 
+-  **Psalm 33:11*
+* ===== THE GNOSJÖ PRINCIPLE ===== In Sweden’s Gnosjö region, enterprise is not a financial act.
 
 It is a communal covenant.
 

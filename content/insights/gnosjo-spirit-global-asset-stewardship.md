@@ -18,7 +18,8 @@ It provides a stabilizing logic for asset stewardship across energy, infrastruct
 
 ## THE REGIME SHIFT
 
- The post 2019 capital cycle has entered a bifurcated phase where technical sophistication is abundant, but moral discipline is scarce.
+ The post 201
+9 capital cycle has entered a bifurcated phase where technical sophistication is abundant, but moral discipline is scarce.
 
 First, capital elasticity has become asymmetric.
 
@@ -148,7 +149,8 @@ This is Strategic Collateralization focused on predictable value extraction rath
 
 Stewardship is not an aesthetic.
 
-It is an operational mandate defined in **Proverbs 13:22** .
+It is an operational mandate defined in **Proverbs 13:22*
+* .
 
 Capital is a generational instrument.
 

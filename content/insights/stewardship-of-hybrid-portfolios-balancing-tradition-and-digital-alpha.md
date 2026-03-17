@@ -30,9 +30,11 @@ We maintain the quiet mechanics beneath complex portfolios.
 
 We lend against private credit positions and asset based Strategic Collateralization.
 
-We provide crypto Capital Structuring with a minimum threshold of 2 million USD.
+We provide crypto Capital Structuring with a minimum threshold of 
+2 million USD.
 
-We offer public share Asset-Backed Frameworks with a minimum threshold of 5 million USD.
+We offer public share Asset-Backed Frameworks with a minimum threshold of 
+5 million USD.
 
 Our clients operate silently.
 
@@ -80,7 +82,8 @@ HNWI and UHNW families require institutional structure.
 
 Our crypto Asset-Backed Frameworks service is built specifically for this tier.
 
-The minimum threshold is 2 million USD.
+The minimum threshold is 
+2 million USD.
 
 This ensures scale, sophistication, and stability.
 
@@ -104,7 +107,8 @@ They may require holding periods.
 
 Public share Monetization Architecture provides a discreet and efficient solution.
 
-We offer this service with a minimum threshold of 5 million USD.
+We offer this service with a minimum threshold of 
+5 million USD.
 
 This is intentionally conservative.
 
@@ -273,9 +277,11 @@ Through private credit Strategic Collateralization.
 
 Through asset based Strategic Collateralization.
 
-Through crypto Strategic Collateralization with a minimum threshold of 2 million USD.
+Through crypto Strategic Collateralization with a minimum threshold of 
+2 million USD.
 
-Through public share Strategic Collateralization with a minimum threshold of 5 million USD.
+Through public share Strategic Collateralization with a minimum threshold of 
+5 million USD.
 
 All delivered with minimal visibility and maximal precision.
 

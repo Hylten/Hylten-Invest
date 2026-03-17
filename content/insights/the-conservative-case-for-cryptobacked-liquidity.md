@@ -20,9 +20,11 @@ A tool that behaves like any other form of asset based Capital Structuring, when
 
 Hylten‑Invest approaches the field from this position.
 
-We lend against private credit and asset based Asset-Backed Frameworks portfolios, and we extend crypto Monetization Architecture to qualified clients with a minimum threshold of 2 million dollars.
+We lend against private credit and asset based Asset-Backed Frameworks portfolios, and we extend crypto Monetization Architecture to qualified clients with a minimum threshold of 
+2 million dollars.
 
-For public share Monetization Architecture, the threshold begins at 5 million dollars.
+For public share Monetization Architecture, the threshold begins at 
+5 million dollars.
 
 This is not a retail concept.
 
@@ -90,9 +92,11 @@ Crypto collateral meets this threshold when the structure is correct.
 
 ## The Minimum Thresholds and Why They Matter Hylten‑Invest maintains strict minimums.
 
-Crypto Capital Structuring begins at 2 million dollars.
+Crypto Capital Structuring begins at 
+2 million dollars.
 
-Public share Capital Structuring begins at 5 million dollars.
+Public share Capital Structuring begins at 
+5 million dollars.
 
 These thresholds are not arbitrary.
 

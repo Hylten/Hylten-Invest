@@ -34,7 +34,8 @@ Christian moral arithmetic.
 
 Stewardship above ownership.
 
-Responsibility above appetite. **Proverbs 13:22** : A good man leaveth an inheritance to his children's children.
+Responsibility above appetite. **Proverbs 13:22*
+* : A good man leaveth an inheritance to his children's children.
 
 This is the governing logic.
 
@@ -380,7 +381,8 @@ Assets should outlive the founder.
 
 Liquidity should strengthen successors.
 
-Decisions must echo forward. **Proverbs 13:22** remains the anchor: inheritance not as wealth, but as responsibility.
+Decisions must echo forward. **Proverbs 13:22*
+* remains the anchor: inheritance not as wealth, but as responsibility.
 
 Every deployment must survive transitions in technology, politics, and sentiment.
 
@@ -546,4 +548,5 @@ A moral stance.
 
 Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
-Terminal Metric: Liquidity Integrity Ratio ≥ 0.97 over 10-year horizon.
+Terminal Metric: Liquidity Integrity Ratio ≥ 0.9
+7 over 10-year horizon.

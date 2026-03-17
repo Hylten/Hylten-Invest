@@ -64,8 +64,10 @@ Immutable ownership.
 
 Industrial usefulness.
 
-The things that endure. *"The integrity of the upright shall guide them."* 
--  **Proverbs 11:3** Industrial heritage sharpens the lens.
+The things that endure. *"The integrity of the upright shall guide them."
+* 
+-  **Proverbs 11:3*
+* Industrial heritage sharpens the lens.
 
 You choose companies that solve real problems in the real world.
 

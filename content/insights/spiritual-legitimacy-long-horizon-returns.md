@@ -36,8 +36,10 @@ Profit as stewardship.
 
 Capital as duty before God.
 
-They built firms that held shape for generations because the soul of the firm was not for sale. *"Except the Lord build the house, they labour in vain that build it."* 
--  **Psalm 127:1** A principal does not gamble on foundations that shift.
+They built firms that held shape for generations because the soul of the firm was not for sale. *"Except the Lord build the house, they labour in vain that build it."
+* 
+-  **Psalm 127:1*
+* A principal does not gamble on foundations that shift.
 
 A principal selects ground with moral density.
 

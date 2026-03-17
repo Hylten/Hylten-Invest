@@ -72,8 +72,10 @@ A sovereign fund, by definition, requires a multigenerational horizon.
 
 Multigenerational capital demands a multigenerational ethic.
 
-That is why the analysis now points back to faith-rooted governance models. *"The integrity of the upright shall guide them."* 
--  **Proverbs 11:3** The architecture becomes simple.
+That is why the analysis now points back to faith-rooted governance models. *"The integrity of the upright shall guide them."
+* 
+-  **Proverbs 11:3*
+* The architecture becomes simple.
 
 Duty first.
 

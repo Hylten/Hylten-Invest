@@ -10,8 +10,10 @@ Capital reveals the household.
 
 Governance reveals the heart.
 
-Stewardship binds both into covenant order. *"The earth is the Lord’s, and the fulness thereof."* 
--  **Psalm 24:1** Private wealth without theology drifts.
+Stewardship binds both into covenant order. *"The earth is the Lord’s, and the fulness thereof."
+* 
+-  **Psalm 24:1*
+* Private wealth without theology drifts.
 
 Private markets without moral authority fracture.
 

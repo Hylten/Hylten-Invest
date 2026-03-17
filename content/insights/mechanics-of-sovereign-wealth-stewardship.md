@@ -180,7 +180,8 @@ Stewardship evaluates efficiency, resource utilization, environmental impact, an
 
 Waste is not considered an external cost.
 
-It is a violation of mandate. **Proverbs 13:22** defines the pattern.
+It is a violation of mandate. **Proverbs 13:22*
+* defines the pattern.
 
 A good man leaves an inheritance to his children's children. 
 

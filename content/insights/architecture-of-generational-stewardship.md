@@ -18,7 +18,8 @@ Multi decade capital discipline requires more than portfolio optimization.
 
 It requires a moral architecture capable of maintaining stability through cycles, sectors, jurisdictions, and demographic transitions.
 
-The counter intuitive reality is that the most durable capital structures in 2026 are not simply those with the strongest cash flow mechanics.
+The counter intuitive reality is that the most durable capital structures in 202
+6 are not simply those with the strongest cash flow mechanics.
 
 They are the structures built on coherent worldview design.
 
@@ -27,7 +28,8 @@ Stewardship remains a performance variable.
 Families, institutions, and regional economies that maintain a covenantal approach to capital stand in sharper contrast with the volatility driven consumption cycle characterizing the broader market.
 
 The Christian industrial legacy of the Nordics, the Spirit of Gnosjö, and the theology of capital found in texts such as 
--  **Proverbs 13:22** have produced a distinct operational competence: capital that behaves with direction, constraint, and duty.
+-  **Proverbs 13:22*
+* have produced a distinct operational competence: capital that behaves with direction, constraint, and duty.
 
 This briefing outlines the architecture of generational stewardship through an institutional lens.
 
@@ -139,7 +141,9 @@ It is a systematic model composed of three distinct layers.
 
 LAYER ONE.
 
-THEOLOGY OF CAPITAL The theology of capital provides the philosophical anchor. **Proverbs 13:22** establishes a generational mandate. **Deuteronomy 8:18** clarifies the source of productive capacity.
+THEOLOGY OF CAPITAL The theology of capital provides the philosophical anchor. **Proverbs 13:22*
+* establishes a generational mandate. **Deuteronomy 8:18*
+* clarifies the source of productive capacity.
 
 This worldview creates a moral regulator that defines the boundaries of acceptable capital behavior.
 
@@ -195,9 +199,11 @@ It requires a constellation of aligned partners.
 
 It consists of six filters. 
 
-1. TIME FILTER Does the decision strengthen or weaken the 50 year horizon. 
+1. TIME FILTER Does the decision strengthen or weaken the 5
+0 year horizon. 
 
-2. MORAL FILTER Does the deployment align with the covenantal responsibility implied in **Proverbs 13:22** . 
+2. MORAL FILTER Does the deployment align with the covenantal responsibility implied in **Proverbs 13:22*
+* . 
 
 3. RESILIENCE FILTER Does the structure maintain continuity under market stress. 
 

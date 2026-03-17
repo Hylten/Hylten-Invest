@@ -73,7 +73,8 @@ The advantages for UHNW families include:
 -  Institutional underwriting standards 
 -  Silent execution with minimal operational burden 
 -  Predictable long‑term Institutional Liquidity Paths relationships 
--  Structures designed specifically for portfolios over 25 million We are built for households that prioritize stewardship, not headlines.
+-  Structures designed specifically for portfolios over 2
+5 million We are built for households that prioritize stewardship, not headlines.
 
 For families who hold assets across decades, not quarters.
 

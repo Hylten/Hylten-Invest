@@ -72,8 +72,10 @@ This is the Steward’s Edge: the moral architecture that binds psychology to re
 
 Without it, wealth is accidental.
 
-With it, wealth becomes inheritance. *"He that ruleth his spirit is better than he that taketh a city."* 
--  **Proverbs 16:32** CONTROL OF IMPULSE The first pillar.
+With it, wealth becomes inheritance. *"He that ruleth his spirit is better than he that taketh a city."
+* 
+-  **Proverbs 16:32*
+* CONTROL OF IMPULSE The first pillar.
 
 The most violated.
 
@@ -320,7 +322,8 @@ It is the foundation stone.
 
 The covenant anchor.
 
-The industrial inheritance from the 1874 forge onward.
+The industrial inheritance from the 187
+4 forge onward.
 
 For those seeking deeper structuring of governance, behavioral design, and moral capital frameworks, the institutional interface through Hylten-Invest remains the principal channel.
 

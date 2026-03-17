@@ -49,8 +49,10 @@ We intentionally restrict our offering to areas where the collateral is knowable
 These include: 
 -  Private Credit 
 -  Asset Based Capital Structuring 
--  Crypto Institutional Liquidity Paths, with a minimum threshold of 2,000,000 USD 
--  Public Share Capital Structuring, with a minimum threshold of 5,000,000 USD This narrow focus is deliberate.
+-  Crypto Institutional Liquidity Paths, with a minimum threshold of 2,000,00
+0 USD 
+-  Public Share Capital Structuring, with a minimum threshold of 5,000,00
+0 USD This narrow focus is deliberate.
 
 We concentrate on assets that carry intrinsic structure.
 
@@ -96,7 +98,8 @@ It is infrastructure.
 
 Yet volatility demands structure.
 
-For holders above the 2,000,000 USD threshold, crypto assets become candidates for disciplined balance sheet optimization.
+For holders above the 2,000,00
+0 USD threshold, crypto assets become candidates for disciplined balance sheet optimization.
 
 Hylten Invest treats large-scale crypto positions as institutionally interpretable collateral.
 
@@ -112,7 +115,8 @@ This framing transforms crypto from a high-beta asset into a long-term liquidity
 
 However, liquidity must be extracted without forcing disposition.
 
-For investors with 5,000,000 USD or more in liquid public positions, Monetization Architecture against shares creates quiet liquidity without interrupting compounding.
+For investors with 5,000,00
+0 USD or more in liquid public positions, Monetization Architecture against shares creates quiet liquidity without interrupting compounding.
 
 The value is subtle.
 

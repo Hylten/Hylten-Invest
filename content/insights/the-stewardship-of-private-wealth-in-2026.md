@@ -6,7 +6,9 @@ author: "Hyltén Invest"
 slug: "the-stewardship-of-private-wealth-in-2026"
 --- 
 
-# The Stewardship of Private Wealth in 2026 Stewardship in 2026 is defined by clarity, patience, and structural intelligence.
+# The Stewardship of Private Wealth in 202
+6 Stewardship in 202
+6 is defined by clarity, patience, and structural intelligence.
 
 For High Net Worth and Ultra High Net Worth families, the core challenge is no longer Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
@@ -26,7 +28,8 @@ We provide frameworks that respect the gravity of private wealth.
 
 We operate as principal authority, supporting families and private offices that prefer their capital to move without spectacle.
 
-Private wealth management in 2026 is undergoing a structural shift, and that shift demands a return to fundamentals, although executed with modern tools.
+Private wealth management in 202
+6 is undergoing a structural shift, and that shift demands a return to fundamentals, although executed with modern tools.
 
 This article explores how stewardship, liquidity, and asset-backed Monetization Architecture intersect in the current cycle.
 
@@ -60,7 +63,8 @@ A partner in stewardship must understand both the assets and the philosophy.
 
 We position ourselves accordingly. 
 
-## The Stewardship Imperative in 2026 Stewardship is not a slogan.
+## The Stewardship Imperative in 202
+6 Stewardship is not a slogan.
 
 It is a responsibility.
 

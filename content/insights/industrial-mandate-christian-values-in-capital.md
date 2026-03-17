@@ -79,7 +79,8 @@ In capital terms this is expressed through:
 -  Asset Hardening 
 -  Yield Stabilization 
 -  Operational Forecasting 
--  Decline Curve Management in resource industries The biblical principle of responsible management appears in **Proverbs 13:22** and provides a framework for generational capital.
+-  Decline Curve Management in resource industries The biblical principle of responsible management appears in **Proverbs 13:22*
+* and provides a framework for generational capital.
 
 Capital that is not anchored to purpose dissipates.
 

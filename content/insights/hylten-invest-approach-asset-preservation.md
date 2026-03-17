@@ -104,7 +104,8 @@ This ensures alignment between resource allocation and real world constraints.
 
 The Hylten philosophy treats governance as part of the moral architecture of capital.
 
-Stewardship reflects **Proverbs 13:22** .
+Stewardship reflects **Proverbs 13:22*
+* .
 
 Capital must be allocated with awareness of generational impact.
 
@@ -160,7 +161,8 @@ The Spirit of Gnosjö reinforced this principle through community accountability
 
 Capital is entrusted, not owned in permanence.
 
-This aligns with the principle expressed in **Proverbs 22:29** regarding excellence in work and its societal positioning. 
+This aligns with the principle expressed in **Proverbs 22:29*
+* regarding excellence in work and its societal positioning. 
 
 3. Clarity of purpose Capital must be directed toward productive outcomes.
 
@@ -180,7 +182,8 @@ It is a filter through which every structural decision is examined.
 
 Assets are preserved when they are governed with discipline, humility, and long horizon accountability. ## ## ## 
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 must navigate an environment shaped by volatility, regulatory inertia, and declining industrial literacy.
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating in 202
+6 must navigate an environment shaped by volatility, regulatory inertia, and declining industrial literacy.
 
 The Hylten Invest approach provides a decision framework calibrated for this environment.
 

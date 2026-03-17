@@ -6,7 +6,8 @@ author: "Jonas Hyltén"
 slug: "private-equity-diversification-stewardship-jonas-hylten"
 --- 
 
-The structural gap that defines private equity diversification in 2026 is a direct consequence of policy driven capital distortion rather than cyclic decline.
+The structural gap that defines private equity diversification in 202
+6 is a direct consequence of policy driven capital distortion rather than cyclic decline.
 
 Allocators are operating within a landscape where liquidity premiums, operating margins, and real asset optionality have decoupled from their historical relationships.
 
@@ -32,9 +33,12 @@ It is operational, moral, and accountable. ## ## ## ##
 
  Private equity diversification is no longer framed as a distribution across sectors but as a dynamic allocation across structural inefficiencies.
 
-The allocator who still organizes risk through geography, style, or vintage is operating with a pre 2015 cognitive model that no longer captures institutional reality.
+The allocator who still organizes risk through geography, style, or vintage is operating with a pre 201
+5 cognitive model that no longer captures institutional reality.
 
-Key variables defining the 2024 to 2032 regime: 
+Key variables defining the 202
+4 to 203
+2 regime: 
 -  Regulatory tightening in the United States and Europe has created an artificial scarcity of compliant capital in core industrial verticals. 
 -  Energy markets in North America are experiencing a capital vacuum driven by ESG drift rather than geological constraint. 
 -  Private credit is absorbing volumes historically handled by regional banks, now constrained by Basel IV interpretations. 
@@ -192,7 +196,8 @@ Stewardship ensures:
 -  Multi generational continuity 
 -  Accountability in capital allocation Two principles form the foundation. 
 
-1. Theology of Capital Stewardship begins with the recognition that capital is entrusted, not owned. **Proverbs 13:22** anchors this reality.
+1. Theology of Capital Stewardship begins with the recognition that capital is entrusted, not owned. **Proverbs 13:22*
+* anchors this reality.
 
 A good man leaves an inheritance for his children's children.
 

@@ -113,9 +113,11 @@ Hyltén Invest offers this through three domains of expertise:
 
 2. Asset Based Asset-Backed Frameworks across qualified holdings 
 
-3. Crypto Asset-Backed Frameworks at a minimum threshold of 2,000,000 USD 
+3. Crypto Asset-Backed Frameworks at a minimum threshold of 2,000,00
+0 USD 
 
-4. Public Share Monetization Architecture at a minimum threshold of 5,000,000 USD These thresholds are intentional.
+4. Public Share Monetization Architecture at a minimum threshold of 5,000,00
+0 USD These thresholds are intentional.
 
 They enforce discipline.
 
@@ -125,7 +127,8 @@ They ensure that the capital we serve aligns with the structural demands of the 
 
 Hyltén Invest does not operate in that space.
 
-Our approach is conservative, collateral-backed, and focused solely on qualified investors with a minimum position of 2,000,000 USD.
+Our approach is conservative, collateral-backed, and focused solely on qualified investors with a minimum position of 2,000,00
+0 USD.
 
 This threshold is not arbitrary.
 
@@ -145,9 +148,11 @@ For structure.
 
 ## Public Share Asset-Backed Frameworks for Large Positions Public Share Monetization Architecture requires scale to function.
 
-Positions below 5,000,000 USD often lack the flexibility and stability required for institutionally aligned Asset-Backed Frameworks frameworks.
+Positions below 5,000,00
+0 USD often lack the flexibility and stability required for institutionally aligned Asset-Backed Frameworks frameworks.
 
-This is why Hyltén Invest maintains a minimum threshold of 5,000,000 USD.
+This is why Hyltén Invest maintains a minimum threshold of 5,000,00
+0 USD.
 
 At this scale, public equity holdings transition from mere market exposure into meaningful collateral assets.
 

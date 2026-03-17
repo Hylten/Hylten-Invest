@@ -42,7 +42,9 @@ This fragility comes from:
 -  Over engineered structures in private markets 
 -  Derivative-linked exposures masking real risk 
 -  Asset-light strategies dependent on sentiment cycles 
--  Capital stacks that rely on refinancing rather than intrinsic productivity The 2010 to 2022 era rewarded sophistication.
+-  Capital stacks that rely on refinancing rather than intrinsic productivity The 201
+0 to 202
+2 era rewarded sophistication.
 
 The current regime rewards operational truth.
 
@@ -87,7 +89,8 @@ It is an engineered operating system comparable to a manufacturing protocol.
 
 It functions through several technical components that collectively produce efficiency and long duration predictability. 
 
-1. Trust as a capital allocation filter Småland industrialists treat capital as a resource with spiritual accountability. **Proverbs 13:22** defines stewardship as multigenerational preparation.
+1. Trust as a capital allocation filter Småland industrialists treat capital as a resource with spiritual accountability. **Proverbs 13:22*
+* defines stewardship as multigenerational preparation.
 
 This produces an institutional mindset where capital is deployed only when value creation is measurable, not theoretical. 
 
@@ -204,7 +207,8 @@ The theology of capital teaches that resources are entrusted and not owned.
 
 This belief removes short term extraction incentives and aligns behavior with multi generational responsibility.
 
-It creates a governance environment where decisions must survive scrutiny across decades. **Proverbs 16:3** highlights the alignment between deliberate action and sustained outcomes.
+It creates a governance environment where decisions must survive scrutiny across decades. **Proverbs 16:3*
+* highlights the alignment between deliberate action and sustained outcomes.
 
 The Gnosjö model adheres to this logic.
 

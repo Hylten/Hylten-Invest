@@ -32,7 +32,9 @@ The objective is to define how an allocator can institutionalize protection arou
 
 European banks face tightened capital adequacy requirements.
 
-North American mid sized lenders remain impaired by duration mismatches inherited from the 2020 to 2022 monetary cycle.
+North American mid sized lenders remain impaired by duration mismatches inherited from the 202
+0 to 202
+2 monetary cycle.
 
 Commercial real estate liquidity remains fractured.
 
@@ -50,7 +52,8 @@ These are not speculative technologies.
 
 These are physical assets with measurable depreciation curves and established liquidation pathways.
 
-Second, the withdrawal of banks creates space for non bank institutional lenders to occupy the senior secured position with better covenant discipline, better underwriting, and better collateral control than was culturally possible in the pre 2015 credit era.
+Second, the withdrawal of banks creates space for non bank institutional lenders to occupy the senior secured position with better covenant discipline, better underwriting, and better collateral control than was culturally possible in the pre 201
+5 credit era.
 
 Third, allocators seeking wealth protection rather than aggressive compounding now face a structurally improved environment.
 
@@ -90,7 +93,9 @@ This creates a capital structure where the lender holds structural seniority bas
 
 Institutional LTV frameworks operate in bands.
 
-Conservatively managed programs anchor between 30 and 55 percent of forced sale value, not market value.
+Conservatively managed programs anchor between 3
+0 and 5
+5 percent of forced sale value, not market value.
 
 This ensures protective headroom, even under duress scenarios.
 
@@ -166,7 +171,9 @@ This triad ensures that the allocator enters structures intentionally, not react
 
 ## THE STEWARDSHIP FILTER Stewardship is not a moral accessory.
 
-It is an economic discipline grounded in the biblical principle that capital is a resource entrusted for productive use. **Proverbs 13:22** establishes the generational mandate. **Luke 14:28** defines the necessity of planning before undertaking a venture.
+It is an economic discipline grounded in the biblical principle that capital is a resource entrusted for productive use. **Proverbs 13:22*
+* establishes the generational mandate. **Luke 14:28*
+* defines the necessity of planning before undertaking a venture.
 
 The Spirit of Gnosjö demonstrates how capital, work ethic, and community discipline produce resilience across generations.
 

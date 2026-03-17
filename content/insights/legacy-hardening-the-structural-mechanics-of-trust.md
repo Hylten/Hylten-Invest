@@ -114,7 +114,8 @@ It is the power to act without delay or disruption.
 
 For families with crypto positions, divesting often triggers tax events, market exposure, or strategic losses.
 
-Hyltén Invest offers crypto-backed Asset-Backed Frameworks with a minimum threshold of 2,000,000 dollars.
+Hyltén Invest offers crypto-backed Asset-Backed Frameworks with a minimum threshold of 2,000,00
+0 dollars.
 
 This threshold ensures we work only with principals whose holdings meet the structural requirements for conservative credit formation.
 
@@ -136,7 +137,8 @@ It can trigger unnecessary visibility.
 
 It can introduce timing risks that weaken long-term returns.
 
-Hyltén Invest provides public share Strategic Collateralization beginning at a minimum threshold of 5,000,000 dollars.
+Hyltén Invest provides public share Strategic Collateralization beginning at a minimum threshold of 5,000,00
+0 dollars.
 
 The structure is intentionally conservative.
 

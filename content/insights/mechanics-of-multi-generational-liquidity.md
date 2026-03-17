@@ -34,7 +34,8 @@ Aging populations reduce organic entrepreneurial expansion, which reduces capita
 
 Second, regulatory friction.
 
-Compliance layers designed for the 2008 crisis now inhibit the mid market credit creation necessary for industrial continuity.
+Compliance layers designed for the 200
+8 crisis now inhibit the mid market credit creation necessary for industrial continuity.
 
 Third, the destruction of operational competency.
 
@@ -148,7 +149,8 @@ The strategic navigator ensures that operational intelligence is embedded at the
 
 This is not a financial term.
 
-It is a moral and operational mandate rooted in the theology of capital. **Proverbs 13:22** states that a good person leaves an inheritance to their children's children.
+It is a moral and operational mandate rooted in the theology of capital. **Proverbs 13:22*
+* states that a good person leaves an inheritance to their children's children.
 
 This principle is not about wealth accumulation.
 

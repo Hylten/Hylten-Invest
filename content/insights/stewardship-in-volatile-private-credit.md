@@ -16,7 +16,8 @@ This gap has created a market where the durability of capital stewardship has be
 
 ## THE REGIME SHIFT
 
- The private credit market entered a new regime following the liquidity distortions of 2020 to 
+ The private credit market entered a new regime following the liquidity distortions of 202
+0 to 
 
 2022. Central bank intervention suppressed price discovery, forced yield compression, and incentivized duration risk.
 
@@ -80,7 +81,9 @@ Examples include:
 -  Alberta heavy oil with predictable decline curves and known recovery ceiling.
 
 SAGD and CSS cycles inform institutional underwriting, reduce uncertainty, and allow for structured capital layering. 
--  Western European precision manufacturing facilities with 30 to 40 year useful life horizons. 
+-  Western European precision manufacturing facilities with 3
+0 to 4
+0 year useful life horizons. 
 -  Owner operated logistics assets with locked in customer throughput and measurable cost of repositioning.
 
 Durability reduces the entropy that often destabilizes private credit portfolios.
@@ -172,7 +175,8 @@ In Swedish industrial history, the Spirit of Gnosjö created a culture where cap
 
 This produced a generation of companies that thrived through resource scarcity, global competition, and industrial restructuring.
 
-The Biblical framing of stewardship is functional rather than symbolic. **Proverbs 13:22** states that a good man leaves an inheritance to his children's children.
+The Biblical framing of stewardship is functional rather than symbolic. **Proverbs 13:22*
+* states that a good man leaves an inheritance to his children's children.
 
 This is not about wealth accumulation.
 

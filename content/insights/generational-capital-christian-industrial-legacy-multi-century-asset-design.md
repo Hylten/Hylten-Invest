@@ -20,8 +20,10 @@ The Swedish industrial fathers understood this.
 
 The Gnosjö spirit was never improvisation; it was ordered creation.
 
-Discipline made visible in steel. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."* 
--  **Psalm 33:11** Phase changes in capital begin with one premise: the asset must outlive the ego of the builder.
+Discipline made visible in steel. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
+* 
+-  **Psalm 33:11*
+* Phase changes in capital begin with one premise: the asset must outlive the ego of the builder.
 
 Anything less is consumption disguised as achievement.
 

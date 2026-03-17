@@ -68,7 +68,8 @@ The market remains volatile, fragmented, and undisciplined.
 
 We only serve those who approach crypto assets with the same ethos they apply to other long‑term holdings.
 
-Our minimum threshold for crypto Monetization Architecture is 2,000,000 USD.
+Our minimum threshold for crypto Monetization Architecture is 2,000,00
+0 USD.
 
 At this level capital behaves differently.
 
@@ -86,7 +87,8 @@ Selling introduces tax implications, timing risk, and headline exposure.
 
 Asset-Backed Frameworks introduces mobility while preserving structure.
 
-Our minimum threshold for public share Capital Structuring is 5,000,000 USD.
+Our minimum threshold for public share Capital Structuring is 5,000,00
+0 USD.
 
 This threshold reflects our position in the market.
 

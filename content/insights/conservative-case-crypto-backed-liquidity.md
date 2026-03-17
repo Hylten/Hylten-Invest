@@ -14,7 +14,8 @@ The conservative allocator now evaluates crypto backed liquidity not through sen
 
 ## THE REGIME SHIFT
 
- Institutional allocators navigating 2026 operate within a tri polar credit environment defined by three forces. 
+ Institutional allocators navigating 202
+6 operate within a tri polar credit environment defined by three forces. 
 
 1. Regulatory compression of traditional banks.
 
@@ -58,12 +59,15 @@ The allocator benefits from:
 -  segregated on chain accounts 
 -  verifiable proof of reserves 
 -  deterministic control protocols 
--  multi jurisdiction supervisory frameworks The custody layer mirrors the rigor applied to precious metal vaulting or Level 1 securities segregation. 
+-  multi jurisdiction supervisory frameworks The custody layer mirrors the rigor applied to precious metal vaulting or Level 
+1 securities segregation. 
 
 2. Valuation Mechanics and LTV Curves Crypto collateral exhibits a dynamic price curve, which requires an LTV framework calibrated to real time mark to market signals.
 
 Conservative structures employ: 
--  low base LTV ratios, typically 20 to 35 percent 
+-  low base LTV ratios, typically 2
+0 to 3
+5 percent 
 -  volatility adjusted haircuts 
 -  automated maintenance margin triggers 
 -  staged liquidation protocols The result is a collateral system that adjusts continuously rather than quarterly, reducing stale risk. 
@@ -130,7 +134,8 @@ It is alignment driven. ## ## ## ##
 
 This principle applies both to industrial capital and Institutional Liquidity Paths.
 
-The conservative allocator recognizes that capital is not a commodity but a trust. **Proverbs 13:22** frames the generational responsibility.
+The conservative allocator recognizes that capital is not a commodity but a trust. **Proverbs 13:22*
+* frames the generational responsibility.
 
 Gnosjö tradition frames the operational ethos.
 

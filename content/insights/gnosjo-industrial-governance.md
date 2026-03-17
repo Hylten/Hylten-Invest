@@ -26,8 +26,10 @@ Communities prospered because character aligned with enterprise.
 
 No spectacle.
 
-Only stewardship. *"He that is faithful in that which is least is faithful also in much."* 
--  **Luke 16:10** First.
+Only stewardship. *"He that is faithful in that which is least is faithful also in much."
+* 
+-  **Luke 16:10*
+* First.
 
 High-trust governance scales only when the Principal remains visible.
 
