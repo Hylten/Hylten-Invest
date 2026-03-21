@@ -17,9 +17,7 @@ A theology of work.
 
 A theology of responsibility.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: A good man leaves an inheritance to his children's children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: A good man leaves an inheritance to his children's children.
 
 That mandate shaped factories.
 
@@ -461,9 +459,7 @@ Just enduring.
 
 Asset-Based Lending is the quiet architecture of endurance.
 
-It is the institutional expression of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+It is the institutional expression of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 Not abstract.
 

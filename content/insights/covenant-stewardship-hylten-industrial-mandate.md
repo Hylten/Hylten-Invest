@@ -17,9 +17,7 @@ Built in small rooms.
 
 Forged in Gnosjö workshops.
 
-Hardened through scarcity, responsibility, and the old truth of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: A good man leaves an inheritance to his children’s children.
+Hardened through scarcity, responsibility, and the old truth of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: A good man leaves an inheritance to his children’s children.
 
 This mandate is not soft.
 
@@ -283,9 +281,7 @@ Wealth without stewardship collapses into consumption.
 
 Industry without covenant collapses into fragility.
 
-Only inheritance with duty sustains multi-generational operations. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22is not merely spiritual wisdom.
+Only inheritance with duty sustains multi-generational operations. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22is not merely spiritual wisdom.
 
 It is economic architecture.
 

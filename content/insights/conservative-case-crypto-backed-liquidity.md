@@ -163,9 +163,7 @@ THE STEWARDSHIP FILTER Stewardship is the disciplined management of resources al
 
 This principle applies both to industrial capital and Institutional Liquidity Paths.
 
-The conservative allocator recognizes that capital is not a commodity but a trust. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22frames the generational responsibility.
+The conservative allocator recognizes that capital is not a commodity but a trust. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22frames the generational responsibility.
 
 Gnosjö tradition frames the operational ethos.
 

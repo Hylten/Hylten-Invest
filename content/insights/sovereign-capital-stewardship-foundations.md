@@ -45,9 +45,7 @@ It is shaped by the habits of the steward, not the movements of the market.
 
 The theological foundation is clear: capital is a responsibility given for the purpose of construction, not extraction.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22articulates this orientation with precision.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22articulates this orientation with precision.
 
 TECHNICAL MECHANICS OF STEWARDSHIP CAPITAL Sovereign grade capital systems operate differently from conventional investment strategies.
 

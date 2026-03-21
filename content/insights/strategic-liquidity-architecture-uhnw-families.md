@@ -175,9 +175,7 @@ The Spirit of Gnosjö has formed generations of industrialists who understand th
 
 Stewardship requires the avoidance of waste, the prioritization of durability, and the creation of systems that serve future generations.
 
-This framework is rooted in principles articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+This framework is rooted in principles articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 The responsible architecture of liquidity ensures that capital transitions across generations without destabilizing the mission or identity of the family.
 

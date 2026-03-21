@@ -201,9 +201,7 @@ In Swedish industrial history, the Spirit of Gnosjö created a culture where cap
 
 This produced a generation of companies that thrived through resource scarcity, global competition, and industrial restructuring.
 
-The Biblical framing of stewardship is functional rather than symbolic. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22states that a good man leaves an inheritance to his children's children.
+The Biblical framing of stewardship is functional rather than symbolic. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states that a good man leaves an inheritance to his children's children.
 
 This is not about wealth accumulation.
 
@@ -269,9 +267,7 @@ When any of these conditions are absent, the allocator inherits unnecessary risk
 
 Roials Capital provides allocators with a structured path to assess these conditions.
 
-This includes landscape analysis, technical evaluation, and institutional
-
-INTRODUCTION .
+This includes landscape analysis, technical evaluation, and institutional INTRODUCTION .
 
 For energy specific mandates, partners like NAEO represent the technical backbone required for precision underwriting and operational integrity.
 

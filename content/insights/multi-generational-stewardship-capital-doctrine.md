@@ -119,9 +119,7 @@ Families avoid dependence on external refinancing.
 
 They build internal liquidity pools that allow opportunistic acquisition during downturns.
 
-This practice mirrors the biblical stewardship principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22which frames wealth as a multi generational trust.
+This practice mirrors the biblical stewardship principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which frames wealth as a multi generational trust.
 
 4.
 

@@ -165,9 +165,7 @@ It is governance.
 
 It is the disciplined management of resources with the intent of strengthening future generations.
 
-The theology of capital recognizes that wealth is not accumulated for consumption but entrusted for productive use. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22states that a good person leaves an inheritance to children and grandchildren.
+The theology of capital recognizes that wealth is not accumulated for consumption but entrusted for productive use. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states that a good person leaves an inheritance to children and grandchildren.
 
 The verse is not merely ethical guidance.
 

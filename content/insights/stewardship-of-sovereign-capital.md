@@ -15,9 +15,7 @@ It is an entrusted substance, morally charged, structurally defined, spiritually
 
 The market treats capital as motion.
 
-The principal treats capital as mandate. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22states: A good man leaves an inheritance to his children's children.
+The principal treats capital as mandate. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states: A good man leaves an inheritance to his children's children.
 
 In institutional terms, this is not poetry.
 
@@ -527,9 +525,7 @@ Compounding produces inheritance.
 
 Inheritance is the ultimate KPI.
 
-A good man leaves an inheritance to his children's children. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+A good man leaves an inheritance to his children's children. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 This is not suggestion.
 

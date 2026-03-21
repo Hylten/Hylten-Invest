@@ -93,9 +93,7 @@ It functions through several technical components that collectively produce effi
 
 1.
 
-Trust as a capital allocation filter Småland industrialists treat capital as a resource with spiritual accountability. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22defines stewardship as multigenerational preparation.
+Trust as a capital allocation filter Småland industrialists treat capital as a resource with spiritual accountability. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22defines stewardship as multigenerational preparation.
 
 This produces an institutional mindset where capital is deployed only when value creation is measurable, not theoretical.
 
@@ -161,9 +159,7 @@ THE PARTNERSHIP MODEL The role of Roials Capital is not to replicate the Gnosjö
 
 It is to identify the institutional architecture and translate its principles for allocators who require clarity while navigating modern market conditions.
 
-Our role is strategic navigation and institutional
-
-INTRODUCTION , not asset solicitation.
+Our role is strategic navigation and institutional INTRODUCTION , not asset solicitation.
 
 When the focus shifts to North American energy, our strategic partner NAEO aligns with the same operational archetype.
 

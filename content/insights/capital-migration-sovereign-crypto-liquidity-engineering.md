@@ -157,9 +157,7 @@ Mobility enhances stewardship.
 
 Stewardship enhances durability.
 
-THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL My work in the Nordics has always operated under the conviction that capital is not an object but a responsibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22states that a good person leaves an inheritance to their grandchildren, meaning that wealth must be structured to outlast individual lifetimes.
+THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL My work in the Nordics has always operated under the conviction that capital is not an object but a responsibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states that a good person leaves an inheritance to their grandchildren, meaning that wealth must be structured to outlast individual lifetimes.
 
 This requires discipline, clarity, and strategy.
 

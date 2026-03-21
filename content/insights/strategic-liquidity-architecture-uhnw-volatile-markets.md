@@ -33,9 +33,7 @@ In this context, liquidity architecture is a form of strategic governance.
 
 It determines which opportunities the family can capture, which risks can be neutralized, and which legacy constraints can be dissolved without impairing long term compound performance.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes the principle of intergenerational stewardship, and Institutional Liquidity Paths is the operational counterpart of that mandate.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the principle of intergenerational stewardship, and Institutional Liquidity Paths is the operational counterpart of that mandate.
 
 It ensures the family retains functional power across market cycles rather than becoming dependent on distressed exits, punitive liquidity events, or capital-raising windows that no longer exist when volatility intensifies.
 
@@ -205,9 +203,7 @@ Diagnostic Liquidity Audit The audit identifies the following:
 
 - Commercial real estate portfolio valued at
 
-220 million with an average LTV of
-
-18 percent, indicating low liquidity utilization.
+220 million with an average LTV of 18 percent, indicating low liquidity utilization.
 
 - Manufacturing group generating
 
@@ -248,13 +244,9 @@ This zoning aligns precisely with the family’s three strategic objectives.
 
 Asset-backed Monetization Architecture A tiered advance rate strategy is executed:
 
-- 90 million liquidity extracted from commercial real estate at a calibrated
+- 90 million liquidity extracted from commercial real estate at a calibrated 52 percent advance rate.
 
-52 percent advance rate.
-
-- 35 million liquidity drawn from manufacturing at
-
-38 percent rate due to stable EBITDA.
+- 35 million liquidity drawn from manufacturing at 38 percent rate due to stable EBITDA.
 
 - Energy assets left unlevered to preserve covenant flexibility for future NAEOC investment entry.
 
@@ -266,9 +258,7 @@ This creates a total of
 
 RCM Optimization The manufacturing division undergoes an RCM cycle restructuring:
 
-- Customer concentration throttled from
-
-42 percent to 29 percent.
+- Customer concentration throttled from 42 percent to 29 percent.
 
 - Contract revision incentives reduce payment cycle from
 

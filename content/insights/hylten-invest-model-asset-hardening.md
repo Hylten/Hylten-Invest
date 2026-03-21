@@ -129,9 +129,7 @@ Stewardship governance requires:
 
 - Covenant with the community ecosystem that surrounds the asset.
 
-Scripture affirms this discipline. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22articulates the principle: A good person leaves an inheritance to their children's children.
+Scripture affirms this discipline. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22articulates the principle: A good person leaves an inheritance to their children's children.
 
 This is not sentiment.
 

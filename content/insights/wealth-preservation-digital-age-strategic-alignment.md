@@ -175,9 +175,7 @@ The stewardship filter consists of four benchmarks.
 
 Resource Integrity Every allocation decision must preserve the integrity of the capital entrusted.
 
-This aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+This aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 Integrity is measured by prudence, not ambition.
 

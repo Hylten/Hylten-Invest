@@ -161,9 +161,7 @@ THE STEWARDSHIP FILTER Stewardship is not a moral accessory
 
 .
 
-It is an economic discipline grounded in the biblical principle that capital is a resource entrusted for productive use. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes the generational mandate. Luke 14:28 defines the necessity of planning before undertaking a venture.
+It is an economic discipline grounded in the biblical principle that capital is a resource entrusted for productive use. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the generational mandate. Luke 14:28 defines the necessity of planning before undertaking a venture.
 
 The Spirit of Gnosjö demonstrates how capital, work ethic, and community discipline produce resilience across generations.
 

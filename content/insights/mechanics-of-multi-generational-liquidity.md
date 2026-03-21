@@ -159,9 +159,7 @@ THE STEWARDSHIP FILTER The foundation of multi generational liquidity is steward
 
 This is not a financial term.
 
-It is a moral and operational mandate rooted in the theology of capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22states that a good person leaves an inheritance to their children's children.
+It is a moral and operational mandate rooted in the theology of capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states that a good person leaves an inheritance to their children's children.
 
 This principle is not about wealth accumulation.
 

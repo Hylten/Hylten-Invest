@@ -49,9 +49,7 @@ Stewardship demands operational literacy across both.
 
 It is insufficient to maintain capital.
 
-One must maintain the infrastructure that maintains capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+One must maintain the infrastructure that maintains capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 Sovereign assets must therefore be structured not as static holdings but as dynamic organisms.
 
@@ -204,9 +202,7 @@ This shifts 70 percent of revenue into predictable yield.
 
 The fabrication firm is placed under a cost restructuring plan that converts variable labor exposure into contract based labor blocks.
 
-These blocks sync with seasonal industrial demand cycles, reducing cash flow volatility by
-
-38 percent.
+These blocks sync with seasonal industrial demand cycles, reducing cash flow volatility by 38 percent.
 
 Capital Structure Engineering The 175M allocation is structured into three liquidity corridors.
 
@@ -246,9 +242,7 @@ The fabrication firm undergoes commercial hardening.
 
 Liquidity Extraction and Reinjection Eighteen months after stabilization, Strategic Collateralization is performed.
 
-A revenue securitization tranche allows a controlled liquidity extraction equal to
-
-22 percent of the midstream entity's projected five year free cash flow.
+A revenue securitization tranche allows a controlled liquidity extraction equal to 22 percent of the midstream entity's projected five year free cash flow.
 
 This capital is not removed from the system.
 
@@ -270,16 +264,11 @@ Stewardship Governance A governance cycle is established
 
 - Annual yield to liquidity curve replotting.
 
-- Automatic intervention triggers for OPEX drift above
-7 percent.
+- Automatic intervention triggers for OPEX drift above 7 percent.
 
 This governance architecture ensures the platform remains dynamically aligned with sovereign capital requirements.
 
-By year five, the platform produces a compounded capital efficiency increase of
-
-42 percent and holds liquidity optionality equal to
-
-28 percent of NAV.
+By year five, the platform produces a compounded capital efficiency increase of 42 percent and holds liquidity optionality equal to 28 percent of NAV.
 
 This is the definition of enduring liquidity.
 

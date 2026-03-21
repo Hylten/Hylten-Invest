@@ -23,9 +23,7 @@ It is inherited.
 
 It is forged through a century of Christian industrial order where ownership meant responsibility and responsibility meant obedience to a higher mandate.
 
-In "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22we read: A good man leaves an inheritance to his children's children.
+In "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22we read: A good man leaves an inheritance to his children's children.
 
 This is not an aspiration.
 

@@ -75,9 +75,7 @@ Capital has drifted from stewardship toward speculation.
 
 Under this regime, disciplined allocators are re balancing toward real assets that provide transparency, tangible output, and operational restraint.
 
-The Hylten Model aligns with this re balancing, prioritizing responsibility, durability, and generational continuity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22frames this foundationally.
+The Hylten Model aligns with this re balancing, prioritizing responsibility, durability, and generational continuity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22frames this foundationally.
 
 A good man leaves an inheritance to his children's children.
 

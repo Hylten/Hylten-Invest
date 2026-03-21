@@ -29,9 +29,7 @@ Capital is cultivated.
 
 This aligns with
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22, which defines the moral architecture behind multi generational asset management.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22, which defines the moral architecture behind multi generational asset management.
 
 In stewardship aligned private equity, the objective is to build assets that are engineered to survive cyclical shocks, jurisdictional transitions, market digitization, and the capital intensity cycles of asset backed financing for businesses that operate in energy, industrials, logistics, and healthcare.
 
@@ -140,9 +138,7 @@ CASE ANALYSIS: A SIMULATED 180M INDUSTRIAL ENERGY INFRASTRUCTURE BUYOUT To illus
 
 180 million acquisition of a mid sized NAEOC energy infrastructure operator in the southern United States.
 
-The asset generates 28 million EBITDA with
-
-62 percent recurring maintenance contracts across regional utilities.
+The asset generates 28 million EBITDA with 62 percent recurring maintenance contracts across regional utilities.
 
 Capital Formation and Institutional Liquidity Paths Capital raising for mid market buyout deals of this category often requires cross jurisdictional syndication.
 
@@ -276,9 +272,7 @@ It is the architecture that ensures private equity Fund-III investment opportuni
 
 It is the discipline of building assets that can survive leadership transitions, market dislocations, and geopolitical instability.
 
-It is the commitment to "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22applied to institutional capital.
+It is the commitment to "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22applied to institutional capital.
 
 In an era where capital is abundant but durable assets are scarce, stewardship becomes the ultimate competitive advantage.
 

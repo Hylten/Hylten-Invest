@@ -81,9 +81,7 @@ In capital terms this is expressed through:
 
 - Operational Forecasting
 
-- Decline Curve Management in resource industries The biblical principle of responsible management appears in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22and provides a framework for generational capital.
+- Decline Curve Management in resource industries The biblical principle of responsible management appears in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22and provides a framework for generational capital.
 
 Capital that is not anchored to purpose dissipates.
 

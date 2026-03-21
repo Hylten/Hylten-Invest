@@ -35,9 +35,7 @@ The purpose of this brief is to establish a strategic alignment blueprint for lo
 
 The brief assumes a family enterprise with entrenched industrial DNA, heterogeneous capital appetites, and the moral expectation that wealth functions not as status but as stewardship.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22directs THE MANDAT E
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22directs THE MANDAT E
 
 : A good man leaves an inheritance to his children’s children.
 
@@ -390,9 +388,7 @@ The office must commit to the following imperatives:
 
 - Engineer internal trust as a structural asset.
 
-- Anchor every decision to "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+- Anchor every decision to "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 At scale, alignment becomes an engine.
 

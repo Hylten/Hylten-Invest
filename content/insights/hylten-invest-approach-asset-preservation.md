@@ -113,9 +113,7 @@ This ensures alignment between resource allocation and real world constraints.
 
 The Hylten philosophy treats governance as part of the moral architecture of capital.
 
-Stewardship reflects "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+Stewardship reflects "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 Capital must be allocated with awareness of generational impact.
 

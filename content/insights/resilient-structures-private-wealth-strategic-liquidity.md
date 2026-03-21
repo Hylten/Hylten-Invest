@@ -167,9 +167,7 @@ These values were not created for narratives.
 
 They were created because they optimize long term survival.
 
-For families of faith, stewardship is anchored in principles such as "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22which highlights generational responsibility.
+For families of faith, stewardship is anchored in principles such as "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which highlights generational responsibility.
 
 Capital is not deployed merely for the benefit of a present actor but for the guardianship of future decision makers.
 

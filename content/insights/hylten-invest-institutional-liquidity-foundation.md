@@ -33,9 +33,7 @@ Christian moral arithmetic.
 
 Stewardship above ownership.
 
-Responsibility above appetite. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: A good man leaveth an inheritance to his children's children.
+Responsibility above appetite. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: A good man leaveth an inheritance to his children's children.
 
 This is the governing logic.
 
@@ -374,9 +372,7 @@ Assets should outlive the founder.
 
 Liquidity should strengthen successors.
 
-Decisions must echo forward. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22remains the anchor: inheritance not as wealth, but as responsibility.
+Decisions must echo forward. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22remains the anchor: inheritance not as wealth, but as responsibility.
 
 Every deployment must survive transitions in technology, politics, and sentiment.
 

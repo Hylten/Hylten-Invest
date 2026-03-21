@@ -173,9 +173,7 @@ Stewardship is grounded in three disciplines:
 
 Resources are not consumed.
 
-They are allocated with precision. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes the framework: a good man leaves an inheritance for his children's children.
+They are allocated with precision. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the framework: a good man leaves an inheritance for his children's children.
 
 An inheritance cannot be protected with sentiment.
 

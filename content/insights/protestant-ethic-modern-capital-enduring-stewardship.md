@@ -31,9 +31,7 @@ Work as duty.
 
 Work as worship.
 
-Work as the conduit through which capital becomes moral authority. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22(A good man leaveth an inheritance to his children's children.)
+Work as the conduit through which capital becomes moral authority. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22(A good man leaveth an inheritance to his children's children.)
 
 1.
 

@@ -27,9 +27,7 @@ The stewardship framework is the mechanism that sustains it.
 
 Hylten Invest’s relevance is not a function of scale in the modern sense.
 
-Its relevance is defined by its alignment with a legacy of responsibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22situates this principle succinctly: A good man leaves an inheritance to his children's children.
+Its relevance is defined by its alignment with a legacy of responsibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22situates this principle succinctly: A good man leaves an inheritance to his children's children.
 
 The inheritance referenced is not limited to assets.
 

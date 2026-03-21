@@ -27,9 +27,7 @@ Legacy always. A good man leaveth an inheritance to his children's children.
 
 
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22Generational capital is not an asset pool.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22Generational capital is not an asset pool.
 
 It is an internal code.
 

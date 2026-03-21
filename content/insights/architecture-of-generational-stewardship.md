@@ -27,9 +27,7 @@ Families, institutions, and regional economies that maintain a covenantal approa
 
 The Christian industrial legacy of the Nordics, the Spirit of Gnosjö, and the theology of capital found in texts such as
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22have produced a distinct operational competence: capital that behaves with direction, constraint, and duty.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22have produced a distinct operational competence: capital that behaves with direction, constraint, and duty.
 
 This briefing outlines the architecture of generational stewardship through an institutional lens.
 
@@ -161,9 +159,7 @@ It is a systematic model composed of three distinct layers.
 
 LAYER ONE.
 
-THEOLOGY OF CAPITAL The theology of capital provides the philosophical anchor. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes a generational mandate. Deuteronomy 8:18 clarifies the source of productive capacity.
+THEOLOGY OF CAPITAL The theology of capital provides the philosophical anchor. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes a generational mandate. Deuteronomy 8:18 clarifies the source of productive capacity.
 
 This worldview creates a moral regulator that defines the boundaries of acceptable capital behavior.
 
@@ -235,9 +231,7 @@ TIME FILTER Does the decision strengthen or weaken the
 
 2.
 
-MORAL FILTER Does the deployment align with the covenantal responsibility implied in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+MORAL FILTER Does the deployment align with the covenantal responsibility implied in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 3.
 

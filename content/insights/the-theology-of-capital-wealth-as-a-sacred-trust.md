@@ -76,9 +76,7 @@ Christian owners understand its morality.
 
 The Hyltén Invest doctrine fuses both.
 
-Generational Wealth as Obligation "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22“A good man leaves an inheritance to his children’s children.” Generational wealth is not accumulation.
+Generational Wealth as Obligation "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22“A good man leaves an inheritance to his children’s children.” Generational wealth is not accumulation.
 
 It is continuity.
 

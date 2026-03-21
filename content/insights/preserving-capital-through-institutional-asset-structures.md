@@ -239,9 +239,7 @@ The Spirit of Gnosjö shaped a culture where small communities built global indu
 
 Stewardship is the theology of responsible dominion.
 
-Finance, when properly aligned, follows the principles that govern creation. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes the trans generational responsibility of capital.
+Finance, when properly aligned, follows the principles that govern creation. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the trans generational responsibility of capital.
 
 A good person leaves an inheritance not only for children, but for grandchildren.
 

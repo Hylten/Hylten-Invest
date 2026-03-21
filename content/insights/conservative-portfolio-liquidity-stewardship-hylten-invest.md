@@ -13,9 +13,7 @@ He begins with survival.
 
 He begins with continuity.
 
-He begins with the family-level mandate encoded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: a good man leaves an inheritance to his children's children.
+He begins with the family-level mandate encoded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: a good man leaves an inheritance to his children's children.
 
 That is not sentiment.
 
@@ -530,9 +528,7 @@ If liquidity dies when the principal dies, stewardship failed.
 
 Liquidity is calling.
 
-Liquidity is obedience to "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+Liquidity is obedience to "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 This is why Hylten‑Invest refuses complexity dressed as sophistication.
 

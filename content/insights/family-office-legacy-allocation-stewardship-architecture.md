@@ -17,9 +17,7 @@ Family offices with generational identity are repositioning toward stewardship-b
 
 These principles align closely with the Nordic industrial ethic that shaped the Spirit of Gnosjö: responsibility first, efficiency second, profit as the byproduct rather than the mission.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 A good man leaves an inheritance to his children's children.
 

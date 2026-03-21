@@ -21,9 +21,7 @@ This briefing addresses the structural mechanics of trust within generational ca
 
 The perspective is grounded in the Nordic industrial tradition, the Spirit of Gnosjö, and the doctrine that capital must be stewarded with purpose, discipline, and long-term fidelity.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes the thesis: "A good man leaves an inheritance to his children's children." This is not sentiment.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the thesis: "A good man leaves an inheritance to his children's children." This is not sentiment.
 
 It is a design specification for the balance sheet of a multi-generational enterprise.
 

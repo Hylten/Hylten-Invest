@@ -25,9 +25,7 @@ Order is not an option.
 
 I write this from the vantage point of stewardship rather than opportunism.
 
-My framework is shaped by the industrial pietism of Småland, the Spirit of Gnosjö, and the Biblical injunction that wealth is not self-originating. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+My framework is shaped by the industrial pietism of Småland, the Spirit of Gnosjö, and the Biblical injunction that wealth is not self-originating. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 Capital is inherited responsibility before it becomes deployed authority.
 
@@ -301,8 +299,7 @@ It is risk mitigation at the deepest level.
 
 EXIT The architecture of trust is validated not in origination but in exit.
 
-A well-architected trust structure produces: Recovery variance under
-3 percent.
+A well-architected trust structure produces: Recovery variance under 3 percent.
 
 Access is restricted to approved mandates.
 

@@ -163,9 +163,7 @@ They stabilize the long horizon architecture.
 
 Theological Discipline Theology of capital is not metaphorical.
 
-It is a practical operating system rooted in historic Christian industrialism and Nordic stewardship culture. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22remains the timeless directive.
+It is a practical operating system rooted in historic Christian industrialism and Nordic stewardship culture. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22remains the timeless directive.
 
 A good man leaves an inheritance to his children's children.
 

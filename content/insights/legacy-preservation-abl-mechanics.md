@@ -147,9 +147,7 @@ Three principles are central:
 
 Growth is legitimate only when core assets are protected and stabilized.
 
-- Maintenance before Leverage. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22frames inheritance as a responsibility for structural prudence, not risk proliferation.
+- Maintenance before Leverage. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22frames inheritance as a responsibility for structural prudence, not risk proliferation.
 
 - Truth before Valuation.
 

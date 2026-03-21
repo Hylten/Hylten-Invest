@@ -141,9 +141,7 @@ It prioritizes alignment between operators, capital partners, and long-term valu
 
 It reduces exposure to over-optimized financial structures that lack operational grounding.
 
-It parallels the wisdom of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22which describes the enduring legacy of those who steward resources responsibly.
+It parallels the wisdom of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which describes the enduring legacy of those who steward resources responsibly.
 
 THE PARTNERSHIP MODEL OF Roials Capital AND NAEO Roials Capital operates as a strategic navigator for allocators who seek to integrate stewardship into their capital deployment frameworks.
 
