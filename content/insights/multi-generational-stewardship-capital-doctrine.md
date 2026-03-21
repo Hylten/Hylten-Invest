@@ -241,11 +241,7 @@ It is the recognition that capital carries moral obligation.
 
 This principle is structural in the Gnosjö Spirit, where community, work ethic, and practical humility formed one of the most resilient industrial clusters in Europe.
 
-It aligns with the biblical mandate in Luke 16:10
-
-
-
-which emphasizes faithfulness in small things as preparation for greater responsibility.
+It aligns with the biblical mandate in Luke 16:10 which emphasizes faithfulness in small things as preparation for greater responsibility.
 
 The Stewardship Filter applied to modern capital operates across four dimensions.
 

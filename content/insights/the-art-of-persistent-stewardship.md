@@ -63,11 +63,7 @@ Resource Constraint Management Stewardship begins with the assumption of limit.
 
 This is aligned with
 
-- Proverbs 27:23
-
-
-
-which instructs leaders to know the condition of their flocks.
+- Proverbs 27:23 which instructs leaders to know the condition of their flocks.
 
 Modern industrial environments suffer from an illusion of unlimited throughput because digital systems have obscured the physicality of production cycles.
 

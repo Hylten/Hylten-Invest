@@ -177,11 +177,7 @@ Succession control includes:
 
 - Written governance principles anchored in moral and practical responsibility.
 
-- Decision-making guardrails that limit reactive allocation during generational transitions. Ecclesiastes 7:12
-
-
-
-teaches that wisdom preserves those who have it.
+- Decision-making guardrails that limit reactive allocation during generational transitions. Ecclesiastes 7:12 teaches that wisdom preserves those who have it.
 
 This applies to capital.
 
@@ -263,11 +259,7 @@ Capital must expand but never distort values.
 
 Inheritance must be earned, not presumed.
 
-The biblical instruction in Luke 16:10
-
-
-
-that those who are faithful with little will be faithful with much is not about scale.
+The biblical instruction in Luke 16:10 that those who are faithful with little will be faithful with much is not about scale.
 
 It is about discipline.
 

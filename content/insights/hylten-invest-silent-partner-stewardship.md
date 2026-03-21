@@ -161,11 +161,7 @@ INTRODUCTION or alignment is grounded in both operational realism and moral clar
 
 .
 
-It is a governance system. Genesis 2:15
-
-
-
-provides the foundational pattern:
+It is a governance system. Genesis 2:15 provides the foundational pattern:
 
 # THE MANDAT E
 

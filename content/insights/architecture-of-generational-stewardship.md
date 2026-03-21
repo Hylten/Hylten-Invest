@@ -163,11 +163,7 @@ LAYER ONE.
 
 THEOLOGY OF CAPITAL The theology of capital provides the philosophical anchor. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-- Proverbs 13:22establishes a generational mandate. Deuteronomy 8:18
-
-
-
-clarifies the source of productive capacity.
+- Proverbs 13:22establishes a generational mandate. Deuteronomy 8:18 clarifies the source of productive capacity.
 
 This worldview creates a moral regulator that defines the boundaries of acceptable capital behavior.
 

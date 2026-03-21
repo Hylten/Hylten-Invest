@@ -265,9 +265,7 @@ It ensures exposure to assets acquired in both strong and challenging environmen
 
 For family offices, a structured pacing plan, often across multiple years, creates rhythm and reduces performance volatility.
 
-Liquidity Pacing and Cash Flow Managemen
-
-t Designing for Long Term Commitments Private equity requires patience
+Liquidity Pacing and Cash Flow Managemen t Designing for Long Term Commitments Private equity requires patience
 
 .
 
@@ -327,9 +325,7 @@ Vetting governance culture and alignment
 
 Avoiding overconcentration in a single investment philosophy For families, stewardship requires alignment with managers who demonstrate consistency, integrity, and operational discipline.
 
-The Interplay Between Diversification and Stewardshi
-
-p Capital Preservation Through Design A diversified private equity portfolio is not built for speed
+The Interplay Between Diversification and Stewardshi p Capital Preservation Through Design A diversified private equity portfolio is not built for speed
 
 .
 
@@ -351,9 +347,7 @@ Alignment over aggressiveness 5.
 
 Sustainability over speculation Diversification supports these principles by reducing the impact of any single market, manager, or cycle.
 
-Building a Multi Layered Private Equity Framewor
-
-k A Model for HNWI and Family Office Allocators A long term private equity framework often includes:
+Building a Multi Layered Private Equity Framewor k A Model for HNWI and Family Office Allocators A long term private equity framework often includes:
 
 
 

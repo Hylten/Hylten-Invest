@@ -185,11 +185,7 @@ Duty of continuity Decisions must not degrade the asset base for future generati
 
 Capital is entrusted, not owned in permanence.
 
-This aligns with the principle expressed in Proverbs 22:29
-
-
-
-regarding excellence in work and its societal positioning.
+This aligns with the principle expressed in Proverbs 22:29 regarding excellence in work and its societal positioning.
 
 3.
 

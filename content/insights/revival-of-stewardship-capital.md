@@ -109,9 +109,7 @@ Moral authority as operating leverage.
 
 A Principal who understands that free markets flourish only under truth.
 
-Some of them now route mandates through institutional capital execution
-
-at [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)).
+Some of them now route mandates through institutional capital execution at [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)).
 
 Not for theatrics.
 

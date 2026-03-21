@@ -5,9 +5,7 @@ date: "2025-11-28" author: "Hyltén Invest"
 slug: "multi-generational-stewardship"
 ---
 
-# Multi Generational Stewardship A Hylten Invest Perspectiv
-
-e Pillar Three: Intergenerational Alignment The most overlooked element in wealth continuity is not financial.
+# Multi Generational Stewardship A Hylten Invest Perspectiv e Pillar Three: Intergenerational Alignment The most overlooked element in wealth continuity is not financial.
 
 It is interpersonal.
 

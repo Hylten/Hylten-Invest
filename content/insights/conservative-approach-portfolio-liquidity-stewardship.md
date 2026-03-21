@@ -83,11 +83,7 @@ Generational capital, by nature, cannot tolerate dependency.
 
 The stewardship perspective views liquidity as a tool of responsibility, not speculation.
 
-What modern finance calls liquidity optionality, the Christian industrial legacy simply called preparedness. Proverbs 21:20
-
-
-
-describes the principle directly.
+What modern finance calls liquidity optionality, the Christian industrial legacy simply called preparedness. Proverbs 21:20 describes the principle directly.
 
 Wise families store resources not for complacency but for duty.
 

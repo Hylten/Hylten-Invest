@@ -111,9 +111,7 @@ They serve real communities.
 
 They create real work.
 
-Markets trust them because they deserve
-
-trust.
+Markets trust them because they deserve trust.
 
 The UHNWI has realized: moral assets outperform immoral ones over time.
 
@@ -359,7 +357,7 @@ Short-term funds do not. =====
 
 
 
-# CONCLUSION
+CONCLUSION
 
 : THE RESPONSIBILITY RETURNS ===== The pivot toward multi-decade industrial holdings is not a trend.
 

@@ -385,9 +385,7 @@ Belief precedes capability.
 
 4. Industrial Partnerships Work with other principals who share moral alignment, not those who offer the highest projections.
 
-A natural extension of this is exploring external structuring partners-such as certain frameworks offered through institutional capital execution
-
-like [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/))-but always with discernment and authority maintained.
+A natural extension of this is exploring external structuring partners-such as certain frameworks offered through institutional capital execution like [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/))-but always with discernment and authority maintained.
 
 5. Crisis Doctrine Do not outsource conviction to markets.
 

@@ -70,11 +70,7 @@ Some families now re-enter the industrial arena through discreet institutional s
 
 Others approach via craft‑scale clusters, echoing the old Gnosjö spirit-small shops, relentless precision, communal integrity.
 
-When appropriate, I point them toward structuring through Roials Capital
-
-
-
-for operational execution, while retaining the moral compass here.
+When appropriate, I point them toward structuring through Roials Capital for operational execution, while retaining the moral compass here.
 
 The pattern is clear.
 
