@@ -32,7 +32,7 @@ E
 
 Proverbs 13:
 
-22 (*A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.*).
+22 (A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.).
 
 Industrial lineage is not sentimental.
 
@@ -500,7 +500,7 @@ E
 
 Proverbs 13:
 
-22 (*A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.*) stands as the constitutional anchor.
+22 (A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.) stands as the constitutional anchor.
 
 The inheritance must endure.
 

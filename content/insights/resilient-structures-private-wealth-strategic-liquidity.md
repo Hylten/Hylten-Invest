@@ -176,11 +176,11 @@ These values were not created for narratives.
 
 They were created because they optimize long term survival.
 
-For families of faith, stewardship is anchored in principles such as **Proverbs 13:22
+For families of faith, stewardship is anchored in principles such as Proverbs 13:22
 
-* 
+ 
 
-* which highlights generational responsibility.
+ which highlights generational responsibility.
 
 Capital is not deployed merely for the benefit of a present actor but for the guardianship of future decision makers.
 

@@ -30,11 +30,11 @@ They require the Spirit of Gnosjö.
 
 They require a sovereign architecture able to outlive the founder and bind the next generation into a covenant of responsibility.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* : A good man leaves an inheritance to his children’s children.
+ : A good man leaves an inheritance to his children’s children.
 
 The text does not specify the form.
 

@@ -128,11 +128,11 @@ Families avoid dependence on external refinancing.
 
 They build internal liquidity pools that allow opportunistic acquisition during downturns.
 
-This practice mirrors the biblical stewardship principle in **Proverbs 13:22
+This practice mirrors the biblical stewardship principle in Proverbs 13:22
 
-* 
+ 
 
-* which frames wealth as a multi generational trust. 
+ which frames wealth as a multi generational trust. 
 
 4.
 
@@ -254,11 +254,11 @@ It is the recognition that capital carries moral obligation.
 
 This principle is structural in the Gnosjö Spirit, where community, work ethic, and practical humility formed one of the most resilient industrial clusters in Europe.
 
-It aligns with the biblical mandate in **Luke 16:10
+It aligns with the biblical mandate in Luke 16:10
 
-* 
+ 
 
-* which emphasizes faithfulness in small things as preparation for greater responsibility.
+ which emphasizes faithfulness in small things as preparation for greater responsibility.
 
 The Stewardship Filter applied to modern capital operates across four dimensions.
 

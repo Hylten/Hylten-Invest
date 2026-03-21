@@ -28,11 +28,11 @@ The stewardship framework is the mechanism that sustains it.
 
 Hylten Invest’s relevance is not a function of scale in the modern sense.
 
-Its relevance is defined by its alignment with a legacy of responsibility. **Proverbs 13:22
+Its relevance is defined by its alignment with a legacy of responsibility. Proverbs 13:22
 
-* 
+ 
 
-* situates this principle succinctly: A good man leaves an inheritance to his children's children.
+ situates this principle succinctly: A good man leaves an inheritance to his children's children.
 
 The inheritance referenced is not limited to assets.
 
@@ -176,11 +176,11 @@ It protects the allocator from single-source bias and ensures that any
 
 .
 
-It is a governance system. **Genesis 2:15
+It is a governance system. Genesis 2:15
 
-* 
+ 
 
-* provides the foundational pattern: 
+ provides the foundational pattern: 
 
 # THE MANDAT
 
@@ -216,12 +216,12 @@ Stewardship imposes controlled velocity to prevent distortion.
 
 - Alignment with Eternal Principles Stewardship recognizes that capital is entrusted, not owned.
 
-It must be deployed in a manner consistent with **Proverbs 21:
+It must be deployed in a manner consistent with Proverbs 21:
 5
 
-* 
+ 
 
-* which states that the plans of the diligent lead surely to abundance.
+ which states that the plans of the diligent lead surely to abundance.
 
 These filters are applied before any strategic 
 

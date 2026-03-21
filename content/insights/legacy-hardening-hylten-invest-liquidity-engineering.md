@@ -54,11 +54,11 @@ Families that optimized for stewardship built narrow but deep liquidity, capable
 
 The theology of capital that shaped these decisions is simple.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* notes that a good man leaves an inheritance to his children's children.
+ notes that a good man leaves an inheritance to his children's children.
 
 This is not sentiment.
 

@@ -28,11 +28,11 @@ Families, institutions, and regional economies that maintain a covenantal approa
 
 The Christian industrial legacy of the Nordics, the Spirit of Gnosjö, and the theology of capital found in texts such as
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* have produced a distinct operational competence: capital that behaves with direction, constraint, and duty.
+ have produced a distinct operational competence: capital that behaves with direction, constraint, and duty.
 
 This briefing outlines the architecture of generational stewardship through an institutional lens.
 
@@ -176,15 +176,15 @@ It is a systematic model composed of three distinct layers.
 
 LAYER ONE.
 
-THEOLOGY OF CAPITAL The theology of capital provides the philosophical anchor. **Proverbs 13:22
+THEOLOGY OF CAPITAL The theology of capital provides the philosophical anchor. Proverbs 13:22
 
-* 
+ 
 
-* establishes a generational mandate. **Deuteronomy 8:18
+ establishes a generational mandate. Deuteronomy 8:18
 
-* 
+ 
 
-* clarifies the source of productive capacity.
+ clarifies the source of productive capacity.
 
 This worldview creates a moral regulator that defines the boundaries of acceptable capital behavior.
 
@@ -260,11 +260,11 @@ TIME FILTER Does the decision strengthen or weaken the
 
 2.
 
-MORAL FILTER Does the deployment align with the covenantal responsibility implied in **Proverbs 13:22
+MORAL FILTER Does the deployment align with the covenantal responsibility implied in Proverbs 13:22
 
-* 
+ 
 
-* . 
+ . 
 
 3.
 

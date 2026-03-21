@@ -36,11 +36,11 @@ The purpose of this brief is to establish a strategic alignment blueprint for lo
 
 The brief assumes a family enterprise with entrenched industrial DNA, heterogeneous capital appetites, and the moral expectation that wealth functions not as status but as stewardship.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* directs THE MANDAT
+ directs THE MANDAT
 
 E
 
@@ -363,16 +363,7 @@ Without autonomy, the office becomes reactive and defensive.
 Capital ecosystems must be built around long‑arc macro truths.
 
 Demographics.
-
-Energy flows.
-
-Logistics chokepoints.
-
-Industrial reshoring.
-
-Water scarcity.
-
-Monetary cyclicality.
+ Energy flows. Logistics chokepoints. Industrial reshoring. Water scarcity. Monetary cyclicality.
 
 These truths outlast news cycles.
 
@@ -410,11 +401,11 @@ The office must commit to the following imperatives:
 
 - Engineer internal trust as a structural asset.
 
-- Anchor every decision to **Proverbs 13:22
+- Anchor every decision to Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 At scale, alignment becomes an engine.
 

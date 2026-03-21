@@ -30,13 +30,13 @@ No abstractions.
 
 No sentimental theology.
 
-Only covenantal truth. *"Teach us to number our days, that we may apply our hearts unto wisdom."
+Only covenantal truth. "Teach us to number our days, that we may apply our hearts unto wisdom."
 
-* ‑ **Psalm 90:12
+ ‑ Psalm 90:12
 
-* 
+ 
 
-* A concentrated portfolio is not an act of aggression.
+ A concentrated portfolio is not an act of aggression.
 
 It is an act of devotion.
 
@@ -72,9 +72,9 @@ Legacy determines allocation.
 
 Now the architecture deepens.
 
-A concentrated portfolio must answer a single question: *Is the capital serving the mission, or is the mission serving the capital?
+A concentrated portfolio must answer a single question: Is the capital serving the mission, or is the mission serving the capital?
 
-* If you bend the mission to fit the capital, you break the covenant.
+ If you bend the mission to fit the capital, you break the covenant.
 
 If you bend the capital to fit the mission, you build the house on rock.
 
@@ -117,16 +117,7 @@ When the steward is anchored, concentration becomes alignment.
 Alignment becomes conviction.
 
 Conviction becomes sovereignty. “Machine Gun” sentences for clarity: Conviction commands.
-
-Noise fades.
-
-Markets shift.
-
-Principles hold.
-
-Stewardship endures.
-
-Phase Two.
+ Noise fades. Markets shift. Principles hold. Stewardship endures. Phase Two.
 
 Principal Tone.
 
@@ -172,15 +163,15 @@ He protects the enterprise from moral decay, philosophical drift, and the tempta
 
 There is no room for idleness in a faith‑aligned capital structure.
 
-The Protestant ethic condemns stagnation as severely as waste. *"In all labour there is profit: but the talk of the lips tendeth only to penury."
+The Protestant ethic condemns stagnation as severely as waste. "In all labour there is profit: but the talk of the lips tendeth only to penury."
 
-* ‑ **Proverbs 14:23
+ ‑ Proverbs 14:23
 
-* 
+ 
 
-* Every asset must serve a productive purpose.
+ Every asset must serve a productive purpose.
 
-Even when held long-term, it must be *working*-creating value, creating opportunity, creating resilience.
+Even when held long-term, it must be working-creating value, creating opportunity, creating resilience.
 
 Ultra‑concentration demands this with even greater rigor.
 
@@ -206,14 +197,14 @@ No ambiguity.
 
 No improvisation.
 
-Faith‑aligned capital has a mandate: prepare the children’s children. *"One generation shall praise thy works to another, and shall declare thy mighty acts."
+Faith‑aligned capital has a mandate: prepare the children’s children. "One generation shall praise thy works to another, and shall declare thy mighty acts."
 
-* ‑ **Psalm 145:
+ ‑ Psalm 145:
 4
 
-* 
+ 
 
-* The Industrial Mandate for Value Creation is the final anchor.
+ The Industrial Mandate for Value Creation is the final anchor.
 
 This is where the Gnosjö spirit meets Christian duty.
 
@@ -429,13 +420,13 @@ If the mission served the capital, the next generation receives confusion.
 
 All concentrated families face this crossroads.
 
-Only a morally governed architecture ensures the correct path. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
+Only a morally governed architecture ensures the correct path. "The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 
-* ‑ **Psalm 33:11
+ ‑ Psalm 33:11
 
-* 
+ 
 
-* Final clarity from the Principal’s chair: Concentrated capital is not dangerous.
+ Final clarity from the Principal’s chair: Concentrated capital is not dangerous.
 
 Unprincipled capital is dangerous.
 

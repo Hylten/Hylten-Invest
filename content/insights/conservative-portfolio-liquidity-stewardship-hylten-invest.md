@@ -14,11 +14,11 @@ He begins with survival.
 
 He begins with continuity.
 
-He begins with the family-level mandate encoded in **Proverbs 13:22
+He begins with the family-level mandate encoded in Proverbs 13:22
 
-* 
+ 
 
-* : a good man leaves an inheritance to his children's children.
+ : a good man leaves an inheritance to his children's children.
 
 That is not sentiment.
 
@@ -63,16 +63,7 @@ As a living reflection of the household’s theology of capital.
 This brief outlines that architecture.
 
 It moves from structural liquidity design to jurisdictional arbitrage to hard-asset cash engines to Fund-III design logic to intergenerational transmission.
-
-No fillers.
-
-No summaries.
-
-Only conviction.
-
-Liquidity first.
-
-Returns second.
+ No fillers. No summaries. Only conviction. Liquidity first. Returns second.
 
 Survival always.
 
@@ -194,11 +185,7 @@ They harden capital.
 
 They provide the covenantal margin that protects the family enterprise from the temptations of leverage.
 
-Hard assets defend.
-
-Cash flows redeem.
-
-Liquidity liberates.
+Hard assets defend. Cash flows redeem. Liquidity liberates.
 
 - 
 
@@ -553,11 +540,11 @@ If liquidity dies when the principal dies, stewardship failed.
 
 Liquidity is calling.
 
-Liquidity is obedience to **Proverbs 13:22
+Liquidity is obedience to Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 This is why Hylten‑Invest refuses complexity dressed as sophistication.
 

@@ -144,11 +144,11 @@ Stewardship governance requires:
 
 - Covenant with the community ecosystem that surrounds the asset.
 
-Scripture affirms this discipline. **Proverbs 13:22
+Scripture affirms this discipline. Proverbs 13:22
 
-* 
+ 
 
-* articulates the principle: A good person leaves an inheritance to their children's children.
+ articulates the principle: A good person leaves an inheritance to their children's children.
 
 This is not sentiment.
 

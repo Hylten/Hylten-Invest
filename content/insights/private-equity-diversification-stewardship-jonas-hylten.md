@@ -260,11 +260,11 @@ Stewardship ensures:
 
 1.
 
-Theology of Capital Stewardship begins with the recognition that capital is entrusted, not owned. **Proverbs 13:22
+Theology of Capital Stewardship begins with the recognition that capital is entrusted, not owned. Proverbs 13:22
 
-* 
+ 
 
-* anchors this reality.
+ anchors this reality.
 
 A good man leaves an inheritance for his children's children.
 

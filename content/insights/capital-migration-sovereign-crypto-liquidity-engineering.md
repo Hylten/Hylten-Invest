@@ -24,13 +24,13 @@ This is the central navigational challenge for UHNW families with operational fo
 
 The former assumption that macro environments would ultimately harmonize under a shared regulatory architecture has dissolved.
 
-* Regulatory drift between the EU and North America which increases latency in capital movement.
+ Regulatory drift between the EU and North America which increases latency in capital movement.
 
-* A renewed emphasis on national security that impacts financial flows, even when unspoken.
+ A renewed emphasis on national security that impacts financial flows, even when unspoken.
 
-* The institutionalization of blockchain infrastructure at the central bank level, primarily as a settlement enhancer rather than a monetary experiment.
+ The institutionalization of blockchain infrastructure at the central bank level, primarily as a settlement enhancer rather than a monetary experiment.
 
-* A global shift toward asset hardening as a response to fiat volatility and political uncertainty.
+ A global shift toward asset hardening as a response to fiat volatility and political uncertainty.
 
 The conse­quence is a new form of capital migration.
 
@@ -50,13 +50,13 @@ They remove time friction, jurisdictional friction, and legacy system friction w
 
 The allocator landscape is now characterized by:
 
-* Demand for immediate settlement across borders.
+ Demand for immediate settlement across borders.
 
-* The need to separate operational liquidity from long duration holdings without weakening the integrity of the balance sheet.
+ The need to separate operational liquidity from long duration holdings without weakening the integrity of the balance sheet.
 
-* Interest in instruments that are not dependent on the banking hours of any one nation.
+ Interest in instruments that are not dependent on the banking hours of any one nation.
 
-* Structural acceptance that future capital regimes will prioritize programmability and transparency.
+ Structural acceptance that future capital regimes will prioritize programmability and transparency.
 
 Global families that fail to adapt will experience a gradual compression of mobility and an inflation of compliance cost.
 
@@ -156,25 +156,25 @@ Roials Capital reframes it as infrastructure.
 
 This includes:
 
-* Litigation proof custody
+ Litigation proof custody
 
-* Multi signature institutional controls
+ Multi signature institutional controls
 
-* White listed transfer networks
+ White listed transfer networks
 
-* Tokenized sovereign exposures
+ Tokenized sovereign exposures
 
-* Regulated stable unit settlement corridors This model is particularly relevant for families that already hold operational exposure to real assets, private credit, or industrial enterprises.
+ Regulated stable unit settlement corridors This model is particularly relevant for families that already hold operational exposure to real assets, private credit, or industrial enterprises.
 
 Mobility enhances stewardship.
 
 Stewardship enhances durability.
 
-THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL My work in the Nordics has always operated under the conviction that capital is not an object but a responsibility. **Proverbs 13:22
+THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL My work in the Nordics has always operated under the conviction that capital is not an object but a responsibility. Proverbs 13:22
 
-* 
+ 
 
-* states that a good person leaves an inheritance to their grandchildren, meaning that wealth must be structured to outlast individual lifetimes.
+ states that a good person leaves an inheritance to their grandchildren, meaning that wealth must be structured to outlast individual lifetimes.
 
 This requires discipline, clarity, and strategy.
 
@@ -202,15 +202,15 @@ Every secure transfer, every preserved option, every compliant movement of liqui
 
 DECISION MAKING LENS FOR THE GLOBAL ALLOCATOR Allocators evaluating sovereign crypto liquidity infrastructure should examine the question through five filters:
 
-* Does the architecture increase or decrease dependency on any one jurisdiction.
+ Does the architecture increase or decrease dependency on any one jurisdiction.
 
-* Does it enhance or restrict operational liquidity.
+ Does it enhance or restrict operational liquidity.
 
-* Does it strengthen or weaken audit transparency.
+ Does it strengthen or weaken audit transparency.
 
-* Does it accelerate or hinder balance sheet optimization.
+ Does it accelerate or hinder balance sheet optimization.
 
-* Does it align with long horizon stewardship mandates.
+ Does it align with long horizon stewardship mandates.
 
 Families that integrate sovereign liquidity rails position themselves above jurisdictional noise.
 

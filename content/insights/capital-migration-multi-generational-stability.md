@@ -176,11 +176,11 @@ It is governance.
 
 It is the disciplined management of resources with the intent of strengthening future generations.
 
-The theology of capital recognizes that wealth is not accumulated for consumption but entrusted for productive use. **Proverbs 13:22
+The theology of capital recognizes that wealth is not accumulated for consumption but entrusted for productive use. Proverbs 13:22
 
-* 
+ 
 
-* states that a good person leaves an inheritance to children and grandchildren.
+ states that a good person leaves an inheritance to children and grandchildren.
 
 The verse is not merely ethical guidance.
 

@@ -68,16 +68,16 @@ The last decade delivered a cascade of financial engines built by men without an
 
 When the tide receded, what remained were balance sheets with numbers but no foundations.
 
-The world rediscovered a truth older than the markets: *"He that walketh uprightly walketh surely."
+The world rediscovered a truth older than the markets: "He that walketh uprightly walketh surely."
 
-* 
+ 
 
-- **Proverbs 10:
+- Proverbs 10:
 9
 
-* 
+ 
 
-* The upright walk surely not because the road is free of obstacles but because their internal architecture absorbs shocks.
+ The upright walk surely not because the road is free of obstacles but because their internal architecture absorbs shocks.
 
 Institutional capital, confronted with geopolitical volatility, sovereign debt pressures, and a credit cycle that will not stabilize, is rotating toward this internal architecture.
 
@@ -253,11 +253,7 @@ THE PRACTICAL REALITY THE ALLOCATOR’S REPRICING MODEL Institutions are quantif
 
 Not abstractions.
 
-Not branding exercises.
-
-Not boardroom slogans.
-
-Actual models.
+Not branding exercises. Not boardroom slogans. Actual models.
 
 Actual scoring.
 
@@ -347,11 +343,7 @@ That is the repricing mechanism.
 
 A final machine gun set: Principle beats pretense.
 
-Covenant beats chaos.
-
-Duty beats drift.
-
-Stewardship wins.
+Covenant beats chaos. Duty beats drift. Stewardship wins.
 
 If one requires structural validation, observe how leading institutions now benchmark covenant-driven leaders as the stability premium in their risk models.
 

@@ -18,11 +18,11 @@ Family offices with generational identity are repositioning toward stewardship-b
 
 These principles align closely with the Nordic industrial ethic that shaped the Spirit of Gnosjö: responsibility first, efficiency second, profit as the byproduct rather than the mission.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 A good man leaves an inheritance to his children's children.
 
@@ -248,11 +248,11 @@ The Multiplication Mandate
 
 The Moral Mandate
 
-- Responsible dominion over resources is a biblical expectation, not an optional value. **Genesis 2:15
+- Responsible dominion over resources is a biblical expectation, not an optional value. Genesis 2:15
 
-* 
+ 
 
-* .
+ .
 
 - The allocator is a caretaker, not an extractor.
 
@@ -266,12 +266,12 @@ The Continuity Mandate
 
 - Capital carries identity.
 
-- **Proverbs 22:
+- Proverbs 22:
 1
 
-* 
+ 
 
-* .
+ .
 
 A good name is to be chosen rather than great riches.
 

@@ -38,11 +38,11 @@ In this context, liquidity architecture is a form of strategic governance.
 
 It determines which opportunities the family can capture, which risks can be neutralized, and which legacy constraints can be dissolved without impairing long term compound performance.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* establishes the principle of intergenerational stewardship, and Institutional Liquidity Paths is the operational counterpart of that mandate.
+ establishes the principle of intergenerational stewardship, and Institutional Liquidity Paths is the operational counterpart of that mandate.
 
 It ensures the family retains functional power across market cycles rather than becoming dependent on distressed exits, punitive liquidity events, or capital-raising windows that no longer exist when volatility intensifies.
 

@@ -26,16 +26,16 @@ A simple truth reasserts itself.
 
 Moral authority compounds.
 
-Professionalized management does not. *"The integrity of the upright shall guide them."
+Professionalized management does not. "The integrity of the upright shall guide them."
 
-* 
+ 
 
-- **Proverbs 11:
+- Proverbs 11:
 3
 
-* 
+ 
 
-* 
+ 
 
 ### Phase I:
 
@@ -65,11 +65,11 @@ He works under witness.
 
 Stewardship leadership has three core mechanics that are now beating the professionalization thesis across the middle-market landscape: 
 
-1. **Temporal Sovereignty
+1. Temporal Sovereignty
 
-* 
+ 
 
-* The steward thinks in generational arcs, not quarterly reports.
+ The steward thinks in generational arcs, not quarterly reports.
 
 Decisions align with durability, regenerative capital formation, and the long obedience of building something worthy of inheritance.
 
@@ -81,11 +81,11 @@ Their exit path is preset.
 
 Their loyalty is to the model, not the mission. 
 
-2. **Embedded Moral Authority
+2. Embedded Moral Authority
 
-* 
+ 
 
-* Markets reward credibility.
+ Markets reward credibility.
 
 Workers reward honor.
 
@@ -101,11 +101,11 @@ They rely on incentive packages.
 
 The steward relies on duty. 
 
-3. **Proximity to the Work
+3. Proximity to the Work
 
-* 
+ 
 
-* The steward knows the furnace.
+ The steward knows the furnace.
 
 He knows the forge.
 
@@ -189,11 +189,7 @@ He is agile because responsibility requires it.
 
 Consider the Swedish 1874 forge culture.
 
-Steel cooled slowly.
-
-Characters formed slowly.
-
-Convictions hardened.
+Steel cooled slowly. Characters formed slowly. Convictions hardened.
 
 That lineage created companies that endure today not because they were optimized, but because they were anchored.
 

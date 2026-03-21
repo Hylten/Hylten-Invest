@@ -168,11 +168,11 @@ THE STEWARDSHIP FILTER The foundation of multi generational liquidity is steward
 
 This is not a financial term.
 
-It is a moral and operational mandate rooted in the theology of capital. **Proverbs 13:22
+It is a moral and operational mandate rooted in the theology of capital. Proverbs 13:22
 
-* 
+ 
 
-* states that a good person leaves an inheritance to their children's children.
+ states that a good person leaves an inheritance to their children's children.
 
 This principle is not about wealth accumulation.
 

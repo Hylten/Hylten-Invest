@@ -162,11 +162,11 @@ Three principles are central:
 
 Growth is legitimate only when core assets are protected and stabilized.
 
-- Maintenance before Leverage. **Proverbs 13:22
+- Maintenance before Leverage. Proverbs 13:22
 
-* 
+ 
 
-* frames inheritance as a responsibility for structural prudence, not risk proliferation.
+ frames inheritance as a responsibility for structural prudence, not risk proliferation.
 
 - Truth before Valuation.
 

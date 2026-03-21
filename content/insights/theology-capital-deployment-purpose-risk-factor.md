@@ -68,16 +68,16 @@ Duty.
 
 Consequence.
 
-These are not abstractions; they are industrial safeguards. *"The integrity of the upright shall guide them."
+These are not abstractions; they are industrial safeguards. "The integrity of the upright shall guide them."
 
-* 
+ 
 
-- **Proverbs 11:
+- Proverbs 11:
 3
 
-* 
+ 
 
-* Guidance is not optional.
+ Guidance is not optional.
 
 It is the architecture that separates sovereign capital from drifting capital.
 

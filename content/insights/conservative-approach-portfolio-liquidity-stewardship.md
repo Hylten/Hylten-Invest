@@ -88,11 +88,11 @@ Generational capital, by nature, cannot tolerate dependency.
 
 The stewardship perspective views liquidity as a tool of responsibility, not speculation.
 
-What modern finance calls liquidity optionality, the Christian industrial legacy simply called preparedness. **Proverbs 21:20
+What modern finance calls liquidity optionality, the Christian industrial legacy simply called preparedness. Proverbs 21:20
 
-* 
+ 
 
-* describes the principle directly.
+ describes the principle directly.
 
 Wise families store resources not for complacency but for duty.
 
@@ -320,11 +320,11 @@ Confusion in hierarchy produces misallocation.
 
 5.
 
-Alignment with Scripture. **Proverbs 13:22
+Alignment with Scripture. Proverbs 13:22
 
-* 
+ 
 
-* presents a clear mandate.
+ presents a clear mandate.
 
 A wise person leaves an inheritance not only to children but to grandchildren.
 

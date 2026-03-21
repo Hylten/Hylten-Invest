@@ -32,15 +32,15 @@ Moral authority carries the platform.
 
 I write this as a Principal, not a commentator.
 
-What follows is an internal briefing-vault language, not public narrative. *“Thy faithfulness is unto all generations.”
+What follows is an internal briefing-vault language, not public narrative. “Thy faithfulness is unto all generations.”
 
-* 
+ 
 
-- **Psalms 119:90
+- Psalms 119:90
 
-* 
+ 
 
-* Phase shifts begin here. 
+ Phase shifts begin here. 
 
 ### Phase I: -
 

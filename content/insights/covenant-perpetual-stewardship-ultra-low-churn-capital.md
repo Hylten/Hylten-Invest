@@ -32,15 +32,15 @@ High churn creates orphans-financially, institutionally, spiritually.
 
 You do not build a forge in 1874 and then trade the forge every seven years because a committee demands a mark-to-market exit.
 
-You build it once, and your children’s children inherit the wealth, the craft, the discipline, and the obligation. *"The counsel of the Lord standeth for ever, the thoughts of His heart to all generations."
+You build it once, and your children’s children inherit the wealth, the craft, the discipline, and the obligation. "The counsel of the Lord standeth for ever, the thoughts of His heart to all generations."
 
-* 
+ 
 
-- **Psalm 33:11
+- Psalm 33:11
 
-* 
+ 
 
-* This is the operating system behind ultra‑low‑churn capital: permanence as design, not inertia.
+ This is the operating system behind ultra‑low‑churn capital: permanence as design, not inertia.
 
 Continuity as duty, not hesitation.
 
@@ -160,16 +160,16 @@ Discipline.
 
 The Protestant work ethic was never about toil; it was about order.
 
-It was about clarity of duty before God. *"Commit thy works unto the Lord, and thy thoughts shall be established."
+It was about clarity of duty before God. "Commit thy works unto the Lord, and thy thoughts shall be established."
 
-* 
+ 
 
-- **Proverbs 16:
+- Proverbs 16:
 3
 
-* 
+ 
 
-* Ultra‑low‑churn capital is industrial in spirit even when applied to digital or intellectual holdings.
+ Ultra‑low‑churn capital is industrial in spirit even when applied to digital or intellectual holdings.
 
 Its demand is the same: you finish what you start, and you build for people not yet born.
 
@@ -263,18 +263,18 @@ It is the reason industrial Sweden, industrial Germany, and industrial America b
 
 Perpetual stewardship vehicles revive this ethic.
 
-They convert moral clarity into financial endurance. *"Blessed is the man that feareth the Lord, that delighteth greatly in His commandments.
+They convert moral clarity into financial endurance. "Blessed is the man that feareth the Lord, that delighteth greatly in His commandments.
 
 His seed shall be mighty upon earth."
 
-* 
+ 
 
-- **Psalm 112:
+- Psalm 112:
 1
 
-* 
+ 
 
-* 
+ 
 
 - 2 The seed is the enterprise.
 
@@ -420,15 +420,15 @@ Uphold the industrial ethic.
 
 Build the sovereign architecture that endures.
 
-This is the calling. *"The wise shall inherit glory."
+This is the calling. "The wise shall inherit glory."
 
-* 
+ 
 
-- **Proverbs 3:35
+- Proverbs 3:35
 
-* 
+ 
 
-* The glory is not personal.
+ The glory is not personal.
 
 The glory is generational continuity.
 

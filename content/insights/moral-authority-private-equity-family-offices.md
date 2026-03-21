@@ -30,16 +30,16 @@ It defines whether a family office becomes a caretaker or a dissipator.
 
 It defines whether capital compounds across three generations or collapses by the second.
 
-It defines whether the allocation to private equity becomes a disciplined extension of vocation or a fashionable drift into opacity. *"He that walketh uprightly walketh surely; but he that perverteth his ways shall be known."
+It defines whether the allocation to private equity becomes a disciplined extension of vocation or a fashionable drift into opacity. "He that walketh uprightly walketh surely; but he that perverteth his ways shall be known."
 
-* 
+ 
 
-- **Proverbs 10:
+- Proverbs 10:
 9
 
-* 
+ 
 
-* The verse is blunt.
+ The verse is blunt.
 
 Integrity secures stability.
 
@@ -275,16 +275,16 @@ The family office that operates under this ethos becomes immovable.
 
 Markets fluctuate, but conviction remains.
 
-Volatility becomes manageable because the underlying assets are built on real value creation, not price momentum. *"The integrity of the upright shall guide them."
+Volatility becomes manageable because the underlying assets are built on real value creation, not price momentum. "The integrity of the upright shall guide them."
 
-* 
+ 
 
-- **Proverbs 11:
+- Proverbs 11:
 3
 
-* 
+ 
 
-* Guide.
+ Guide.
 
 That is the word.
 
@@ -422,9 +422,9 @@ Stewardship-driven asset managers.
 
 Transparent operational leaders.
 
-In certain cases, this includes structuring channels such as *institutional capital execution through Roials Capital
+In certain cases, this includes structuring channels such as institutional capital execution through Roials Capital
 
-* ([Roials Capital](https://roialscapital.com/)) when jurisdictional design is required
+ ([Roials Capital](https://roialscapital.com/)) when jurisdictional design is required
 
 - but always with ethical alignment at the core.
 
@@ -452,16 +452,16 @@ They must stand where previous generations stood
 
 - on principle, not on convenience.
 
-On stewardship, not on drift. *"The just man walketh in his integrity: his children are blessed after him."
+On stewardship, not on drift. "The just man walketh in his integrity: his children are blessed after him."
 
-* 
+ 
 
-- **Proverbs 20:
+- Proverbs 20:
 7
 
-* 
+ 
 
-* This is the architecture.
+ This is the architecture.
 
 This is the standard.
 

@@ -40,7 +40,7 @@ The Hylten Invest Liquidity Philosophy Liquidity should not be speculative
 
 It should be structural.
 
-At Hylten Invest, liquidity is framed around the idea of *capital without noise*, meaning Access is restricted to approved mandates.
+At Hylten Invest, liquidity is framed around the idea of capital without noise, meaning Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 

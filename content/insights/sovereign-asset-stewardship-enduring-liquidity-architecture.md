@@ -52,11 +52,11 @@ Stewardship demands operational literacy across both.
 
 It is insufficient to maintain capital.
 
-One must maintain the infrastructure that maintains capital. **Proverbs 13:22
+One must maintain the infrastructure that maintains capital. Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Sovereign assets must therefore be structured not as static holdings but as dynamic organisms.
 
@@ -314,12 +314,12 @@ Liquidity that can disappear is not liquidity.
 
 Yield that collapses in contraction is not yield.
 
-The steward must maintain what he governs. **Proverbs 24:
+The steward must maintain what he governs. Proverbs 24:
 3
 
-* 
+ 
 
-* . 
+ . 
 
 2.
 

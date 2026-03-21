@@ -212,11 +212,11 @@ In Swedish industrial history, the Spirit of Gnosjö created a culture where cap
 
 This produced a generation of companies that thrived through resource scarcity, global competition, and industrial restructuring.
 
-The Biblical framing of stewardship is functional rather than symbolic. **Proverbs 13:22
+The Biblical framing of stewardship is functional rather than symbolic. Proverbs 13:22
 
-* 
+ 
 
-* states that a good man leaves an inheritance to his children's children.
+ states that a good man leaves an inheritance to his children's children.
 
 This is not about wealth accumulation.
 

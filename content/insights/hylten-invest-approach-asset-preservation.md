@@ -122,11 +122,11 @@ This ensures alignment between resource allocation and real world constraints.
 
 The Hylten philosophy treats governance as part of the moral architecture of capital.
 
-Stewardship reflects **Proverbs 13:22
+Stewardship reflects Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Capital must be allocated with awareness of generational impact.
 
@@ -196,11 +196,11 @@ Duty of continuity Decisions must not degrade the asset base for future generati
 
 Capital is entrusted, not owned in permanence.
 
-This aligns with the principle expressed in **Proverbs 22:29
+This aligns with the principle expressed in Proverbs 22:29
 
-* 
+ 
 
-* regarding excellence in work and its societal positioning. 
+ regarding excellence in work and its societal positioning. 
 
 3.
 

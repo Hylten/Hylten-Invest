@@ -102,11 +102,11 @@ It functions through several technical components that collectively produce effi
 
 1.
 
-Trust as a capital allocation filter Småland industrialists treat capital as a resource with spiritual accountability. **Proverbs 13:22
+Trust as a capital allocation filter Småland industrialists treat capital as a resource with spiritual accountability. Proverbs 13:22
 
-* 
+ 
 
-* defines stewardship as multigenerational preparation.
+ defines stewardship as multigenerational preparation.
 
 This produces an institutional mindset where capital is deployed only when value creation is measurable, not theoretical. 
 
@@ -248,12 +248,12 @@ The theology of capital teaches that resources are entrusted and not owned.
 
 This belief removes short term extraction incentives and aligns behavior with multi generational responsibility.
 
-It creates a governance environment where decisions must survive scrutiny across decades. **Proverbs 16:
+It creates a governance environment where decisions must survive scrutiny across decades. Proverbs 16:
 3
 
-* 
+ 
 
-* highlights the alignment between deliberate action and sustained outcomes.
+ highlights the alignment between deliberate action and sustained outcomes.
 
 The Gnosjö model adheres to this logic.
 

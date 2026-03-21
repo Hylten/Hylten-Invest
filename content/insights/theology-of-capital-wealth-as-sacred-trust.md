@@ -194,11 +194,11 @@ This filter operates across four dimensions:
 
 1.
 
-Temporal discipline Long-horizon thinking governs investment discipline. **Proverbs 13:22
+Temporal discipline Long-horizon thinking governs investment discipline. Proverbs 13:22
 
-* 
+ 
 
-* defines the generational mandate.
+ defines the generational mandate.
 
 A good man leaves an inheritance not only of assets but of stability. 
 

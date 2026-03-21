@@ -72,15 +72,15 @@ This is the Steward’s Edge: the moral architecture that binds psychology to re
 
 Without it, wealth is accidental.
 
-With it, wealth becomes inheritance. *"He that ruleth his spirit is better than he that taketh a city."
+With it, wealth becomes inheritance. "He that ruleth his spirit is better than he that taketh a city."
 
-* 
+ 
 
-- **Proverbs 16:32
+- Proverbs 16:32
 
-* 
+ 
 
-* CONTROL OF IMPULSE The first pillar.
+ CONTROL OF IMPULSE The first pillar.
 
 The most violated.
 
@@ -98,11 +98,7 @@ He operates on covenant time, not market time.
 
 Moral time, not emotional time.
 
-Impulse corrodes judgment.
-
-Discipline strengthens it.
-
-Structured analysis.
+Impulse corrodes judgment. Discipline strengthens it. Structured analysis.
 
 Impulse leads to reactive shifts in asset positioning.
 

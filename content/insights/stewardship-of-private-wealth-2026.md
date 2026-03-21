@@ -152,11 +152,11 @@ It is a command.
 
 Capital is not a possession.
 
-It is a responsibility delegated by God, and that responsibility includes the duty to multiply without waste. **Proverbs 13:22
+It is a responsibility delegated by God, and that responsibility includes the duty to multiply without waste. Proverbs 13:22
 
-* 
+ 
 
-* establishes the generational mandate.
+ establishes the generational mandate.
 
 A steward must think in epochs, not quarters.
 
@@ -194,11 +194,11 @@ Stewardship rejects such structures.
 
 2.
 
-Does this deployment strengthen generational continuity An allocation that cannot endure volatility or provide compounding strategic positioning does not meet the standard of **Proverbs 13:22
+Does this deployment strengthen generational continuity An allocation that cannot endure volatility or provide compounding strategic positioning does not meet the standard of Proverbs 13:22
 
-* 
+ 
 
-* . 
+ . 
 
 3.
 

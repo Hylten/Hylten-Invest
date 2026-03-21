@@ -48,16 +48,16 @@ He protects craft.
 
 He protects people.
 
-He protects the covenant of enterprise passed down from forge, workshop, and chapel. *"He that walketh uprightly walketh surely."
+He protects the covenant of enterprise passed down from forge, workshop, and chapel. "He that walketh uprightly walketh surely."
 
-* 
+ 
 
-- **Proverbs 10:
+- Proverbs 10:
 9
 
-* 
+ 
 
-* Direct co‑investment partners see the distinction instantly.
+ Direct co‑investment partners see the distinction instantly.
 
 A values‑driven founder operates with sovereign architecture.
 

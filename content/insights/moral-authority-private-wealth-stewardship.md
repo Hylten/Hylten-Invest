@@ -22,11 +22,11 @@ Wealth with mandate compounds.
 
 A good man leaves an inheritance to his children’s children (
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* ).
+ ).
 
 THE MANDAT
 
@@ -234,16 +234,7 @@ No authority.
 Moral mandate is established through covenantal clarity: the family exists to build, preserve, deploy, and transfer capital in alignment with Christian industrial values.
 
 Not prosperity theology.
-
-Production theology.
-
-Workmanship theology.
-
-Dominion theology.
-
-Honest yield.
-
-Ethical extraction.
+ Production theology. Workmanship theology. Dominion theology. Honest yield. Ethical extraction.
 
 Stewardship over surplus.
 
@@ -651,11 +642,7 @@ This is the foundation of true private wealth stewardship.
 
 Not technical expertise.
 
-Not asset selection.
-
-Not tactical agility.
-
-Moral authority.
+Not asset selection. Not tactical agility. Moral authority.
 
 Without it, the platform is noise.
 

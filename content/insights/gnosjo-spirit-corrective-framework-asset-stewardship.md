@@ -93,11 +93,11 @@ Businesses are structured around multi generational continuity.
 
 Leadership operates with an obligation to preserve and expand assets for future stewards.
 
-This aligns with the principle in **Proverbs 13:22
+This aligns with the principle in Proverbs 13:22
 
-* 
+ 
 
-* that a good individual leaves an inheritance for the following generations.
+ that a good individual leaves an inheritance for the following generations.
 
 The inheritance is not merely financial.
 
@@ -278,12 +278,12 @@ Nordic industrial systems optimized for preservation of productive capacity.
 In a global environment increasingly shaped by entropy, scarcity of expertise, and geopolitical instability, stewardship becomes a competitive advantage.
 
 The obligation assigned in 
-1 **Corinthians 4:
+1 Corinthians 4:
 2
 
-* 
+ 
 
-* that individuals who have been entrusted with resources must prove faithful is not sentimental.
+ that individuals who have been entrusted with resources must prove faithful is not sentimental.
 
 It is operational.
 

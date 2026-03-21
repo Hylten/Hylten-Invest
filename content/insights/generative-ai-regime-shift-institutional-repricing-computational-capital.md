@@ -264,11 +264,11 @@ It is a discipline rooted in the theology of capital.
 
 The allocator must treat computational power with the same moral gravity as industrial capability.
 
-The Spirit of Gnosjö defines capital as a generational mandate. **Proverbs 13:22
+The Spirit of Gnosjö defines capital as a generational mandate. Proverbs 13:22
 
-* 
+ 
 
-* frames capital as inheritance, not speculation.
+ frames capital as inheritance, not speculation.
 
 Stewardship therefore demands:
 

@@ -22,11 +22,11 @@ This briefing addresses the structural mechanics of trust within generational ca
 
 The perspective is grounded in the Nordic industrial tradition, the Spirit of Gnosjö, and the doctrine that capital must be stewarded with purpose, discipline, and long-term fidelity.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* establishes the thesis: "A good man leaves an inheritance to his children's children." This is not sentiment.
+ establishes the thesis: "A good man leaves an inheritance to his children's children." This is not sentiment.
 
 It is a design specification for the balance sheet of a multi-generational enterprise.
 
@@ -136,11 +136,11 @@ E
 
 .
 
-This is consistent with **Proverbs 22:29
+This is consistent with Proverbs 22:29
 
-* 
+ 
 
-* , which ties excellence to authority.
+ , which ties excellence to authority.
 
 Competence precedes command. 
 

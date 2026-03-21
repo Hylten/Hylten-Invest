@@ -26,11 +26,11 @@ Order is not an option.
 
 I write this from the vantage point of stewardship rather than opportunism.
 
-My framework is shaped by the industrial pietism of Småland, the Spirit of Gnosjö, and the Biblical injunction that wealth is not self-originating. **Proverbs 13:22
+My framework is shaped by the industrial pietism of Småland, the Spirit of Gnosjö, and the Biblical injunction that wealth is not self-originating. Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Capital is inherited responsibility before it becomes deployed authority.
 
@@ -88,11 +88,11 @@ It dictates the entire credit regime.
 
 We see three inefficiencies dominating the current environment.
 
-* Structural overpricing of perceived borrower risk.
+ Structural overpricing of perceived borrower risk.
 
-* Underpricing of disciplined stewardship capacity.
+ Underpricing of disciplined stewardship capacity.
 
-* Systemic misallocation of patient capital.
+ Systemic misallocation of patient capital.
 
 The greatest inefficiency is the second.
 
@@ -257,11 +257,11 @@ Theology provides the only coherent framework for moral authority in capital dep
 
 Without moral authority, all financial systems degrade into extraction.
 
-The Bible speaks repeatedly of stewardship. **Luke 16:10
+The Bible speaks repeatedly of stewardship. Luke 16:10
 
-* 
+ 
 
-* .
+ .
 
 Faithfulness with little produces capacity for more.
 
@@ -289,15 +289,15 @@ Responsibility preceded reward.
 
 This posture produces five outcomes that the market undervalues.
 
-* Higher covenant discipline.
+ Higher covenant discipline.
 
-* Lower operational entropy.
+ Lower operational entropy.
 
-* Superior asset maintenance.
+ Superior asset maintenance.
 
-* Greater reputational continuity.
+ Greater reputational continuity.
 
-* Stronger intergenerational transition.
+ Stronger intergenerational transition.
 
 These outcomes form the architecture of trust.
 
@@ -315,12 +315,12 @@ A borrower who wastes cannot be trusted.
 
 An investor who wastes cannot be honored.
 
-A generation that wastes forfeits inheritance. **Proverbs 21:
+A generation that wastes forfeits inheritance. Proverbs 21:
 5
 
-* 
+ 
 
-* .
+ .
 
 The stewardship filter is not decorative.
 

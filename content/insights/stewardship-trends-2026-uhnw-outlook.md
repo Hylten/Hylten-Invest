@@ -132,12 +132,12 @@ Stewardship Under Volatile Rate Regimes With rate regimes remaining structurally
 
 Yield is a byproduct of structural integrity, not the central objective.
 
-This shift aligns with the Biblical principle of responsible resource management seen in **Proverbs 21:
+This shift aligns with the Biblical principle of responsible resource management seen in Proverbs 21:
 5
 
-* 
+ 
 
-* . 
+ . 
 
 ### Phase III:
 
@@ -187,11 +187,11 @@ The stewardship filter applies five criteria:
 
 1.
 
-Moral Legitimacy An asset must align with the principle in **Proverbs 13:22
+Moral Legitimacy An asset must align with the principle in Proverbs 13:22
 
-* 
+ 
 
-* regarding the duty of a good man to leave an inheritance to his children.
+ regarding the duty of a good man to leave an inheritance to his children.
 
 This principle obligates the allocator to avoid speculative behavior and prioritize durable assets. 
 

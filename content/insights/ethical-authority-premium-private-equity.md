@@ -36,16 +36,16 @@ Value requires backbone.
 
 Legacy requires order.
 
-Enterprise requires truth. *"He that walketh uprightly walketh surely."
+Enterprise requires truth. "He that walketh uprightly walketh surely."
 
-* 
+ 
 
-- **Proverbs 10:
+- Proverbs 10:
 9
 
-* 
+ 
 
-* Principal logic:
+ Principal logic:
 
 - Authority is not declared.
 
@@ -67,11 +67,7 @@ Machine gun cadence: Generational discipline wins.
 
 Shallow capital flees.
 
-Deep capital commits.
-
-Moral authority compounds.
-
-Noise collapses.
+Deep capital commits. Moral authority compounds. Noise collapses.
 
 The Spirit of Gnosjö remains the blueprint.
 

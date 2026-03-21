@@ -80,11 +80,11 @@ This is particularly evident in sectors such as North American energy, specialty
 
 These pressures recalibrate the meaning of ownership.
 
-Stewardship requires an understanding that value grows in the presence of disciplined constraints. **Proverbs 13:22
+Stewardship requires an understanding that value grows in the presence of disciplined constraints. Proverbs 13:22
 
-* 
+ 
 
-* states that a good person leaves an inheritance for their children's children.
+ states that a good person leaves an inheritance for their children's children.
 
 This is governance, not sentiment.
 
@@ -188,11 +188,11 @@ Succession control includes:
 
 - Written governance principles anchored in moral and practical responsibility.
 
-- Decision-making guardrails that limit reactive allocation during generational transitions. **Ecclesiastes 7:12
+- Decision-making guardrails that limit reactive allocation during generational transitions. Ecclesiastes 7:12
 
-* 
+ 
 
-* teaches that wisdom preserves those who have it.
+ teaches that wisdom preserves those who have it.
 
 This applies to capital.
 
@@ -274,11 +274,11 @@ Capital must expand but never distort values.
 
 Inheritance must be earned, not presumed.
 
-The biblical instruction in **Luke 16:10
+The biblical instruction in Luke 16:10
 
-* 
+ 
 
-* that those who are faithful with little will be faithful with much is not about scale.
+ that those who are faithful with little will be faithful with much is not about scale.
 
 It is about discipline.
 

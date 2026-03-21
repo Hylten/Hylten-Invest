@@ -50,11 +50,11 @@ It is shaped by the habits of the steward, not the movements of the market.
 
 The theological foundation is clear: capital is a responsibility given for the purpose of construction, not extraction.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* articulates this orientation with precision.
+ articulates this orientation with precision.
 
 TECHNICAL MECHANIC
 

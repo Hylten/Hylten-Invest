@@ -172,11 +172,11 @@ They stabilize the long horizon architecture.
 
 Theological Discipline Theology of capital is not metaphorical.
 
-It is a practical operating system rooted in historic Christian industrialism and Nordic stewardship culture. **Proverbs 13:22
+It is a practical operating system rooted in historic Christian industrialism and Nordic stewardship culture. Proverbs 13:22
 
-* 
+ 
 
-* remains the timeless directive.
+ remains the timeless directive.
 
 A good man leaves an inheritance to his children's children.
 

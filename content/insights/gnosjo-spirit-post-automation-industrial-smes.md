@@ -36,15 +36,15 @@ It will be the firm that understands what Gnosjö understood from the beginning:
 
 Character governs.
 
-And covenant sustains. *"Let your yea be yea; and your nay, nay: for whatsoever is more than these cometh of evil."
+And covenant sustains. "Let your yea be yea; and your nay, nay: for whatsoever is more than these cometh of evil."
 
-* 
+ 
 
-- **Matthew 5:37
+- Matthew 5:37
 
-* 
+ 
 
-* This is the foundation of an industrial culture where trust is capital, honor is infrastructure, and value creation is not an aspiration-it is a duty before God and the next generation.
+ This is the foundation of an industrial culture where trust is capital, honor is infrastructure, and value creation is not an aspiration-it is a duty before God and the next generation.
 
 Below is the architecture.
 
@@ -128,15 +128,15 @@ It is the opposite of the soft relativism that corrodes institutions from within
 
 And in the era of post‑automation, where supply chains fragment and digitalization accelerates, covenantal trust becomes a competitive advantage too scarce to imitate.
 
-Gnosjö demonstrates a permanent truth: Industrial strength is always cultural before it is mechanical. *"Be thou faithful unto death, and I will give thee a crown of life."
+Gnosjö demonstrates a permanent truth: Industrial strength is always cultural before it is mechanical. "Be thou faithful unto death, and I will give thee a crown of life."
 
-* 
+ 
 
-- **Revelation 2:10
+- Revelation 2:10
 
-* 
+ 
 
-* Faithfulness creates continuity.
+ Faithfulness creates continuity.
 
 Continuity creates compound value.
 
@@ -204,16 +204,16 @@ Stewardship directs.
 
 Legacy receives.
 
-This is the architecture that protects the children's children. *"Moreover it is required in stewards, that a man be found faithful."
+This is the architecture that protects the children's children. "Moreover it is required in stewards, that a man be found faithful."
 
-* 
+ 
 
-- 1 **Corinthians 4:
+- 1 Corinthians 4:
 2
 
-* 
+ 
 
-* 
+ 
 
 - 
 
@@ -261,15 +261,15 @@ This generates an industrial ecosystem with several defining advantages:
 
 The modern SME that internalizes these principles will outperform both the centralized corporate producer and the fragile start‑up model.
 
-The Gnosjö logic is not a relic; it is the blueprint for resilient industrial decentralization. *"In all labour there is profit: but the talk of the lips tendeth only to penury."
+The Gnosjö logic is not a relic; it is the blueprint for resilient industrial decentralization. "In all labour there is profit: but the talk of the lips tendeth only to penury."
 
-* 
+ 
 
-- **Proverbs 14:23
+- Proverbs 14:23
 
-* 
+ 
 
-* Let others debate the future of labor.
+ Let others debate the future of labor.
 
 The men of Gnosjö built.
 
@@ -375,16 +375,16 @@ This is the architecture Jonas Hyltén defends.
 
 Not for acclaim.
 
-For the children's children. *"Through wisdom is an house builded; and by understanding it is established."
+For the children's children. "Through wisdom is an house builded; and by understanding it is established."
 
-* 
+ 
 
-- **Proverbs 24:
+- Proverbs 24:
 3
 
-* 
+ 
 
-* 
+ 
 
 ### Phase II:
 

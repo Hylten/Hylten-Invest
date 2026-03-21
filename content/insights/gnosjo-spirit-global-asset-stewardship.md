@@ -154,11 +154,11 @@ THE STEWARDSHIP FILTER The Theology of Capital provides the governing lens
 
 Stewardship is not an aesthetic.
 
-It is an operational mandate defined in **Proverbs 13:22
+It is an operational mandate defined in Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Capital is a generational instrument.
 

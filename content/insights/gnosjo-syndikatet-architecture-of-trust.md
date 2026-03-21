@@ -40,11 +40,11 @@ A theology of responsibility.
 
 An anthropology of work.
 
-A covenant between hands and roofs and sons and daughters who would inherit a name before they inherited an asset. **Proverbs 13:22
+A covenant between hands and roofs and sons and daughters who would inherit a name before they inherited an asset. Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Capital becomes stewardship when the time horizon exceeds the ego.
 

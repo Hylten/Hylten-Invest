@@ -34,11 +34,11 @@ Christian moral arithmetic.
 
 Stewardship above ownership.
 
-Responsibility above appetite. **Proverbs 13:22
+Responsibility above appetite. Proverbs 13:22
 
-* 
+ 
 
-* : A good man leaveth an inheritance to his children's children.
+ : A good man leaveth an inheritance to his children's children.
 
 This is the governing logic.
 
@@ -229,16 +229,7 @@ The market misprices this stability because it cannot model morality.
 Yet morality is precisely what stabilizes liquidity through cycles.
 
 The governance model inside Hylten Invest mirrors classical Lutheran stewardship structures.
-
-Lean authority.
-
-Clear responsibility.
-
-Direct accountability.
-
-Small circle.
-
-High trust.
+ Lean authority. Clear responsibility. Direct accountability. Small circle. High trust.
 
 No bureaucracy.
 
@@ -386,11 +377,11 @@ Assets should outlive the founder.
 
 Liquidity should strengthen successors.
 
-Decisions must echo forward. **Proverbs 13:22
+Decisions must echo forward. Proverbs 13:22
 
-* 
+ 
 
-* remains the anchor: inheritance not as wealth, but as responsibility.
+ remains the anchor: inheritance not as wealth, but as responsibility.
 
 Every deployment must survive transitions in technology, politics, and sentiment.
 

@@ -248,11 +248,11 @@ The Spirit of Gnosjö shaped a culture where small communities built global indu
 
 Stewardship is the theology of responsible dominion.
 
-Finance, when properly aligned, follows the principles that govern creation. **Proverbs 13:22
+Finance, when properly aligned, follows the principles that govern creation. Proverbs 13:22
 
-* 
+ 
 
-* establishes the trans generational responsibility of capital.
+ establishes the trans generational responsibility of capital.
 
 A good person leaves an inheritance not only for children, but for grandchildren.
 

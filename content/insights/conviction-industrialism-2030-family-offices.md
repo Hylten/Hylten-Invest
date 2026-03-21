@@ -26,7 +26,7 @@ The factory produces the lineage.
 
 Where there is conviction, the asset endures.
 
-Where conviction fades, all structures drift toward entropy. *"Th
+Where conviction fades, all structures drift toward entropy. "Th
 
 Access is restricted to approved mandates.
 

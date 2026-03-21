@@ -34,16 +34,16 @@ Duty.
 
 They built more than firms.
 
-They built foundations. *"The earth is the Lord’s, and the fulness thereof."
+They built foundations. "The earth is the Lord’s, and the fulness thereof."
 
-* 
+ 
 
-- **Psalm 24:
+- Psalm 24:
 1
 
-* 
+ 
 
-* Sacred capital begins in recognition.
+ Sacred capital begins in recognition.
 
 You do not own the resource.
 

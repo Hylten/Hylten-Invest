@@ -74,11 +74,11 @@ Resource Constraint Management Stewardship begins with the assumption of limit.
 
 This is aligned with
 
-- **Proverbs 27:23
+- Proverbs 27:23
 
-* 
+ 
 
-* which instructs leaders to know the condition of their flocks.
+ which instructs leaders to know the condition of their flocks.
 
 Modern industrial environments suffer from an illusion of unlimited throughput because digital systems have obscured the physicality of production cycles.
 
@@ -156,11 +156,11 @@ It prioritizes alignment between operators, capital partners, and long-term valu
 
 It reduces exposure to over-optimized financial structures that lack operational grounding.
 
-It parallels the wisdom of **Proverbs 13:22
+It parallels the wisdom of Proverbs 13:22
 
-* 
+ 
 
-* which describes the enduring legacy of those who steward resources responsibly.
+ which describes the enduring legacy of those who steward resources responsibly.
 
 THE PARTNERSHIP MODEL OF ROIALS CAPITAL AND NAEO Roials Capital operates as a strategic navigator for allocators who seek to integrate stewardship into their capital deployment frameworks.
 

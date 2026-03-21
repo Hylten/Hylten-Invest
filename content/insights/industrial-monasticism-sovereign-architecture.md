@@ -31,16 +31,7 @@ Heavy machinery does not tolerate distraction.
 Neither does moral capital.
 
 This is the Gnosjö spirit at full compression: small circle, clear duty, relentless production.
-
-Discipline next.
-
-Hard lines.
-
-Tight tolerances.
-
-Clean floors.
-
-Honest ledgers.
+ Discipline next. Hard lines. Tight tolerances. Clean floors. Honest ledgers.
 
 When a workshop runs with monastic quiet, the output carries moral weight.
 
@@ -62,15 +53,15 @@ A forge in 1874 had one theological mandate: work as unto the Lord.
 
 Modern manufacturing has the same.
 
-Strip until only purpose remains. *"Let the beauty of the Lord our God be upon us: and establish thou the work of our hands upon us."
+Strip until only purpose remains. "Let the beauty of the Lord our God be upon us: and establish thou the work of our hands upon us."
 
-* 
+ 
 
-- **Psalm 90:17
+- Psalm 90:17
 
-* 
+ 
 
-* Hierarchy follows naturally.
+ Hierarchy follows naturally.
 
 The disciplined house produces stable value.
 

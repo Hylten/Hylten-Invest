@@ -16,11 +16,7 @@ Transaction costs fall when moral alignment is not negotiated but inherited.
 
 Covenant people move faster.
 
-They trust deeper.
-
-They default less.
-
-No theatrics.
+They trust deeper. They default less. No theatrics.
 
 No arbitrage of conscience.
 
@@ -52,15 +48,15 @@ A sovereign architecture of shared belief that compresses oversight, reduces com
 
 The moral cost center dissolves.
 
-What remains is enterprise. *"Be ye steadfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain."
+What remains is enterprise. "Be ye steadfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain."
 
-* 
+ 
 
-- 1 **Corinthians 15:58
+- 1 Corinthians 15:58
 
-* 
+ 
 
-* The Protestant Ethic matters here.
+ The Protestant Ethic matters here.
 
 Duty before gain.
 

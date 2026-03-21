@@ -613,4 +613,25 @@ footer {
   .nav-links {
     display: none;
   }
+
+  /* Prevent footer overflow on mobile */
+  .footer-links {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 1.5rem !important;
+    text-align: center !important;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .social-links {
+    justify-content: center;
+    width: 100%;
+  }
 }

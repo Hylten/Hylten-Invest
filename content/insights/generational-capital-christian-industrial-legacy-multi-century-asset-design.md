@@ -20,15 +20,15 @@ The Swedish industrial fathers understood this.
 
 The Gnosjö spirit was never improvisation; it was ordered creation.
 
-Discipline made visible in steel. *"The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
+Discipline made visible in steel. "The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 
-* 
+ 
 
-- **Psalm 33:11
+- Psalm 33:11
 
-* 
+ 
 
-* 
+ 
 
 # Phase C
 

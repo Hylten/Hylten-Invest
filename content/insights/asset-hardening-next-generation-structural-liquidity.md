@@ -200,11 +200,11 @@ The Spirit of Gnosjö shaped generations of Nordic industrial families through a
 
 Capital was not accumulated for personal expansion but reinvested into productive systems that strengthened the region.
 
-This principle aligns with the biblical mandate found in **Proverbs 13:22
+This principle aligns with the biblical mandate found in Proverbs 13:22
 
-* 
+ 
 
-* which emphasizes the responsibility to build structures that endure beyond the individual.
+ which emphasizes the responsibility to build structures that endure beyond the individual.
 
 The family balance sheet should not be a collection of unrelated assets.
 

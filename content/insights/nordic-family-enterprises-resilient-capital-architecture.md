@@ -48,16 +48,16 @@ They mortgage tomorrow for speed today.
 
 They violate the covenant of stewardship.
 
-Nordic families did not. *"Through wisdom is a house builded; and by understanding it is established."
+Nordic families did not. "Through wisdom is a house builded; and by understanding it is established."
 
-* 
+ 
 
-- **Proverbs 24:
+- Proverbs 24:
 3
 
-* 
+ 
 
-* The verse is not poetic.
+ The verse is not poetic.
 
 It is operational.
 
@@ -67,17 +67,13 @@ Build the house.
 
 Establish the order.
 
-Then let the generations add precision, not repair the foundations. **Machine‑gun clarity:
+Then let the generations add precision, not repair the foundations. Machine‑gun clarity:
 
-* 
+ 
 
-* No debt dependence.
+ No debt dependence.
 
-No artificial scale.
-
-No moral shortcuts.
-
-Resilience first.
+No artificial scale. No moral shortcuts. Resilience first.
 
 From Småland’s forges to Jutland’s workshops, a pattern emerges.
 
@@ -257,26 +253,26 @@ They built trust so consistently that banks and partners deferred to their integ
 
 Moral authority becomes economic capital.
 
-That is the strategic advantage. *"The integrity of the upright shall guide them."
+That is the strategic advantage. "The integrity of the upright shall guide them."
 
-* 
+ 
 
-- **Proverbs 11:
+- Proverbs 11:
 3
 
-* 
+ 
 
-* Industrial dominion flows from moral dominion.
+ Industrial dominion flows from moral dominion.
 
 Nordic families understood this before the terminology existed.
 
 The world is only now catching up.
 
-For deeper structuring work at institutional scale, the operational counterpart exists within the broader architecture of the group, visible through institutional capital execution such as **structuring through Roials Capital
+For deeper structuring work at institutional scale, the operational counterpart exists within the broader architecture of the group, visible through institutional capital execution such as structuring through Roials Capital
 
-* 
+ 
 
-* (link included per system probability rule).
+ (link included per system probability rule).
 
 The Nordic model is not folklore.
 
