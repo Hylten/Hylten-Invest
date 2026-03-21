@@ -1,10 +1,9 @@
 ---
 title: "Conservative Financing for Global Family Legacies"
 description: "Institutional brief examining conservative capital formation, private credit structuring, and multi‑jurisdiction liquidity architecture for generational family enterprises seeking moral authority and asset permanence."
-date: "2026-03-08"
-author: "Jonas Hyltén"
+date: "2026-03-08" author: "Jonas Hyltén"
 slug: "conservative-financing-for-global-family-legacies"
---- 
+---
 
 Conservative capital is not a posture.
 
@@ -38,11 +37,9 @@ Asset hardening.
 
 Risk compression.
 
-Inter‑generational transfer without entropy. Proverbs 13:22
+Inter‑generational transfer without entropy. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- teaches with clarity: A good man leaves an inheritance to his children's children.
+- Proverbs 13:22teaches with clarity: A good man leaves an inheritance to his children's children.
 
 The verse is not metaphor.
 
@@ -86,7 +83,7 @@ Community as force multiplier.
 
 Capital deployed carefully, patiently, sacrificially.
 
-The institutional challenge arises when such families 
+The institutional challenge arises when such families
 
 ### Step I:
 
@@ -382,7 +379,7 @@ It is continuity.
 
 Continuity is the highest form of conservative finance.
 
-When one 
+When one
 
 ### Layer I: s pressured, another layer shields
 
@@ -460,7 +457,7 @@ Their capital will testify to their values.
 
 A good man leaves an inheritance to his children's children.
 
-Technical Mandate: Minimum asset-hardening ratio 1.7x within 
+Technical Mandate: Minimum asset-hardening ratio 1.7x within
 
 36 months.
 

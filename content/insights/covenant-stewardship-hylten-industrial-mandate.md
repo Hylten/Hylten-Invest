@@ -1,10 +1,9 @@
 ---
 title: "Covenant Stewardship and the Industrial Mandate: The Hylten Doctrine of Capital and Continuity"
 description: "A principal-level institutional brief on the theology of capital, generational authority, and the industrial covenant underpinning Hylten‑Invest and Fund-III’s long‑horizon stewardship architecture."
-date: "2025-08-16"
-author: "Jonas Hyltén"
+date: "2025-08-16" author: "Jonas Hyltén"
 slug: "covenant-stewardship-hylten-industrial-mandate"
---- 
+---
 
 Covenant stewardship is not a metaphor.
 
@@ -18,11 +17,9 @@ Built in small rooms.
 
 Forged in Gnosjö workshops.
 
-Hardened through scarcity, responsibility, and the old truth of Proverbs 13:22
+Hardened through scarcity, responsibility, and the old truth of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- : A good man leaves an inheritance to his children’s children.
+- Proverbs 13:22: A good man leaves an inheritance to his children’s children.
 
 This mandate is not soft.
 
@@ -78,9 +75,9 @@ This brief codifies the doctrine.
 
 Not as philosophy, but as institutional design.
 
-- 
+-
 
-- 
+-
 
 - Covenant stewardship begins with first principles.
 
@@ -198,9 +195,9 @@ Capital second.
 
 Always.
 
-- 
+-
 
-- 
+-
 
 - The Spirit of Gnosjö is more than a sociological artifact.
 
@@ -274,9 +271,9 @@ Stewardship is therefore not a soft concept.
 
 It is operational alpha.
 
-- 
+-
 
-- 
+-
 
 - Covenant stewardship intersects with the theology of capital at the point of succession.
 
@@ -286,11 +283,9 @@ Wealth without stewardship collapses into consumption.
 
 Industry without covenant collapses into fragility.
 
-Only inheritance with duty sustains multi-generational operations. Proverbs 13:22
+Only inheritance with duty sustains multi-generational operations. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- is not merely spiritual wisdom.
+- Proverbs 13:22is not merely spiritual wisdom.
 
 It is economic architecture.
 
@@ -350,9 +345,9 @@ Industrial capital aligned with extraction becomes brittle, volatile, and system
 
 This is the fundamental delta Fund-III captures.
 
-- 
+-
 
-- 
+-
 
 - Covenant stewardship structures institutions as living entities.
 
@@ -434,9 +429,9 @@ These are not theological advantages.
 
 They are financial advantages produced by theological structures.
 
-- 
+-
 
-- 
+-
 
 - The capital markets of the next decade will not reward velocity.
 
@@ -486,9 +481,9 @@ Covenant stewardship is not a narrative.
 
 It is a valuation factor.
 
-- 
+-
 
-- 
+-
 
 - Generational capital is the apex expression of covenant stewardship.
 
@@ -538,9 +533,9 @@ Predictive.
 
 Investable.
 
-- 
+-
 
-- 
+-
 
 - The Hylten doctrine is not nostalgic.
 
@@ -598,9 +593,9 @@ Covenant.
 
 This is the Hylten mandate.
 
-Technical metric: Legacy Continuity Ratio 
+Technical metric: Legacy Continuity Ratio
 
-1. 
+1.
 
 73.
 

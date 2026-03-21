@@ -1,16 +1,13 @@
 ---
 title: "Multi Generational Stewardship"
 description: "Insights on Multi Generational Stewardship from Roials Capital and Hyltén Invest."
-date: "2025-11-28"
-author: "Hyltén Invest"
+date: "2025-11-28" author: "Hyltén Invest"
 slug: "multi-generational-stewardship"
---- 
+---
 
 # Multi Generational Stewardship A Hylten Invest Perspectiv
 
-e
-
-Pillar Three: Intergenerational Alignment The most overlooked element in wealth continuity is not financial.
+e Pillar Three: Intergenerational Alignment The most overlooked element in wealth continuity is not financial.
 
 It is interpersonal.
 
@@ -44,19 +41,19 @@ Principles remain.
 
 Core components of the long horizon strategy
 
- 
+
 
 1.
 
-Focus on real assets and productive enterprises. 
+Focus on real assets and productive enterprises.
 
 2.
 
-Maintain controlled diversification. 
+Maintain controlled diversification.
 
 3.
 
-Retain optionality through liquidity buffers. 
+Retain optionality through liquidity buffers.
 
 4.
 
@@ -164,19 +161,19 @@ With structure, decisions become predictable.
 
 Effective governance includes
 
- 
+
 
 1.
 
-Defined roles and responsibilities. 
+Defined roles and responsibilities.
 
 2.
 
-A process for long term decision making. 
+A process for long term decision making.
 
 3.
 
-Regular alignment meetings. 
+Regular alignment meetings.
 
 4.
 
@@ -260,11 +257,9 @@ It is purpose driven.
 
 This is the style of Hylten Invest.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- Multi generational stewardship is less about complex structures and more about consistent principles.
+Multi generational stewardship is less about complex structures and more about consistent principles.
 
 It is the disciplined pursuit of long term clarity.
 

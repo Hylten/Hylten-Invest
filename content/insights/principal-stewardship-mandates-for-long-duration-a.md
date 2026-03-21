@@ -1,16 +1,13 @@
 ---
 title: "Principal Stewardship Mandates for Long Duration Assets"
 description: "Principal Stewardship Mandates for Long Duration Assets | Institutional Briefing by Hylten-Invest"
-date: "2026-03-20"
-author: "Hylten Invest"
+date: "2026-03-20" author: "Hylten Invest"
 slug: "principal-stewardship-mandates-for-long-duration-assets"
---- 
+---
 
 # Principal Stewardship Mandates for Long Duration Assets Using The Fiduciary Razor Technique INTRODUCTIO
 
-N
-
- Long duration assets require a form of oversight that is markedly different from traditional investment management.
+N Long duration assets require a form of oversight that is markedly different from traditional investment management.
 
 They demand principal level judgment, conservative governance, and an operating philosophy built around multi generational continuity.
 
@@ -68,7 +65,7 @@ Clarity enforces discipline.
 
 It protects the principal from advisor driven drift.
 
-Principle Two: Durability Durability is the central 
+Principle Two: Durability Durability is the central
 
 ### Criterion I: n long duration stewardship
 
@@ -234,7 +231,7 @@ Examples include:
 
 Convexity creates asymmetry that compounds quietly but consistently.
 
-Step Four: Preserve Optionality The final 
+Step Four: Preserve Optionality The final
 
 ### Step I: s preservation
 
@@ -314,11 +311,9 @@ Every decision is filtered through The Fiduciary Razor.
 
 The result is a disciplined and resilient architecture for generational capital.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- A principal stewardship mandate built around The Fiduciary Razor provides clarity, stability, and long term alignment.
+A principal stewardship mandate built around The Fiduciary Razor provides clarity, stability, and long term alignment.
 
 It protects the principal from noise, drift, and unnecessary risk.
 

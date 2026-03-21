@@ -1,10 +1,9 @@
 ---
 title: "The Mechanics of Legacy Preservation via Asset-Based Lending"
 description: "Institutional brief on asset‑based lending as a generational preservation architecture within Christian industrial capital traditions and stewardship‑aligned private credit structures."
-date: "2026-01-14"
-author: "Jonas Hyltén"
+date: "2026-01-14" author: "Jonas Hyltén"
 slug: "mechanics-legacy-preservation-abl"
---- 
+---
 
 Legacy is not sentiment.
 
@@ -18,11 +17,9 @@ A theology of work.
 
 A theology of responsibility.
 
-- Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- : A good man leaves an inheritance to his children's children.
+- Proverbs 13:22: A good man leaves an inheritance to his children's children.
 
 That mandate shaped factories.
 
@@ -102,7 +99,7 @@ Precision over flash.
 
 Endurance over expansion.
 
-The first 
+The first
 
 ### Layer I: s asset hardening
 
@@ -128,7 +125,7 @@ It draws out value without drawing down ownership.
 
 It unlocks liquidity without unlocking control.
 
-The second 
+The second
 
 ### Layer I: s covenant engineering
 
@@ -464,11 +461,9 @@ Just enduring.
 
 Asset-Based Lending is the quiet architecture of endurance.
 
-It is the institutional expression of Proverbs 13:22
+It is the institutional expression of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- .
+- Proverbs 13:22.
 
 Not abstract.
 

@@ -1,10 +1,9 @@
 ---
 title: "The Sovereign Method: Values‑Based Due Diligence and the Moral Architecture of Founder Integrity"
 description: "A principal-level briefing on integrity assessment, covenantal stewardship, and industrial-era moral diagnostics for evaluating founders within free‑enterprise ecosystems."
-date: "2026-02-01"
-author: "Hylten-Invest"
+date: "2026-02-01" author: "Hylten-Invest"
 slug: "values-based-due-diligence-founder-integrity"
---- 
+---
 
 The center of capital is character.
 
@@ -20,20 +19,16 @@ That is the covenant.
 
 And that is the foundation of any serious due‑diligence architecture when evaluating a founder who intends to steward generational capital. "The integrity of the upright shall guide them."
 
- 
+
 
 - Proverbs 11:
-3
-
- 
-
- Internal logic first.
+3 Internal logic first.
 
 Sovereign architecture second.
 
-Everything else downstream. 
+Everything else downstream.
 
- 
+
 
 - SECURED BRIEFING This is not a public memo.
 
@@ -69,14 +64,10 @@ It is the first pillar of sovereign risk management.
 
 It is the unpriced variable that determines whether a venture becomes an inheritance or a cautionary tale. "He that walketh uprightly walketh surely."
 
- 
+
 
 - Proverbs 10:
-9
-
- 
-
- Truth Four: An industrial lineage produces a sharper lens.
+9 Truth Four: An industrial lineage produces a sharper lens.
 
 Across the Scandinavian forges and North American workshops that shaped our ethos, a man’s word preceded his capacity.
 
@@ -148,17 +139,13 @@ THE INDUSTRIAL TESTS Real integrity shows under load.
 
 So we apply load.
 
-Three stressors: 
+Three stressors:
 
 1.
 
-Scarcity stressor 
+Scarcity stressor 2.
 
-2.
-
-Temptation stressor 
-
-3.
+Temptation stressor 3.
 
 Ambiguity stressor Each one surfaces a different part of a founder’s moral architecture.
 
@@ -204,14 +191,10 @@ The weakest curate an image at all costs.
 
 And capital built on curated identity rarely survives real adversity. "The just man walketh in his integrity: his children are blessed after him."
 
- 
+
 
 - Proverbs 20:
-7
-
- 
-
- IV.
+7 IV.
 
 THE CROSS‑JURISDICTIONAL CONSISTENCY TEST This is where façades break.
 
@@ -305,13 +288,13 @@ IX.
 
 THE ECCLESIASTICAL PARALLEL The ancient principles are clear. "He that is faithful in that which is least is faithful also in much."
 
- 
+
 
 - Luke 16:10
 
- 
 
- The founder who shortcuts the small will shortcut the large.
+
+The founder who shortcuts the small will shortcut the large.
 
 The founder who keeps covenant in obscurity will keep covenant in prosperity.
 
@@ -437,14 +420,10 @@ A founder who lives by principles produces a culture built on principles.
 
 This is the true measure of stewardship. "By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil."
 
- 
+
 
 - Proverbs 16:
-6
-
- 
-
- The enterprise anchored in moral truth does not collapse when winds shift.
+6 The enterprise anchored in moral truth does not collapse when winds shift.
 
 It endures.
 

@@ -1,10 +1,9 @@
 ---
 title: "Navigating Multi-Generational Wealth with Asset-Based Lending"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth preservation."
-date: "2025-07-10"
-author: "Hyltén Invest"
+date: "2025-07-10" author: "Hyltén Invest"
 slug: "navigating-multi-generational-wealth-with-abl"
---- 
+---
 
 # Navigating Multi-Generational Wealth with Asset-Based Lending Multi generational wealth is not merely inherited, it is engineered
 
@@ -80,11 +79,9 @@ They generate the liquidity that defines opportunity.
 
 This is the architecture Hylten Invest provides.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- , Stewardship Requires Structure Multi generational wealth does not survive without intention.
+, Stewardship Requires Structure Multi generational wealth does not survive without intention.
 
 It requires conservative structures, disciplined liquidity, and partners that operate with principal authority.
 

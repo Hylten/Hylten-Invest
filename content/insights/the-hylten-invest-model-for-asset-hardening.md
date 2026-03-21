@@ -1,10 +1,9 @@
 ---
 title: "The Hylten Invest Model for Asset Hardening"
 description: "A high-level exploration of liquidity creation through Private Credit and Asset-Based liquidity engineering for long-term asset hardening."
-date: "2025-07-03"
-author: "Hyltén Invest"
+date: "2025-07-03" author: "Hyltén Invest"
 slug: "the-hylten-invest-model-for-asset-hardening"
---- 
+---
 
 # The Hylten Invest Model for Asset Hardening Hylten Invest operates in a space where liquidity, discretion, and structural clarity form the foundation of long-term stewardship
 

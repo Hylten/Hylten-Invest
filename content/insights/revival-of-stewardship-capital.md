@@ -1,10 +1,9 @@
 ---
 title: "The Return of Moral Authority in Capital Allocation"
 description: "Institutional allocators are re-weighting moral authority, steward leadership, and Christian industrial heritage as core signals of durability and long-horizon capital efficiency."
-date: "2025-12-11"
-author: "Hylten-Invest"
+date: "2025-12-11" author: "Hylten-Invest"
 slug: "revival-of-stewardship-capital"
---- 
+---
 
 The pivot is quiet.
 
@@ -36,14 +35,10 @@ This is not nostalgia.
 
 This is institutional recalibration. "He that walketh uprightly walketh surely."
 
- 
+
 
 - Proverbs 10:
-9
-
- 
-
- Principal logic follows.
+9 Principal logic follows.
 
 Markets reward coherence.
 
@@ -79,14 +74,10 @@ Create more than you consume.
 
 Leave more than you inherit. "By humility and the fear of the Lord are riches, and honour, and life."
 
- 
+
 
 - Proverbs 22:
-4
-
- 
-
- Institutional desks want that ethic again.
+4 Institutional desks want that ethic again.
 
 They pursue it without naming it.
 
@@ -120,7 +111,7 @@ A Principal who understands that free markets flourish only under truth.
 
 Some of them now route mandates through institutional capital execution
 
- at [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)).
+at [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)).
 
 Not for theatrics.
 

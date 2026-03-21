@@ -2,31 +2,42 @@ import React, { useState, useEffect } from 'react';
 
 // Browser-safe frontmatter parser
 function parseFrontmatter(raw: string) {
-    const lines = raw.split(/\r?\n/);
-    if (!lines[0] || lines[0].trim() !== '---') return { data: {} as Record<string, string>, content: raw };
-
+    const parts = raw.split(/---/);
+    if (parts.length < 3) return { data: {} as Record<string, string>, content: raw };
+    
+    // Frontmatter is between the first and second '---'
+    const frontmatter = parts[1];
+    const content = parts.slice(2).join('---').trim();
     const data: Record<string, string> = {};
-    let i = 1;
-    while (i < lines.length && !lines[i].trim().startsWith('---')) {
-        const line = lines[i];
+
+    // Standard YAML-style key parsing (handles multiline)
+    const lines = frontmatter.split(/\n/);
+    lines.forEach(line => {
         const colonIdx = line.indexOf(':');
         if (colonIdx !== -1) {
             const key = line.slice(0, colonIdx).trim();
             let value = line.slice(colonIdx + 1).trim();
-            if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
-                value = value.slice(1, -1);
+            if (key && !data[key]) {
+                if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
+                    value = value.slice(1, -1);
+                }
+                data[key] = value;
             }
-            data[key] = value;
         }
-        i++;
-    }
+    });
 
-    const closingLine = lines[i] || '';
-    const remainder = closingLine.trim().slice(3).trim();
-    
-    let content = lines.slice(i + 1).join('\n');
-    if (remainder) {
-        content = remainder + '\n' + content;
+    // Fallback for single-line / mashed keys
+    const pairs = frontmatter.match(/([\w-]+):\s*(?:"([^"]*)"|'([^']*)'|([^ \n,]+))/g);
+    if (pairs) {
+        pairs.forEach(pair => {
+            const cIdx = pair.indexOf(':');
+            const k = pair.slice(0, cIdx).trim();
+            let v = pair.slice(cIdx + 1).trim();
+            if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
+                v = v.slice(1, -1);
+            }
+            if (k && !data[k]) data[k] = v;
+        });
     }
     
     return { data, content };

@@ -1,10 +1,9 @@
 ---
 title: "The Hylten Invest Approach to Asset Preservation"
 description: "A strategic exploration of how Hyltén Invest secures long-term liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients."
-date: "2025-10-02"
-author: "Hyltén Invest"
+date: "2025-10-02" author: "Hyltén Invest"
 slug: "the-hylten-invest-approach-to-asset-preservation"
---- 
+---
 
 # The Hylten Invest Approach to Asset Preservation Long term wealth rarely grows through acceleration alone
 
@@ -364,11 +363,9 @@ It reduces friction.
 
 It maintains clarity.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- Wealth that lasts is not loud.
+Wealth that lasts is not loud.
 
 It is deliberate.
 

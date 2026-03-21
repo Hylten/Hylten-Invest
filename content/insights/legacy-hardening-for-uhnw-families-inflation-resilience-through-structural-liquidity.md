@@ -1,10 +1,9 @@
 ---
 title: "Legacy Hardening for UHNW Families: Inflation Resilience Through Structural Liquidity"
 description: "A strategic overview of liquidity engineering through private credit and asset based Capital Structuring, designed to protect UHNW families from inflationary shocks."
-date: "2026-01-21"
-author: "Hyltén Invest"
+date: "2026-01-21" author: "Hyltén Invest"
 slug: "legacy-hardening-for-uhnw-families-inflation-resilience-through-structural-liquidity"
---- 
+---
 
 # Legacy Hardening: Protecting UHNW Families from Inflationary Shocks Inflation does not erode wealth evenly
 
@@ -44,11 +43,9 @@ It flows.
 
 This is the defining characteristic of enduring wealth.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : A Call to Stewards of Multi-Generational Wealth We operate for families that think in decades, not quarters.
+: A Call to Stewards of Multi-Generational Wealth We operate for families that think in decades, not quarters.
 
 If your objective is long-term continuity, if your priority is keeping wealth resilient rather than merely optimized, if you understand that liquidity is the unseen foundation of legacy, then you understand the value of structural Capital Structuring.
 

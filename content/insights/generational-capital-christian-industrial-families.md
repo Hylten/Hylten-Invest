@@ -1,10 +1,9 @@
 ---
 title: "The Forge That Outlives the Founder"
 description: "A principal-level briefing on generational capital formation within Christian industrial lineages, anchored in stewardship, covenantal responsibility, and the sovereign architecture of family enterprise."
-date: "2025-11-14"
-author: "Hylten-Invest"
+date: "2025-11-14" author: "Hylten-Invest"
 slug: "generational-capital-christian-industrial-families"
---- 
+---
 
 Internal briefing.
 
@@ -26,13 +25,11 @@ Yield second.
 
 Legacy always. A good man leaveth an inheritance to his children's children.
 
- 
 
-- Proverbs 13:22
 
- 
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- Generational capital is not an asset pool.
+- Proverbs 13:22Generational capital is not an asset pool.
 
 It is an internal code.
 

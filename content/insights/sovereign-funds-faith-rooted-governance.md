@@ -1,10 +1,9 @@
 ---
 title: "The Silent Return of Moral Authority in Sovereign Governance"
 description: "Why sovereign wealth institutions are dissecting faith‑rooted governance structures grounded in stewardship, duty, and industrial legacy."
-date: "2026-03-09"
-author: "Hylten-Invest"
+date: "2026-03-09" author: "Hylten-Invest"
 slug: "sovereign-funds-faith-rooted-governance"
---- 
+---
 
 Sovereign committees are circling back to first principles.
 
@@ -74,14 +73,10 @@ Multigenerational capital demands a multigenerational ethic.
 
 That is why the analysis now points back to faith-rooted governance models. "The integrity of the upright shall guide them."
 
- 
+
 
 - Proverbs 11:
-3
-
- 
-
- The architecture becomes simple.
+3 The architecture becomes simple.
 
 Duty first.
 

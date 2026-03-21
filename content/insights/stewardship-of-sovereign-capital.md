@@ -1,10 +1,9 @@
 ---
 title: "The Stewardship of Sovereign Capital"
 description: "A principal-level doctrine on liquidity governance, precision allocation, and generational wealth architecture grounded in Christian-industrial ethics and sovereign capital engineering."
-date: "2026-01-12"
-author: "Jonas Hylten"
+date: "2026-01-12" author: "Jonas Hylten"
 slug: "stewardship-of-sovereign-capital"
---- 
+---
 
 The stewardship of sovereign capital begins where sentiment ends.
 
@@ -16,11 +15,9 @@ It is an entrusted substance, morally charged, structurally defined, spiritually
 
 The market treats capital as motion.
 
-The principal treats capital as mandate. Proverbs 13:22
+The principal treats capital as mandate. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- states: A good man leaves an inheritance to his children's children.
+- Proverbs 13:22states: A good man leaves an inheritance to his children's children.
 
 In institutional terms, this is not poetry.
 
@@ -300,17 +297,13 @@ Independence accelerates it.
 
 The architecture of Fund-III must reflect this.
 
-THE MANDAT
+THE MANDAT E
 
-E
+is not high-yield noise.
 
- is not high-yield noise.
+THE MANDAT E
 
-THE MANDAT
-
-E
-
- is high-integrity yield.
+is high-integrity yield.
 
 Liquidity paired with durability.
 
@@ -324,7 +317,7 @@ Weak capital expands early.
 
 Strong capital expands last.
 
-The expansion 
+The expansion
 
 ### Phase I: s the reward for restraint
 
@@ -426,9 +419,7 @@ Truth: capital must harden society, not hollow it.
 
 Truth: capital must outlive the principal or it has failed THE MANDAT
 
-E
-
-.
+E .
 
 This is why liquidity must be designed, not assumed.
 
@@ -536,11 +527,9 @@ Compounding produces inheritance.
 
 Inheritance is the ultimate KPI.
 
-A good man leaves an inheritance to his children's children. Proverbs 13:22
+A good man leaves an inheritance to his children's children. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- .
+- Proverbs 13:22.
 
 This is not suggestion.
 

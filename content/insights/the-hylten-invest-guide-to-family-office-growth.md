@@ -1,10 +1,9 @@
 ---
 title: "The Hylten Invest Guide to Family Office Growth"
 description: "A strategic guide to liquidity, private credit, and asset based liquidity engineering designed for family offices seeking long term structural stability."
-date: "2025-12-13"
-author: "Hyltén Invest"
+date: "2025-12-13" author: "Hyltén Invest"
 slug: "the-hylten-invest-guide-to-family-office-growth"
---- 
+---
 
 # The Hylten Invest Guide to Family Office Growth Family offices grow quietly
 
@@ -184,21 +183,15 @@ Strategic Growth Foundations for Family Offices A family office is not a fund
 
 It is an ecosystem.
 
-Growth requires clarity in four domains: 
+Growth requires clarity in four domains:
 
 1.
 
-Liquidity 
+Liquidity 2.
 
-2.
+Governance 3.
 
-Governance 
-
-3.
-
-Asset Structure 
-
-4.
+Asset Structure 4.
 
 Intergenerational Alignment When these domains are aligned, growth becomes predictable.
 

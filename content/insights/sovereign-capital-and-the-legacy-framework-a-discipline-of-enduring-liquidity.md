@@ -1,10 +1,9 @@
 ---
 title: "Sovereign Capital and the Legacy Framework: A Discipline of Enduring Liquidity"
 description: "A high‑end exploration of sovereign capital structures, private credit, and asset based liquidity engineering for long‑term liquidity management."
-date: "2025-07-31"
-author: "Hyltén Invest"
+date: "2025-07-31" author: "Hyltén Invest"
 slug: "sovereign-capital-and-the-legacy-framework-a-discipline-of-enduring-liquidity"
---- 
+---
 
 # Sovereign Capital and the Legacy Framework The architecture of sovereign capital has always been built on a singular principle: continuity
 
@@ -118,7 +117,7 @@ Noise is reduced.
 
 Positions are large enough to integrate into structured collateral frameworks.
 
-For UHNW clients, crypto Strategic Collateralization becomes another 
+For UHNW clients, crypto Strategic Collateralization becomes another
 
 ### Pillar I: n the multi‑asset liquidity architecture
 
@@ -186,19 +185,19 @@ Not opportunistic reactions.
 
 A sovereign legacy requires systems that endure beyond a single generation.
 
-The Legacy Framework developed by Hyltén Invest focuses on three structural pillars. 
+The Legacy Framework developed by Hyltén Invest focuses on three structural pillars.
 
 1.
 
 Preservation of Core Capital The primary asset base must remain intact.
 
-It must not be exposed to unnecessary liquidation or emotional decision cycles. 
+It must not be exposed to unnecessary liquidation or emotional decision cycles.
 
 2.
 
 Controlled Liquidity Extraction Liquidity is drawn from assets, not by selling assets.
 
-This preserves compounding and allows long-term positions to mature without disruption. 
+This preserves compounding and allows long-term positions to mature without disruption.
 
 3.
 

@@ -1,10 +1,9 @@
 ---
 title: "Stewardship Under Scrutiny: The Hylten Model For Functional Capital Formation"
 description: "An institutional examination of stewardship, capital ethics, Nordic industrial discipline, and the structural realignment required for intergenerational capital integrity."
-date: "2025-09-21"
-author: "Jonas Hyltén"
+date: "2025-09-21" author: "Jonas Hyltén"
 slug: "stewardship-under-scrutiny-hylten-model"
---- 
+---
 
 The structural gap in global capital formation is a consequence of moral drift, not capital scarcity.
 
@@ -34,11 +33,7 @@ The objective is illumination.
 
 Proper stewardship becomes a navigational instrument, guiding capital toward productive, non speculative, real economy outcomes.
 
-THE REGIME SHIF
-
-T
-
- The global capital regime has transitioned from an abundance environment to a scrutiny environment.
+THE REGIME SHIFT The global capital regime has transitioned from an abundance environment to a scrutiny environment.
 
 The scrutiny is not regulatory alone.
 
@@ -80,21 +75,15 @@ Capital has drifted from stewardship toward speculation.
 
 Under this regime, disciplined allocators are re balancing toward real assets that provide transparency, tangible output, and operational restraint.
 
-The Hylten Model aligns with this re balancing, prioritizing responsibility, durability, and generational continuity. Proverbs 13:22
+The Hylten Model aligns with this re balancing, prioritizing responsibility, durability, and generational continuity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- frames this foundationally.
+- Proverbs 13:22frames this foundationally.
 
 A good man leaves an inheritance to his children's children.
 
 In financial governance, this translates into a two generation horizon instead of an annual performance cycle.
 
-TECHNICAL MECHANIC
-
-S
-
- OF FUNCTIONAL STEWARDSHIP Functional stewardship is not a philosophical abstraction.
+TECHNICAL MECHANICS OF FUNCTIONAL STEWARDSHIP Functional stewardship is not a philosophical abstraction.
 
 It is a technical discipline.
 
@@ -227,11 +216,7 @@ Does the asset create stability across generations.
 - Testimony.
 
 Would the outcome be defensible before God and man. Psalm 24:
-1
-
- 
-
- states that the earth is the Lord's and everything in it.
+1 states that the earth is the Lord's and everything in it.
 
 Therefore capital deployment becomes an act of obedience.
 
@@ -291,4 +276,3 @@ It provides a disciplined pathway for industrial and generational renewal. [END 
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

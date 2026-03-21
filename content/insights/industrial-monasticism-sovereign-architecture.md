@@ -1,10 +1,9 @@
 ---
 title: "The Discipline Forge: Industrial Monasticism as Sovereign Architecture"
 description: "A principal-level briefing on industrial monasticism as a covenantal framework for manufacturing discipline, value creation, and generational stewardship within the Hylten-Invest moral architecture."
-date: "2026-02-25"
-author: "Hylten-Invest"
+date: "2026-02-25" author: "Hylten-Invest"
 slug: "industrial-monasticism-sovereign-architecture"
---- 
+---
 
 Internal doors closed.
 
@@ -31,7 +30,7 @@ Heavy machinery does not tolerate distraction.
 Neither does moral capital.
 
 This is the Gnosjö spirit at full compression: small circle, clear duty, relentless production.
- Discipline next. Hard lines. Tight tolerances. Clean floors. Honest ledgers.
+Discipline next. Hard lines. Tight tolerances. Clean floors. Honest ledgers.
 
 When a workshop runs with monastic quiet, the output carries moral weight.
 
@@ -55,13 +54,13 @@ Modern manufacturing has the same.
 
 Strip until only purpose remains. "Let the beauty of the Lord our God be upon us: and establish thou the work of our hands upon us."
 
- 
+
 
 - Psalm 90:17
 
- 
 
- Hierarchy follows naturally.
+
+Hierarchy follows naturally.
 
 The disciplined house produces stable value.
 

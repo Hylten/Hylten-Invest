@@ -1,10 +1,9 @@
 ---
 title: "The Future of Generative AI Investments"
 description: "Why Hyltén Invest sees significant potential in agentic AI and its impact on infrastructure."
-date: "2025-10-23"
-author: "Hyltén Invest"
+date: "2025-10-23" author: "Hyltén Invest"
 slug: "the-future-of-generative-ai-investments"
---- 
+---
 
 Artificial Intelligence is currently undergoing a paradigm shift.
 
@@ -16,4 +15,3 @@ We believe that the next wave of value will be captured by systems that don't ju
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

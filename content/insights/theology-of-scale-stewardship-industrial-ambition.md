@@ -1,10 +1,9 @@
 ---
 title: "The Theology of Scale"
 description: "Christian stewardship fused with industrial ambition, framing scale as a moral mandate rooted in covenantal responsibility and the Protestant ethic."
-date: "2025-12-12"
-author: "Hylten-Invest"
+date: "2025-12-12" author: "Hylten-Invest"
 slug: "theology-of-scale-stewardship-industrial-ambition"
---- 
+---
 
 Stewardship demands scale.
 
@@ -50,13 +49,13 @@ Markets reward value creation.
 
 Shrinking horizons dishonor the gift. "The hand of the diligent shall bear rule."
 
- 
+
 
 - Proverbs 12:24
 
- 
 
- Industrial scale becomes moral when anchored in responsibility.
+
+Industrial scale becomes moral when anchored in responsibility.
 
 It refuses waste.
 

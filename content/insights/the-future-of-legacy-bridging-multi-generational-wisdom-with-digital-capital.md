@@ -1,10 +1,9 @@
 ---
 title: "The Future of Legacy: Bridging Multi-Generational Wisdom with Digital Capital"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth management."
-date: "2026-02-08"
-author: "Hyltén Invest"
+date: "2026-02-08" author: "Hyltén Invest"
 slug: "the-future-of-legacy-bridging-multi-generational-wisdom-with-digital-capital"
---- 
+---
 
 # The Future of Legacy: Bridging Multi-Generational Wisdom with Digital Capital The shape of wealth is changing
 

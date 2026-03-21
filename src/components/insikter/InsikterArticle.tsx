@@ -4,31 +4,46 @@ import remarkGfm from 'remark-gfm';
 
 // Browser-safe frontmatter parser
 function parseFrontmatter(raw: string) {
-    const lines = raw.split(/\r?\n/);
-    if (!lines[0] || lines[0].trim() !== '---') return { data: {} as Record<string, string>, content: raw };
+    const match = raw.match(/^\s*---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/);
+    if (!match) return { data: {} as Record<string, string>, content: raw };
 
+    const frontmatter = match[1];
+    const content = match[2];
     const data: Record<string, string> = {};
-    let i = 1;
-    while (i < lines.length && !lines[i].trim().startsWith('---')) {
-        const line = lines[i];
+
+    // Standard YAML-style key parsing (handles multiline)
+    const lines = frontmatter.split(/\n/);
+    lines.forEach(line => {
         const colonIdx = line.indexOf(':');
         if (colonIdx !== -1) {
             const key = line.slice(0, colonIdx).trim();
             let value = line.slice(colonIdx + 1).trim();
-            if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
-                value = value.slice(1, -1);
+            // Only set if not set yet, or if this looks like a cleaner line-based set
+            if (key && !data[key]) {
+                if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
+                    value = value.slice(1, -1);
+                }
+                data[key] = value;
             }
-            data[key] = value;
         }
-        i++;
-    }
+    });
 
-    const closingLine = lines[i] || '';
-    const remainder = closingLine.trim().slice(3).trim();
-    
-    let content = lines.slice(i + 1).join('\n');
-    if (remainder) {
-        content = remainder + '\n' + content;
+    // Fallback / Enhanced parsing for single-line or mashed keys
+    // This regex matches keys that might contain hyphens/underscores and values that are quoted OR unquoted
+    const pairs = frontmatter.match(/([\w-]+):\s*(?:"([^"]*)"|'([^']*)'|([^ \n,]+))/g);
+    if (pairs) {
+        pairs.forEach(pair => {
+            const cIdx = pair.indexOf(':');
+            const k = pair.slice(0, cIdx).trim();
+            let v = pair.slice(cIdx + 1).trim();
+            if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
+                v = v.slice(1, -1);
+            }
+            // If the line-based parser caught a "leaking" line (multiple keys on one line), 
+            // the regex-based one here will provide much cleaner values.
+            // So we prioritize regex matches for common keys.
+            if (k) data[k] = v;
+        });
     }
     
     return { data, content };

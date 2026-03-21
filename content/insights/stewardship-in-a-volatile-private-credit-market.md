@@ -1,10 +1,9 @@
 ---
 title: "Stewardship in a Volatile Private Credit Market"
 description: "A strategic examination of stewardship, liquidity, and asset based liquidity engineering for HNWI and UHNW investors navigating private credit uncertainty."
-date: "2025-12-29"
-author: "Hyltén Invest"
+date: "2025-12-29" author: "Hyltén Invest"
 slug: "stewardship-in-a-volatile-private-credit-market"
---- 
+---
 
 # Stewardship in a Volatile Private Credit Market In periods of dislocation, the private credit landscape quietly reshapes itself
 
@@ -138,7 +137,7 @@ Liquidity contracts.
 
 Structures become more conservative.
 
-This 
+This
 
 ### Phase I:
 

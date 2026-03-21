@@ -1,10 +1,9 @@
 ---
 title: "Conservative Asset-Based Lending for UHNW Capital Migration"
 description: "A high end analysis of conservative asset based liquidity engineering and private credit structures for UHNW liquidity without asset displacement."
-date: "2026-02-15"
-author: "Hyltén Invest"
+date: "2026-02-15" author: "Hyltén Invest"
 slug: "conservative-abl-for-uhnw-capital-migration"
---- 
+---
 
 # Conservative Asset-Based Lending for UHNW Capital Migration Wealth that endures is rarely loud
 
@@ -46,11 +45,9 @@ This is conservation rather than consumption.
 
 This is the long view.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- Hyltén Invest provides conservative Asset Based Capital Structuring and private credit structures for UHNW individuals who require liquidity without displacement.
+Hyltén Invest provides conservative Asset Based Capital Structuring and private credit structures for UHNW individuals who require liquidity without displacement.
 
 We operate quietly.
 

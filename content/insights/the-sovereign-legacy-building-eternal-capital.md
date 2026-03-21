@@ -1,10 +1,9 @@
 ---
 title: "The Sovereign Legacy: Building Eternal Capital"
 description: "A high‑end exploration of liquidity architecture, private credit, and asset based liquidity engineering for long‑term capital stewardship."
-date: "2025-10-27"
-author: "Hyltén Invest"
+date: "2025-10-27" author: "Hyltén Invest"
 slug: "the-sovereign-legacy-building-eternal-capital"
---- 
+---
 
 # The Sovereign Legacy: Building Eternal Capital In every generation there are individuals who choose to build something that lasts longer than their own lifetime
 

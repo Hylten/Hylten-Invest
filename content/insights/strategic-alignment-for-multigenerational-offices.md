@@ -1,10 +1,9 @@
 ---
 title: "Strategic Alignment for Multi‑Generational Offices"
 description: "A deep analysis of strategic alignment for multi generational offices, with emphasis on liquidity, private credit, and asset based liquidity engineering solutions."
-date: "2025-12-23"
-author: "Hyltén Invest"
+date: "2025-12-23" author: "Hyltén Invest"
 slug: "strategic-alignment-for-multigenerational-offices"
---- 
+---
 
 # Strategic Alignment for Multi‑Generational Offices Long term continuity begins with structural clarity
 
@@ -302,11 +301,9 @@ Power is not declared.
 
 Power is engineered.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : Alignment as a Multi Decade Guide Strategic alignment is not a strategy.
+: Alignment as a Multi Decade Guide Strategic alignment is not a strategy.
 
 It is the environment in which all strategies operate.
 

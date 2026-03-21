@@ -1,9 +1,7 @@
-# Så väljer du rätt AI‑agent för ditt bolag  
+# Så väljer du rätt AI‑agent för ditt bolag
 OpenClaw Sverige, en strategisk överblick för långsiktiga förvaltare
 
-## Inledning
-
-Valet av en AI‑agent är i dag en fråga som sträcker sig långt bortom teknik och funktion.
+## Inledning Valet av en AI‑agent är i dag en fråga som sträcker sig långt bortom teknik och funktion.
 
 Det handlar om risk, kontroll, kontinuitet, och ett ledarskap som strävar efter att bevara värde över generationer.
 
@@ -33,11 +31,11 @@ En agent är inte en funktion, den är en process.
 
 Den kan:
 
-- Hämta information från interna och externa källor  
-- Initiera aktiviteter utan att bli tillsagd  
-- Agera efter regler och interna policys  
-- Dokumentera arbetsflöden  
-- Upptäcka avvikelser och rapportera risk  
+- Hämta information från interna och externa källor
+- Initiera aktiviteter utan att bli tillsagd
+- Agera efter regler och interna policys
+- Dokumentera arbetsflöden
+- Upptäcka avvikelser och rapportera risk
 
 Detta gör agenten till mer än ett verktyg. Den blir en del av verksamheten.
 
@@ -63,8 +61,8 @@ Många kommersiella AI‑plattformar tränar modeller på användares innehåll.
 
 Det skapar två problem:
 
-- Kunskap lämnar organisationen  
-- Konkurrenter kan indirekt få del av din interna logik  
+- Kunskap lämnar organisationen
+- Konkurrenter kan indirekt få del av din interna logik
 
 OpenClaw Sverige är uppbyggt för bolag som inte accepterar dessa risker.
 
@@ -100,10 +98,10 @@ Det är först när dokumentationen är automatiserad som agenten blir en del av
 
 En agent ska löpande kunna utvärdera:
 
-- risk  
-- kostnad  
-- avvikelser  
-- efterlevnad  
+- risk
+- kostnad
+- avvikelser
+- efterlevnad
 
 Detta gör att agenten blir ett analysverktyg, inte bara ett verktyg för utförande.
 
@@ -111,17 +109,17 @@ Detta gör att agenten blir ett analysverktyg, inte bara ett verktyg för utför
 
 OpenClaw Sverige skiljer sig genom att det är skapat för bolag som prioriterar:
 
-- kontroll  
-- långsiktighet  
-- sekretess  
-- intern konsekvens  
+- kontroll
+- långsiktighet
+- sekretess
+- intern konsekvens
 
 Arkitekturen gör att agenten:
 
-- kan köras isolerat  
-- kan följa interna policys  
-- kan integreras med flerlagersbeslut  
-- kan skalas utan dataläckage  
+- kan köras isolerat
+- kan följa interna policys
+- kan integreras med flerlagersbeslut
+- kan skalas utan dataläckage
 
 Detta gör att plattformen lämpar sig för Family Offices, diskreta investeringsbolag och strukturer som inte vill binda sig till offentliga moln.
 
@@ -161,9 +159,9 @@ Innan implementering bör agenten köras i ett slutet testsystem.
 
 Detta säkerställer:
 
-- att arbetsflöden är stabila  
-- att policys efterlevs  
-- att analysen är korrekt  
+- att arbetsflöden är stabila
+- att policys efterlevs
+- att analysen är korrekt
 
 Detta minskar risk innan skarp drift.
 
@@ -205,11 +203,11 @@ Valet av AI‑agent är ett av de viktigaste strukturella beslut ett modernt bol
 
 Det påverkar:
 
-- informationsflöden  
-- arbetsprocesser  
-- risk  
-- styrning  
-- kontinuitet  
+- informationsflöden
+- arbetsprocesser
+- risk
+- styrning
+- kontinuitet
 
 OpenClaw Sverige representerar en modell där kontroll och stabilitet är grunden.
 

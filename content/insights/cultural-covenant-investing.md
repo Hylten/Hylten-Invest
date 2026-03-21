@@ -1,10 +1,9 @@
 ---
 title: "The Cultural Covenant as Capital Architecture"
 description: "How shared belief systems reduce friction, compress transaction costs, and anchor morally durable investment structures across generations."
-date: "2025-08-05"
-author: "Hylten-Invest"
+date: "2025-08-05" author: "Hylten-Invest"
 slug: "cultural-covenant-investing"
---- 
+---
 
 Covenant first.
 
@@ -50,13 +49,13 @@ The moral cost center dissolves.
 
 What remains is enterprise. "Be ye steadfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain."
 
- 
+
 
 - 1 Corinthians 15:58
 
- 
 
- The Protestant Ethic matters here.
+
+The Protestant Ethic matters here.
 
 Duty before gain.
 

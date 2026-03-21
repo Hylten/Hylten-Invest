@@ -1,10 +1,9 @@
 ---
 title: "The High-Trust Mandate: Gnosjö as Industrial Governance"
 description: "A principal-level brief on Scandinavian trust-governance, Christian industrial ethics, and the capital architecture required for generational stewardship."
-date: "2025-09-11"
-author: "Hylten-Invest"
+date: "2025-09-11" author: "Hylten-Invest"
 slug: "gnosjo-industrial-governance"
---- 
+---
 
 Authority begins with trust.
 
@@ -28,13 +27,13 @@ No spectacle.
 
 Only stewardship. "He that is faithful in that which is least is faithful also in much."
 
- 
+
 
 - Luke 16:10
 
- 
 
- First.
+
+First.
 
 High-trust governance scales only when the Principal remains visible.
 

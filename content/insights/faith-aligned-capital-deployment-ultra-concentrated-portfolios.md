@@ -1,10 +1,9 @@
 ---
 title: "The Covenant Architecture of Faith‑Aligned Capital Deployment"
 description: "A principal‑level briefing on generational stewardship, ultra‑concentrated portfolios, and the theology of capital within a disciplined industrial lineage."
-date: "2025-07-11"
-author: "Hylten‑Invest"
+date: "2025-07-11" author: "Hylten‑Invest"
 slug: "faith-aligned-capital-deployment-ultra-concentrated-portfolios"
---- 
+---
 
 The structure must stand before the capital flows.
 
@@ -32,11 +31,7 @@ No sentimental theology.
 
 Only covenantal truth. "Teach us to number our days, that we may apply our hearts unto wisdom."
 
- ‑ Psalm 90:12
-
- 
-
- A concentrated portfolio is not an act of aggression.
+‑ Psalm 90:12 A concentrated portfolio is not an act of aggression.
 
 It is an act of devotion.
 
@@ -74,7 +69,7 @@ Now the architecture deepens.
 
 A concentrated portfolio must answer a single question: Is the capital serving the mission, or is the mission serving the capital?
 
- If you bend the mission to fit the capital, you break the covenant.
+If you bend the mission to fit the capital, you break the covenant.
 
 If you bend the capital to fit the mission, you build the house on rock.
 
@@ -117,7 +112,7 @@ When the steward is anchored, concentration becomes alignment.
 Alignment becomes conviction.
 
 Conviction becomes sovereignty. “Machine Gun” sentences for clarity: Conviction commands.
- Noise fades. Markets shift. Principles hold. Stewardship endures. Phase Two.
+Noise fades. Markets shift. Principles hold. Stewardship endures. Phase Two.
 
 Principal Tone.
 
@@ -165,11 +160,7 @@ There is no room for idleness in a faith‑aligned capital structure.
 
 The Protestant ethic condemns stagnation as severely as waste. "In all labour there is profit: but the talk of the lips tendeth only to penury."
 
- ‑ Proverbs 14:23
-
- 
-
- Every asset must serve a productive purpose.
+‑ Proverbs 14:23 Every asset must serve a productive purpose.
 
 Even when held long-term, it must be working-creating value, creating opportunity, creating resilience.
 
@@ -199,12 +190,8 @@ No improvisation.
 
 Faith‑aligned capital has a mandate: prepare the children’s children. "One generation shall praise thy works to another, and shall declare thy mighty acts."
 
- ‑ Psalm 145:
-4
-
- 
-
- The Industrial Mandate for Value Creation is the final anchor.
+‑ Psalm 145:
+4 The Industrial Mandate for Value Creation is the final anchor.
 
 This is where the Gnosjö spirit meets Christian duty.
 
@@ -332,29 +319,19 @@ Phase Four.
 
 Deployment Strategy within a Faith Framework.
 
-The capital deployment sequence must follow the hierarchy: 
+The capital deployment sequence must follow the hierarchy:
 
 1.
 
-Mission alignment 
+Mission alignment 2.
 
-2.
+Stewardship requirement 3.
 
-Stewardship requirement 
+Productive output 4.
 
-3.
+Covenant continuity 5.
 
-Productive output 
-
-4.
-
-Covenant continuity 
-
-5.
-
-Risk‑weighted conviction 
-
-6.
+Risk‑weighted conviction 6.
 
 Industrial heritage coherence Note the ordering.
 
@@ -422,11 +399,7 @@ All concentrated families face this crossroads.
 
 Only a morally governed architecture ensures the correct path. "The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 
- ‑ Psalm 33:11
-
- 
-
- Final clarity from the Principal’s chair: Concentrated capital is not dangerous.
+‑ Psalm 33:11 Final clarity from the Principal’s chair: Concentrated capital is not dangerous.
 
 Unprincipled capital is dangerous.
 

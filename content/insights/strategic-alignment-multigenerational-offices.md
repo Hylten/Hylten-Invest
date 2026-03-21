@@ -1,10 +1,9 @@
 ---
 title: "Strategic Alignment for Multi‑Generational Offices"
 description: "Institutional brief on stewardship architecture, capital theology, and multi‑generational alignment for long‑duration family enterprises."
-date: "2025-06-27"
-author: "Jonas Hyltén"
+date: "2025-06-27" author: "Jonas Hyltén"
 slug: "strategic-alignment-multigenerational-offices"
---- 
+---
 
 Multi‑generational offices do not fail from scarcity.
 
@@ -36,13 +35,9 @@ The purpose of this brief is to establish a strategic alignment blueprint for lo
 
 The brief assumes a family enterprise with entrenched industrial DNA, heterogeneous capital appetites, and the moral expectation that wealth functions not as status but as stewardship.
 
-- Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- directs THE MANDAT
-
-E
+- Proverbs 13:22directs THE MANDAT E
 
 : A good man leaves an inheritance to his children’s children.
 
@@ -78,9 +73,7 @@ The constitutional tier is the anchor.
 
 Without constitutional firmness, no generation will respect THE MANDAT
 
-E
-
- of the prior generation.
+E of the prior generation.
 
 Constitutions avoid moral drift.
 
@@ -154,11 +147,9 @@ Families survive on institutional muscle.
 
 The institution must outlive the personalities.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- must outlive the emotions.
+must outlive the emotions.
 
 The structure must outlive the trends.
 
@@ -214,7 +205,7 @@ In this environment, oil and gas plays re‑emerge as legitimate long‑horizon 
 
 Not because of opportunistic pricing but because the global energy mix cannot transition without hydrocarbon infrastructure.
 
-Families that understand physical systems, supply constraints, and geopolitical latency can 
+Families that understand physical systems, supply constraints, and geopolitical latency can
 
 ### Step I:
 
@@ -290,9 +281,7 @@ When readiness is lacking, authority is withheld.
 
 This protects the family, the capital, and THE MANDAT
 
-E
-
-.
+E .
 
 It also protects individuals from burdens they are not prepared to carry.
 
@@ -363,7 +352,7 @@ Without autonomy, the office becomes reactive and defensive.
 Capital ecosystems must be built around long‑arc macro truths.
 
 Demographics.
- Energy flows. Logistics chokepoints. Industrial reshoring. Water scarcity. Monetary cyclicality.
+Energy flows. Logistics chokepoints. Industrial reshoring. Water scarcity. Monetary cyclicality.
 
 These truths outlast news cycles.
 
@@ -401,11 +390,9 @@ The office must commit to the following imperatives:
 
 - Engineer internal trust as a structural asset.
 
-- Anchor every decision to Proverbs 13:22
+- Anchor every decision to "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- .
+- Proverbs 13:22.
 
 At scale, alignment becomes an engine.
 
@@ -421,11 +408,9 @@ Fragmented families cannot compound.
 
 Unified families compound effortlessly.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is clear: Structure precedes strategy.
+is clear: Structure precedes strategy.
 
 Strategy precedes allocation.
 

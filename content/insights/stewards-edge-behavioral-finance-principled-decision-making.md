@@ -1,10 +1,9 @@
 ---
 title: "The Steward’s Edge: Behavioral Finance for Principled Decision-Making"
 description: "A deep architectural analysis of stewardship psychology, Christian industrial legacy, and the behavioral foundations of moral capital formation within the Hylten-Invest lineage."
-date: "2026-03-16"
-author: "Hylten-Invest"
+date: "2026-03-16" author: "Hylten-Invest"
 slug: "stewards-edge-behavioral-finance-principled-decision-making"
---- 
+---
 
 Behavior shapes capital.
 
@@ -74,13 +73,13 @@ Without it, wealth is accidental.
 
 With it, wealth becomes inheritance. "He that ruleth his spirit is better than he that taketh a city."
 
- 
+
 
 - Proverbs 16:32
 
- 
 
- CONTROL OF IMPULSE The first pillar.
+
+CONTROL OF IMPULSE The first pillar.
 
 The most violated.
 
@@ -146,25 +145,25 @@ Covenant over sentiment.
 
 Stewardship over thrill.
 
-The behavioral foundations for this pattern can be described clearly: 
+The behavioral foundations for this pattern can be described clearly:
 
 1.
 
 Identity precedes action.
 
-The steward is not a speculator; therefore, he does not behave like one. 
+The steward is not a speculator; therefore, he does not behave like one.
 
 2.
 
 Purpose defines metrics.
 
-If the objective is generational capital, the metrics must reflect decades, not quarters. 
+If the objective is generational capital, the metrics must reflect decades, not quarters.
 
 3.
 
 Values shape filters.
 
-A Protestant ethic demands that value creation-not vanity, not perception-determines investment merit. 
+A Protestant ethic demands that value creation-not vanity, not perception-determines investment merit.
 
 4.
 
@@ -246,15 +245,15 @@ The architecture includes:
 
 - Governance rituals: establishing predictable, principled decision frameworks that cannot be overturned by mood.
 
-These practices inoculate against the three corrosive forces of multigenerational capital: 
+These practices inoculate against the three corrosive forces of multigenerational capital:
 
 1.
 
-Entitlement: the belief that consumption replaces contribution. 
+Entitlement: the belief that consumption replaces contribution.
 
 2.
 
-Aesthetic wealth: confusing luxury with legacy. 
+Aesthetic wealth: confusing luxury with legacy.
 
 3.
 

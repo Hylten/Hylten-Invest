@@ -1,10 +1,9 @@
 ---
 title: "The Sovereign Theology of Capital"
 description: "A principal-level briefing on Christian stewardship, industrial heritage, and the governance architecture required for generational capital among UHNW families."
-date: "2025-08-24"
-author: "Hylten-Invest"
+date: "2025-08-24" author: "Hylten-Invest"
 slug: "theology-of-capital-uhnw-governance"
---- 
+---
 
 Capital reveals the household.
 
@@ -12,14 +11,10 @@ Governance reveals the heart.
 
 Stewardship binds both into covenant order. "The earth is the Lord’s, and the fulness thereof."
 
- 
+
 
 - Psalm 24:
-1
-
- 
-
- Private wealth without theology drifts.
+1 Private wealth without theology drifts.
 
 Private markets without moral authority fracture.
 
@@ -67,7 +62,7 @@ A board without theology governs transactions.
 
 A board with theology governs destiny.
 
-I anchor the UHNW structure around three pillars: 
+I anchor the UHNW structure around three pillars:
 
 1.
 
@@ -77,7 +72,7 @@ Capital is held in trust before God, not as an ornament of success but as a tool
 
 This stabilizes the household.
 
-This disciplines the decision-maker. 
+This disciplines the decision-maker.
 
 2.
 
@@ -91,7 +86,7 @@ Multi-decade mandates.
 
 Each reinforces moral clarity over short-term appetite.
 
-This creates a sovereign frame for private enterprise. 
+This creates a sovereign frame for private enterprise.
 
 3.
 

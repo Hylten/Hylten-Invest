@@ -1,10 +1,9 @@
 ---
 title: "Strategic Asset-Based Lending Diversification for Long Term Family Office Protection"
 description: "A high level perspective on liquidity preservation and asset protection through private credit and asset based liquidity engineering for HNWI and Family Offices."
-date: "2025-12-20"
-author: "Hyltén Invest"
+date: "2025-12-20" author: "Hyltén Invest"
 slug: "strategic-abl-diversification-for-long-term-family-office-protection"
---- 
+---
 
 # Protecting Family Office Assets Through Strategic Asset-Based Lending Diversification Family offices operate on extended timelines
 
@@ -120,11 +119,11 @@ The Hyltén Invest Role in the Ecosystem Hyltén Invest exists to provide the st
 
 We lend against private credit and Asset-Based Lending portfolios.
 
-We lend against institutional scale crypto holdings above 2,000, 
+We lend against institutional scale crypto holdings above 2,000,
 
 000.
 
-We lend against public share positions above 5,000, 
+We lend against public share positions above 5,000,
 
 000.
 
@@ -138,11 +137,9 @@ The objective is not to compete with traditional lenders.
 
 The objective is to complement them, and to offer liquidity pathways that match the complexity and discretion required by family office environments.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : Protecting the Legacy Through Intelligent Liquidity Family offices were built to last.
+: Protecting the Legacy Through Intelligent Liquidity Family offices were built to last.
 
 Their investment horizon is measured in decades.
 

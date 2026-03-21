@@ -1,10 +1,9 @@
 ---
 title: "The Return to Covenant Industry Among the Sovereign Class"
 description: "UHNW families are turning back to real-asset manufacturing, covenant stewardship, and industrial permanence as the only credible path to multi‑generational capital continuity."
-date: "2025-12-30"
-author: "Hylten-Invest"
+date: "2025-12-30" author: "Hylten-Invest"
 slug: "uhnw-rediscover-legacy-focused-industrial-manufacturing"
---- 
+---
 
 Industrial capital is returning to its rightful custodians.
 
@@ -28,14 +27,10 @@ Industry does what paper never can.
 
 UHNW investors rediscover the truth: The covenant begins with something you can drop on your foot. "Through wisdom is an house builded; and by understanding it is established."
 
- 
+
 
 - Proverbs 24:
-3
-
- 
-
- First.
+3 First.
 
 Tangibility.
 
@@ -77,9 +72,9 @@ Others approach via craft‑scale clusters, echoing the old Gnosjö spirit-small
 
 When appropriate, I point them toward structuring through Roials Capital
 
- 
 
- for operational execution, while retaining the moral compass here.
+
+for operational execution, while retaining the moral compass here.
 
 The pattern is clear.
 

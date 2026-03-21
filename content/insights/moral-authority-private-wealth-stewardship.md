@@ -1,10 +1,9 @@
 ---
 title: "Moral Authority in Private Wealth Stewardship"
 description: "Institutional analysis of moral authority, generational capital, Christian industrial legacy, and private wealth stewardship within modern liquidity regimes."
-date: "2026-02-28"
-author: "Jonas Hyltén"
+date: "2026-02-28" author: "Jonas Hyltén"
 slug: "moral-authority-private-wealth-stewardship"
---- 
+---
 
 Moral authority in private wealth stewardship emerges only where capital formation aligns with conviction.
 
@@ -22,17 +21,13 @@ Wealth with mandate compounds.
 
 A good man leaves an inheritance to his children’s children (
 
-- Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
+- Proverbs 13:22).
 
- ).
+THE MANDAT E
 
-THE MANDAT
-
-E
-
- is intergenerational.
+is intergenerational.
 
 The stewardship is structural.
 
@@ -234,7 +229,7 @@ No authority.
 Moral mandate is established through covenantal clarity: the family exists to build, preserve, deploy, and transfer capital in alignment with Christian industrial values.
 
 Not prosperity theology.
- Production theology. Workmanship theology. Dominion theology. Honest yield. Ethical extraction.
+Production theology. Workmanship theology. Dominion theology. Honest yield. Ethical extraction.
 
 Stewardship over surplus.
 

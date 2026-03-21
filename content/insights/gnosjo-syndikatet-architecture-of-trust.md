@@ -1,10 +1,9 @@
 ---
 title: "The Gnosjö-Syndikatet Part 2: The Architecture of Trust"
 description: "A principal-level examination of Småland's trust‑driven industrial cadence, moral capital formation, and the institutional advantages that outperform high-finance complexity."
-date: "2026-03-02"
-author: "Jonas Hyltén"
+date: "2026-03-02" author: "Jonas Hyltén"
 slug: "gnosjo-syndikatet-architecture-of-trust"
---- 
+---
 
 Trust builds faster than capital.
 
@@ -40,11 +39,9 @@ A theology of responsibility.
 
 An anthropology of work.
 
-A covenant between hands and roofs and sons and daughters who would inherit a name before they inherited an asset. Proverbs 13:22
+A covenant between hands and roofs and sons and daughters who would inherit a name before they inherited an asset. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- .
+- Proverbs 13:22.
 
 Capital becomes stewardship when the time horizon exceeds the ego.
 

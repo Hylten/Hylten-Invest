@@ -1,10 +1,9 @@
 ---
 title: "Succession as Covenant, Not Contingency"
 description: "A principal-level examination of generational transfer, succession conviction, and the moral architecture of Christian stewardship within industrial families."
-date: "2025-11-01"
-author: "Hylten-Invest"
+date: "2025-11-01" author: "Hylten-Invest"
 slug: "succession-calling-not-succession-risk"
---- 
+---
 
 Succession collapses when treated as risk.
 
@@ -40,8 +39,5 @@ Families call this caution.
 
 It is entropy.
 
-It kills initiati
+It kills initiati Access is restricted to approved mandates.
 
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

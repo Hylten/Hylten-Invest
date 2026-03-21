@@ -1,10 +1,9 @@
 ---
 title: "The Sovereign Logic of Multi‑Century Capital"
 description: "A principal brief on Christian industrial legacy, generational design authority, and the architecture of enduring capital across centuries."
-date: "2025-12-12"
-author: "Hylten-Invest"
+date: "2025-12-12" author: "Hylten-Invest"
 slug: "generational-capital-christian-industrial-legacy-multi-century-asset-design"
---- 
+---
 
 Legacy does not emerge.
 
@@ -22,17 +21,15 @@ The Gnosjö spirit was never improvisation; it was ordered creation.
 
 Discipline made visible in steel. "The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 
- 
+
 
 - Psalm 33:11
 
- 
 
- 
 
-# Phase C
 
-hanges in capital begin with one premise: the asset must outlive the ego of the builder.
+
+# Phase C hanges in capital begin with one premise: the asset must outlive the ego of the builder.
 
 Anything less is consumption disguised as achievement.
 
@@ -46,15 +43,15 @@ Internal logic first.
 
 Clean.
 
-Non-negotiable. 
+Non-negotiable.
 
 1.
 
-Order before scale. 
+Order before scale.
 
 2.
 
-Principle before opportunity. 
+Principle before opportunity.
 
 3.
 

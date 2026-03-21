@@ -1,10 +1,9 @@
 ---
 title: "Stability Through Institutional Capital Migration"
 description: "A principal-level examination of cross‑jurisdictional capital migration, generational stewardship, and institutional asset hardening strategies under Nordic‑Protestant industrial principles."
-date: "2025-09-24"
-author: "Hylten-Invest"
+date: "2025-09-24" author: "Hylten-Invest"
 slug: "stability-institutional-capital-migration"
---- 
+---
 
 Institutional stability is never inherited.
 
@@ -22,11 +21,9 @@ Gnosjö understood this.
 
 The biblical principle stands: A good man leaves an inheritance to his children’s children,
 
-- Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- .
+- Proverbs 13:22.
 
 Migration of capital is, at its core, the migration of trust.
 
@@ -50,13 +47,9 @@ Capital must sit inside vessels that cannot be disrupted by political turbulence
 
 Not today.
 
-Not in 
+Not in 30 years.
 
-30 years.
-
-Not in 
-
-90.
+Not in 90.
 
 Intergenerational design demands this.
 
@@ -372,11 +365,9 @@ Into safer jurisdictions.
 
 Into clearer governance.
 
-Into institutional frameworks that honor lineage. Proverbs 13:22
+Into institutional frameworks that honor lineage. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- stands not as sentiment but as mandate.
+- Proverbs 13:22stands not as sentiment but as mandate.
 
 Inheritance is structural.
 
@@ -442,9 +433,9 @@ The institution that understands this becomes the anchor others tie to when mark
 
 End with mandate: Deploy capital only into structures with a three‑generation time horizon.
 
-Minimum institutional stability coefficient: 
+Minimum institutional stability coefficient:
 
-0. 
+0.
 
 87.
 

@@ -1,10 +1,9 @@
 ---
 title: "The Ethical Authority Premium in Modern Capital Formation"
 description: "An institutional brief on how moral authority, covenantal stewardship, and industrial heritage now command premium positioning in private equity fundraising."
-date: "2025-12-28"
-author: "Hylten-Invest"
+date: "2025-12-28" author: "Hylten-Invest"
 slug: "ethical-authority-premium-private-equity"
---- 
+---
 
 Ethical authority rises.
 
@@ -38,14 +37,10 @@ Legacy requires order.
 
 Enterprise requires truth. "He that walketh uprightly walketh surely."
 
- 
+
 
 - Proverbs 10:
-9
-
- 
-
- Principal logic:
+9 Principal logic:
 
 - Authority is not declared.
 

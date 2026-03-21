@@ -1,10 +1,9 @@
 ---
 title: "The Moral Balance Sheet"
 description: "A principal brief on the quantification of trust, calling, and generational legacy as sovereign financial assets within Christian industrial stewardship."
-date: "2025-07-08"
-author: "Hylten-Invest"
+date: "2025-07-08" author: "Hylten-Invest"
 slug: "moral-balance-sheet-trust-calling-legacy"
---- 
+---
 
 Trust stands first.
 
@@ -52,14 +51,10 @@ It keeps the forge lit.
 
 It teaches the children’s children who they are and what they guard. "Moreover it is required in stewards, that a man be found faithful."
 
- 
+
 
 - 1 Corinthians 4:
-2
-
- 
-
- Internal Logic.
+2 Internal Logic.
 
 Trust behaves like retained earnings.
 

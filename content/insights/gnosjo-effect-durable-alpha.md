@@ -1,10 +1,9 @@
 ---
 title: "The Sovereign Threadwork of Gnosjö"
 description: "Industrial kinship networks, Protestant stewardship, and the covenant mechanics that generate durable, non-speculative alpha across micro‑industrial clusters."
-date: "2025-09-12"
-author: "Hylten-Invest"
+date: "2025-09-12" author: "Hylten-Invest"
 slug: "gnosjo-effect-durable-alpha"
---- 
+---
 
 The Gnosjö network is not a mystery.
 
@@ -48,13 +47,13 @@ No indulgence.
 
 Value forms at the anvil, not in sentiment. "He that is faithful in that which is least is faithful also in much."
 
- 
+
 
 - Luke 16:10
 
- 
 
- Hierarchy emerges naturally.
+
+Hierarchy emerges naturally.
 
 The doer sits above the talker.
 
@@ -132,13 +131,9 @@ Guard the craft.
 
 Guard the legacy. "The integrity of the upright shall guide them."
 
- 
+
 
 - Proverbs 11:
-3
-
- 
-
- Access is restricted to approved mandates.
+3 Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

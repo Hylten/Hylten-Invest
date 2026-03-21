@@ -1,10 +1,9 @@
 ---
 title: "The Future of Legacy: Stewardship via AI and Asset Based liquidity engineering"
 description: "High net worth liquidity solutions built on private credit, asset based Institutional Liquidity Paths, and AI enabled stewardship."
-date: "2025-11-11"
-author: "Hyltén Invest"
+date: "2025-11-11" author: "Hyltén Invest"
 slug: "the-future-of-legacy-stewardship-via-ai-and-asset-based-liquidity-engineering"
---- 
+---
 
 # The Future of Legacy: Stewardship via AI and Asset-Based Lending Legacy is not inherited
 
@@ -68,11 +67,9 @@ We build frameworks that minimize noise and maximize optionality.
 
 Through AI supported Asset-Based Lending and private credit Capital Structuring, we create liquidity solutions that align with conservative long term philosophies.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : Stewardship Is a Quiet Architecture Future legacies will not be defined by noise or visibility.
+: Stewardship Is a Quiet Architecture Future legacies will not be defined by noise or visibility.
 
 They will be defined by quiet structural integrity.
 

@@ -1,10 +1,9 @@
 ---
 title: "Conservative Financing for Global Family Legacies: Strategic Alignment for Multi‑Generational Capital Stability"
 description: "Institutional brief on conservative capital engineering for family enterprises, integrating private credit, asset hardening, and inter‑generational liquidity architecture aligned with Christian industrial stewardship principles."
-date: "2026-01-24"
-author: "Jonas Hyltén"
+date: "2026-01-24" author: "Jonas Hyltén"
 slug: "conservative-financing-global-family-legacies"
---- 
+---
 
 Conservative financing is not a trend.
 
@@ -18,11 +17,9 @@ A worldview.
 
 A covenantal stance toward capital marked by restraint, clarity, and fidelity.
 
-Families that endure-three generations, four, five-share one structural constant: disciplined capital formation anchored in moral authority rather than opportunistic yield hunting. Proverbs 13:22
+Families that endure-three generations, four, five-share one structural constant: disciplined capital formation anchored in moral authority rather than opportunistic yield hunting. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- : A good man leaves an inheritance to his children's children.
+- Proverbs 13:22: A good man leaves an inheritance to his children's children.
 
 The text is mandate.
 
@@ -332,7 +329,7 @@ Conservative financing therefore becomes strategic independence.
 
 Through Fund‑III design principles-hard collateral, predictable tenor, jurisdictional flexibility-families gain consistency in markets marked by institutional inconsistency.
 
-A central 
+A central
 
 ### Pillar I: s psychological durability
 
@@ -430,11 +427,9 @@ Architect.
 
 Principal authority.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is clear: build systems that last.
+is clear: build systems that last.
 
 Systems that protect.
 

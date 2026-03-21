@@ -1,10 +1,9 @@
 ---
 title: "The Custodian Founder and the Restoration of Moral Stewardship in Capital Formation"
 description: "A principal-level briefing on why stewardship-driven founders are outperforming professionalized private equity teams, rooted in Christian industrial heritage and the architecture of generational capital."
-date: "2025-12-24"
-author: "Hylten-Invest"
+date: "2025-12-24" author: "Hylten-Invest"
 slug: "custodian-founder-stewardship-leadership-outperforming-pe"
---- 
+---
 
 The age of the Custodian Founder has returned.
 
@@ -28,14 +27,14 @@ Moral authority compounds.
 
 Professionalized management does not. "The integrity of the upright shall guide them."
 
- 
+
 
 - Proverbs 11:
 3
 
- 
 
- 
+
+
 
 ### Phase I:
 
@@ -63,13 +62,13 @@ He operates under legacy.
 
 He works under witness.
 
-Stewardship leadership has three core mechanics that are now beating the professionalization thesis across the middle-market landscape: 
+Stewardship leadership has three core mechanics that are now beating the professionalization thesis across the middle-market landscape:
 
 1. Temporal Sovereignty
 
- 
 
- The steward thinks in generational arcs, not quarterly reports.
+
+The steward thinks in generational arcs, not quarterly reports.
 
 Decisions align with durability, regenerative capital formation, and the long obedience of building something worthy of inheritance.
 
@@ -79,13 +78,13 @@ Their time horizon is predetermined.
 
 Their exit path is preset.
 
-Their loyalty is to the model, not the mission. 
+Their loyalty is to the model, not the mission.
 
 2. Embedded Moral Authority
 
- 
 
- Markets reward credibility.
+
+Markets reward credibility.
 
 Workers reward honor.
 
@@ -99,13 +98,13 @@ Professional teams cannot replicate this ethical architecture.
 
 They rely on incentive packages.
 
-The steward relies on duty. 
+The steward relies on duty.
 
 3. Proximity to the Work
 
- 
 
- The steward knows the furnace.
+
+The steward knows the furnace.
 
 He knows the forge.
 
@@ -127,7 +126,7 @@ These are not romantic notions.
 
 They are structural dynamics.
 
-Markets are rebalancing toward them. 
+Markets are rebalancing toward them.
 
 ### Phase II:
 
@@ -173,7 +172,7 @@ Renewal is the differentiator.
 
 Renewal is why custodian-led firms outperform across downturns, succession windows, and capital transitions.
 
-Renewal requires belief, and belief cannot be installed through compensation packages. 
+Renewal requires belief, and belief cannot be installed through compensation packages.
 
 ### Phase III:
 
@@ -347,8 +346,5 @@ This is why some founders now partner with firms capable of supporting generatio
 
 The point is simple.
 
-Stewardship sca
+Stewardship sca Access is restricted to approved mandates.
 
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

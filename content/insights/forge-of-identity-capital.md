@@ -1,10 +1,9 @@
 ---
 title: "The Forge of Identity Capital"
 description: "An analyst-grade examination of value-coherent investment architecture, moral authority, and the strategic advantage of identity-rooted capital formation within principled industrial houses."
-date: "2025-09-30"
-author: "Hylten-Invest"
+date: "2025-09-30" author: "Hylten-Invest"
 slug: "forge-of-identity-capital"
---- 
+---
 
 Identity is not branding.
 
@@ -38,13 +37,13 @@ It constrains itself by moral law.
 
 It channels human ambition toward creation, not extraction. "Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein."
 
- 
+
 
 - Jeremiah 6:16
 
- 
 
- This is not nostalgia.
+
+This is not nostalgia.
 
 This is architectural truth.
 
@@ -104,13 +103,13 @@ Too few guard their name.
 
 A Principal builds for the children’s children-never for quarterly applause. "The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 
- 
+
 
 - Psalm 33:11
 
- 
 
- A value-coherent investment house becomes a sovereign architecture.
+
+A value-coherent investment house becomes a sovereign architecture.
 
 It governs its own direction.
 

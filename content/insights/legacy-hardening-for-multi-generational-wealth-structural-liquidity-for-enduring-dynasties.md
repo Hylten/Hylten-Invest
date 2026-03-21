@@ -1,10 +1,9 @@
 ---
 title: "Legacy Hardening for Multi-Generational Wealth: Structural Liquidity for Enduring Dynasties"
 description: "A high-end analysis of liquidity architecture, private credit, and asset based liquidity engineering for long-term wealth preservation and strategic family continuity."
-date: "2026-02-14"
-author: "Hyltén Invest"
+date: "2026-02-14" author: "Hyltén Invest"
 slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-enduring-dynasties"
---- 
+---
 
 # Legacy Hardening for Multi-Generational Wealth Wealth that lasts is rarely accidental
 
@@ -122,11 +121,9 @@ This is not wealth management.
 
 It is legacy engineering.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : Hardening the Future Legacy hardening is not a sprint.
+: Hardening the Future Legacy hardening is not a sprint.
 
 It is not reactive.
 

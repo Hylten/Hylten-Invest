@@ -1,10 +1,9 @@
 ---
 title: "Hylten Invest: A Quiet Foundation for Institutional-Grade Liquidity"
 description: "An institutional brief on Hylten Invest’s role as a Swedish family-capital anchor enabling private credit stability, cross-border liquidity structuring, and generational asset hardening strategies for Fund-III and aligned mandates."
-date: "2026-01-28"
-author: "Jonas Hylten"
+date: "2026-01-28" author: "Jonas Hylten"
 slug: "hylten-invest-institutional-liquidity-foundation"
---- 
+---
 
 Hylten Invest operates in a register that avoids spectacle.
 
@@ -34,11 +33,9 @@ Christian moral arithmetic.
 
 Stewardship above ownership.
 
-Responsibility above appetite. Proverbs 13:22
+Responsibility above appetite. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- : A good man leaveth an inheritance to his children's children.
+- Proverbs 13:22: A good man leaveth an inheritance to his children's children.
 
 This is the governing logic.
 
@@ -229,7 +226,7 @@ The market misprices this stability because it cannot model morality.
 Yet morality is precisely what stabilizes liquidity through cycles.
 
 The governance model inside Hylten Invest mirrors classical Lutheran stewardship structures.
- Lean authority. Clear responsibility. Direct accountability. Small circle. High trust.
+Lean authority. Clear responsibility. Direct accountability. Small circle. High trust.
 
 No bureaucracy.
 
@@ -377,11 +374,9 @@ Assets should outlive the founder.
 
 Liquidity should strengthen successors.
 
-Decisions must echo forward. Proverbs 13:22
+Decisions must echo forward. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- remains the anchor: inheritance not as wealth, but as responsibility.
+- Proverbs 13:22remains the anchor: inheritance not as wealth, but as responsibility.
 
 Every deployment must survive transitions in technology, politics, and sentiment.
 

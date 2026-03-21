@@ -1,10 +1,9 @@
 ---
 title: "The Theology Of Capital: Wealth As A Sacred Trust"
 description: "The Theology Of Capital: Wealth As A Sacred Trust"
-date: "2025-11-21"
-author: "Hyltén Invest"
+date: "2025-11-21" author: "Hyltén Invest"
 slug: "the-theology-of-capital-wealth-as-a-sacred-trust"
---- 
+---
 
 # The Theology of Capital Wealth as a Sacred Trust Capital is not neutral
 
@@ -49,11 +48,7 @@ But as a custodian of the capital entrusted to him by Providence.
 Capital Under Covenant Psalm 24
 
 :
-1
-
- 
-
- “The earth is the Lord’s.
+1 “The earth is the Lord’s.
 
 And all it contains.” The origin of capital is divine ownership.
 
@@ -81,11 +76,9 @@ Christian owners understand its morality.
 
 The Hyltén Invest doctrine fuses both.
 
-Generational Wealth as Obligation Proverbs 13:22
+Generational Wealth as Obligation "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- “A good man leaves an inheritance to his children’s children.” Generational wealth is not accumulation.
+- Proverbs 13:22“A good man leaves an inheritance to his children’s children.” Generational wealth is not accumulation.
 
 It is continuity.
 
@@ -149,9 +142,9 @@ Clarity that your capital is ready to operate without friction.
 
 Stewardship as Operational Philosophy Luke 12:48
 
- 
 
- “To whom much is given.
+
+“To whom much is given.
 
 Much will be required.” Stewardship requires velocity, not stagnation.
 
@@ -213,15 +206,15 @@ The Capital Priesthood A Principal is a priest of resources
 
 .
 
-Not in ceremonial function but in vocational mandate. 
+Not in ceremonial function but in vocational mandate.
 
 1.
 
-Protect the entrusted capital 
+Protect the entrusted capital
 
 2.
 
-Multiply the entrusted capital 
+Multiply the entrusted capital
 
 3.
 
@@ -311,21 +304,15 @@ A Principal does not dilute philosophy.
 
 A Principal maintains posture while adapting strategy.
 
-True stewardship rests on four pillars: 
+True stewardship rests on four pillars:
 
 1.
 
-Covenant with God 
+Covenant with God 2.
 
-2.
+Duty to family 3.
 
-Duty to family 
-
-3.
-
-Responsibility for employees 
-
-4.
+Responsibility for employees 4.
 
 Accountability to capital partners This hierarchy cannot be reversed.
 
@@ -389,9 +376,9 @@ But its survival record is unmatched.
 
 Wealth as Witness Matthew 5:16
 
- 
 
- “Let your light shine before men.
+
+“Let your light shine before men.
 
 That they may see your good works.” Wealth is witness.
 

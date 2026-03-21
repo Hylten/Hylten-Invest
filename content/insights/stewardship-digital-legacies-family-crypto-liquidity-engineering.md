@@ -1,10 +1,9 @@
 ---
 title: "Stewardship Architecture for Digital Legacies in Family Crypto Holdings"
 description: "Institutional brief on liquidity engineering, succession structuring, asset hardening, and multi‑jurisdictional stewardship frameworks for long‑horizon family crypto holdings under a Christian-industrial legacy mandate."
-date: "2026-01-26"
-author: "Jonas Hyltén — Hylten-Invest"
+date: "2026-01-26" author: "Jonas Hyltén — Hylten-Invest"
 slug: "stewardship-digital-legacies-family-crypto-liquidity-engineering"
---- 
+---
 
 Institutional capital begins with order.
 
@@ -30,11 +29,9 @@ They require the Spirit of Gnosjö.
 
 They require a sovereign architecture able to outlive the founder and bind the next generation into a covenant of responsibility.
 
-- Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- : A good man leaves an inheritance to his children’s children.
+- Proverbs 13:22: A good man leaves an inheritance to his children’s children.
 
 The text does not specify the form.
 
@@ -76,9 +73,9 @@ They are proto‑sovereign treasuries.
 
 They must be handled accordingly.
 
-- 
+-
 
-- 
+-
 
 - The first mandate is classification.
 
@@ -258,7 +255,7 @@ Tax codes lag.
 
 Enforcement is inconsistent.
 
-Therefore, the next 
+Therefore, the next
 
 ### Layer I: s jurisdictional mapping
 
@@ -450,7 +447,7 @@ Governance rights are leverage.
 
 Leverage is sovereignty.
 
-The next structural 
+The next structural
 
 ### Layer I: s credit
 

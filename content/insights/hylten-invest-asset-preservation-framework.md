@@ -1,10 +1,9 @@
 ---
 title: "The Hylten Invest Approach to Asset Preservation: A Framework for Generational Capital Stewardship"
 description: "Institutional doctrine for long-horizon asset preservation, liquidity hardening, jurisdictional structuring, and generational capital stewardship within the Hylten-Invest mandate."
-date: "2026-01-17"
-author: "Hylten-Invest"
+date: "2026-01-17" author: "Hylten-Invest"
 slug: "hylten-invest-asset-preservation-framework"
---- 
+---
 
 The architecture of generational capital does not emerge through accumulation alone.
 
@@ -18,11 +17,9 @@ Structured against entropy.
 
 The Hylten Invest approach to asset preservation operates on a simple thesis: capital is not a possession; it is an inheritable mandate.
 
-A good man leaves an inheritance to his children's children: Proverbs 13:22
+A good man leaves an inheritance to his children's children: "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- .
+- Proverbs 13:22.
 
 This is the theological baseline.
 

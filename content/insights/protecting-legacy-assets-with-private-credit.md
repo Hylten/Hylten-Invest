@@ -1,10 +1,9 @@
 ---
 title: "Protecting Legacy Assets with Private Credit"
 description: "A strategic exploration of private credit and asset based liquidity engineering as liquidity instruments for safeguarding multi generational wealth."
-date: "2025-07-28"
-author: "Hyltén Invest"
+date: "2025-07-28" author: "Hyltén Invest"
 slug: "protecting-legacy-assets-with-private-credit"
---- 
+---
 
 # Protecting Legacy Assets with Private Credit In every generation there is a moment when a family’s capital architecture must be redefined
 
@@ -342,9 +341,9 @@ Providing stability.
 
 Without noise.
 
-- 
+-
 
-- 
+-
 
 - Access is restricted to approved mandates.
 

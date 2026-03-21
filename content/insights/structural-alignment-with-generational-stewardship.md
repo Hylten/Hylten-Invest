@@ -1,10 +1,9 @@
 ---
 title: "Structural Alignment With Generational Stewardship"
 description: "Structural Alignment With Generational Stewardship"
-date: "2026-03-14"
-author: "Hyltén Invest"
+date: "2026-03-14" author: "Hyltén Invest"
 slug: "structural-alignment-with-generational-stewardship"
---- 
+---
 
 # Structural Alignment with Generational Stewardship Institutional capital moves toward order
 

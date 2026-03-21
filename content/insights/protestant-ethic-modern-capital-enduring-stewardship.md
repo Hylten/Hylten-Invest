@@ -1,10 +1,9 @@
 ---
 title: "The Protestant Ethic and the Architecture of Enduring Capital"
 description: "A principal-level brief on why discipline, work, and covenantal stewardship outperform financial engineering in every generation."
-date: "2025-12-20"
-author: "Hylten‑Invest"
+date: "2025-12-20" author: "Hylten‑Invest"
 slug: "protestant-ethic-modern-capital-enduring-stewardship"
---- 
+---
 
 Hard work compounds.
 
@@ -32,11 +31,9 @@ Work as duty.
 
 Work as worship.
 
-Work as the conduit through which capital becomes moral authority. Proverbs 13:22
+Work as the conduit through which capital becomes moral authority. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- (A good man leaveth an inheritance to his children's children.) 
+- Proverbs 13:22(A good man leaveth an inheritance to his children's children.)
 
 1.
 
@@ -48,7 +45,7 @@ Not shortcuts.
 
 Value only.
 
-The moment capital forgets this, rot sets in. 
+The moment capital forgets this, rot sets in.
 
 2.
 
@@ -60,7 +57,7 @@ Never smaller.
 
 Freedom produces expansion; coercion produces decline.
 
-Every industrial region that prospered did so through free enterprise and relentless work, not by manipulating the optics of wealth. 
+Every industrial region that prospered did so through free enterprise and relentless work, not by manipulating the optics of wealth.
 
 3.
 

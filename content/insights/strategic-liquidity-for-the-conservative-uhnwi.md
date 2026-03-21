@@ -1,10 +1,9 @@
 ---
 title: "Strategic Liquidity for the Conservative UHNWI"
 description: "A high‑end analysis of liquidity architecture for HNWI and UHNW investors, focusing on private credit and asset based liquidity engineering solutions."
-date: "2026-01-17"
-author: "Hyltén Invest"
+date: "2026-01-17" author: "Hyltén Invest"
 slug: "strategic-liquidity-for-the-conservative-uhnwi"
---- 
+---
 
 # Strategic Liquidity for the Conservative UHNWI Liquidity is the quiet force that preserves optionality for the world’s most conservative wealth holders
 
