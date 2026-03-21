@@ -313,7 +313,7 @@ Asset-Backed Frameworks, capital efficiency modeling, yield curve mobility analy
 
 They are structural tools for maintaining sovereignty over capital.
 
-CONCLUSION
+**Conclusion**
 
 The stewardship of sovereign assets requires a multi decade mindset combined with technically precise liquidity architecture.
 

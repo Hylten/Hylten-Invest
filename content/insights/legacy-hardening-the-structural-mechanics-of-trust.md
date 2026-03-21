@@ -281,7 +281,7 @@ It is intentional.
 
 It is built to last.
 
-CONCLUSION
+**Conclusion**
 
 : The Future Belongs to the Well-Structured Legacy does not endure by chance.
 

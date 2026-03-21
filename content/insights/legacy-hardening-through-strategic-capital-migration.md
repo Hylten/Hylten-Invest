@@ -265,7 +265,7 @@ Hardening is therefore the precursor to growth.
 
 It creates the foundation upon which generational capital can operate freely.
 
-CONCLUSION
+**Conclusion**
 
 : A Time for Quiet Strength Legacy Hardening is the path forward for families who value stability, sovereignty, and long term continuity.
 

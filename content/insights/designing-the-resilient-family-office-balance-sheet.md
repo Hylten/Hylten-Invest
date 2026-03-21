@@ -369,7 +369,7 @@ Conservative.
 
 This is the infrastructure that families use to steward capital, not just preserve it.
 
-CONCLUSION
+**Conclusion**
 
 A resilient family office balance sheet is not built in reaction to markets.
 

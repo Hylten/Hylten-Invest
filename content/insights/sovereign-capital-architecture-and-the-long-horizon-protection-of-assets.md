@@ -299,7 +299,7 @@ It operates with minimalist precision.
 
 The objective is simple, keep assets intact, keep liquidity available, and keep families in absolute control of their capital.
 
-CONCLUSION
+**Conclusion**
 
 Sovereign capital is the modern expression of long‑term wealth protection.
 

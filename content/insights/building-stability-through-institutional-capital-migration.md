@@ -287,7 +287,7 @@ Those who rely on reactive liquidity will face structural constraints.
 
 Hyltén Invest is positioned to navigate this landscape with precision and quiet authority.
 
-CONCLUSION
+**Conclusion**
 
 Institutional capital migration is a slow process.
 

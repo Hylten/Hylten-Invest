@@ -429,7 +429,7 @@ The glory is generational continuity.
 
 XI.
 
-CONCLUSION
+**Conclusion**
 
 : WHY THIS SHIFT IS NOT A TREND BUT A RETURN Ultra‑low‑churn capital is the rediscovery of what was always true: continuity is the foundation of civilization.
 

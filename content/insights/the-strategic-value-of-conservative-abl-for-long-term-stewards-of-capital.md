@@ -137,7 +137,7 @@ It is more precise.
 
 It is more aligned with the true nature of long-term wealth.
 
-CONCLUSION
+**Conclusion**
 
 : Asset-Based Lending as Stewardship Infrastructure Conservative asset-based Asset-Backed Frameworks is no longer a secondary financing method.
 

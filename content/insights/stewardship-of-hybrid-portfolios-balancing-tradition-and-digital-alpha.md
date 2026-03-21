@@ -297,7 +297,9 @@ Hybrid design becomes a standard rather than an exception.
 
 At the center of this shift sits the need for professional, silent, deliberate stewardship.
 
-CONCLUSION : Stewardship With principal authority Hybrid portfolios represent the next chapter of long term wealth architecture.
+**Conclusion**
+
+: Stewardship With principal authority Hybrid portfolios represent the next chapter of long term wealth architecture.
 
 They fuse traditional stability with modern liquidity.
 

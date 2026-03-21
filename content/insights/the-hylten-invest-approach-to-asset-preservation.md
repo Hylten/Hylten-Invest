@@ -363,7 +363,7 @@ It reduces friction.
 
 It maintains clarity.
 
-CONCLUSION
+**Conclusion**
 
 Wealth that lasts is not loud.
 

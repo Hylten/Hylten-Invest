@@ -45,7 +45,7 @@ This is conservation rather than consumption.
 
 This is the long view.
 
-CONCLUSION
+**Conclusion**
 
 Hyltén Invest provides conservative Asset Based Capital Structuring and private credit structures for UHNW individuals who require liquidity without displacement.
 

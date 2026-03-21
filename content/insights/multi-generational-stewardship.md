@@ -255,7 +255,7 @@ It is purpose driven.
 
 This is the style of Hylten Invest.
 
-CONCLUSION
+**Conclusion**
 
 Multi generational stewardship is less about complex structures and more about consistent principles.
 

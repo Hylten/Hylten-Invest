@@ -415,7 +415,9 @@ It aligns with the ethos of capital that is designed to endure.
 -
 
 -
-CONCLUSION Hylten Invest supports institutions that prioritize long term stewardship over short term advantage.
+**Conclusion**
+
+Hylten Invest supports institutions that prioritize long term stewardship over short term advantage.
 
 Covenant architecture harmonization is an essential discipline for lenders that wish to protect capital, reduce noise, and maintain structural clarity across decades.
 

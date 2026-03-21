@@ -450,7 +450,7 @@ Clarity will be a performance driver.
 
 Stewardship will require both precision and restraint.
 
-CONCLUSION
+**Conclusion**
 
 Control rights are the foundational elements of long term capital protection.
 

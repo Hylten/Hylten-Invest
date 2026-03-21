@@ -470,7 +470,7 @@ This is the highest expression of Christian responsibility.
 
 It is also the strongest foundation for private capital growth with integrity.
 
-CONCLUSION
+**Conclusion**
 
 Moral authority is not sentiment.
 

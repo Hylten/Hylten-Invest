@@ -39,7 +39,7 @@ Those who preserve their ability to act when others cannot.
 
 This is the essence of sovereign stewardship.
 
-CONCLUSION
+**Conclusion**
 
 Sovereign families and private investors require more than capital.
 

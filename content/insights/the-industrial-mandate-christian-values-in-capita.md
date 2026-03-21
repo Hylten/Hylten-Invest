@@ -487,7 +487,7 @@ This is the Spirit of Gnosjö.
 
 This is the logic that built Sweden’s most resilient enterprises.
 
-CONCLUSION
+**Conclusion**
 
 .
 

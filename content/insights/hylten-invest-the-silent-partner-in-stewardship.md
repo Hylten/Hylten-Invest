@@ -335,7 +335,7 @@ Patiently.
 
 With integrity.
 
-CONCLUSION
+**Conclusion**
 
 : The Silent Partner for Those Who Think in Generations Hylten Invest is not designed for the broad market.
 

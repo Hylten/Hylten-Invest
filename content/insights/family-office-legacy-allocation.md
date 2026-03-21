@@ -301,7 +301,7 @@ Structures that protect legacy.
 
 Structures that align capital with identity.
 
-CONCLUSION
+**Conclusion**
 
 Legacy allocation is the disciplined art of organizing capital for decades and centuries.
 

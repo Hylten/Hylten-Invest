@@ -43,7 +43,7 @@ It flows.
 
 This is the defining characteristic of enduring wealth.
 
-CONCLUSION
+**Conclusion**
 
 : A Call to Stewards of Multi-Generational Wealth We operate for families that think in decades, not quarters.
 
