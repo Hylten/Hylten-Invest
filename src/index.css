@@ -615,23 +615,32 @@ footer {
   }
 
   /* Prevent footer overflow on mobile */
+  footer {
+    width: 100% !important;
+    padding: 4rem 20px !important;
+    box-sizing: border-box !important;
+  }
+
   .footer-links {
     display: flex !important;
+    gap: 1.5rem !important;
     flex-direction: column !important;
     align-items: center !important;
-    gap: 1.5rem !important;
     text-align: center !important;
+    width: 100% !important;
   }
   
   .footer-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+    width: 100% !important;
+    gap: 3rem !important;
   }
 
   .social-links {
-    justify-content: center;
-    width: 100%;
+    justify-content: center !important;
+    width: 100% !important;
   }
 }
