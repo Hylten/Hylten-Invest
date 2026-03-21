@@ -21,8 +21,6 @@ The kind hammered into steel at the 1874 forge.
 
 The kind that sees capital not as trophy but as duty. "He that walketh uprightly walketh surely."
 
-
-
 - Proverbs 10:
 9 The shift is structural.
 
@@ -110,6 +108,12 @@ Stewardship becomes the engine.
 
 Moral authority becomes the differentiator.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

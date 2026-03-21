@@ -31,8 +31,6 @@ It defines whether capital compounds across three generations or collapses by th
 
 It defines whether the allocation to private equity becomes a disciplined extension of vocation or a fashionable drift into opacity. "He that walketh uprightly walketh surely; but he that perverteth his ways shall be known."
 
-
-
 - Proverbs 10:
 9 The verse is blunt.
 
@@ -43,8 +41,6 @@ Distortion reveals itself in time.
 In the world of private equity, that clarity is not an abstraction.
 
 It is a structural truth with financial consequences.
-
-
 
 - PRIVATE BRIEFING (Principal voice, unfiltered, for the vault.) I speak plainly.
 
@@ -272,8 +268,6 @@ Markets fluctuate, but conviction remains.
 
 Volatility becomes manageable because the underlying assets are built on real value creation, not price momentum. "The integrity of the upright shall guide them."
 
-
-
 - Proverbs 11:
 3 Guide.
 
@@ -445,8 +439,6 @@ They must stand where previous generations stood
 
 On stewardship, not on drift. "The just man walketh in his integrity: his children are blessed after him."
 
-
-
 - Proverbs 20:
 7 This is the architecture.
 
@@ -454,6 +446,12 @@ This is the standard.
 
 This is the inheritance worth defending.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

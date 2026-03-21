@@ -32,8 +32,6 @@ They upheld the covenant between labor, capital, and faith.
 
 Their factories became temples of order, discipline, and transformation. "Commit thy works unto the Lord, and thy thoughts shall be established."
 
-
-
 - Proverbs 16:
 3 This is the core.
 
@@ -269,11 +267,7 @@ The Bible formed the governance code.
 
 The factory floor translated it into motion. "Seest thou a man diligent in his business? he shall stand before kings."
 
-
-
 - Proverbs 22:29
-
-
 
 The Nordics built their productivity miracle on exactly that.
 
@@ -365,6 +359,12 @@ Silenced in public.
 
 Indelible in reality.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

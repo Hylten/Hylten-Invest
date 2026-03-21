@@ -73,11 +73,7 @@ Without it, wealth is accidental.
 
 With it, wealth becomes inheritance. "He that ruleth his spirit is better than he that taketh a city."
 
-
-
 - Proverbs 16:32
-
-
 
 CONTROL OF IMPULSE The first pillar.
 
@@ -365,6 +361,12 @@ For those seeking deeper structuring of governance, behavioral design, and moral
 
 In certain cases, the operational structuring routed through the Roials Capital unit may be contextually integrated into the broader architecture, as seen through institutional capital execution approaches visible at [Roials Capital](https://roialscapital.com/).
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

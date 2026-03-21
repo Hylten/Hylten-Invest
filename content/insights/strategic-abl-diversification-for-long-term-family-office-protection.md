@@ -136,10 +136,17 @@ We maintain privacy, minimalism, and long term partnership.
 The objective is not to compete with traditional lenders.
 
 The objective is to complement them, and to offer liquidity pathways that match the complexity and discretion required by family office environments.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Protecting the Legacy Through Intelligent Liquidity Family offices were built to last.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Protecting the Legacy Through Intelligent Liquidity Family offices were built to last.
 
 Their investment horizon is measured in decades.
 

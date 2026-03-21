@@ -21,7 +21,9 @@ This briefing addresses the structural mechanics of trust within generational ca
 
 The perspective is grounded in the Nordic industrial tradition, the Spirit of Gnosjö, and the doctrine that capital must be stewarded with purpose, discipline, and long-term fidelity.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the thesis: "A good man leaves an inheritance to his children's children." This is not sentiment.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22establishes the thesis: "A good man leaves an inheritance to his children's children." This is not sentiment.
 
 It is a design specification for the balance sheet of a multi-generational enterprise.
 
@@ -120,8 +122,6 @@ They are free to do what is required to preserve THE MANDAT
 E .
 
 This is consistent with Proverbs 22:29
-
-
 
 , which ties excellence to authority.
 
@@ -261,5 +261,10 @@ E for the next generation.
 
 Roials Capital provides the mechanism for this calibration through a Confidential Strategy Audit focused on purpose alignment and generational durability. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

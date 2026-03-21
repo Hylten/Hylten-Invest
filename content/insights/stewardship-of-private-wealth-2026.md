@@ -137,7 +137,9 @@ It is a command.
 
 Capital is not a possession.
 
-It is a responsibility delegated by God, and that responsibility includes the duty to multiply without waste. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the generational mandate.
+It is a responsibility delegated by God, and that responsibility includes the duty to multiply without waste. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22establishes the generational mandate.
 
 A steward must think in epochs, not quarters.
 
@@ -175,7 +177,9 @@ Stewardship rejects such structures.
 
 2.
 
-Does this deployment strengthen generational continuity An allocation that cannot endure volatility or provide compounding strategic positioning does not meet the standard of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
+Does this deployment strengthen generational continuity An allocation that cannot endure volatility or provide compounding strategic positioning does not meet the standard of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22.
 
 3.
 
@@ -227,5 +231,10 @@ It is a structural assessment designed to map resources, obligations, and opport
 
 This is the point where clarity replaces complexity and where capital begins to align with calling. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

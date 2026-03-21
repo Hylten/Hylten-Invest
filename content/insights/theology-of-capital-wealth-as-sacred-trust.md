@@ -179,7 +179,9 @@ This filter operates across four dimensions:
 
 1.
 
-Temporal discipline Long-horizon thinking governs investment discipline. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22defines the generational mandate.
+Temporal discipline Long-horizon thinking governs investment discipline. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22defines the generational mandate.
 
 A good man leaves an inheritance not only of assets but of stability.
 
@@ -255,5 +257,10 @@ Stewardship is not optional.
 
 It is the only discipline capable of producing durable wealth across generations. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

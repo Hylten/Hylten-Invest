@@ -33,11 +33,7 @@ You do not build a forge in 1874 and then trade the forge every seven years beca
 
 You build it once, and your children’s children inherit the wealth, the craft, the discipline, and the obligation. "The counsel of the Lord standeth for ever, the thoughts of His heart to all generations."
 
-
-
 - Psalm 33:11
-
-
 
 This is the operating system behind ultra‑low‑churn capital: permanence as design, not inertia.
 
@@ -161,8 +157,6 @@ The Protestant work ethic was never about toil; it was about order.
 
 It was about clarity of duty before God. "Commit thy works unto the Lord, and thy thoughts shall be established."
 
-
-
 - Proverbs 16:
 3 Ultra‑low‑churn capital is industrial in spirit even when applied to digital or intellectual holdings.
 
@@ -262,14 +256,8 @@ They convert moral clarity into financial endurance. "Blessed is the man that fe
 
 His seed shall be mighty upon earth."
 
-
-
 - Psalm 112:
 1
-
-
-
-
 
 - 2 The seed is the enterprise.
 
@@ -417,21 +405,24 @@ Build the sovereign architecture that endures.
 
 This is the calling. "The wise shall inherit glory."
 
-
-
 - Proverbs 3:35
-
-
 
 The glory is not personal.
 
 The glory is generational continuity.
 
 XI.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: WHY THIS SHIFT IS NOT A TREND BUT A RETURN Ultra‑low‑churn capital is the rediscovery of what was always true: continuity is the foundation of civilization.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+WHY THIS SHIFT IS NOT A TREND BUT A RETURN Ultra‑low‑churn capital is the rediscovery of what was always true: continuity is the foundation of civilization.
 
 Families know it.
 
@@ -448,7 +439,5 @@ This is the architecture of moral capital.
 This is the architecture of a free and industrious people.
 
 The forge remains lit.
-
-Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

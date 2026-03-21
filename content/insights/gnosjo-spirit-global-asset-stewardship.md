@@ -145,7 +145,9 @@ THE STEWARDSHIP FILTER The Theology of Capital provides the governing lens
 
 Stewardship is not an aesthetic.
 
-It is an operational mandate defined in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
+It is an operational mandate defined in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22.
 
 Capital is a generational instrument.
 
@@ -193,5 +195,10 @@ The focus is clarity, not commitment.
 
 The objective is alignment, not allocation. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

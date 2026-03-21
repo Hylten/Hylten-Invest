@@ -29,7 +29,9 @@ They require the Spirit of Gnosjö.
 
 They require a sovereign architecture able to outlive the founder and bind the next generation into a covenant of responsibility.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: A good man leaves an inheritance to his children’s children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22: A good man leaves an inheritance to his children’s children.
 
 The text does not specify the form.
 
@@ -587,8 +589,14 @@ Inheritance is not a transaction.
 
 It is a mandate.
 
-Access is restricted to approved mandates.
-
 Minimum mandate depth: $5M+ target size.
 
 Metric: target liquidity coverage ratio 1.85.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

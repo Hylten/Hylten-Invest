@@ -1,3 +1,5 @@
+
+
 # Vilka processer bör du automatisera med AI först
 En vägledning för långsiktig förvaltning och beslutsro för HNWI och Family Offices
 
@@ -243,3 +245,11 @@ Bevara det som är mänskligt.
 Det är så man skapar långsiktig förvaltning som står emot både teknikskiften och marknadscykler.
 
 Contact for stewardship discussion
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -42,10 +42,17 @@ When the world becomes volatile, capital does not freeze.
 It flows.
 
 This is the defining characteristic of enduring wealth.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: A Call to Stewards of Multi-Generational Wealth We operate for families that think in decades, not quarters.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+A Call to Stewards of Multi-Generational Wealth We operate for families that think in decades, not quarters.
 
 If your objective is long-term continuity, if your priority is keeping wealth resilient rather than merely optimized, if you understand that liquidity is the unseen foundation of legacy, then you understand the value of structural Capital Structuring.
 

@@ -69,8 +69,6 @@ Consequence.
 
 These are not abstractions; they are industrial safeguards. "The integrity of the upright shall guide them."
 
-
-
 - Proverbs 11:
 3 Guidance is not optional.
 
@@ -118,6 +116,12 @@ Order follows purpose.
 
 And purpose, rightly held, becomes the most reliable risk reducer in any generation.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

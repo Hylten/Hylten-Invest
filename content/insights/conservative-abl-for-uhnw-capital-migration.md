@@ -44,8 +44,15 @@ This is stewardship rather than transaction.
 This is conservation rather than consumption.
 
 This is the long view.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Hyltén Invest provides conservative Asset Based Capital Structuring and private credit structures for UHNW individuals who require liquidity without displacement.
 

@@ -23,11 +23,7 @@ They built a moral architecture long before private equity adopted the language 
 
 The modern firm rediscovers what they lived. "Whatsoever thy hand findeth to do, do it with thy might."
 
-
-
 - Ecclesiastes 9:10
-
-
 
 The Gnosjö pattern is not nostalgia.
 
@@ -61,8 +57,6 @@ The new operating models that win-quietly, steadily, relentlessly-inherit three 
 
 1. Proximity to the floor.
 
-
-
 Boards that walk the shop.
 
 Principals who smell the oil.
@@ -70,8 +64,6 @@ Principals who smell the oil.
 Managers who know the machine’s tremor before the vibration sensor detects it.
 
 2. Covenantal stewardship.
-
-
 
 Capital is not a tool for extraction.
 
@@ -85,8 +77,6 @@ Discipline produces endurance.
 
 3. Generational intent.
 
-
-
 Not quarter-to-quarter.
 
 Not fund-to-fund.
@@ -94,8 +84,6 @@ Not fund-to-fund.
 A design built for the children’s children.
 
 This is where enduring free enterprise stands firm against entropy. "Through wisdom is an house builded; and by understanding it is established."
-
-
 
 - Proverbs 24:
 3 The next evolution of private equity-Fund-III structures, industrial platforms, consolidation plays-quietly shifts toward this older logic: Solve real problems.
@@ -124,9 +112,15 @@ Virtue first.
 
 Then capital flows. "The integrity of the upright shall guide them."
 
-
-
 - Proverbs 11:
 3 Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -120,10 +120,17 @@ Our environment is built for:
 This is not wealth management.
 
 It is legacy engineering.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Hardening the Future Legacy hardening is not a sprint.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Hardening the Future Legacy hardening is not a sprint.
 
 It is not reactive.
 

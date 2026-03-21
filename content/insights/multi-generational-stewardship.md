@@ -39,8 +39,6 @@ Principles remain.
 
 Core components of the long horizon strategy
 
-
-
 1.
 
 Focus on real assets and productive enterprises.
@@ -159,8 +157,6 @@ With structure, decisions become predictable.
 
 Effective governance includes
 
-
-
 1.
 
 Defined roles and responsibilities.
@@ -254,8 +250,15 @@ It is consistent.
 It is purpose driven.
 
 This is the style of Hylten Invest.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Multi generational stewardship is less about complex structures and more about consistent principles.
 

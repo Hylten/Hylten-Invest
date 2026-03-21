@@ -27,11 +27,7 @@ No spectacle.
 
 Only stewardship. "He that is faithful in that which is least is faithful also in much."
 
-
-
 - Luke 16:10
-
-
 
 First.
 
@@ -137,6 +133,12 @@ Only stewardship.
 
 Only covenantal clarity.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

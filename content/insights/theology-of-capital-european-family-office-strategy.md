@@ -37,11 +37,7 @@ That distinction defines the new era.
 
 And the families who understand this principle will shape policy, industry, and transcontinental commerce for the next century. "He that is faithful in that which is least is faithful also in much."
 
-
-
 - Luke 16:10
-
-
 
 The theology of capital begins in the small things.
 
@@ -61,19 +57,11 @@ This is design.
 
 PRIVATE PRINCIPAL BRIEFING Vault-Sealed , Not for public distribution European family offices are now navigating three converging frontiers:
 
-
-
 1. The return of moral authority as capital advantage
-
-
 
 2. The restructuring of European industrial strategy around stewardship, not speculation
 
-
-
 3. The revival of the Gnosjö ethos-small-town industriousness scaling into generational architecture
-
-
 
 These three forces are not trends.
 
@@ -145,23 +133,17 @@ Stewardship rests on five internal doctrines:
 
 1. The Doctrine of Responsibility
 
-
-
 Capital is accountable before God, before community, before descendants.
 
 Wealth is not self-originating; therefore, it is not self-justifying.
 
 2. The Doctrine of Work
 
-
-
 Unchanging across centuries: work dignifies; entitlement corrodes.
 
 The Gnosjö spirit proves this-value is created, not inherited.
 
 3. The Doctrine of Restraint
-
-
 
 Avoid leverage addiction.
 
@@ -175,15 +157,11 @@ Strengthen the base.
 
 4. The Doctrine of Covenant
 
-
-
 Family unity is governance.
 
 A house divided by entitlement collapses.
 
 5. The Doctrine of Industrial Purpose
-
-
 
 Capital must touch the real world-manufacturing, energy, logistics, land.
 
@@ -239,8 +217,6 @@ Those seeking spectacle will overlook them.
 
 Those seeking substance will find them. "Except the Lord build the house, they labour in vain that build it."
 
-
-
 - Psalm 127:
 1 THE NEW FAMILY OFFICE STRATEGY , FAITH AS OPERATING SYSTEM Faith is not a branding exercise.
 
@@ -249,8 +225,6 @@ Faith is a governance mechanism.
 Four structural advantages emerge when faith governs capital:
 
 1. Time Horizon Extension
-
-
 
 Fear compresses time.
 
@@ -350,8 +324,6 @@ Build it well.
 
 Build it for your children’s children. "The just man walketh in his integrity: his children are blessed after him."
 
-
-
 - Proverbs 20:
 7 European families rediscovering this verse are rediscovering their mandate.
 
@@ -360,8 +332,6 @@ OPERATIONAL ARCHITECTURE
 - THE PRINCIPAL BRIEFING The theology of capital shapes strategy in five decisive operational domains:
 
 1. Governance Architecture
-
-
 
 Replace “family constitutions” with covenantal agreements.
 
@@ -469,6 +439,12 @@ This is the architecture.
 
 This is the return.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

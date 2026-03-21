@@ -174,7 +174,9 @@ The stewardship filter applies five criteria:
 
 1.
 
-Moral Legitimacy An asset must align with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22regarding the duty of a good man to leave an inheritance to his children.
+Moral Legitimacy An asset must align with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22regarding the duty of a good man to leave an inheritance to his children.
 
 This principle obligates the allocator to avoid speculative behavior and prioritize durable assets.
 
@@ -244,5 +246,10 @@ Roials Capital provides confidential portfolio calibration for principals who re
 
 The objective is to give families the clarity required to position themselves within the new regime of global capital.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

@@ -66,10 +66,17 @@ Hyltén Invest provides the structural mechanics that allow this endurance to ta
 We build frameworks that minimize noise and maximize optionality.
 
 Through AI supported Asset-Based Lending and private credit Capital Structuring, we create liquidity solutions that align with conservative long term philosophies.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Stewardship Is a Quiet Architecture Future legacies will not be defined by noise or visibility.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Stewardship Is a Quiet Architecture Future legacies will not be defined by noise or visibility.
 
 They will be defined by quiet structural integrity.
 

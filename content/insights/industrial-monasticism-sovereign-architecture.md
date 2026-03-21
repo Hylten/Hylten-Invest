@@ -54,11 +54,7 @@ Modern manufacturing has the same.
 
 Strip until only purpose remains. "Let the beauty of the Lord our God be upon us: and establish thou the work of our hands upon us."
 
-
-
 - Psalm 90:17
-
-
 
 Hierarchy follows naturally.
 
@@ -92,6 +88,12 @@ Sovereign.
 
 Enduring.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

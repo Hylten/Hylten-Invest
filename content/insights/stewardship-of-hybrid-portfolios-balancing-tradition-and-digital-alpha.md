@@ -296,10 +296,17 @@ Liquidity becomes a strategic layer.
 Hybrid design becomes a standard rather than an exception.
 
 At the center of this shift sits the need for professional, silent, deliberate stewardship.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Stewardship With principal authority Hybrid portfolios represent the next chapter of long term wealth architecture.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Stewardship With principal authority Hybrid portfolios represent the next chapter of long term wealth architecture.
 
 They fuse traditional stability with modern liquidity.
 

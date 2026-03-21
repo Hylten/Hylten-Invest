@@ -486,8 +486,15 @@ This is the Christian conservative tradition of business.
 This is the Spirit of Gnosjö.
 
 This is the logic that built Sweden’s most resilient enterprises.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 .
 
@@ -520,7 +527,5 @@ This is THE MANDAT
 E under which Hyltén Invest and aligned partners operate.
 
 This is the standard expected of every owner, manager, and institutional participant.
-
-Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

@@ -167,7 +167,9 @@ These values were not created for narratives.
 
 They were created because they optimize long term survival.
 
-For families of faith, stewardship is anchored in principles such as "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which highlights generational responsibility.
+For families of faith, stewardship is anchored in principles such as "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22which highlights generational responsibility.
 
 Capital is not deployed merely for the benefit of a present actor but for the guardianship of future decision makers.
 
@@ -243,5 +245,10 @@ They pursue alignment, discipline, and resilience.
 
 This is the architecture of long term stewardship and the foundation of strategic liquidity for the modern wealth environment.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

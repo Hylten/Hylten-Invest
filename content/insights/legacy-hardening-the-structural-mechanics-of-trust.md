@@ -280,10 +280,17 @@ It is conservative.
 It is intentional.
 
 It is built to last.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The Future Belongs to the Well-Structured Legacy does not endure by chance.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The Future Belongs to the Well-Structured Legacy does not endure by chance.
 
 It endures by design.
 

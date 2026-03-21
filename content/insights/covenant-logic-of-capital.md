@@ -43,8 +43,6 @@ Then value forged into legacy.
 
 This is the sovereign architecture of wealth that endures. "The integrity of the upright shall guide them."
 
-
-
 - Proverbs 11:
 3 A sovereign family does not allocate from emotion.
 
@@ -134,6 +132,12 @@ The compass becomes the shield.
 
 And the shield becomes the inheritance.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

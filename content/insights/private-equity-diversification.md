@@ -349,8 +349,6 @@ Sustainability over speculation Diversification supports these principles by red
 
 Building a Multi Layered Private Equity Framewor k A Model for HNWI and Family Office Allocators A long term private equity framework often includes:
 
-
-
 1.
 
 Core buyout exposure 2.
@@ -412,8 +410,15 @@ Families benefit from a portfolio that is calm, balanced, and resilient.
 This is a structure that endures market cycles without oscillation.
 
 It maintains purpose and direction.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 A diversified private equity program strengthens long term capital foundations.
 

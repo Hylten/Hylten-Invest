@@ -282,8 +282,15 @@ A structural counterparty.
 Hylten Invest occupies this role deliberately.
 
 We lend quietly, conservatively, and with full respect for the dignity of long-term capital.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Long-term stewardship is not a service.
 

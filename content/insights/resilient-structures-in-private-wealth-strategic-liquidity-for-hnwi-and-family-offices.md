@@ -302,10 +302,17 @@ We design for many cycles.
 This long view is where private credit and asset based Capital Structuring become more than instruments.
 
 They become part of the family legacy architecture.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Liquidity as a Cornerstone of Resilience A resilient private wealth portfolio is not defined by market performance.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Liquidity as a Cornerstone of Resilience A resilient private wealth portfolio is not defined by market performance.
 
 It is defined by its ability to maintain stability and optionality across all conditions.
 

@@ -38,8 +38,15 @@ Those who treat liquidity as architecture, not transaction.
 Those who preserve their ability to act when others cannot.
 
 This is the essence of sovereign stewardship.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Sovereign families and private investors require more than capital.
 

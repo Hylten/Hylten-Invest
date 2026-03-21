@@ -69,7 +69,6 @@ Clarity requires a documented investment philosophy that is consistently revisit
 
 Core Elements of a Legacy Allocation Framework
 
-
 1.
 
 Capital Preservation Structures A family office must secure the bedrock of its liquidity and stability.
@@ -300,8 +299,15 @@ Structures that preserve independence.
 Structures that protect legacy.
 
 Structures that align capital with identity.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Legacy allocation is the disciplined art of organizing capital for decades and centuries.
 

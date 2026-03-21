@@ -37,8 +37,6 @@ Capital as duty before God.
 
 They built firms that held shape for generations because the soul of the firm was not for sale. "Except the Lord build the house, they labour in vain that build it."
 
-
-
 - Psalm 127:
 1 A principal does not gamble on foundations that shift.
 
@@ -94,6 +92,12 @@ We defend the old truths.
 
 We hold the line because the line holds everything else.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

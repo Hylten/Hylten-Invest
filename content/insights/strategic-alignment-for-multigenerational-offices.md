@@ -300,10 +300,17 @@ Our principal authority reflects a core principle.
 Power is not declared.
 
 Power is engineered.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Alignment as a Multi Decade Guide Strategic alignment is not a strategy.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Alignment as a Multi Decade Guide Strategic alignment is not a strategy.
 
 It is the environment in which all strategies operate.
 

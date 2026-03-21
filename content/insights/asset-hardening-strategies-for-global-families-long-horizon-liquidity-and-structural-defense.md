@@ -156,10 +156,17 @@ It is the transition from exposed capital to protected capital.
 From passive ownership to structural control.
 
 Hylten Invest stands as a partner for families that seek this transition with quiet authority and institutional discipline.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Stewardship Through Structure Asset hardening is a philosophy.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Stewardship Through Structure Asset hardening is a philosophy.
 
 It is also a discipline.
 

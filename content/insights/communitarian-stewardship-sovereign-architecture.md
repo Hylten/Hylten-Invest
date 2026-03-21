@@ -77,8 +77,6 @@ Behaviour.
 
 - Generational capital survives only when duty outruns ambition. "The integrity of the upright shall guide them."
 
-
-
 - Proverbs 11:
 3 This is where the Nordic tradition intersects the Christian industrial lineage.
 
@@ -128,6 +126,12 @@ And the inheritance for the children’s children becomes real, not theoretical.
 
 For deeper structuring insight, see institutional capital execution approaches demonstrated through [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)).
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

@@ -368,8 +368,15 @@ Precise.
 Conservative.
 
 This is the infrastructure that families use to steward capital, not just preserve it.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 A resilient family office balance sheet is not built in reaction to markets.
 

@@ -35,8 +35,6 @@ They built more than firms.
 
 They built foundations. "The earth is the Lord’s, and the fulness thereof."
 
-
-
 - Psalm 24:
 1 Sacred capital begins in recognition.
 
@@ -132,6 +130,12 @@ Magnify the calling.
 
 A Principal moves under conviction.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

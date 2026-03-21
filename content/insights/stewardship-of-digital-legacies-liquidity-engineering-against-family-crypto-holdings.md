@@ -116,3 +116,11 @@ Our capital structuring frameworks exist to support this philosophy. They enable
 As digital wealth becomes interwoven with global financial systems, the infrastructure supporting asset-backed capital structuring must evolve. HNWI and UHNW families will increasingly treat crypto assets as long-term reserves alongside traditional equity holdings. Private credit will serve as the connective tissue that binds these domains into a coherent framework.
 
 Hyltén Invest stands at this intersection with a commitment to conservative mechanics, institutional discipline, and long-term clarity. Digital legacies deserve the same dignity and structural integrity that traditional assets have received for generations. Our work is to ensure that they receive it.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

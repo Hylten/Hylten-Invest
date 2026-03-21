@@ -245,7 +245,9 @@ Stewardship ensures:
 
 1.
 
-Theology of Capital Stewardship begins with the recognition that capital is entrusted, not owned. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22anchors this reality.
+Theology of Capital Stewardship begins with the recognition that capital is entrusted, not owned. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22anchors this reality.
 
 A good man leaves an inheritance for his children's children.
 
@@ -279,5 +281,10 @@ The objective is alignment.
 
 The outcome is clarity. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

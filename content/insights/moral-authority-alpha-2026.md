@@ -69,8 +69,6 @@ When the tide receded, what remained were balance sheets with numbers but no fou
 
 The world rediscovered a truth older than the markets: "He that walketh uprightly walketh surely."
 
-
-
 - Proverbs 10:
 9 The upright walk surely not because the road is free of obstacles but because their internal architecture absorbs shocks.
 
@@ -350,6 +348,12 @@ And alpha rooted in moral authority is the most durable alpha available.
 
 One may explore institutional structuring models via this portal: [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)) For those who understand stewardship not as branding but as covenant, the conversation is open.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

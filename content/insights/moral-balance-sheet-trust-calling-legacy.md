@@ -51,8 +51,6 @@ It keeps the forge lit.
 
 It teaches the children’s children who they are and what they guard. "Moreover it is required in stewards, that a man be found faithful."
 
-
-
 - 1 Corinthians 4:
 2 Internal Logic.
 
@@ -154,6 +152,12 @@ Bankable.
 
 Enduring.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

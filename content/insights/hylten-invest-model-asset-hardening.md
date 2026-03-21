@@ -129,7 +129,9 @@ Stewardship governance requires:
 
 - Covenant with the community ecosystem that surrounds the asset.
 
-Scripture affirms this discipline. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22articulates the principle: A good person leaves an inheritance to their children's children.
+Scripture affirms this discipline. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22articulates the principle: A good person leaves an inheritance to their children's children.
 
 This is not sentiment.
 
@@ -245,5 +247,10 @@ The shift toward real assets, industrial tangibility, and stewardship governance
 
 Strategic clarity is the differentiator. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

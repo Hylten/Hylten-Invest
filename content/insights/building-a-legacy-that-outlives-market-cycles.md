@@ -258,8 +258,15 @@ Families who adopt the legacy mindset focus on:
 They establish an ecosystem where capital can grow quietly, without disruption from market noise or external pressure.
 
 This is the environment Hylten‑Invest is designed to support.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Building a legacy that outlives market cycles is not about timing.
 

@@ -298,8 +298,15 @@ It strengthens protections where necessary.
 It operates with minimalist precision.
 
 The objective is simple, keep assets intact, keep liquidity available, and keep families in absolute control of their capital.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Sovereign capital is the modern expression of long‑term wealth protection.
 

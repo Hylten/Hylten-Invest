@@ -137,7 +137,6 @@ For moral alignment.
 
 The Architecture of a Steward-Led Family Office A family office that seeks long term authority requires four layers of structural integrity.
 
-
 1.
 
 THE MANDAT E
@@ -437,6 +436,12 @@ It is the architecture expected of Christian families entrusted with significant
 
 It is the architecture that will withstand scrutiny while preserving legacy.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

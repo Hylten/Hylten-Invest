@@ -49,7 +49,9 @@ Families that optimized for stewardship built narrow but deep liquidity, capable
 
 The theology of capital that shaped these decisions is simple.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22notes that a good man leaves an inheritance to his children's children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22notes that a good man leaves an inheritance to his children's children.
 
 This is not sentiment.
 
@@ -253,5 +255,10 @@ Capital is a tool for service, not a monument.
 
 It must be shaped with integrity, governed with responsibility, and transferred with wisdom. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

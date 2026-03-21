@@ -78,8 +78,15 @@ They protect the assets that define legacy.
 They generate the liquidity that defines opportunity.
 
 This is the architecture Hylten Invest provides.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 , Stewardship Requires Structure Multi generational wealth does not survive without intention.
 

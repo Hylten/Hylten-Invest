@@ -469,8 +469,15 @@ A steward transfers.
 This is the highest expression of Christian responsibility.
 
 It is also the strongest foundation for private capital growth with integrity.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Moral authority is not sentiment.
 
@@ -505,7 +512,5 @@ They choose the theology of capital rightly ordered.
 They choose to build under the Spirit of Gnosjö.
 
 They choose stewardship as testimony.
-
-Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

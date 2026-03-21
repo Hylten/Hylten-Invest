@@ -37,7 +37,9 @@ Asset hardening.
 
 Risk compression.
 
-Inter‑generational transfer without entropy. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22teaches with clarity: A good man leaves an inheritance to his children's children.
+Inter‑generational transfer without entropy. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22teaches with clarity: A good man leaves an inheritance to his children's children.
 
 The verse is not metaphor.
 
@@ -459,6 +461,12 @@ Technical Mandate: Minimum asset-hardening ratio 1.7x within
 
 36 months.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

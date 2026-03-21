@@ -75,7 +75,9 @@ This is particularly evident in sectors such as North American energy, specialty
 
 These pressures recalibrate the meaning of ownership.
 
-Stewardship requires an understanding that value grows in the presence of disciplined constraints. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states that a good person leaves an inheritance for their children's children.
+Stewardship requires an understanding that value grows in the presence of disciplined constraints. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22states that a good person leaves an inheritance for their children's children.
 
 This is governance, not sentiment.
 
@@ -299,5 +301,10 @@ Those who manage capital with integrity carry a heritage that outlasts valuation
 
 This is the architecture of generational strength. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

@@ -119,7 +119,9 @@ Families avoid dependence on external refinancing.
 
 They build internal liquidity pools that allow opportunistic acquisition during downturns.
 
-This practice mirrors the biblical stewardship principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which frames wealth as a multi generational trust.
+This practice mirrors the biblical stewardship principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22which frames wealth as a multi generational trust.
 
 4.
 
@@ -305,5 +307,10 @@ The next
 
 s an applied calibration of the allocator's existing portfolio to determine where stewardship aligned structures can enhance durability and continuity across generations. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

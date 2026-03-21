@@ -114,10 +114,17 @@ It removes noise.
 It replaces short term execution pressure with measured, deliberate action.
 
 This is the future of UHNW stewardship.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The Quiet Axis of Capital 2026 is the year liquidity becomes architecture.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The Quiet Axis of Capital 2026 is the year liquidity becomes architecture.
 
 It is the year stewardship becomes minimalistic and intentional.
 

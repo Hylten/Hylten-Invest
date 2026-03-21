@@ -35,8 +35,6 @@ This is not nostalgia.
 
 This is institutional recalibration. "He that walketh uprightly walketh surely."
 
-
-
 - Proverbs 10:
 9 Principal logic follows.
 
@@ -73,8 +71,6 @@ Responsibility.
 Create more than you consume.
 
 Leave more than you inherit. "By humility and the fear of the Lord are riches, and honour, and life."
-
-
 
 - Proverbs 22:
 4 Institutional desks want that ethic again.
@@ -121,6 +117,12 @@ Stewardship returns to the center.
 
 Conviction follows.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

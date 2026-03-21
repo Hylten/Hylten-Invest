@@ -449,8 +449,15 @@ Minimalism will be a competitive advantage.
 Clarity will be a performance driver.
 
 Stewardship will require both precision and restraint.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Control rights are the foundational elements of long term capital protection.
 

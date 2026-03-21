@@ -45,3 +45,10 @@ It is an emerging pillar of long-term stewardship.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

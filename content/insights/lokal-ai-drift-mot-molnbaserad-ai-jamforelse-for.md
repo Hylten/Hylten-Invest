@@ -1,3 +1,5 @@
+
+
 # Lokal AI drift mot molnbaserad AI
 ## En strategisk jämförelse för svenska VD ar
 ## Med särskilt fokus på OpenClaw
@@ -246,3 +248,11 @@ Lokal AI drift är inte en trend.
 Det är ett strukturellt beslut som bygger robusthet och integritet.
 
 Contact for stewardship discussion
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

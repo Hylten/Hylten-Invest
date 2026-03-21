@@ -73,8 +73,6 @@ Multigenerational capital demands a multigenerational ethic.
 
 That is why the analysis now points back to faith-rooted governance models. "The integrity of the upright shall guide them."
 
-
-
 - Proverbs 11:
 3 The architecture becomes simple.
 
@@ -112,6 +110,12 @@ But it moves toward strength.
 
 And strength still resides in governance built on moral authority, free enterprise, and the understanding that capital is a trust-not a trophy.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

@@ -310,8 +310,15 @@ Every mandate is customised to the specific needs of the principal.
 Every decision is filtered through The Fiduciary Razor.
 
 The result is a disciplined and resilient architecture for generational capital.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 A principal stewardship mandate built around The Fiduciary Razor provides clarity, stability, and long term alignment.
 

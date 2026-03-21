@@ -81,7 +81,9 @@ In capital terms this is expressed through:
 
 - Operational Forecasting
 
-- Decline Curve Management in resource industries The biblical principle of responsible management appears in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22and provides a framework for generational capital.
+- Decline Curve Management in resource industries The biblical principle of responsible management appears in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22and provides a framework for generational capital.
 
 Capital that is not anchored to purpose dissipates.
 
@@ -277,5 +279,10 @@ The objective is not to recommend a product.
 
 The objective is to calibrate the allocator's decision architecture to the realities of the new industrial regime. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

@@ -33,11 +33,7 @@ I write this as a Principal, not a commentator.
 
 What follows is an internal briefing-vault language, not public narrative. “Thy faithfulness is unto all generations.”
 
-
-
 - Psalms 119:90
-
-
 
 Phase shifts begin here.
 
@@ -395,6 +391,12 @@ The architecture is complete.
 
 Minimum mandate depth: $5M+ target size.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

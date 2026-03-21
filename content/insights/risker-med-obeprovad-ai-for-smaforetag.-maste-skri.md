@@ -1,3 +1,5 @@
+
+
 # Risker med obeprövad AI för småföretag
 Minimalistisk analys för långsiktig förvaltning och trygg OpenClaw‑drift
 
@@ -224,3 +226,11 @@ Det är en modell som respekterar ägarens perspektiv och minimerar osäkerhet.
 För företag som vill använda AI utan att kompromissa med integritet eller långsiktighet är detta den enda rimliga strategin.
 
 Contact for stewardship discussion
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

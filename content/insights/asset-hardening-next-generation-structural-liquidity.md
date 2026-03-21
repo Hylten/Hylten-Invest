@@ -189,7 +189,9 @@ The Spirit of Gnosjö shaped generations of Nordic industrial families through a
 
 Capital was not accumulated for personal expansion but reinvested into productive systems that strengthened the region.
 
-This principle aligns with the biblical mandate found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which emphasizes the responsibility to build structures that endure beyond the individual.
+This principle aligns with the biblical mandate found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22which emphasizes the responsibility to build structures that endure beyond the individual.
 
 The family balance sheet should not be a collection of unrelated assets.
 
@@ -255,5 +257,10 @@ The alignment is achievable.
 
 The responsibility rests with those who steward the present with clarity and conviction.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

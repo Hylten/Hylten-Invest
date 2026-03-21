@@ -163,7 +163,9 @@ They stabilize the long horizon architecture.
 
 Theological Discipline Theology of capital is not metaphorical.
 
-It is a practical operating system rooted in historic Christian industrialism and Nordic stewardship culture. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22remains the timeless directive.
+It is a practical operating system rooted in historic Christian industrialism and Nordic stewardship culture. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22remains the timeless directive.
 
 A good man leaves an inheritance to his children's children.
 
@@ -325,5 +327,10 @@ The objective is not acquisition.
 
 The objective is sovereign clarity.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

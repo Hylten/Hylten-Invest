@@ -120,10 +120,17 @@ We operate as a silent infrastructural partner.
 This future belongs to principals who understand one truth: sovereignty is not size.
 
 It is structure.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Stewardship as a Sovereign Responsibility The Hylten Framework for 2026 is designed for families who manage wealth not as a portfolio but as a legacy.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Stewardship as a Sovereign Responsibility The Hylten Framework for 2026 is designed for families who manage wealth not as a portfolio but as a legacy.
 
 Stewardship is a long-term responsibility.
 

@@ -36,8 +36,15 @@ Our stance is conservative.
 Our presence is discreet.
 
 Our mandate is generational.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Hylten Invest provides a liquidity architecture that respects the privacy, complexity, and long-term priorities of UHNW families.
 

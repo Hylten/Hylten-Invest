@@ -214,10 +214,17 @@ To the family.
 To the steward.
 
 To the next generation.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The Hylten Invest Philosophy Hylten Invest exists to serve the long horizon.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The Hylten Invest Philosophy Hylten Invest exists to serve the long horizon.
 
 Our Asset-Backed Frameworks systems are built for families and individuals who measure time differently.
 

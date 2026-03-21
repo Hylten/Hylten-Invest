@@ -7,8 +7,6 @@ slug: "sovereign-asset-stewardship-enduring-liquidity-architecture"
 
 [START INTELLIGENCE REPORT]
 
-
-
 # THE MANDAT E
 
 The stewardship of sovereign assets and the architecture of enduring liquidity represent a structural responsibility rather than an investment strategy.
@@ -49,7 +47,9 @@ Stewardship demands operational literacy across both.
 
 It is insufficient to maintain capital.
 
-One must maintain the infrastructure that maintains capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
+One must maintain the infrastructure that maintains capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22.
 
 Sovereign assets must therefore be structured not as static holdings but as dynamic organisms.
 
@@ -312,8 +312,15 @@ Sovereign scale capital must be guided by technical edge.
 Asset-Backed Frameworks, capital efficiency modeling, yield curve mobility analysis, asset hardening protocols, and governance architectures are not optional.
 
 They are structural tools for maintaining sovereignty over capital.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The stewardship of sovereign assets requires a multi decade mindset combined with technically precise liquidity architecture.
 
@@ -334,6 +341,3 @@ It must design its own liquidity systems, fortify its own assets, enforce its ow
 This is the stewardship mandate.
 
 This is the architecture of enduring liquidity. [END INTELLIGENCE REPORT]
-
-Access is restricted to approved mandates.
-

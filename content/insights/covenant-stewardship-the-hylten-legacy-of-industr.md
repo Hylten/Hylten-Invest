@@ -23,7 +23,9 @@ It is inherited.
 
 It is forged through a century of Christian industrial order where ownership meant responsibility and responsibility meant obedience to a higher mandate.
 
-In "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22we read: A good man leaves an inheritance to his children's children.
+In "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22we read: A good man leaves an inheritance to his children's children.
 
 This is not an aspiration.
 
@@ -138,8 +140,6 @@ Asset Hardening as Covenant The phrase asset hardening is often interpreted as t
 For Hyltén Invest it is spiritual.
 
 The steward is commanded to fortify what God has placed under his authority. Matthew 25:21
-
-
 
 : You have been faithful over a little.
 
@@ -499,6 +499,12 @@ E .
 
 This is the architecture that will stand when markets dislocate and narratives collapse.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

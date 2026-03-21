@@ -21,13 +21,7 @@ The Gnosjö spirit was never improvisation; it was ordered creation.
 
 Discipline made visible in steel. "The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 
-
-
 - Psalm 33:11
-
-
-
-
 
 # Phase C hanges in capital begin with one premise: the asset must outlive the ego of the builder.
 
@@ -155,6 +149,12 @@ Free enterprise endures.
 
 The covenant stands.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

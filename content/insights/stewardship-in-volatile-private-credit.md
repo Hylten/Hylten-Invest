@@ -201,7 +201,9 @@ In Swedish industrial history, the Spirit of Gnosjö created a culture where cap
 
 This produced a generation of companies that thrived through resource scarcity, global competition, and industrial restructuring.
 
-The Biblical framing of stewardship is functional rather than symbolic. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states that a good man leaves an inheritance to his children's children.
+The Biblical framing of stewardship is functional rather than symbolic. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22states that a good man leaves an inheritance to his children's children.
 
 This is not about wealth accumulation.
 
@@ -275,5 +277,10 @@ Allocators seeking to calibrate portfolios within a volatile private credit envi
 
 This provides system level visibility, identifies structural vulnerabilities, and outlines pathways to enhance stewardship, resilience, and long term operational alignment. [END OF BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

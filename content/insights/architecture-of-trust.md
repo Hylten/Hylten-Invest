@@ -25,7 +25,9 @@ Order is not an option.
 
 I write this from the vantage point of stewardship rather than opportunism.
 
-My framework is shaped by the industrial pietism of Småland, the Spirit of Gnosjö, and the Biblical injunction that wealth is not self-originating. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
+My framework is shaped by the industrial pietism of Småland, the Spirit of Gnosjö, and the Biblical injunction that wealth is not self-originating. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22.
 
 Capital is inherited responsibility before it becomes deployed authority.
 
@@ -234,8 +236,6 @@ Without moral authority, all financial systems degrade into extraction.
 
 The Bible speaks repeatedly of stewardship. Luke 16:10
 
-
-
 .
 
 Faithfulness with little produces capacity for more.
@@ -301,6 +301,12 @@ EXIT The architecture of trust is validated not in origination but in exit.
 
 A well-architected trust structure produces: Recovery variance under 3 percent.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

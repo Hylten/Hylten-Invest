@@ -76,7 +76,9 @@ Christian owners understand its morality.
 
 The Hyltén Invest doctrine fuses both.
 
-Generational Wealth as Obligation "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22“A good man leaves an inheritance to his children’s children.” Generational wealth is not accumulation.
+Generational Wealth as Obligation "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22“A good man leaves an inheritance to his children’s children.” Generational wealth is not accumulation.
 
 It is continuity.
 
@@ -139,8 +141,6 @@ It is about clarity.
 Clarity that your capital is ready to operate without friction.
 
 Stewardship as Operational Philosophy Luke 12:48
-
-
 
 “To whom much is given.
 
@@ -374,8 +374,6 @@ But its survival record is unmatched.
 
 Wealth as Witness Matthew 5:16
 
-
-
 “Let your light shine before men.
 
 That they may see your good works.” Wealth is witness.
@@ -474,6 +472,12 @@ For those responsible for dynastic futures.
 
 For those aligned with the Christian conservative tradition of industrious stewardship.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

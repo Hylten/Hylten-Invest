@@ -334,10 +334,17 @@ Quietly.
 Patiently.
 
 With integrity.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The Silent Partner for Those Who Think in Generations Hylten Invest is not designed for the broad market.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The Silent Partner for Those Who Think in Generations Hylten Invest is not designed for the broad market.
 
 It is designed for families and individuals whose capital strategy extends far beyond the immediate horizon.
 

@@ -49,11 +49,7 @@ The moral cost center dissolves.
 
 What remains is enterprise. "Be ye steadfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain."
 
-
-
 - 1 Corinthians 15:58
-
-
 
 The Protestant Ethic matters here.
 
@@ -107,6 +103,12 @@ Stewardship is the discipline.
 
 Legacy is the yield.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

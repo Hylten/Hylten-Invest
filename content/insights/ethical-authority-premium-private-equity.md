@@ -37,8 +37,6 @@ Legacy requires order.
 
 Enterprise requires truth. "He that walketh uprightly walketh surely."
 
-
-
 - Proverbs 10:
 9 Principal logic:
 
@@ -122,6 +120,12 @@ A return to truth.
 
 A return to the architecture that built every enduring house.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

@@ -23,11 +23,7 @@ Stewardship is a covenant.
 
 Governance is the vessel that protects both. "The counsel of the Lord standeth for ever, the thoughts of his heart to all generations."
 
-
-
 - Psalm 33:11
-
-
 
 Industrial families that forget this truth drift.
 
@@ -103,8 +99,6 @@ Their freedom is constrained by the inherited covenant.
 
 This is not limitation; it is protection. "Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen."
 
-
-
 - Deuteronomy 4:
 9 A family that forgets loses the enterprise.
 
@@ -162,11 +156,7 @@ Strengthen the fortress.
 
 The next generation does not inherit ease; they inherit duty. "In all labour there is profit."
 
-
-
 - Proverbs 14:23
-
-
 
 Profit is not the idol.
 
@@ -180,19 +170,13 @@ THE THREE VAULTS Every multi-generational enterprise must build three vaults of 
 
 1. The Capital Vault
 
-
-
 The structure protecting liquidity, reinvestment discipline, and capital allocation.
 
 2. The Governance Vault
 
-
-
 The structure protecting decision integrity, long-horizon thinking, and moral boundaries.
 
 3. The Values Vault
-
-
 
 The structure protecting the ethos of the enterprise: duty, stewardship, industriousness, service, and the Christian moral center.
 
@@ -227,8 +211,6 @@ They seek permanence over visibility.
 They prioritize integrity over convenience.
 
 They sacrifice ego for generational stability. "Moreover it is required in stewards, that a man be found faithful."
-
-
 
 - 1 Corinthians 4:
 2 Faithfulness is the benchmark.
@@ -300,3 +282,11 @@ It is passed forward with reverence.
 - Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

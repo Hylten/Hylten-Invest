@@ -264,10 +264,17 @@ It can generate returns without sacrificing privacy or control.
 Hardening is therefore the precursor to growth.
 
 It creates the foundation upon which generational capital can operate freely.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: A Time for Quiet Strength Legacy Hardening is the path forward for families who value stability, sovereignty, and long term continuity.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+A Time for Quiet Strength Legacy Hardening is the path forward for families who value stability, sovereignty, and long term continuity.
 
 Strategic Capital Migration ensures that wealth is not dependent on a single jurisdiction, institution, or market cycle.
 

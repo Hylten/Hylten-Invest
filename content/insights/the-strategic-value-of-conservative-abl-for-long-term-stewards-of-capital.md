@@ -136,10 +136,17 @@ It is quieter.
 It is more precise.
 
 It is more aligned with the true nature of long-term wealth.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Asset-Based Lending as Stewardship Infrastructure Conservative asset-based Asset-Backed Frameworks is no longer a secondary financing method.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Asset-Based Lending as Stewardship Infrastructure Conservative asset-based Asset-Backed Frameworks is no longer a secondary financing method.
 
 It has become a primary tool for families who treat capital with patience and responsibility.
 

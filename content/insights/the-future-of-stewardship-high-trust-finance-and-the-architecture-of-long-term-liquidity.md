@@ -90,8 +90,15 @@ It allows capital to thrive without being compromised by short term markets.
 It transforms the concept of liquidity from reactive to proactive.
 
 This is the essence of stewardship.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The future of stewardship is not complex.
 

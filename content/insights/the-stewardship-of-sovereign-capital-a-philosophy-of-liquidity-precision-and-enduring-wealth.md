@@ -278,8 +278,15 @@ We believe that the future of wealth preservation will rely heavily on:
 - Long‑term planning insulated from market momentum.
 
 Hylten‑Invest is positioned to support this future with the same minimalistic, conservative, and enduring philosophy that defines our brand.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The stewardship of sovereign capital is not a service.
 

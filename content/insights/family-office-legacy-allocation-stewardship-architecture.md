@@ -17,7 +17,9 @@ Family offices with generational identity are repositioning toward stewardship-b
 
 These principles align closely with the Nordic industrial ethic that shaped the Spirit of Gnosjö: responsibility first, efficiency second, profit as the byproduct rather than the mission.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22.
 
 A good man leaves an inheritance to his children's children.
 
@@ -231,8 +233,6 @@ The Moral Mandate
 
 - Responsible dominion over resources is a biblical expectation, not an optional value. Genesis 2:15
 
-
-
 .
 
 - The allocator is a caretaker, not an extractor.
@@ -284,5 +284,10 @@ Stewardship is a calling.
 
 Legacy is the convergence of both. [END BRIEFING]
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

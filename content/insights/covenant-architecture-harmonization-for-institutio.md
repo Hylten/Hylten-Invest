@@ -415,7 +415,15 @@ It aligns with the ethos of capital that is designed to endure.
 -
 
 -
-**Conclusion**
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Hylten Invest supports institutions that prioritize long term stewardship over short term advantage.
 

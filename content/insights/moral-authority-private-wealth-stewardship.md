@@ -21,7 +21,9 @@ Wealth with mandate compounds.
 
 A good man leaves an inheritance to his children’s children (
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22).
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22).
 
 THE MANDAT E
 
@@ -316,8 +318,6 @@ Family capital must resist the gravitational pull of impulsive liquidity.
 It must settle into intentional liquidity.
 
 Purpose first.
-
-Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
@@ -686,3 +686,11 @@ For further alignment, Access is restricted to approved mandates.
 Minimum mandate depth: $5M+ target size.
 
 Technical Mandate: 4.6% Stewardship Delta Index.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

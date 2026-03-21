@@ -1,3 +1,5 @@
+
+
 # Så väljer du rätt AI‑agent för ditt bolag
 OpenClaw Sverige, en strategisk överblick för långsiktiga förvaltare
 
@@ -214,3 +216,11 @@ OpenClaw Sverige representerar en modell där kontroll och stabilitet är grunde
 För bolag som värnar integritet, förutsägbarhet och långsiktig förvaltning är det en naturlig riktning.
 
 Contact for stewardship discussion
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

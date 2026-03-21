@@ -82,7 +82,9 @@ Businesses are structured around multi generational continuity.
 
 Leadership operates with an obligation to preserve and expand assets for future stewards.
 
-This aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22that a good individual leaves an inheritance for the following generations.
+This aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22that a good individual leaves an inheritance for the following generations.
 
 The inheritance is not merely financial.
 
@@ -284,5 +286,10 @@ Roials Capital provides the strategic interpretation and institutional INTRODUCT
 
 Allocators seeking to calibrate exposure to sectors shaped by supply constraints, regulatory inconsistency, and long duration extraction cycles may request a confidential Strategy Consultation focused on alignment, operational integrity, and placement within the new global capital architecture.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

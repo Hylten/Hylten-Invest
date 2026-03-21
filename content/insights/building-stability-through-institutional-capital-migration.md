@@ -286,8 +286,15 @@ HNWI and UHNW investors who adopt institutional-style liquidity frameworks today
 Those who rely on reactive liquidity will face structural constraints.
 
 Hyltén Invest is positioned to navigate this landscape with precision and quiet authority.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Institutional capital migration is a slow process.
 

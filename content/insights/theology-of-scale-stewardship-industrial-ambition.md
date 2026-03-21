@@ -49,11 +49,7 @@ Markets reward value creation.
 
 Shrinking horizons dishonor the gift. "The hand of the diligent shall bear rule."
 
-
-
 - Proverbs 12:24
-
-
 
 Industrial scale becomes moral when anchored in responsibility.
 
@@ -113,6 +109,12 @@ For higher-level structuring pathways, institutional partners often observe how 
 
 Stewardship scales cleanly when its foundation is righteous.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.
