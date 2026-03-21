@@ -10,34 +10,15 @@ function parseFrontmatter(raw: string) {
     const content = parts.slice(2).join('---').trim();
     const data: Record<string, string> = {};
 
-    // Standard YAML-style key parsing (handles multiline)
-    const lines = frontmatter.split(/\n/);
-    lines.forEach(line => {
-        const colonIdx = line.indexOf(':');
-        if (colonIdx !== -1) {
-            const key = line.slice(0, colonIdx).trim();
-            let value = line.slice(colonIdx + 1).trim();
-            if (key && !data[key]) {
-                if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
-                    value = value.slice(1, -1);
-                }
-                data[key] = value;
-            }
+    // Robust regex to extract metadata keys and values
+    const regex = /([\w-]+):\s*(?:"([^"]*)"|'([^']*)'|([^ \n\r,]+))/g;
+    let match;
+    while ((match = regex.exec(frontmatter)) !== null) {
+        const key = match[1];
+        const value = match[2] || match[3] || match[4];
+        if (key && !data[key]) {
+            data[key] = value;
         }
-    });
-
-    // Fallback for single-line / mashed keys
-    const pairs = frontmatter.match(/([\w-]+):\s*(?:"([^"]*)"|'([^']*)'|([^ \n,]+))/g);
-    if (pairs) {
-        pairs.forEach(pair => {
-            const cIdx = pair.indexOf(':');
-            const k = pair.slice(0, cIdx).trim();
-            let v = pair.slice(cIdx + 1).trim();
-            if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
-                v = v.slice(1, -1);
-            }
-            if (k && !data[k]) data[k] = v;
-        });
     }
     
     return { data, content };
