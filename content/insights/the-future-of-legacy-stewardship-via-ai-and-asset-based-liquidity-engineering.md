@@ -67,7 +67,7 @@ We build frameworks that minimize noise and maximize optionality.
 
 Through AI supported Asset-Based Lending and private credit Capital Structuring, we create liquidity solutions that align with conservative long term philosophies.
 
-CONCLUSIO N
+CONCLUSION
 
 : Stewardship Is a Quiet Architecture Future legacies will not be defined by noise or visibility.
 

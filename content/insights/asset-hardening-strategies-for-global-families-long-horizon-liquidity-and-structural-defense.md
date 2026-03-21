@@ -157,7 +157,7 @@ From passive ownership to structural control.
 
 Hylten Invest stands as a partner for families that seek this transition with quiet authority and institutional discipline.
 
-CONCLUSIO N
+CONCLUSION
 
 : Stewardship Through Structure Asset hardening is a philosophy.
 

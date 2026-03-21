@@ -121,7 +121,7 @@ This future belongs to principals who understand one truth: sovereignty is not s
 
 It is structure.
 
-CONCLUSIO N
+CONCLUSION
 
 : Stewardship as a Sovereign Responsibility The Hylten Framework for 2026 is designed for families who manage wealth not as a portfolio but as a legacy.
 

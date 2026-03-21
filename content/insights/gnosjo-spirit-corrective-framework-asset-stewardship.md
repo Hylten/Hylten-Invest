@@ -190,7 +190,7 @@ This positioning allows Roials Capital, in its role as strategic navigator and i
 
 THE PARTNERSHIP MODEL.
 
-ROIALS CAPITAL AND STRATEGIC ALIGNMENT WITH GNOSJÖ PRINCIPLES The
+Roials Capital AND STRATEGIC ALIGNMENT WITH GNOSJÖ PRINCIPLES The
 
 INTRODUCTION role carried by Roials Capital is not transactional.
 

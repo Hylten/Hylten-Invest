@@ -137,7 +137,7 @@ This is not sentiment.
 
 It is a framework for responsible capital action.
 
-THE PARTNERSHIP MODEL AND ROIALS CAPITAL ALIGNMENT Roials Capital operates as the strategic navigator and institutional alignment partner within the global allocator ecosystem.
+THE PARTNERSHIP MODEL AND Roials Capital ALIGNMENT Roials Capital operates as the strategic navigator and institutional alignment partner within the global allocator ecosystem.
 
 The firm does not replace operational leadership.
 

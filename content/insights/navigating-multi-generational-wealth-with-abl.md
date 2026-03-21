@@ -79,7 +79,7 @@ They generate the liquidity that defines opportunity.
 
 This is the architecture Hylten Invest provides.
 
-CONCLUSIO N
+CONCLUSION
 
 , Stewardship Requires Structure Multi generational wealth does not survive without intention.
 

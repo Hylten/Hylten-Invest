@@ -117,7 +117,7 @@ Mobility without compliance is unsustainable.
 
 Sovereign crypto Capital Structuring reconciles the two.
 
-THE PARTNERSHIP MODEL AND THE ROLE OF ROIALS CAPITAL Global families rarely require help identifying opportunities.
+THE PARTNERSHIP MODEL AND THE ROLE OF Roials Capital Global families rarely require help identifying opportunities.
 
 They require help interpreting structural dynamics and aligning them with their institutional archetype.
 

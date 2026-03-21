@@ -334,7 +334,7 @@ This combination is rare.
 
 Yet it is precisely what separates families who endure volatility from those who are consumed by it.
 
-CONCLUSIO N
+CONCLUSION
 
 Volatile markets expose the fragility of traditional liquidity planning.
 

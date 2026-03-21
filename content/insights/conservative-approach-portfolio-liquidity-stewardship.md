@@ -207,7 +207,7 @@ Strategic Collateralization aligns each layer with its intended operational purp
 
 ### Phase III:
 
-THE PARTNERSHIP MODEL STRATEGIC ALIGNMENT THROUGH ROIALS CAPITAL AND TECHNICAL PARTNERS Roials Capital operates as a strategic navigator for allocators requiring institutional clarity across energy, private credit, balance sheet optimization, and cross border capital structuring.
+THE PARTNERSHIP MODEL STRATEGIC ALIGNMENT THROUGH Roials Capital AND TECHNICAL PARTNERS Roials Capital operates as a strategic navigator for allocators requiring institutional clarity across energy, private credit, balance sheet optimization, and cross border capital structuring.
 
 The function is not asset management.
 

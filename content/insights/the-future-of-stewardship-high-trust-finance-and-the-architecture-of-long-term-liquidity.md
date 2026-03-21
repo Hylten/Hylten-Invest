@@ -91,7 +91,7 @@ It transforms the concept of liquidity from reactive to proactive.
 
 This is the essence of stewardship.
 
-CONCLUSIO N
+CONCLUSION
 
 The future of stewardship is not complex.
 

@@ -129,7 +129,7 @@ The risk is not theoretical.
 
 It is quantifiable.
 
-ROIALS CAPITAL AND THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator linking balance sheet constrained operators, private credit structures, and digital collateral providers.
+Roials Capital AND THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator linking balance sheet constrained operators, private credit structures, and digital collateral providers.
 
 The positioning is neutral.
 

@@ -215,7 +215,7 @@ To the steward.
 
 To the next generation.
 
-CONCLUSIO N
+CONCLUSION
 
 : The Hylten Invest Philosophy Hylten Invest exists to serve the long horizon.
 

@@ -301,7 +301,7 @@ Power is not declared.
 
 Power is engineered.
 
-CONCLUSIO N
+CONCLUSION
 
 : Alignment as a Multi Decade Guide Strategic alignment is not a strategy.
 

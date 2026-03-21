@@ -137,7 +137,7 @@ The objective is not to compete with traditional lenders.
 
 The objective is to complement them, and to offer liquidity pathways that match the complexity and discretion required by family office environments.
 
-CONCLUSIO N
+CONCLUSION
 
 : Protecting the Legacy Through Intelligent Liquidity Family offices were built to last.
 

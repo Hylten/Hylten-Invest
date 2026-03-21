@@ -279,7 +279,7 @@ We believe that the future of wealth preservation will rely heavily on:
 
 Hylten‑Invest is positioned to support this future with the same minimalistic, conservative, and enduring philosophy that defines our brand.
 
-CONCLUSIO N
+CONCLUSION
 
 The stewardship of sovereign capital is not a service.
 

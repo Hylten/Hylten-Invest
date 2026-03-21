@@ -131,7 +131,7 @@ Capital can be redeployed into new structures without being trapped in multiyear
 
 This agility is increasingly valuable as geopolitical and monetary environments shift unpredictably.
 
-THE PARTNERSHIP MODEL WITH ROIALS CAPITAL Roials Capital operates as a strategic navigator.
+THE PARTNERSHIP MODEL WITH Roials Capital Roials Capital operates as a strategic navigator.
 
 The objective is not to manufacture exposure.
 

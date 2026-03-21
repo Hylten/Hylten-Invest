@@ -115,7 +115,7 @@ It replaces short term execution pressure with measured, deliberate action.
 
 This is the future of UHNW stewardship.
 
-CONCLUSIO N
+CONCLUSION
 
 : The Quiet Axis of Capital 2026 is the year liquidity becomes architecture.
 

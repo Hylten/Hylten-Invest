@@ -252,7 +252,7 @@ It invests to build, not to extract.
 
 5.
 
-CONCLUSIO N
+CONCLUSION
 
 : STRUCTURAL CLOSURE Structural alignment with generational stewardship is the next frontier of institutional private equity.
 

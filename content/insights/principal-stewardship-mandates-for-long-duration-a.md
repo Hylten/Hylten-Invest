@@ -311,7 +311,7 @@ Every decision is filtered through The Fiduciary Razor.
 
 The result is a disciplined and resilient architecture for generational capital.
 
-CONCLUSIO N
+CONCLUSION
 
 A principal stewardship mandate built around The Fiduciary Razor provides clarity, stability, and long term alignment.
 

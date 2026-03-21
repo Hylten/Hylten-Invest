@@ -283,7 +283,7 @@ Hylten Invest occupies this role deliberately.
 
 We lend quietly, conservatively, and with full respect for the dignity of long-term capital.
 
-CONCLUSIO N
+CONCLUSION
 
 Long-term stewardship is not a service.
 

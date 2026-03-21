@@ -330,7 +330,7 @@ Liquidity becomes the method.
 
 Time becomes the advantage.
 
-CONCLUSIO N
+CONCLUSION
 
 Multi generational families do not need speed.
 

@@ -121,7 +121,7 @@ This is not wealth management.
 
 It is legacy engineering.
 
-CONCLUSIO N
+CONCLUSION
 
 : Hardening the Future Legacy hardening is not a sprint.
 

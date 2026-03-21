@@ -303,7 +303,7 @@ This long view is where private credit and asset based Capital Structuring becom
 
 They become part of the family legacy architecture.
 
-CONCLUSIO N
+CONCLUSION
 
 : Liquidity as a Cornerstone of Resilience A resilient private wealth portfolio is not defined by market performance.
 

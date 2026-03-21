@@ -37,7 +37,7 @@ Our presence is discreet.
 
 Our mandate is generational.
 
-CONCLUSIO N
+CONCLUSION
 
 Hylten Invest provides a liquidity architecture that respects the privacy, complexity, and long-term priorities of UHNW families.
 

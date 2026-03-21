@@ -259,7 +259,7 @@ They establish an ecosystem where capital can grow quietly, without disruption f
 
 This is the environment Hylten‑Invest is designed to support.
 
-CONCLUSIO N
+CONCLUSION
 
 Building a legacy that outlives market cycles is not about timing.
 

@@ -419,7 +419,7 @@ This is a structure that endures market cycles without oscillation.
 
 It maintains purpose and direction.
 
-CONCLUSIO N
+CONCLUSION
 
 A diversified private equity program strengthens long term capital foundations.
 

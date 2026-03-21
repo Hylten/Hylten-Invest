@@ -149,7 +149,7 @@ It parallels the wisdom of "A good man leaves an inheritance to his children's c
 
 - Proverbs 13:22which describes the enduring legacy of those who steward resources responsibly.
 
-THE PARTNERSHIP MODEL OF ROIALS CAPITAL AND NAEO Roials Capital operates as a strategic navigator for allocators who seek to integrate stewardship into their capital deployment frameworks.
+THE PARTNERSHIP MODEL OF Roials Capital AND NAEO Roials Capital operates as a strategic navigator for allocators who seek to integrate stewardship into their capital deployment frameworks.
 
 The firm is not a capital taker.
 
