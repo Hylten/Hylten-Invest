@@ -1,9 +1,6 @@
 ---
-title: "Stewardship of High‑Value Multi‑Asset Portfolios"
-description: "A minimalist and conservative framework for liquidity optimization through private credit and asset‑based liquidity engineering for HNWI and UHNW portfolios."
-date: "2025-12-18" author: "Hyltén Invest"
-slug: "stewardship-of-highvalue-multiasset-portfolios"
 ---
+title: "Stewardship of High‑Value Multi‑Asset Portfolios" description: "A minimalist and conservative framework for liquidity optimization through private credit and asset‑based liquidity engineering for HNWI and UHNW portfolios." date: "2025-12-18" author: "Hyltén Invest" slug: "stewardship-of-highvalue-multiasset-portfolios"
 
 # Stewardship of High Value Multi Asset Portfolios High value portfolios require more than management
 

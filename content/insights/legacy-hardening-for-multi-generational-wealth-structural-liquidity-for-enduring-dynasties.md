@@ -1,9 +1,6 @@
 ---
-title: "Legacy Hardening for Multi-Generational Wealth: Structural Liquidity for Enduring Dynasties"
-description: "A high-end analysis of liquidity architecture, private credit, and asset based liquidity engineering for long-term wealth preservation and strategic family continuity."
-date: "2026-02-14" author: "Hyltén Invest"
-slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-enduring-dynasties"
 ---
+title: "Legacy Hardening for Multi-Generational Wealth: Structural Liquidity for Enduring Dynasties" description: "A high-end analysis of liquidity architecture, private credit, and asset based liquidity engineering for long-term wealth preservation and strategic family continuity." date: "2026-02-14" author: "Hyltén Invest" slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-enduring-dynasties"
 
 # Legacy Hardening for Multi-Generational Wealth Wealth that lasts is rarely accidental
 
@@ -119,8 +116,7 @@ Our environment is built for:
 
 This is not wealth management.
 
-It is legacy engineering.
-TECHNICAL MANDATE
+It is legacy engineering. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

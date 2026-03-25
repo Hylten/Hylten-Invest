@@ -1,9 +1,6 @@
 ---
-title: "Control Rights Calibration Under Shifting Credit Regimes Using The Fiduciary Razor"
-description: "Control Rights Calibration Under Shifting Credit Regimes Using The Fiduciary Razor | Institutional Briefing by Hylten-Invest"
-date: "2026-03-20" author: "Hylten Invest"
-slug: "control-rights-calibration-under-shifting-credit-regimes-using-the-fiduciary-razor"
 ---
+title: "Control Rights Calibration Under Shifting Credit Regimes Using The Fiduciary Razor" description: "Control Rights Calibration Under Shifting Credit Regimes Using The Fiduciary Razor | Institutional Briefing by Hylten-Invest" date: "2026-03-20" author: "Hylten Invest" slug: "control-rights-calibration-under-shifting-credit-regimes-using-the-fiduciary-razor"
 
 # Control Rights Calibration Under Shifting Credit Regimes Using The Fiduciary Razor INTRODUCTIO
 
@@ -117,8 +114,7 @@ Applying The Fiduciary Razor Across Three Credit Environments Control rights beh
 
 Below, the Razor is applied to three representative environments.
 
-The objective is to strip governance to its essential components.
-1.
+The objective is to strip governance to its essential components. 1.
 
 Loose Credit Regime Loose credit regimes are defined by narrow spreads, abundant liquidity, and borrower leverage tolerance.
 
@@ -142,8 +138,7 @@ Defined triggers tied to operational metrics, not market valuations.
 
 The role of direct intervention is limited in loose regimes.
 
-The priority is early detection.
-2.
+The priority is early detection. 2.
 
 Transitional Credit Regime Transitional regimes represent inflection periods.
 
@@ -171,8 +166,7 @@ Unused rights are dormant but ready.
 
 The objective is not to intervene.
 
-The objective is to maintain the ability to intervene with minimal friction.
-3.
+The objective is to maintain the ability to intervene with minimal friction. 3.
 
 Tight Credit Regime Tight regimes are characterized by high rates, constrained liquidity, and sharp repricing across capital structures.
 
@@ -448,8 +442,7 @@ Minimalism will be a competitive advantage.
 
 Clarity will be a performance driver.
 
-Stewardship will require both precision and restraint.
-TECHNICAL MANDATE
+Stewardship will require both precision and restraint. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

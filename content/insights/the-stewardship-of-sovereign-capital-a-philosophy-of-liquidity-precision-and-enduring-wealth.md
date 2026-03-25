@@ -1,9 +1,6 @@
 ---
-title: "The Stewardship of Sovereign Capital: A Philosophy of Liquidity, Precision, and Enduring Wealth"
-description: "A high‑end exploration of liquidity architecture, private credit, and asset‑based liquidity engineering for HNWI and UHNW clients seeking long‑term capital stewardship."
-date: "2025-10-19" author: "Hyltén Invest"
-slug: "the-stewardship-of-sovereign-capital-a-philosophy-of-liquidity-precision-and-enduring-wealth"
 ---
+title: "The Stewardship of Sovereign Capital: A Philosophy of Liquidity, Precision, and Enduring Wealth" description: "A high‑end exploration of liquidity architecture, private credit, and asset‑based liquidity engineering for HNWI and UHNW clients seeking long‑term capital stewardship." date: "2025-10-19" author: "Hyltén Invest" slug: "the-stewardship-of-sovereign-capital-a-philosophy-of-liquidity-precision-and-enduring-wealth"
 
 # The Stewardship of Sovereign Capital Capital is sovereign when it is unhurried
 
@@ -277,8 +274,7 @@ We believe that the future of wealth preservation will rely heavily on:
 
 - Long‑term planning insulated from market momentum.
 
-Hylten‑Invest is positioned to support this future with the same minimalistic, conservative, and enduring philosophy that defines our brand.
-TECHNICAL MANDATE
+Hylten‑Invest is positioned to support this future with the same minimalistic, conservative, and enduring philosophy that defines our brand. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

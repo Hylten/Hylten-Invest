@@ -1,9 +1,6 @@
 ---
-title: "From Gnosjö to Global: The Sovereign Logic of Micro‑Cluster Economies"
-description: "A principal-level architectural briefing on how covenant-based micro‑clusters generate durable competitive moats, industrial resilience, and multigenerational capital foundations."
-date: "2025-12-02" author: "Hylten-Invest"
-slug: "gnosjo-micro-cluster-sovereign-architecture"
 ---
+title: "From Gnosjö to Global: The Sovereign Logic of Micro‑Cluster Economies" description: "A principal-level architectural briefing on how covenant-based micro‑clusters generate durable competitive moats, industrial resilience, and multigenerational capital foundations." date: "2025-12-02" author: "Hylten-Invest" slug: "gnosjo-micro-cluster-sovereign-architecture"
 
 The strength of a nation does not emerge from capitals, ministries, or institutions of spectacle.
 
@@ -25,8 +22,7 @@ Duty, not indulgence.
 
 Covenant, not convenience. A good man sheweth favour, and lendeth; he will guide his affairs with discretion.
 
-- Psalm 112:
-5 This briefing maps the sovereign architecture behind such micro‑clusters.
+- Psalm 112: 5 This briefing maps the sovereign architecture behind such micro‑clusters.
 
 Not nostalgia.
 
@@ -192,8 +188,7 @@ It compounds into resilience.
 
 This is why micro‑clusters survive economic winters that dismantle larger but culturally rootless structures. "The integrity of the upright shall guide them."
 
-- Proverbs 11:
-3 GLOBAL SCALABILITY WITHOUT CULTURAL DILUTION The question for any Principal is simple: Can the architecture scale without losing the covenant?
+- Proverbs 11: 3 GLOBAL SCALABILITY WITHOUT CULTURAL DILUTION The question for any Principal is simple: Can the architecture scale without losing the covenant?
 
 Yes.
 
@@ -315,8 +310,7 @@ When a micro‑cluster scales globally, it must scale its moral framework alongs
 
 Structuring through Roials Capital integrates with this broader architecture while remaining aligned to the values that produce durable moats. "Blessed is the man that feareth the Lord, that delighteth greatly in his commandments."
 
-- Psalm 112:
-1 Access is restricted to approved mandates.
+- Psalm 112: 1 Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 

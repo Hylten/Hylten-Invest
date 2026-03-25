@@ -1,9 +1,6 @@
 ---
-title: "Resilient Structures in Private Wealth: Strategic Liquidity for HNWI and Family Offices"
-description: "Institutional analysis on liquidity engineering, balance sheet durability, and long horizon stewardship frameworks for private wealth. Technical memo for allocators evaluating resilient capital structures and operational intelligence for multi generational mandates."
-date: "2025-07-19" author: "Jonas Hyltén"
-slug: "resilient-structures-private-wealth-strategic-liquidity"
 ---
+title: "Resilient Structures in Private Wealth: Strategic Liquidity for HNWI and Family Offices" description: "Institutional analysis on liquidity engineering, balance sheet durability, and long horizon stewardship frameworks for private wealth. Technical memo for allocators evaluating resilient capital structures and operational intelligence for multi generational mandates." date: "2025-07-19" author: "Jonas Hyltén" slug: "resilient-structures-private-wealth-strategic-liquidity"
 
 The capital vacuum in private wealth ecosystems is no longer a function of insufficient assets.
 

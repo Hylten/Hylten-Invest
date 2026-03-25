@@ -1,9 +1,6 @@
 ---
-title: "Stewardship Trends for 2026: The UHNW Outlook and the Reemergence of Moral Capital"
-description: "An institutional analysis of 2026’s stewardship regime shift, focusing on generational capital, Nordic industrial ethics, and the structural recalibration of UHNW decision making."
-date: "2025-11-08" author: "Jonas Hyltén"
-slug: "stewardship-trends-2026-uhnw-outlook"
 ---
+title: "Stewardship Trends for 2026: The UHNW Outlook and the Reemergence of Moral Capital" description: "An institutional analysis of 2026’s stewardship regime shift, focusing on generational capital, Nordic industrial ethics, and the structural recalibration of UHNW decision making." date: "2025-11-08" author: "Jonas Hyltén" slug: "stewardship-trends-2026-uhnw-outlook"
 
 The capital vacuum in North America’s core energy basins is the predictable outcome of a decade of misaligned incentives, yet the more influential transition in 2026 is occurring within the allocator class itself.
 
@@ -123,8 +120,7 @@ Stewardship Under Volatile Rate Regimes With rate regimes remaining structurally
 
 Yield is a byproduct of structural integrity, not the central objective.
 
-This shift aligns with the Biblical principle of responsible resource management seen in Proverbs 21:
-5 .
+This shift aligns with the Biblical principle of responsible resource management seen in Proverbs 21: 5 .
 
 ### Phase III:
 

@@ -1,9 +1,6 @@
 ---
-title: "Stewardship Architecture for High Net Worth Private Equity Stakes Across Cycles"
-description: "A clinical institutional briefing on the stewardship mechanics, balance sheet discipline, and generational capital architecture underpinning high net worth private equity holdings. Focus on governance calibration, capital theology, and long-horizon liquidity engineering."
-date: "2025-08-22" author: "Jonas Hyltén"
-slug: "stewardship-high-net-worth-private-equity"
 ---
+title: "Stewardship Architecture for High Net Worth Private Equity Stakes Across Cycles" description: "A clinical institutional briefing on the stewardship mechanics, balance sheet discipline, and generational capital architecture underpinning high net worth private equity holdings. Focus on governance calibration, capital theology, and long-horizon liquidity engineering." date: "2025-08-22" author: "Jonas Hyltén" slug: "stewardship-high-net-worth-private-equity"
 
 The dislocation in global private equity allocations is not primarily a function of market volatility.
 

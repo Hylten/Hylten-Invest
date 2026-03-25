@@ -1,9 +1,6 @@
 ---
-title: "Stewardship Alpha and the Rise of Moral Authority in Private Markets"
-description: "Moral authority as a due‑diligence differentiator rooted in Christian industrial heritage, covenantal stewardship, and generational capital formation."
-date: "2026-02-26" author: "Hylten-Invest"
-slug: "stewardship-alpha-moral-authority-private-markets"
 ---
+title: "Stewardship Alpha and the Rise of Moral Authority in Private Markets" description: "Moral authority as a due‑diligence differentiator rooted in Christian industrial heritage, covenantal stewardship, and generational capital formation." date: "2026-02-26" author: "Hylten-Invest" slug: "stewardship-alpha-moral-authority-private-markets"
 
 Value reveals character.
 
@@ -21,8 +18,7 @@ The kind hammered into steel at the 1874 forge.
 
 The kind that sees capital not as trophy but as duty. "He that walketh uprightly walketh surely."
 
-- Proverbs 10:
-9 The shift is structural.
+- Proverbs 10: 9 The shift is structural.
 
 Not cultural.
 

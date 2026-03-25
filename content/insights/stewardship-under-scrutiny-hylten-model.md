@@ -1,9 +1,6 @@
 ---
-title: "Stewardship Under Scrutiny: The Hylten Model For Functional Capital Formation"
-description: "An institutional examination of stewardship, capital ethics, Nordic industrial discipline, and the structural realignment required for intergenerational capital integrity."
-date: "2025-09-21" author: "Jonas Hyltén"
-slug: "stewardship-under-scrutiny-hylten-model"
 ---
+title: "Stewardship Under Scrutiny: The Hylten Model For Functional Capital Formation" description: "An institutional examination of stewardship, capital ethics, Nordic industrial discipline, and the structural realignment required for intergenerational capital integrity." date: "2025-09-21" author: "Jonas Hyltén" slug: "stewardship-under-scrutiny-hylten-model"
 
 The structural gap in global capital formation is a consequence of moral drift, not capital scarcity.
 
@@ -215,8 +212,7 @@ Does the asset create stability across generations.
 
 - Testimony.
 
-Would the outcome be defensible before God and man. Psalm 24:
-1 states that the earth is the Lord's and everything in it.
+Would the outcome be defensible before God and man. Psalm 24: 1 states that the earth is the Lord's and everything in it.
 
 Therefore capital deployment becomes an act of obedience.
 

@@ -1,9 +1,6 @@
 ---
-title: "The Returning Sovereign: Why UHNWIs Anchor Capital in Multi-Decade Industrial Holdings"
-description: "A principal-level briefing on the structural, moral, and strategic forces pulling ultra-wealth holders away from short-horizon private equity toward long-duration industrial stewardship."
-date: "2025-12-06" author: "Hylten-Invest"
-slug: "uhnw-pivot-industrial-holdings"
 ---
+title: "The Returning Sovereign: Why UHNWIs Anchor Capital in Multi-Decade Industrial Holdings" description: "A principal-level briefing on the structural, moral, and strategic forces pulling ultra-wealth holders away from short-horizon private equity toward long-duration industrial stewardship." date: "2025-12-06" author: "Hylten-Invest" slug: "uhnw-pivot-industrial-holdings"
 
 The pivot began quietly.
 
@@ -329,8 +326,7 @@ Free enterprise is the only system in history that expands the pie at scale.
 
 Industrial holdings do this.
 
-Short-term funds do not. =====
-TECHNICAL MANDATE
+Short-term funds do not. ===== TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

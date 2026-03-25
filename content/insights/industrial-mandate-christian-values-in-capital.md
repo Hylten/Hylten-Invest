@@ -1,9 +1,6 @@
 ---
-title: "The Industrial Mandate: Christian Values In Capital"
-description: "A strategic analysis of how Christian industrial heritage, Nordic stewardship principles, and the theology of capital form an institutional framework for modern capital formation and operational discipline across North American and European industrial platforms."
-date: "2026-02-27" author: "Jonas Hyltén"
-slug: "industrial-mandate-christian-values-in-capital"
 ---
+title: "The Industrial Mandate: Christian Values In Capital" description: "A strategic analysis of how Christian industrial heritage, Nordic stewardship principles, and the theology of capital form an institutional framework for modern capital formation and operational discipline across North American and European industrial platforms." date: "2026-02-27" author: "Jonas Hyltén" slug: "industrial-mandate-christian-values-in-capital"
 
 The capital vacuum in modern industry is not created by scarcity.
 

@@ -1,9 +1,6 @@
 ---
-title: "The Covenant Architecture of Faith‑Aligned Capital Deployment"
-description: "A principal‑level briefing on generational stewardship, ultra‑concentrated portfolios, and the theology of capital within a disciplined industrial lineage."
-date: "2025-07-11" author: "Hylten‑Invest"
-slug: "faith-aligned-capital-deployment-ultra-concentrated-portfolios"
 ---
+title: "The Covenant Architecture of Faith‑Aligned Capital Deployment" description: "A principal‑level briefing on generational stewardship, ultra‑concentrated portfolios, and the theology of capital within a disciplined industrial lineage." date: "2025-07-11" author: "Hylten‑Invest" slug: "faith-aligned-capital-deployment-ultra-concentrated-portfolios"
 
 The structure must stand before the capital flows.
 
@@ -111,8 +108,7 @@ When the steward is anchored, concentration becomes alignment.
 
 Alignment becomes conviction.
 
-Conviction becomes sovereignty. “Machine Gun” sentences for clarity: Conviction commands.
-Noise fades. Markets shift. Principles hold. Stewardship endures. Phase Two.
+Conviction becomes sovereignty. “Machine Gun” sentences for clarity: Conviction commands. Noise fades. Markets shift. Principles hold. Stewardship endures. Phase Two.
 
 Principal Tone.
 
@@ -190,8 +186,7 @@ No improvisation.
 
 Faith‑aligned capital has a mandate: prepare the children’s children. "One generation shall praise thy works to another, and shall declare thy mighty acts."
 
-‑ Psalm 145:
-4 The Industrial Mandate for Value Creation is the final anchor.
+‑ Psalm 145: 4 The Industrial Mandate for Value Creation is the final anchor.
 
 This is where the Gnosjö spirit meets Christian duty.
 

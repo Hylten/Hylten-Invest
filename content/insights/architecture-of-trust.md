@@ -1,9 +1,6 @@
 ---
-title: "The Architecture of Trust"
-description: "Institutional exposition of capital stewardship, moral authority, and the structural mechanics that govern trust formation inside generational capital systems."
-date: "2025-11-30" author: "Jonas Hyltén"
-slug: "architecture-of-trust"
 ---
+title: "The Architecture of Trust" description: "Institutional exposition of capital stewardship, moral authority, and the structural mechanics that govern trust formation inside generational capital systems." date: "2025-11-30" author: "Jonas Hyltén" slug: "architecture-of-trust"
 
 A deficit of moral clarity always shows up as a pricing inefficiency.
 
@@ -111,8 +108,7 @@ It is structural risk weighting.
 
 LTV curves respond to trust before they respond to cash flow.
 
-When an institutional lender trusts the governance architecture more than the collateral, the LTV curve shifts upward by
-5 to 15 percent without altering recovery probability.
+When an institutional lender trusts the governance architecture more than the collateral, the LTV curve shifts upward by 5 to 15 percent without altering recovery probability.
 
 This is rarely acknowledged in public documentation.
 
@@ -290,8 +286,7 @@ A borrower who wastes cannot be trusted.
 
 An investor who wastes cannot be honored.
 
-A generation that wastes forfeits inheritance. Proverbs 21:
-5 .
+A generation that wastes forfeits inheritance. Proverbs 21: 5 .
 
 The stewardship filter is not decorative.
 

@@ -1,9 +1,6 @@
 ---
-title: "Private Equity Diversification"
-description: "Insights on Private Equity Diversification from Roials Capital and Hyltén Invest."
-date: "2025-10-17" author: "Hyltén Invest"
-slug: "private-equity-diversification"
 ---
+title: "Private Equity Diversification" description: "Insights on Private Equity Diversification from Roials Capital and Hyltén Invest." date: "2025-10-17" author: "Hyltén Invest" slug: "private-equity-diversification"
 
 # Private Equity Diversification A Long Term Framework for High Net Worth Investors and Family Offices Private equity has become a central
 
@@ -409,8 +406,7 @@ Families benefit from a portfolio that is calm, balanced, and resilient.
 
 This is a structure that endures market cycles without oscillation.
 
-It maintains purpose and direction.
-TECHNICAL MANDATE
+It maintains purpose and direction. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

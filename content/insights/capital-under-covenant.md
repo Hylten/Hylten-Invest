@@ -1,9 +1,6 @@
 ---
-title: "Capital Under Covenant"
-description: "A principal-level directive on spiritually anchored capital, industrial heritage, and the sovereign duty of Christian stewardship."
-date: "2025-10-16" author: "Hylten-Invest"
-slug: "capital-under-covenant"
 ---
+title: "Capital Under Covenant" description: "A principal-level directive on spiritually anchored capital, industrial heritage, and the sovereign duty of Christian stewardship." date: "2025-10-16" author: "Hylten-Invest" slug: "capital-under-covenant"
 
 Capital becomes sacred when it is placed under covenant.
 
@@ -35,8 +32,7 @@ They built more than firms.
 
 They built foundations. "The earth is the Lord’s, and the fulness thereof."
 
-- Psalm 24:
-1 Sacred capital begins in recognition.
+- Psalm 24: 1 Sacred capital begins in recognition.
 
 You do not own the resource.
 

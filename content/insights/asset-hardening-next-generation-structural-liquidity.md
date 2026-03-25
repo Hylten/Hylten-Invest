@@ -1,9 +1,6 @@
 ---
-title: "Asset Hardening for the Next Generation: Structural Liquidity and the Mechanics of Enduring Family Legacies"
-description: "A technical briefing on institutional asset hardening, liquidity engineering, and generational stewardship frameworks rooted in Nordic industrial discipline and applied to modern capital regimes."
-date: "2025-09-10" author: "Hyltén Invest"
-slug: "asset-hardening-next-generation-structural-liquidity"
 ---
+title: "Asset Hardening for the Next Generation: Structural Liquidity and the Mechanics of Enduring Family Legacies" description: "A technical briefing on institutional asset hardening, liquidity engineering, and generational stewardship frameworks rooted in Nordic industrial discipline and applied to modern capital regimes." date: "2025-09-10" author: "Hyltén Invest" slug: "asset-hardening-next-generation-structural-liquidity"
 
 The structural gap facing multi generational families is not a shortage of assets.
 

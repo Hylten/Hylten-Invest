@@ -1,9 +1,6 @@
 ---
-title: "Navigating Multi-Generational Wealth with Asset-Based Lending"
-description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth preservation."
-date: "2025-07-10" author: "Hyltén Invest"
-slug: "navigating-multi-generational-wealth-with-abl"
 ---
+title: "Navigating Multi-Generational Wealth with Asset-Based Lending" description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth preservation." date: "2025-07-10" author: "Hyltén Invest" slug: "navigating-multi-generational-wealth-with-abl"
 
 # Navigating Multi-Generational Wealth with Asset-Based Lending Multi generational wealth is not merely inherited, it is engineered
 
@@ -77,8 +74,7 @@ They protect the assets that define legacy.
 
 They generate the liquidity that defines opportunity.
 
-This is the architecture Hylten Invest provides.
-TECHNICAL MANDATE
+This is the architecture Hylten Invest provides. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

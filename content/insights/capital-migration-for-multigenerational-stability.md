@@ -1,9 +1,6 @@
 ---
-title: "Capital Migration for Multi‑Generational Stability"
-description: "A strategic exploration of liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW families seeking long-term capital preservation."
-date: "2025-07-02" author: "Hyltén Invest"
-slug: "capital-migration-for-multigenerational-stability"
 ---
+title: "Capital Migration for Multi‑Generational Stability" description: "A strategic exploration of liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW families seeking long-term capital preservation." date: "2025-07-02" author: "Hyltén Invest" slug: "capital-migration-for-multigenerational-stability"
 
 # Capital Migration for Multi‑Generational Stability Capital does not drift on its own
 

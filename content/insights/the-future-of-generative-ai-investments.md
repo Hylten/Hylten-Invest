@@ -1,9 +1,6 @@
 ---
-title: "The Future of Generative AI Investments"
-description: "Why Hyltén Invest sees significant potential in agentic AI and its impact on infrastructure."
-date: "2025-10-23" author: "Hyltén Invest"
-slug: "the-future-of-generative-ai-investments"
 ---
+title: "The Future of Generative AI Investments" description: "Why Hyltén Invest sees significant potential in agentic AI and its impact on infrastructure." date: "2025-10-23" author: "Hyltén Invest" slug: "the-future-of-generative-ai-investments"
 
 Artificial Intelligence is currently undergoing a paradigm shift.
 

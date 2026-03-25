@@ -1,9 +1,6 @@
 ---
-title: "The Purpose Variable in Capital: A Principal’s Theology of Deployment"
-description: "Institutional investors are elevating purpose from narrative ornament to operational risk variable—rooted in stewardship, moral authority, and the industrial Protestant ethic."
-date: "2025-12-31" author: "Hylten-Invest"
-slug: "theology-capital-deployment-purpose-risk-factor"
 ---
+title: "The Purpose Variable in Capital: A Principal’s Theology of Deployment" description: "Institutional investors are elevating purpose from narrative ornament to operational risk variable—rooted in stewardship, moral authority, and the industrial Protestant ethic." date: "2025-12-31" author: "Hylten-Invest" slug: "theology-capital-deployment-purpose-risk-factor"
 
 Purpose now moves.
 
@@ -69,8 +66,7 @@ Consequence.
 
 These are not abstractions; they are industrial safeguards. "The integrity of the upright shall guide them."
 
-- Proverbs 11:
-3 Guidance is not optional.
+- Proverbs 11: 3 Guidance is not optional.
 
 It is the architecture that separates sovereign capital from drifting capital.
 

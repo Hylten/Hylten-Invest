@@ -1,9 +1,6 @@
 ---
-title: "Stewardship Under Scrutiny: The Hylten Model For F"
-description: "Stewardship Under Scrutiny: The Hylten Model For F"
-date: "2026-02-18" author: "Hyltén Invest"
-slug: "stewardship-under-scrutiny-the-hylten-model-for-f"
 ---
+title: "Stewardship Under Scrutiny: The Hylten Model For F" description: "Stewardship Under Scrutiny: The Hylten Model For F" date: "2026-02-18" author: "Hyltén Invest" slug: "stewardship-under-scrutiny-the-hylten-model-for-f"
 
 # Stewardship Under Scrutiny The Hylten Model for Family Offices The modern family office stands in a paradox
 
@@ -155,8 +152,7 @@ What is the family forbidden to pursue.
 
 A mandate without prohibition is counterfeit.
 
-A mandate without theological rooting is vanity.
-2.
+A mandate without theological rooting is vanity. 2.
 
 The Governance Layer Governance is the public expression of private conviction.
 
@@ -170,8 +166,7 @@ This includes:
 
 - Succession paths based on responsibility rather than genetics Governance clarifies authority.
 
-Action clarifies legacy.
-3.
+Action clarifies legacy. 3.
 
 The Capital Deployment
 
@@ -185,8 +180,7 @@ The Hylten Model corrects this through three filters.
 
 - Moral durability
 
-- Institutional readiness The result is a deployment architecture that respects both Scripture and scrutiny.
-4.
+- Institutional readiness The result is a deployment architecture that respects both Scripture and scrutiny. 4.
 
 The Legacy Continuation
 

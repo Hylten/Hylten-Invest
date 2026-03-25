@@ -1,9 +1,6 @@
 ---
-title: "Gnosjo Spirit Post Automation Industrial Smes"
-description: "Gnosjo Spirit Post Automation Industrial Smes | Institutional Briefing by Hylten-Invest"
-date: "2026-03-20" author: "Hylten Invest"
-slug: "gnosjo-spirit-post-automation-industrial-smes"
 ---
+title: "Gnosjo Spirit Post Automation Industrial Smes" description: "Gnosjo Spirit Post Automation Industrial Smes | Institutional Briefing by Hylten-Invest" date: "2026-03-20" author: "Hylten Invest" slug: "gnosjo-spirit-post-automation-industrial-smes"
 
 title: "The Sovereign Logic of the Gnosjö Spirit in a Post‑Automation Industrial Age" description: "A principal-level, high-clarity architecture of how the Spirit of Gnosjö becomes the operational blueprint for post-automation industrial SMEs seeking moral authority, covenantal stewardship, and generational durability." date: "2026-03-03" author: "Hylten-Invest" slug: "gnosjo-spirit-post-automation-industrial-smes"
 
@@ -189,8 +186,7 @@ Legacy receives.
 
 This is the architecture that protects the children's children. "Moreover it is required in stewards, that a man be found faithful."
 
-- 1 Corinthians 4:
-2
+- 1 Corinthians 4: 2
 
 -
 
@@ -350,8 +346,7 @@ Not for acclaim.
 
 For the children's children. "Through wisdom is an house builded; and by understanding it is established."
 
-- Proverbs 24:
-3
+- Proverbs 24: 3
 
 ### Phase II:
 

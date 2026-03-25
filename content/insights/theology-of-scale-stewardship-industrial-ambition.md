@@ -1,9 +1,6 @@
 ---
-title: "The Theology of Scale"
-description: "Christian stewardship fused with industrial ambition, framing scale as a moral mandate rooted in covenantal responsibility and the Protestant ethic."
-date: "2025-12-12" author: "Hylten-Invest"
-slug: "theology-of-scale-stewardship-industrial-ambition"
 ---
+title: "The Theology of Scale" description: "Christian stewardship fused with industrial ambition, framing scale as a moral mandate rooted in covenantal responsibility and the Protestant ethic." date: "2025-12-12" author: "Hylten-Invest" slug: "theology-of-scale-stewardship-industrial-ambition"
 
 Stewardship demands scale.
 

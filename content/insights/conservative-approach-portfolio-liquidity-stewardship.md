@@ -1,9 +1,6 @@
 ---
-title: "The Conservative Approach to Portfolio Liquidity for Long-Term Stewards of Capital"
-description: "An institutional briefing on liquidity engineering, stewardship discipline, and the conservative liquidity architecture required for generational capital mandates."
-date: "2026-02-07" author: "Hyltén Invest"
-slug: "conservative-approach-portfolio-liquidity-stewardship"
 ---
+title: "The Conservative Approach to Portfolio Liquidity for Long-Term Stewards of Capital" description: "An institutional briefing on liquidity engineering, stewardship discipline, and the conservative liquidity architecture required for generational capital mandates." date: "2026-02-07" author: "Hyltén Invest" slug: "conservative-approach-portfolio-liquidity-stewardship"
 
 The capital vacuum in North American and European markets is a function of regulatory drift and institutional crowding, not a shortage of viable assets.
 

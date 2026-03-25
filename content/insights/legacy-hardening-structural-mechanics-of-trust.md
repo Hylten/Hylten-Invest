@@ -1,9 +1,6 @@
 ---
-title: "Legacy Hardening: The Structural Mechanics of Trust and the Theology of Capital"
-description: "An institutional examination of generational capital formation, Nordic industrial ethics, and the structural mechanics of trust as a balance sheet asset within modern private markets."
-date: "2025-10-05" author: "Jonas Hyltén"
-slug: "legacy-hardening-structural-mechanics-of-trust"
 ---
+title: "Legacy Hardening: The Structural Mechanics of Trust and the Theology of Capital" description: "An institutional examination of generational capital formation, Nordic industrial ethics, and the structural mechanics of trust as a balance sheet asset within modern private markets." date: "2025-10-05" author: "Jonas Hyltén" slug: "legacy-hardening-structural-mechanics-of-trust"
 
 The capital vacuum that defines the current global investment climate originates not from a shortage of assets, but from a degradation of trust as a functional infrastructure.
 

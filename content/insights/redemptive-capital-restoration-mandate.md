@@ -1,9 +1,6 @@
 ---
-title: "Redemptive Capital and the Restoration Mandate"
-description: "A principal brief on capital as moral repair, covenantal stewardship, and the industrial duty to strengthen the social fabric without sacrificing return discipline."
-date: "2025-08-06" author: "Hylten-Invest"
-slug: "redemptive-capital-restoration-mandate"
 ---
+title: "Redemptive Capital and the Restoration Mandate" description: "A principal brief on capital as moral repair, covenantal stewardship, and the industrial duty to strengthen the social fabric without sacrificing return discipline." date: "2025-08-06" author: "Hylten-Invest" slug: "redemptive-capital-restoration-mandate"
 
 Internal.
 
@@ -21,8 +18,7 @@ You deploy it well, the community strengthens.
 
 You deploy it poorly, the foundation cracks. "And they shall build the old wastes, they shall raise up the former desolations."
 
-- Isaiah 61:
-4
+- Isaiah 61: 4
 
 ### Phase I:
 
@@ -100,8 +96,7 @@ That is the architecture.
 
 ### Phase III:
 
-Bypass.
-Machine Gun. Repair markets. Reinforce trust. Rebuild competence. Defend enterprise.
+Bypass. Machine Gun. Repair markets. Reinforce trust. Rebuild competence. Defend enterprise.
 
 Guard legacy.
 

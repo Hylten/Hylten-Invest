@@ -1,9 +1,6 @@
 ---
-title: "The Stewardship of Private Wealth in 2026: Institutional Discipline, Moral Authority, and the Architecture of Generational Capital"
-description: "An institutional analysis of private wealth stewardship in 2026, examining structural shifts in capital formation, the operational mechanics of real asset strategies, and the moral hierarchy that governs multigenerational capital continuity."
-date: "2026-01-20" author: "Jonas Hyltén"
-slug: "stewardship-of-private-wealth-2026"
 ---
+title: "The Stewardship of Private Wealth in 2026: Institutional Discipline, Moral Authority, and the Architecture of Generational Capital" description: "An institutional analysis of private wealth stewardship in 2026, examining structural shifts in capital formation, the operational mechanics of real asset strategies, and the moral hierarchy that governs multigenerational capital continuity." date: "2026-01-20" author: "Jonas Hyltén" slug: "stewardship-of-private-wealth-2026"
 
 The capital vacuum shaping private wealth in 2026 is a structural consequence of governance realignment, institutional contraction, and regulatory drift.
 

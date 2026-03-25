@@ -1,9 +1,6 @@
 ---
-title: "The Covenant Logic of Capital"
-description: "A principal brief on faith‑aligned allocation, generational authority, and sovereign capital formation for UHNW families seeking values‑based outperformance."
-date: "2025-12-23" author: "Hylten-Invest"
-slug: "covenant-logic-of-capital"
 ---
+title: "The Covenant Logic of Capital" description: "A principal brief on faith‑aligned allocation, generational authority, and sovereign capital formation for UHNW families seeking values‑based outperformance." date: "2025-12-23" author: "Hylten-Invest" slug: "covenant-logic-of-capital"
 
 Capital moves with conviction.
 
@@ -43,8 +40,7 @@ Then value forged into legacy.
 
 This is the sovereign architecture of wealth that endures. "The integrity of the upright shall guide them."
 
-- Proverbs 11:
-3 A sovereign family does not allocate from emotion.
+- Proverbs 11: 3 A sovereign family does not allocate from emotion.
 
 It allocates from mandate.
 

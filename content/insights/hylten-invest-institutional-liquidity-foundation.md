@@ -1,9 +1,6 @@
 ---
-title: "Hylten Invest: A Quiet Foundation for Institutional-Grade Liquidity"
-description: "An institutional brief on Hylten Invest’s role as a Swedish family-capital anchor enabling private credit stability, cross-border liquidity structuring, and generational asset hardening strategies for Fund-III and aligned mandates."
-date: "2026-01-28" author: "Jonas Hylten"
-slug: "hylten-invest-institutional-liquidity-foundation"
 ---
+title: "Hylten Invest: A Quiet Foundation for Institutional-Grade Liquidity" description: "An institutional brief on Hylten Invest’s role as a Swedish family-capital anchor enabling private credit stability, cross-border liquidity structuring, and generational asset hardening strategies for Fund-III and aligned mandates." date: "2026-01-28" author: "Jonas Hylten" slug: "hylten-invest-institutional-liquidity-foundation"
 
 Hylten Invest operates in a register that avoids spectacle.
 
@@ -225,8 +222,7 @@ The market misprices this stability because it cannot model morality.
 
 Yet morality is precisely what stabilizes liquidity through cycles.
 
-The governance model inside Hylten Invest mirrors classical Lutheran stewardship structures.
-Lean authority. Clear responsibility. Direct accountability. Small circle. High trust.
+The governance model inside Hylten Invest mirrors classical Lutheran stewardship structures. Lean authority. Clear responsibility. Direct accountability. Small circle. High trust.
 
 No bureaucracy.
 
@@ -234,7 +230,7 @@ No noise.
 
 Decision-making remains analytical, rapid, and conviction-based.
 
-Machine gun sentences.
+.
 
 Rapid cadence.
 

@@ -1,9 +1,6 @@
 ---
-title: "Stewardship Architecture for Digital Legacies in Family Crypto Holdings"
-description: "Institutional brief on liquidity engineering, succession structuring, asset hardening, and multi‑jurisdictional stewardship frameworks for long‑horizon family crypto holdings under a Christian-industrial legacy mandate."
-date: "2026-01-26" author: "Jonas Hyltén — Hylten-Invest"
-slug: "stewardship-digital-legacies-family-crypto-liquidity-engineering"
 ---
+title: "Stewardship Architecture for Digital Legacies in Family Crypto Holdings" description: "Institutional brief on liquidity engineering, succession structuring, asset hardening, and multi‑jurisdictional stewardship frameworks for long‑horizon family crypto holdings under a Christian-industrial legacy mandate." date: "2026-01-26" author: "Jonas Hyltén — Hylten-Invest" slug: "stewardship-digital-legacies-family-crypto-liquidity-engineering"
 
 Institutional capital begins with order.
 

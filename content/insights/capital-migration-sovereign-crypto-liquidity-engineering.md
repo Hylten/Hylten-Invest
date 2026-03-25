@@ -1,9 +1,6 @@
 ---
-title: "Capital Migration for Global Families and the Strategic Function of Sovereign Crypto Liquidity Engineering"
-description: "Institutional briefing on cross border capital migration, sovereign Capital Structuring, and the structural role of crypto settlement rails for global families navigating regulatory divergence and balance sheet optimization."
-date: "2025-07-18" author: "Hyltén Invest"
-slug: "capital-migration-sovereign-crypto-liquidity-engineering"
 ---
+title: "Capital Migration for Global Families and the Strategic Function of Sovereign Crypto Liquidity Engineering" description: "Institutional briefing on cross border capital migration, sovereign Capital Structuring, and the structural role of crypto settlement rails for global families navigating regulatory divergence and balance sheet optimization." date: "2025-07-18" author: "Hyltén Invest" slug: "capital-migration-sovereign-crypto-liquidity-engineering"
 
 The structural gap in cross border capital mobility is expanding due to regulatory desynchronization across Europe, North America, and the Gulf.
 

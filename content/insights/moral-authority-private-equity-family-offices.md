@@ -1,9 +1,6 @@
 ---
-title: "Moral Authority in Capital: The Principal Risk Lens for Family Offices"
-description: "A high-density structural briefing on moral hazard, moral authority, and the stewardship obligations governing private‑equity allocation for generational capital."
-date: "2025-07-30" author: "Hylten-Invest"
-slug: "moral-authority-private-equity-family-offices"
 ---
+title: "Moral Authority in Capital: The Principal Risk Lens for Family Offices" description: "A high-density structural briefing on moral hazard, moral authority, and the stewardship obligations governing private‑equity allocation for generational capital." date: "2025-07-30" author: "Hylten-Invest" slug: "moral-authority-private-equity-family-offices"
 
 A family office allocates capital not as a game, not as a speculative exercise, but as a covenantal act.
 
@@ -31,8 +28,7 @@ It defines whether capital compounds across three generations or collapses by th
 
 It defines whether the allocation to private equity becomes a disciplined extension of vocation or a fashionable drift into opacity. "He that walketh uprightly walketh surely; but he that perverteth his ways shall be known."
 
-- Proverbs 10:
-9 The verse is blunt.
+- Proverbs 10: 9 The verse is blunt.
 
 Integrity secures stability.
 
@@ -268,8 +264,7 @@ Markets fluctuate, but conviction remains.
 
 Volatility becomes manageable because the underlying assets are built on real value creation, not price momentum. "The integrity of the upright shall guide them."
 
-- Proverbs 11:
-3 Guide.
+- Proverbs 11: 3 Guide.
 
 That is the word.
 
@@ -439,8 +434,7 @@ They must stand where previous generations stood
 
 On stewardship, not on drift. "The just man walketh in his integrity: his children are blessed after him."
 
-- Proverbs 20:
-7 This is the architecture.
+- Proverbs 20: 7 This is the architecture.
 
 This is the standard.
 

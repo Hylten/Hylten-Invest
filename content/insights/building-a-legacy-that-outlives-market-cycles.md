@@ -1,9 +1,6 @@
 ---
-title: "Building a Legacy That Outlives Market Cycles"
-description: "A high‑end strategic perspective on liquidity, private credit, and asset based liquidity engineering for long‑term wealth stewardship."
-date: "2025-10-07" author: "Hyltén Invest"
-slug: "building-a-legacy-that-outlives-market-cycles"
 ---
+title: "Building a Legacy That Outlives Market Cycles" description: "A high‑end strategic perspective on liquidity, private credit, and asset based liquidity engineering for long‑term wealth stewardship." date: "2025-10-07" author: "Hyltén Invest" slug: "building-a-legacy-that-outlives-market-cycles"
 
 # Building a Legacy That Outlives Market Cycles Wealth has always moved in cycles
 
@@ -257,8 +254,7 @@ Families who adopt the legacy mindset focus on:
 
 They establish an ecosystem where capital can grow quietly, without disruption from market noise or external pressure.
 
-This is the environment Hylten‑Invest is designed to support.
-TECHNICAL MANDATE
+This is the environment Hylten‑Invest is designed to support. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

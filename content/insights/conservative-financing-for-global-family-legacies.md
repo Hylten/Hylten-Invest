@@ -1,9 +1,6 @@
 ---
-title: "Conservative Financing for Global Family Legacies"
-description: "Institutional brief examining conservative capital formation, private credit structuring, and multi‑jurisdiction liquidity architecture for generational family enterprises seeking moral authority and asset permanence."
-date: "2026-03-08" author: "Jonas Hyltén"
-slug: "conservative-financing-for-global-family-legacies"
 ---
+title: "Conservative Financing for Global Family Legacies" description: "Institutional brief examining conservative capital formation, private credit structuring, and multi‑jurisdiction liquidity architecture for generational family enterprises seeking moral authority and asset permanence." date: "2026-03-08" author: "Jonas Hyltén" slug: "conservative-financing-for-global-family-legacies"
 
 Conservative capital is not a posture.
 

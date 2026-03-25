@@ -1,9 +1,6 @@
 ---
-title: "The Sovereign Logic of Multi‑Century Capital"
-description: "A principal brief on Christian industrial legacy, generational design authority, and the architecture of enduring capital across centuries."
-date: "2025-12-12" author: "Hylten-Invest"
-slug: "generational-capital-christian-industrial-legacy-multi-century-asset-design"
 ---
+title: "The Sovereign Logic of Multi‑Century Capital" description: "A principal brief on Christian industrial legacy, generational design authority, and the architecture of enduring capital across centuries." date: "2025-12-12" author: "Hylten-Invest" slug: "generational-capital-christian-industrial-legacy-multi-century-asset-design"
 
 Legacy does not emerge.
 

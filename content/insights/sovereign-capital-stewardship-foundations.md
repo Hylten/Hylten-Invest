@@ -1,9 +1,6 @@
 ---
-title: "Sovereign Capital: The Pillar of Stewardship"
-description: "A high density institutional analysis of sovereign capital as a stabilizing force in generational wealth systems, Nordic industrial discipline, and the structural alignment between theology, capital stewardship, and modern energy infrastructure."
-date: "2025-10-18" author: "Jonas Hyltén"
-slug: "sovereign-capital-stewardship-foundations"
 ---
+title: "Sovereign Capital: The Pillar of Stewardship" description: "A high density institutional analysis of sovereign capital as a stabilizing force in generational wealth systems, Nordic industrial discipline, and the structural alignment between theology, capital stewardship, and modern energy infrastructure." date: "2025-10-18" author: "Jonas Hyltén" slug: "sovereign-capital-stewardship-foundations"
 
 The structural gap shaping the current capital cycle is not a shortage of global liquidity but a misallocation created by decades of capital mispricing and the erosion of stewardship ethics.
 

@@ -1,9 +1,6 @@
 ---
-title: "The Quiet Ascendancy of Values‑Driven Founders"
-description: "Why Principled Operators Are Now the Prime Targets for Direct Co‑Investments Across Industrial and Institutional Families"
-date: "2026-03-10" author: "Hylten‑Invest"
-slug: "values-driven-founders-co-investments"
 ---
+title: "The Quiet Ascendancy of Values‑Driven Founders" description: "Why Principled Operators Are Now the Prime Targets for Direct Co‑Investments Across Industrial and Institutional Families" date: "2026-03-10" author: "Hylten‑Invest" slug: "values-driven-founders-co-investments"
 
 Conviction draws capital.
 
@@ -49,8 +46,7 @@ He protects people.
 
 He protects the covenant of enterprise passed down from forge, workshop, and chapel. "He that walketh uprightly walketh surely."
 
-- Proverbs 10:
-9 Direct co‑investment partners see the distinction instantly.
+- Proverbs 10: 9 Direct co‑investment partners see the distinction instantly.
 
 A values‑driven founder operates with sovereign architecture.
 

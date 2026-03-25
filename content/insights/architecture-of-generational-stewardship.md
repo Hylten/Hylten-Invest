@@ -1,9 +1,6 @@
 ---
-title: "Architecture of Generational Stewardship: The Strategic Discipline That Preserves Capital Across Multi Century Horizons"
-description: "Institutional briefing on the structural mechanics, moral architecture, and operational discipline that define generational stewardship across Nordic industrial tradition, Christian economic ethos, and modern capital systems."
-date: "2025-11-20" author: "Hyltén Invest"
-slug: "architecture-of-generational-stewardship"
 ---
+title: "Architecture of Generational Stewardship: The Strategic Discipline That Preserves Capital Across Multi Century Horizons" description: "Institutional briefing on the structural mechanics, moral architecture, and operational discipline that define generational stewardship across Nordic industrial tradition, Christian economic ethos, and modern capital systems." date: "2025-11-20" author: "Hyltén Invest" slug: "architecture-of-generational-stewardship"
 
 The structural gap inside contemporary capital formation is not primarily financial.
 

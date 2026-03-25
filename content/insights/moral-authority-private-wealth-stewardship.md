@@ -1,9 +1,6 @@
 ---
-title: "Moral Authority in Private Wealth Stewardship"
-description: "Institutional analysis of moral authority, generational capital, Christian industrial legacy, and private wealth stewardship within modern liquidity regimes."
-date: "2026-02-28" author: "Jonas Hyltén"
-slug: "moral-authority-private-wealth-stewardship"
 ---
+title: "Moral Authority in Private Wealth Stewardship" description: "Institutional analysis of moral authority, generational capital, Christian industrial legacy, and private wealth stewardship within modern liquidity regimes." date: "2026-02-28" author: "Jonas Hyltén" slug: "moral-authority-private-wealth-stewardship"
 
 Moral authority in private wealth stewardship emerges only where capital formation aligns with conviction.
 
@@ -71,8 +68,7 @@ The question then becomes: how does moral authority operate within contemporary 
 
 The answer requires frameworks, not metaphors.
 
-The F‑Framework 2.
-0 clarifies this: moral authority sits at the intersection of structure, jurisdiction, and telos.
+The F‑Framework 2. 0 clarifies this: moral authority sits at the intersection of structure, jurisdiction, and telos.
 
 Capital must know why it exists, where it sits, and what it is allowed to become.
 
@@ -228,8 +224,7 @@ No authority.
 
 Moral mandate is established through covenantal clarity: the family exists to build, preserve, deploy, and transfer capital in alignment with Christian industrial values.
 
-Not prosperity theology.
-Production theology. Workmanship theology. Dominion theology. Honest yield. Ethical extraction.
+Not prosperity theology. Production theology. Workmanship theology. Dominion theology. Honest yield. Ethical extraction.
 
 Stewardship over surplus.
 

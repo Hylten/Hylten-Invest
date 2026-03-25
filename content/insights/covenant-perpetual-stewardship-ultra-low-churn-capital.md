@@ -1,9 +1,6 @@
 ---
-title: "The Covenant of Perpetual Stewardship: The Architecture of Ultra‑Low‑Churn Capital"
-description: "A principal-level briefing on the structural logic, moral grounding, and industrial heritage behind perpetual stewardship vehicles, and why disciplined capital governed by covenant outperforms extraction-based models across multi-generational horizons."
-date: "2025-10-11" author: "Hylten-Invest"
-slug: "covenant-perpetual-stewardship-ultra-low-churn-capital"
 ---
+title: "The Covenant of Perpetual Stewardship: The Architecture of Ultra‑Low‑Churn Capital" description: "A principal-level briefing on the structural logic, moral grounding, and industrial heritage behind perpetual stewardship vehicles, and why disciplined capital governed by covenant outperforms extraction-based models across multi-generational horizons." date: "2025-10-11" author: "Hylten-Invest" slug: "covenant-perpetual-stewardship-ultra-low-churn-capital"
 
 Ultra‑low‑churn capital is not a financial innovation.
 
@@ -157,8 +154,7 @@ The Protestant work ethic was never about toil; it was about order.
 
 It was about clarity of duty before God. "Commit thy works unto the Lord, and thy thoughts shall be established."
 
-- Proverbs 16:
-3 Ultra‑low‑churn capital is industrial in spirit even when applied to digital or intellectual holdings.
+- Proverbs 16: 3 Ultra‑low‑churn capital is industrial in spirit even when applied to digital or intellectual holdings.
 
 Its demand is the same: you finish what you start, and you build for people not yet born.
 
@@ -256,8 +252,7 @@ They convert moral clarity into financial endurance. "Blessed is the man that fe
 
 His seed shall be mighty upon earth."
 
-- Psalm 112:
-1
+- Psalm 112: 1
 
 - 2 The seed is the enterprise.
 
@@ -411,8 +406,7 @@ The glory is not personal.
 
 The glory is generational continuity.
 
-XI.
-TECHNICAL MANDATE
+XI. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

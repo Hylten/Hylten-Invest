@@ -1,9 +1,6 @@
 ---
-title: "Covenant Stewardship: The Hylten Legacy Of Industr"
-description: "Covenant Stewardship: The Hylten Legacy Of Industr"
-date: "2026-02-28" author: "Hyltén Invest"
-slug: "covenant-stewardship-the-hylten-legacy-of-industr"
 ---
+title: "Covenant Stewardship: The Hylten Legacy Of Industr" description: "Covenant Stewardship: The Hylten Legacy Of Industr" date: "2026-02-28" author: "Hyltén Invest" slug: "covenant-stewardship-the-hylten-legacy-of-industr"
 
 # Covenant Stewardship .
 
@@ -217,8 +214,7 @@ For Hyltén Invest, institutional readiness is an extension of faithfulness.
 
 Order is a form of reverence.
 
-The apostle Paul wrote in
-1 Corinthians 14:40 : All things should be done decently and in order.
+The apostle Paul wrote in 1 Corinthians 14:40 : All things should be done decently and in order.
 
 This underpins the firm's operational architecture.
 
@@ -376,8 +372,7 @@ Generational Transfer and the Weight of Inheritance Christian conservatism does 
 
 .
 
-Inheritance is obligation. Psalm 112:
-2 : His offspring will be mighty in the land.
+Inheritance is obligation. Psalm 112: 2 : His offspring will be mighty in the land.
 
 The generation of the upright will be blessed.
 

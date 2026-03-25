@@ -1,9 +1,6 @@
 ---
-title: "The High-Trust Mandate: Gnosjö as Industrial Governance"
-description: "A principal-level brief on Scandinavian trust-governance, Christian industrial ethics, and the capital architecture required for generational stewardship."
-date: "2025-09-11" author: "Hylten-Invest"
-slug: "gnosjo-industrial-governance"
 ---
+title: "The High-Trust Mandate: Gnosjö as Industrial Governance" description: "A principal-level brief on Scandinavian trust-governance, Christian industrial ethics, and the capital architecture required for generational stewardship." date: "2025-09-11" author: "Hylten-Invest" slug: "gnosjo-industrial-governance"
 
 Authority begins with trust.
 

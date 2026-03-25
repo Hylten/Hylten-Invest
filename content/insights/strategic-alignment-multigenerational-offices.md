@@ -1,9 +1,6 @@
 ---
-title: "Strategic Alignment for Multi‑Generational Offices"
-description: "Institutional brief on stewardship architecture, capital theology, and multi‑generational alignment for long‑duration family enterprises."
-date: "2025-06-27" author: "Jonas Hyltén"
-slug: "strategic-alignment-multigenerational-offices"
 ---
+title: "Strategic Alignment for Multi‑Generational Offices" description: "Institutional brief on stewardship architecture, capital theology, and multi‑generational alignment for long‑duration family enterprises." date: "2025-06-27" author: "Jonas Hyltén" slug: "strategic-alignment-multigenerational-offices"
 
 Multi‑generational offices do not fail from scarcity.
 
@@ -351,8 +348,7 @@ Without autonomy, the office becomes reactive and defensive.
 
 Capital ecosystems must be built around long‑arc macro truths.
 
-Demographics.
-Energy flows. Logistics chokepoints. Industrial reshoring. Water scarcity. Monetary cyclicality.
+Demographics. Energy flows. Logistics chokepoints. Industrial reshoring. Water scarcity. Monetary cyclicality.
 
 These truths outlast news cycles.
 
@@ -434,8 +430,7 @@ For multi‑generational offices seeking institutional precision, Access is rest
 
 Minimum mandate depth: $5M+ target size.
 
-Terminal metric: 84.
-3 percent governance‑stability coefficient achieved under unified mandate architecture.
+Terminal metric: 84. 3 percent governance‑stability coefficient achieved under unified mandate architecture.
 
 TECHNICAL MANDATE
 

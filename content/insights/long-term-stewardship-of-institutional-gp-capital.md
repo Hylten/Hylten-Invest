@@ -1,9 +1,6 @@
 ---
-title: "Long-Term Stewardship of Institutional GP Capital"
-description: "A strategic exploration of long-term liquidity, private credit, and asset based liquidity engineering solutions for HNWI and UHNW investors."
-date: "2025-11-30" author: "Hyltén Invest"
-slug: "long-term-stewardship-of-institutional-gp-capital"
 ---
+title: "Long-Term Stewardship of Institutional GP Capital" description: "A strategic exploration of long-term liquidity, private credit, and asset based liquidity engineering solutions for HNWI and UHNW investors." date: "2025-11-30" author: "Hyltén Invest" slug: "long-term-stewardship-of-institutional-gp-capital"
 
 # Long-Term Stewardship of Institutional GP Capital Institutional capital moves differently than private wealth, yet both share one foundational need, a long-term stewardship framework that respects time, preserves optionality, and ensures that capital remains functional across market cycles
 
@@ -281,8 +278,7 @@ A structural counterparty.
 
 Hylten Invest occupies this role deliberately.
 
-We lend quietly, conservatively, and with full respect for the dignity of long-term capital.
-TECHNICAL MANDATE
+We lend quietly, conservatively, and with full respect for the dignity of long-term capital. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

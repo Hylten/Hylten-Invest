@@ -1,9 +1,6 @@
 ---
-title: "Sovereign Capital and the Legacy Framework: A Discipline of Enduring Liquidity"
-description: "A high‑end exploration of sovereign capital structures, private credit, and asset based liquidity engineering for long‑term liquidity management."
-date: "2025-07-31" author: "Hyltén Invest"
-slug: "sovereign-capital-and-the-legacy-framework-a-discipline-of-enduring-liquidity"
 ---
+title: "Sovereign Capital and the Legacy Framework: A Discipline of Enduring Liquidity" description: "A high‑end exploration of sovereign capital structures, private credit, and asset based liquidity engineering for long‑term liquidity management." date: "2025-07-31" author: "Hyltén Invest" slug: "sovereign-capital-and-the-legacy-framework-a-discipline-of-enduring-liquidity"
 
 # Sovereign Capital and the Legacy Framework The architecture of sovereign capital has always been built on a singular principle: continuity
 

@@ -1,9 +1,6 @@
 ---
-title: "The Theology Of Capital: Wealth As A Sacred Trust"
-description: "An institutional analysis of stewardship, generational capital, and the Spirit of Gnosjö as a governing philosophy for capital formation, industrial responsibility, and strategic resource management across North American energy and European manufacturing."
-date: "2025-10-25" author: "Jonas Hyltén"
-slug: "theology-of-capital-wealth-as-sacred-trust"
 ---
+title: "The Theology Of Capital: Wealth As A Sacred Trust" description: "An institutional analysis of stewardship, generational capital, and the Spirit of Gnosjö as a governing philosophy for capital formation, industrial responsibility, and strategic resource management across North American energy and European manufacturing." date: "2025-10-25" author: "Jonas Hyltén" slug: "theology-of-capital-wealth-as-sacred-trust"
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 

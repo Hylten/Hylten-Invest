@@ -1,9 +1,6 @@
 ---
-title: "The Mechanics of Legacy Preservation via Asset-Based Lending"
-description: "Institutional brief on asset‑based lending as a generational preservation architecture within Christian industrial capital traditions and stewardship‑aligned private credit structures."
-date: "2026-01-14" author: "Jonas Hyltén"
-slug: "mechanics-legacy-preservation-abl"
 ---
+title: "The Mechanics of Legacy Preservation via Asset-Based Lending" description: "Institutional brief on asset‑based lending as a generational preservation architecture within Christian industrial capital traditions and stewardship‑aligned private credit structures." date: "2026-01-14" author: "Jonas Hyltén" slug: "mechanics-legacy-preservation-abl"
 
 Legacy is not sentiment.
 

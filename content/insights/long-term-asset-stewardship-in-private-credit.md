@@ -1,9 +1,6 @@
 ---
-title: "Long-Term Asset Stewardship in Private Credit"
-description: "A high-end exploration of liquidity architecture and asset-based liquidity engineering for HNWI and UHNW investors seeking long-term private credit stewardship."
-date: "2025-08-31" author: "Hyltén Invest"
-slug: "long-term-asset-stewardship-in-private-credit"
 ---
+title: "Long-Term Asset Stewardship in Private Credit" description: "A high-end exploration of liquidity architecture and asset-based liquidity engineering for HNWI and UHNW investors seeking long-term private credit stewardship." date: "2025-08-31" author: "Hyltén Invest" slug: "long-term-asset-stewardship-in-private-credit"
 
 # Long-Term Asset Stewardship in Private Credit Private credit has matured into one of the most structurally essential forces in global finance
 

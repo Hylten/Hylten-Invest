@@ -1,9 +1,6 @@
 ---
-title: "Strategic Liquidity Architecture for UHNW Families in Volatile Markets"
-description: "Institutional analysis on liquidity engineering, countercyclical capital design, balance sheet optimization, and stewardship aligned with Christian industrial legacy for multi generational family capital."
-date: "2025-09-09" author: "Jonas Hyltén"
-slug: "strategic-liquidity-architecture-uhnw-families"
 ---
+title: "Strategic Liquidity Architecture for UHNW Families in Volatile Markets" description: "Institutional analysis on liquidity engineering, countercyclical capital design, balance sheet optimization, and stewardship aligned with Christian industrial legacy for multi generational family capital." date: "2025-09-09" author: "Jonas Hyltén" slug: "strategic-liquidity-architecture-uhnw-families"
 
 The structural gap in global private wealth management in 2026 is not a shortage of capital but an absence of sovereign grade liquidity structures for families whose balance sheets span multiple jurisdictions, industries, and time horizons.
 

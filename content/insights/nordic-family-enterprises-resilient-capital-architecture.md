@@ -1,9 +1,6 @@
 ---
-title: "Nordic Family Enterprises and the Sovereign Logic of Low‑Leverage Capital"
-description: "A Principal‑level briefing on how Nordic industrial families engineered durable, multi‑generational capital structures built on stewardship, covenantal duty, and the Protestant ethic of value creation."
-date: "2025-10-25" author: "Hylten‑Invest"
-slug: "nordic-family-enterprises-resilient-capital-architecture"
 ---
+title: "Nordic Family Enterprises and the Sovereign Logic of Low‑Leverage Capital" description: "A Principal‑level briefing on how Nordic industrial families engineered durable, multi‑generational capital structures built on stewardship, covenantal duty, and the Protestant ethic of value creation." date: "2025-10-25" author: "Hylten‑Invest" slug: "nordic-family-enterprises-resilient-capital-architecture"
 
 ,-.-, .-...,,.
 
@@ -45,8 +42,7 @@ They violate the covenant of stewardship.
 
 Nordic families did not. "Through wisdom is a house builded; and by understanding it is established."
 
-- Proverbs 24:
-3 The verse is not poetic.
+- Proverbs 24: 3 The verse is not poetic.
 
 It is operational.
 
@@ -242,8 +238,7 @@ Moral authority becomes economic capital.
 
 That is the strategic advantage. "The integrity of the upright shall guide them."
 
-- Proverbs 11:
-3 Industrial dominion flows from moral dominion.
+- Proverbs 11: 3 Industrial dominion flows from moral dominion.
 
 Nordic families understood this before the terminology existed.
 

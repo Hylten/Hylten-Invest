@@ -1,9 +1,6 @@
 ---
-title: "Stewardship of High Net Worth Private Equity Stakes"
-description: "A high‑end analysis of liquidity, private credit, and asset‑based liquidity engineering structures for HNWI and UHNW investors seeking long‑term stewardship of private equity holdings."
-date: "2025-07-31" author: "Hyltén Invest"
-slug: "stewardship-of-high-net-worth-private-equity-stakes"
 ---
+title: "Stewardship of High Net Worth Private Equity Stakes" description: "A high‑end analysis of liquidity, private credit, and asset‑based liquidity engineering structures for HNWI and UHNW investors seeking long‑term stewardship of private equity holdings." date: "2025-07-31" author: "Hyltén Invest" slug: "stewardship-of-high-net-worth-private-equity-stakes"
 
 # Stewardship of High Net Worth Private Equity Stakes High net worth and ultra high net worth investors carry a responsibility that extends beyond capital management
 

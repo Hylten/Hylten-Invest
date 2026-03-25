@@ -1,9 +1,6 @@
 ---
-title: "Institutional Grade Asset Based Lending as a Framework for Wealth Protection and Capital Stewardship"
-description: "A technical analysis of institutional Asset-Based Lending structures, collateral physics, liquidity engineering protocols, and the stewardship doctrines guiding conservative wealth preservation for UHNW families and institutional allocators."
-date: "2025-12-07" author: "Jonas Hyltén"
-slug: "institutional-grade-abl-wealth-protection"
 ---
+title: "Institutional Grade Asset Based Lending as a Framework for Wealth Protection and Capital Stewardship" description: "A technical analysis of institutional Asset-Based Lending structures, collateral physics, liquidity engineering protocols, and the stewardship doctrines guiding conservative wealth preservation for UHNW families and institutional allocators." date: "2025-12-07" author: "Jonas Hyltén" slug: "institutional-grade-abl-wealth-protection"
 
 The capital vacuum within North American and European private credit is not a symptom of structural weakness.
 

@@ -1,9 +1,6 @@
 ---
-title: "The Forge of Identity Capital"
-description: "An analyst-grade examination of value-coherent investment architecture, moral authority, and the strategic advantage of identity-rooted capital formation within principled industrial houses."
-date: "2025-09-30" author: "Hylten-Invest"
-slug: "forge-of-identity-capital"
 ---
+title: "The Forge of Identity Capital" description: "An analyst-grade examination of value-coherent investment architecture, moral authority, and the strategic advantage of identity-rooted capital formation within principled industrial houses." date: "2025-09-30" author: "Hylten-Invest" slug: "forge-of-identity-capital"
 
 Identity is not branding.
 

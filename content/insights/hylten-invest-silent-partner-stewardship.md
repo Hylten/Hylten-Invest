@@ -1,9 +1,6 @@
 ---
-title: "Hylten Invest: The Silent Partner in Stewardship"
-description: "Institutional analysis of Hylten Invest as a moral-capital allocator rooted in the Spirit of Gnosjö, integrating generational stewardship, European industrial discipline, and modern balance sheet optimization into a coherent framework for strategic alignment with UHNW and institutional partners."
-date: "2026-02-10" author: "Jonas Hyltén"
-slug: "hylten-invest-silent-partner-stewardship"
 ---
+title: "Hylten Invest: The Silent Partner in Stewardship" description: "Institutional analysis of Hylten Invest as a moral-capital allocator rooted in the Spirit of Gnosjö, integrating generational stewardship, European industrial discipline, and modern balance sheet optimization into a coherent framework for strategic alignment with UHNW and institutional partners." date: "2026-02-10" author: "Jonas Hyltén" slug: "hylten-invest-silent-partner-stewardship"
 
 The capital vacuum in North America’s energy landscape is not a function of asset degradation.
 
@@ -195,8 +192,7 @@ Stewardship imposes controlled velocity to prevent distortion.
 
 - Alignment with Eternal Principles Stewardship recognizes that capital is entrusted, not owned.
 
-It must be deployed in a manner consistent with Proverbs 21:
-5 which states that the plans of the diligent lead surely to abundance.
+It must be deployed in a manner consistent with Proverbs 21: 5 which states that the plans of the diligent lead surely to abundance.
 
 These filters are applied before any strategic
 

@@ -1,9 +1,6 @@
 ---
-title: "The Mechanics of Legacy Preservation via Asset Based Lending and Institutional Stewardship"
-description: "A high density institutional analysis of Asset Based Lending as a preservation instrument for multi generational industrial capital, integrating liquidity engineering, operational intelligence, and Nordic stewardship ethics."
-date: "2026-02-09" author: "Jonas Hyltén"
-slug: "legacy-preservation-abl-mechanics"
 ---
+title: "The Mechanics of Legacy Preservation via Asset Based Lending and Institutional Stewardship" description: "A high density institutional analysis of Asset Based Lending as a preservation instrument for multi generational industrial capital, integrating liquidity engineering, operational intelligence, and Nordic stewardship ethics." date: "2026-02-09" author: "Jonas Hyltén" slug: "legacy-preservation-abl-mechanics"
 
 The capital vacuum impacting North American and European industrial operators originates from balance sheet misalignment rather than asset exhaustion.
 

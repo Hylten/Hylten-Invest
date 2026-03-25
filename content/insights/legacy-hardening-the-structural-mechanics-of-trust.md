@@ -1,9 +1,6 @@
 ---
-title: "Legacy Hardening: The Structural Mechanics of Trust"
-description: "A high‑end exploration of liquidity, private credit, and asset-based liquidity engineering for long-term capital stewards seeking structural durability."
-date: "2025-11-11" author: "Hyltén Invest"
-slug: "legacy-hardening-the-structural-mechanics-of-trust"
 ---
+title: "Legacy Hardening: The Structural Mechanics of Trust" description: "A high‑end exploration of liquidity, private credit, and asset-based liquidity engineering for long-term capital stewards seeking structural durability." date: "2025-11-11" author: "Hyltén Invest" slug: "legacy-hardening-the-structural-mechanics-of-trust"
 
 # Legacy Hardening: The Structural Mechanics of Trust Wealth that endures does not respond to immediacy
 
@@ -279,8 +276,7 @@ It is conservative.
 
 It is intentional.
 
-It is built to last.
-TECHNICAL MANDATE
+It is built to last. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

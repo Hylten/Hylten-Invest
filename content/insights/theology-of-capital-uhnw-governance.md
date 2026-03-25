@@ -1,9 +1,6 @@
 ---
-title: "The Sovereign Theology of Capital"
-description: "A principal-level briefing on Christian stewardship, industrial heritage, and the governance architecture required for generational capital among UHNW families."
-date: "2025-08-24" author: "Hylten-Invest"
-slug: "theology-of-capital-uhnw-governance"
 ---
+title: "The Sovereign Theology of Capital" description: "A principal-level briefing on Christian stewardship, industrial heritage, and the governance architecture required for generational capital among UHNW families." date: "2025-08-24" author: "Hylten-Invest" slug: "theology-of-capital-uhnw-governance"
 
 Capital reveals the household.
 
@@ -11,8 +8,7 @@ Governance reveals the heart.
 
 Stewardship binds both into covenant order. "The earth is the Lord’s, and the fulness thereof."
 
-- Psalm 24:
-1 Private wealth without theology drifts.
+- Psalm 24: 1 Private wealth without theology drifts.
 
 Private markets without moral authority fracture.
 

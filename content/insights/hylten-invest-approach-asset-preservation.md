@@ -1,9 +1,6 @@
 ---
-title: "The Hylten Invest Approach to Asset Preservation: A Framework for Generational Capital Stewardship"
-description: "A technical and institutional analysis of the Hylten Invest doctrine of asset preservation, merging Nordic industrial ethics, balance sheet discipline, and a theology-informed model of capital stewardship for multi generational capital durability."
-date: "2026-02-18" author: "Jonas Hyltén"
-slug: "hylten-invest-approach-asset-preservation"
 ---
+title: "The Hylten Invest Approach to Asset Preservation: A Framework for Generational Capital Stewardship" description: "A technical and institutional analysis of the Hylten Invest doctrine of asset preservation, merging Nordic industrial ethics, balance sheet discipline, and a theology-informed model of capital stewardship for multi generational capital durability." date: "2026-02-18" author: "Jonas Hyltén" slug: "hylten-invest-approach-asset-preservation"
 
 The capital vacuum in Western industrial economies is the predictable outcome of two structural forces moving in opposite directions.
 

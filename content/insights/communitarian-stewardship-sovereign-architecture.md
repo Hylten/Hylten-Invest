@@ -1,9 +1,6 @@
 ---
-title: "The Communitarian Mandate Within Sovereign Stewardship"
-description: "A principal brief on Nordic communitarian doctrine as a structural pillar for generational capital, moral authority, and institutional stewardship within a Christian industrial lineage."
-date: "2026-01-25" author: "Hylten‑Invest"
-slug: "communitarian-stewardship-sovereign-architecture"
 ---
+title: "The Communitarian Mandate Within Sovereign Stewardship" description: "A principal brief on Nordic communitarian doctrine as a structural pillar for generational capital, moral authority, and institutional stewardship within a Christian industrial lineage." date: "2026-01-25" author: "Hylten‑Invest" slug: "communitarian-stewardship-sovereign-architecture"
 
 Nordic communitarianism is not sentiment.
 
@@ -77,8 +74,7 @@ Behaviour.
 
 - Generational capital survives only when duty outruns ambition. "The integrity of the upright shall guide them."
 
-- Proverbs 11:
-3 This is where the Nordic tradition intersects the Christian industrial lineage.
+- Proverbs 11: 3 This is where the Nordic tradition intersects the Christian industrial lineage.
 
 The Protestant ethic forces the hand back to the plough.
 

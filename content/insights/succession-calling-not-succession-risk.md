@@ -1,9 +1,6 @@
 ---
-title: "Succession as Covenant, Not Contingency"
-description: "A principal-level examination of generational transfer, succession conviction, and the moral architecture of Christian stewardship within industrial families."
-date: "2025-11-01" author: "Hylten-Invest"
-slug: "succession-calling-not-succession-risk"
 ---
+title: "Succession as Covenant, Not Contingency" description: "A principal-level examination of generational transfer, succession conviction, and the moral architecture of Christian stewardship within industrial families." date: "2025-11-01" author: "Hylten-Invest" slug: "succession-calling-not-succession-risk"
 
 Succession collapses when treated as risk.
 

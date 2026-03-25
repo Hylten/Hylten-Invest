@@ -1,9 +1,6 @@
 ---
-title: "The Hylten Invest Architecture for UHNW Families: A Discipline of Silent Liquidity"
-description: "A high-end exploration of Hylten Invest’s liquidity architecture for UHNW families, focused on private credit, asset-based liquidity engineering, and long-term stewardship."
-date: "2026-03-13" author: "Hyltén Invest"
-slug: "the-hylten-invest-architecture-for-uhnw-families-a-discipline-of-silent-liquidity"
 ---
+title: "The Hylten Invest Architecture for UHNW Families: A Discipline of Silent Liquidity" description: "A high-end exploration of Hylten Invest’s liquidity architecture for UHNW families, focused on private credit, asset-based liquidity engineering, and long-term stewardship." date: "2026-03-13" author: "Hyltén Invest" slug: "the-hylten-invest-architecture-for-uhnw-families-a-discipline-of-silent-liquidity"
 
 # The Hylten Invest Architecture for UHNW Families We begin with a principle
 
@@ -35,8 +32,7 @@ Our stance is conservative.
 
 Our presence is discreet.
 
-Our mandate is generational.
-TECHNICAL MANDATE
+Our mandate is generational. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

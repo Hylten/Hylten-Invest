@@ -1,9 +1,6 @@
 ---
-title: "The Structural Mechanics of Multi Generational Liquidity in an Age of Capital Fragmentation"
-description: "An institutional briefing on the technical, moral, and operational architecture required to engineer durable, multi generational liquidity across European and North American capital regimes."
-date: "2025-10-28" author: "Jonas Hyltén"
-slug: "mechanics-of-multi-generational-liquidity"
 ---
+title: "The Structural Mechanics of Multi Generational Liquidity in an Age of Capital Fragmentation" description: "An institutional briefing on the technical, moral, and operational architecture required to engineer durable, multi generational liquidity across European and North American capital regimes." date: "2025-10-28" author: "Jonas Hyltén" slug: "mechanics-of-multi-generational-liquidity"
 
 The capital vacuum in developed markets is a structural consequence of regulatory drift, demographic contraction, and the erosion of industrial competence.
 

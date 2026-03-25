@@ -1,9 +1,6 @@
 ---
-title: "Conservative Asset-Based Lending for UHNW Capital Migration"
-description: "A high end analysis of conservative asset based liquidity engineering and private credit structures for UHNW liquidity without asset displacement."
-date: "2026-02-15" author: "Hyltén Invest"
-slug: "conservative-abl-for-uhnw-capital-migration"
 ---
+title: "Conservative Asset-Based Lending for UHNW Capital Migration" description: "A high end analysis of conservative asset based liquidity engineering and private credit structures for UHNW liquidity without asset displacement." date: "2026-02-15" author: "Hyltén Invest" slug: "conservative-abl-for-uhnw-capital-migration"
 
 # Conservative Asset-Based Lending for UHNW Capital Migration Wealth that endures is rarely loud
 
@@ -43,8 +40,7 @@ This is stewardship rather than transaction.
 
 This is conservation rather than consumption.
 
-This is the long view.
-TECHNICAL MANDATE
+This is the long view. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

@@ -1,9 +1,6 @@
 ---
-title: "Moral Authority Key Man Risk"
-description: "Moral Authority Key Man Risk | Institutional Briefing by Hylten-Invest"
-date: "2026-03-20" author: "Hylten Invest"
-slug: "moral-authority-key-man-risk"
 ---
+title: "Moral Authority Key Man Risk" description: "Moral Authority Key Man Risk | Institutional Briefing by Hylten-Invest" date: "2026-03-20" author: "Hylten Invest" slug: "moral-authority-key-man-risk"
 
 title: "The Principal Doctrine: Moral Authority as the Sovereign Mitigator of Key‑Man Risk" description: "A high‑density institutional analysis of how moral authority, covenantal stewardship, and Christian industrial heritage dissolve founder‑concentration risk in long‑horizon investment platforms." date: "2025-07-24" author: "Hylten‑Invest" slug: "moral-authority-key-man-risk"
 

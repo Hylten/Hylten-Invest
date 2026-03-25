@@ -1,9 +1,6 @@
 ---
-title: "The Gnosjö Spirit as a Corrective Framework to Wall Street Fragility: Order, Moral Obligation, and Global Asset Stewardship"
-description: "An institutional analysis of Nordic industrial ethos as a stabilizing architecture for global capital formation, with emphasis on stewardship, operational order, and principled balance sheet governance."
-date: "2025-11-17" author: "Hyltén Invest"
-slug: "gnosjo-spirit-global-asset-stewardship"
 ---
+title: "The Gnosjö Spirit as a Corrective Framework to Wall Street Fragility: Order, Moral Obligation, and Global Asset Stewardship" description: "An institutional analysis of Nordic industrial ethos as a stabilizing architecture for global capital formation, with emphasis on stewardship, operational order, and principled balance sheet governance." date: "2025-11-17" author: "Hyltén Invest" slug: "gnosjo-spirit-global-asset-stewardship"
 
 The structural gap in global capital markets is not driven by a shortage of liquidity, but by a shortage of moral architecture.
 

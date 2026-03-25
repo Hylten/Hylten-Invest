@@ -1,9 +1,6 @@
 ---
-title: "The Forge That Outlives the Founder"
-description: "A principal-level briefing on generational capital formation within Christian industrial lineages, anchored in stewardship, covenantal responsibility, and the sovereign architecture of family enterprise."
-date: "2025-11-14" author: "Hylten-Invest"
-slug: "generational-capital-christian-industrial-families"
 ---
+title: "The Forge That Outlives the Founder" description: "A principal-level briefing on generational capital formation within Christian industrial lineages, anchored in stewardship, covenantal responsibility, and the sovereign architecture of family enterprise." date: "2025-11-14" author: "Hylten-Invest" slug: "generational-capital-christian-industrial-families"
 
 Internal briefing.
 

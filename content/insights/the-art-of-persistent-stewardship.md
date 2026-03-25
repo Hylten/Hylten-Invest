@@ -1,9 +1,6 @@
 ---
-title: "The Art of Persistent Stewardship: Institutional Discipline, Capital Theology, and the Nordic Industrial Mandate"
-description: "A high-density institutional briefing examining the structural mechanics of stewardship as a capital doctrine, the Nordic industrial legacy of disciplined resource management, and its relevance for allocators navigating global inefficiencies, with strategic alignment pathways through Roials Capital and NAEO."
-date: "2025-08-09" author: "Jonas Hyltén"
-slug: "the-art-of-persistent-stewardship"
 ---
+title: "The Art of Persistent Stewardship: Institutional Discipline, Capital Theology, and the Nordic Industrial Mandate" description: "A high-density institutional briefing examining the structural mechanics of stewardship as a capital doctrine, the Nordic industrial legacy of disciplined resource management, and its relevance for allocators navigating global inefficiencies, with strategic alignment pathways through Roials Capital and NAEO." date: "2025-08-09" author: "Jonas Hyltén" slug: "the-art-of-persistent-stewardship"
 
 Structural Gap: The absence of persistent stewardship in modern capital formation is the primary driver of global inefficiencies.
 

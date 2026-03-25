@@ -1,9 +1,6 @@
 ---
-title: "The Theology Of Capital: Wealth As A Sacred Trust"
-description: "The Theology Of Capital: Wealth As A Sacred Trust"
-date: "2025-11-21" author: "Hyltén Invest"
-slug: "the-theology-of-capital-wealth-as-a-sacred-trust"
 ---
+title: "The Theology Of Capital: Wealth As A Sacred Trust" description: "The Theology Of Capital: Wealth As A Sacred Trust" date: "2025-11-21" author: "Hyltén Invest" slug: "the-theology-of-capital-wealth-as-a-sacred-trust"
 
 # The Theology of Capital Wealth as a Sacred Trust Capital is not neutral
 
@@ -47,8 +44,7 @@ But as a custodian of the capital entrusted to him by Providence.
 
 Capital Under Covenant Psalm 24
 
-:
-1 “The earth is the Lord’s.
+: 1 “The earth is the Lord’s.
 
 And all it contains.” The origin of capital is divine ownership.
 

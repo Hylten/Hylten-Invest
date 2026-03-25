@@ -1,9 +1,6 @@
 ---
-title: "Strategic Alignment for Multi‑Generational Offices"
-description: "A deep analysis of strategic alignment for multi generational offices, with emphasis on liquidity, private credit, and asset based liquidity engineering solutions."
-date: "2025-12-23" author: "Hyltén Invest"
-slug: "strategic-alignment-for-multigenerational-offices"
 ---
+title: "Strategic Alignment for Multi‑Generational Offices" description: "A deep analysis of strategic alignment for multi generational offices, with emphasis on liquidity, private credit, and asset based liquidity engineering solutions." date: "2025-12-23" author: "Hyltén Invest" slug: "strategic-alignment-for-multigenerational-offices"
 
 # Strategic Alignment for Multi‑Generational Offices Long term continuity begins with structural clarity
 
@@ -299,8 +296,7 @@ Our principal authority reflects a core principle.
 
 Power is not declared.
 
-Power is engineered.
-TECHNICAL MANDATE
+Power is engineered. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

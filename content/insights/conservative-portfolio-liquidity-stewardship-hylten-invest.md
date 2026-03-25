@@ -1,9 +1,6 @@
 ---
-title: "The Conservative Architecture of Portfolio Liquidity for Long‑Horizon Stewards of Capital"
-description: "A principal-level brief on conservative liquidity engineering, institutional durability, and generational capital design for long-term private credit and real-asset allocators."
-date: "2026-03-02" author: "Jonas Hyltén — Hylten‑Invest"
-slug: "conservative-portfolio-liquidity-stewardship-hylten-invest"
 ---
+title: "The Conservative Architecture of Portfolio Liquidity for Long‑Horizon Stewards of Capital" description: "A principal-level brief on conservative liquidity engineering, institutional durability, and generational capital design for long-term private credit and real-asset allocators." date: "2026-03-02" author: "Jonas Hyltén — Hylten‑Invest" slug: "conservative-portfolio-liquidity-stewardship-hylten-invest"
 
 The architecture of liquidity defines the architecture of power.
 
@@ -59,8 +56,7 @@ As a living reflection of the household’s theology of capital.
 
 This brief outlines that architecture.
 
-It moves from structural liquidity design to jurisdictional arbitrage to hard-asset cash engines to Fund-III design logic to intergenerational transmission.
-No fillers. No summaries. Only conviction. Liquidity first. Returns second.
+It moves from structural liquidity design to jurisdictional arbitrage to hard-asset cash engines to Fund-III design logic to intergenerational transmission. No fillers. No summaries. Only conviction. Liquidity first. Returns second.
 
 Survival always.
 
@@ -220,11 +216,9 @@ Tier 3 Secondary liquidity rights, GP-led continuation vehicles, conservative re
 
 Tier 4 Anything that requires goodwill, narrative compression, or beta.
 
-The steward allocates to Tier
-1 and Tier 2.
+The steward allocates to Tier 1 and Tier 2.
 
-He occasionally deploys into Tier
-3 if the counterparty architecture is sound.
+He occasionally deploys into Tier 3 if the counterparty architecture is sound.
 
 Tier 4 is avoided unless the family is engaging in strategic positioning or next-generation skill development.
 

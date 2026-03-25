@@ -1,9 +1,6 @@
 ---
-title: "Multi Generational Stewardship and the Institutional Discipline of Capital Formation"
-description: "Strategic memorandum on the structural function of stewardship, intergenerational capital mechanics, and the operational doctrine underpinning long-horizon industrial families across Europe and North America."
-date: "2025-08-30" author: "Jonas Hyltén"
-slug: "multi-generational-stewardship-capital-doctrine"
 ---
+title: "Multi Generational Stewardship and the Institutional Discipline of Capital Formation" description: "Strategic memorandum on the structural function of stewardship, intergenerational capital mechanics, and the operational doctrine underpinning long-horizon industrial families across Europe and North America." date: "2025-08-30" author: "Jonas Hyltén" slug: "multi-generational-stewardship-capital-doctrine"
 
 The capital vacuum in mature Western markets is not a consequence of resource scarcity.
 

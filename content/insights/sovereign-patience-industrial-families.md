@@ -1,9 +1,6 @@
 ---
-title: "The Sovereign Patience of Industrial Families"
-description: "A principal-level briefing on the compounding moral, strategic, and structural advantages observed in long-horizon industrial families who anchor their governance in duty, stewardship, and Christian discipline."
-date: "2025-10-24" author: "Hylten-Invest"
-slug: "sovereign-patience-industrial-families"
 ---
+title: "The Sovereign Patience of Industrial Families" description: "A principal-level briefing on the compounding moral, strategic, and structural advantages observed in long-horizon industrial families who anchor their governance in duty, stewardship, and Christian discipline." date: "2025-10-24" author: "Hylten-Invest" slug: "sovereign-patience-industrial-families"
 
 The families who endure understand something simple.
 
@@ -129,8 +126,7 @@ It is strategic mechanics. "Blessed is the man that feareth the Lord, that delig
 
 His seed shall be mighty upon earth."
 
-- Psalm 112:
-1
+- Psalm 112: 1
 
 - 2 Governance Mechanics of the Hundred-Year Balance Sheet You wanted depth.
 

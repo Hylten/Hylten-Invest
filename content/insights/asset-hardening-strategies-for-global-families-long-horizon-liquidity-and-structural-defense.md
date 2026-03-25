@@ -1,9 +1,6 @@
 ---
-title: "Asset Hardening Strategies for Global Families: Long Horizon Liquidity and Structural Defense"
-description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI families seeking long term resilience through institutional grade structures."
-date: "2025-08-03" author: "Hyltén Invest"
-slug: "asset-hardening-strategies-for-global-families-long-horizon-liquidity-and-structural-defense"
 ---
+title: "Asset Hardening Strategies for Global Families: Long Horizon Liquidity and Structural Defense" description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI families seeking long term resilience through institutional grade structures." date: "2025-08-03" author: "Hyltén Invest" slug: "asset-hardening-strategies-for-global-families-long-horizon-liquidity-and-structural-defense"
 
 # Asset Hardening Strategies for Global Families Global families operate within a landscape defined by complexity, cross border exposure, and the need for quietly fortified balance sheets
 
@@ -155,8 +152,7 @@ It is the transition from exposed capital to protected capital.
 
 From passive ownership to structural control.
 
-Hylten Invest stands as a partner for families that seek this transition with quiet authority and institutional discipline.
-TECHNICAL MANDATE
+Hylten Invest stands as a partner for families that seek this transition with quiet authority and institutional discipline. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

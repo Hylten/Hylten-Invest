@@ -1,9 +1,6 @@
 ---
-title: "The Industrial Mandate: Christian Values In Capita"
-description: "The Industrial Mandate: Christian Values In Capita"
-date: "2025-08-10" author: "Hyltén Invest"
-slug: "the-industrial-mandate-christian-values-in-capita"
 ---
+title: "The Industrial Mandate: Christian Values In Capita" description: "The Industrial Mandate: Christian Values In Capita" date: "2025-08-10" author: "Hyltén Invest" slug: "the-industrial-mandate-christian-values-in-capita"
 
 # The Industrial Mandate
 
@@ -485,8 +482,7 @@ This is the Christian conservative tradition of business.
 
 This is the Spirit of Gnosjö.
 
-This is the logic that built Sweden’s most resilient enterprises.
-TECHNICAL MANDATE
+This is the logic that built Sweden’s most resilient enterprises. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

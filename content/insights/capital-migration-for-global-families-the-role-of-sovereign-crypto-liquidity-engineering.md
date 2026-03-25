@@ -1,9 +1,6 @@
 ---
-title: "Capital Migration for Global Families: The Role of Sovereign Crypto liquidity engineering"
-description: "A high-level exploration of liquidity creation through private credit and asset based Capital Structuring for global families seeking structural mobility."
-date: "2025-12-06" author: "Hyltén Invest"
-slug: "capital-migration-for-global-families-the-role-of-sovereign-crypto-liquidity-engineering"
 ---
+title: "Capital Migration for Global Families: The Role of Sovereign Crypto liquidity engineering" description: "A high-level exploration of liquidity creation through private credit and asset based Capital Structuring for global families seeking structural mobility." date: "2025-12-06" author: "Hyltén Invest" slug: "capital-migration-for-global-families-the-role-of-sovereign-crypto-liquidity-engineering"
 
 # Capital Migration for Global Families: The Role of Sovereign Crypto Capital Structuring Global families move differently than conventional investors
 

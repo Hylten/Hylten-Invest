@@ -1,9 +1,6 @@
 ---
-title: "The Gnosjö Imprint on Modern Private Equity"
-description: "How the Spirit of Gnosjö reshapes emerging PE operating models through covenantal stewardship, industrial discipline, and generational capital."
-date: "2025-07-19" author: "Hylten-Invest"
-slug: "gnosjo-imprint-private-equity"
 ---
+title: "The Gnosjö Imprint on Modern Private Equity" description: "How the Spirit of Gnosjö reshapes emerging PE operating models through covenantal stewardship, industrial discipline, and generational capital." date: "2025-07-19" author: "Hylten-Invest" slug: "gnosjo-imprint-private-equity"
 
 The forge precedes the fund.
 
@@ -85,8 +82,7 @@ A design built for the children’s children.
 
 This is where enduring free enterprise stands firm against entropy. "Through wisdom is an house builded; and by understanding it is established."
 
-- Proverbs 24:
-3 The next evolution of private equity-Fund-III structures, industrial platforms, consolidation plays-quietly shifts toward this older logic: Solve real problems.
+- Proverbs 24: 3 The next evolution of private equity-Fund-III structures, industrial platforms, consolidation plays-quietly shifts toward this older logic: Solve real problems.
 
 Honor real work.
 
@@ -112,8 +108,7 @@ Virtue first.
 
 Then capital flows. "The integrity of the upright shall guide them."
 
-- Proverbs 11:
-3 Access is restricted to approved mandates.
+- Proverbs 11: 3 Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 

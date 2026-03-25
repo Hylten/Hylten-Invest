@@ -1,9 +1,6 @@
 ---
-title: "Stewardship in a Volatile Private Credit Market"
-description: "Institutional briefing on stewardship as a capital discipline within volatile private credit regimes, integrating Nordic industrial traditions, liquidity engineering frameworks, and allocator calibration models."
-date: "2026-01-26" author: "Jonas Hyltén"
-slug: "stewardship-in-volatile-private-credit"
 ---
+title: "Stewardship in a Volatile Private Credit Market" description: "Institutional briefing on stewardship as a capital discipline within volatile private credit regimes, integrating Nordic industrial traditions, liquidity engineering frameworks, and allocator calibration models." date: "2026-01-26" author: "Jonas Hyltén" slug: "stewardship-in-volatile-private-credit"
 
 The current private credit landscape continues to be defined by a structural gap rather than a cyclical aberration.
 

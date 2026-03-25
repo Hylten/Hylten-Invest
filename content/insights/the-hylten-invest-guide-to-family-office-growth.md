@@ -1,9 +1,6 @@
 ---
-title: "The Hylten Invest Guide to Family Office Growth"
-description: "A strategic guide to liquidity, private credit, and asset based liquidity engineering designed for family offices seeking long term structural stability."
-date: "2025-12-13" author: "Hyltén Invest"
-slug: "the-hylten-invest-guide-to-family-office-growth"
 ---
+title: "The Hylten Invest Guide to Family Office Growth" description: "A strategic guide to liquidity, private credit, and asset based liquidity engineering designed for family offices seeking long term structural stability." date: "2025-12-13" author: "Hyltén Invest" slug: "the-hylten-invest-guide-to-family-office-growth"
 
 # The Hylten Invest Guide to Family Office Growth Family offices grow quietly
 

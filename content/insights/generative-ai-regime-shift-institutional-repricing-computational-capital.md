@@ -1,9 +1,6 @@
 ---
-title: "The Generative AI Regime Shift and the Institutional Repricing of Computational Capital"
-description: "A clinical institutional briefing on the structural mechanics, capital inefficiencies, and stewardship framework governing next cycle generative AI investment flows, written for allocators requiring operational intelligence rather than thematic narratives."
-date: "2025-10-27" author: "Jonas Hyltén"
-slug: "generative-ai-regime-shift-institutional-repricing-computational-capital"
 ---
+title: "The Generative AI Regime Shift and the Institutional Repricing of Computational Capital" description: "A clinical institutional briefing on the structural mechanics, capital inefficiencies, and stewardship framework governing next cycle generative AI investment flows, written for allocators requiring operational intelligence rather than thematic narratives." date: "2025-10-27" author: "Jonas Hyltén" slug: "generative-ai-regime-shift-institutional-repricing-computational-capital"
 
 The capital vacuum surrounding generative AI is the predictable result of infrastructural constraint rather than  abundance.
 

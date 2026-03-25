@@ -1,9 +1,6 @@
 ---
-title: "Principal Stewardship Mandates for Long Duration Assets"
-description: "Principal Stewardship Mandates for Long Duration Assets | Institutional Briefing by Hylten-Invest"
-date: "2026-03-20" author: "Hylten Invest"
-slug: "principal-stewardship-mandates-for-long-duration-assets"
 ---
+title: "Principal Stewardship Mandates for Long Duration Assets" description: "Principal Stewardship Mandates for Long Duration Assets | Institutional Briefing by Hylten-Invest" date: "2026-03-20" author: "Hylten Invest" slug: "principal-stewardship-mandates-for-long-duration-assets"
 
 # Principal Stewardship Mandates for Long Duration Assets Using The Fiduciary Razor Technique INTRODUCTIO
 
@@ -309,8 +306,7 @@ Every mandate is customised to the specific needs of the principal.
 
 Every decision is filtered through The Fiduciary Razor.
 
-The result is a disciplined and resilient architecture for generational capital.
-TECHNICAL MANDATE
+The result is a disciplined and resilient architecture for generational capital. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

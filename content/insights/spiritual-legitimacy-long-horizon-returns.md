@@ -1,9 +1,6 @@
 ---
-title: "The Silent Variable That Decides the Horizon"
-description: "A principal-level examination of spiritual legitimacy as a determinant of multi‑generational return stability within Christian industrial heritage and covenant-driven capital formation."
-date: "2025-09-29" author: "Hylten-Invest"
-slug: "spiritual-legitimacy-long-horizon-returns"
 ---
+title: "The Silent Variable That Decides the Horizon" description: "A principal-level examination of spiritual legitimacy as a determinant of multi‑generational return stability within Christian industrial heritage and covenant-driven capital formation." date: "2025-09-29" author: "Hylten-Invest" slug: "spiritual-legitimacy-long-horizon-returns"
 
 The long horizon is merciless.
 
@@ -37,8 +34,7 @@ Capital as duty before God.
 
 They built firms that held shape for generations because the soul of the firm was not for sale. "Except the Lord build the house, they labour in vain that build it."
 
-- Psalm 127:
-1 A principal does not gamble on foundations that shift.
+- Psalm 127: 1 A principal does not gamble on foundations that shift.
 
 A principal selects ground with moral density.
 

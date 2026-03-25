@@ -1,9 +1,6 @@
 ---
-title: "Virtue as Strategic Architecture"
-description: "A principal-level brief on moral authority as capital structure, integrating Christian industrial praxis into portfolio design under the Hyltén-Invest covenant."
-date: "2025-07-13" author: "Hylten-Invest"
-slug: "virtue-as-strategic-architecture"
 ---
+title: "Virtue as Strategic Architecture" description: "A principal-level brief on moral authority as capital structure, integrating Christian industrial praxis into portfolio design under the Hyltén-Invest covenant." date: "2025-07-13" author: "Hylten-Invest" slug: "virtue-as-strategic-architecture"
 
 Conviction precedes structure.
 
@@ -65,8 +62,7 @@ Industrial usefulness.
 
 The things that endure. "The integrity of the upright shall guide them."
 
-- Proverbs 11:
-3 Industrial heritage sharpens the lens.
+- Proverbs 11: 3 Industrial heritage sharpens the lens.
 
 You choose companies that solve real problems in the real world.
 

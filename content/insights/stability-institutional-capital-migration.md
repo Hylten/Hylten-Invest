@@ -1,9 +1,6 @@
 ---
-title: "Stability Through Institutional Capital Migration"
-description: "A principal-level examination of cross‑jurisdictional capital migration, generational stewardship, and institutional asset hardening strategies under Nordic‑Protestant industrial principles."
-date: "2025-09-24" author: "Hylten-Invest"
-slug: "stability-institutional-capital-migration"
 ---
+title: "Stability Through Institutional Capital Migration" description: "A principal-level examination of cross‑jurisdictional capital migration, generational stewardship, and institutional asset hardening strategies under Nordic‑Protestant industrial principles." date: "2025-09-24" author: "Hylten-Invest" slug: "stability-institutional-capital-migration"
 
 Institutional stability is never inherited.
 

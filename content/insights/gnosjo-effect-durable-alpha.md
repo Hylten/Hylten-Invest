@@ -1,9 +1,6 @@
 ---
-title: "The Sovereign Threadwork of Gnosjö"
-description: "Industrial kinship networks, Protestant stewardship, and the covenant mechanics that generate durable, non-speculative alpha across micro‑industrial clusters."
-date: "2025-09-12" author: "Hylten-Invest"
-slug: "gnosjo-effect-durable-alpha"
 ---
+title: "The Sovereign Threadwork of Gnosjö" description: "Industrial kinship networks, Protestant stewardship, and the covenant mechanics that generate durable, non-speculative alpha across micro‑industrial clusters." date: "2025-09-12" author: "Hylten-Invest" slug: "gnosjo-effect-durable-alpha"
 
 The Gnosjö network is not a mystery.
 
@@ -127,8 +124,7 @@ Guard the craft.
 
 Guard the legacy. "The integrity of the upright shall guide them."
 
-- Proverbs 11:
-3 Access is restricted to approved mandates.
+- Proverbs 11: 3 Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 

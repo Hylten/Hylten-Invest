@@ -1,9 +1,6 @@
 ---
-title: "Sovereign Capital Architecture and the Long-Horizon Protection of Assets"
-description: "A high-end analysis on liquidity structuring, private credit, and asset-based liquidity engineering for HNWI and UHNW investors seeking durable protection of capital."
-date: "2026-02-19" author: "Hyltén Invest"
-slug: "sovereign-capital-architecture-and-the-long-horizon-protection-of-assets"
 ---
+title: "Sovereign Capital Architecture and the Long-Horizon Protection of Assets" description: "A high-end analysis on liquidity structuring, private credit, and asset-based liquidity engineering for HNWI and UHNW investors seeking durable protection of capital." date: "2026-02-19" author: "Hyltén Invest" slug: "sovereign-capital-architecture-and-the-long-horizon-protection-of-assets"
 
 # Sovereign Capital and the Protection of Assets The concept of sovereign capital is not defined by geography, government, or public mandate
 
@@ -297,8 +294,7 @@ It strengthens protections where necessary.
 
 It operates with minimalist precision.
 
-The objective is simple, keep assets intact, keep liquidity available, and keep families in absolute control of their capital.
-TECHNICAL MANDATE
+The objective is simple, keep assets intact, keep liquidity available, and keep families in absolute control of their capital. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

@@ -1,9 +1,6 @@
 ---
-title: "Strategic Liquidity Architecture for UHNW Families in Volatile Markets"
-description: "A high‑end overview of how UHNW families protect liquidity through private credit and asset based liquidity engineering structures."
-date: "2026-03-06" author: "Hyltén Invest"
-slug: "strategic-liquidity-architecture-for-uhnw-families-in-volatile-markets"
 ---
+title: "Strategic Liquidity Architecture for UHNW Families in Volatile Markets" description: "A high‑end overview of how UHNW families protect liquidity through private credit and asset based liquidity engineering structures." date: "2026-03-06" author: "Hyltén Invest" slug: "strategic-liquidity-architecture-for-uhnw-families-in-volatile-markets"
 
 # Protecting UHNW Families from Market Volatility A Structural Approach to Liquidity Stewardship Ultra wealthy families think in terms of cycles
 

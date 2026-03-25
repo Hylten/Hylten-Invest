@@ -1,9 +1,6 @@
 ---
-title: "The Protestant Ethic and the Architecture of Enduring Capital"
-description: "A principal-level brief on why discipline, work, and covenantal stewardship outperform financial engineering in every generation."
-date: "2025-12-20" author: "Hylten‑Invest"
-slug: "protestant-ethic-modern-capital-enduring-stewardship"
 ---
+title: "The Protestant Ethic and the Architecture of Enduring Capital" description: "A principal-level brief on why discipline, work, and covenantal stewardship outperform financial engineering in every generation." date: "2025-12-20" author: "Hylten‑Invest" slug: "protestant-ethic-modern-capital-enduring-stewardship"
 
 Hard work compounds.
 

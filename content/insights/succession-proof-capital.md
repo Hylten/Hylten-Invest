@@ -1,9 +1,6 @@
 ---
-title: "Succession Proof Capital"
-description: "Succession Proof Capital | Institutional Briefing by Hylten-Invest"
-date: "2026-03-20" author: "Hylten Invest"
-slug: "succession-proof-capital"
 ---
+title: "Succession Proof Capital" description: "Succession Proof Capital | Institutional Briefing by Hylten-Invest" date: "2026-03-20" author: "Hylten Invest" slug: "succession-proof-capital"
 
 title: "Succession‑Proof Capital" description: "A principled architectural analysis of multi‑generational enterprise stewardship, values preservation, and covenantal capital design." date: "2025-10-05" author: "Hylten-Invest" slug: "succession-proof-capital"
 
@@ -99,8 +96,7 @@ Their freedom is constrained by the inherited covenant.
 
 This is not limitation; it is protection. "Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen."
 
-- Deuteronomy 4:
-9 A family that forgets loses the enterprise.
+- Deuteronomy 4: 9 A family that forgets loses the enterprise.
 
 A family that remembers multiplies it.
 
@@ -212,8 +208,7 @@ They prioritize integrity over convenience.
 
 They sacrifice ego for generational stability. "Moreover it is required in stewards, that a man be found faithful."
 
-- 1 Corinthians 4:
-2 Faithfulness is the benchmark.
+- 1 Corinthians 4: 2 Faithfulness is the benchmark.
 
 Not wealth.
 

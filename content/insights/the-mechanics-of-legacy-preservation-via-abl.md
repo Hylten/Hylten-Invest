@@ -1,9 +1,6 @@
 ---
-title: "The Mechanics of Legacy Preservation via Asset-Based Lending"
-description: "An in depth exploration of how Asset Based liquidity engineering and private credit provide liquidity, stability, and long term legacy preservation for HNWI and UHNW families."
-date: "2026-02-26" author: "Hyltén Invest"
-slug: "the-mechanics-of-legacy-preservation-via-abl"
 ---
+title: "The Mechanics of Legacy Preservation via Asset-Based Lending" description: "An in depth exploration of how Asset Based liquidity engineering and private credit provide liquidity, stability, and long term legacy preservation for HNWI and UHNW families." date: "2026-02-26" author: "Hyltén Invest" slug: "the-mechanics-of-legacy-preservation-via-abl"
 
 # The Mechanics of Legacy Preservation via Asset-Based Lending Legacy is a structural concept
 

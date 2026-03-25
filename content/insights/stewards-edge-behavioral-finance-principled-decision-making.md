@@ -1,9 +1,6 @@
 ---
-title: "The Steward’s Edge: Behavioral Finance for Principled Decision-Making"
-description: "A deep architectural analysis of stewardship psychology, Christian industrial legacy, and the behavioral foundations of moral capital formation within the Hylten-Invest lineage."
-date: "2026-03-16" author: "Hylten-Invest"
-slug: "stewards-edge-behavioral-finance-principled-decision-making"
 ---
+title: "The Steward’s Edge: Behavioral Finance for Principled Decision-Making" description: "A deep architectural analysis of stewardship psychology, Christian industrial legacy, and the behavioral foundations of moral capital formation within the Hylten-Invest lineage." date: "2026-03-16" author: "Hylten-Invest" slug: "stewards-edge-behavioral-finance-principled-decision-making"
 
 Behavior shapes capital.
 

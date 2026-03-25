@@ -1,9 +1,6 @@
 ---
-title: "Sovereign Capital Architecture and the Long Horizon Protection of Assets"
-description: "An institutional briefing on the structural discipline of sovereign capital architecture, the stewardship mandate, and long-horizon asset protection frameworks as applied to generational capital, private industrial wealth, and energy anchored hard-asset portfolios."
-date: "2026-02-10" author: "Jonas Hyltén"
-slug: "sovereign-capital-architecture-long-horizon-asset-protection"
 ---
+title: "Sovereign Capital Architecture and the Long Horizon Protection of Assets" description: "An institutional briefing on the structural discipline of sovereign capital architecture, the stewardship mandate, and long-horizon asset protection frameworks as applied to generational capital, private industrial wealth, and energy anchored hard-asset portfolios." date: "2026-02-10" author: "Jonas Hyltén" slug: "sovereign-capital-architecture-long-horizon-asset-protection"
 
 The capital vacuum inside Western economies is a function of allocation misalignment rather than resource scarcity.
 

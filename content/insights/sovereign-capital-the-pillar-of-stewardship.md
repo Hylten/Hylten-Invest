@@ -1,9 +1,6 @@
 ---
-title: "Sovereign Capital: The Pillar of Stewardship"
-description: "A high‑end exploration of long‑term liquidity architecture, private credit, and asset-based liquidity engineering for HNWI and UHNW capital stewards."
-date: "2026-01-25" author: "Hyltén Invest"
-slug: "sovereign-capital-the-pillar-of-stewardship"
 ---
+title: "Sovereign Capital: The Pillar of Stewardship" description: "A high‑end exploration of long‑term liquidity architecture, private credit, and asset-based liquidity engineering for HNWI and UHNW capital stewards." date: "2026-01-25" author: "Hyltén Invest" slug: "sovereign-capital-the-pillar-of-stewardship"
 
 # Sovereign Capital: The Pillar of Stewardship Sovereign capital carries a silent gravity
 

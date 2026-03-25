@@ -1,9 +1,6 @@
 ---
-title: "Multi Generational Stewardship"
-description: "Insights on Multi Generational Stewardship from Roials Capital and Hyltén Invest."
-date: "2025-11-28" author: "Hyltén Invest"
-slug: "multi-generational-stewardship"
 ---
+title: "Multi Generational Stewardship" description: "Insights on Multi Generational Stewardship from Roials Capital and Hyltén Invest." date: "2025-11-28" author: "Hyltén Invest" slug: "multi-generational-stewardship"
 
 # Multi Generational Stewardship A Hylten Invest Perspectiv e Pillar Three: Intergenerational Alignment The most overlooked element in wealth continuity is not financial.
 
@@ -249,8 +246,7 @@ It is consistent.
 
 It is purpose driven.
 
-This is the style of Hylten Invest.
-TECHNICAL MANDATE
+This is the style of Hylten Invest. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

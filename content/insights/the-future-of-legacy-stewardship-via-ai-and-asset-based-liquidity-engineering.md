@@ -1,9 +1,6 @@
 ---
-title: "The Future of Legacy: Stewardship via AI and Asset Based liquidity engineering"
-description: "High net worth liquidity solutions built on private credit, asset based Institutional Liquidity Paths, and AI enabled stewardship."
-date: "2025-11-11" author: "Hyltén Invest"
-slug: "the-future-of-legacy-stewardship-via-ai-and-asset-based-liquidity-engineering"
 ---
+title: "The Future of Legacy: Stewardship via AI and Asset Based liquidity engineering" description: "High net worth liquidity solutions built on private credit, asset based Institutional Liquidity Paths, and AI enabled stewardship." date: "2025-11-11" author: "Hyltén Invest" slug: "the-future-of-legacy-stewardship-via-ai-and-asset-based-liquidity-engineering"
 
 # The Future of Legacy: Stewardship via AI and Asset-Based Lending Legacy is not inherited
 
@@ -65,8 +62,7 @@ Hyltén Invest provides the structural mechanics that allow this endurance to ta
 
 We build frameworks that minimize noise and maximize optionality.
 
-Through AI supported Asset-Based Lending and private credit Capital Structuring, we create liquidity solutions that align with conservative long term philosophies.
-TECHNICAL MANDATE
+Through AI supported Asset-Based Lending and private credit Capital Structuring, we create liquidity solutions that align with conservative long term philosophies. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

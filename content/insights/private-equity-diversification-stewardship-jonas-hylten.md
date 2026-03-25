@@ -1,9 +1,6 @@
 ---
-title: "Private Equity Diversification and the Institutional Stewardship Mandate"
-description: "Institutional briefing on capital regime shifts, diversification logic, operational intelligence, and the stewardship thesis for multi-cycle private equity allocation."
-date: "2025-11-27" author: "Jonas Hyltén"
-slug: "private-equity-diversification-stewardship-jonas-hylten"
 ---
+title: "Private Equity Diversification and the Institutional Stewardship Mandate" description: "Institutional briefing on capital regime shifts, diversification logic, operational intelligence, and the stewardship thesis for multi-cycle private equity allocation." date: "2025-11-27" author: "Jonas Hyltén" slug: "private-equity-diversification-stewardship-jonas-hylten"
 
 The structural gap that defines private equity diversification in 2026 is a direct consequence of policy driven capital distortion rather than cyclic decline.
 

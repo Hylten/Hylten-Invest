@@ -1,9 +1,6 @@
 ---
-title: "Sovereign Asset Stewardship: The Hylten Framework for 2026"
-description: "A strategic examination of liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW stewardship mandates."
-date: "2026-01-09" author: "Hyltén Invest"
-slug: "sovereign-asset-stewardship-the-hylten-framework-for-2026"
 ---
+title: "Sovereign Asset Stewardship: The Hylten Framework for 2026" description: "A strategic examination of liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW stewardship mandates." date: "2026-01-09" author: "Hyltén Invest" slug: "sovereign-asset-stewardship-the-hylten-framework-for-2026"
 
 # Sovereign Asset Stewardship: The Hylten Framework for 2026 Stewardship for private wealth has entered a new era
 
@@ -119,8 +116,7 @@ We operate as a silent infrastructural partner.
 
 This future belongs to principals who understand one truth: sovereignty is not size.
 
-It is structure.
-TECHNICAL MANDATE
+It is structure. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

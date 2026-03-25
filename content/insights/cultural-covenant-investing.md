@@ -1,9 +1,6 @@
 ---
-title: "The Cultural Covenant as Capital Architecture"
-description: "How shared belief systems reduce friction, compress transaction costs, and anchor morally durable investment structures across generations."
-date: "2025-08-05" author: "Hylten-Invest"
-slug: "cultural-covenant-investing"
 ---
+title: "The Cultural Covenant as Capital Architecture" description: "How shared belief systems reduce friction, compress transaction costs, and anchor morally durable investment structures across generations." date: "2025-08-05" author: "Hylten-Invest" slug: "cultural-covenant-investing"
 
 Covenant first.
 

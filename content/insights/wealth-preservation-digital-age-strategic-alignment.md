@@ -1,9 +1,6 @@
 ---
-title: "Navigating Wealth Preservation in the Digital Age: Strategic Alignment for Generational Capital"
-description: "Institutional briefing on digital age capital preservation, stewardship mechanics, balance sheet discipline, and cross-regime capital navigation for UHNW families and institutional allocators."
-date: "2025-07-07" author: "Jonas Hyltén"
-slug: "wealth-preservation-digital-age-strategic-alignment"
 ---
+title: "Navigating Wealth Preservation in the Digital Age: Strategic Alignment for Generational Capital" description: "Institutional briefing on digital age capital preservation, stewardship mechanics, balance sheet discipline, and cross-regime capital navigation for UHNW families and institutional allocators." date: "2025-07-07" author: "Jonas Hyltén" slug: "wealth-preservation-digital-age-strategic-alignment"
 
 The capital vacuum in the digital age is not driven by technological disruption.
 

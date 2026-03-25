@@ -1,9 +1,6 @@
 ---
-title: "Designing the Resilient Family Office Balance Sheet"
-description: "A high authority exploration of liquidity engineering and asset based [Capital Structuring](https://hylten.github.io/Roials Capital/) for HNWI and UHNW families seeking structural resilience."
-date: "2026-02-27" author: "Hyltén Invest"
-slug: "designing-the-resilient-family-office-balance-sheet"
 ---
+title: "Designing the Resilient Family Office Balance Sheet" description: "A high authority exploration of liquidity engineering and asset based [Capital Structuring](https://hylten.github.io/Roials Capital/) for HNWI and UHNW families seeking structural resilience." date: "2026-02-27" author: "Hyltén Invest" slug: "designing-the-resilient-family-office-balance-sheet"
 
 # Designing the Resilient Family Office Balance Sheet A resilient family office balance sheet is engineered, not inherited
 
@@ -367,8 +364,7 @@ Precise.
 
 Conservative.
 
-This is the infrastructure that families use to steward capital, not just preserve it.
-TECHNICAL MANDATE
+This is the infrastructure that families use to steward capital, not just preserve it. TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

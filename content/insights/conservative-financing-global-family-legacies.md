@@ -1,9 +1,6 @@
 ---
-title: "Conservative Financing for Global Family Legacies: Strategic Alignment for Multi‑Generational Capital Stability"
-description: "Institutional brief on conservative capital engineering for family enterprises, integrating private credit, asset hardening, and inter‑generational liquidity architecture aligned with Christian industrial stewardship principles."
-date: "2026-01-24" author: "Jonas Hyltén"
-slug: "conservative-financing-global-family-legacies"
 ---
+title: "Conservative Financing for Global Family Legacies: Strategic Alignment for Multi‑Generational Capital Stability" description: "Institutional brief on conservative capital engineering for family enterprises, integrating private credit, asset hardening, and inter‑generational liquidity architecture aligned with Christian industrial stewardship principles." date: "2026-01-24" author: "Jonas Hyltén" slug: "conservative-financing-global-family-legacies"
 
 Conservative financing is not a trend.
 

@@ -1,9 +1,6 @@
 ---
-title: "The Sovereign Repricing: Moral Authority as Alpha in the Institutional Markets of 2026"
-description: "A principal-level analysis on why global allocators are elevating ethical stewards, covenant-driven leaders, and Christian-industrial heritage as the highest form of institutional risk mitigation."
-date: "2026-02-04" author: "Hylten-Invest"
-slug: "moral-authority-alpha-2026"
 ---
+title: "The Sovereign Repricing: Moral Authority as Alpha in the Institutional Markets of 2026" description: "A principal-level analysis on why global allocators are elevating ethical stewards, covenant-driven leaders, and Christian-industrial heritage as the highest form of institutional risk mitigation." date: "2026-02-04" author: "Hylten-Invest" slug: "moral-authority-alpha-2026"
 
 The market has shifted.
 
@@ -69,8 +66,7 @@ When the tide receded, what remained were balance sheets with numbers but no fou
 
 The world rediscovered a truth older than the markets: "He that walketh uprightly walketh surely."
 
-- Proverbs 10:
-9 The upright walk surely not because the road is free of obstacles but because their internal architecture absorbs shocks.
+- Proverbs 10: 9 The upright walk surely not because the road is free of obstacles but because their internal architecture absorbs shocks.
 
 Institutional capital, confronted with geopolitical volatility, sovereign debt pressures, and a credit cycle that will not stabilize, is rotating toward this internal architecture.
 

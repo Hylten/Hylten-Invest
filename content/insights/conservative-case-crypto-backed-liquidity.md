@@ -1,9 +1,6 @@
 ---
-title: "The Conservative Case for Crypto Backed Liquidity in Institutional Balance Sheet Strategy"
-description: "An institutional analysis of crypto collateral mechanics, liquidity engineering, and stewardship aligned capital frameworks for allocators evaluating digital asset backed credit structures."
-date: "2025-08-04" author: "Hyltén Invest"
-slug: "conservative-case-crypto-backed-liquidity"
 ---
+title: "The Conservative Case for Crypto Backed Liquidity in Institutional Balance Sheet Strategy" description: "An institutional analysis of crypto collateral mechanics, liquidity engineering, and stewardship aligned capital frameworks for allocators evaluating digital asset backed credit structures." date: "2025-08-04" author: "Hyltén Invest" slug: "conservative-case-crypto-backed-liquidity"
 
 The liquidity displacement observed in global credit markets is a consequence of structural balance sheet contraction, not speculative innovation.
 

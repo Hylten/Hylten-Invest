@@ -1,9 +1,6 @@
 ---
-title: "Family Office Legacy Allocation and the Stewardship Mandate in a Post-Liquidity Cycle Economy"
-description: "Institutional briefing on the stewardship architecture, legacy allocation logic, and cross-generational capital discipline shaping strategic family office deployment frameworks in 2026."
-date: "2025-08-15" author: "Jonas Hyltén"
-slug: "family-office-legacy-allocation-stewardship-architecture"
 ---
+title: "Family Office Legacy Allocation and the Stewardship Mandate in a Post-Liquidity Cycle Economy" description: "Institutional briefing on the stewardship architecture, legacy allocation logic, and cross-generational capital discipline shaping strategic family office deployment frameworks in 2026." date: "2025-08-15" author: "Jonas Hyltén" slug: "family-office-legacy-allocation-stewardship-architecture"
 
 The capital vacuum in North America’s real-asset ecosystem is an outcome of policy friction and institutional retreat, not a deterioration in resource quality.
 
@@ -247,8 +244,7 @@ The Continuity Mandate
 
 - Capital carries identity.
 
-- Proverbs 22:
-1 .
+- Proverbs 22: 1 .
 
 A good name is to be chosen rather than great riches.
 

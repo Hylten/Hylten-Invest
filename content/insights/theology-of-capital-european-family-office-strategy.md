@@ -1,9 +1,6 @@
 ---
-title: "The Theology of Capital and the Return of Moral Authority in European Family Office Strategy"
-description: "A principal-level investigation into faith-rooted investment architecture, stewardship governance, and the rise of moral authority as a competitive asset for European family offices."
-date: "2026-02-11" author: "Hylten-Invest"
-slug: "theology-of-capital-european-family-office-strategy"
 ---
+title: "The Theology of Capital and the Return of Moral Authority in European Family Office Strategy" description: "A principal-level investigation into faith-rooted investment architecture, stewardship governance, and the rise of moral authority as a competitive asset for European family offices." date: "2026-02-11" author: "Hylten-Invest" slug: "theology-of-capital-european-family-office-strategy"
 
 Capital carries a spirit.
 
@@ -217,8 +214,7 @@ Those seeking spectacle will overlook them.
 
 Those seeking substance will find them. "Except the Lord build the house, they labour in vain that build it."
 
-- Psalm 127:
-1 THE NEW FAMILY OFFICE STRATEGY , FAITH AS OPERATING SYSTEM Faith is not a branding exercise.
+- Psalm 127: 1 THE NEW FAMILY OFFICE STRATEGY , FAITH AS OPERATING SYSTEM Faith is not a branding exercise.
 
 Faith is a governance mechanism.
 
@@ -324,8 +320,7 @@ Build it well.
 
 Build it for your children’s children. "The just man walketh in his integrity: his children are blessed after him."
 
-- Proverbs 20:
-7 European families rediscovering this verse are rediscovering their mandate.
+- Proverbs 20: 7 European families rediscovering this verse are rediscovering their mandate.
 
 OPERATIONAL ARCHITECTURE
 

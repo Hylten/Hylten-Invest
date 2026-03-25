@@ -1,9 +1,6 @@
 ---
-title: "The Hylten Invest Model for Asset Hardening and the Institutional Discipline of Stewarded Capital"
-description: "A technical examination of the Hylten Invest asset hardening model, integrating Nordic industrial stewardship, liquidity engineering, and institutional alignment for multi cycle capital durability."
-date: "2025-12-08" author: "Jonas Hyltén"
-slug: "hylten-invest-model-asset-hardening"
 ---
+title: "The Hylten Invest Model for Asset Hardening and the Institutional Discipline of Stewarded Capital" description: "A technical examination of the Hylten Invest asset hardening model, integrating Nordic industrial stewardship, liquidity engineering, and institutional alignment for multi cycle capital durability." date: "2025-12-08" author: "Jonas Hyltén" slug: "hylten-invest-model-asset-hardening"
 
 Structural Gap: The capital vacuum across European mid market industrial assets is a function of balance sheet dilution, fragmented ownership cohorts, and regulatory rigidity.
 
