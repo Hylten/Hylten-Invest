@@ -40,17 +40,17 @@ const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark 
   };
 
   return (
-    <div className="main-content" id="mainContent" style={dark ? { background: '#121212', color: '#e0e0e0' } : {}}>
-      <nav id="navbar" className={scrolled ? 'scrolled' : ''} style={dark ? { background: scrolled ? '#1a1a1a' : 'transparent', borderBottom: '1px solid #2a2a2a' } : {}}>
-        <a href="#" className="logo-nav" style={dark ? { color: '#fff' } : {}}>
+    <div className="main-content" id="mainContent">
+      <nav id="navbar" className={scrolled ? 'scrolled' : ''}>
+        <a href="#" className="logo-nav">
           <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="logo-icon" alt="Logo" />
           HYLTÉN <span>INVEST</span>
         </a>
         <ul className="nav-links">
-          <li><a href="#about" onClick={(e) => scrollToSection(e, '#about')} style={dark ? { color: '#ccc' } : {}}>About</a></li>
-          <li><a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')} style={dark ? { color: '#ccc' } : {}}>Philosophy</a></li>
-          <li><a href="#investments" onClick={(e) => scrollToSection(e, '#investments')} style={dark ? { color: '#ccc' } : {}}>Investments</a></li>
-          <li><a href="https://wa.me/46701619978?text=Regarding%20Hylt%C3%A9n%20Invest:" target="_blank" rel="noopener noreferrer" style={dark ? { color: '#ccc' } : {}}>Contact</a></li>
+          <li><a href="#about" onClick={(e) => scrollToSection(e, '#about')}>About</a></li>
+          <li><a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Philosophy</a></li>
+          <li><a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investments</a></li>
+          <li><a href="https://wa.me/46701619978?text=Regarding%20Hylt%C3%A9n%20Invest:" target="_blank" rel="noopener noreferrer">Contact</a></li>
         </ul>
         {toggleDark && (
           <button
@@ -137,10 +137,10 @@ const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark 
             <h3>Innovation</h3>
             <p>Strategic investments in technology, driving digital transformation and global innovation.</p>
             <div style={{ marginTop: '2rem', display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
-              <a href="https://roialscapital.com/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Roials Capital →</a>
-              <a href="https://hylten.github.io/Pathmakers/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Pathmaker →</a>
-              <a href="https://hylten.github.io/Alpha/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Roials Alpha →</a>
-              <a href="https://hylten.github.io/Venture-Studio/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--invest-accent)', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Hyltén Venture Studio →</a>
+              <a href="https://roialscapital.com/" target="_blank" rel="noopener noreferrer" style={{ color: '#B08D57', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Roials Capital →</a>
+              <a href="https://hylten.github.io/Pathmakers/" target="_blank" rel="noopener noreferrer" style={{ color: '#B08D57', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Pathmaker →</a>
+              <a href="https://hylten.github.io/Alpha/" target="_blank" rel="noopener noreferrer" style={{ color: '#B08D57', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Roials Alpha →</a>
+              <a href="https://hylten.github.io/Venture-Studio/" target="_blank" rel="noopener noreferrer" style={{ color: '#B08D57', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Hyltén Venture Studio →</a>
             </div>
           </div>
         </div>
@@ -189,22 +189,28 @@ const App: React.FC = () => {
   };
 
   useEffect(() => {
-    const preloader = document.getElementById('preloader');
-    if (!preloader) {
-      setLoading(false);
-      return;
-    }
-
     const timer = setTimeout(() => {
       setLoading(false);
-    }, 3600);
+    }, 3000);
     return () => clearTimeout(timer);
   }, []);
 
   useEffect(() => {
     localStorage.setItem('hylten-dark', String(dark));
-    document.body.style.background = dark ? '#121212' : '#fff';
+    if (dark) {
+      document.body.classList.add('dark');
+    } else {
+      document.body.classList.remove('dark');
+    }
   }, [dark]);
+
+  // Sync on mount in case inline script already set the class
+  useEffect(() => {
+    const isDark = localStorage.getItem('hylten-dark') === 'true';
+    if (isDark) {
+      document.body.classList.add('dark');
+    }
+  }, []);
 
   const path = window.location.pathname;
   if (path.includes('/insights')) {
@@ -327,12 +333,12 @@ const App: React.FC = () => {
   return (
     <>
       {loading && (
-        <div className="preloader" id="preloader">
+        <div className="preloader" id="preloader" style={dark ? { background: '#121212' } : {}}>
           <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="logo-img" alt="Hyltén Invest" />
           <div className="loader-text">
-            <h1 className="loader-h1">HYLTÉN <span>INVEST</span></h1>
+            <h1 className="loader-h1" style={dark ? { color: '#e0e0e0' } : {}}>HYLTÉN <span>INVEST</span></h1>
             <div className="line"></div>
-            <p className="loader-subtitle">Est. 2019 • Jönköping</p>
+            <p className="loader-subtitle" style={dark ? { color: '#666' } : {}}>Est. 2019 • Jönköping</p>
           </div>
         </div>
       )}

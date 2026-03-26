@@ -27,6 +27,11 @@
 </head>
 
 <body>
+  <script>
+    if (localStorage.getItem('hylten-dark') === 'true') {
+      document.body.classList.add('dark');
+    }
+  </script>
   <div id="root"></div>
   <script type="module" src="/src/main.tsx"></script>
 </body>

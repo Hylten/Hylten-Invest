@@ -18,6 +18,168 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* Dark Mode - using .dark class on body */
+body.dark {
+  --invest-bg: #121212;
+  --invest-text: #e0e0e0;
+  --invest-accent: #B08D57;
+  --invest-muted: #1a1a1a;
+  --invest-border: rgba(176, 141, 87, 0.25);
+}
+
+/* Override all elements with !important to ensure dark mode works */
+body.dark,
+body.dark .main-content,
+body.dark .hero,
+body.dark .section,
+body.dark .philosophy,
+body.dark .investments {
+  background: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+body.dark .hero h2,
+body.dark .section-title,
+body.dark .philosophy-item h3,
+body.dark .investment-card h3,
+body.dark .heritage-box h3 {
+  color: #e0e0e0 !important;
+}
+
+body.dark .hero-subtitle,
+body.dark .section-subtitle,
+body.dark .philosophy-icon,
+body.dark .tag {
+  color: #B08D57 !important;
+}
+
+body.dark .hero-text,
+body.dark .philosophy-item p,
+body.dark .heritage-box p,
+body.dark .investment-card p {
+  color: #888 !important;
+}
+
+body.dark .about-text {
+  color: #aaa !important;
+}
+
+body.dark .cta-button {
+  color: #e0e0e0 !important;
+  border-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+body.dark .cta-button:hover {
+  background: #e0e0e0 !important;
+  color: #121212 !important;
+  border-color: #e0e0e0 !important;
+}
+
+body.dark .heritage-box {
+  background: #1a1a1a !important;
+  border-top-color: #2a2a2a !important;
+}
+
+body.dark .philosophy {
+  background: #1a1a1a !important;
+}
+
+body.dark .investment-card {
+  border-color: #2a2a2a !important;
+}
+
+body.dark .investment-card:hover {
+  border-color: #B08D57 !important;
+  background: #1a1a1a !important;
+}
+
+body.dark .investment-card a {
+  color: #B08D57 !important;
+}
+
+body.dark nav.scrolled {
+  background: rgba(18, 18, 18, 0.98) !important;
+  border-bottom-color: #2a2a2a !important;
+}
+
+body.dark .logo-nav {
+  color: #fff !important;
+}
+
+body.dark .logo-nav span {
+  color: #B08D57 !important;
+}
+
+body.dark .nav-links a {
+  color: #ccc !important;
+}
+
+body.dark .nav-links a:hover {
+  color: #B08D57 !important;
+}
+
+body.dark footer {
+  background: #0a0a0a !important;
+}
+
+body.dark .preloader {
+  background: #121212 !important;
+}
+
+body.dark .loader-h1 {
+  color: #e0e0e0 !important;
+}
+
+body.dark .loader-subtitle {
+  color: #666 !important;
+}
+
+body.dark .social-icon {
+  color: #666 !important;
+}
+
+body.dark .social-icon:hover {
+  color: #fff !important;
+}
+
+body.dark .copyright {
+  color: #444 !important;
+}
+
+body.dark .footer-links a {
+  color: #666 !important;
+}
+
+body.dark .footer-links a:hover {
+  color: #fff !important;
+}
+
+body.dark .contact-item strong {
+  color: #888 !important;
+}
+
+body.dark .contact-item {
+  color: #ccc !important;
+}
+
+body {
+  margin: 0;
+  background: var(--invest-bg);
+  font-family: 'Inter', sans-serif;
+  color: var(--invest-text);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  margin: 0;
+  background: var(--invest-bg);
+  font-family: 'Inter', sans-serif;
+  color: var(--invest-text);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
 h1,
 h2,
 h3,
@@ -29,7 +191,7 @@ h3,
 .preloader {
   position: fixed;
   inset: 0;
-  background: #FFFFFF;
+  background: var(--invest-bg);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -74,7 +236,7 @@ h3,
   font-size: 1.2rem;
   font-weight: 300;
   letter-spacing: 12px;
-  color: #1A1A1A;
+  color: var(--invest-text);
   margin: 0;
   opacity: 0;
   animation: textFade 0.8s 0.8s forwards;
@@ -133,38 +295,12 @@ h3,
   }
 }
 
-/* Global Centering Fix for Insights */
+/* Global Centering Fix */
 #root,
 #root>div {
-  width: 100% !important;
-  margin: 0 !important;
+  width: 100%;
+  margin: 0;
   padding: 0;
-}
-
-.insights-page-wrapper {
-  width: 100%;
-  background-color: #ffffff !important;
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-}
-
-.insights-page-wrapper a {
-  color: #000000 !important;
-  text-decoration: none !important;
-}
-
-.insights-page-wrapper a:hover {
-  color: #B08D57 !important;
-}
-
-.insights-container {
-  width: 100%;
-  max-width: 1200px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  display: block;
-  background-color: #FFFFFF !important;
 }
 
 /* Nav */
@@ -196,7 +332,7 @@ nav.scrolled {
   font-family: 'Cormorant Garamond', serif;
   font-size: 1.1rem;
   letter-spacing: 4px;
-  color: #1A1A1A;
+  color: var(--invest-text);
   text-transform: uppercase;
   font-weight: 500;
 }
@@ -241,7 +377,7 @@ nav.scrolled {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #FFFFFF;
+  background: var(--invest-bg);
 }
 
 .hero-content {
@@ -274,7 +410,7 @@ nav.scrolled {
   font-weight: 300;
   line-height: 1.1;
   margin-bottom: 2.5rem;
-  color: #1A1A1A;
+  color: var(--invest-text);
   letter-spacing: -0.02em;
 }
 
@@ -305,7 +441,7 @@ nav.scrolled {
 .cta-button {
   padding: 0.8rem 2.5rem;
   border: 1px solid rgba(0, 0, 0, 0.1);
-  color: #1A1A1A;
+  color: var(--invest-text);
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -314,8 +450,8 @@ nav.scrolled {
 }
 
 .cta-button:hover {
-  background: #1A1A1A;
-  color: #FFFFFF;
+  background: var(--invest-text);
+  color: var(--invest-bg);
   border-color: #1A1A1A;
 }
 
@@ -329,7 +465,7 @@ nav.scrolled {
 .section-title {
   font-size: 2.8rem;
   font-weight: 300;
-  color: #1A1A1A;
+  color: var(--invest-text);
   margin-bottom: 2rem;
   line-height: 1.2;
 }
@@ -368,7 +504,7 @@ nav.scrolled {
 .heritage-box h3 {
   font-size: 1.4rem;
   margin-bottom: 1.5rem;
-  color: #1A1A1A;
+  color: var(--invest-text);
   font-weight: 400;
 }
 
@@ -594,6 +730,147 @@ footer {
 .fade-in.visible {
   opacity: 1;
   transform: translateY(0);
+}
+
+/* Dark Mode */
+html[data-theme="dark"] {
+  --invest-bg: #121212;
+  --invest-text: #e0e0e0;
+  --invest-muted: #1a1a1a;
+  --invest-border: rgba(176, 141, 87, 0.25);
+}
+
+html[data-theme="dark"] .main-content,
+html[data-theme="dark"] .hero,
+html[data-theme="dark"] .section,
+html[data-theme="dark"] .philosophy,
+html[data-theme="dark"] .investments {
+  background: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+html[data-theme="dark"] .hero h2,
+html[data-theme="dark"] .section-title,
+html[data-theme="dark"] .philosophy-item h3,
+html[data-theme="dark"] .investment-card h3,
+html[data-theme="dark"] .heritage-box h3 {
+  color: #e0e0e0 !important;
+}
+
+html[data-theme="dark"] .hero-subtitle,
+html[data-theme="dark"] .section-subtitle,
+html[data-theme="dark"] .philosophy-icon,
+html[data-theme="dark"] .tag {
+  color: #B08D57 !important;
+}
+
+html[data-theme="dark"] .hero-text,
+html[data-theme="dark"] .philosophy-item p,
+html[data-theme="dark"] .heritage-box p,
+html[data-theme="dark"] .investment-card p {
+  color: #888 !important;
+}
+
+html[data-theme="dark"] .about-text {
+  color: #aaa !important;
+}
+
+html[data-theme="dark"] .cta-button {
+  color: var(--invest-text) !important;
+  border-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+html[data-theme="dark"] .cta-button:hover {
+  background: var(--invest-text) !important;
+  color: var(--invest-bg) !important;
+  border-color: var(--invest-text) !important;
+}
+
+html[data-theme="dark"] .heritage-box {
+  background: var(--invest-muted) !important;
+  border-top-color: #2a2a2a !important;
+}
+
+html[data-theme="dark"] .philosophy {
+  background: var(--invest-muted) !important;
+}
+
+html[data-theme="dark"] .investment-card {
+  border-color: #2a2a2a !important;
+}
+
+html[data-theme="dark"] .investment-card:hover {
+  border-color: var(--invest-accent) !important;
+  background: var(--invest-muted) !important;
+}
+
+html[data-theme="dark"] .investment-card a {
+  color: var(--invest-accent) !important;
+}
+
+html[data-theme="dark"] nav.scrolled {
+  background: rgba(18, 18, 18, 0.98) !important;
+  border-bottom-color: #2a2a2a !important;
+}
+
+html[data-theme="dark"] .logo-nav {
+  color: #fff !important;
+}
+
+html[data-theme="dark"] .logo-nav span {
+  color: var(--invest-accent) !important;
+}
+
+html[data-theme="dark"] .nav-links a {
+  color: #ccc !important;
+}
+
+html[data-theme="dark"] .nav-links a:hover {
+  color: var(--invest-accent) !important;
+}
+
+html[data-theme="dark"] footer {
+  background: #0a0a0a !important;
+}
+
+html[data-theme="dark"] .preloader {
+  background: var(--invest-bg) !important;
+}
+
+html[data-theme="dark"] .loader-h1 {
+  color: var(--invest-text) !important;
+}
+
+html[data-theme="dark"] .loader-subtitle {
+  color: #666 !important;
+}
+
+html[data-theme="dark"] .social-icon {
+  color: #666 !important;
+}
+
+html[data-theme="dark"] .social-icon:hover {
+  color: #fff !important;
+}
+
+html[data-theme="dark"] .copyright {
+  color: #444 !important;
+}
+
+html[data-theme="dark"] .footer-links a {
+  color: #666 !important;
+}
+
+html[data-theme="dark"] .footer-links a:hover {
+  color: #fff !important;
+}
+
+html[data-theme="dark"] .contact-item strong {
+  color: #888 !important;
+}
+
+html[data-theme="dark"] .contact-item {
+  color: #ccc !important;
 }
 
 @media(max-width: 900px) {
