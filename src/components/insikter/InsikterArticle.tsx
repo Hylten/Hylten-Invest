@@ -372,7 +372,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
                                         textTransform: 'uppercase',
                                         display: 'block',
                                         marginBottom: '8px',
-                                    }}>← Föregående</span>
+                                    }}>← Previous</span>
                                     <span style={{
                                         fontSize: '14px',
                                         color: dark ? '#888' : '#6b7280',
@@ -397,7 +397,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
                                         textTransform: 'uppercase',
                                         display: 'block',
                                         marginBottom: '8px',
-                                    }}>Nästa →</span>
+                                    }}>Next →</span>
                                     <span style={{
                                         fontSize: '14px',
                                         color: dark ? '#888' : '#6b7280',
