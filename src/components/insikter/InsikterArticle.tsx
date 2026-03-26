@@ -39,6 +39,8 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
     const [meta, setMeta] = useState<any>({});
     const [error, setError] = useState(false);
     const [shareOpen, setShareOpen] = useState(false);
+    const [allPosts, setAllPosts] = useState<any[]>([]);
+    const [currentIndex, setCurrentIndex] = useState(-1);
     const shareRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
@@ -55,15 +57,30 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
         const loadContent = async () => {
             try {
                 const postsGlob = import.meta.glob('../../../content/insights/*.md', { query: '?raw', eager: true });
+                const posts: any[] = [];
                 let foundPost = null;
+                let foundIndex = -1;
 
                 for (const [filepath, fileContent] of Object.entries(postsGlob)) {
                     const rawMarkdown = (fileContent as any).default;
                     const { data, content: markdownBody } = parseFrontmatter(rawMarkdown);
                     const fileSlug = data.slug || filepath.split('/').pop()?.replace('.md', '');
+                    posts.push({
+                        slug: fileSlug,
+                        title: data.title || 'Untitled',
+                        date: data.date || '',
+                        meta: data,
+                        body: markdownBody
+                    });
+                }
 
-                    if (fileSlug === slug) {
-                        foundPost = { meta: data, body: markdownBody };
+                posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+                setAllPosts(posts);
+
+                for (let i = 0; i < posts.length; i++) {
+                    if (posts[i].slug === slug) {
+                        foundPost = posts[i];
+                        foundIndex = i;
                         break;
                     }
                 }
@@ -71,6 +88,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
                 if (foundPost) {
                     setContent(foundPost.body);
                     setMeta(foundPost.meta);
+                    setCurrentIndex(foundIndex);
                     if (foundPost.meta.title) {
                         document.title = `${foundPost.meta.title} | Hyltén Invest Intelligence`;
                     }
@@ -167,8 +185,8 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
                 </svg>
             </a>
 
-            {/* Share Button - Bottom Center Fixed */}
-            <div ref={shareRef} style={{ position: 'fixed', bottom: '32px', left: '50%', transform: 'translateX(-50%)', zIndex: 10002 }}>
+            {/* Share Button - Bottom of Article (Static) */}
+            <div ref={shareRef} style={{ display: 'flex', justifyContent: 'center', marginTop: '80px', paddingBottom: '40px', position: 'relative' }}>
                 <button
                     onClick={() => setShareOpen(!shareOpen)}
                     style={{
@@ -325,6 +343,72 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
                     ← Home
                 </a>
             </div>
+
+            {/* Prev/Next Navigation */}
+            {allPosts.length > 1 && currentIndex >= 0 && (
+                <div style={{
+                    marginTop: '80px',
+                    paddingTop: '48px',
+                    borderTop: `1px solid ${dark ? '#222' : '#f3f4f6'}`,
+                }}>
+                    <div style={{
+                        display: 'grid',
+                        gridTemplateColumns: '1fr 1fr',
+                        gap: '2rem',
+                    }}>
+                        <div>
+                            {currentIndex < allPosts.length - 1 && (
+                                <a
+                                    href={`${BASE}/insights/${allPosts[currentIndex + 1].slug}`}
+                                    style={{
+                                        display: 'block',
+                                        textDecoration: 'none',
+                                    }}
+                                >
+                                    <span style={{
+                                        fontSize: '9px',
+                                        letterSpacing: '0.2em',
+                                        color: dark ? '#555' : '#9ca3af',
+                                        textTransform: 'uppercase',
+                                        display: 'block',
+                                        marginBottom: '8px',
+                                    }}>← Previous</span>
+                                    <span style={{
+                                        fontSize: '14px',
+                                        color: dark ? '#888' : '#6b7280',
+                                        lineHeight: 1.4,
+                                    }}>{allPosts[currentIndex + 1].title}</span>
+                                </a>
+                            )}
+                        </div>
+                        <div style={{ textAlign: 'right' }}>
+                            {currentIndex > 0 && (
+                                <a
+                                    href={`${BASE}/insights/${allPosts[currentIndex - 1].slug}`}
+                                    style={{
+                                        display: 'block',
+                                        textDecoration: 'none',
+                                    }}
+                                >
+                                    <span style={{
+                                        fontSize: '9px',
+                                        letterSpacing: '0.2em',
+                                        color: dark ? '#555' : '#9ca3af',
+                                        textTransform: 'uppercase',
+                                        display: 'block',
+                                        marginBottom: '8px',
+                                    }}>Next →</span>
+                                    <span style={{
+                                        fontSize: '14px',
+                                        color: dark ? '#888' : '#6b7280',
+                                        lineHeight: 1.4,
+                                    }}>{allPosts[currentIndex - 1].title}</span>
+                                </a>
+                            )}
+                        </div>
+                    </div>
+                </div>
+            )}
 
             {/* Footer */}
             <footer style={{
