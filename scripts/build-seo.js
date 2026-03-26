@@ -186,6 +186,9 @@ async function generateSEO() {
             Return Home
           </a>
         </div>
+        <div style="text-align: center; margin-top: 80px; padding-top: 40px; border-top: 1px solid rgba(0,0,0,0.05);">
+          <a href="https://www.linkedin.com/in/hylten/" target="_blank" rel="noopener noreferrer" style="color: #999; font-size: 12px; text-decoration: none; letter-spacing: 1px; text-transform: uppercase;">LinkedIn</a>
+        </div>
     `;
 
     const indexHtml = baseHtml
