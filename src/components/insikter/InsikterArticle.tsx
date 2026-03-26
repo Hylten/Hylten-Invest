@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
@@ -37,6 +37,18 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
     const [content, setContent] = useState('');
     const [meta, setMeta] = useState<any>({});
     const [error, setError] = useState(false);
+    const [shareOpen, setShareOpen] = useState(false);
+    const shareRef = useRef<HTMLDivElement>(null);
+
+    useEffect(() => {
+        const handleClickOutside = (e: MouseEvent) => {
+            if (shareRef.current && !shareRef.current.contains(e.target as Node)) {
+                setShareOpen(false);
+            }
+        };
+        document.addEventListener('mousedown', handleClickOutside);
+        return () => document.removeEventListener('mousedown', handleClickOutside);
+    }, []);
 
     useEffect(() => {
         const loadContent = async () => {
@@ -123,26 +135,80 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
             background: '#fff',
             fontFamily: "'Inter', sans-serif",
         }}>
-            {/* LinkedIn Personal - Ultra Discreet */}
+            {/* LinkedIn Company - Round, above WhatsApp */}
             <a
-                href="https://www.linkedin.com/in/hylten/"
+                href="https://www.linkedin.com/company/hyltén/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
                     position: 'fixed',
-                    bottom: '24px',
-                    right: '24px',
-                    zIndex: 60,
-                    opacity: 0.2,
-                    transition: 'opacity 0.3s',
+                    bottom: '90px',
+                    right: '32px',
+                    zIndex: 10001,
+                    background: '#1A1A1A',
+                    padding: '12px',
+                    borderRadius: '50%',
+                    boxShadow: '0 10px 30px rgba(0,0,0,0.2)',
+                    transition: 'all 0.3s',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    width: '48px',
+                    height: '48px',
+                    boxSizing: 'border-box',
+                    opacity: 0.6,
                 }}
-                onMouseEnter={(e) => e.currentTarget.style.opacity = '0.6'}
-                onMouseLeave={(e) => e.currentTarget.style.opacity = '0.2'}
+                onMouseOver={e => { e.currentTarget.style.transform = 'scale(1.1)'; e.currentTarget.style.opacity = '1'; }}
+                onMouseOut={e => { e.currentTarget.style.transform = 'scale(1)'; e.currentTarget.style.opacity = '0.6'; }}
             >
-                <svg style={{ width: '12px', height: '12px', color: '#9ca3af' }} fill="currentColor" viewBox="0 0 24 24">
+                <svg style={{ width: '20px', height: '20px', display: 'block' }} fill="#FFFFFF" viewBox="0 0 24 24">
                     <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
                 </svg>
             </a>
+
+            {/* Share Button - Bottom Center */}
+            <div ref={shareRef} style={{ position: 'fixed', bottom: '32px', left: '50%', transform: 'translateX(-50%)', zIndex: 10002 }}>
+                <button
+                    onClick={() => setShareOpen(!shareOpen)}
+                    style={{
+                        background: '#f3f4f6',
+                        border: '1px solid #e5e7eb',
+                        borderRadius: '50%',
+                        width: '36px',
+                        height: '36px',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        cursor: 'pointer',
+                        transition: 'all 0.3s',
+                        opacity: shareOpen ? 1 : 0.4,
+                        boxShadow: '0 2px 8px rgba(0,0,0,0.06)',
+                    }}
+                    onMouseOver={e => e.currentTarget.style.opacity = '0.8'}
+                    onMouseOut={e => { if (!shareOpen) e.currentTarget.style.opacity = '0.4'; }}
+                >
+                    <svg style={{ width: '14px', height: '14px', color: '#6b7280', transition: 'transform 0.3s', transform: shareOpen ? 'rotate(180deg)' : 'none' }} fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M5 15l7-7 7 7" />
+                    </svg>
+                </button>
+                {shareOpen && (
+                    <div style={{
+                        position: 'absolute', bottom: '44px', left: '50%', transform: 'translateX(-50%)',
+                        display: 'flex', gap: '12px', background: '#fff', padding: '10px 16px',
+                        borderRadius: '24px', boxShadow: '0 4px 20px rgba(0,0,0,0.1)', border: '1px solid #f3f4f6',
+                    }}>
+                        <a href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}`} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '32px', height: '32px', borderRadius: '50%', transition: 'background 0.2s' }} onMouseOver={e => e.currentTarget.style.background = '#f3f4f6'} onMouseOut={e => e.currentTarget.style.background = 'transparent'}>
+                            <svg style={{ width: '16px', height: '16px', color: '#0077B5' }} fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+                        </a>
+                        <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.href)}`} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '32px', height: '32px', borderRadius: '50%', transition: 'background 0.2s' }} onMouseOver={e => e.currentTarget.style.background = '#f3f4f6'} onMouseOut={e => e.currentTarget.style.background = 'transparent'}>
+                            <svg style={{ width: '16px', height: '16px', color: '#1877F2' }} fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                        </a>
+                        <a href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent(meta.title || '')}`} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '32px', height: '32px', borderRadius: '50%', transition: 'background 0.2s' }} onMouseOver={e => e.currentTarget.style.background = '#f3f4f6'} onMouseOut={e => e.currentTarget.style.background = 'transparent'}>
+                            <svg style={{ width: '14px', height: '14px', color: '#000' }} fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                        </a>
+                    </div>
+                )}
+            </div>
             {/* Back to Archive */}
             <a href={`${BASE}/insights/`} style={{
                 display: 'inline-flex', alignItems: 'center', gap: '10px',
