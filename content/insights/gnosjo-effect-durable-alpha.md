@@ -6,7 +6,7 @@ author: "Hylten-Invest"
 slug: "gnosjo-effect-durable-alpha"
 ---
 
-#The Gnosjö network is not a mystery
+# The Gnosjö network is not a mystery
 
 **It is a covenant structure operating under quiet discipline. The region endures because it never surrendered its moral architecture. Protestant ethic. Kin-based reciprocity.**
 
@@ -31,12 +31,12 @@ This is the soil from which generational capital rises. Industrial humility. Ent
 It resists central planning because it answers to a higher jurisdiction: the duty to build for the children’s children. A network like Gnosjö does not require spectacle. It requires fidelity.
 
 
-#The moral authority of free enterprise expresses itself through consistent value creation, not slogans
+# The moral authority of free enterprise expresses itself through consistent value creation, not slogans
 
 Markets reward men who keep their word. Communities rise when their people make promises they intend to keep.
 
 
-#The covenant is the alpha
+# The covenant is the alpha
 
 The lineage is the shield. The craft is the testimony. When we speak of Sovereign Architecture, we speak of this. A disciplined, interlinked industrial ecosystem that compounds over time.
 
@@ -47,11 +47,3 @@ Through obedience to duty. Some partners formalize their consolidation pathways 
 Guard the craft. Guard the legacy. "The integrity of the upright shall guide them." - Proverbs 11: 3 to approved mandates. : $5M+ target size. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

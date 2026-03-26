@@ -37,14 +37,6 @@ They move with industrial calm. They operate with covenant legitimacy. They buil
 Not dependency. Alignment.
 
 
-#The Spirit of Gnosjö remains a witness: Solve the problem
+# The Spirit of Gnosjö remains a witness: Solve the problem
 
 Create the value. Pass the blueprint to the children’s children. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

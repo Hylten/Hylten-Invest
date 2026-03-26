@@ -9,7 +9,7 @@ slug: "gnosjo-imprint-private-equity"
 **The forge precedes the fund.**
 
 
-#The covenant precedes the model
+# The covenant precedes the model
 
 The Spirit of Gnosjö moves first. Small workshops. Hard benches. Cold mornings.
 
@@ -26,12 +26,12 @@ No debt-fueled spectacle disguised as value creation. The new operating models t
 Principals who smell the oil. Managers who know the machine’s tremor before the vibration sensor detects it. 2. Covenantal stewardship.
 
 
-#Capital is not a tool for extraction
+# Capital is not a tool for extraction
 
 It is a responsibility. It binds the investor to the operator and the operator to the community.
 
 
-#Legacy requires discipline
+# Legacy requires discipline
 
 Discipline produces endurance. 3. Generational intent. Not quarter-to-quarter.
 
@@ -44,11 +44,3 @@ Some will label it cultural cohesion. Others will reduce it to efficiency theory
 Even cross-border structuring through Roials Capital now benefits from this industrial ethic, grounding complex transactions in the clarity of real-economy value creation. Work first. Virtue first. Then capital flows.
 
 "The integrity of the upright shall guide them." - Proverbs 11: 3 to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

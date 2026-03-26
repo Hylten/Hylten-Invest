@@ -284,6 +284,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
             <style>{`
                 .article-content { line-height: 2.4; }
                 .article-content p { margin-bottom: 4.5rem; }
+                .article-content h1 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.6rem; margin-top: 6rem; margin-bottom: 3rem; color: ${dark ? '#e0e0e0' : '#0a0a0a'}; line-height: 1.3; font-weight: 400; }
                 .article-content h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.4rem; margin-top: 6rem; margin-bottom: 3rem; color: ${dark ? '#e0e0e0' : '#0a0a0a'}; line-height: 1.3; font-weight: 400; }
                 .article-content h3 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.7rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: ${dark ? '#d0d0d0' : '#0a0a0a'}; font-weight: 400; }
                 .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
@@ -293,6 +294,37 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
                 .article-content a { color: ${ACCENT}; text-decoration: underline; font-weight: 500; text-underline-offset: 4px; }
                 .article-content blockquote { border-left: 3px solid ${ACCENT}; padding-left: 1.5rem; margin: 3rem 0; font-style: italic; color: ${dark ? '#777' : '#6b7280'}; }
             `}</style>
+
+            {/* Navigation */}
+            <div style={{
+                marginTop: '100px',
+                display: 'flex',
+                justifyContent: 'space-between',
+                alignItems: 'center',
+            }}>
+                <a href={`${BASE}/insights/`} style={{
+                    display: 'inline-flex', alignItems: 'center', gap: '10px',
+                    color: '#9ca3af', fontSize: '10px', letterSpacing: '3px',
+                    textTransform: 'uppercase', fontWeight: 600,
+                    textDecoration: 'none', transition: 'color 0.3s',
+                }}
+                onMouseOver={e => e.currentTarget.style.color = ACCENT}
+                onMouseOut={e => e.currentTarget.style.color = '#9ca3af'}
+                >
+                    ← Back to Archive
+                </a>
+                <a href={`${BASE}/`} style={{
+                    display: 'inline-flex', alignItems: 'center', gap: '10px',
+                    color: '#9ca3af', fontSize: '10px', letterSpacing: '3px',
+                    textTransform: 'uppercase', fontWeight: 600,
+                    textDecoration: 'none', transition: 'color 0.3s',
+                }}
+                onMouseOver={e => e.currentTarget.style.color = ACCENT}
+                onMouseOut={e => e.currentTarget.style.color = '#9ca3af'}
+                >
+                    ← Home
+                </a>
+            </div>
 
             {/* Footer */}
             <footer style={{

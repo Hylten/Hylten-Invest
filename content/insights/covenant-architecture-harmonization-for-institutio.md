@@ -19,7 +19,7 @@ The Razor prefers clarity over ornamentation. It prioritizes incentives over gra
 They must appear in proper sequence. 1. Foundational Purpose Clauses The most underestimated part of covenant architecture is the statement of purpose. Purpose clauses must be short, explicit, and written for a lender that expects to remain in the relationship for decades.
 
 
-#The purpose clause should answer: • What is the true use of proceeds
+# The purpose clause should answer: • What is the true use of proceeds
 
 • What is the desired borrower behavior. • What is the lender protecting. Without this clarity, all downstream covenants float without anchor. With clear purpose, all covenants become aligned components of an intentional structure.
 
@@ -42,7 +42,7 @@ Many lenders underestimate their systemic importance. Poorly calibrated cure mec
 • Time consistent. • Behavior shaping. This approach reduces escalation risk and increases lender borrower trust. # Harmonization Across a Portfolio Institutional lenders typically manage multiple borrowers with different legal histories.
 
 
-#The goal is not to impose identical covenant sets
+# The goal is not to impose identical covenant sets
 
 The goal is to synchronize architecture. When the architecture is synchronized: • Monitoring costs decrease. • Legal interpretation becomes simpler. • Risk scoring becomes sharper.
 
@@ -51,7 +51,7 @@ The goal is to synchronize architecture. When the architecture is synchronized: 
 # Eliminating Unnecessary Complexity Over time, covenants accumulate the same way portfolios accumulate clutter. Every cycle adds reactive clauses. Every new legal team adds its preferences. Every amendment introduces asymmetry.
 
 
-#The Fiduciary Razor forces a periodic decluttering cycle
+# The Fiduciary Razor forces a periodic decluttering cycle
 
 The Razor removes: • Provisions copied from previous deals without relevance. • Provisions inserted for optics rather than function. • Provisions that create uneven lender borrower dynamics. • Provisions that increase monitoring load without increasing protection.
 
@@ -70,7 +70,7 @@ Monitoring became reactive. Cross portfolio risk became opaque. Harmonization re
 Within two years, monitoring efficiency improved. The borrower operated with clearer behavioral guidelines. The lender reported fewer interpretive disputes. Archetype Two: Institutional Lender with Legacy Documentation A mid sized institutional lender inherited a series of lending templates from prior legal regimes Each template contained multiple legacy provisions that added noise but no protection.
 
 
-#The Fiduciary Razor removed approximately forty percent of document volume while increasing covenant clarity
+# The Fiduciary Razor removed approximately forty percent of document volume while increasing covenant clarity
 
 Borrower relations improved. The lender’s internal teams gained more time for strategic analysis. Archetype Three: Cross Border Family Office Capital Deployment A family office with international exposure faced inconsistent covenant styles across jurisdictions Currency risk, regulatory differences, and structural asymmetries created unnecessary complexity.
 
@@ -89,16 +89,8 @@ The implementation process itself is straightforward when executed with discipli
 They value predictability. They require clarity. Covenant architecture harmonization supports these preferences by removing drift, complexity, and noise.
 
 
-#The Fiduciary Razor provides the structural toolset to achieve this with precision
+# The Fiduciary Razor provides the structural toolset to achieve this with precision
 
 It is conservative. It is minimalist. It is durable. It aligns with the ethos of capital that is designed to endure. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

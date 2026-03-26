@@ -67,11 +67,3 @@ Families who prepare now will secure continuity. Families who delay will face re
 It can expand without exposure. It can generate returns without sacrificing privacy or control. Hardening is therefore the precursor to growth. It creates the foundation upon which generational capital can operate freely. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

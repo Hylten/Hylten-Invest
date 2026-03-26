@@ -13,21 +13,21 @@ Toward foundation. Toward men who carry covenant weight. Toward firms that treat
 Industrial memory matters again.
 
 
-#The Gnosjö spirit rises
+# The Gnosjö spirit rises
 
 Work the problem. Build the machine. Stand accountable before God. This is not nostalgia.
 
 This is institutional recalibration. "He that walketh uprightly walketh surely." - Proverbs 10: 9 Principal logic follows. Markets reward coherence. Character is coherence.
 
 
-#Stewardship is coherence
+# Stewardship is coherence
 
 Integrity compounds faster than leverage. Legacy houses outperform because they refuse drift. Duty forms stronger steel than ambition. Families who hold covenant build systems that survive chaos.
 
 Allocators now see it plainly.
 
 
-#Moral authority produces durable cash flows
+# Moral authority produces durable cash flows
 
 And durable cash flows rule cycles. Europe’s old forges taught the lesson early. North America’s free enterprise perfected the scale. Together they form an ethic: Work.
 
@@ -42,18 +42,10 @@ Because it is bound by covenant. Bound by conscience. Bound by generation. This 
 Industrial heritage. Protestant ethic.
 
 
-#Moral authority as operating leverage
+# Moral authority as operating leverage
 
 A Principal who understands that free markets flourish only under truth. Some of them now route mandates through institutional capital execution at [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)). Not for theatrics.
 
 For alignment. The revival is real. Stewardship returns to the center. Conviction follows.
 
 : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

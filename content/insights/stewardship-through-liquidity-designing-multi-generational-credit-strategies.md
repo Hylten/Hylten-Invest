@@ -39,19 +39,19 @@ Optionality supports stewardship. Optionality maintains control. Credit is a too
 Principle 5: Structure Must Outlive the Architects A multi generational credit strategy should not rely on a single family member or advisor It must be institutional, documented, and repeatable.
 
 
-#The process should survive leadership changes
+# The process should survive leadership changes
 
 This is how multi generational stewardship becomes sustainable. Building the Credit Architecture A well designed credit architecture is not one facility It is a system. It balances to approved mandates.
 
 : $5M+ target size.
 
 
-#The architecture typically includes four components
+# The architecture typically includes four components
 
 Short Term Liquidity Lines These provide flexibility for operating needs, tactical transactions, or short duration imbalances They should be simple, inexpensive, and fully aligned with the family’s investment policy. They also serve as the first defense against unexpected events. Medium Duration Facilities These help finance larger liquidity requirements They are often secured by marketable securities, real estate, or diversified portfolios.
 
 
-#The goal is stability
+# The goal is stability
 
 The duration should reduce rollover risk. Long Duration Credit Structures These are the backbone of a multi generational strategy They may include long dated credit lines, private credit arrangements, or asset backed facilities tied to operating companies or key holdings. The primary purpose is generational continuity.
 
@@ -82,11 +82,3 @@ It eliminates noise. A minimalist credit strategy respects four ideas: - Fewer s
 Stability Across Generations Successive generations inherit clarity, not confusion They inherit options, not obligations. They inherit stability, not urgency. Stewardship becomes a lived practice. Liquidity becomes the method.
 
 Time becomes the advantage. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

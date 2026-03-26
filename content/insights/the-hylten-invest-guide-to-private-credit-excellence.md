@@ -21,7 +21,7 @@ In private credit, unnecessary complexity introduces risk. Unnecessary speed int
 The collateral.
 
 
-#The structure
+# The structure
 
 The execution. The continuity of the client’s vision. This is the essence of conservative Capital Structuring. It is the essence of the Hylten Invest method.
 
@@ -30,11 +30,3 @@ Closing Perspective Private credit excellence is not built on noise It is built 
 We operate with clarity. We maintain principal authority. We deliver liquidity with precision. to approved mandates. : $5M+ target size. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

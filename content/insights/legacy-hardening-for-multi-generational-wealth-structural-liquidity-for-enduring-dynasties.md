@@ -9,7 +9,7 @@ slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-e
 **And above all, it is protected through to approved mandates. : $5M+ target size. Families with significant capital often discover that the challenge is not wealth creation.**
 
 
-#The challenge is continuity
+# The challenge is continuity
 
 Continuity requires silent infrastructure. It requires institutions that operate in near invisibility. It requires the capacity to unlock liquidity without operational disruption, without unnecessary divestment, and without diluting governance.
 
@@ -34,11 +34,3 @@ Where mass affluent products dominate the market, we remain focused on private c
 - Capital structures that outlive any single economic cycle. - Strategic liquidity that reinforces governance. - Families who expect more than standardized financial products. This is not wealth management.
 
 It is legacy engineering. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

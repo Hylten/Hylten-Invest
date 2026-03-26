@@ -21,11 +21,3 @@ Institutions respect order backed by clarity. Generations respect legacy backed 
 It is the preparation of the enterprise for the children and grandchildren who will inherit not only assets, but responsibility. A family that understands this becomes unshakable. A firm that embodies this becomes investable.
 
 A legacy grounded in this becomes durable. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

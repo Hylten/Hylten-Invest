@@ -13,11 +13,3 @@ There is no performance. Only calm engineering. For HNWI and UHNW individuals, l
 Hylten Invest provides this system through Monetization Architecture solutions that respect complexity while maintaining simplicity in execution. Our stance is conservative. Our presence is discreet. Our mandate is generational. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

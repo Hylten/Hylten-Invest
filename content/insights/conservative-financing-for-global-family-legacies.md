@@ -19,7 +19,7 @@ Inter‑generational transfer without entropy. "A good man leaves an inheritance
 A financial blueprint encoded in Scripture.
 
 
-#Stewardship as mandate
+# Stewardship as mandate
 
 Discipline as witness. Capital as testimony. Conservative financing for global family legacies demands alignment across five dimensions: moral authority, jurisdictional structure, liquidity insulation, industrial continuity, and cross‑border optionality.
 
@@ -28,18 +28,10 @@ Each dimension must be designed. Tested. Pressured. Hardened.
 The theology of capital is simple.
 
 
-#Capital is a tool for order
+# Capital is a tool for order
 
 Order creates stability. Stability creates peace. Peace sustains legacy. Families shaped by the Spirit of Gnosjö understand this instinctively.
 
 Work as worship. Frugality as discipline. Community as force multiplier. Capital deployed carefully, patiently, sacrificially.
 
 The institutional challenge arises when such families
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

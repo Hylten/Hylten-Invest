@@ -23,7 +23,7 @@ The Protestant ethic as operational doctrine. One cord. Unbreakable. Identity-ba
 You cannot counterfeit conviction. You cannot outsource heritage. You cannot purchase moral authority at market price.
 
 
-#The Gnosjö spirit understood this long before consultants discovered the word “ecosystem
+# The Gnosjö spirit understood this long before consultants discovered the word “ecosystem
 
 ” Small factories. Hard benches. Cold mornings. Warm faith.
 
@@ -40,16 +40,8 @@ It cannot be bought because it cannot be bribed with fashion. This is the strate
 Identity. When necessary, we channel operational execution through institutional capital engines such as [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)). But the identity-Hylten-Invest-remains the source of moral gravity.
 
 
-#The covenant center of the architecture
+# The covenant center of the architecture
 
 Capital follows integrity. Institutions follow the houses that refuse compromise. History sides with those who remember where they came from. : $5M+ target size. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

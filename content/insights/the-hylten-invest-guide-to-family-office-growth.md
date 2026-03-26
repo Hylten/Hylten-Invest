@@ -67,7 +67,7 @@ We offer Monetization Architecture mechanics that integrate seamlessly with the 
 Preparing for Expansion Cycles Markets move in cycles Families that thrive across cycles prepare quietly during periods of stability. In preparation cycles, liquidity is built, not spent.
 
 
-#Capital is positioned
+# Capital is positioned
 
 Debt is optimized. Holdings are reorganized. New asset classes are evaluated. Then, when markets enter turbulence or transition, opportunities appear.
 
@@ -88,11 +88,3 @@ It is slow, deliberate, and compounding. Hylten Invest exists to enable this typ
 We provide liquidity against public share positions starting at 5,000, 000 dollars, and against crypto positions starting at 2,000, 000 dollars. We operate with principal authority. We are designed for HNWI and UHNW families who prefer discretion over display.
 
 If you seek structural liquidity for long term stewardship, we invite a private conversation. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

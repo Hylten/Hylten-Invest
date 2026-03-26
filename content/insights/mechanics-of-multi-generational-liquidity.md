@@ -13,7 +13,7 @@ In 2026, the institutions that prevail are those that understand liquidity as an
 The objective is clarity. Multi generational wealth is not a mystery. It is the outcome of industrial discipline, capital theology, and the precision application of Institutional Liquidity Paths across cycles.
 
 
-#THE REGIME SHIFT The current capital regime is shaped by three forces
+# THE REGIME SHIFT The current capital regime is shaped by three forces
 
 First, the Western demographic inversion. Aging populations reduce organic entrepreneurial expansion, which reduces capital velocity. Second, regulatory friction. Compliance layers designed for the 2008 crisis now inhibit the mid market credit creation necessary for industrial continuity.
 
@@ -58,14 +58,14 @@ The modern allocator cannot independently manage regulatory transitions, real as
 The strategic navigator ensures that operational intelligence is embedded at the decision layer.
 
 
-#THE STEWARDSHIP FILTER The foundation of multi generational liquidity is stewardship This is not a financial term
+# THE STEWARDSHIP FILTER The foundation of multi generational liquidity is stewardship This is not a financial term
 
 It is a moral and operational mandate rooted in the theology of capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22 a good person leaves an inheritance to their children's children. This principle is not about wealth accumulation.
 
 It is about responsibility.
 
 
-#Capital is a resource entrusted for productive use, not consumption
+# Capital is a resource entrusted for productive use, not consumption
 
 The Spirit of Gnosjö represents a cultural model of stewardship where efficiency, community, and industriousness form the basis for generational continuity. This heritage demonstrates that the discipline which preserves capital is the same discipline that builds industry. Waste is minimized.
 
@@ -78,11 +78,3 @@ Stewardship rejects impulsive allocation, fragile yield structures, and capital 
 3. Is the liquidity architecture engineered or incidental. For families and institutions seeking a deeper understanding of structural alignment, Roials Capital conducts confidential strategy audits and portfolio calibration reviews.
 
 These engagements provide clarity on alignment between long range objectives, operational realities, and the mechanics required for multi generational liquidity. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

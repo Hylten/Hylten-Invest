@@ -39,14 +39,6 @@ Partners who understand that capital is not merely deployed; it is entrusted. Fo
 A declaration of lineage. A refusal to let the world define the family’s logic.
 
 
-#The covenant becomes the compass
+# The covenant becomes the compass
 
 The compass becomes the shield. And the shield becomes the inheritance. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

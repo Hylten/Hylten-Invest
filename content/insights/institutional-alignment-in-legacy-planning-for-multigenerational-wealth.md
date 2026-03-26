@@ -6,7 +6,7 @@ author: "Hyltén Invest"
 slug: "institutional-alignment-in-legacy-planning-for-multigenerational-wealth"
 ---
 
-#The challenge is preserving coherence
+# The challenge is preserving coherence
 
 **Modern wealth environments create opportunities, but they also create fragmentation. Asset classes diversify, ownership structures expand across borders, and family governance grows more complex. Institutional alignment becomes the quiet cornerstone.**
 
@@ -29,11 +29,3 @@ Our mandate is stability. Final Reflection: Alignment as an Act of Stewardship I
 It ensures that decisions made today do not constrain tomorrow. Through disciplined capital structures, quiet liquidity, and collateral-based credit, families can build a legacy that is resilient, coherent, and positioned for centuries rather than decades. For those who operate at scale, alignment is not optional.
 
 It is the foundation upon which continuity rests. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

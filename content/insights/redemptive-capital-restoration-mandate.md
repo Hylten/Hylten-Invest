@@ -19,7 +19,7 @@ And moral failures carry interest. The compounding works in both directions. Vir
 The Principal who understands this operates accordingly. The restoration mandate begins with recognition.
 
 
-#Capital is not neutral
+# Capital is not neutral
 
 It is loaded with intention, whether the deployer acknowledges this or not. Every dollar placed carries a vote for the kind of world the investor wishes to inhabit. The Principal who understands this does not ask, "What return can I capture?" The Principal asks, "What repair am I obligated to perform?" The question shifts everything.
 
@@ -42,14 +42,14 @@ The returns include strengthened families, restored dignity, and communities rec
 It is structural.
 
 
-#The investor calculates
+# The investor calculates
 
 The Principal covenants. The investor seeks arbitrage. The Principal seeks alignment. The investor exits when conditions deteriorate.
 
 The Principal remains because departure would violate the covenant.
 
 
-#The investor treats capital as a commodity
+# The investor treats capital as a commodity
 
 The Principal treats capital as a trust. The distinction creates different decision-making frameworks, different time horizons, and ultimately different outcomes. Covenants create durability that contracts cannot replicate.
 
@@ -68,7 +68,7 @@ The restoration mandate also requires selectivity. Not every distressed situatio
 The Principal must exercise judgment. The Principal must recognize the difference between productive distress and pathological dysfunction. The Principal must resist the temptation to chase every opportunity labeled impact.
 
 
-#The covenant constrains as much as it compels
+# The covenant constrains as much as it compels
 
 The Principal invests where restoration is possible, where local leadership exists, where the social fabric remains intact enough to support reconstruction. The Principal abstains where the conditions do not exist, recognizing that throwing capital at problems it cannot solve creates new problems of its own. The discipline of saying no is as important as the willingness to say yes.
 
@@ -93,7 +93,7 @@ The call is not to every investor. The call is to Principals. To those who under
 To those who operate from the conviction that generationally-oriented capital deployment is not merely permissible but obligatory. The restoration mandate awaits those willing to accept it.
 
 
-#The mandate does not promise ease
+# The mandate does not promise ease
 
 The mandate promises meaning. The mandate promises compounding beyond the financial. The mandate promises the satisfaction of participating in something larger than personal enrichment. The mandate promises the only returns that truly matter: returns in the form of strengthened communities, restored dignity, and evidence that the resources entrusted were used well.
 
@@ -104,7 +104,7 @@ Skills developed is a metric. Communities stabilized is a metric. Infrastructure
 These metrics do not appear in standard investment reports because standard investment reports are designed for extraction-focused capital.
 
 
-#The family office committed to restoration must build its own measurement infrastructure
+# The family office committed to restoration must build its own measurement infrastructure
 
 The measurement system becomes part of the covenant. The measurement system demonstrates accountability. The measurement system provides evidence of faithful stewardship. The risk profile of restoration capital requires reorientation.
 
@@ -125,11 +125,3 @@ Everything else follows from the commitment. The restoration mandate is not a st
 The Principal who operates from restoration sees every deployment as restoration. The Principal who operates from restoration transforms capital from a weapon of extraction into an instrument of flourishing. The transformation is complete when the Principal no longer thinks of restoration as a category of investment and begins to think of all investment as restoration.
 
 The category dissolves. The identity remains. "And they shall build the old wastes, they shall raise up the former desolations, and they shall restore the waste cities, the desolate places that have been wasted from generation to generation." Isaiah 61:4
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

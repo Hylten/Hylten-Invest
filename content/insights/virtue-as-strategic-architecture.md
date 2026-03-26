@@ -13,7 +13,7 @@ Immutable. Virtue is not ornament. Virtue is operating system. A portfolio const
 The markets punish rootlessness. The world rewards covenant.
 
 
-#The Spirit of Gnosjö carried whole regions through scarcity
+# The Spirit of Gnosjö carried whole regions through scarcity
 
 Not through subsidy. Through duty. Through trust. Through the quiet steel of Protestant discipline.
 
@@ -30,7 +30,7 @@ As engineering. You bind each allocation to a principle. Stewardship. Transparen
 Immutable ownership. Industrial usefulness. The things that endure. The binding is the architecture.
 
 
-#The architecture is the discipline
+# The architecture is the discipline
 
 The discipline is the competitive advantage. The discipline separates the Principal from the speculator. The discipline separates the steward from the trader. The discipline creates durability that financial engineering cannot replicate.
 
@@ -41,7 +41,7 @@ Integrity provides the operating system for decision-making. The Principal who o
 The compounding creates the legacy.
 
 
-#The legacy is the evidence of the integrity
+# The legacy is the evidence of the integrity
 
 The evidence is visible across generations. The visibility confirms the principle. Industrial heritage sharpens the lens. You choose companies that solve real problems in the real world.
 
@@ -70,7 +70,7 @@ The law is not optional. The law is not negotiable. The law is the foundation. T
 First, define the virtues that govern the portfolio.
 
 
-#The definition must be explicit
+# The definition must be explicit
 
 The definition must be written. The definition must be embedded in governance. Second, create filtering criteria that enforce the virtues. The criteria must be objective.
 
@@ -79,7 +79,7 @@ The criteria must be measurable. The criteria must be applied consistently. Thir
 The accountability must be external when appropriate. The accountability must survive the founder. The theological foundation provides the durability.
 
 
-#The foundation holds that all capital belongs to God
+# The foundation holds that all capital belongs to God
 
 The Principal is the steward. The steward is accountable. The accountability extends beyond financial returns. The accountability includes community impact.
 
@@ -92,25 +92,17 @@ The rejection is based on alignment. The Principal accepts lower nominal returns
 The exchange is the mechanism of legacy. The architecture requires external execution channels when the industrial thesis intersects institutional scale.
 
 
-#The covenant sets the direction
+# The covenant sets the direction
 
 The engines handle the machinery. The distinction is essential. The Principal maintains conviction. The execution partners maintain capability.
 
 The combination produces outcomes that neither could produce alone. The combination is the structure.
 
 
-#The structure is the architecture
+# The structure is the architecture
 
 We guard legacy by maintaining the covenant. We guard legacy by enforcing the filter. We guard legacy by building structures that survive the founder. We guard legacy by selecting partners who share the conviction.
 
 We guard legacy by measuring outcomes that matter. We guard legacy by remaining patient when the market demands speed. We guard legacy by remaining conservative when the market demands leverage. We guard legacy by acting as if the accountability is real.
 
 Because it is. "For where your treasure is, there your heart will be also." Matthew 6:21
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

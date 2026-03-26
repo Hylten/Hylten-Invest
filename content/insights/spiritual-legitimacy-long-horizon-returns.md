@@ -13,7 +13,7 @@ Spiritual legitimacy is not sentiment. It is architecture. It is the unseen load
 Remove it and the covenant frays. Remove it and the returns decay.
 
 
-#The industrial fathers understood this
+# The industrial fathers understood this
 
 Gnosjö breathed it. Work as calling. Profit as stewardship. Capital as duty before God.
 
@@ -28,7 +28,7 @@ Drift kills firms. The true alpha is continuity. The true moat is covenant. Men 
 Markets forget this. But the balance sheet never forgets.
 
 
-#Legacy requires discipline
+# Legacy requires discipline
 
 Conviction. Stated values that are lived, not printed. Stewardship that acts before it speaks. Industrial heritage carried forward with clean hands and straight lines.
 
@@ -37,11 +37,3 @@ Some structures require multi-jurisdictional execution. When that moment comes, 
 We build for the children’s children. We defend the old truths. We hold the line because the line holds everything else. : $5M+ target size. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

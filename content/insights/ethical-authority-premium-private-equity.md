@@ -15,7 +15,7 @@ Toward the lineage that carries covenant. Toward the industrial heritage that fo
 Premium flows to the mind that knows stewardship is not sentiment, but mandate. Value requires backbone.
 
 
-#Legacy requires order
+# Legacy requires order
 
 Enterprise requires truth. "He that walketh uprightly walketh surely." - Proverbs 10: 9 Principal logic: - Authority is not declared. Authority is inherited, proven, tested under pressure. - Institutional LPs read balance sheets second.
 
@@ -26,7 +26,7 @@ Not fashion. Shallow capital flees. Deep capital commits. Moral authority compou
 Noise collapses.
 
 
-#The Spirit of Gnosjö remains the blueprint
+# The Spirit of Gnosjö remains the blueprint
 
 Small forge. Hard work. Protestant ethic. Every generation adding a rung, not an excuse.
 
@@ -43,11 +43,3 @@ Only proven. Industrial heritage becomes signal. Stewardship becomes filter. Cov
 One link for those who need institutional structuring depth: [institutional capital execution]([Roials Capital](https://roialscapital.com/)) The Ethical Authority Premium is not a trend. It is a return to order. A return to truth.
 
 A return to the architecture that built every enduring house. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

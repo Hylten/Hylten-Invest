@@ -13,7 +13,7 @@ We do not seek visibility. We provide structural mechanics that behave with inst
 Complex wealth requires restrained partners. Partners that introduce no noise and no unnecessary complexity. The objective is not to compete with the family’s identity. It is to strengthen the foundation beneath it.
 
 
-#The Architecture of Asset Hardening Asset hardening is a systematic process It is driven by design, not reaction
+# The Architecture of Asset Hardening Asset hardening is a systematic process It is driven by design, not reaction
 
 Liquidity Extraction. Risk Dispersion. Governance Alignment. Each pillar reinforces the others.
 
@@ -42,16 +42,8 @@ Not because it enhances risk, but because it systematically reduces it. The Futu
 Regulation will evolve. Geopolitical tensions will shape capital flows. Families that prepare with hardened balance sheets will move through these shifts with stability. Families that rely on passive portfolios will face unnecessary fragility.
 
 
-#Asset hardening is therefore the evolutionary path of sophisticated wealth
+# Asset hardening is therefore the evolutionary path of sophisticated wealth
 
 It is the transition from exposed capital to protected capital. From passive ownership to structural control. Hylten Invest stands as a partner for families that seek this transition with quiet authority and institutional discipline. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

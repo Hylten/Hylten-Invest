@@ -17,11 +17,3 @@ This is the architecture of long term wealth preservation. Institutional Grade A
 It reinforces THE MANDAT E of stewardship, the priority of protection, and the objective of maintaining generational stability. Hyltén Invest provides the institutional mechanics that enable these outcomes, quietly and with disciplined authority. Final Perspective Protecting wealth requires clarity, structure, and silent precision Institutional Grade Asset-Based Lending delivers liquidity without sacrifice and mobility without exposure.
 
 Hyltén Invest stands as a structural partner for families whose assets require conservative, institutional, long horizon support. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

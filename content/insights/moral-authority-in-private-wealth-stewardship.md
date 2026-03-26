@@ -11,7 +11,7 @@ slug: "moral-authority-in-private-wealth-stewardship"
 It determines whether wealth survives two generations or ten. In private wealth stewardship the question is not how capital grows.
 
 
-#The question is how capital stands
+# The question is how capital stands
 
 The question is how capital transfers without corrosion. The question is whether the family behind the structure lives by a theology of responsibility rather than a lifestyle of consumption. This is the axis where Christian conservative doctrine becomes an institutional-grade operating framework.
 
@@ -30,12 +30,12 @@ A family that believes capital is assigned will remain aligned. In institutional
 The market calls this durability. Scripture calls it faithfulness. A Principal operating under Covenant Stewardship understands that the purpose of the balance sheet is not self expression.
 
 
-#The purpose is dominion with responsibility
+# The purpose is dominion with responsibility
 
 The purpose is to build what can be handed over without moral dilution. The Second Pillar Generational Wealth as Mandate not Lifestyle Generational wealth is not an aspiration It is a mandate. It is the outworking of the biblical injunction to build, guard, and transfer.
 
 
-#The Spirit of Gnosjö shaped this cultural norm long before it became a term in investment committees
+# The Spirit of Gnosjö shaped this cultural norm long before it became a term in investment committees
 
 It was the natural product of Christian labor ethic. Work was honor. Frugality was normal. Precision was worship.
 
@@ -48,7 +48,7 @@ They assess the internal covenant. They measure the velocity of decision making.
 3. Purpose hierarchy that is non negotiable. This creates what institutions call transmission integrity. It also creates structural resilience.
 
 
-#The family becomes a stable counterparty
+# The family becomes a stable counterparty
 
 The enterprise becomes a reliable vessel for acquisition, buyout, or strategic capital placement. The conservative Christian position is simple. Wealth unaligned with duty collapses. Wealth aligned with duty compounds.
 
@@ -57,7 +57,7 @@ The Third Pillar The Theology of Capital Capital itself is neutral Its trajector
 The theology of capital asserts Capital is a tool.
 
 
-#Capital is a test
+# Capital is a test
 
 Capital is a testimony. A tool requires precision. A test requires clarity. A testimony requires coherence.
 
@@ -80,11 +80,3 @@ Expansions were generational rather than transactional. Today this combination p
 The Principal who carries moral authority does not chase deals. He discerns assignments. This removes noise. It accelerates selection.
 
 It improves close rate and post acquisition integration. Execution Velocity becomes the fruit of moral order. The Fifth
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

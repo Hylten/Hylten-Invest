@@ -21,7 +21,7 @@ Liquidating digital assets can send signals that invite speculation. Asset-Based
 The assets remain in place.
 
 
-#The strategy remains intact
+# The strategy remains intact
 
 The narrative remains unchanged. This is crucial for families who value stability, privacy, and continuity. Asset-Based Lending as a Multi-Generational Tool A well-structured Institutional Liquidity Paths line becomes part of the family office architecture It provides liquidity for: - intergenerational transfers - private market opportunities - philanthropic commitments - liquidity imbalances - tax planning - strategic acquisitions When liquidity becomes an engineered system rather than a reactive event, the family is able to make decisions with clarity.
 
@@ -44,11 +44,3 @@ Together, legacy is preserved. A Closing Note on Stewardship Stewardship is not 
 This is why Asset Based Asset-Backed Frameworks remains one of the most powerful tools available to families that build for generations. For those who require quiet liquidity and structural clarity, Hyltén Invest operates with principal authority. to approved mandates. : $5M+ target size. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

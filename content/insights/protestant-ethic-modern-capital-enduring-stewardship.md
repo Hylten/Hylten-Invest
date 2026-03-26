@@ -27,7 +27,7 @@ A family that works for the next century becomes sovereign. Financial engineerin
 It cannot withstand pressure. Only the ethic stands.
 
 
-#The Gnosjö spirit proved this for generations
+# The Gnosjö spirit proved this for generations
 
 Small workshops. Big covenant. Do the work no one sees. Ship the product everyone needs.
 
@@ -46,11 +46,3 @@ When the next generation asks what we left them, they should find architecture, 
 But the ethic remains the spine. Work. Duty. Covenant.
 
 That is capital worthy of inheritance. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

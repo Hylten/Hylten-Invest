@@ -37,11 +37,3 @@ Built for families who value discretion and stability. Our Strategic Collaterali
 They reinforce collateral without complexity. They provide stability without spectacle. For the investor who values calm over noise and structure over speculation, conservative capital deployment is not simply an option.
 
 It is the foundation. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

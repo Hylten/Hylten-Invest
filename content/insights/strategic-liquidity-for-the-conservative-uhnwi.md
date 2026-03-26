@@ -29,11 +29,3 @@ More focus on endurance. Liquidity, when built correctly, becomes a stabilizing 
 Structured. Discreet. We provide a path for conservative capital to remain ready, patient, and resilient. This is strategic liquidity.
 
 This is principal authority in practice. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

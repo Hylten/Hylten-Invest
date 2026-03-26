@@ -37,7 +37,7 @@ Sovereignty. Capacity to survive macro‑shocks without distress liquidation or 
 They cheapen discipline.
 
 
-#The principal’s task is to architect the fortress before the storm
+# The principal’s task is to architect the fortress before the storm
 
 Families who wait for distress to design a capital strategy always arrive late. Late equals costly. Costly equals avoidable. Private credit becomes the backbone structure.
 
@@ -76,7 +76,7 @@ The enforcement plan ensures global enforceability. Not theoretical. The reserve
 And the governance brief ensures continuity of ethos. Not bureaucracy. Here, theology becomes financial infrastructure.
 
 
-#Stewardship is a governance principle
+# Stewardship is a governance principle
 
 Responsibility is a yield mechanism. Humility is a risk‑mitigation tool. Christian industrialists historically built enterprises with fewer words and stronger hands. They structured debt as covenant.
 
@@ -93,11 +93,3 @@ Strong. Defensible. The global shift toward private credit further strengthens t
 Regulatory pressure forces contraction. Families with cross‑border industrial operations can no longer rely on traditional banking alignment. Conservative financing therefore becomes strategic independence.
 
 Through Fund‑III design principles-hard collateral, predictable tenor, jurisdictional flexibility-families gain consistency in markets marked by institutional inconsistency. A central
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

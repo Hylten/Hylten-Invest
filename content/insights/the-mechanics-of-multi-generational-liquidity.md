@@ -35,14 +35,14 @@ Public Share Asset-Backed Frameworks for Large Concentrated Positions Many famil
 This is why we offer public share Strategic Collateralization with a minimum threshold of 5,000, 000 USD.
 
 
-#The structure allows families to: Maintain exposure to long-term value growth
+# The structure allows families to: Maintain exposure to long-term value growth
 
 Unlock liquidity without forced selling. Stabilize portfolio concentration risk while retaining control. The objective is not leverage for acceleration. It is stability for continuity.
 
 Crypto Monetization Architecture for Institutional Scale Holders Digital assets have matured into institutional-grade holdings for certain UHNW families They present both long-term thesis conviction and short-term liquidity challenges. Our crypto Capital Structuring framework is designed only for institutional scale positions. Minimum 2,000, 000 USD.
 
 
-#The purpose is not speculation
+# The purpose is not speculation
 
 It is the preservation of strategic blockchain allocations without disruption. This structure benefits families by: Avoiding liquidation events during volatile markets. Allowing the asset to remain part of the long-term portfolio thesis.
 
@@ -77,7 +77,7 @@ When liquidity is engineered as a governance tool, these transitions unfold with
 This structure becomes part of the family's long-term blueprint. The Hyltén Invest Liquidity Framework Our framework is simple in form and deep in architecture It is designed for those who understand that liquidity must be engineered, not improvised.
 
 
-#The framework operates on three pillars
+# The framework operates on three pillars
 
 Stability. Optionality. Continuity. Stability ensures that liquidity is available regardless of market conditions.
 
@@ -88,11 +88,3 @@ A Long-Term Partnership Approach We work only with high net worth and ultra high
 They value precision in capital structure. They value a partner that does not require spotlight or narrative. This is the architecture of principal authority. to approved mandates. : $5M+ target size. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

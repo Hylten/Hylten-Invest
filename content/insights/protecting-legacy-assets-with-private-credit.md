@@ -79,11 +79,3 @@ Private credit and Asset-Based Lending will become essential tools for anyone se
 Hyltén Invest will continue to operate quietly in this domain. Providing capital. Providing structure. Providing stability.
 
 Without noise. - to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

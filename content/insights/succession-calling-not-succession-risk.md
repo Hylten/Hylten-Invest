@@ -15,11 +15,3 @@ Industrial families lose momentum when they turn inward and begin treating the n
 Tight fists. Frozen equity. Patriarchal hesitation masquerading as prudence. Families call this caution.
 
 It is entropy. It kills initiati to approved mandates. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

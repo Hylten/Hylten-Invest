@@ -19,7 +19,7 @@ The result is predictable. Underpriced assets with essential characteristics out
 They anchor themselves not to momentum cycles but to the slow turning flywheel of disciplined operating stewardship.
 
 
-#The Spirit of Gnosjö is a practical expression of this
+# The Spirit of Gnosjö is a practical expression of this
 
 It recognizes that capital is not merely deployed. It is cultivated. It is shaped by the habits of the steward, not the movements of the market. The theological foundation is clear: capital is a responsibility given for the purpose of construction, not extraction.
 
@@ -38,11 +38,3 @@ This shifts the focus from market liquidity to engineered liquidity, which mater
 Alberta heavy oil reservoirs with established decline curves are a prime example. Their physics are known. Their production profiles are predictable. Their long term recoverability is not subject to consumer sentiment.
 
 When managed by operators with discipline and transparent field level execution, such as our strategic partner NAEO, these assets become a stabilizing
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

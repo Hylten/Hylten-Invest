@@ -21,7 +21,7 @@ A leader without moral grounding is not a risk; he is a liability. A leader anch
 THE STRUCTURAL ROTATION TOWARD MORAL AUTHORITY The institutional allocator of 2026 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist They are reaching for the one attribute that cannot be automated, simulated, or purchased: Moral authority. Not the modern imitation. The real thing.
 
 
-#The moral authority that emerges from a life ordered-spiritually, industrially, ethically
+# The moral authority that emerges from a life ordered-spiritually, industrially, ethically
 
 Every serious allocator has seen the consequences of the alternatives. The last decade delivered a cascade of financial engines built by men without anchors. When the tide receded, what remained were balance sheets with numbers but no foundations.
 
@@ -46,7 +46,7 @@ A covenant-driven steward does not pivot with the fashion of the moment. He buil
 Discipline over noise. The Protestant industrial legacy is not merely historical. It is operational. It informs how a steward governs capital, treats employees, develops markets, and builds long-term supply chains.
 
 
-#The allocator sees in this a pattern of durability that cannot be faked
+# The allocator sees in this a pattern of durability that cannot be faked
 
 Christian stewardship produces something modern finance cannot manufacture: Structural clarity. Institutions know the markets are entering an era of chronic uncertainty. They want architects, not gamblers.
 
@@ -65,7 +65,7 @@ Is his legacy anchored? Is he beholden to fashion or to faith? Will he defect un
 These questions are not political. They are structural.
 
 
-#The allocator understands: A steward bound by covenant cannot be bribed by convenience
+# The allocator understands: A steward bound by covenant cannot be bribed by convenience
 
 That is why moral authority is being repriced as alpha. Not sentimentally, not philosophically, but because it reduces the key risk vector of the age: integrity volatility. THE THEOLOGY OF CAPITAL THE RETURN OF COVENANTAL FINANCE Capital has memory.
 
@@ -76,7 +76,7 @@ This is not mysticism. This is stewardship. The Christian theology of capital is
 - Covenant: Capital is to be preserved and multiplied for future generations.
 
 
-#The allocator sees in these principles the antidote to speculative erosion
+# The allocator sees in these principles the antidote to speculative erosion
 
 When a steward operates under this theology, the capital entrusted to him is not at risk of moral drift. It is held in a structure that transcends market cycles. A covenant binds. A covenant protects.
 
@@ -109,11 +109,3 @@ Duty beats drift. Stewardship wins. If one requires structural validation, obser
 It is operational alpha. And alpha rooted in moral authority is the most durable alpha available. One may explore institutional structuring models via this portal: [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)) For those who understand stewardship not as branding but as covenant, the conversation is open.
 
 : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

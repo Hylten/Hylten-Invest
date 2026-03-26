@@ -31,11 +31,3 @@ Hyltén Invest is positioned for long horizon stewardship. We build Strategic Co
 The long horizon mindset creates calm. It removes urgency. It removes noise. It replaces short term execution pressure with measured, deliberate action.
 
 This is the future of UHNW stewardship. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

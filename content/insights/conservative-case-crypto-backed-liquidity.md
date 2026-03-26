@@ -13,7 +13,7 @@ THE REGIME SHIFT Institutional allocators navigating 2026 operate within a tri p
 Balance sheet neutrality has replaced market making, creating longer liquidity cycles and reduced underwriting agility. 2. Non bank credit absorption. Private credit has overtaken syndicated lending capacity, but this is accompanied by increased collateral demands, shorter duration, and reduced covenant flexibility.
 
 
-#The allocator experiences improved yields but reduced optionality
+# The allocator experiences improved yields but reduced optionality
 
 3. Digital collateral normalization. Digital assets have matured into balance sheet instruments with transparent on chain verification, globally standardized custody, and liquidation mechanics measurable in seconds.
 
@@ -38,7 +38,7 @@ The risk is not theoretical. It is quantifiable. Roials Capital AND THE PARTNERS
 The positioning is neutral.
 
 
-#The role is not to promote a product, but to curate alignment between institutional archetypes
+# The role is not to promote a product, but to curate alignment between institutional archetypes
 
 The institutional landscape is fragmented. Operators require liquidity. Credit funds require visibility. Custodians require compliance aligned flows.
 
@@ -53,14 +53,14 @@ The conservative allocator recognizes that capital is not a commodity but a trus
 Crypto backed liquidity aligns with stewardship when three criteria are met. 1. Capital Prudence Borrowing is justified only when liquidity contributes to productive capacity, not speculative expansion.
 
 
-#The structure becomes a stabilizer, not an amplifier
+# The structure becomes a stabilizer, not an amplifier
 
 2. Transparency On chain verification provides visibility that historically required third party attestation. Transparency is a stewardship discipline because it reduces ambiguity. 3.
 
 Covenant Obedience A liquidity line is a covenantal agreement. Obligations are clear. Boundaries are defined.
 
 
-#The structure operates under mutually enforced discipline
+# The structure operates under mutually enforced discipline
 
 This is aligned with Christian industrial heritage where commitment and clarity transcend mere contract language. Digital collateral becomes stewardship aligned when it strengthens operational resilience, reduces waste, and preserves generational assets from unnecessary dilution. A DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating crypto backed liquidity must integrate three lenses.
 
@@ -71,11 +71,3 @@ Technical LTV curves, tri party custody, cross jurisdiction governance, and liqu
 Asset-Backed Frameworks is not expansionism. It is a resilience discipline. Allocators requiring a deeper examination of structural alignment, technical counterparty mechanics, and cross jurisdiction integration typically engage in confidential strategy consultations to map where crypto collateral fits within their broader capital architecture. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

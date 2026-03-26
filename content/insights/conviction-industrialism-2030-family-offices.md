@@ -13,11 +13,3 @@ You and I did not. The new generation of family offices-those that refuse to bow
 The blueprint produces the factory. The factory produces the lineage. Where there is conviction, the asset endures. Where conviction fades, all structures drift toward entropy.
 
 "Th to approved mandates. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

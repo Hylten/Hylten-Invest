@@ -55,7 +55,7 @@ Lift Cost Management. Heavy oil operations that maintain strict cost controls on
 3. Structured Development Cycles. NAEO operates within defined development sequences that eliminate speculative drilling and focus exclusively on producing assets. This stabilizes cash flow and aligns with institutional time horizons.
 
 
-#THE PARTNERSHIP MODEL Roials Capital operates as an institutional introducer and strategic navigator
+# THE PARTNERSHIP MODEL Roials Capital operates as an institutional introducer and strategic navigator
 
 The objective is not to sell exposure, but to structure clarity. Capital preservation requires disciplined alignment between allocator objectives, basin characteristics, and operational capabilities. Our role 1.
 
@@ -66,7 +66,7 @@ Strategic Alignment. Allocators are matched to asset structures where the durati
 Compliance Neutrality. All intelligence is provided in a FINRA neutral, non promotional format.
 
 
-#The purpose is to educate the allocator so they can determine whether a deeper briefing is warranted
+# The purpose is to educate the allocator so they can determine whether a deeper briefing is warranted
 
 The NAEO alignment NAEO exemplifies the institutional archetype required for this environment. 1. Operational maturity. NAEO operates exclusively on produced and producing heavy oil assets with established decline profiles.
 
@@ -77,19 +77,19 @@ Alberta specialization. NAEO does not diversify geographically. Instead, it spec
 The objective is strategic navigation, not transactional intermediation.
 
 
-#THE STEWARDSHIP FILTER Preservation is not merely financial Preservation is a moral obligation
+# THE STEWARDSHIP FILTER Preservation is not merely financial Preservation is a moral obligation
 
 Capital must be handled with the same discipline that industrial families in the Nordic region have applied for generations. The Spirit of Gnosjö shaped a culture where small communities built global industrial capacity through frugality, precision, and moral clarity.
 
 
-#Stewardship is the theology of responsible dominion
+# Stewardship is the theology of responsible dominion
 
 Finance, when properly aligned, follows the principles that govern creation. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22 trans generational responsibility of capital. A good person leaves an inheritance not only for children, but for grandchildren.
 
 This is not a mandate to accumulate. It is a mandate to preserve in a manner that does not waste.
 
 
-#Stewardship as an institutional discipline 1
+# Stewardship as an institutional discipline 1
 
 Non wasteful deployment. Capital should enter operations where each dollar produces measurable productive output. Heavy oil assets with established physics exhibit non speculative use of capital. 2.
 
@@ -108,23 +108,15 @@ A precise allocator framework 1. Assess reservoir determinism. Capital should si
 Evaluate operator governance. Preservation is achieved when the operator maintains engineering discipline, cost integrity, and transparent reporting. 3. Review balance sheet architecture.
 
 
-#The structure must neutralize volatility, prioritize senior capital, and align duration with production
+# The structure must neutralize volatility, prioritize senior capital, and align duration with production
 
 4. Apply stewardship discipline. The asset must reflect responsible governance, resource efficiency, and moral clarity. Roials Capital provides allocators with confidential structural assessments that map these elements to individual portfolio objectives.
 
 In certain cases, an to NAEO may be appropriate when alignment is clear.
 
 
-#The purpose of these engagements is not transactional
+# The purpose of these engagements is not transactional
 
 It is strategic calibration. Allocators that understand the structural dynamics of Alberta heavy oil, the mechanics of SAGD based production, the importance of cost stability, and the long term reliability premium recognize that capital preservation today is not passive. It is engineered. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

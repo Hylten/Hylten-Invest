@@ -29,7 +29,7 @@ This size requirement ensures that the structure remains institutional, discreet
 : $5M+ target size. - Shield core holdings from short-term liquidity pressures. This is a silent instrument. It operates quietly and efficiently, reinforcing the client’s sovereignty over their public market positions.
 
 
-#The Philosophy of principal authority We maintain an F-Hierarchical Dynamics This is our operational posture
+# The Philosophy of principal authority We maintain an F-Hierarchical Dynamics This is our operational posture
 
 It reflects principal authority, institutional mechanics, and an understated presence. Clients who operate at the HNWI and UHNW tier do not require noise. They require precision. Structures that function.
 
@@ -76,11 +76,3 @@ The Continuity of Stewardship Stewardship is a continuum It extends beyond one g
 It is conservative. It is strategic. When liquidity is engineered correctly, the family remains in control. When control is maintained, assets remain intact.
 
 When assets remain intact, legacy becomes inevitable. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

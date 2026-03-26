@@ -23,7 +23,7 @@ This reconfigures how one thinks about ownership. Ownership is stewardship under
 The Christian investor rejects this. Not because of aversion to scale, but because scale without covenant produces collapse.
 
 
-#The Spirit of Gnosjö is a working model of covenant capital
+# The Spirit of Gnosjö is a working model of covenant capital
 
 Low ego. High duty. High execution rate. No theatrics.
 
@@ -38,7 +38,7 @@ Engineer enterprises that stand under scrutiny from regulators, auditors, and in
 This is engineering.
 
 
-#The industrial mandate requires that every deployed krona or dollar operates under covenant discipline
+# The industrial mandate requires that every deployed krona or dollar operates under covenant discipline
 
 No waste. No drift. No indulgence. Asset Hardening as Theological Logic In secular markets, asset hardening is risk management In Christian stewardship, it is obedience.
 
@@ -59,7 +59,7 @@ Their job is to deliver the firm stronger than they received it. Covenant stewar
 Generational time horizons that exceed the life of the founder 3. Relational accountability. God, family, workers, lenders, and customers Under this view, dividends are not extraction. They are distribution of faithfulness.
 
 
-#The enterprise is not a personal achievement
+# The enterprise is not a personal achievement
 
 It is a trust. Execution Velocity without Spectacle Modern markets often conflate visibility with competence Christian stewardship rejects this. Execution velocity is the ability to move without noise. To make decisions without theatrics.
 
@@ -72,7 +72,7 @@ They do not negotiate against their own conscience. Execution velocity is not a 
 The truthfulness of reported numbers 2.
 
 
-#The alignment of leadership with covenant stewardship 3
+# The alignment of leadership with covenant stewardship 3
 
 The authenticity of generational intent 4. The depth of industrial competence 5. The maturity of governance 6. The discipline of the owners 7.
 
@@ -121,11 +121,3 @@ The Theology of Wealth Builders Wealth builders think differently They understan
 They avoid consumer drift. They avoid spectacle. They focus on family continuity, not personal visibility. This is the Christian conservative tradition of business.
 
 This is the Spirit of Gnosjö. This is the logic that built Sweden’s most resilient enterprises. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

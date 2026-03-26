@@ -19,7 +19,7 @@ The rot is silent, but measurable. A Principal does not moralize this. A Princip
 Values mispriced become liabilities. Institutions have learned this the hard way. The Protestant ethic solved it earlier. Work as calling.
 
 
-#Capital as stewardship
+# Capital as stewardship
 
 Enterprise as service. The forge at Gnosjö carried that creed. So did every family that labored under it. Action.
 
@@ -38,11 +38,3 @@ Capital flees drift. Capital recognizes covenant. Even certain cross‑border ex
 Capital follows order. Order follows purpose. And purpose, rightly held, becomes the most reliable risk reducer in any generation. : $5M+ target size. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

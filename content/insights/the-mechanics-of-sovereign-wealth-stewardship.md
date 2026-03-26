@@ -25,7 +25,7 @@ Families who have liquidity can act at precisely the right moment. Families who 
 Liquidity is not a luxury. It is a shield.
 
 
-#The Stewardship Equation Sovereign wealth stewardship is the intersection of three elements Capital
+# The Stewardship Equation Sovereign wealth stewardship is the intersection of three elements Capital
 
 Structure. Time. Capital is the asset base. Structure is the liquidity architecture.
 
@@ -36,11 +36,3 @@ It requires patience. It requires an understanding of how families preserve infl
 Asset Based Asset-Backed Frameworks. Crypto Institutional Liquidity Paths from two million dollars. Public share Asset-Backed Frameworks from five million dollars. Structural discretion for families that do not seek attention. principal authority is not a slogan.
 
 It is a function. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

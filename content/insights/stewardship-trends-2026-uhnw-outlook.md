@@ -13,14 +13,6 @@ This shift is neither sentimental nor ideological. It is driven by the structura
 The Spirit of Gnosjö, with its emphasis on frugality, industriousness, and intergenerational responsibility, provides a strategic archetype for allocators seeking to reconcile opportunity velocity with ethical governance.
 
 
-#The stewardship lens is no longer a secondary consideration
+# The stewardship lens is no longer a secondary consideration
 
 It is becoming the primary filter through which families and principals evaluate capital alignment.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

@@ -21,7 +21,7 @@ This is the engine. And the region still benefits from the compounding effect of
 The Nordic model is often mischaracterized in global discourse as a triumph of bureaucratic symmetry. The narrative is shallow.
 
 
-#The reality is older and harder
+# The reality is older and harder
 
 The regions that consistently displayed the highest productivity uplift-Småland, Jutland, the inland Finnish ironworks corridor-were not built by administrators. They were built by men and women who believed that excellence honors God, and waste dishonors Him. That time is a gift.
 
@@ -80,14 +80,14 @@ And this is where the modern misalignment begins. As public discourse drifts tow
 Consolidation thins the ranks.
 
 
-#The covenant culture is diluted
+# The covenant culture is diluted
 
 Industrial identity fades into generic corporate behavior. But the productivity engine does not tolerate dilution. You remove covenant, you weaken output. You sever stewardship, you weaken innovation.
 
 You degrade the Protestant ethic, you weaken the firm’s inner constitution. The Nordic region must remember what built it. Industrial morality. Covenant capital.
 
 
-#Stewardship as first principle
+# Stewardship as first principle
 
 This is where modern principal-led firms must act-not as nostalgists but as restorers of industrial seriousness. The Nordic output frontier will only expand if we reinstate the moral architecture that originally carried it. The next wave of industrial renewal will come from firms that refuse drift.
 
@@ -102,18 +102,10 @@ But the disciplined, covenantally anchored industrial house is still a fortress.
 ([Roials Capital](https://roialscapital.com/)) But the capital is secondary.
 
 
-#The covenant is primary
+# The covenant is primary
 
 This is what we guard at Hylten‑Invest. Not nostalgia. Architecture. Not sentiment.
 
 Sovereignty. Not slogans. Legacy. The Nordic productivity story is a Christian story.
 
 Silenced in public. Indelible in reality. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

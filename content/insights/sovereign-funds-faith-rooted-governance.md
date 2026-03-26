@@ -19,7 +19,7 @@ It restrains overreach. It refuses empire-building. It rejects the idea that val
 This character produced stable balance sheets long before risk committees existed.
 
 
-#The Spirit of Gnosjö remains the prototype
+# The Spirit of Gnosjö remains the prototype
 
 Small firms. High trust. Transactional friction near zero. Work as vocation, not performance.
 
@@ -38,11 +38,3 @@ They want the Protestant ethic without the noise. Because it works. Across regim
 This is why several research units have begun observing institutional capital execution models emerging from the Nordic and North American Protestant tradition, including structurally aligned partners such as those doing advanced structuring through Roials Capital ([Roials Capital](https://roialscapital.com/)). The sovereign world moves slowly. But it moves toward strength.
 
 And strength still resides in governance built on moral authority, free enterprise, and the understanding that capital is a trust-not a trophy. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

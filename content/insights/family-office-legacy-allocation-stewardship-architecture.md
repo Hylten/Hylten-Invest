@@ -13,7 +13,7 @@ This structural convergence is creating an environment where disciplined capital
 These principles align closely with the Nordic industrial ethic that shaped the Spirit of Gnosjö: responsibility first, efficiency second, profit as the byproduct rather than the mission. - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:2 2. A good man leaves an inheritance to his children's children.
 
 
-#THE REGIME SHIFT The global capital cycle has transitioned into a structurally different configuration
+# THE REGIME SHIFT The global capital cycle has transitioned into a structurally different configuration
 
 The cost of liquidity has increased, regulatory oversight has tightened across European financial centers, and the velocity of institutional risk rotation has accelerated. Legacy-driven allocators now face three macro pressures. 1.
 
@@ -30,7 +30,7 @@ The Alberta energy ecosystem belongs to the Strategic Archetype. While volatilit
 This is not a commentary on commodity speculation but a statement of capital misalignment. Family offices with a legacy outlook increasingly recognize that the environment rewards patient capital willing to look beyond quarterly sentiment. TECHNICAL MECHANICS OF LEGACY ANCHORED ENERGY ALLOCATION North American heavy oil remains misunderstood within generalist capital circles.
 
 
-#The operational physics are not aligned with the sentiment-driven interpretation seen in public markets
+# The operational physics are not aligned with the sentiment-driven interpretation seen in public markets
 
 The Alberta basin, particularly in thermal recovery regions, behaves with repeatable technical characteristics that lend themselves to long-dated allocation frameworks. Key reservoir mechanics: 1. SAGD (Steam Assisted Gravity Drainage) - Dual horizontal well pairs enable controlled heating of bitumen.
 
@@ -67,7 +67,7 @@ Family offices with a multi-generational identity operate from four stewardship 
 - Allocation should echo this pattern. 3.
 
 
-#The Moral Mandate  - Responsible dominion over resources is a biblical expectation, not an optional value
+# The Moral Mandate  - Responsible dominion over resources is a biblical expectation, not an optional value
 
 Genesis 2:15 - The allocator is a caretaker, not an extractor. - Hydrocarbon stewardship must align with efficiency, environmental responsibility, and transparency. 4. The Continuity Mandate - Generational transfer is not merely financial but cultural.
 
@@ -78,21 +78,13 @@ These mandates form the architecture for legacy allocation. The market environme
 THE DECISION-MAKING LENS FOR FAMILY OFFICES The allocator must transition from product-centric thinking to stewardship-centric capital governance. The question is not whether an asset performs within a single cycle but whether it reinforces the family’s multi-generational identity.
 
 
-#The framework includes:  - Structural Assessment: Understanding the supply-demand architecture of the sector
+# The framework includes:  - Structural Assessment: Understanding the supply-demand architecture of the sector
 
 - Operational Assessment: Evaluating whether the operator demonstrates technical competence and stewardship alignment. - Capital Structure Assessment: Ensuring that allocations are made through balanced cash-flow frameworks with predictable seniority. - Alignment Assessment: Confirming that the asset class reflects the family’s vocational DNA and moral compass.
 
 For family offices seeking clarity in navigating the Alberta energy landscape, a confidential strategy audit with Roials Capital provides structural orientation rather than investment solicitation. The objective is to equip allocators with the operational intelligence necessary to navigate the sector responsibly, identify where real-asset stewardship aligns with generational purpose, and assess whether partners such as NAEO operate with the discipline required for long-term collaboration.
 
 
-#Capital is a responsibility
+# Capital is a responsibility
 
 Stewardship is a calling. Legacy is the convergence of both. [END BRIEFING] for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

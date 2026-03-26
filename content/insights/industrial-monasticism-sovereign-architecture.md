@@ -31,11 +31,3 @@ For deeper structural alignment, even institutional capital channels such as tho
 No vanity. Just legacy. Sovereign. Enduring.
 
 : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

@@ -37,11 +37,3 @@ Hylten-Invest defends the free market because it defends human dignity. A system
 For global structuring, Roials Capital handles the operational machinery of scale, but the blueprint originates here in the covenant chamber [Roials Capital](https://roialscapital.com/) Guard the capital. Honor the work. Magnify the calling.
 
 A Principal moves under conviction. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

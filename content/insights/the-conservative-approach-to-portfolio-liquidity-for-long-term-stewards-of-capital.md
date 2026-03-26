@@ -55,11 +55,3 @@ For high net worth and ultra high net worth families, the conservative approach 
 It extends the lifespan of strategy. Hyltén Invest provides the mechanisms required to maintain this stability. For families who value discretion, structure, and long-term stewardship, engineered liquidity becomes a fundamental part of their legacy architecture. to approved mandates.
 
 : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

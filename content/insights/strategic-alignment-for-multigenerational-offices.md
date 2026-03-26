@@ -55,7 +55,7 @@ These pressures can create divergence between generations, especially when newer
 With our crypto Strategic Collateralization threshold at 2,000, 000 USD, we support sophisticated holders who treat digital assets as a structured balance sheet component rather than a speculative pursuit. By Asset-Backed Frameworks against public securities with a minimum 5,000, 000 USD threshold, we ensure that only scaled, institutionally organized portfolios engage these facilities.
 
 
-#The alignment here is not about asset class preference
+# The alignment here is not about asset class preference
 
 It is about discipline. Discipline maintains unity across generations, even when risk appetites differ. Building a Framework for Multi‑Generational Resilience Families that endure create systems, not reactions A resilient family office maintains clarity in: - Capital purpose.
 
@@ -76,11 +76,3 @@ Families that prepare structurally move through transitions without destabilizat
 Institutional Capital Mechanics for Private Families HNWI and UHNW families are increasingly operating like micro institutions Their capital requires the same level of mechanics, discipline, and structural integrity. Hylten‑Invest was built for this environment. We provide the architecture that institutional capital expects, but within a framework that respects the privacy and long term orientation of private families.
 
 Our principal authority reflects a core principle. Power is not declared. Power is engineered. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

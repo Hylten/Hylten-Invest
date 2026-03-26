@@ -27,7 +27,7 @@ They offer global liquidity. They offer diversification outside traditional corr
 Our crypto Asset-Backed Frameworks service is built specifically for this tier. The minimum threshold is 2 million USD. This ensures scale, sophistication, and stability.
 
 
-#The structure allows families to  to approved mandates
+# The structure allows families to  to approved mandates
 
 : $5M+ target size. It preserves long term holdings while enabling short term action. This approach treats digital assets as a mature collateral category rather than a speculative asset. Public Share Institutional Liquidity Paths at Scale Equities remain a core pillar of long term wealth Large concentrated positions often create challenges.
 
@@ -76,11 +76,3 @@ The Next Era of Wealth Architecture The coming decade will not be defined by a b
 Liquidity becomes a strategic layer. Hybrid design becomes a standard rather than an exception. At the center of this shift sits the need for professional, silent, deliberate stewardship. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

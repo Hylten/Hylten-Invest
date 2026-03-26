@@ -33,11 +33,3 @@ It provides operational grace during uncertain periods. It reinforces the quiet 
 This is why Hyltén Invest maintains a threshold of two million dollars for crypto-backed Asset-Backed Frameworks. At this level, discipline is possible. Noise is reduced. Positions are large enough to integrate into structured collateral frameworks.
 
 For UHNW clients, crypto Strategic Collateralization becomes another
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

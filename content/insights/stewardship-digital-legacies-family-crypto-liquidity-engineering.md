@@ -49,7 +49,7 @@ Not price latency. Knowledge latency. If heirs cannot interpret the assets, they
 Stewardship mandates education. But education alone is insufficient. Education without architecture collapses under stress.
 
 
-#The architecture must embed knowledge in the system itself
+# The architecture must embed knowledge in the system itself
 
 Use operational runbooks. Use deterministic backups. Use procedural scripts. Use trustee interfaces.
 
@@ -64,7 +64,7 @@ It uses collateralized debt structures. It uses yield flows. It uses over‑coll
 It uses cross‑jurisdictional arbitrage in tax and reporting regimes. It uses private credit channels to create predictable liquidity without fragmenting asset base.
 
 
-#The family retains sovereignty over its assets while  to approved mandates
+# The family retains sovereignty over its assets while  to approved mandates
 
 : $5M+ target size. Liquidity is no longer an event. It becomes infrastructure. But liquidity without hardening is hollow.
 
@@ -77,14 +77,6 @@ Use regulatory arbitrage to capture stable environments while preserving operati
 They signal seriousness to banks, regulators, and counterparties. Families with hardened treasuries gain to approved mandates. : $5M+ target size.
 
 
-#The family must acknowledge that digital assets remain jurisdictionally unstable
+# The family must acknowledge that digital assets remain jurisdictionally unstable
 
 Regulation is fluid. Tax codes lag. Enforcement is inconsistent. Therefore, the next
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

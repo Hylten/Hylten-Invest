@@ -6,12 +6,12 @@ author: "Jonas Hyltén"
 slug: "mechanics-legacy-preservation-abl"
 ---
 
-#Legacy is not sentiment
+# Legacy is not sentiment
 
 **Legacy is structure. In the Nordic industrial belt, the concept is older than the companies that inhabit it.**
 
 
-#The Spirit of Gnosjö defined it
+# The Spirit of Gnosjö defined it
 
 A theology of work. A theology of responsibility. - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:2. A good man leaves an inheritance to his children's children.
 
@@ -32,18 +32,10 @@ Not charity. Not nostalgia. Stewardship. Responsibility transmitted across gener
 Gnosjö in ledger form.
 
 
-#The mechanics matter
+# The mechanics matter
 
 Structure dictates outcome. Asset-Based Lending, when engineered correctly, becomes an institutional firewall. It protects operating sovereignty. It isolates core assets from market noise.
 
 It separates legacy capital from working capital. It creates a perimeter that no investor consensus can breach. This is not defensive. It is architectural.
 
 Precision over flash. Endurance over expansion. The first
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

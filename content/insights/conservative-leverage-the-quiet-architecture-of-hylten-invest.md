@@ -23,11 +23,3 @@ Not spectacle. Not risk inflation. The Hylten Invest Ethos: Quiet, Structural, E
 We provide the architecture behind liquidity, the mechanics behind stability, and the discretion behind long-range strategy. This is the nature of conservative leverage. It is deliberate. It is calm.
 
 It is built for families and individuals who measure success in decades. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

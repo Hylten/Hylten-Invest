@@ -21,12 +21,12 @@ It generated returns that dwarfed previous benchmarks. It also created a class o
 The time horizon rewards quick flips, not patient building. The cultural model rewards presentation over substance.
 
 
-#The model works brilliantly for a certain phase of capital deployment
+# The model works brilliantly for a certain phase of capital deployment
 
 It fails catastrophically when applied to enterprises requiring long-horizon stewardship.
 
 
-#The model extracts value
+# The model extracts value
 
 The model does not create value. The distinction is invisible in the IRR calculation but visible in the generational outcome. The failure manifests in predictable patterns. Private equity acquires a manufacturing company.
 
@@ -39,12 +39,12 @@ This pattern repeated across thousands of acquisitions has hollowed out the indu
 The asymmetry is not accidental. It is structural.
 
 
-#The model optimizes for fund returns at the expense of enterprise health
+# The model optimizes for fund returns at the expense of enterprise health
 
 The model treats the enterprise as fuel, not as fire. The fire consumes the fuel and dies.
 
 
-#The steward tends the fire and it grows
+# The steward tends the fire and it grows
 
 The Custodian Founder operates from fundamentally different premises. The Custodian Founder treats the enterprise as a trust to be preserved and developed for successors. The Custodian Founder understands that the business exists to serve customers, employees, and community, with profit as the mechanism of sustainability rather than the objective of maximization.
 
@@ -53,7 +53,7 @@ The Custodian Founder builds structures that can survive the founder, because th
 The owner extracts.
 
 
-#The steward preserves and builds
+# The steward preserves and builds
 
 The Gnosjö region of Småland provides the template. The small manufacturing enterprises that defined the region operated for generations under custodian leadership. J.E. Hyltén's operation in 1879 was not designed to generate maximum return for a fund.
 
@@ -88,17 +88,17 @@ Look for founders who have turned down higher offers to maintain control. Look f
 Look for founders who express concern about succession, not exit. Look for founders who view the enterprise as a trust to be passed to successors, not an asset to be sold. These signals identify the Custodian Founder with reasonable reliability.
 
 
-#The counter-signals are equally informative
+# The counter-signals are equally informative
 
 Founders who maximize compensation, who treat the enterprise as a platform for personal enrichment, who speak about the business in purely transactional terms, who view employees as costs to be minimized, who think about exit before they think about succession, are not Custodian Founders. They are operators executing a different strategy, and the strategy will produce different results.
 
 
-#The strategy always produces the results designed into it
+# The strategy always produces the results designed into it
 
 The governance structure must enable the Custodian Founder while providing appropriate oversight. The family office should resist the temptation to impose professional management discipline on the Custodian Founder.
 
 
-#The value comes precisely from the Custodian Founder's non-standard approach
+# The value comes precisely from the Custodian Founder's non-standard approach
 
 The governance should instead focus on ensuring that the Custodian Founder maintains the identity and incentives that create value. Board composition should favor long-term thinking. Reporting requirements should emphasize operational metrics over financial engineering.
 
@@ -113,11 +113,3 @@ The shift is underway. The evidence accumulates daily. The Custodian Founder out
 Moral authority compounds. Extraction erodes. The math is not complicated. The execution is difficult because it requires resisting the pressure to optimize for the short term.
 
 The difficulty is the point. Easy paths lead to common outcomes. Difficult paths lead to exceptional outcomes. "The integrity of the upright shall guide them, but the crookedness of the treacherous shall destroy them." Proverbs 11:3
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

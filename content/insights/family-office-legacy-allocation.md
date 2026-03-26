@@ -19,7 +19,7 @@ This orientation affects every decision. The objective is not to outperform benc
 Only then does it expand outward into higher-yielding strategies. This order of operations is essential.
 
 
-#Stewardship requires structure
+# Stewardship requires structure
 
 Structure requires clarity. Clarity requires a documented investment philosophy that is consistently revisited and stress tested. Core Elements of a Legacy Allocation Framework 1. Capital Preservation Structures A family office must secure the bedrock of its liquidity and stability.
 
@@ -44,7 +44,7 @@ It nurtures adaptability. It strengthens resilience. The Minimalist Approach in 
 It reduces cognitive load. It reduces fragility. Minimalism in a family office does not mean a lack of sophistication. It means unnecessary complexity is avoided.
 
 
-#The architecture is clean
+# The architecture is clean
 
 The rationale is clear. Each component supports the long-term mission. In a world that promotes velocity, minimalism supports clarity. Clarity supports continuity.
 
@@ -69,11 +69,3 @@ This approach is quiet. It is steady. It is enduring. Hyltén Invest Perspective
 Each allocation is examined through the lens of multi-generational relevance. We support family offices in building structures that endure. Structures that preserve independence. Structures that protect legacy.
 
 Structures that align capital with identity. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

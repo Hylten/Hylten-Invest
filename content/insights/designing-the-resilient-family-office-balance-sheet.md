@@ -13,7 +13,7 @@ Volatility in public markets, tightening credit conditions, regulatory shifts, a
 Resilience becomes strategy. Resilience becomes identity. Resilience becomes freedom of action.
 
 
-#The Purpose of the Balance Sheet A balance sheet is not a static document It is an expression of priorities
+# The Purpose of the Balance Sheet A balance sheet is not a static document It is an expression of priorities
 
 It is a map of optionality. It is a tool for neutrality when macro cycles become asymmetric. It is also a statement of how the family thinks about liquidity, duration, leverage, and risk tolerance. A resilient balance sheet should deliver three outcomes.
 
@@ -68,7 +68,7 @@ Public share Institutional Liquidity Paths, with a five million dollar minimum t
 This is liquidity that preserves the narrative the family chooses to maintain. Crypto Capital Structuring for Institutional Scale Families Crypto has evolved from a speculative frontier to a formal asset class Yet liquidity solutions for substantial holders remain fragmented. Hyltén Invest provides secured Capital Structuring against crypto positions with a minimum threshold of two million dollars.
 
 
-#The goal is not leverage
+# The goal is not leverage
 
 The goal is stability. HNWI and UHNW families use crypto Monetization Architecture to: Release liquidity without selling. Fund new investments. Rebalance broader portfolios.
 
@@ -91,18 +91,10 @@ Those who design their balance sheets for the next decade will have a significan
 They will be able to act without signaling. They will be able to preserve and expand their long term legacy.
 
 
-#The Hyltén Invest Role We do not replace advisors We do not replace investment managers
+# The Hyltén Invest Role We do not replace advisors We do not replace investment managers
 
 We do not replace family office staff. We reinforce the balance sheet. We introduce structural resilience. We provide the mechanics that allow families to operate with institutional calm.
 
 Quiet. Precise. Conservative. This is the infrastructure that families use to steward capital, not just preserve it. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

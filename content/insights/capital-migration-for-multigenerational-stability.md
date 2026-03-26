@@ -41,7 +41,7 @@ It must be discreet. And it must be engineered with long-term intent, not short-
 These positions represent decades of work, influence, and identity. They also represent illiquidity risk, because selling too aggressively can move markets or signal unintended messages. Hyltén Invest provides Monetization Architecture against public equity at a minimum threshold of five million dollars.
 
 
-#The purpose is not to enable speculation
+# The purpose is not to enable speculation
 
 The purpose is intergenerational consistency. Families must sometimes extract liquidity for inheritance structuring, asset rebalancing, or private investment opportunities, without disturbing the public equity footprint. Share Institutional Liquidity Paths becomes a quiet tool.
 
@@ -68,7 +68,7 @@ The Migration Model Capital migration is not a single event It is a recurring pr
 Execution through private credit Capital Structuring, Asset-Based Lending, crypto Monetization Architecture, or public share Strategic Collateralization. Reallocation of liquidity into either defensive reserves or opportunity capital.
 
 
-#The process repeats as the portfolio evolves, the family evolves, and the market evolves
+# The process repeats as the portfolio evolves, the family evolves, and the market evolves
 
 Migration is discipline. It is not hurried. It is not reactive. It is intentional and cyclical.
 
@@ -87,7 +87,7 @@ In periods of stability, it provides optionality. In periods of disruption, it p
 It is an anchor.
 
 
-#The Hyltén Invest Distinction We operate quietly We operate precisely
+# The Hyltén Invest Distinction We operate quietly We operate precisely
 
 We operate exclusively with individuals and families whose capital structures warrant institutional-grade mechanics. Our offerings exist because traditional institutions are not designed to serve families with complex portfolios, alternative assets, or concentrated holdings. We fill that structural gap.
 
@@ -106,11 +106,3 @@ With it, portfolios last. A Closing Reflection Capital migration is not innovati
 Hyltén Invest builds this infrastructure. Discreetly. Conservatively. Exactly.
 
 For families seeking to protect, mobilize, and sustain their capital across generations, the next
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

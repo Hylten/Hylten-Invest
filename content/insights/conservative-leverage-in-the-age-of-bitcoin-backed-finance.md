@@ -15,7 +15,7 @@ Long Term Stewardship in a Volatile World Stewardship is not measured by ambitio
 Conservative leverage is a system.
 
 
-#Private credit is a system
+# Private credit is a system
 
 Asset based Institutional Liquidity Paths is a system. Bitcoin backed liquidity is a system. Each component serves the same purpose. To maintain optionality.
 
@@ -32,11 +32,3 @@ In a world that increasingly rewards noise, we remain committed to silence. Fina
 Not through risk taking. Through infrastructure. Through discipline. Through principal authority. to approved mandates.
 
 : $5M+ target size. for . to approved mandates. : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.

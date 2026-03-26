@@ -61,11 +61,3 @@ Hyltén Invest stands at this intersection. Silently. Precisely. Purposefully.
 We build Strategic Collateralization frameworks designed for longevity. We serve those who think in generations. We uphold the philosophy of quiet stewardship. If legacy is the long arc, liquidity is the line that keeps it steady. to approved mandates : $5M+ target size. for . to approved mandates.
 
 : $5M+.
-
----
-
-TECHNICAL MANDATE
-
-Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
-
-Book a confidential briefing.
