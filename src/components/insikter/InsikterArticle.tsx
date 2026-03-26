@@ -31,9 +31,10 @@ const ACCENT = '#B08D57';
 
 interface InsikterArticleProps {
     slug: string;
+    dark?: boolean;
 }
 
-export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
+export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = false }) => {
     const [content, setContent] = useState('');
     const [meta, setMeta] = useState<any>({});
     const [error, setError] = useState(false);
@@ -91,12 +92,12 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
             <div style={{
                 paddingTop: '200px', paddingBottom: '100px', textAlign: 'center',
                 minHeight: '100vh', display: 'flex', flexDirection: 'column',
-                alignItems: 'center', justifyContent: 'center', background: '#fff',
+                alignItems: 'center', justifyContent: 'center', background: dark ? '#121212' : '#fff',
                 fontFamily: "'Inter', sans-serif",
             }}>
                 <h1 style={{
                     fontFamily: "'Cormorant Garamond', Georgia, serif",
-                    fontSize: '28px', color: '#0a0a0a', marginBottom: '24px', fontWeight: 300,
+                    fontSize: '28px', color: dark ? '#fff' : '#0a0a0a', marginBottom: '24px', fontWeight: 300,
                 }}>Report Not Found</h1>
                 <a href={`${BASE}/insights/`} style={{
                     color: ACCENT, textDecoration: 'none', fontSize: '10px',
@@ -111,7 +112,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
     if (!content && !error) {
         return (
             <div style={{
-                minHeight: '100vh', background: '#fff', display: 'flex',
+                minHeight: '100vh', background: dark ? '#121212' : '#fff', display: 'flex',
                 alignItems: 'center', justifyContent: 'center',
             }}>
                 <p style={{
@@ -132,7 +133,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
             maxWidth: '820px',
             margin: '0 auto',
             minHeight: '100vh',
-            background: '#fff',
+            background: dark ? '#121212' : '#fff',
             fontFamily: "'Inter', sans-serif",
         }}>
             {/* LinkedIn Company - Round, above WhatsApp */}
@@ -192,10 +193,10 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
                     </svg>
                 </button>
                 {shareOpen && (
-                    <div style={{
+                        <div style={{
                         position: 'absolute', bottom: '44px', left: '50%', transform: 'translateX(-50%)',
-                        display: 'flex', gap: '12px', background: '#fff', padding: '10px 16px',
-                        borderRadius: '24px', boxShadow: '0 4px 20px rgba(0,0,0,0.1)', border: '1px solid #f3f4f6',
+                        display: 'flex', gap: '12px', background: dark ? '#1a1a1a' : '#fff', padding: '10px 16px',
+                        borderRadius: '24px', boxShadow: '0 4px 20px rgba(0,0,0,0.1)', border: `1px solid ${dark ? '#333' : '#f3f4f6'}`,
                     }}>
                         <a href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}`} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '32px', height: '32px', borderRadius: '50%', transition: 'background 0.2s' }} onMouseOver={e => e.currentTarget.style.background = '#f3f4f6'} onMouseOut={e => e.currentTarget.style.background = 'transparent'}>
                             <svg style={{ width: '16px', height: '16px', color: '#0077B5' }} fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
@@ -222,7 +223,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
             {/* Article Header */}
             <header style={{
                 marginBottom: '80px',
-                borderBottom: '1px solid #f3f4f6',
+                borderBottom: `1px solid ${dark ? '#222' : '#f3f4f6'}`,
                 paddingBottom: '60px',
             }}>
                 <div style={{
@@ -238,7 +239,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
                     </time>
                     <span style={{
                         fontSize: '10px', letterSpacing: '3px',
-                        textTransform: 'uppercase', color: '#d1d5db',
+                        textTransform: 'uppercase', color: dark ? '#555' : '#d1d5db',
                     }}>
                         {meta.author || 'Jonas Hyltén'}
                     </span>
@@ -247,7 +248,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
                 <h1 style={{
                     fontFamily: "'Cormorant Garamond', 'Playfair Display', Georgia, serif",
                     fontSize: 'clamp(2.5rem, 5vw, 3.8rem)',
-                    color: '#0a0a0a',
+                    color: dark ? '#fff' : '#0a0a0a',
                     marginBottom: '32px',
                     lineHeight: 1.2,
                     fontWeight: 400,
@@ -259,7 +260,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
                 {meta.description && (
                     <p style={{
                         fontSize: '17px',
-                        color: '#6b7280',
+                        color: dark ? '#777' : '#6b7280',
                         lineHeight: 1.8,
                         fontWeight: 300,
                         fontStyle: 'italic',
@@ -272,7 +273,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
 
             {/* Article Body */}
             <div className="article-content" style={{
-                color: '#374151', lineHeight: 2.2, fontSize: '1.15rem', fontWeight: 300,
+                color: dark ? '#aaa' : '#374151', lineHeight: 2.2, fontSize: '1.15rem', fontWeight: 300,
             }}>
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
@@ -282,23 +283,23 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug }) => {
             <style>{`
                 .article-content { line-height: 2.4; }
                 .article-content p { margin-bottom: 4.5rem; }
-                .article-content h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.4rem; margin-top: 6rem; margin-bottom: 3rem; color: #0a0a0a; line-height: 1.3; font-weight: 400; }
-                .article-content h3 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.7rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #0a0a0a; font-weight: 400; }
+                .article-content h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.4rem; margin-top: 6rem; margin-bottom: 3rem; color: ${dark ? '#e0e0e0' : '#0a0a0a'}; line-height: 1.3; font-weight: 400; }
+                .article-content h3 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.7rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: ${dark ? '#d0d0d0' : '#0a0a0a'}; font-weight: 400; }
                 .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
                 .article-content li { margin-bottom: 1.5rem; }
-                .article-content hr { border: 0; border-top: 1px solid #f3f4f6; margin: 6rem 0; }
-                .article-content strong { color: #0a0a0a; font-weight: 600; }
+                .article-content hr { border: 0; border-top: 1px solid ${dark ? '#2a2a2a' : '#f3f4f6'}; margin: 6rem 0; }
+                .article-content strong { color: ${dark ? '#fff' : '#0a0a0a'}; font-weight: 600; }
                 .article-content a { color: ${ACCENT}; text-decoration: underline; font-weight: 500; text-underline-offset: 4px; }
-                .article-content blockquote { border-left: 3px solid ${ACCENT}; padding-left: 1.5rem; margin: 3rem 0; font-style: italic; color: #6b7280; }
+                .article-content blockquote { border-left: 3px solid ${ACCENT}; padding-left: 1.5rem; margin: 3rem 0; font-style: italic; color: ${dark ? '#777' : '#6b7280'}; }
             `}</style>
 
             {/* Footer */}
             <footer style={{
                 marginTop: '100px', paddingTop: '48px',
-                borderTop: '1px solid #f9fafb', textAlign: 'center',
+                borderTop: `1px solid ${dark ? '#222' : '#f9fafb'}`, textAlign: 'center',
             }}>
                 <p style={{
-                    fontSize: '9px', color: '#d1d5db', letterSpacing: '4px',
+                    fontSize: '9px', color: dark ? '#555' : '#d1d5db', letterSpacing: '4px',
                     textTransform: 'uppercase', fontWeight: 500,
                 }}>
                     © {new Date().getFullYear()} Hyltén Invest AB. Stewardship by Principle.

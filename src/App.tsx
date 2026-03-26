@@ -175,17 +175,60 @@ const App: React.FC = () => {
   const path = window.location.pathname;
   if (path.includes('/insights')) {
     const slug = path.split('/insights')[1].replace(/^\/|\/$/g, '');
+
+    const DarkModeProvider: React.FC<{ children: (dark: boolean) => React.ReactNode }> = ({ children }) => {
+      const [dark, setDark] = useState(() => {
+        return localStorage.getItem('hylten-dark') === 'true';
+      });
+
+      useEffect(() => {
+        localStorage.setItem('hylten-dark', String(dark));
+        document.body.style.background = dark ? '#121212' : '#fff';
+      }, [dark]);
+
+      return (
+        <>
+          {children(dark)}
+          <button
+            onClick={() => setDark(!dark)}
+            style={{
+              position: 'fixed',
+              top: '20px',
+              right: '20px',
+              zIndex: 10000,
+              background: dark ? '#fff' : '#1a1a1a',
+              color: dark ? '#1a1a1a' : '#fff',
+              border: 'none',
+              padding: '8px 14px',
+              fontSize: '10px',
+              letterSpacing: '2px',
+              textTransform: 'uppercase',
+              cursor: 'pointer',
+              fontFamily: "'Inter', sans-serif",
+              fontWeight: 600,
+              transition: 'all 0.3s',
+              borderRadius: '2px',
+            }}
+          >
+            {dark ? 'Light Mode' : 'Dark Mode'}
+          </button>
+        </>
+      );
+    };
+
     return (
       <BrowserRouter basename="/Hylten-Invest">
-        <div className="min-h-screen bg-white">
-          <nav id="navbar" className="scrolled sticky top-0">
+        <DarkModeProvider>
+          {(dark) => (
+        <div style={{ minHeight: '100vh', background: dark ? '#121212' : '#fff', transition: 'background 0.3s' }}>
+          <nav id="navbar" className="scrolled sticky top-0" style={dark ? { background: '#1a1a1a', borderBottom: '1px solid #2a2a2a' } : {}}>
             <a href="/Hylten-Invest/" className="logo-nav">
               <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="logo-icon" alt="Logo" />
-              HYLTÉN <span>INVEST</span> <span style={{ marginLeft: '1rem', borderLeft: '1px solid rgba(0,0,0,0.1)', paddingLeft: '1rem', fontSize: '0.7rem', color: '#666' }}>RETURN TO HOME</span>
+              HYLTÉN <span>INVEST</span> <span style={{ marginLeft: '1rem', borderLeft: `1px solid ${dark ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.1)'}`, paddingLeft: '1rem', fontSize: '0.7rem', color: dark ? '#888' : '#666' }}>RETURN TO HOME</span>
             </a>
           </nav>
           <main style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', position: 'relative', zIndex: 1 }}>
-            {slug ? <InsikterArticle slug={slug} /> : <InsikterIndex />}
+            {slug ? <InsikterArticle slug={slug} dark={dark} /> : <InsikterIndex dark={dark} />}
 
             {/* Centered Return Home Link */}
             {!slug && (
@@ -194,8 +237,8 @@ const App: React.FC = () => {
                   href="/Hylten-Invest/"
                   style={{
                     padding: '14px 32px',
-                    background: '#FFFFFF',
-                    border: '1px solid rgba(176, 141, 87, 0.2)',
+                    background: dark ? '#1a1a1a' : '#FFFFFF',
+                    border: `1px solid ${dark ? 'rgba(176, 141, 87, 0.3)' : 'rgba(176, 141, 87, 0.2)'}`,
                     color: '#B08D57',
                     textDecoration: 'none',
                     fontSize: '10px',
@@ -205,17 +248,17 @@ const App: React.FC = () => {
                     fontWeight: 700,
                     borderRadius: '0px',
                     transition: 'all 0.4s ease',
-                    boxShadow: '0 4px 20px rgba(0,0,0,0.03)'
+                    boxShadow: dark ? '0 4px 20px rgba(0,0,0,0.3)' : '0 4px 20px rgba(0,0,0,0.03)'
                   }}
                   onMouseOver={e => {
-                    e.currentTarget.style.background = '#1A1A1A';
+                    e.currentTarget.style.background = dark ? '#333' : '#1A1A1A';
                     e.currentTarget.style.color = '#FFFFFF';
                     e.currentTarget.style.borderColor = '#1A1A1A';
                   }}
                   onMouseOut={e => {
-                    e.currentTarget.style.background = '#FFFFFF';
+                    e.currentTarget.style.background = dark ? '#1a1a1a' : '#FFFFFF';
                     e.currentTarget.style.color = '#B08D57';
-                    e.currentTarget.style.borderColor = 'rgba(176, 141, 87, 0.2)';
+                    e.currentTarget.style.borderColor = dark ? 'rgba(176, 141, 87, 0.3)' : 'rgba(176, 141, 87, 0.2)';
                   }}
                 >
                   Return to Home
@@ -261,6 +304,8 @@ const App: React.FC = () => {
             </svg>
           </a>
         </div>
+          )}
+        </DarkModeProvider>
       </BrowserRouter>
     );
   }

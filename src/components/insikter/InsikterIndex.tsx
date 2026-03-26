@@ -54,7 +54,7 @@ const getPosts = () => {
     return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 };
 
-export const InsikterIndex: React.FC = () => {
+export const InsikterIndex: React.FC<{ dark?: boolean }> = ({ dark = false }) => {
     const [posts, setPosts] = useState<Article[]>([]);
     const [hoveredSlug, setHoveredSlug] = useState<string | null>(null);
 
@@ -73,8 +73,9 @@ export const InsikterIndex: React.FC = () => {
             maxWidth: '900px',
             margin: '0 auto',
             minHeight: '100vh',
-            background: '#fff',
+            background: dark ? '#121212' : '#fff',
             fontFamily: "'Inter', sans-serif",
+            color: dark ? '#e0e0e0' : 'inherit',
         }}>
             {/* Header */}
             <div style={{ marginBottom: '120px' }}>
@@ -87,13 +88,13 @@ export const InsikterIndex: React.FC = () => {
                         color: ACCENT,
                         fontWeight: 600,
                     }}>Perspectives</span>
-                    <div style={{ flex: 1, height: '1px', background: '#f5f5f5' }}></div>
+                    <div style={{ flex: 1, height: '1px', background: dark ? '#2a2a2a' : '#f5f5f5' }}></div>
                 </div>
 
                 <h1 style={{
                     fontFamily: "'Cormorant Garamond', 'Playfair Display', Georgia, serif",
                     fontSize: 'clamp(3rem, 8vw, 7rem)',
-                    color: '#0a0a0a',
+                    color: dark ? '#fff' : '#0a0a0a',
                     marginBottom: '32px',
                     letterSpacing: '-2px',
                     lineHeight: 1.0,
@@ -104,7 +105,7 @@ export const InsikterIndex: React.FC = () => {
 
                 <p style={{
                     fontSize: '15px',
-                    color: '#9ca3af',
+                    color: dark ? '#666' : '#9ca3af',
                     maxWidth: '600px',
                     lineHeight: 1.8,
                     letterSpacing: '0.5px',
@@ -122,7 +123,7 @@ export const InsikterIndex: React.FC = () => {
                         <article
                             key={post.slug}
                             style={{
-                                borderBottom: `1px solid ${isHovered ? 'rgba(176,141,87,0.3)' : '#f3f4f6'}`,
+                                borderBottom: `1px solid ${isHovered ? 'rgba(176,141,87,0.3)' : dark ? '#222' : '#f3f4f6'}`,
                                 transition: 'border-color 0.5s ease',
                             }}
                             onMouseEnter={() => setHoveredSlug(post.slug)}
@@ -161,7 +162,7 @@ export const InsikterIndex: React.FC = () => {
                                         fontSize: '10px',
                                         letterSpacing: '3px',
                                         textTransform: 'uppercase',
-                                        color: '#d1d5db',
+                                        color: dark ? '#555' : '#d1d5db',
                                     }}>
                                         {post.author}
                                     </span>
@@ -171,7 +172,7 @@ export const InsikterIndex: React.FC = () => {
                                 <h2 style={{
                                     fontFamily: "'Cormorant Garamond', 'Playfair Display', Georgia, serif",
                                     fontSize: 'clamp(1.5rem, 3vw, 2.2rem)',
-                                    color: isHovered ? ACCENT : '#0a0a0a',
+                                    color: isHovered ? ACCENT : dark ? '#e0e0e0' : '#0a0a0a',
                                     marginBottom: '16px',
                                     lineHeight: 1.3,
                                     fontWeight: 400,
@@ -184,7 +185,7 @@ export const InsikterIndex: React.FC = () => {
                                 {/* Description */}
                                 <p style={{
                                     fontSize: '14px',
-                                    color: '#6b7280',
+                                    color: dark ? '#777' : '#6b7280',
                                     lineHeight: 1.8,
                                     marginBottom: '24px',
                                     fontWeight: 300,
@@ -222,11 +223,11 @@ export const InsikterIndex: React.FC = () => {
                     <div style={{
                         textAlign: 'center',
                         padding: '100px 0',
-                        borderTop: '1px solid #f9fafb',
-                        borderBottom: '1px solid #f9fafb',
+                        borderTop: `1px solid ${dark ? '#222' : '#f9fafb'}`,
+                        borderBottom: `1px solid ${dark ? '#222' : '#f9fafb'}`,
                     }}>
                         <p style={{
-                            color: '#d1d5db',
+                            color: dark ? '#555' : '#d1d5db',
                             fontSize: '12px',
                             letterSpacing: '5px',
                             textTransform: 'uppercase',
