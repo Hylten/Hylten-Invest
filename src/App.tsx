@@ -3,7 +3,7 @@ import { BrowserRouter } from 'react-router-dom';
 import { InsikterIndex } from './components/insikter/InsikterIndex';
 import { InsikterArticle } from './components/insikter/InsikterArticle';
 
-const HomePage: React.FC = () => {
+const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark = false, toggleDark }) => {
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -40,18 +40,40 @@ const HomePage: React.FC = () => {
   };
 
   return (
-    <div className="main-content" id="mainContent">
-      <nav id="navbar" className={scrolled ? 'scrolled' : ''}>
-        <a href="#" className="logo-nav">
+    <div className="main-content" id="mainContent" style={dark ? { background: '#121212', color: '#e0e0e0' } : {}}>
+      <nav id="navbar" className={scrolled ? 'scrolled' : ''} style={dark ? { background: scrolled ? '#1a1a1a' : 'transparent', borderBottom: '1px solid #2a2a2a' } : {}}>
+        <a href="#" className="logo-nav" style={dark ? { color: '#fff' } : {}}>
           <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="logo-icon" alt="Logo" />
           HYLTÉN <span>INVEST</span>
         </a>
         <ul className="nav-links">
-          <li><a href="#about" onClick={(e) => scrollToSection(e, '#about')}>About</a></li>
-          <li><a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Philosophy</a></li>
-          <li><a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investments</a></li>
-          <li><a href="https://wa.me/46701619978?text=Regarding%20Hylt%C3%A9n%20Invest:" target="_blank" rel="noopener noreferrer">Contact</a></li>
+          <li><a href="#about" onClick={(e) => scrollToSection(e, '#about')} style={dark ? { color: '#ccc' } : {}}>About</a></li>
+          <li><a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')} style={dark ? { color: '#ccc' } : {}}>Philosophy</a></li>
+          <li><a href="#investments" onClick={(e) => scrollToSection(e, '#investments')} style={dark ? { color: '#ccc' } : {}}>Investments</a></li>
+          <li><a href="https://wa.me/46701619978?text=Regarding%20Hylt%C3%A9n%20Invest:" target="_blank" rel="noopener noreferrer" style={dark ? { color: '#ccc' } : {}}>Contact</a></li>
         </ul>
+        {toggleDark && (
+          <button
+            onClick={toggleDark}
+            style={{
+              background: dark ? '#fff' : '#1a1a1a',
+              color: dark ? '#1a1a1a' : '#fff',
+              border: 'none',
+              padding: '6px 12px',
+              fontSize: '9px',
+              letterSpacing: '2px',
+              textTransform: 'uppercase',
+              cursor: 'pointer',
+              fontFamily: "'Inter', sans-serif",
+              fontWeight: 600,
+              transition: 'all 0.3s',
+              borderRadius: '2px',
+              marginLeft: '1rem',
+            }}
+          >
+            {dark ? 'Light Mode' : 'Dark Mode'}
+          </button>
+        )}
       </nav>
 
       <section className="hero">
@@ -158,6 +180,13 @@ const HomePage: React.FC = () => {
 
 const App: React.FC = () => {
   const [loading, setLoading] = useState(true);
+  const [dark, setDark] = useState(() => {
+    return localStorage.getItem('hylten-dark') === 'true';
+  });
+
+  const toggleDark = () => {
+    setDark(!dark);
+  };
 
   useEffect(() => {
     const preloader = document.getElementById('preloader');
@@ -172,25 +201,21 @@ const App: React.FC = () => {
     return () => clearTimeout(timer);
   }, []);
 
+  useEffect(() => {
+    localStorage.setItem('hylten-dark', String(dark));
+    document.body.style.background = dark ? '#121212' : '#fff';
+  }, [dark]);
+
   const path = window.location.pathname;
   if (path.includes('/insights')) {
     const slug = path.split('/insights')[1].replace(/^\/|\/$/g, '');
 
-    const DarkModeProvider: React.FC<{ children: (dark: boolean) => React.ReactNode }> = ({ children }) => {
-      const [dark, setDark] = useState(() => {
-        return localStorage.getItem('hylten-dark') === 'true';
-      });
-
-      useEffect(() => {
-        localStorage.setItem('hylten-dark', String(dark));
-        document.body.style.background = dark ? '#121212' : '#fff';
-      }, [dark]);
-
-      return (
-        <>
-          {children(dark)}
+    return (
+      <BrowserRouter basename="/Hylten-Invest">
+        <div style={{ minHeight: '100vh', background: dark ? '#121212' : '#fff', transition: 'background 0.3s' }}>
+          {/* Dark Mode Toggle */}
           <button
-            onClick={() => setDark(!dark)}
+            onClick={toggleDark}
             style={{
               position: 'fixed',
               top: '20px',
@@ -212,15 +237,6 @@ const App: React.FC = () => {
           >
             {dark ? 'Light Mode' : 'Dark Mode'}
           </button>
-        </>
-      );
-    };
-
-    return (
-      <BrowserRouter basename="/Hylten-Invest">
-        <DarkModeProvider>
-          {(dark) => (
-        <div style={{ minHeight: '100vh', background: dark ? '#121212' : '#fff', transition: 'background 0.3s' }}>
           <nav id="navbar" className="scrolled sticky top-0" style={dark ? { background: '#1a1a1a', borderBottom: '1px solid #2a2a2a' } : {}}>
             <a href="/Hylten-Invest/" className="logo-nav">
               <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="logo-icon" alt="Logo" />
@@ -304,8 +320,6 @@ const App: React.FC = () => {
             </svg>
           </a>
         </div>
-          )}
-        </DarkModeProvider>
       </BrowserRouter>
     );
   }
@@ -322,7 +336,7 @@ const App: React.FC = () => {
           </div>
         </div>
       )}
-      <HomePage />
+      <HomePage dark={dark} toggleDark={toggleDark} />
     </>
   );
 };

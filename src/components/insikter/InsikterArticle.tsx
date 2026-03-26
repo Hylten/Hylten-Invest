@@ -167,28 +167,29 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
                 </svg>
             </a>
 
-            {/* Share Button - Bottom Center */}
+            {/* Share Button - Bottom Center Fixed */}
             <div ref={shareRef} style={{ position: 'fixed', bottom: '32px', left: '50%', transform: 'translateX(-50%)', zIndex: 10002 }}>
                 <button
                     onClick={() => setShareOpen(!shareOpen)}
                     style={{
-                        background: '#f3f4f6',
-                        border: '1px solid #e5e7eb',
-                        borderRadius: '50%',
-                        width: '36px',
-                        height: '36px',
+                        background: dark ? '#2a2a2a' : '#f3f4f6',
+                        border: `1px solid ${dark ? '#3a3a3a' : '#e5e7eb'}`,
+                        borderRadius: '24px',
+                        padding: '8px 20px',
                         display: 'flex',
                         alignItems: 'center',
-                        justifyContent: 'center',
+                        gap: '8px',
                         cursor: 'pointer',
                         transition: 'all 0.3s',
                         opacity: shareOpen ? 1 : 0.4,
                         boxShadow: '0 2px 8px rgba(0,0,0,0.06)',
+                        fontFamily: "'Inter', sans-serif",
                     }}
                     onMouseOver={e => e.currentTarget.style.opacity = '0.8'}
                     onMouseOut={e => { if (!shareOpen) e.currentTarget.style.opacity = '0.4'; }}
                 >
-                    <svg style={{ width: '14px', height: '14px', color: '#6b7280', transition: 'transform 0.3s', transform: shareOpen ? 'rotate(180deg)' : 'none' }} fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                    <span style={{ fontSize: '10px', letterSpacing: '2px', textTransform: 'uppercase', color: dark ? '#aaa' : '#6b7280', fontWeight: 600 }}>Share</span>
+                    <svg style={{ width: '12px', height: '12px', color: dark ? '#aaa' : '#6b7280', transition: 'transform 0.3s', transform: shareOpen ? 'rotate(180deg)' : 'none' }} fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" d="M5 15l7-7 7 7" />
                     </svg>
                 </button>
