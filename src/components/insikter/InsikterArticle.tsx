@@ -167,8 +167,8 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
                 </svg>
             </a>
 
-            {/* Share Button - Bottom Center Fixed */}
-            <div ref={shareRef} style={{ position: 'fixed', bottom: '32px', left: '50%', transform: 'translateX(-50%)', zIndex: 10002 }}>
+            {/* Share Button - Bottom of Article (Static) */}
+            <div ref={shareRef} style={{ display: 'flex', justifyContent: 'center', marginTop: '80px', paddingBottom: '40px', position: 'relative' }}>
                 <button
                     onClick={() => setShareOpen(!shareOpen)}
                     style={{
