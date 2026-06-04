@@ -36,4 +36,4 @@ Built for families who value discretion and stability. Our Strategic Collaterali
 
 They reinforce collateral without complexity. They provide stability without spectacle. For the investor who values calm over noise and structure over speculation, conservative capital deployment is not simply an option.
 
-It is the foundation. to approved mandates.
+It is the foundation.

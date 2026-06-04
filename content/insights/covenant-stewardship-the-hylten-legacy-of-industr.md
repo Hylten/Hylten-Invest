@@ -32,7 +32,7 @@ Hyltén Invest restores alignment by reintroducing Biblical accountability into 
 
 Factories were built before buzzwords existed. Trust was earned through execution, not theatrics.
 
-> **The Spirit of Gnosjö lives in:  - Duty**
+> **The Spirit of Gnosjö lives in: - Duty**
 
 - Clear roles. - Relational fidelity. - Small circles that outperform large bureaucracies. - Owners who work harder than employees.
 

@@ -38,11 +38,9 @@ Holdings scatter across exchanges, wallets, notebooks, custodians, memory. Disor
 
 Neither should heirs. Consolidation is not centralization; it is clarity of state. Consolidate by jurisdictional relevance. Consolidate by counterparty risk.
 
-Consolidate by utility. Use segregated vaults. Use tiered to approved mandates. : $5M+ target size.
+Consolidate by utility. Use segregated vaults. Use tieredUse deterministic recovery systems. Multi‑sig is not a tool; it is a covenant. It encodes shared responsibility within the family. It binds heirs into a structure that forces dialogue, continuity, and discipline.
 
-Use deterministic recovery systems. Multi‑sig is not a tool; it is a covenant. It encodes shared responsibility within the family. It binds heirs into a structure that forces dialogue, continuity, and discipline.
-
-No inheritance should be to approved mandates. : $5M+ target size. Multi‑sig ensures sovereignty does not die with the patriarch. In digital inheritance, the most fragile variable is latency.
+No inheritance should beMulti‑sig ensures sovereignty does not die with the patriarch. In digital inheritance, the most fragile variable is latency.
 
 Not price latency. Knowledge latency. If heirs cannot interpret the assets, they cannot defend them. If they cannot defend them, they cannot transmit them.
 
@@ -62,9 +60,7 @@ It uses collateralized debt structures. It uses yield flows. It uses over‑coll
 
 It uses cross‑jurisdictional arbitrage in tax and reporting regimes. It uses private credit channels to create predictable liquidity without fragmenting asset base.
 
-## The family retains sovereignty over its assets while  to approved mandates
-
-: $5M+ target size. Liquidity is no longer an event. It becomes infrastructure. But liquidity without hardening is hollow.
+## The family retains sovereignty over its assets whileLiquidity is no longer an event. It becomes infrastructure. But liquidity without hardening is hollow.
 
 Asset hardening transforms soft digital wealth into a defensible treasury. Hardened assets survive winter cycles, regulatory pivots, custody shocks, and black swan events. Hardening requires diversification not in asset type but in structural context.
 
@@ -72,8 +68,6 @@ Use trust-based vaulting. Use dual-jurisdiction custody. Use foundation wrappers
 
 Use regulatory arbitrage to capture stable environments while preserving operational flexibility. Hardened assets do not react to markets. They impose discipline on markets. They project longevity.
 
-They signal seriousness to banks, regulators, and counterparties. Families with hardened treasuries gain to approved mandates. : $5M+ target size.
-
-## The family must acknowledge that digital assets remain jurisdictionally unstable
+They signal seriousness to banks, regulators, and counterparties. Families with hardened treasuries gain## The family must acknowledge that digital assets remain jurisdictionally unstable
 
 Regulation is fluid. Tax codes lag. Enforcement is inconsistent. Therefore, the next

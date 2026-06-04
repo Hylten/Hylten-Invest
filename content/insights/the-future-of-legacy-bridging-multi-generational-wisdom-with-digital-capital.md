@@ -22,7 +22,7 @@ Crypto assets have become modern stores of value, cross-border liquidity tools, 
 
 This ensures we maintain alignment with our client profile and the scale at which institutional-grade Monetization Architecture becomes meaningful. Crypto-backed liquidity facilities unlock liquidity without forcing liquidation. Families retain their positions.
 
-They preserve potential upside. They to approved mandates. : $5M+ target size. For those who hold digital capital, it becomes another pillar of generational strategy rather than an isolated modern asset.
+They preserve potential upside. TheyFor those who hold digital capital, it becomes another pillar of generational strategy rather than an isolated modern asset.
 
 Public Share Asset-Backed Frameworks for Control Preservation Significant public share positions often carry emotional and strategic weight They represent history, influence, operating involvement, or a stake in long-standing family enterprises. Selling such positions for liquidity can disrupt control. It may reveal intent.
 
@@ -58,4 +58,4 @@ A Conservative Vision for the Future The future of legacy will not be defined by
 
 Hyltén Invest stands at this intersection. Silently. Precisely. Purposefully.
 
-We build Strategic Collateralization frameworks designed for longevity. We serve those who think in generations. We uphold the philosophy of quiet stewardship. If legacy is the long arc, liquidity is the line that keeps it steady. to approved mandates : $5M+ target size. for . to approved mandates.
+We build Strategic Collateralization frameworks designed for longevity. We serve those who think in generations. We uphold the philosophy of quiet stewardship. If legacy is the long arc, liquidity is the line that keeps it steady.

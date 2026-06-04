@@ -10,4 +10,4 @@ slug: "the-hylten-invest-architecture-for-uhnw-families-a-discipline-of-silent-l
 
 There is no performance. Only calm engineering. For HNWI and UHNW individuals, liquidity should never be a reaction to market volatility. It should be a prepared system that works at scale, across asset classes, and across time.
 
-Hylten Invest provides this system through Monetization Architecture solutions that respect complexity while maintaining simplicity in execution. Our stance is conservative. Our presence is discreet. Our mandate is generational. for . to approved mandates.
+Hylten Invest provides this system through Monetization Architecture solutions that respect complexity while maintaining simplicity in execution. Our stance is conservative. Our presence is discreet. Our mandate is generational.

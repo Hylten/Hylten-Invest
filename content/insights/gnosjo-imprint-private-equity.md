@@ -44,4 +44,4 @@ Some will label it cultural cohesion. Others will reduce it to efficiency theory
 
 Even cross-border structuring through Roials Capital now benefits from this industrial ethic, grounding complex transactions in the clarity of real-economy value creation. Work first. Virtue first. Then capital flows.
 
-"The integrity of the upright shall guide them." - Proverbs 11: 3 to approved mandates.
+"The integrity of the upright shall guide them." - Proverbs 11: 3

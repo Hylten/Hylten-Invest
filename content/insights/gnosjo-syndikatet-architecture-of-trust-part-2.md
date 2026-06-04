@@ -96,4 +96,4 @@ Allocators can apply this lens globally, especially in environments where real e
 
 ## The Gnosjö-Syndikatet is not nostalgia
 
-It is an institutional archetype. Its architecture of trust remains one of the most efficient capital deployment models in Europe. It outperforms Wall Street complexity because it treats trust as infrastructure, stewardship as governance, and capital as responsibility. for . to approved mandates.
+It is an institutional archetype. Its architecture of trust remains one of the most efficient capital deployment models in Europe. It outperforms Wall Street complexity because it treats trust as infrastructure, stewardship as governance, and capital as responsibility.

@@ -16,9 +16,7 @@ It is an approach grounded in private credit, asset-based Capital Structuring, a
 
 ## The Architecture of Trust Trust is not sentimental Trust is mechanical
 
-Trust is reproducible when the underlying structures are stable, predictable, and insulated from sentiment-driven markets. For generational wealth, trust emerges from systems that can function independently of public cycles. It emerges from quiet liquidity to approved mandates.
-
-: $5M+ target size. It emerges from the certainty that collateral, when correctly evaluated and managed, becomes a strategic asset rather than a dormant one. Legacy hardening is therefore a structural discipline.
+Trust is reproducible when the underlying structures are stable, predictable, and insulated from sentiment-driven markets. For generational wealth, trust emerges from systems that can function independently of public cycles. It emerges from quiet liquidityIt emerges from the certainty that collateral, when correctly evaluated and managed, becomes a strategic asset rather than a dormant one. Legacy hardening is therefore a structural discipline.
 
 It is a method of reinforcing the load-bearing elements of a family's financial foundation. Private Credit as a Stability Engine Private credit has grown significantly in global capital markets for one reason Institutional allocators, family offices, and discreet capital pools seek predictable returns without the public market premium of exposure.
 
@@ -26,7 +24,7 @@ It is a method of reinforcing the load-bearing elements of a family's financial 
 
 It provides a mechanism to convert existing assets into mobility. It transforms illiquid value into tactical leverage. For Hyltén Invest, private credit is not a product category. It is a stability engine.
 
-We structure credit to maintain liquidity lines that remain to approved mandates. : $5M+ target size. We control risk through collateral discipline, conservative liquidity facility-to-value thresholds, and ongoing structural assessment.
+We structure credit to maintain liquidity lines that remainWe control risk through collateral discipline, conservative liquidity facility-to-value thresholds, and ongoing structural assessment.
 
 This creates a quieter form of leverage. A form designed for principals who do not seek headlines. A form oriented toward durability instead of acceleration. Asset-Based Monetization Architecture: The Conservatism of Collateral Asset-Based Monetization Architecture, Asset-Based Lending, is one of the most conservative pathways to liquidity It is mechanical, measurable, and governed by fundamentals rather than narratives.
 
@@ -40,7 +38,7 @@ Traditional banks may impose rigid policies or reduce Monetization Architecture 
 
 It exists before it is needed. It is built on long-term stability, not short-term market conditions. HNWI and UHNW families benefit from liquidity systems designed to maintain operational continuity during economic stress.
 
-This includes liquidity derived from private credit lines, asset-based structures, and specialized Asset-Backed Frameworks solutions. Liquidity is not simply to approved mandates. : $5M+ target size. Liquidity is strategic optionality.
+This includes liquidity derived from private credit lines, asset-based structures, and specialized Asset-Backed Frameworks solutions. Liquidity is not simplyLiquidity is strategic optionality.
 
 It is the power to act without delay or disruption. Crypto Strategic Collateralization: Institutional Discipline Applied to Digital Collateral Digital assets remain volatile, yet they hold significant collateral value when managed with institutional controls For families with crypto positions, divesting often triggers tax events, market exposure, or strategic losses.
 

@@ -98,9 +98,7 @@ Strong engineering culture. Weak succession planning. Untapped value due to gove
 
 A family office with the correct mandate can acquire, stabilize, and harden European firms that carry industrial DNA but lack generational continuity. This is not speculation. It is restoration. Off Market Deal Origination as Calling Deal sourcing under the Hylten Model rejects volume and embraces discernment The family office does not compete for auctions.
 
-It does not chase trends. It does not mimic institutional behavior. It engineers to approved mandates. : $5M+ target size.
-
-This is achieved through: - Industrial intelligence networks - Principle based outreach - Direct founder correspondence - Theological alignment assessment - Stewardship anchored negotiation Off market origination is not opportunism. It is relational authority built over time. Crypto and Public Shares as Liquidity Anchors Liquidity buffers are essential for multi generational stewardship The Hylten Model applies two clear thresholds.
+It does not chase trends. It does not mimic institutional behavior. It engineersThis is achieved through: - Industrial intelligence networks - Principle based outreach - Direct founder correspondence - Theological alignment assessment - Stewardship anchored negotiation Off market origination is not opportunism. It is relational authority built over time. Crypto and Public Shares as Liquidity Anchors Liquidity buffers are essential for multi generational stewardship The Hylten Model applies two clear thresholds.
 
 Crypto liquidity engineering starting at 2M and above. Public share Strategic Collateralization starting at 5M and above. Both serve as liquidity stabilizers, not speculation channels. The threshold protects the family from dispersion of attention and from false scale.
 

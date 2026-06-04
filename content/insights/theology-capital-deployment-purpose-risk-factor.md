@@ -10,9 +10,7 @@ slug: "theology-capital-deployment-purpose-risk-factor"
 
 Purpose directs flow. Purpose orders exposure. Purpose sets the boundary between durable wealth and fragile speculation. Not sentiment.
 
-Not marketing. A governing architecture. The market feels the fracture. Narratives without moral authority collapse on to approved mandates.
-
-: $5M+ target size. Funds without an internal doctrine bleed discipline. Portfolios drift. Governance decays.
+Not marketing. A governing architecture. The market feels the fracture. Narratives without moral authority collapse onFunds without an internal doctrine bleed discipline. Portfolios drift. Governance decays.
 
 The rot is silent, but measurable. A Principal does not moralize this. A Principal states the structural reality. Purpose is a risk factor because misalignment destroys compounding.
 
@@ -34,4 +32,4 @@ Purpose becomes a due‑diligence metric. Stewardship becomes a signal. Legacy b
 
 Capital flees drift. Capital recognizes covenant. Even certain cross‑border execution platforms-structuring through Roials Capital-acknowledge this shift in the underwriting of strategic partners. The theology is simple.
 
-Capital follows order. Order follows purpose. And purpose, rightly held, becomes the most reliable risk reducer in any generation. : $5M+ target size. for . to approved mandates.
+Capital follows order. Order follows purpose. And purpose, rightly held, becomes the most reliable risk reducer in any generation.

@@ -6,7 +6,7 @@ author: "Jonas Hyltén"
 slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-enduring-dynasties"
 ---
 
-**And above all, it is protected through to approved mandates. : $5M+ target size. Families with significant capital often discover that the challenge is not wealth creation.**
+**And above all, it is protected throughFamilies with significant capital often discover that the challenge is not wealth creation.**
 
 ## The challenge is continuity
 

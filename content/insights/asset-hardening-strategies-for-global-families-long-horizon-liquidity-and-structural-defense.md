@@ -42,4 +42,4 @@ Regulation will evolve. Geopolitical tensions will shape capital flows. Families
 
 ## Asset hardening is therefore the evolutionary path of sophisticated wealth
 
-It is the transition from exposed capital to protected capital. From passive ownership to structural control. Hylten Invest stands as a partner for families that seek this transition with quiet authority and institutional discipline. for . to approved mandates.
+It is the transition from exposed capital to protected capital. From passive ownership to structural control. Hylten Invest stands as a partner for families that seek this transition with quiet authority and institutional discipline.

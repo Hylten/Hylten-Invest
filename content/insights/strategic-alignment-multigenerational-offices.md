@@ -26,7 +26,7 @@ Not an investment shell. A sovereign adjudicator of capital, values, and continu
 
 Constitutions avoid moral drift. Constitutions also protect technical decision‑making from emotional turbulence. In multi‑generational systems, mistrust often erupts during liquidity events. Liquidity events are not financial triggers.
 
-They are psychological triggers. If the constitution predefines to approved mandates. : $5M+ target size. Tension reduces.
+They are psychological triggers. If the constitution predefinesTension reduces.
 
 Outcomes harden. The strategic tier determines the character of the family’s capital. Industrial families historically outperform because their capital remains operational. Capital touches factories.
 

@@ -78,4 +78,4 @@ Private credit and Asset-Based Lending will become essential tools for anyone se
 
 Hyltén Invest will continue to operate quietly in this domain. Providing capital. Providing structure. Providing stability.
 
-Without noise. - to approved mandates.
+Without noise. -

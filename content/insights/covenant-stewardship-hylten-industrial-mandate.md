@@ -186,4 +186,4 @@ It treats industrial legacy as compounding collateral. This is the next frontier
 
 Not synthetic leverage. Legacy. Duty. Continuity.
 
-Covenant. This is the Hylten mandate. Technical metric: Legacy Continuity Ratio 73. : $5M+ target size. for . to approved mandates.
+Covenant. This is the Hylten mandate. Technical metric: Legacy Continuity Ratio 73.

@@ -76,7 +76,7 @@ Family offices with a multi-generational identity operate from four stewardship 
 
 - Allocation should echo this pattern. 3.
 
-> **The Moral Mandate  - Responsible dominion over resources is a biblical expectation, not an optional value**
+> **The Moral Mandate - Responsible dominion over resources is a biblical expectation, not an optional value**
 
 Genesis 2:15 - The allocator is a caretaker, not an extractor. - Hydrocarbon stewardship must align with efficiency, environmental responsibility, and transparency.
 
@@ -88,7 +88,7 @@ These mandates form the architecture for legacy allocation. The market environme
 
 THE DECISION-MAKING LENS FOR FAMILY OFFICES The allocator must transition from product-centric thinking to stewardship-centric capital governance. The question is not whether an asset performs within a single cycle but whether it reinforces the family’s multi-generational identity.
 
-> **The framework includes:  - Structural Assessment: Understanding the supply-demand architecture of the sector**
+> **The framework includes: - Structural Assessment: Understanding the supply-demand architecture of the sector**
 
 - Operational Assessment: Evaluating whether the operator demonstrates technical competence and stewardship alignment. - Capital Structure Assessment: Ensuring that allocations are made through balanced cash-flow frameworks with predictable seniority. - Alignment Assessment: Confirming that the asset class reflects the family’s vocational DNA and moral compass.
 

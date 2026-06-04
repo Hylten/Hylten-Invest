@@ -124,4 +124,4 @@ In certain cases, an to NAEO may be appropriate when alignment is clear.
 
 ## The purpose of these engagements is not transactional
 
-It is strategic calibration. Allocators that understand the structural dynamics of Alberta heavy oil, the mechanics of SAGD based production, the importance of cost stability, and the long term reliability premium recognize that capital preservation today is not passive. It is engineered. for . to approved mandates.
+It is strategic calibration. Allocators that understand the structural dynamics of Alberta heavy oil, the mechanics of SAGD based production, the importance of cost stability, and the long term reliability premium recognize that capital preservation today is not passive. It is engineered.

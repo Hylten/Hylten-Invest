@@ -48,4 +48,4 @@ Work with your hands. Solve the real problem. Trade fairly. Stand early.
 
 Finish what you promised. Teach the craft. This is the moral balance sheet. Not theoretical.
 
-Quantifiable. Bankable. Enduring. : $5M+ target size. for . to approved mandates.
+Quantifiable. Bankable. Enduring.

@@ -102,4 +102,4 @@ A generation that wastes forfeits inheritance. Proverbs 21: 5 .
 
 ## The stewardship filter is not decorative
 
-It is risk mitigation at the deepest level. EXIT The architecture of trust is validated not in origination but in exit. A well-architected trust structure produces: Recovery variance under 3 percent. : $5M+ target size. for . to approved mandates.
+It is risk mitigation at the deepest level. EXIT The architecture of trust is validated not in origination but in exit. A well-architected trust structure produces: Recovery variance under 3 percent.

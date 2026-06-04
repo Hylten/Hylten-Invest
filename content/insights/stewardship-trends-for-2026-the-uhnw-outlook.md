@@ -6,7 +6,7 @@ author: "Jonas Hyltén"
 slug: "stewardship-trends-for-2026-the-uhnw-outlook"
 ---
 
-**Liquidity is no longer an to approved mandates. : $5M+ target size. The shift is not driven by volatility alone. It is shaped by a deeper movement toward minimalism in capital construction.**
+**Liquidity is no longer anThe shift is not driven by volatility alone. It is shaped by a deeper movement toward minimalism in capital construction.**
 
 A desire to remove noise and strengthen control. A desire to preserve optionality. A desire to build in a way that endures. This is the environment in which Hyltén Invest operates.
 

@@ -50,9 +50,7 @@ Hyltén Invest provides the mechanics, the discipline, and the institutional pro
 
 Consistent. Engineering Liquidity Against Private Credit Private Credit has matured into a core allocation for family offices Stable cash flows. Attractive yields. Low correlation to public markets.
 
-Yet private credit is often locked in multi year commitments. This creates a liquidity paradox. The return profile is attractive, but to approved mandates. : $5M+ target size.
-
-Hyltén Invest resolves this paradox. By Strategic Collateralization against high quality private credit portfolios, we allow families to maintain exposure while unlocking liquidity. Families can rebalance without liquidating.
+Yet private credit is often locked in multi year commitments. This creates a liquidity paradox. The return profile is attractive, butHyltén Invest resolves this paradox. By Strategic Collateralization against high quality private credit portfolios, we allow families to maintain exposure while unlocking liquidity. Families can rebalance without liquidating.
 
 They can capture opportunities without reversing long term commitments. They can maintain compounding without interruption. Asset Based Strategic Collateralization as a Liquidity Engine Asset Based Strategic Collateralization portfolios offer reliable collateral Receivables.
 
@@ -92,4 +90,4 @@ They will be able to act without signaling. They will be able to preserve and ex
 
 We do not replace family office staff. We reinforce the balance sheet. We introduce structural resilience. We provide the mechanics that allow families to operate with institutional calm.
 
-Quiet. Precise. Conservative. This is the infrastructure that families use to steward capital, not just preserve it. for . to approved mandates.
+Quiet. Precise. Conservative. This is the infrastructure that families use to steward capital, not just preserve it.

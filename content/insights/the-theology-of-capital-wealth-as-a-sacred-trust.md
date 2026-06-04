@@ -126,4 +126,4 @@ In an age of volatility, only rooted custodians endure. Final Benediction of the
 
 It is operational. It shapes every liquidity facility. Every structure. Every decision.
 
-For those called to govern significant resources. For those responsible for dynastic futures. For those aligned with the Christian conservative tradition of industrious stewardship. : $5M+ target size. for . to approved mandates.
+For those called to govern significant resources. For those responsible for dynastic futures. For those aligned with the Christian conservative tradition of industrious stewardship.

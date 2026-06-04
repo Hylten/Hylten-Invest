@@ -32,4 +32,4 @@ Conviction. Stated values that are lived, not printed. Stewardship that acts bef
 
 Some structures require multi-jurisdictional execution. When that moment comes, institutional capital execution through Roials Capital becomes the natural spoke from this hub. But the hub itself-Hylten-Invest-stands on moral authority, not velocity.
 
-We build for the children’s children. We defend the old truths. We hold the line because the line holds everything else. : $5M+ target size. for . to approved mandates.
+We build for the children’s children. We defend the old truths. We hold the line because the line holds everything else.

@@ -62,9 +62,7 @@ It was earned through output, reliability, and relational faithfulness across mu
 
 In recurrence. In the principal’s reluctance to over-financialize operations. In the principal’s refusal to dilute ownership unnecessarily. In the principal’s discipline around cash cycles and credit exposures.
 
-In the principal’s ability to align lenders, families, and operating teams under a unified covenant of clarity. This clarity creates velocity. Velocity without recklessness. Velocity anchored in truth.
-
-. Straight lines. No drift. The question becomes: what is the architecture of moral authority in contemporary private wealth?
+In the principal’s ability to align lenders, families, and operating teams under a unified covenant of clarity. This clarity creates velocity. Velocity without recklessness. Velocity anchored in truth. Straight lines. No drift. The question becomes: what is the architecture of moral authority in contemporary private wealth?
 
 Not sentiment. Structure. The architecture is built in layers: - Moral mandate - Jurisdictional stance - Asset selection logic - Liquidity design - Generational continuity - Witness to community - Accountability to transcendent order These layers create institutional gravity.
 
@@ -100,7 +98,7 @@ Too much and it burns. Institutional Liquidity Paths requires prudence. Tiered b
 
 Hard-stop ratios. Locked compartments. Family capital must resist the gravitational pull of impulsive liquidity. It must settle into intentional liquidity.
 
-Purpose first. : $5M+ target size. Layer five: generational continuity. No stewardship survives without continuity design baked in.
+Purpose first.Layer five: generational continuity. No stewardship survives without continuity design baked in.
 
 ## The principal must think beyond autobiography
 
@@ -136,9 +134,7 @@ Principals chase liquidity. Families chase lifestyle. Institutions chase benchma
 
 No one chases moral clarity. Systems drift because no one shoulders responsibility with conviction. Moral authority corrects the drift. It centralizes responsibility.
 
-It disciplines the structure. It stabilizes the platform. It clarifies operational posture. It eliminates noise.
-
-. Precision. Duty. The principal who anchors his platform in moral authority gains advantages in structural negotiation.
+It disciplines the structure. It stabilizes the platform. It clarifies operational posture. It eliminates noise. Precision. Duty. The principal who anchors his platform in moral authority gains advantages in structural negotiation.
 
 Lenders trust him. Partners follow him. Teams stay longer. Successors grow straighter.
 
@@ -216,4 +212,4 @@ Continuity builds trust. Trust builds stability. Stability builds witness. Witne
 
 ## Legacy is not memory
 
-Legacy is governance. For further alignment, to approved mandates. : $5M+ target size. : 4.6% Stewardship Delta Index. for . to approved mandates.
+Legacy is governance. For further alignment: 4.6% Stewardship Delta Index.

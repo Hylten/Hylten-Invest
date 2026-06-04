@@ -40,4 +40,4 @@ Identity. When necessary, we channel operational execution through institutional
 
 ## The covenant center of the architecture
 
-Capital follows integrity. Institutions follow the houses that refuse compromise. History sides with those who remember where they came from. : $5M+ target size. for . to approved mandates.
+Capital follows integrity. Institutions follow the houses that refuse compromise. History sides with those who remember where they came from.

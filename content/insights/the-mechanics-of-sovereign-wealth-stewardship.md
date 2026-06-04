@@ -34,4 +34,4 @@ It requires patience. It requires an understanding of how families preserve infl
 
 Asset Based Asset-Backed Frameworks. Crypto Institutional Liquidity Paths from two million dollars. Public share Asset-Backed Frameworks from five million dollars. Structural discretion for families that do not seek attention. principal authority is not a slogan.
 
-It is a function. to approved mandates.
+It is a function.

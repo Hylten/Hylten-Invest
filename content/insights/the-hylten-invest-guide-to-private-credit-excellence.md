@@ -26,4 +26,4 @@ The execution. The continuity of the client’s vision. This is the essence of c
 
 Closing Perspective Private credit excellence is not built on noise It is built on structure, discipline, and the quiet execution of liquidity solutions for those who understand the responsibilities of wealth. Hylten Invest stands as a partner for HNWI and UHNW individuals who require sophisticated Capital Structuring instruments that preserve long term strategy.
 
-We operate with clarity. We maintain principal authority. We deliver liquidity with precision. to approved mandates. : $5M+ target size. for . to approved mandates.
+We operate with clarity. We maintain principal authority. We deliver liquidity with precision.

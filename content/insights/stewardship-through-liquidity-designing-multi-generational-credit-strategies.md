@@ -6,7 +6,7 @@ author: "Jonas Hyltén"
 slug: "stewardship-through-liquidity-designing-multi-generational-credit-strategies"
 ---
 
-**It needs clarity, structure, and predictable to approved mandates. : $5M+ target size. Credit becomes the backbone. Liquidity becomes the method.**
+**It needs clarity, structure, and predictableCredit becomes the backbone. Liquidity becomes the method.**
 
 Stewardship becomes the philosophy. This article examines how families can design multi generational credit strategies that reinforce liquidity, stability, and control. It reflects the minimalist and conservative approach preferred by high net worth families, family offices, and long term asset owners.
 
@@ -30,7 +30,7 @@ Credit solutions, especially long tenor and asset backed structures, reduce this
 
 Five principles create the foundation. Principle 1: Liquidity First Liquidity is not an outcome It is the starting point. Credit structures built early, during periods of strength, provide the greatest flexibility.
 
-Families that wait until liquidity is required often face weaker terms, higher costs, and reduced control. Liquidity first means preparing credit to approved mandates. : $5M+ target size. Principle 2: Concentration Requires Cushioning Most family balance sheets are concentrated by design This concentration increases return potential, but it also increases exposure to unexpected liquidity demands.
+Families that wait until liquidity is required often face weaker terms, higher costs, and reduced control. Liquidity first means preparing creditPrinciple 2: Concentration Requires Cushioning Most family balance sheets are concentrated by design This concentration increases return potential, but it also increases exposure to unexpected liquidity demands.
 
 A credit strategy cushions the balance sheet. It allows the family to maintain concentration while mitigating the risk that concentration creates. Principle 3: Promote Optionality, Not Leverage Families should not pursue leverage for return generation unless it is part of a long established strategy The purpose of most family credit programs is optionality.
 
@@ -40,11 +40,7 @@ Principle 5: Structure Must Outlive the Architects A multi generational credit s
 
 ## The process should survive leadership changes
 
-This is how multi generational stewardship becomes sustainable. Building the Credit Architecture A well designed credit architecture is not one facility It is a system. It balances to approved mandates.
-
-: $5M+ target size.
-
-## The architecture typically includes four components
+This is how multi generational stewardship becomes sustainable. Building the Credit Architecture A well designed credit architecture is not one facility It is a system. It balances## The architecture typically includes four components
 
 Short Term Liquidity Lines These provide flexibility for operating needs, tactical transactions, or short duration imbalances They should be simple, inexpensive, and fully aligned with the family’s investment policy. They also serve as the first defense against unexpected events. Medium Duration Facilities These help finance larger liquidity requirements They are often secured by marketable securities, real estate, or diversified portfolios.
 
@@ -52,9 +48,7 @@ Short Term Liquidity Lines These provide flexibility for operating needs, tactic
 
 The duration should reduce rollover risk. Long Duration Credit Structures These are the backbone of a multi generational strategy They may include long dated credit lines, private credit arrangements, or asset backed facilities tied to operating companies or key holdings. The primary purpose is generational continuity.
 
-They ensure that liquidity is never forced. Opportunistic Liquidity Programs These are optional, but they can create strategic advantage When markets dislocate, families with to approved mandates. : $5M+ target size.
-
-Opportunistic liquidity is a competitive edge for patient families.
+They ensure that liquidity is never forced. Opportunistic Liquidity Programs These are optional, but they can create strategic advantage When markets dislocate, families withOpportunistic liquidity is a competitive edge for patient families.
 
 Asset Types Suitable for Credit Backing The most effective credit strategies rely on strong collateral Families often use a mix of the following. Marketable Securities Equities and fixed income portfolios provide flexibility and fast execution They create predictable balance sheet optimization bases and are ideal for short and medium duration structures.
 

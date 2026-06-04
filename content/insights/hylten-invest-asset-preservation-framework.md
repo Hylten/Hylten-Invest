@@ -140,4 +140,4 @@ Durable. Preservation is not passive. Preservation is engineered. Designed.
 
 Enforced. Reaffirmed. Every decision must serve the third generation, not the present one. That is the doctrine.
 
-That is the duty. That is the architecture. : $5M+ target size. Mandate Efficiency Index: 0.87 for . to approved mandates.
+That is the duty. That is the architecture.Mandate Efficiency Index: 0.87

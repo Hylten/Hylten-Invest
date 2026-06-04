@@ -8,9 +8,7 @@ slug: "strategic-abl-diversification-for-long-term-family-office-protection"
 
 **Continuity of optionality. In this environment, liquidity is not simply a tool. Liquidity is an insurance policy against the unpredictable cycles that define global markets. It is also a stabilizing force inside multi generational wealth structures, especially when long horizon assets form the core of a family’s balance sheet.**
 
-For many families, traditional liquidity strategies have become increasingly constrained. Public markets offer liquidity but not stability. Banks offer structure but not flexibility. Private markets offer yield but not to approved mandates.
-
-: $5M+ target size. This is where Asset Based Institutional Liquidity Paths, backed by high quality private credit and institutional grade collateral, provides an alternative path. The right Asset-Based Lending structure respects the conservative nature of family offices and preserves the privacy, independence, and strategic silence required for complex estates.
+For many families, traditional liquidity strategies have become increasingly constrained. Public markets offer liquidity but not stability. Banks offer structure but not flexibility. Private markets offer yield but notThis is where Asset Based Institutional Liquidity Paths, backed by high quality private credit and institutional grade collateral, provides an alternative path. The right Asset-Based Lending structure respects the conservative nature of family offices and preserves the privacy, independence, and strategic silence required for complex estates.
 
 Hyltén Invest specializes in providing this structural mechanics layer. We serve as a quiet liquidity partner for HNWI and UHNW individuals, and for the family offices that manage their legacy assets. We maintain principal authority, a design principle that ensures capital flows in a controlled, discreet, institutionally scalable manner.
 

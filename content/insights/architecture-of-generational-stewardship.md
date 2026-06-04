@@ -8,7 +8,7 @@ slug: "architecture-of-generational-stewardship"
 
 The theological foundation of generational stewardship represents the most durable architecture for preserving capital across centuries. The biblical principle that a good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous, establishes a covenantal framework that transcends individual planning horizons. This principle, drawn from Proverbs 13:22, has guided the Hyltén family through generations of industrial enterprise in the Gnosjö region of Sweden. The J.E. Hyltén legacy exemplifies this commitment: building enterprises that serve community, maintaining discipline through generations, and treating capital as sacred trust.
 
-    Proverbs 13:22
+ Proverbs 13:22
 
 The Spirit of Gnosjö emerged from this theological soil: communal responsibility, resource discipline, and trust networks that reduce transaction costs. The industrial success of Gnosjö was not accidental. It was the practical manifestation of Christian stewardship applied to commercial enterprise. Families who operated in this tradition understood that capital was not their own, but entrusted to them for the benefit of future generations and the broader community. This understanding separated the Gnosjö model from opportunistic capitalism and aligned it with eternal principles.
 

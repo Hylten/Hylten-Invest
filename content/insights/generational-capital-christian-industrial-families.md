@@ -32,4 +32,4 @@ Too detached from the land, the craft, and the God-given duty to build. They for
 
 Place the burden back on the shoulders that can bear it. Generational capital grows only when the family stands under a shared vow and a singular mission. For houses requiring institutional structuring depth, systems built through Roials Capital may support the outer mechanics while the covenant guards the center: [Roials Capital](https://roialscapital.com/) Conviction holds.
 
-Exit. to approved mandates.
+Exit.

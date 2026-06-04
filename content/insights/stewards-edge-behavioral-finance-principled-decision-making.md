@@ -94,7 +94,7 @@ CULTIVATING BEHAVIORAL STRENGTH IN THE FAMILY OFFICE Most wealth is lost in the 
 
 The steward’s task is transmission-codifying the principles that resist psychological decay.
 
-> **The architecture includes:  - Narrative continuity: telling the industrial story truthfully to younger generations**
+> **The architecture includes: - Narrative continuity: telling the industrial story truthfully to younger generations**
 
 - Operational exposure: letting them see factories, workshops, service lines-not merely spreadsheets. - Responsibility training: giving them controlled authority early, with real feedback loops. - Moral apprenticeship: teaching them the biblical and philosophical foundations of free enterprise.
 

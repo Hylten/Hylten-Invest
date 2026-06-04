@@ -28,4 +28,4 @@ Our mandate is stability. Final Reflection: Alignment as an Act of Stewardship I
 
 It ensures that decisions made today do not constrain tomorrow. Through disciplined capital structures, quiet liquidity, and collateral-based credit, families can build a legacy that is resilient, coherent, and positioned for centuries rather than decades. For those who operate at scale, alignment is not optional.
 
-It is the foundation upon which continuity rests. to approved mandates.
+It is the foundation upon which continuity rests.

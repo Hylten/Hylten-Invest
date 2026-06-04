@@ -30,7 +30,7 @@ Quiet liquidity. Conservative structuring. Minimal operational risk. Minimal mar
 
 Maximum control. Silent structures give families the ability to navigate complexity without signaling movement. In a world where visibility is vulnerability, silence is strength.
 
-> **The Hylten Invest Client Profile We do not serve everyone We serve:  - Family offices**
+> **The Hylten Invest Client Profile We do not serve everyone We serve: - Family offices**
 
 - High Net Worth individuals. - Ultra High Net Worth individuals. - Institutional‑scale private clients. - Stewards of multi‑generational capital.
 

@@ -44,7 +44,7 @@ This calm is the foundation for multi cycle competitiveness.
 
 It is not financial engineering. It is structural reinforcement.
 
-> **The mechanics include:  - Replacement cost indexing to validate physical asset value irrespective of market sentiment**
+> **The mechanics include: - Replacement cost indexing to validate physical asset value irrespective of market sentiment**
 
 - Production throughput mapping to identify points of fragility or underutilization. - Equipment life curve calibration using Nordic industrial tolerance standards. - Covenant engineering that protects operational continuity rather than lender control.
 

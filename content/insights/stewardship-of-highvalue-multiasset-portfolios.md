@@ -22,7 +22,7 @@ It offers an alignment of collateral strength with liquidity needs. Hylten Inves
 
 For UHNW families managing significant private credit allocations, our Capital Structuring framework becomes a stability enhancer. It provides capital without noise, without dilution, and without compromising broader investment narratives. The mechanic is simple.
 
-The effect is profound. Asset Based Asset-Backed Frameworks for Structural Flexibility Asset based Institutional Liquidity Paths is a longitudinal tool for families who prefer to preserve core assets while to approved mandates : $5M+ target size. This includes financing backed by private credit, select business assets, and other institutional grade collateral.
+The effect is profound. Asset Based Asset-Backed Frameworks for Structural Flexibility Asset based Institutional Liquidity Paths is a longitudinal tool for families who prefer to preserve core assets whileThis includes financing backed by private credit, select business assets, and other institutional grade collateral.
 
 Asset-Based Lending introduces a structural layer that complements wealth preservation strategies. It converts static value into flexible value while respecting risk boundaries and long term mandates. For clients with diversified holdings, this can reduce tension between liquidity events and legacy goals.
 
@@ -78,4 +78,4 @@ Crypto Capital Structuring from 2,000,
 
 ## Stewardship is the philosophy that shapes their use
 
-Hylten Invest stands as the quiet structural force behind high value portfolios. We support the lineage of capital without interfering in its expression. For families who prefer principal authority over visible complexity, we remain the discreet and reliable steward behind the scenes. to approved mandates.
+Hylten Invest stands as the quiet structural force behind high value portfolios. We support the lineage of capital without interfering in its expression. For families who prefer principal authority over visible complexity, we remain the discreet and reliable steward behind the scenes.

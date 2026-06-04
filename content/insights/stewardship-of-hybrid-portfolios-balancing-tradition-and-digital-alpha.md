@@ -26,15 +26,13 @@ They offer global liquidity. They offer diversification outside traditional corr
 
 Our crypto Asset-Backed Frameworks service is built specifically for this tier. The minimum threshold is 2 million USD. This ensures scale, sophistication, and stability.
 
-## The structure allows families to  to approved mandates
-
-: $5M+ target size. It preserves long term holdings while enabling short term action. This approach treats digital assets as a mature collateral category rather than a speculative asset. Public Share Institutional Liquidity Paths at Scale Equities remain a core pillar of long term wealth Large concentrated positions often create challenges.
+## The structure allows families toIt preserves long term holdings while enabling short term action. This approach treats digital assets as a mature collateral category rather than a speculative asset. Public Share Institutional Liquidity Paths at Scale Equities remain a core pillar of long term wealth Large concentrated positions often create challenges.
 
 They can limit liquidity. They can create timing dilemmas. They may have emotional or legacy significance. They may require holding periods.
 
 Public share Monetization Architecture provides a discreet and efficient solution. We offer this service with a minimum threshold of 5 million USD. This is intentionally conservative. It ensures that the mechanics remain aligned with institutional execution.
 
-It ensures that the portfolio maintains structural integrity. Public share Capital Structuring allows families to remain invested while to approved mandates. : $5M+ target size. The result is flexibility without erosion of core positions.
+It ensures that the portfolio maintains structural integrity. Public share Capital Structuring allows families to remain invested whileThe result is flexibility without erosion of core positions.
 
 Why Hybrid Stewardship Matters for Generational Capital Generational wealth is not built through short cycles It requires time. It requires security. It requires an ability to adapt without restructuring the entire portfolio each time markets evolve.
 
@@ -72,4 +70,4 @@ Hybrid portfolios deliver these qualities. They evolve as markets evolve while r
 
 The Next Era of Wealth Architecture The coming decade will not be defined by a binary choice between traditional finance and digital assets It will be defined by the integration of the two. Wealth architecture is moving toward flexible systems that allow families to operate in both worlds simultaneously. Capital Structuring becomes a core function.
 
-Liquidity becomes a strategic layer. Hybrid design becomes a standard rather than an exception. At the center of this shift sits the need for professional, silent, deliberate stewardship. for . to approved mandates.
+Liquidity becomes a strategic layer. Hybrid design becomes a standard rather than an exception. At the center of this shift sits the need for professional, silent, deliberate stewardship.

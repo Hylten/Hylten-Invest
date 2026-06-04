@@ -36,7 +36,7 @@ The objective is to neutralize it. Public Share Monetization Architecture with E
 
 The minimum threshold is 5,000, 000 USD in equity value. This threshold ensures that the Strategic Collateralization architecture remains aligned with institutional expectations, not retail oriented offerings. Public share Monetization Architecture unlocks a unique advantage.
 
-It allows clients to maintain strategic exposure to long term equity positions while to approved mandates. : $5M+ target size. In periods of market uncertainty, liquidity without liquidation becomes a critical form of optionality.
+It allows clients to maintain strategic exposure to long term equity positions whileIn periods of market uncertainty, liquidity without liquidation becomes a critical form of optionality.
 
 Hylten Invest provides this with a level of discretion that avoids unnecessary visibility or operational disruption. principal authority in the Capital Stack Every firm holds a position in the capital hierarchy Some firms gain influence through volume. Others through visibility. Hylten Invest gains its authority through structure.
 
@@ -62,4 +62,4 @@ It chooses the areas where stability matters, and it executes those areas with p
 
 ## The firm’s role is not to follow trends
 
-Its role is to provide a framework for capital that remains rational, predictable, and quietly authoritative. This is the foundation that sophisticated wealth holders require. This is the foundation that Hylten Invest continues to build. to approved mandates : $5M+ target size. for . to approved mandates.
+Its role is to provide a framework for capital that remains rational, predictable, and quietly authoritative. This is the foundation that sophisticated wealth holders require. This is the foundation that Hylten Invest continues to build.

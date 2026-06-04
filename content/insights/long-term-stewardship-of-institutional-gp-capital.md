@@ -58,9 +58,7 @@ Calm is a competitive advantage. A Conservative Framework Built for Institutiona
 
 ## The approach is conservative, not out of hesitation but out of respect for the gravity of long-term capital
 
-Discipline builds longevity. Strategic Liquidity for GP Partners GPs often carry meaningful personal exposure inside their own funds Stewardship requires protecting that exposure from unrelated liquidity demands. By Institutional Liquidity Paths against institutional-grade collateral, Hylten Invest enables GPs to remain fully aligned with their LPs while to approved mandates.
-
-: $5M+ target size. - Personal commitments - Opportunity-driven allocations - Portfolio rebalancing - Family-level considerations No dilution. No disruption. No signaling risk.
+Discipline builds longevity. Strategic Liquidity for GP Partners GPs often carry meaningful personal exposure inside their own funds Stewardship requires protecting that exposure from unrelated liquidity demands. By Institutional Liquidity Paths against institutional-grade collateral, Hylten Invest enables GPs to remain fully aligned with their LPs while- Personal commitments - Opportunity-driven allocations - Portfolio rebalancing - Family-level considerations No dilution. No disruption. No signaling risk.
 
 A Framework for Families Who Value Quiet Strength Families operating at HNWI and UHNW scale often prefer relationships that feel like infrastructure Not advisors. Not intermediaries. A structural counterparty.
 

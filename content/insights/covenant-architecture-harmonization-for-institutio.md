@@ -164,4 +164,4 @@ They value predictability. They require clarity. Covenant architecture harmoniza
 
 ## The Fiduciary Razor provides the structural toolset to achieve this with precision
 
-It is conservative. It is minimalist. It is durable. It aligns with the ethos of capital that is designed to endure. for . to approved mandates.
+It is conservative. It is minimalist. It is durable. It aligns with the ethos of capital that is designed to endure.

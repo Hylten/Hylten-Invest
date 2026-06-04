@@ -26,4 +26,4 @@ For families who hold assets across decades, not quarters. For decision makers w
 
 They rely on private credit structures that do not bend with market sentiment. Hylten‑Invest serves as a principal authority in this domain. We provide the structural foundation that stabilizes UHNW wealth and preserves freedom of movement during any market cycle.
 
-For families who measure their wealth across generations, this is not optional. It is essential. to approved mandates.
+For families who measure their wealth across generations, this is not optional. It is essential.

@@ -20,9 +20,7 @@ This is where conservative financing reasserts its structural dominance. Low‑e
 
 Not optional. Not rhetorical. Families require more than capital. They require capital theology.
 
-Moral architecture. Stewardship governance. Conservative financing becomes the backbone of continuity, enabling the Fund‑III mindset: disciplined deployment, hardened exposures, real‑asset liquidity, and cash‑flow sovereignty independent of speculative cycles.
-
-. Stability first. Liquidity second. Yield third.
+Moral architecture. Stewardship governance. Conservative financing becomes the backbone of continuity, enabling the Fund‑III mindset: disciplined deployment, hardened exposures, real‑asset liquidity, and cash‑flow sovereignty independent of speculative cycles. Stability first. Liquidity second. Yield third.
 
 Always this order. The Spirit of Gnosjö-industrial faith expressed through frugality, endurance, and inter‑dependence-forms the cultural substrate beneath the financial engineering. A region that built global exporters from sawdust, scrap metal, and covenant trust understands leverage from a biblical perspective.
 

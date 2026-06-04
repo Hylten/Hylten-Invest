@@ -8,7 +8,7 @@ slug: "hylten-invest-the-silent-partner-in-stewardship"
 
 **Deliberate. This is not capital for the impatient. It is capital designed for continuity, discretion, and the type of resilience that only stewardship can produce. The Nature of a Silent Partner Every serious investor eventually recognizes that leverage, when constructed properly, is not a risk amplifier It is a precision tool.**
 
-Most institutions understand this. Most private clients do not have to approved mandates. : $5M+ target size. Hylten Invest fills this gap.
+Most institutions understand this. Most private clients do not haveHylten Invest fills this gap.
 
 Not loudly. Not visibly.
 

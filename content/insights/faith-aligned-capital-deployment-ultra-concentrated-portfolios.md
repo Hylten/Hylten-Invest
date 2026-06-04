@@ -128,4 +128,4 @@ If the mission served the capital, the next generation receives confusion. All c
 
 Unprincipled capital is dangerous. Covenant architecture solves the danger. That is the truth. I close with this: Stewardship is sovereignty.
 
-Sovereignty is service. Service to God precedes service to markets. When that order is honored, the portfolio becomes unshakeable. : $5M+ target size. for . to approved mandates.
+Sovereignty is service. Service to God precedes service to markets. When that order is honored, the portfolio becomes unshakeable.

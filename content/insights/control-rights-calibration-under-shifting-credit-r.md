@@ -52,9 +52,7 @@ In these environments, the strongest control rights are informational. Stewards 
 
 - Clear reporting cadence.
 
-- Direct access to approved mandates.
-
-- Defined triggers tied to operational metrics, not market valuations.
+- Direct access- Defined triggers tied to operational metrics, not market valuations.
 
 The role of direct intervention is limited in loose regimes. The priority is early detection.
 

@@ -12,4 +12,4 @@ Liquidity, therefore, becomes strategic. It becomes a tool of continuity, not sp
 
 Hyltén Invest operates at this intersection. Our focus is private credit and asset based Capital Structuring. We provide liquidity without forcing a family to exit long-term positions. We lend against sophisticated assets with thresholds aligned to institutional profiles.
 
-In this article we explore how sovereign crypto Institutional Liquidity Paths, within a private credit framework, has become a critical tool for capital migration among global families. It is not a trend. It is an emerging pillar of long-term stewardship. to approved mandates. for . to approved mandates.
+In this article we explore how sovereign crypto Institutional Liquidity Paths, within a private credit framework, has become a critical tool for capital migration among global families. It is not a trend. It is an emerging pillar of long-term stewardship.

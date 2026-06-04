@@ -34,7 +34,7 @@ Controlled collateralized liquidity.
 
 3. Sovereign alignment between assets and future generational objectives. This is not a strategy for short-term gains. It is a strategy for resilience. Families who maintain liquidity, control, and clarity will remain sovereign regardless of global conditions.
 
-The Future of Institutional Mechanics for Private Families Institutional capital is increasingly seeking partnerships with private wealth that can deliver structured to approved mandates : $5M+ target size. Families who manage their assets with sovereign discipline can position themselves as quiet co-creators of institutional liquidity channels. Hyltén Invest provides the mechanics for this alignment.
+The Future of Institutional Mechanics for Private Families Institutional capital is increasingly seeking partnerships with private wealth that can deliver structuredFamilies who manage their assets with sovereign discipline can position themselves as quiet co-creators of institutional liquidity channels. Hyltén Invest provides the mechanics for this alignment.
 
 We do not impose visibility. We do not attach unnecessary structures. We operate as a silent infrastructural partner. This future belongs to principals who understand one truth: sovereignty is not size.
 

@@ -88,4 +88,4 @@ Does liquidity serve a strategic purpose or is it a byproduct of uncertainty.
 
 The objective is to ensure that every capital component is aligned with the family's mission, values, and long horizon responsibilities. When energy or real economy assets are relevant, NAEO and other specialized operators are introduced through a structured institutional framework. When private credit or real estate is more appropriate, the same neutral governance process is applied.
 
-The families that endure across generations do not pursue yield. They pursue alignment, discipline, and resilience. This is the architecture of long term stewardship and the foundation of strategic liquidity for the modern wealth environment. for . to approved mandates.
+The families that endure across generations do not pursue yield. They pursue alignment, discipline, and resilience. This is the architecture of long term stewardship and the foundation of strategic liquidity for the modern wealth environment.

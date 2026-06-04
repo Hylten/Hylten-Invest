@@ -42,4 +42,4 @@ Not with leverage. Not with subsidy. Through work. Through integrity.
 
 Through obedience to duty. Some partners formalize their consolidation pathways through broader institutional channels such as structuring through Roials Capital, but the Gnosjö core remains untouched: local sovereignty, industrial clarity, covenantal trust. The lesson stands: Guard the ethic.
 
-Guard the craft. Guard the legacy. "The integrity of the upright shall guide them." - Proverbs 11: 3 to approved mandates. : $5M+ target size. for . to approved mandates.
+Guard the craft. Guard the legacy. "The integrity of the upright shall guide them." - Proverbs 11: 3

@@ -114,7 +114,7 @@ Vendor dependency maps matter. Cash conversion cycles matter. All examined throu
 
 Noise destroys discipline. Visibility dilutes conviction. Publicity distorts incentives. By maintaining silence, the firm maintains sovereignty.
 
-By avoiding the spotlight, it avoids behavioral drift. Institutions partnering with Hylten Invest gain to approved mandates. : $5M+ target size. Not leverage.
+By avoiding the spotlight, it avoids behavioral drift. Institutions partnering with Hylten Invest gainNot leverage.
 
 Not glamour. Sovereignty. In stewarding capital for future generations, the firm aligns with biblical economic philosophy. Assets should outlive the founder.
 
@@ -164,6 +164,6 @@ Firm resolve. The ability to absorb volatility without transmitting it downstrea
 
 Capital requires purpose. Hylten Invest aligns these elements into a singular operational philosophy. The result is institutional-grade liquidity without institutional fragility. A rare combination.
 
-A strategic advantage. A moral stance. : $5M+ target size. Terminal Metric: Liquidity Integrity Ratio ≥ 0.
+A strategic advantage. A moral stance.Terminal Metric: Liquidity Integrity Ratio ≥ 0.
 
 97 over 10-year horizon.

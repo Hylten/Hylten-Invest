@@ -18,17 +18,7 @@ const DRY_RUN = process.argv.includes('--dry-run');
 const REMOVE_DUPES = process.argv.includes('--remove-dupes');
 
 // ═══════════════════════════════════════════════════════
-// 1. TRUNCATED FOOTER PATTERNS
-// ═══════════════════════════════════════════════════════
-const JUNK_PATTERNS = [
-  /\n*:\s*\$5M\+.*$/s,
-  /\n*for\s*\.\s*to\s+approved\s+mandates\.?\s*$/s,
-  /\n*:\s*\$5M\+\s*target\s+size\.?\s*for\s*\.?\s*to\s*approved\s*mandates\.?\s*:?\s*\$5M\+\.?\s*$/s,
-  /\n+:\s+\$5M\+\.?\s*$/s,
-];
-
-// ═══════════════════════════════════════════════════════
-// 2. FALSE HEADINGS — # used mid-sentence for emphasis
+// 1. FALSE HEADINGS — # used mid-sentence for emphasis
 // ═══════════════════════════════════════════════════════
 function fixFalseHeadings(content) {
   const lines = content.split('\n');
@@ -212,51 +202,35 @@ function fixBrokenLinks(content) {
 }
 
 // ═══════════════════════════════════════════════════════
-// 5. REMOVE JUNK FOOTERS
+// 5. REMOVE JUNK FRAGMENTS (inline + footer)
 // ═══════════════════════════════════════════════════════
-function removeJunkFooters(content) {
+const JUNK_PATTERNS_INLINE = [
+  /\s*:\s*\$5M\+\s*target\s+size\.\s*for\s*\.\s*to\s+approved\s+mandates\.?\s*:?\s*\$5M\+\.?\s*/g,
+  /\s*:\s*\$5M\+\s*target\s+size\.\s*for\s*\.\s*to\s+approved\s+mandates\.?\s*/g,
+  /\s*:\s*\$5M\+\s*target\s+size\.?\s*/g,
+  /\s*to\s+approved\s+mandates\.\s*for\s*\.\s*to\s+approved\s+mandates\.\s*:?\s*\$5M\+\.?\s*/g,
+  /\s*for\s*\.\s*to\s+approved\s+mandates\.\s*:?\s*\$5M\+\.?\s*/g,
+  /\s*for\s*\.\s*to\s+approved\s+mandates\.?\s*/g,
+  /\s*to\s+approved\s+mandates\.?\s*/g,
+  /\s*for\s+approved\s+mandates\.?\s*(?:Minimum\s*)?/g,
+  /\s*:\s*\$5M\+\.?\s*/g,
+];
+
+function removeJunk(content) {
   let result = content;
-  const lines = result.split('\n');
-  
-  while (lines.length > 0) {
-    const lastLine = lines[lines.length - 1].trim();
-    
-    if (lastLine === '') {
-      lines.pop();
-      continue;
-    }
-    
-    if (
-      /^:\s*\$5M\+/.test(lastLine) ||
-      /^for\s*\.\s*to\s+approved/.test(lastLine) ||
-      /^to\s+approved\s+mandates/.test(lastLine) ||
-      /^\.\s*to\s+approved/.test(lastLine) ||
-      /^:\s*\$5M\+\.$/.test(lastLine) ||
-      lastLine === '.' ||
-      lastLine === 'for .' ||
-      lastLine === ': $5M+.' ||
-      /^:\s+\$\d+M\+\.?\s*(for\s*\.\s*)?$/.test(lastLine)
-    ) {
-      lines.pop();
-      continue;
-    }
-    
-    const cleanedLast = lastLine
-      .replace(/\s*:\s*\$5M\+\s*target\s+size\.\s*for\s*\.\s*to\s*approved\s*mandates\.?\s*:?\s*\$5M\+\.?\s*$/, '')
-      .replace(/\s*to\s+approved\s+mandates\.\s*for\s*\.\s*to\s*approved\s*mandates\.\s*:\s*\$5M\+\.?\s*$/, '')
-      .replace(/\s*for\s*\.\s*to\s*approved\s*mandates\.\s*:\s*\$5M\+\.?\s*$/, '')
-      .replace(/\s*:\s*\$5M\+\.?\s*$/, '')
-      .trim();
-    
-    if (cleanedLast !== lastLine && cleanedLast.length > 0) {
-      lines[lines.length - 1] = cleanedLast;
-      break;
-    }
-    
-    break;
+  for (const pattern of JUNK_PATTERNS_INLINE) {
+    result = result.replace(pattern, '');
   }
-  
-  return lines.join('\n');
+
+  // Clean up any resulting double punctuation, double spaces, or trailing artifacts
+  result = result.replace(/,\s*:/g, ':');
+  result = result.replace(/\.\s*\./g, '.');
+  result = result.replace(/  +/g, ' ');
+  result = result.replace(/\n{3,}/g, '\n\n');
+  result = result.replace(/\.\s*\n{2,}\./g, '.\n.');
+  result = result.trimEnd() + '\n';
+
+  return result;
 }
 
 // ═══════════════════════════════════════════════════════
@@ -339,7 +313,7 @@ for (const file of files) {
   let frontmatter = fmMatch[1];
   let body = fmMatch[2];
   
-  const afterJunk = removeJunkFooters(body);
+  const afterJunk = removeJunk(body);
   if (afterJunk !== body) {
     stats.junkRemoved++;
     modified = true;

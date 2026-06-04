@@ -6,7 +6,7 @@ author: "Jonas Hyltén"
 slug: "the-conservative-approach-to-portfolio-liquidity-for-long-term-stewards-of-capital"
 ---
 
-**: $5M+ target size. It is the ability to reposition capital without eroding asset value. It is the ability to manage obligations without dislocation. It is the ability to maintain control during periods when markets become emotional.**
+**It is the ability to reposition capital without eroding asset value. It is the ability to manage obligations without dislocation. It is the ability to maintain control during periods when markets become emotional.**
 
 It is the quiet infrastructure that protects the family’s timeline. Hyltén Invest operates in that space. We exist to provide structural liquidity for portfolios built on private credit, asset-backed positions, public equity allocations, and institutional-grade digital assets.
 
@@ -52,4 +52,4 @@ We build liquidity architectures that reinforce the strength of the portfolio ra
 
 For high net worth and ultra high net worth families, the conservative approach is often the most resilient. It creates optionality. It protects compounding. It maintains control.
 
-It extends the lifespan of strategy. Hyltén Invest provides the mechanisms required to maintain this stability. For families who value discretion, structure, and long-term stewardship, engineered liquidity becomes a fundamental part of their legacy architecture. to approved mandates.
+It extends the lifespan of strategy. Hyltén Invest provides the mechanisms required to maintain this stability. For families who value discretion, structure, and long-term stewardship, engineered liquidity becomes a fundamental part of their legacy architecture.

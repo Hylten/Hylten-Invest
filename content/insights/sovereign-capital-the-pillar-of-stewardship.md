@@ -20,13 +20,9 @@ Crypto Capital Structuring for Institutional-Level Holders The emergence of digi
 
 Crypto Asset-Backed Frameworks in our framework serves three purposes: - Protecting long-term holders from unnecessary disposals. - Unlocking liquidity in a volatile but maturing asset class. - Providing balance sheet flexibility without increasing exposure to market swings.
 
-We treat digital assets as strategic holdings rather than trading instruments. This conservatism allows clients to maintain directional conviction without compromising liquidity to approved mandates. : $5M+ target size.
+We treat digital assets as strategic holdings rather than trading instruments. This conservatism allows clients to maintain directional conviction without compromising liquidityPublic Share Strategic Collateralization for High Concentration Holders Many wealthy individuals hold significant positions in public equities, often through founder shares, inheritance, or long-term accumulation These positions are valuable but difficult to unwind without signaling effects or tax consequences. For these situations, Hyltén Invest offers public share Asset-Backed Frameworks with a minimum threshold of five million dollars.
 
-Public Share Strategic Collateralization for High Concentration Holders Many wealthy individuals hold significant positions in public equities, often through founder shares, inheritance, or long-term accumulation These positions are valuable but difficult to unwind without signaling effects or tax consequences. For these situations, Hyltén Invest offers public share Asset-Backed Frameworks with a minimum threshold of five million dollars.
-
-This size requirement ensures that the structure remains institutional, discreet, and operationally efficient. Public share Strategic Collateralization allows clients to: - Retain voting rights and continue long-term stewardship of positions. - to approved mandates.
-
-: $5M+ target size. - Shield core holdings from short-term liquidity pressures. This is a silent instrument. It operates quietly and efficiently, reinforcing the client’s sovereignty over their public market positions.
+This size requirement ensures that the structure remains institutional, discreet, and operationally efficient. Public share Strategic Collateralization allows clients to: - Retain voting rights and continue long-term stewardship of positions. -- Shield core holdings from short-term liquidity pressures. This is a silent instrument. It operates quietly and efficiently, reinforcing the client’s sovereignty over their public market positions.
 
 ## The Philosophy of principal authority We maintain an F-Hierarchical Dynamics This is our operational posture
 
@@ -38,7 +34,7 @@ We move quietly. We build frameworks. We reinforce sovereignty. Designing Liquid
 
 It is an ecosystem. It requires balance between assets, debt, and long-term objectives. It requires the discipline to avoid over-optimization. It requires the humility to maintain buffers even when markets appear stable.
 
-Building this ecosystem involves several layers: - A reserve strategy that reflects the family’s risk identity. - A liquidity ladder that blends short-term to approved mandates. : $5M+ target size. - A credit architecture that unlocks capital without jeopardizing asset integrity.
+Building this ecosystem involves several layers: - A reserve strategy that reflects the family’s risk identity. - A liquidity ladder that blends short-term- A credit architecture that unlocks capital without jeopardizing asset integrity.
 
 - An investment framework that remains detached from immediate cash flow demands. When these components align, wealth is no longer fragile. It becomes sovereign. It becomes structural.
 
@@ -74,4 +70,4 @@ The Continuity of Stewardship Stewardship is a continuum It extends beyond one g
 
 It is conservative. It is strategic. When liquidity is engineered correctly, the family remains in control. When control is maintained, assets remain intact.
 
-When assets remain intact, legacy becomes inevitable. to approved mandates.
+When assets remain intact, legacy becomes inevitable.

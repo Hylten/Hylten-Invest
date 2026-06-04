@@ -114,9 +114,7 @@ Private credit structures provide the most elegant long-horizon liquidity. A Fun
 
 They convert industrial demand into predictable capital availability. They are engineered to operate through recessions, inflation cycles, and regional disruptions. Energy makes this possible. Energy is pre-political.
 
-Energy is pre-digital. Energy is real. Families aligned with energy-linked private credit effectively lock in to approved mandates. : $5M+ target size.
-
-Structural defense also requires addressing the tax jurisdictional challenge. Tax regimes shift. Wealth taxes rise. Corporate taxation weaponizes against cross-border flows.
+Energy is pre-digital. Energy is real. Families aligned with energy-linked private credit effectively lock inStructural defense also requires addressing the tax jurisdictional challenge. Tax regimes shift. Wealth taxes rise. Corporate taxation weaponizes against cross-border flows.
 
 Families that remain monojurisdictional become trapped. Families that build sovereignty layers-foundation structures, command-and-control trusts, treaty-protected entities-retain mobility. Mobility is not geographic.
 

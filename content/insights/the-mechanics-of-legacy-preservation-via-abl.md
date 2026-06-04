@@ -16,9 +16,7 @@ We operate with quiet precision. We provide clarity without spectacle. We suppor
 
 Our role is to fortify that path. Engineering Liquidity Without Signalling One of the greatest risks for UHNW individuals is the visibility of their moves Selling a large equity block can attract attention. Restructuring positions can move markets.
 
-Liquidating digital assets can send signals that invite speculation. Asset-Based Lending removes the signaling effect entirely. It allows liquidity to be to approved mandates. : $5M+ target size.
-
-The assets remain in place.
+Liquidating digital assets can send signals that invite speculation. Asset-Based Lending removes the signaling effect entirely. It allows liquidity to beThe assets remain in place.
 
 ## The strategy remains intact
 
@@ -40,4 +38,4 @@ Public market positions will remain strategic anchors. Hyltén Invest stands in 
 
 Together, legacy is preserved. A Closing Note on Stewardship Stewardship is not a strategy It is a discipline. It is a way of approaching capital that respects time, structure, and intention. Liquefying assets without dismantling positions is an essential part of this discipline.
 
-This is why Asset Based Asset-Backed Frameworks remains one of the most powerful tools available to families that build for generations. For those who require quiet liquidity and structural clarity, Hyltén Invest operates with principal authority. to approved mandates. : $5M+ target size. for . to approved mandates.
+This is why Asset Based Asset-Backed Frameworks remains one of the most powerful tools available to families that build for generations. For those who require quiet liquidity and structural clarity, Hyltén Invest operates with principal authority.

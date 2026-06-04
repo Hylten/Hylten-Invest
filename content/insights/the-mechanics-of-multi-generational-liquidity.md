@@ -82,4 +82,4 @@ Optionality ensures that assets do not need to be liquidated prematurely. Contin
 
 A Long-Term Partnership Approach We work only with high net worth and ultra high net worth individuals We operate quietly. We avoid public signaling. Our role is to support, not to direct. Families come to us because they value long horizon thinking.
 
-They value precision in capital structure. They value a partner that does not require spotlight or narrative. This is the architecture of principal authority. to approved mandates. : $5M+ target size. for . to approved mandates.
+They value precision in capital structure. They value a partner that does not require spotlight or narrative. This is the architecture of principal authority.

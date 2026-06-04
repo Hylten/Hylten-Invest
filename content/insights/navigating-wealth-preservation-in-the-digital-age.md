@@ -16,9 +16,7 @@ Stewardship today is not about chasing yield. It is about ensuring that families
 
 Hyltén Invest supports this by maintaining a Strategic Collateralization framework that is both structured and adaptable. A framework that respects the quiet nature of true wealth preservation. Designing Liquidity for Multiple Generations Liquidity is not only a tactical requirement It is a generational inheritance.
 
-When a family builds liquidity systems that can endure, they transfer not just capital but capability. Children inherit assets. But they also inherit the structures that stabilize those assets. Private credit to approved mandates.
-
-: $5M+ target size. Asset-Based Lending facilities become part of the long horizon plan. Liquidity strategies become part of the stewardship education. In this way, liquidity is not a moment.
+When a family builds liquidity systems that can endure, they transfer not just capital but capability. Children inherit assets. But they also inherit the structures that stabilize those assets. Private creditAsset-Based Lending facilities become part of the long horizon plan. Liquidity strategies become part of the stewardship education. In this way, liquidity is not a moment.
 
 It is a multi generational asset class in itself. Hyltén Invest creates these systems with a focus on longevity, discretion, and resilience. Systems that outlast cycles. Systems that survive transitions.
 
@@ -36,4 +34,4 @@ They are foundational systems that stabilize wealth as the world becomes more dy
 
 Closing Reflection Wealth preservation in the digital age requires clarity Clarity of structure. Clarity of purpose. Clarity of execution. HNWI and UHNW individuals do not benefit from complexity for its own sake.
 
-They benefit from systems that function reliably, discreetly, and in alignment with generational objectives. Private credit and asset based Institutional Liquidity Paths provide this. Hyltén Invest exists to steward these systems with minimalist precision and long term integrity. to approved mandates.
+They benefit from systems that function reliably, discreetly, and in alignment with generational objectives. Private credit and asset based Institutional Liquidity Paths provide this. Hyltén Invest exists to steward these systems with minimalist precision and long term integrity.

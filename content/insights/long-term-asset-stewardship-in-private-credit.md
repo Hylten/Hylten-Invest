@@ -32,6 +32,4 @@ Stewardship is the method through which that stability is maintained. The Horizo
 
 HNWI and UHNW families will therefore continue to seek private credit partners that provide consistency. Partners that operate with restraint. Partners that prioritize structural clarity over growth for its own sake.
 
-Hyltén Invest remains committed to this position. We provide Institutional Liquidity Paths that protects capital. Asset-Backed Frameworks that respects long-term holdings. Strategic Collateralization that aligns with multigenerational purpose. to approved mandates : $5M+ target size.
-
-For inquiries related to long-term asset stewardship and private credit structures, to approved mandates.
+Hyltén Invest remains committed to this position. We provide Institutional Liquidity Paths that protects capital. Asset-Backed Frameworks that respects long-term holdings. Strategic Collateralization that aligns with multigenerational purpose.For inquiries related to long-term asset stewardship and private credit structures,

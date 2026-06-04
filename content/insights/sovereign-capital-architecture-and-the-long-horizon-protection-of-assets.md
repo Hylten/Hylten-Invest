@@ -16,9 +16,7 @@ It provides mechanical clarity for capital that requires discretion, continuity,
 
 HNWI and UHNW families with significant exposure to private markets, public equities, digital assets, or concentrated holdings often discover that liquidity is the constraint that limits strategic decisions. The market does not limit them. Their assets do.
 
-The ability to acquire, reposition, or hedge is restricted when liquidity is fixed. Sovereign capital solves this by separating ownership from mobility, allowing assets to remain intact while liquidity remains to approved mandates. : $5M+ target size.
-
-This shift is not cosmetic. It is foundational. It changes how families steward portfolios and how they defend wealth during periods of volatility. The Role of Private Credit in Capital Sovereignty Private credit has become one of the most important tools for families seeking independence from traditional banking constraints Its rise is not a trend.
+The ability to acquire, reposition, or hedge is restricted when liquidity is fixed. Sovereign capital solves this by separating ownership from mobility, allowing assets to remain intact while liquidity remainsThis shift is not cosmetic. It is foundational. It changes how families steward portfolios and how they defend wealth during periods of volatility. The Role of Private Credit in Capital Sovereignty Private credit has become one of the most important tools for families seeking independence from traditional banking constraints Its rise is not a trend.
 
 It is a structural rebalancing of how credit is sourced and how value is collateralized. For Hylten‑Invest, private credit is not a trading instrument. It is a liquidity architecture. Liquidity sourced through private credit creates space.
 
@@ -40,9 +38,7 @@ Liquidity Against Crypto Holdings Digital asset portfolios held by private indiv
 
 Most private lenders lack the institutional structuring that these portfolios require. Hylten‑Invest provides crypto Strategic Collateralization solutions with a minimum threshold. This threshold is intentional.
 
-It maintains alignment with a clientele that requires silence, clarity, and precision. Crypto Strategic Collateralization in this context is not speculative leverage. It is sovereign liquidity. It allows families to retain long-term conviction while to approved mandates.
-
-: $5M+ target size. The objective is strategic neutrality. The asset remains in place. Liquidity becomes available.
+It maintains alignment with a clientele that requires silence, clarity, and precision. Crypto Strategic Collateralization in this context is not speculative leverage. It is sovereign liquidity. It allows families to retain long-term conviction whileThe objective is strategic neutrality. The asset remains in place. Liquidity becomes available.
 
 ## The family retains sovereignty
 
@@ -84,4 +80,4 @@ An investor who values sovereignty over speed, clarity over noise, and structure
 
 ## The firm’s role is architectural
 
-It builds liquidity corridors where needed. It strengthens protections where necessary. It operates with minimalist precision. The objective is simple, keep assets intact, keep liquidity available, and keep families in absolute control of their capital. for . to approved mandates.
+It builds liquidity corridors where needed. It strengthens protections where necessary. It operates with minimalist precision. The objective is simple, keep assets intact, keep liquidity available, and keep families in absolute control of their capital.

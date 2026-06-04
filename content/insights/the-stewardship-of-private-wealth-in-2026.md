@@ -34,4 +34,4 @@ Custody models will change. Cross-border flows will become more complex. The fam
 
 Liquidity, collateral, and credit will remain foundational. Asset-backed Institutional Liquidity Paths and private credit will continue their structural ascent. Digital assets will integrate further into sophisticated balance sheets.
 
-Those who create clarity today will inherit stability tomorrow. This is the stewardship mindset. to approved mandates.
+Those who create clarity today will inherit stability tomorrow. This is the stewardship mindset.

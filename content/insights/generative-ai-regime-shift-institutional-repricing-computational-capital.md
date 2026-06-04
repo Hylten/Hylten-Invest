@@ -108,4 +108,4 @@ Systems Integrity Lens Does the opportunity carry structural resilience independ
 
 3. Stewardship Alignment Lens Does the opportunity respect the theological mandate of responsible capital?
 
-Does it allocate computational power toward value creation that enhances capacity across generations? Allocators requiring architectural clarity or jurisdictional calibration may initiate a confidential Strategy Audit. The objective is precision alignment within a sector where most participants operate on assumption rather than operational intelligence. for . to approved mandates.
+Does it allocate computational power toward value creation that enhances capacity across generations? Allocators requiring architectural clarity or jurisdictional calibration may initiate a confidential Strategy Audit. The objective is precision alignment within a sector where most participants operate on assumption rather than operational intelligence.

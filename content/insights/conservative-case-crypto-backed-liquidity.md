@@ -74,4 +74,4 @@ This is aligned with Christian industrial heritage where commitment and clarity 
 
 3. Stewardship Capital must be deployed with moral clarity, precision, and accountability.
 
-Asset-Backed Frameworks is not expansionism. It is a resilience discipline. Allocators requiring a deeper examination of structural alignment, technical counterparty mechanics, and cross jurisdiction integration typically engage in confidential strategy consultations to map where crypto collateral fits within their broader capital architecture. for . to approved mandates.
+Asset-Backed Frameworks is not expansionism. It is a resilience discipline. Allocators requiring a deeper examination of structural alignment, technical counterparty mechanics, and cross jurisdiction integration typically engage in confidential strategy consultations to map where crypto collateral fits within their broader capital architecture.

@@ -20,7 +20,7 @@ A quiet safeguard. A structural advantage. When Liquidity Becomes a Strategic As
 
 It should adapt. It should respond. It should integrate with the broader capital map. By Institutional Liquidity Paths against private credit, asset backed positions, crypto, and public shares, we create a liquidity environment that moves with the family’s priorities.
 
-This enables three core outcomes. Preservation of exposure. to approved mandates. : $5M+ target size. Continuation of long term compounding.
+This enables three core outcomes. Preservation of exposure.Continuation of long term compounding.
 
 Liquidity becomes part of the family’s strategic infrastructure. Not a reaction. A design. A Conservative Future Forward Framework The world’s wealthiest families are shifting toward models of stewardship Less focus on acceleration.
 
@@ -28,4 +28,4 @@ More focus on endurance. Liquidity, when built correctly, becomes a stabilizing 
 
 Structured. Discreet. We provide a path for conservative capital to remain ready, patient, and resilient. This is strategic liquidity.
 
-This is principal authority in practice. to approved mandates.
+This is principal authority in practice.

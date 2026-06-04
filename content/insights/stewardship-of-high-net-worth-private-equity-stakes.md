@@ -30,9 +30,7 @@ They are sophisticated, but they are predictable. For HNWIs with exposure to pri
 
 It maintains long‑term return profiles. It avoids unnecessary tax events. It preserves the internal logic of the portfolio. At Hyltén Invest, we utilise private credit as a dependable footing for Institutional Liquidity Paths.
 
-Our approach is neither aggressive nor speculative. It is architectural. Asset-Based Monetization Architecture for Direct Ownership and Control Asset Based Monetization Architecture provides another pathway, particularly for investors with operating companies, real assets, or complex family holdings Asset-Based Lending respects the underlying value while providing clean to approved mandates.
-
-: $5M+ target size. It avoids the noise of valuation disputes that often arise in more flexible financing environments. It is transparent. It is conservative.
+Our approach is neither aggressive nor speculative. It is architectural. Asset-Based Monetization Architecture for Direct Ownership and Control Asset Based Monetization Architecture provides another pathway, particularly for investors with operating companies, real assets, or complex family holdings Asset-Based Lending respects the underlying value while providing cleanIt avoids the noise of valuation disputes that often arise in more flexible financing environments. It is transparent. It is conservative.
 
 It is repeatable. For family offices managing multiple asset classes, Asset-Based Lending becomes a silent stabiliser. It supports transitional phases, generational shifts, capex programmes, acquisitions, and defensive allocations.
 
@@ -72,4 +70,4 @@ But stewardship requires more than conviction. It requires mobility. It requires
 
 It is guarded. Hyltén Invest stands at the intersection of liquidity architecture and long‑term private capital. Quiet. Precise.
 
-Enduring. to approved mandates.
+Enduring.

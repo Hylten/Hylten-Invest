@@ -52,4 +52,4 @@ Continuity requires foresight. It requires discipline. It requires systems that 
 
 Final Perspective The Hylten Invest Model for Asset Hardening is a conservative, long term framework designed to support significant private capital It strengthens the balance sheet. It expands liquidity with discipline. It protects strategic freedom.
 
-It is built quietly. It is built precisely. It is built for clients who value strength without noise. to approved mandates. : $5M+ target size. for . to approved mandates.
+It is built quietly. It is built precisely. It is built for clients who value strength without noise.
