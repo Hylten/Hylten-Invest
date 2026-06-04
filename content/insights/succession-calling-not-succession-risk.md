@@ -2,7 +2,7 @@
 title: "Succession as Covenant, Not Contingency"
 description: "A principal-level examination of generational transfer, succession conviction, and the moral architecture of Christian stewardship within industrial families."
 date: "2025-11-01"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "succession-calling-not-succession-risk"
 ---
 
@@ -14,4 +14,4 @@ Industrial families lose momentum when they turn inward and begin treating the n
 
 Tight fists. Frozen equity. Patriarchal hesitation masquerading as prudence. Families call this caution.
 
-It is entropy. It kills initiati to approved mandates. for . to approved mandates. : $5M+.
+It is entropy. It kills initiati

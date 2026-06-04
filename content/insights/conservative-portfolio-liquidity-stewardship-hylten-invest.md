@@ -32,13 +32,11 @@ Noise falls away. Forced selling dies. Covenant breaches evaporate. Conservative
 
 Nothing exotic. No dependence on second-order market psychology.
 
-
 # The Gnosjö model never trusted abstraction because abstraction never fed a family
 
 Liquidity must be earned, not granted. Produced, not promised. This is why Hylten‑Invest positions liquidity not as a pool but as a flow. Pools stagnate.
 
 Flows regenerate.
-
 
 # The steward who understands this becomes unkillable
 
@@ -68,7 +66,6 @@ Tier 1 Cash-generative real assets without demand elasticity. Tier 2 Private cre
 
 Tier 4 Anything that requires goodwill, narrative compression, or beta.
 
-
 # The steward allocates to Tier 1 and Tier 2
 
 He occasionally deploys into Tier 3 if the counterparty architecture is sound. Tier 4 is avoided unless the family is engaging in strategic positioning or next-generation skill development. This hierarchy is not ideological.
@@ -87,7 +84,6 @@ When these three layers align, the steward becomes sovereign. When they diverge,
 
 But the price is different for stewards than for speculators.
 
-
 # The steward pays for liquidity upfront by refusing complexity and embracing simplicity
 
 He pays by avoiding oversized commitments. He pays by declining entertainment disguised as opportunity. The speculator pays for liquidity later when volatility extracts payment through fear. This difference is moral.
@@ -98,7 +94,6 @@ Industrial cash flows respect time. Private credit amortization schedules respec
 
 Synthetic leverage ignores time. Time is sovereign.
 
-
 # The steward obeys it
 
 - Fund-III design logic deserves explicit treatment. In a conservative liquidity framework, Fund-III is not a growth vehicle. It is a resolution vehicle. It proves whether the GP learned discipline.
@@ -108,7 +103,6 @@ Whether underwriting hardened. Whether the liquidity architecture matured. Wheth
 Fund-III success establishes dynasty partnership. This is why Hylten‑Invest challenges every GP: Do not raise Fund-III until your liquidity ethics are unshakable. You do not get three chances with generational families.
 
 You get one.
-
 
 # Stewardship is a covenant, not a contract
 
@@ -121,7 +115,6 @@ So do selected US states. Conservative stewards avoid jurisdictions with caprici
 It reflects identity. It protects families from fragility and protects enterprises from hubris. My grandfather taught me this in the sawdust of our workshop. Machines running.
 
 Orders tight. Margins thin. Liquidity thick.
-
 
 # The Spirit of Gnosjö lived in every invoice: work hard, pay early, stay solvent, stay free
 
@@ -149,9 +142,8 @@ If liquidity dies when the principal dies, stewardship failed. - Liquidity is id
 
 This is why Hylten‑Invest refuses complexity dressed as sophistication. This is why we refuse narratives without cash. This is why we refuse to build any structure we cannot explain in a workshop to a machinist who knows the difference between throughput and theory.
 
-
 # The steward must be understood
 
 Complexity destroys understanding. Understanding preserves continuity. - We close with a mandate, not a summary. Liquidity ratio target for long-horizon conservative stewards: 1.
 
-35 coverage against five-year forward obligations. : $5M+ target size. for . to approved mandates. : $5M+.
+35 coverage against five-year forward obligations.

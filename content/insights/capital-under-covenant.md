@@ -2,7 +2,7 @@
 title: "Capital Under Covenant"
 description: "A principal-level directive on spiritually anchored capital, industrial heritage, and the sovereign duty of Christian stewardship."
 date: "2025-10-16"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "capital-under-covenant"
 ---
 
@@ -24,11 +24,12 @@ No fantasies of control. Good stewardship refuses the delusion that value can be
 
 Reality always wins. Spiritually informed asset management is not mysticism. It is clarity. Work produces value.
 
-Innovation compounds value. Character protects value. And only a principled architecture preserves it across generations. Three pillars form the sovereign structure: • The Moral Mandate: Capital deployed with clean hands and straight purpose.
+Innovation compounds value. Character protects value. And only a principled architecture preserves it across generations. Three pillars form the sovereign structure:
+- The Moral Mandate: Capital deployed with clean hands and straight purpose.
 
-• The Industrial Mandate: Build. Fix. Solve. Pass forward.
+- The Industrial Mandate: Build. Fix. Solve. Pass forward.
 
-• The Covenant Mandate: Guard the long arc. Protect the children’s children. Where these converge, capital becomes more than capital. It becomes legacy.
+- The Covenant Mandate: Guard the long arc. Protect the children’s children. Where these converge, capital becomes more than capital. It becomes legacy.
 
 It becomes architecture. It becomes witness. Some families outsource this moral calculus. We do not.
 
@@ -36,4 +37,4 @@ Hylten-Invest defends the free market because it defends human dignity. A system
 
 For global structuring, Roials Capital handles the operational machinery of scale, but the blueprint originates here in the covenant chamber [Roials Capital](https://roialscapital.com/) Guard the capital. Honor the work. Magnify the calling.
 
-A Principal moves under conviction. : $5M+ target size. for . to approved mandates. : $5M+.
+A Principal moves under conviction.

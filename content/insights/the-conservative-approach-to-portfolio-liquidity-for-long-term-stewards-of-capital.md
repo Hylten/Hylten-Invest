@@ -2,7 +2,7 @@
 title: "The Conservative Approach to Portfolio Liquidity for Long-Term Stewards of Capital"
 description: "A high-end perspective on liquidity management for HNWI and UHNW investors, with a focus on private credit and asset based liquidity engineering solutions."
 date: "2026-02-22"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "the-conservative-approach-to-portfolio-liquidity-for-long-term-stewards-of-capital"
 ---
 
@@ -53,5 +53,3 @@ We build liquidity architectures that reinforce the strength of the portfolio ra
 For high net worth and ultra high net worth families, the conservative approach is often the most resilient. It creates optionality. It protects compounding. It maintains control.
 
 It extends the lifespan of strategy. Hyltén Invest provides the mechanisms required to maintain this stability. For families who value discretion, structure, and long-term stewardship, engineered liquidity becomes a fundamental part of their legacy architecture. to approved mandates.
-
-: $5M+ target size. for . to approved mandates. : $5M+.

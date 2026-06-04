@@ -2,7 +2,7 @@
 title: "The Covenant Firms: How Christian Industrial Houses Forged the Productivity Architecture of the Nordic Realm"
 description: "A principal-level briefing on the moral, industrial, and covenantal dynamics that enabled Christian legacy manufacturers to generate disproportionate productivity gains across the Nordic region."
 date: "2025-09-23"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "christian-industrial-legacy-nordic-productivity-growth"
 ---
 
@@ -19,7 +19,6 @@ They refined. They upheld the covenant between labor, capital, and faith. Their 
 This is the engine. And the region still benefits from the compounding effect of their early obedience. Phase One. Internal Logic.
 
 The Nordic model is often mischaracterized in global discourse as a triumph of bureaucratic symmetry. The narrative is shallow.
-
 
 # The reality is older and harder
 
@@ -79,13 +78,11 @@ And this is where the modern misalignment begins. As public discourse drifts tow
 
 Consolidation thins the ranks.
 
-
 # The covenant culture is diluted
 
 Industrial identity fades into generic corporate behavior. But the productivity engine does not tolerate dilution. You remove covenant, you weaken output. You sever stewardship, you weaken innovation.
 
 You degrade the Protestant ethic, you weaken the firm’s inner constitution. The Nordic region must remember what built it. Industrial morality. Covenant capital.
-
 
 # Stewardship as first principle
 
@@ -101,11 +98,10 @@ But the disciplined, covenantally anchored industrial house is still a fortress.
 
 ([Roials Capital](https://roialscapital.com/)) But the capital is secondary.
 
-
 # The covenant is primary
 
 This is what we guard at Hylten‑Invest. Not nostalgia. Architecture. Not sentiment.
 
 Sovereignty. Not slogans. Legacy. The Nordic productivity story is a Christian story.
 
-Silenced in public. Indelible in reality. : $5M+ target size. for . to approved mandates. : $5M+.
+Silenced in public. Indelible in reality.

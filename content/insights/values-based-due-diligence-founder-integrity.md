@@ -2,7 +2,7 @@
 title: "The Sovereign Method: Values‑Based Due Diligence and the Moral Architecture of Founder Integrity"
 description: "A principal-level briefing on integrity assessment, covenantal stewardship, and industrial-era moral diagnostics for evaluating founders within free‑enterprise ecosystems."
 date: "2026-02-01"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "values-based-due-diligence-founder-integrity"
 ---
 
@@ -24,7 +24,6 @@ It is the unpriced variable that determines whether a venture becomes an inherit
 
 A handshake was a bond. Covenant mattered.
 
-
 # Stewardship was not branding; it was survival
 
 From that tradition we inherit the methodology detailed below: a values‑based due‑diligence architecture designed to reveal the founder’s moral structure before assessing any operational metrics. clarity. Character first. Competence second.
@@ -41,17 +40,17 @@ If a founder is accountable only to self, the risk profile rises. If accountable
 
 This is not sentiment. This is structural advantage. A man bound by covenant does not cut corners when the pressure comes. II.
 
-
 # THE INDUSTRIAL TESTS Real integrity shows under load
 
-So we apply load. Three stressors: 1. Scarcity stressor 2. Temptation stressor 3.
+So we apply load. Three stressors:
+1. Scarcity stressor
+2. Temptation stressor 3.
 
 Ambiguity stressor Each one surfaces a different part of a founder’s moral architecture. Scarcity exposes entitlement. Temptation exposes vanity. Ambiguity exposes truthfulness.
 
 For example: When faced with delayed revenue, does the founder immediately look for loopholes or shortcuts? When presented with potential reputational upside, do they exaggerate facts to create momentum? When technical ambiguity emerges, do they hide problems to buy time?
 
 A founder who is honest in ambiguity is worth more than one who is brilliant in certainty.
-
 
 # The Spirit of Gnosjö has taught this for generations: ingenuity matters, but righteousness endures
 
@@ -67,18 +66,15 @@ THE STEWARDSHIP VECTOR Every enterprise bends toward one of two destinies: Short
 
 A man committed to stewardship is predictable. Predictability is value. Value compounds. VI.
 
-
 # THE LEGACY PROJECTION A founder’s future is visible in their priorities
 
 We assess whether the individual is building a company or building an inheritance. These are not the same. One disappears when the market shifts; the other endures across generations.
-
 
 # Legacy is not measured in ambition
 
 Legacy is measured in restraint. What the founder refuses to do tells more about their destiny than what they are eager to accomplish. line. Restraint reveals kingship. VII.
 
 THE CRISIS LENS Every founder faces a defining crisis. Some have already faced it. Others will.
-
 
 # The question is how they behaved-then, or how they will
 
@@ -106,11 +102,9 @@ The forge teaches what spreadsheets cannot: heat reveals substance. The men who 
 
 A dishonest miller produced corrupted grain. A dishonest industrialist built enterprises that failed when storms arrived. The same is true today. AI startups, manufacturing firms, logistics platforms, family enterprises-regardless of sector, the moral architecture of the founder shapes every downstream system.
 
-
 # The Spirit of Gnosjö is not folklore
 
 It is a blueprint: small communities of high trust create disproportionate economic value. Trust compresses transaction costs. Integrity accelerates collaboration.
-
 
 # Covenant produces compounding goodwill
 
@@ -121,7 +115,6 @@ Jurisdictional arbitrage. A founder operating across Europe and North America fa
 But strong integrity becomes more powerful for the same reason: consistency across jurisdictions is rare, and rarity amplifies value. This is why we apply the cross‑jurisdictional consistency test. A founder who is ethical in Sweden, disciplined in Germany, honorable in Canada, and straightforward in the U.S. can be entrusted with capital intended to outlive the present generation. pulse.
 
 Consistency is credibility. Credibility is strength. Strength compounds legacy. One more layer: moral authority.
-
 
 # Moral authority is not posture
 
@@ -136,5 +129,3 @@ This is the true measure of stewardship. "By mercy and truth iniquity is purged:
 It becomes sanctuary. It becomes inheritance. A founder fit for covenantal capital is not merely competent. He is trustworthy.
 
 He is principled. He is unshaken when others are shaken. He carries the weight of responsibility with dignity, not pride. Integrity is destiny.
-
-: $5M+ target size. for . to approved mandates. : $5M+.

@@ -10,7 +10,6 @@ slug: "communitarian-stewardship-sovereign-architecture"
 
 A culture where duty precedes desire. Work precedes reward. Stewardship precedodes consumption.
 
-
 # The Spirit of Gnosjö did not emerge from comfort
 
 It emerged from responsibility accepted without complaint. THE MANDAT E is simple. Guard the commons. Expand the inheritance.
@@ -37,6 +36,4 @@ A board without moral weight is theater. A board with moral weight becomes an an
 
 It endures. It inherits the clarity our forebears carried from forge to factory. Freedom is preserved. Free enterprise is strengthened.
 
-Stewardship becomes the multiplier. And the inheritance for the children’s children becomes real, not theoretical. For deeper structuring insight, see institutional capital execution approaches demonstrated through [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)).
-
-: $5M+ target size. for . to approved mandates. : $5M+.
+Stewardship becomes the multiplier. And the inheritance for the children’s children becomes real, not theoretical. For deeper structuring insight, see institutional capital execution approaches demonstrated through [structuring through Roials Capital](https://roialscapital.com/).

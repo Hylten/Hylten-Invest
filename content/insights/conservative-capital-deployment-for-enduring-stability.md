@@ -2,7 +2,7 @@
 title: "Conservative Capital Deployment for Enduring Stability"
 description: "A strategic exploration of liquidity and asset based liquidity engineering for HNWI and UHNW investors seeking conservative stability through private credit."
 date: "2025-10-22"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "conservative-capital-deployment-for-enduring-stability"
 ---
 
@@ -36,4 +36,4 @@ Built for families who value discretion and stability. Our Strategic Collaterali
 
 They reinforce collateral without complexity. They provide stability without spectacle. For the investor who values calm over noise and structure over speculation, conservative capital deployment is not simply an option.
 
-It is the foundation. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+It is the foundation. to approved mandates.

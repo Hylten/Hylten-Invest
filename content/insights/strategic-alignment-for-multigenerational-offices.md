@@ -2,7 +2,7 @@
 title: "Strategic Alignment for Multi‑Generational Offices"
 description: "A deep analysis of strategic alignment for multi generational offices, with emphasis on liquidity, private credit, and asset based liquidity engineering solutions."
 date: "2025-12-23"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "strategic-alignment-for-multigenerational-offices"
 ---
 
@@ -54,7 +54,6 @@ These pressures can create divergence between generations, especially when newer
 
 With our crypto Strategic Collateralization threshold at 2,000, 000 USD, we support sophisticated holders who treat digital assets as a structured balance sheet component rather than a speculative pursuit. By Asset-Backed Frameworks against public securities with a minimum 5,000, 000 USD threshold, we ensure that only scaled, institutionally organized portfolios engage these facilities.
 
-
 # The alignment here is not about asset class preference
 
 It is about discipline. Discipline maintains unity across generations, even when risk appetites differ. Building a Framework for Multi‑Generational Resilience Families that endure create systems, not reactions A resilient family office maintains clarity in: - Capital purpose.
@@ -75,4 +74,4 @@ Families that prepare structurally move through transitions without destabilizat
 
 Institutional Capital Mechanics for Private Families HNWI and UHNW families are increasingly operating like micro institutions Their capital requires the same level of mechanics, discipline, and structural integrity. Hylten‑Invest was built for this environment. We provide the architecture that institutional capital expects, but within a framework that respects the privacy and long term orientation of private families.
 
-Our principal authority reflects a core principle. Power is not declared. Power is engineered. for . to approved mandates. : $5M+.
+Our principal authority reflects a core principle. Power is not declared. Power is engineered.

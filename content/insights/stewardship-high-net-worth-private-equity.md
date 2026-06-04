@@ -12,7 +12,6 @@ The capital vacuum created by accelerated distribution cycles, compressed underw
 
 It is written from the vantage point of conviction and moral authority. The objective is to equip leaders who carry responsibility not only for current allocations, but for the inheritance embedded in their decisions. The principles reflect the Spirit of Gnosjö: the Nordic industrial ethos built on sobriety, community duty, and operational excellence without waste.
 
-
 # THE REGIME SHIFT The private equity market no longer behaves like the expansionary cycle that defined 2009 through 2021
 
 The structural signals shifted. Capital calls increased despite slowing realizations. Vintage compression placed multiple LPs in liquidity strain. GP-led secondaries expanded because traditional exit routes narrowed.
@@ -29,12 +28,11 @@ Institutional liquidity prioritization. Large LPs function under regulatory time
 
 This is particularly evident in sectors such as North American energy, specialty manufacturing, and critical infrastructure. These pressures recalibrate the meaning of ownership.
 
-
 # Stewardship requires an understanding that value grows in the presence of disciplined constraints
 
 "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22 a good person leaves an inheritance for their children's children. This is governance, not sentiment. It is a framework for endurance.
 
-TECHNICAL MECHANICS OF STEWARDSHIP FOR PRIVATE EQUITY STAKES The stewardship of private equity stakes is a technical discipline. It operates across five mechanical pillars: governance integrity, [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)), risk decentralization, succession control, and purpose alignment. Each pillar governs the movement of capital, not as speculation but as responsibility.
+TECHNICAL MECHANICS OF STEWARDSHIP FOR PRIVATE EQUITY STAKES The stewardship of private equity stakes is a technical discipline. It operates across five mechanical pillars: governance integrity, [Asset-Backed Frameworks](https://roialscapital.com/), risk decentralization, succession control, and purpose alignment. Each pillar governs the movement of capital, not as speculation but as responsibility.
 
 1. Governance Integrity Governance integrity refers to the calibration of power and oversight. High net worth private equity stakes often lack structured governance. Documentation exists, but operational oversight does not.
 
@@ -56,7 +54,6 @@ Diversification spreads capital. Decentralization spreads operational exposure. 
 
 - Identifying hidden synthetic exposures where multiple managers hold similar positions in overlapping industry clusters.
 
-
 # Stewardship requires that concentration be intentional
 
 Concentration without intention is fragility. 4. Succession Control The stewardship of private equity stakes extends beyond the original allocator. Many families fail to document operational roles, knowledge pathways, and advisory positions for the next generation.
@@ -71,7 +68,6 @@ Purpose alignment transforms capital from a tool of consumption into a tool of c
 
 Roials Capital functions as a strategic navigator rather than an asset originator. This distinction matters.
 
-
 # The role is to structure clarity, identify misalignments, and introduce institutional grade operators when required
 
 When an owner faces exposure to energy or resource based private equity, Roials Capital identifies sector specific institutional partners. In North American heavy oil and conventional production, the institutional archetype is represented by our strategic partner NAEO, which brings operational insight into recovery mechanics such as SAGD and CSS, decline curve predictability, and basin physics unique to Alberta production systems.
@@ -82,13 +78,11 @@ The intention is not to direct capital but to discipline it. The partnership mod
 
 It rejects complacency. It rejects the belief that capital belongs to the current holder rather than to the lineage entrusted to them. The theology of capital defines ownership as responsibility.
 
-
 # Capital is a covenant, not a commodity
 
 The Spirit of Gnosjö illustrates this covenant. The industrial families of southern Sweden built enterprises that were not driven by short term extraction but by community obligation. The capital they generated was reinvested into their surroundings.
 
 This created continuity, durability, and intergenerational coherence.
-
 
 # Stewardship operates through filters
 
@@ -100,7 +94,6 @@ It is about discipline. If the owner is disciplined in the micro structure of ca
 
 Growth is a byproduct of disciplined constraints.
 
-
 # The allocator asks how to maintain direction, purpose, and integrity across cycles
 
 The decision framework includes: - Evaluation of governance architecture. - Validation of Asset-Backed Frameworks pathways. - Identification of succession exposures. - Calibration of purpose driven constraints.
@@ -109,4 +102,4 @@ The decision framework includes: - Evaluation of governance architecture. - Vali
 
 Families and high net worth individuals with complex private equity positions often request support from Roials Capital in the form of a confidential strategy audit. This includes a structural map of their holdings, liquidity modeling, governance calibration, and cross cycle alignment. The objective is stability.
 
-The outcome is stewardship. Those who manage capital with integrity carry a heritage that outlasts valuations and cycles. This is the architecture of generational strength. for . to approved mandates. : $5M+.
+The outcome is stewardship. Those who manage capital with integrity carry a heritage that outlasts valuations and cycles. This is the architecture of generational strength.

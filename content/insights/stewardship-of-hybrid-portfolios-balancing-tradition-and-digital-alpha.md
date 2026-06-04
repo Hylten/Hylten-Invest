@@ -2,7 +2,7 @@
 title: "Stewardship of Hybrid Portfolios: Balancing Tradition and Digital Alpha"
 description: "A high level exploration of liquidity strategy, private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
 date: "2025-11-17"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "stewardship-of-hybrid-portfolios-balancing-tradition-and-digital-alpha"
 ---
 
@@ -25,7 +25,6 @@ The Digital Layer: Crypto Asset-Backed Frameworks with Institutional Structure D
 They offer global liquidity. They offer diversification outside traditional correlational frameworks. Yet the market surrounding them is often immature or overly speculative. HNWI and UHNW families require institutional structure.
 
 Our crypto Asset-Backed Frameworks service is built specifically for this tier. The minimum threshold is 2 million USD. This ensures scale, sophistication, and stability.
-
 
 # The structure allows families to  to approved mandates
 
@@ -74,5 +73,3 @@ Hybrid portfolios deliver these qualities. They evolve as markets evolve while r
 The Next Era of Wealth Architecture The coming decade will not be defined by a binary choice between traditional finance and digital assets It will be defined by the integration of the two. Wealth architecture is moving toward flexible systems that allow families to operate in both worlds simultaneously. Capital Structuring becomes a core function.
 
 Liquidity becomes a strategic layer. Hybrid design becomes a standard rather than an exception. At the center of this shift sits the need for professional, silent, deliberate stewardship. for . to approved mandates.
-
-: $5M+.

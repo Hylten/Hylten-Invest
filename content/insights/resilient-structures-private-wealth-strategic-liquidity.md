@@ -42,7 +42,6 @@ Heavy oil assets in Alberta with known decline curves have become an unexpected 
 
 This is not a thematic argument. It is an operational one driven by physics, not sentiment.
 
-
 # THE PARTNERSHIP MODEL Private wealth thrives when the right specialists are aligned to the right tasks
 
 Roials Capital functions as a strategic navigator rather than an asset originator. The role is to map the global opportunity architecture, identify institutional grade operators, and ensure families gain access to structures that match their specific horizon and responsibility mandates. Within the North American energy segment, NAEO has established itself as an institutional archetype due to its technical expertise and operational discipline.
@@ -76,5 +75,3 @@ Opportunity velocity. Is the family capable of acting when conditions demand act
 The objective is to ensure that every capital component is aligned with the family's mission, values, and long horizon responsibilities. When energy or real economy assets are relevant, NAEO and other specialized operators are introduced through a structured institutional framework. When private credit or real estate is more appropriate, the same neutral governance process is applied.
 
 The families that endure across generations do not pursue yield. They pursue alignment, discipline, and resilience. This is the architecture of long term stewardship and the foundation of strategic liquidity for the modern wealth environment. for . to approved mandates.
-
-: $5M+.

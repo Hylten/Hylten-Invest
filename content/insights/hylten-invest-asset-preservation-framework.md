@@ -2,7 +2,7 @@
 title: "The Hylten Invest Approach to Asset Preservation: A Framework for Generational Capital Stewardship"
 description: "Institutional doctrine for long-horizon asset preservation, liquidity hardening, jurisdictional structuring, and generational capital stewardship within the Hylten-Invest mandate."
 date: "2026-01-17"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "hylten-invest-asset-preservation-framework"
 ---
 
@@ -11,7 +11,6 @@ slug: "hylten-invest-asset-preservation-framework"
 **It is built. Layered. Stress‑tested. Structured against entropy.**
 
 The Hylten Invest approach to asset preservation operates on a simple thesis: capital is not a possession; it is an inheritable mandate. A good man leaves an inheritance to his children's children: "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:2 2. This is the theological baseline.
-
 
 # Stewardship as obligation
 
@@ -23,11 +22,9 @@ Never decadent. Always productive. Capital must work. Capital must serve.
 
 Capital must endure.
 
-
 # The industrial families of the Småland belt understood this instinctively
 
 Faith welded to work ethic. Craft welded to responsibility. This is the backbone of the Hylten-Invest doctrine for preservation.
-
 
 # The challenge confronting modern family capital is not return generation but return survival
 
@@ -81,7 +78,6 @@ Continuity. Moral authority becomes strategic authority. When values are explici
 
 When preservation strengthens, compounding accelerates.
 
-
 # CAPITAL AS VOCATION Generational wealth is not leisure
 
 It is vocation. The Principal mandate treats stewardship as calling. Each generation must accept responsibility voluntarily, not inherit it passively. Hylten-Invest structures embed this through mandatory governance apprenticeships, operational exposure, and rights of refusal for heirs not aligned with the mission.
@@ -103,7 +99,6 @@ Individuals come and go. The institution remains. Preservation depends on instit
 Updated. Never ceremonial. They define how decisions are made, how disputes are resolved, how capital is deployed, and how values are enforced. Institutional families outperform emotional families.
 
 Predictability compounds. Conflict dissipates. Capital integrates. Stewardship strengthens.
-
 
 # THE INDUSTRIAL ANCHOR Hylten-Invest does not treat industrial exposure as outdated
 
@@ -133,11 +128,9 @@ Markets reconfigure. Preservation requires active stewardship. But motion must b
 
 Families that drift decay. Families that rotate endure.
 
-
 # THE STEWARDSHIP MANDATE Generational capital is not an inheritance
 
 It is a trust. A covenant. A charge placed upon each generation to build, protect, and extend.
-
 
 # The Hylten-Invest doctrine grounds this in faith, industry, and structural precision
 
@@ -148,5 +141,3 @@ Durable. Preservation is not passive. Preservation is engineered. Designed.
 Enforced. Reaffirmed. Every decision must serve the third generation, not the present one. That is the doctrine.
 
 That is the duty. That is the architecture. : $5M+ target size. Mandate Efficiency Index: 0.87 for . to approved mandates.
-
-: $5M+.

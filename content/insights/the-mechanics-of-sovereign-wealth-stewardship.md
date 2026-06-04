@@ -2,7 +2,7 @@
 title: "The Mechanics of Sovereign Wealth Stewardship"
 description: "A high level exploration of liquidity architecture and asset based liquidity engineering for HNWI and UHNW investors seeking long term stewardship."
 date: "2025-12-01"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-wealth-stewardship"
 ---
 
@@ -10,7 +10,7 @@ slug: "the-mechanics-of-sovereign-wealth-stewardship"
 
 Traditional liquidity providers are not engineered for discretion. Families need a partner that understands the nature of embedded wealth. They need mechanics, not marketing. Private credit.
 
-Asset-Based Lending Monetization Architecture. Public share [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)). Crypto collateral frameworks. These mechanisms give families the same flexibility that large institutions take for granted.
+Asset-Based Lending Monetization Architecture. Public share [Asset-Backed Frameworks](https://roialscapital.com/). Crypto collateral frameworks. These mechanisms give families the same flexibility that large institutions take for granted.
 
 Strategic Applications of Collateralized Liquidity Collateral based Monetization Architecture is not an end in itself It is a tool that enables broader strategic movement. Common applications include: - Funding new acquisitions without selling existing positions - Managing tax timing and tax exposure - Providing liquidity during generational transitions - Stabilizing family enterprises during temporary cash flow compression - Supporting investment opportunities that require fast execution - Reducing reliance on traditional banking relationships These functions create continuity.
 
@@ -24,7 +24,6 @@ Families who have liquidity can act at precisely the right moment. Families who 
 
 Liquidity is not a luxury. It is a shield.
 
-
 # The Stewardship Equation Sovereign wealth stewardship is the intersection of three elements Capital
 
 Structure. Time. Capital is the asset base. Structure is the liquidity architecture.
@@ -35,4 +34,4 @@ It requires patience. It requires an understanding of how families preserve infl
 
 Asset Based Asset-Backed Frameworks. Crypto Institutional Liquidity Paths from two million dollars. Public share Asset-Backed Frameworks from five million dollars. Structural discretion for families that do not seek attention. principal authority is not a slogan.
 
-It is a function. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+It is a function. to approved mandates.

@@ -2,7 +2,7 @@
 title: "Protecting Wealth Through Institutional Grade Asset-Based Lending"
 description: "A strategic overview of how High Net Worth investors preserve liquidity and stability through institutional grade asset based liquidity engineering and private credit structures."
 date: "2026-03-07"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "protecting-wealth-through-institutional-grade-abl"
 ---
 
@@ -16,4 +16,4 @@ This is the architecture of long term wealth preservation. Institutional Grade A
 
 It reinforces THE MANDAT E of stewardship, the priority of protection, and the objective of maintaining generational stability. Hyltén Invest provides the institutional mechanics that enable these outcomes, quietly and with disciplined authority. Final Perspective Protecting wealth requires clarity, structure, and silent precision Institutional Grade Asset-Based Lending delivers liquidity without sacrifice and mobility without exposure.
 
-Hyltén Invest stands as a structural partner for families whose assets require conservative, institutional, long horizon support. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+Hyltén Invest stands as a structural partner for families whose assets require conservative, institutional, long horizon support. to approved mandates.

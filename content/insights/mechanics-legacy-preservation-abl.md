@@ -10,7 +10,6 @@ slug: "mechanics-legacy-preservation-abl"
 
 **Legacy is structure. In the Nordic industrial belt, the concept is older than the companies that inhabit it.**
 
-
 # The Spirit of Gnosjö defined it
 
 A theology of work. A theology of responsibility. - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:2. A good man leaves an inheritance to his children's children.
@@ -30,7 +29,6 @@ It reveals the strength of enterprise without forcing dilution. It is a refusal 
 Not charity. Not nostalgia. Stewardship. Responsibility transmitted across generations.
 
 Gnosjö in ledger form.
-
 
 # The mechanics matter
 

@@ -2,7 +2,7 @@
 title: "Long-Term Asset Stewardship in Private Credit"
 description: "A high-end exploration of liquidity architecture and asset-based liquidity engineering for HNWI and UHNW investors seeking long-term private credit stewardship."
 date: "2025-08-31"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "long-term-asset-stewardship-in-private-credit"
 ---
 
@@ -22,11 +22,9 @@ More global. More technologically integrated. And far more reliant on private ca
 
 Autonomy of action. Autonomy of liquidity. Autonomy of strategy.
 
-
 # Private credit is one of the few tools that enhances autonomy rather than reducing it
 
 Hyltén Invest engages with clients who prefer clarity over complexity. Silence over noise. Structure over speculation.
-
 
 # Wealth is preserved when the architecture around it is stable and flexible
 
@@ -36,4 +34,4 @@ HNWI and UHNW families will therefore continue to seek private credit partners t
 
 Hyltén Invest remains committed to this position. We provide Institutional Liquidity Paths that protects capital. Asset-Backed Frameworks that respects long-term holdings. Strategic Collateralization that aligns with multigenerational purpose. to approved mandates : $5M+ target size.
 
-For inquiries related to long-term asset stewardship and private credit structures, to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+For inquiries related to long-term asset stewardship and private credit structures, to approved mandates.

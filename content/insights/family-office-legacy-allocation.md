@@ -2,7 +2,7 @@
 title: "Family Office Legacy Allocation"
 description: "Insights on Family Office Legacy Allocation from Roials Capital and Hyltén Invest."
 date: "2025-12-16"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "family-office-legacy-allocation"
 ---
 
@@ -17,7 +17,6 @@ It is not static, yet it is stable. It evolves at the pace of structural shifts,
 This orientation affects every decision. The objective is not to outperform benchmarks. The objective is to maintain purchasing power, maintain influence, and maintain strategic freedom. A disciplined family office stabilizes the baseline first.
 
 Only then does it expand outward into higher-yielding strategies. This order of operations is essential.
-
 
 # Stewardship requires structure
 
@@ -43,7 +42,6 @@ It nurtures adaptability. It strengthens resilience. The Minimalist Approach in 
 
 It reduces cognitive load. It reduces fragility. Minimalism in a family office does not mean a lack of sophistication. It means unnecessary complexity is avoided.
 
-
 # The architecture is clean
 
 The rationale is clear. Each component supports the long-term mission. In a world that promotes velocity, minimalism supports clarity. Clarity supports continuity.
@@ -68,4 +66,4 @@ This approach is quiet. It is steady. It is enduring. Hyltén Invest Perspective
 
 Each allocation is examined through the lens of multi-generational relevance. We support family offices in building structures that endure. Structures that preserve independence. Structures that protect legacy.
 
-Structures that align capital with identity. for . to approved mandates. : $5M+.
+Structures that align capital with identity.

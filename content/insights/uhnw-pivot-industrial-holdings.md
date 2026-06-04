@@ -2,7 +2,7 @@
 title: "The Returning Sovereign: Why UHNWIs Anchor Capital in Multi-Decade Industrial Holdings"
 description: "A principal-level briefing on the structural, moral, and strategic forces pulling ultra-wealth holders away from short-horizon private equity toward long-duration industrial stewardship."
 date: "2025-12-06"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "uhnw-pivot-industrial-holdings"
 ---
 
@@ -12,13 +12,11 @@ The cycles shrink. The holding periods compress. The pursuit becomes exit‑driv
 
 They are returning to the old paths.
 
-
 # The industrial paths
 
 The paths that built nations rather than portfolios. They want assets that breathe. Assets that endure. Assets that can be handed to a son or daughter without apology.
 
 The conversation has changed.
-
 
 # The architecture has shifted
 
@@ -29,7 +27,6 @@ Below is the private briefing. Vault language. Principal to Principal. ===== # =
 The second: stewardship is returning as the dominant framework for UHNW wealth architecture, not because it is fashionable, but because it is correct. To understand the pivot, consider the forces at work: 1. Short-duration funds rely on forced velocity.
 
 Not value creation, but engineered urgency. 2. Industrial holdings rely on covenantal patience-time as a strategic lever, not a quarterly burden. 3.
-
 
 # The industrial asset compounds through operational mastery
 
@@ -99,4 +96,4 @@ Pass it on stronger than you received it. This is the heritage. This is the meth
 
 And because they know the truth: You can’t solve poverty with shrinking pies. You must make bigger ones. Free enterprise is the only system in history that expands the pie at scale. Industrial holdings do this.
 
-Short-term funds do not. ===== for . to approved mandates. : $5M+.
+Short-term funds do not. =====

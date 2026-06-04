@@ -12,7 +12,6 @@ New York optimizes products. Småland optimizes people. Wall Street arbitrages r
 
 Different machines. Different physics. Different outcomes.
 
-
 # The Gnosjö-Syndikatet did not emerge from theory
 
 It emerged from hard benches. Cold workshops. Early mornings. A theology of responsibility.
@@ -20,7 +19,6 @@ It emerged from hard benches. Cold workshops. Early mornings. A theology of resp
 An anthropology of work. A covenant between hands and roofs and sons and daughters who would inherit a name before they inherited an asset. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:2 2.
 
 Capital becomes stewardship when the time horizon exceeds the ego.
-
 
 # The Spirit of Gnosjö built entire industrial clusters on that single premise
 
@@ -46,16 +44,13 @@ They require backbone. They require memory. They require men and women who recog
 
 Not as ornament. As operating system.
 
-
 # Stewardship is governance
 
 Stewardship is risk management. Stewardship is continuity. Theology shapes capital allocation when theology shapes the allocator.
 
-
 # The industrial families of Gnosjö understood that wealth is not personal
 
 Wealth is institutional. Wealth is transgenerational infrastructure.
-
 
 # Wealth is responsibility projected forward
 
@@ -89,7 +84,6 @@ Småland’s industrial districts did not scale because of subsidies, consultant
 
 A syndicate without paperwork. A chamber of commerce without self-congratulation. A venture ecosystem without ego. A supply chain without fragility.
 
-
 # The architecture is anti-fragile because it is relational
 
 Trust absorbs volatility. Long memory limits defection. Reputational mechanisms operate at higher speed than judicial mechanisms. The result: decisions made faster, contracts executed cleaner, errors forgiven quicker, resources pooled earlier, downturns weathered longer.
@@ -108,14 +102,13 @@ Småland is not low-tech. Småland is high-trust. High-trust is the apex technol
 
 Theology shapes the allocator.
 
-
 # The allocator shapes the institution
 
 Institutions shape outcomes. When the allocator is formed under the doctrine of stewardship, capital becomes aligned with purpose. Capital becomes aligned with continuity. Capital becomes aligned with the next generation, not the next quarter.
 
 This is the backbone of the Hyltén-Invest mandate. A fund is not a vehicle. A fund is a promise. A fund is a guardian of names yet unborn.
 
-(See [special mandates execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) Wall Street optimizes exits. Småland optimizes inheritance. Different time horizons. Different moral weights.
+(See [special mandates execution](https://roialscapital.com/) for structural parameters) Wall Street optimizes exits. Småland optimizes inheritance. Different time horizons. Different moral weights.
 
 Different strategic posture. If the horizon is five years, complexity appears rational. If the horizon is fifty years, complexity becomes absurd. Layers collapse under long-term scrutiny.
 
@@ -133,9 +126,6 @@ Must commit to clarity, covenant, and continuity. The strength of Fund-III is no
 
 The next era of capital belongs to those who understand that trust is the new alpha.
 
-
 # Stewardship is the new governance
 
 Character is the new collateral. Everything else is noise. Everything else is speculation. Everything else is drift.
-
-: $5M+ target size. Institutional Mandate Density Index: 0.87 for . to approved mandates. : $5M+.

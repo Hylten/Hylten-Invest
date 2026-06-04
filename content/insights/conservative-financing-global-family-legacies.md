@@ -36,7 +36,6 @@ Sovereignty. Capacity to survive macro‑shocks without distress liquidation or 
 
 They cheapen discipline.
 
-
 # The principal’s task is to architect the fortress before the storm
 
 Families who wait for distress to design a capital strategy always arrive late. Late equals costly. Costly equals avoidable. Private credit becomes the backbone structure.
@@ -74,7 +73,6 @@ The debt doctrine defines acceptable leverage durations, collateral structures, 
 The enforcement plan ensures global enforceability. Not theoretical. The reserve pact ring‑fences capital. Not symbolic.
 
 And the governance brief ensures continuity of ethos. Not bureaucracy. Here, theology becomes financial infrastructure.
-
 
 # Stewardship is a governance principle
 

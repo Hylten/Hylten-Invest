@@ -2,7 +2,7 @@
 title: "The Future of Legacy: Bridging Multi-Generational Wisdom with Digital Capital"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth management."
 date: "2026-02-08"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "the-future-of-legacy-bridging-multi-generational-wisdom-with-digital-capital"
 ---
 
@@ -59,5 +59,3 @@ A Conservative Vision for the Future The future of legacy will not be defined by
 Hyltén Invest stands at this intersection. Silently. Precisely. Purposefully.
 
 We build Strategic Collateralization frameworks designed for longevity. We serve those who think in generations. We uphold the philosophy of quiet stewardship. If legacy is the long arc, liquidity is the line that keeps it steady. to approved mandates : $5M+ target size. for . to approved mandates.
-
-: $5M+.

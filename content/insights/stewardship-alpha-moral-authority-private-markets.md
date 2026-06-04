@@ -2,7 +2,7 @@
 title: "Stewardship Alpha and the Rise of Moral Authority in Private Markets"
 description: "Moral authority as a due‑diligence differentiator rooted in Christian industrial heritage, covenantal stewardship, and generational capital formation."
 date: "2026-02-26"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "stewardship-alpha-moral-authority-private-markets"
 ---
 
@@ -20,7 +20,6 @@ A Principal guards. A Principal answers to God before he answers to markets. Tha
 
 Moral authority becomes alpha because disorder rewards shortcuts while free enterprise demands discipline. Markets trust the disciplined. Markets compound with the principled. Markets punish the clever but reward the faithful.
 
-
 # The Spirit of Gnosjö still matters
 
 Small workshop. Large courage. Communal ethic. Work as service.
@@ -33,4 +32,4 @@ Many speak innovation. Few hold moral authority. Fewer still can demonstrate it 
 
 Some already translate this into structuring through Roials Capital for operational execution, but the moral mandate originates here. A Principal does not chase trust. A Principal radiates it. Trust becomes the moat.
 
-Stewardship becomes the engine. Moral authority becomes the differentiator. : $5M+ target size. for . to approved mandates. : $5M+.
+Stewardship becomes the engine. Moral authority becomes the differentiator.

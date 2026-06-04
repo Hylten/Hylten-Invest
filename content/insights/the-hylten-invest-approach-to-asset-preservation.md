@@ -2,7 +2,7 @@
 title: "The Hylten Invest Approach to Asset Preservation"
 description: "A strategic exploration of how Hyltén Invest secures long-term liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients."
 date: "2025-10-02"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "the-hylten-invest-approach-to-asset-preservation"
 ---
 
@@ -11,7 +11,6 @@ slug: "the-hylten-invest-approach-to-asset-preservation"
 We serve High Net Worth and Ultra High Net Worth individuals. We structure for family offices. We operate with the calm weight of principal authority. The objective is simple.
 
 Protect capital and allow it to work without unnecessary exposure or friction.
-
 
 # The Foundation of Asset Preservation Asset preservation is not a static function It is a strategic discipline
 
@@ -73,7 +72,6 @@ We ensure that liquidity remains available, controlled and structurally conserva
 
 Preservation is more than protection. It is stewardship.
 
-
 # Stewardship is the intentional management of assets for successors who may not yet exist
 
 It is the quiet construction of systems that prevent erosion and unnecessary exposure. Hyltén Invest supports this through structural Strategic Collateralization. By maintaining liquidity and preserving core holdings, family governance becomes simpler and more stable.
@@ -87,5 +85,3 @@ Large balance sheets require precision Institutional Liquidity Paths. They requi
 Liquidity through precision. Simplicity through discipline. Families with significant wealth accumulate complexity. Our role is to convert that complexity into stable liquidity without compromising long-term asset integrity.
 
 We prefer a minimalist approach because it respects the nature of wealth. It creates space. It reduces friction. It maintains clarity. for . to approved mandates.
-
-: $5M+.

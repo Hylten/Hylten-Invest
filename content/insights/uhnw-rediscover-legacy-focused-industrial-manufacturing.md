@@ -2,7 +2,7 @@
 title: "The Return to Covenant Industry Among the Sovereign Class"
 description: "UHNW families are turning back to real-asset manufacturing, covenant stewardship, and industrial permanence as the only credible path to multi‑generational capital continuity."
 date: "2025-12-30"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "uhnw-rediscover-legacy-focused-industrial-manufacturing"
 ---
 
@@ -30,7 +30,6 @@ Water. Heat. Assets that reward grit, not games. The free market honors this pos
 
 Value for value. Work for reward. Freedom for those willing to carry responsibility without complaint.
 
-
 # The industrial investor does not seek applause
 
-He seeks dominion through service. He builds, therefore he leads. : $5M+ target size. for . to approved mandates. : $5M+.
+He seeks dominion through service. He builds, therefore he leads.

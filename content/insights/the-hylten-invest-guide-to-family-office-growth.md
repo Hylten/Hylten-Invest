@@ -2,7 +2,7 @@
 title: "The Hylten Invest Guide to Family Office Growth"
 description: "A strategic guide to liquidity, private credit, and asset based liquidity engineering designed for family offices seeking long term structural stability."
 date: "2025-12-13"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "the-hylten-invest-guide-to-family-office-growth"
 ---
 
@@ -44,7 +44,10 @@ Our clients prefer it that way. principal authority allows families to to approv
 
 It aligns with multi generational thinking. It respects the family’s desire for discretion, control, and long horizon planning. Strategic Growth Foundations for Family Offices A family office is not a fund It is an ecosystem.
 
-Growth requires clarity in four domains: 1. Liquidity 2. Governance 3. Asset Structure 4.
+Growth requires clarity in four domains:
+1. Liquidity
+2. Governance
+3. Asset Structure 4.
 
 Intergenerational Alignment When these domains are aligned, growth becomes predictable. Not through acceleration, but through structural readiness. Hylten Invest contributes to the liquidity domain by enabling families to use existing assets as leverage for future development.
 
@@ -66,7 +69,6 @@ We offer Monetization Architecture mechanics that integrate seamlessly with the 
 
 Preparing for Expansion Cycles Markets move in cycles Families that thrive across cycles prepare quietly during periods of stability. In preparation cycles, liquidity is built, not spent.
 
-
 # Capital is positioned
 
 Debt is optimized. Holdings are reorganized. New asset classes are evaluated. Then, when markets enter turbulence or transition, opportunities appear.
@@ -87,4 +89,4 @@ It is slow, deliberate, and compounding. Hylten Invest exists to enable this typ
 
 We provide liquidity against public share positions starting at 5,000, 000 dollars, and against crypto positions starting at 2,000, 000 dollars. We operate with principal authority. We are designed for HNWI and UHNW families who prefer discretion over display.
 
-If you seek structural liquidity for long term stewardship, we invite a private conversation. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+If you seek structural liquidity for long term stewardship, we invite a private conversation. to approved mandates.

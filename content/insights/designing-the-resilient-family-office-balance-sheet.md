@@ -2,7 +2,7 @@
 title: "Designing the Resilient Family Office Balance Sheet"
 description: "A high authority exploration of liquidity engineering and asset based [Capital Structuring](https://hylten.github.io/Roials Capital/) for HNWI and UHNW families seeking structural resilience."
 date: "2026-02-27"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "designing-the-resilient-family-office-balance-sheet"
 ---
 
@@ -11,7 +11,6 @@ slug: "designing-the-resilient-family-office-balance-sheet"
 Volatility in public markets, tightening credit conditions, regulatory shifts, and the increasingly institutional nature of private markets have all created one clear imperative for modern family offices. They must operate with the same sophistication as institutional capital, while maintaining the discretion and conservatism that define private wealth.
 
 Resilience becomes strategy. Resilience becomes identity. Resilience becomes freedom of action.
-
 
 # The Purpose of the Balance Sheet A balance sheet is not a static document It is an expression of priorities
 
@@ -67,7 +66,6 @@ Public share Institutional Liquidity Paths, with a five million dollar minimum t
 
 This is liquidity that preserves the narrative the family chooses to maintain. Crypto Capital Structuring for Institutional Scale Families Crypto has evolved from a speculative frontier to a formal asset class Yet liquidity solutions for substantial holders remain fragmented. Hyltén Invest provides secured Capital Structuring against crypto positions with a minimum threshold of two million dollars.
 
-
 # The goal is not leverage
 
 The goal is stability. HNWI and UHNW families use crypto Monetization Architecture to: Release liquidity without selling. Fund new investments. Rebalance broader portfolios.
@@ -90,11 +88,8 @@ Those who design their balance sheets for the next decade will have a significan
 
 They will be able to act without signaling. They will be able to preserve and expand their long term legacy.
 
-
 # The Hyltén Invest Role We do not replace advisors We do not replace investment managers
 
 We do not replace family office staff. We reinforce the balance sheet. We introduce structural resilience. We provide the mechanics that allow families to operate with institutional calm.
 
 Quiet. Precise. Conservative. This is the infrastructure that families use to steward capital, not just preserve it. for . to approved mandates.
-
-: $5M+.

@@ -2,7 +2,7 @@
 title: "The Hylten Invest Guide to Private Credit Excellence"
 description: "A strategic guide for HNWI and family offices seeking liquidity through private credit and asset based liquidity engineering solutions."
 date: "2026-01-14"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "the-hylten-invest-guide-to-private-credit-excellence"
 ---
 
@@ -20,7 +20,6 @@ In private credit, unnecessary complexity introduces risk. Unnecessary speed int
 
 The collateral.
 
-
 # The structure
 
 The execution. The continuity of the client’s vision. This is the essence of conservative Capital Structuring. It is the essence of the Hylten Invest method.
@@ -28,5 +27,3 @@ The execution. The continuity of the client’s vision. This is the essence of c
 Closing Perspective Private credit excellence is not built on noise It is built on structure, discipline, and the quiet execution of liquidity solutions for those who understand the responsibilities of wealth. Hylten Invest stands as a partner for HNWI and UHNW individuals who require sophisticated Capital Structuring instruments that preserve long term strategy.
 
 We operate with clarity. We maintain principal authority. We deliver liquidity with precision. to approved mandates. : $5M+ target size. for . to approved mandates.
-
-: $5M+.

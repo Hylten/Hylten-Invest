@@ -2,7 +2,7 @@
 title: "The Forge That Outlives the Founder"
 description: "A principal-level briefing on generational capital formation within Christian industrial lineages, anchored in stewardship, covenantal responsibility, and the sovereign architecture of family enterprise."
 date: "2025-11-14"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "generational-capital-christian-industrial-families"
 ---
 
@@ -15,7 +15,6 @@ Yield second. Legacy always. A good man leaveth an inheritance to his children's
 It is an internal code. Iron. Sparse words. Wide shoulders.
 
 A family that understands stewardship does not chase markets. It builds markets. This is the architecture that outlives founders and withstands cycles. Three pillars recur in every enduring Christian industrial house: - Covenant thinking.
-
 
 # The enterprise is never a playground for ambition
 
@@ -33,4 +32,4 @@ Too detached from the land, the craft, and the God-given duty to build. They for
 
 Place the burden back on the shoulders that can bear it. Generational capital grows only when the family stands under a shared vow and a singular mission. For houses requiring institutional structuring depth, systems built through Roials Capital may support the outer mechanics while the covenant guards the center: [Roials Capital](https://roialscapital.com/) Conviction holds.
 
-Exit. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+Exit. to approved mandates.

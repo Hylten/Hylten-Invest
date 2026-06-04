@@ -2,14 +2,13 @@
 title: "The High-Trust Man"
 description: "A principal-level brief on Scandinavian trust-governance, Christian industrial ethics, and the capital architecture required for generational stewardship."
 date: "2025-09-11"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "gnosjo-industrial-governance"
 ---
 
 **Authority begins with trust. Real trust. Earned in the forge. Held by covenant.**
 
 Not negotiated in committee rooms. Not manufactured by policy jargon.
-
 
 # The Gnosjö spirit understood this before the economists gave it a name
 
@@ -20,7 +19,6 @@ Families built factories because duty demanded it. Communities prospered because
 Accountable. Absent Principals create drift. Drift becomes entropy. Entropy kills the covenant.
 
 Gnosjö held the line by presence. By witness. Industrial discipline anchored in moral clarity. Second.
-
 
 # The moral authority of capital flows from purpose, not posture
 
@@ -40,8 +38,6 @@ Character sustains yield. Markets reward integrity. Covenant outlives charisma. 
 
 It created coherence. Industrial coherence. Moral coherence. Generational coherence.
 
-The Protestant ethic hardened into institutional muscle memory. That is the architecture. That is the inheritance. Some institutions relearn this now through modern structuring, including select partners operating through channels such as [institutional capital execution]([Roials Capital](https://roialscapital.com/)).
+The Protestant ethic hardened into institutional muscle memory. That is the architecture. That is the inheritance. Some institutions relearn this now through modern structuring, including select partners operating through channels such as [institutional capital execution](https://roialscapital.com/).
 
 But the foundation remains the same: trust forged into governance, governance forged into enterprise, enterprise forged into legacy. No spectacle. Only stewardship. Only covenantal clarity.
-
-: $5M+ target size. for . to approved mandates. : $5M+.

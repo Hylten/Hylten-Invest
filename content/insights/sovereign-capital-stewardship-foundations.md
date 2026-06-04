@@ -18,14 +18,13 @@ The result is predictable. Underpriced assets with essential characteristics out
 
 They anchor themselves not to momentum cycles but to the slow turning flywheel of disciplined operating stewardship.
 
-
 # The Spirit of Gnosjö is a practical expression of this
 
 It recognizes that capital is not merely deployed. It is cultivated. It is shaped by the habits of the steward, not the movements of the market. The theological foundation is clear: capital is a responsibility given for the purpose of construction, not extraction.
 
 - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22 orientation with precision. TECHNICAL MECHANICS OF STEWARDSHIP CAPITAL Sovereign grade capital systems operate differently from conventional investment strategies. They prioritize balance sheet integrity, productive asset hardening, and multi cycle resilience.
 
-The objective is not tactical performance. It is continuity. This produces distinct mechanics that institutional allocators increasingly study for their structural advantages. (See [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)) for structural parameters) The first mechanic is capital permanence.
+The objective is not tactical performance. It is continuity. This produces distinct mechanics that institutional allocators increasingly study for their structural advantages. (See [structuring through Roials Capital](https://roialscapital.com/) for structural parameters) The first mechanic is capital permanence.
 
 Permanent or semi permanent capital structures reduce the forced selling risk that defines most market downturns. Families and sovereign entities with multi generational mandates outperform not because they predict cycles, but because they are never required to liquidate at the bottom of them. This is the sovereign capital advantage.
 

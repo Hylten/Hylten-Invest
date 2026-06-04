@@ -2,7 +2,7 @@
 title: "The Custodian Founder and the Restoration of Moral Stewardship in Capital Formation"
 description: "A principal-level briefing on why stewardship-driven founders are outperforming professionalized private equity teams, rooted in Christian industrial heritage and the architecture of generational capital."
 date: "2025-12-24"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "custodian-founder-stewardship-leadership-outperforming-pe"
 ---
 
@@ -20,11 +20,9 @@ It generated returns that dwarfed previous benchmarks. It also created a class o
 
 The time horizon rewards quick flips, not patient building. The cultural model rewards presentation over substance.
 
-
 # The model works brilliantly for a certain phase of capital deployment
 
 It fails catastrophically when applied to enterprises requiring long-horizon stewardship.
-
 
 # The model extracts value
 
@@ -38,11 +36,9 @@ This pattern repeated across thousands of acquisitions has hollowed out the indu
 
 The asymmetry is not accidental. It is structural.
 
-
 # The model optimizes for fund returns at the expense of enterprise health
 
 The model treats the enterprise as fuel, not as fire. The fire consumes the fuel and dies.
-
 
 # The steward tends the fire and it grows
 
@@ -51,7 +47,6 @@ The Custodian Founder operates from fundamentally different premises. The Custod
 The Custodian Founder builds structures that can survive the founder, because the founder understands that the enterprise is larger than any individual, including the founder. The founder is the steward, not the owner. The distinction changes everything.
 
 The owner extracts.
-
 
 # The steward preserves and builds
 
@@ -87,16 +82,13 @@ Look for founders who have turned down higher offers to maintain control. Look f
 
 Look for founders who express concern about succession, not exit. Look for founders who view the enterprise as a trust to be passed to successors, not an asset to be sold. These signals identify the Custodian Founder with reasonable reliability.
 
-
 # The counter-signals are equally informative
 
 Founders who maximize compensation, who treat the enterprise as a platform for personal enrichment, who speak about the business in purely transactional terms, who view employees as costs to be minimized, who think about exit before they think about succession, are not Custodian Founders. They are operators executing a different strategy, and the strategy will produce different results.
 
-
 # The strategy always produces the results designed into it
 
 The governance structure must enable the Custodian Founder while providing appropriate oversight. The family office should resist the temptation to impose professional management discipline on the Custodian Founder.
-
 
 # The value comes precisely from the Custodian Founder's non-standard approach
 

@@ -2,12 +2,11 @@
 title: "Legacy Hardening for Multi-Generational Wealth: Structural Liquidity for Enduring Dynasties"
 description: "A high-end analysis of liquidity architecture, private credit, and asset based liquidity engineering for long-term wealth preservation and strategic family continuity."
 date: "2026-02-14"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-enduring-dynasties"
 ---
 
 **And above all, it is protected through to approved mandates. : $5M+ target size. Families with significant capital often discover that the challenge is not wealth creation.**
-
 
 # The challenge is continuity
 
@@ -33,4 +32,4 @@ Where mass affluent products dominate the market, we remain focused on private c
 
 - Capital structures that outlive any single economic cycle. - Strategic liquidity that reinforces governance. - Families who expect more than standardized financial products. This is not wealth management.
 
-It is legacy engineering. for . to approved mandates. : $5M+.
+It is legacy engineering.

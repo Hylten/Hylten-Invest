@@ -2,7 +2,7 @@
 title: "The Strategic Value of Conservative Asset-Based Lending for Long-Term Stewards of Capital"
 description: "A high-level exploration of conservative asset-based liquidity engineering and private credit as liquidity architecture for HNWI and UHNW portfolios."
 date: "2026-03-14"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "the-strategic-value-of-conservative-abl-for-long-term-stewards-of-capital"
 ---
 
@@ -32,7 +32,6 @@ The Future of Liquidity for High Net Worth Portfolios As regulatory environments
 
 We focus only on asset classes where we can operate with institutional clarity and conservative practice. We maintain scale thresholds that support stability. We protect the silence that our clients value.
 
-
 # The future of liquidity is not louder
 
-It is quieter. It is more precise. It is more aligned with the true nature of long-term wealth. for . to approved mandates. : $5M+.
+It is quieter. It is more precise. It is more aligned with the true nature of long-term wealth.

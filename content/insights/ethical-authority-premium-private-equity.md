@@ -2,7 +2,7 @@
 title: "The Ethical Authority Premium in Modern Capital Formation"
 description: "An institutional brief on how moral authority, covenantal stewardship, and industrial heritage now command premium positioning in private equity fundraising."
 date: "2025-12-28"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "ethical-authority-premium-private-equity"
 ---
 
@@ -14,7 +14,6 @@ Toward the lineage that carries covenant. Toward the industrial heritage that fo
 
 Premium flows to the mind that knows stewardship is not sentiment, but mandate. Value requires backbone.
 
-
 # Legacy requires order
 
 Enterprise requires truth. "He that walketh uprightly walketh surely." - Proverbs 10: 9 Principal logic: - Authority is not declared. Authority is inherited, proven, tested under pressure. - Institutional LPs read balance sheets second.
@@ -24,7 +23,6 @@ They read character first. - The market now prices integrity as a risk variable.
 Not fashion. Shallow capital flees. Deep capital commits. Moral authority compounds.
 
 Noise collapses.
-
 
 # The Spirit of Gnosjö remains the blueprint
 
@@ -40,6 +38,6 @@ It commands premium without rhetoric. A Principal does not chase capital. A Prin
 
 Only proven. Industrial heritage becomes signal. Stewardship becomes filter. Covenant becomes force.
 
-One link for those who need institutional structuring depth: [institutional capital execution]([Roials Capital](https://roialscapital.com/)) The Ethical Authority Premium is not a trend. It is a return to order. A return to truth.
+One link for those who need institutional structuring depth: [institutional capital execution](https://roialscapital.com/) The Ethical Authority Premium is not a trend. It is a return to order. A return to truth.
 
-A return to the architecture that built every enduring house. : $5M+ target size. for . to approved mandates. : $5M+.
+A return to the architecture that built every enduring house.

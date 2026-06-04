@@ -2,7 +2,7 @@
 title: "The Mechanics of Legacy Preservation via Asset-Based Lending"
 description: "An in depth exploration of how Asset Based liquidity engineering and private credit provide liquidity, stability, and long term legacy preservation for HNWI and UHNW families."
 date: "2026-02-26"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "the-mechanics-of-legacy-preservation-via-abl"
 ---
 
@@ -19,7 +19,6 @@ Our role is to fortify that path. Engineering Liquidity Without Signalling One o
 Liquidating digital assets can send signals that invite speculation. Asset-Based Lending removes the signaling effect entirely. It allows liquidity to be to approved mandates. : $5M+ target size.
 
 The assets remain in place.
-
 
 # The strategy remains intact
 
@@ -42,5 +41,3 @@ Public market positions will remain strategic anchors. Hyltén Invest stands in 
 Together, legacy is preserved. A Closing Note on Stewardship Stewardship is not a strategy It is a discipline. It is a way of approaching capital that respects time, structure, and intention. Liquefying assets without dismantling positions is an essential part of this discipline.
 
 This is why Asset Based Asset-Backed Frameworks remains one of the most powerful tools available to families that build for generations. For those who require quiet liquidity and structural clarity, Hyltén Invest operates with principal authority. to approved mandates. : $5M+ target size. for . to approved mandates.
-
-: $5M+.

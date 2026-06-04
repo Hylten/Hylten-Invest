@@ -2,7 +2,7 @@
 title: "Institutional Alignment in Legacy Planning for Multi‑Generational Wealth"
 description: "A high-level exploration of institutional alignment and liquidity architecture in legacy planning, with emphasis on private credit and asset based liquidity engineering."
 date: "2025-08-18"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "institutional-alignment-in-legacy-planning-for-multigenerational-wealth"
 ---
 
@@ -28,4 +28,4 @@ Our mandate is stability. Final Reflection: Alignment as an Act of Stewardship I
 
 It ensures that decisions made today do not constrain tomorrow. Through disciplined capital structures, quiet liquidity, and collateral-based credit, families can build a legacy that is resilient, coherent, and positioned for centuries rather than decades. For those who operate at scale, alignment is not optional.
 
-It is the foundation upon which continuity rests. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+It is the foundation upon which continuity rests. to approved mandates.

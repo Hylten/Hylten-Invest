@@ -2,7 +2,7 @@
 title: "Strategic Asset-Based Lending Diversification for Long Term Family Office Protection"
 description: "A high level perspective on liquidity preservation and asset protection through private credit and asset based liquidity engineering for HNWI and Family Offices."
 date: "2025-12-20"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "strategic-abl-diversification-for-long-term-family-office-protection"
 ---
 
@@ -24,7 +24,6 @@ Clarity around risk tolerance. Clarity around liquidity expectations. A family o
 
 Which positions are valuable but illiquid. Which holdings carry structural importance and should never be sold for liquidity purposes. Once this mapping is complete, the office can identify where Monetization Architecture against private credit, crypto positions, or concentrated public holdings can eliminate risk without adding volatility.
 
-
 # The goal is not leverage
 
 The goal is durability. Durability of liquidity. Durability of control. When Asset-Based Lending Becomes a Strategic Advantage Strategic Asset-Based Lending diversification creates several advantages that accumulate over time It strengthens negotiating power by ensuring liquidity during acquisition windows.
@@ -37,4 +36,4 @@ This is where strategy becomes protection. The Hyltén Invest Role in the Ecosys
 
 We lend against public share positions above 5,000, 000. Our focus is narrow by design. We serve only HNWI and UHNW families. We maintain privacy, minimalism, and long term partnership.
 
-The objective is not to compete with traditional lenders. The objective is to complement them, and to offer liquidity pathways that match the complexity and discretion required by family office environments. for . to approved mandates. : $5M+.
+The objective is not to compete with traditional lenders. The objective is to complement them, and to offer liquidity pathways that match the complexity and discretion required by family office environments.

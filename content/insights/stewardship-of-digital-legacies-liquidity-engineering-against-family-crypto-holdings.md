@@ -2,7 +2,7 @@
 title: "Stewardship of Digital Legacies: Liquidity Engineering Against Family Crypto Holdings"
 description: "An institutional exploration of liquidity creation through private credit and asset‑backed [Capital Structuring](https://roialscapital.com/). Designed for HNWI and UHNW families seeking disciplined solutions using crypto and public equity positions."
 date: "2025-09-25"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "stewardship-of-digital-legacies-liquidity-engineering-against-family-crypto-holdings"
 ---
 

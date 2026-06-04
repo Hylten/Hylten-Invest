@@ -2,7 +2,7 @@
 title: "Sovereign Capital: The Pillar of Stewardship"
 description: "A high‑end exploration of long‑term liquidity architecture, private credit, and asset-based liquidity engineering for HNWI and UHNW capital stewards."
 date: "2026-01-25"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "sovereign-capital-the-pillar-of-stewardship"
 ---
 
@@ -27,7 +27,6 @@ Public Share Strategic Collateralization for High Concentration Holders Many wea
 This size requirement ensures that the structure remains institutional, discreet, and operationally efficient. Public share Strategic Collateralization allows clients to: - Retain voting rights and continue long-term stewardship of positions. - to approved mandates.
 
 : $5M+ target size. - Shield core holdings from short-term liquidity pressures. This is a silent instrument. It operates quietly and efficiently, reinforcing the client’s sovereignty over their public market positions.
-
 
 # The Philosophy of principal authority We maintain an F-Hierarchical Dynamics This is our operational posture
 
@@ -75,4 +74,4 @@ The Continuity of Stewardship Stewardship is a continuum It extends beyond one g
 
 It is conservative. It is strategic. When liquidity is engineered correctly, the family remains in control. When control is maintained, assets remain intact.
 
-When assets remain intact, legacy becomes inevitable. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+When assets remain intact, legacy becomes inevitable. to approved mandates.

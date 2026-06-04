@@ -2,12 +2,11 @@
 title: "From Gnosjö to Global: The Sovereign Logic of Micro‑Cluster Economies"
 description: "A principal-level architectural briefing on how covenant-based micro‑clusters generate durable competitive moats, industrial resilience, and multigenerational capital foundations."
 date: "2025-12-02"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "gnosjo-micro-cluster-sovereign-architecture"
 ---
 
 **The strength of a nation does not emerge from capitals, ministries, or institutions of spectacle. It emerges from the workshop. The forge.**
-
 
 # The covenant between workers, families, land, and God
 

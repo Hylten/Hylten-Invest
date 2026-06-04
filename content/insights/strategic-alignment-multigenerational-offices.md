@@ -44,7 +44,6 @@ Each investment expands capability. Each cycle reinforces durability. No family 
 
 The institution must outlive the personalities. THE MANDAT E must outlive the emotions.
 
-
 # The structure must outlive the trends
 
 The operating tier is where alignment fractures if not engineered with precision. Multi‑generational offices need liquidity rules that are absolute. Not flexible. Absolute.
@@ -58,7 +57,6 @@ Negotiation is where institutional drift accelerates. In cross‑border families
 The office must hold centralized interpretive authority. This prevents fragmentation and ensures that strategic direction is uniform irrespective of residence or tax domicile. Asset selection must follow industrial logic, not volatility logic.
 
 Real assets and private credit positioned against operational backbones stabilize the portfolio. Monetization Architecture becomes a disciplined craft. Cash flows become predictable. Volatility becomes manageable.
-
 
 # Asset hardening is not a defensive posture
 

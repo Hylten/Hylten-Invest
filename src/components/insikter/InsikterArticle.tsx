@@ -292,25 +292,33 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
 
             {/* Article Body */}
             <div className="article-content" style={{
-                color: dark ? '#aaa' : '#374151', lineHeight: 2.2, fontSize: '1.15rem', fontWeight: 300,
+                color: dark ? '#aaa' : '#374151', lineHeight: 1.8, fontSize: '1.15rem', fontWeight: 300,
             }}>
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                    {content}
+                <ReactMarkdown 
+                    remarkPlugins={[remarkGfm]}
+                    components={{
+                        h1: ({node, ...props}) => <h2 {...props} />,
+                        h2: ({node, ...props}) => <h3 {...props} />,
+                        h3: ({node, ...props}) => <h4 {...props} />,
+                    }}
+                >
+                    {content.replace(/\n{3,}/g, '\n\n')}
                 </ReactMarkdown>
             </div>
 
             <style>{`
-                .article-content { line-height: 2.4; }
-                .article-content p { margin-bottom: 4.5rem; }
-                .article-content h1 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.6rem; margin-top: 6rem; margin-bottom: 3rem; color: ${dark ? '#e0e0e0' : '#0a0a0a'}; line-height: 1.3; font-weight: 400; }
-                .article-content h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.4rem; margin-top: 6rem; margin-bottom: 3rem; color: ${dark ? '#e0e0e0' : '#0a0a0a'}; line-height: 1.3; font-weight: 400; }
-                .article-content h3 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.7rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: ${dark ? '#d0d0d0' : '#0a0a0a'}; font-weight: 400; }
-                .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
-                .article-content li { margin-bottom: 1.5rem; }
-                .article-content hr { border: 0; border-top: 1px solid ${dark ? '#2a2a2a' : '#f3f4f6'}; margin: 6rem 0; }
+                .article-content { line-height: 1.9; }
+                .article-content p { margin-bottom: 2rem; }
+                .article-content h1 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.2rem; margin-top: 3.5rem; margin-bottom: 1.5rem; color: ${dark ? '#e0e0e0' : '#0a0a0a'}; line-height: 1.3; font-weight: 400; }
+                .article-content h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.0rem; margin-top: 3.5rem; margin-bottom: 1.5rem; color: ${dark ? '#e0e0e0' : '#0a0a0a'}; line-height: 1.3; font-weight: 400; }
+                .article-content h3 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.6rem; margin-top: 3rem; margin-bottom: 1.25rem; color: ${dark ? '#d0d0d0' : '#0a0a0a'}; font-weight: 400; }
+                .article-content h4 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.3rem; margin-top: 2.5rem; margin-bottom: 1rem; color: ${dark ? '#c0c0c0' : '#0a0a0a'}; font-weight: 400; }
+                .article-content ul, .article-content ol { margin-bottom: 2rem; padding-left: 2rem; }
+                .article-content li { margin-bottom: 0.75rem; }
+                .article-content hr { border: 0; border-top: 1px solid ${dark ? '#2a2a2a' : '#f3f4f6'}; margin: 4rem 0; }
                 .article-content strong { color: ${dark ? '#fff' : '#0a0a0a'}; font-weight: 600; }
                 .article-content a { color: ${ACCENT}; text-decoration: underline; font-weight: 500; text-underline-offset: 4px; }
-                .article-content blockquote { border-left: 3px solid ${ACCENT}; padding-left: 1.5rem; margin: 3rem 0; font-style: italic; color: ${dark ? '#777' : '#6b7280'}; }
+                .article-content blockquote { border-left: 3px solid ${ACCENT}; padding-left: 1.5rem; margin: 2rem 0; font-style: italic; color: ${dark ? '#777' : '#6b7280'}; }
             `}</style>
 
             {/* Navigation */}

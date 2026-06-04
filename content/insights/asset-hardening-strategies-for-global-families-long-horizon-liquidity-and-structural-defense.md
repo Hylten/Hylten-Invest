@@ -2,7 +2,7 @@
 title: "Asset Hardening Strategies for Global Families: Long Horizon Liquidity and Structural Defense"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI families seeking long term resilience through institutional grade structures."
 date: "2025-08-03"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "asset-hardening-strategies-for-global-families-long-horizon-liquidity-and-structural-defense"
 ---
 
@@ -11,7 +11,6 @@ slug: "asset-hardening-strategies-for-global-families-long-horizon-liquidity-and
 We do not seek visibility. We provide structural mechanics that behave with institutional precision. For global families, this approach is not cosmetic. It is decisive.
 
 Complex wealth requires restrained partners. Partners that introduce no noise and no unnecessary complexity. The objective is not to compete with the family’s identity. It is to strengthen the foundation beneath it.
-
 
 # The Architecture of Asset Hardening Asset hardening is a systematic process It is driven by design, not reaction
 
@@ -41,9 +40,6 @@ Not because it enhances risk, but because it systematically reduces it. The Futu
 
 Regulation will evolve. Geopolitical tensions will shape capital flows. Families that prepare with hardened balance sheets will move through these shifts with stability. Families that rely on passive portfolios will face unnecessary fragility.
 
-
 # Asset hardening is therefore the evolutionary path of sophisticated wealth
 
 It is the transition from exposed capital to protected capital. From passive ownership to structural control. Hylten Invest stands as a partner for families that seek this transition with quiet authority and institutional discipline. for . to approved mandates.
-
-: $5M+.

@@ -22,7 +22,6 @@ These models are poorly suited for markets where underwriting precision, operati
 
 This creates a window where balance sheet optimization becomes as important as cash flow coverage. This regime shift did not break private credit. It exposed a lack of stewardship discipline among both borrowers and lenders.
 
-
 # Stewardship is not an ethical overlay
 
 It is a capital structuring discipline. It governs continuity. It prevents waste. It aligns time horizons across stakeholders.
@@ -50,7 +49,6 @@ Operational Accountability Private credit becomes fragile when lenders are dista
 Operationally aligned underwriting focuses on: - Cost curve visibility. - Asset management cycle timing. - Field level maintenance cadence. - Decline curve accuracy.
 
 - Cash conversion efficiency. When operational data is integrated early, the capital structure becomes more accurate, more efficient, and more durable.
-
 
 # THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator within this environment
 
@@ -86,4 +84,4 @@ When these conditions are met, private credit becomes a stabilizer rather than a
 
 This includes landscape analysis, technical evaluation, and institutional . For energy specific mandates, partners like NAEO represent the technical backbone required for precision underwriting and operational integrity. Allocators seeking to calibrate portfolios within a volatile private credit environment benefit from a Confidential Strategy Audit.
 
-This provides system level visibility, identifies structural vulnerabilities, and outlines pathways to enhance stewardship, resilience, and long term operational alignment. for . to approved mandates. : $5M+.
+This provides system level visibility, identifies structural vulnerabilities, and outlines pathways to enhance stewardship, resilience, and long term operational alignment.

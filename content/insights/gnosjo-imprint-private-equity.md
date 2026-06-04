@@ -2,12 +2,11 @@
 title: "The Gnosjö Imprint on Modern Private Equity"
 description: "How the Spirit of Gnosjö reshapes emerging PE operating models through covenantal stewardship, industrial discipline, and generational capital."
 date: "2025-07-19"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "gnosjo-imprint-private-equity"
 ---
 
 **The forge precedes the fund.**
-
 
 # The covenant precedes the model
 
@@ -25,11 +24,9 @@ No debt-fueled spectacle disguised as value creation. The new operating models t
 
 Principals who smell the oil. Managers who know the machine’s tremor before the vibration sensor detects it. 2. Covenantal stewardship.
 
-
 # Capital is not a tool for extraction
 
 It is a responsibility. It binds the investor to the operator and the operator to the community.
-
 
 # Legacy requires discipline
 
@@ -43,4 +40,4 @@ Some will label it cultural cohesion. Others will reduce it to efficiency theory
 
 Even cross-border structuring through Roials Capital now benefits from this industrial ethic, grounding complex transactions in the clarity of real-economy value creation. Work first. Virtue first. Then capital flows.
 
-"The integrity of the upright shall guide them." - Proverbs 11: 3 to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+"The integrity of the upright shall guide them." - Proverbs 11: 3 to approved mandates.

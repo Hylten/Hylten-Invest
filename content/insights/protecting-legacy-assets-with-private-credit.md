@@ -2,7 +2,7 @@
 title: "Protecting Legacy Assets with Private Credit"
 description: "A strategic exploration of private credit and asset based liquidity engineering as liquidity instruments for safeguarding multi generational wealth."
 date: "2025-07-28"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "protecting-legacy-assets-with-private-credit"
 ---
 
@@ -78,4 +78,4 @@ Private credit and Asset-Based Lending will become essential tools for anyone se
 
 Hyltén Invest will continue to operate quietly in this domain. Providing capital. Providing structure. Providing stability.
 
-Without noise. - to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+Without noise. - to approved mandates.

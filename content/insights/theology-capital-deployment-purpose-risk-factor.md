@@ -2,7 +2,7 @@
 title: "The Purpose Variable in Capital: A Principal’s Theology of Deployment"
 description: "Institutional investors are elevating purpose from narrative ornament to operational risk variable-rooted in stewardship, moral authority, and the industrial Protestant ethic."
 date: "2025-12-31"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "theology-capital-deployment-purpose-risk-factor"
 ---
 
@@ -17,7 +17,6 @@ Not marketing. A governing architecture. The market feels the fracture. Narrativ
 The rot is silent, but measurable. A Principal does not moralize this. A Principal states the structural reality. Purpose is a risk factor because misalignment destroys compounding.
 
 Values mispriced become liabilities. Institutions have learned this the hard way. The Protestant ethic solved it earlier. Work as calling.
-
 
 # Capital as stewardship
 
@@ -36,5 +35,3 @@ Purpose becomes a due‑diligence metric. Stewardship becomes a signal. Legacy b
 Capital flees drift. Capital recognizes covenant. Even certain cross‑border execution platforms-structuring through Roials Capital-acknowledge this shift in the underwriting of strategic partners. The theology is simple.
 
 Capital follows order. Order follows purpose. And purpose, rightly held, becomes the most reliable risk reducer in any generation. : $5M+ target size. for . to approved mandates.
-
-: $5M+.

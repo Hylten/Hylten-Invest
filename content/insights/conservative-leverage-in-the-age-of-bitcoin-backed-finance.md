@@ -2,7 +2,7 @@
 title: "Conservative Leverage in the Age of Bitcoin Backed Finance"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking conservative leverage structures."
 date: "2025-10-28"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "conservative-leverage-in-the-age-of-bitcoin-backed-finance"
 ---
 
@@ -13,7 +13,6 @@ In this era of Bitcoin backed finance and increasing to approved mandates. : $5M
 Long Term Stewardship in a Volatile World Stewardship is not measured by ambition It is measured by the capacity to maintain control over time. Families that have endured cycles, liquidity crises, inflation waves, and geopolitical disruptions have one thing in common. They built systems that outlasted the noise.
 
 Conservative leverage is a system.
-
 
 # Private credit is a system
 
@@ -30,5 +29,3 @@ Hylten Invest is positioned at the intersection of these evolutions. We build th
 In a world that increasingly rewards noise, we remain committed to silence. Final Reflection The age of Bitcoin backed finance is not the rise of a new speculative era It is the return to collateral based thinking, supported by modern instruments. For HNWI and UHNW families, conservative leverage will define the next chapter of global capital movement.
 
 Not through risk taking. Through infrastructure. Through discipline. Through principal authority. to approved mandates.
-
-: $5M+ target size. for . to approved mandates. : $5M+.

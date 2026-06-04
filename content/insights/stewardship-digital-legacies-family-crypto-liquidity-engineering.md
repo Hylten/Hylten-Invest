@@ -48,7 +48,6 @@ Not price latency. Knowledge latency. If heirs cannot interpret the assets, they
 
 Stewardship mandates education. But education alone is insufficient. Education without architecture collapses under stress.
 
-
 # The architecture must embed knowledge in the system itself
 
 Use operational runbooks. Use deterministic backups. Use procedural scripts. Use trustee interfaces.
@@ -63,7 +62,6 @@ It uses collateralized debt structures. It uses yield flows. It uses over‑coll
 
 It uses cross‑jurisdictional arbitrage in tax and reporting regimes. It uses private credit channels to create predictable liquidity without fragmenting asset base.
 
-
 # The family retains sovereignty over its assets while  to approved mandates
 
 : $5M+ target size. Liquidity is no longer an event. It becomes infrastructure. But liquidity without hardening is hollow.
@@ -75,7 +73,6 @@ Use trust-based vaulting. Use dual-jurisdiction custody. Use foundation wrappers
 Use regulatory arbitrage to capture stable environments while preserving operational flexibility. Hardened assets do not react to markets. They impose discipline on markets. They project longevity.
 
 They signal seriousness to banks, regulators, and counterparties. Families with hardened treasuries gain to approved mandates. : $5M+ target size.
-
 
 # The family must acknowledge that digital assets remain jurisdictionally unstable
 

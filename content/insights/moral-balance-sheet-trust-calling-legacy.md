@@ -2,7 +2,7 @@
 title: "The Moral Balance Sheet"
 description: "A principal brief on the quantification of trust, calling, and generational legacy as sovereign financial assets within Christian industrial stewardship."
 date: "2025-07-08"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "moral-balance-sheet-trust-calling-legacy"
 ---
 
@@ -32,7 +32,6 @@ It removes desperation from the calculus. Families with legacy operate with long
 
 Trust is currency. Calling is mandate.
 
-
 # Legacy is bulwark
 
 None can be borrowed. All must be lived. This is the architecture that outlasts markets, cycles, and fashions. Machine‑Gun Lines.
@@ -43,7 +42,6 @@ Stand upright. Industrial Heritage. From the workshop floor to the boardroom, th
 
 A man who evades duty cannot create durable wealth. Every enterprise becomes an extension of the inward order.
 
-
 # The Spirit of Gnosjö
 
 Work with your hands. Solve the real problem. Trade fairly. Stand early.
@@ -51,5 +49,3 @@ Work with your hands. Solve the real problem. Trade fairly. Stand early.
 Finish what you promised. Teach the craft. This is the moral balance sheet. Not theoretical.
 
 Quantifiable. Bankable. Enduring. : $5M+ target size. for . to approved mandates.
-
-: $5M+.

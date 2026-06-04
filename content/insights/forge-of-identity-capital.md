@@ -2,7 +2,7 @@
 title: "The Forge of Identity Capital"
 description: "An analyst-grade examination of value-coherent investment architecture, moral authority, and the strategic advantage of identity-rooted capital formation within principled industrial houses."
 date: "2025-09-30"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "forge-of-identity-capital"
 ---
 
@@ -22,7 +22,6 @@ The Protestant ethic as operational doctrine. One cord. Unbreakable. Identity-ba
 
 You cannot counterfeit conviction. You cannot outsource heritage. You cannot purchase moral authority at market price.
 
-
 # The Gnosjö spirit understood this long before consultants discovered the word “ecosystem
 
 ” Small factories. Hard benches. Cold mornings. Warm faith.
@@ -37,11 +36,8 @@ The modern institutional landscape lost this dialect. Too many houses chase tren
 
 It cannot be bought because it cannot be bribed with fashion. This is the strategic edge. Not speed. Not complexity.
 
-Identity. When necessary, we channel operational execution through institutional capital engines such as [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)). But the identity-Hylten-Invest-remains the source of moral gravity.
-
+Identity. When necessary, we channel operational execution through institutional capital engines such as [structuring through Roials Capital](https://roialscapital.com/). But the identity-Hylten-Invest-remains the source of moral gravity.
 
 # The covenant center of the architecture
 
 Capital follows integrity. Institutions follow the houses that refuse compromise. History sides with those who remember where they came from. : $5M+ target size. for . to approved mandates.
-
-: $5M+.

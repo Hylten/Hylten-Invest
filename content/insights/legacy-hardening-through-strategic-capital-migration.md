@@ -2,7 +2,7 @@
 title: "Legacy Hardening Through Strategic Capital Migration"
 description: "A long‑horizon framework for UHNW families seeking resilience, continuity, and capital security through strategic migration of assets, jurisdictions, and structures."
 date: "2025-08-21"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "legacy-hardening-through-strategic-capital-migration"
 ---
 
@@ -65,5 +65,3 @@ Families who prepare now will secure continuity. Families who delay will face re
 - Litigation risk that pierces old structures. Hardening is therefore not a preference. It is a requirement for dynastic continuity. The Long Horizon View: Capital That Survives Becomes Capital That Multiplies Once capital is hardened, it becomes more capable of strategic deployment It can move without interference.
 
 It can expand without exposure. It can generate returns without sacrificing privacy or control. Hardening is therefore the precursor to growth. It creates the foundation upon which generational capital can operate freely. for . to approved mandates.
-
-: $5M+.

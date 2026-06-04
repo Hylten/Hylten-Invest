@@ -2,7 +2,7 @@
 title: "Navigating Multi-Generational Wealth with Asset-Based Lending"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth preservation."
 date: "2025-07-10"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "navigating-multi-generational-wealth-with-abl"
 ---
 
@@ -20,9 +20,8 @@ The families who maintain stillness maintain their wealth. The Silent Architectu
 
 It is supported by liquidity rather than liquidation. Asset-Based Lending is one of those structural pillars.
 
-
 # Private credit is another
 
 Institutional Capital Structuring discipline is the third. Together, they form the foundation that allows a family to move through time without losing its strategic identity. They protect the assets that define legacy.
 
-They generate the liquidity that defines opportunity. This is the architecture Hylten Invest provides. for . to approved mandates. : $5M+.
+They generate the liquidity that defines opportunity. This is the architecture Hylten Invest provides.

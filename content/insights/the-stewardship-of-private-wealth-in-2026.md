@@ -2,7 +2,7 @@
 title: "The Stewardship of Private Wealth in 2026"
 description: "A high-level exploration of liquidity strategy and asset-based liquidity engineering for HNWI and UHNW families seeking structural, conservative capital solutions."
 date: "2026-03-04"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "the-stewardship-of-private-wealth-in-2026"
 ---
 
@@ -14,7 +14,6 @@ Private wealth management in 2026 is undergoing a structural shift, and that shi
 
 And it provides directional clarity for those who view liquidity not as an event, but as an ongoing architecture.
 
-
 # The Role of Quiet Partners HNWI and UHNW families do not seek attention They seek order
 
 They look for partners who understand the gravity of their decisions. They work with teams who value discretion, accuracy, and timeless principles more than fast marketing. principal authority is a competitive advantage. It places the emphasis on competence rather than visibility.
@@ -22,7 +21,6 @@ They look for partners who understand the gravity of their decisions. They work 
 It creates a space where capital can move without public signatures. It aligns with the temperament of families who operate across decades, not quarters. Hyltén Invest is intentionally quiet. Our work is structural.
 
 Our value is in the mechanics beneath the surface. A partner in stewardship must understand both the assets and the philosophy. We position ourselves accordingly.
-
 
 # The Stewardship Imperative in 2026 Stewardship is not a slogan It is a responsibility
 
@@ -36,4 +34,4 @@ Custody models will change. Cross-border flows will become more complex. The fam
 
 Liquidity, collateral, and credit will remain foundational. Asset-backed Institutional Liquidity Paths and private credit will continue their structural ascent. Digital assets will integrate further into sophisticated balance sheets.
 
-Those who create clarity today will inherit stability tomorrow. This is the stewardship mindset. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+Those who create clarity today will inherit stability tomorrow. This is the stewardship mindset. to approved mandates.

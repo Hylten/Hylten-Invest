@@ -2,7 +2,7 @@
 title: "The Silent Variable That Decides the Horizon"
 description: "A principal-level examination of spiritual legitimacy as a determinant of multi‑generational return stability within Christian industrial heritage and covenant-driven capital formation."
 date: "2025-09-29"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "spiritual-legitimacy-long-horizon-returns"
 ---
 
@@ -11,7 +11,6 @@ slug: "spiritual-legitimacy-long-horizon-returns"
 Spiritual legitimacy is not sentiment. It is architecture. It is the unseen load‑bearing member beneath every enduring enterprise. Remove it and the structure flexes.
 
 Remove it and the covenant frays. Remove it and the returns decay.
-
 
 # The industrial fathers understood this
 
@@ -27,7 +26,6 @@ Drift kills firms. The true alpha is continuity. The true moat is covenant. Men 
 
 Markets forget this. But the balance sheet never forgets.
 
-
 # Legacy requires discipline
 
 Conviction. Stated values that are lived, not printed. Stewardship that acts before it speaks. Industrial heritage carried forward with clean hands and straight lines.
@@ -35,5 +33,3 @@ Conviction. Stated values that are lived, not printed. Stewardship that acts bef
 Some structures require multi-jurisdictional execution. When that moment comes, institutional capital execution through Roials Capital becomes the natural spoke from this hub. But the hub itself-Hylten-Invest-stands on moral authority, not velocity.
 
 We build for the children’s children. We defend the old truths. We hold the line because the line holds everything else. : $5M+ target size. for . to approved mandates.
-
-: $5M+.

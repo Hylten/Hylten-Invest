@@ -2,7 +2,7 @@
 title: "Capital Migration for Multi‑Generational Stability"
 description: "A strategic exploration of liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW families seeking long-term capital preservation."
 date: "2025-07-02"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "capital-migration-for-multigenerational-stability"
 ---
 
@@ -40,7 +40,6 @@ It must be discreet. And it must be engineered with long-term intent, not short-
 
 These positions represent decades of work, influence, and identity. They also represent illiquidity risk, because selling too aggressively can move markets or signal unintended messages. Hyltén Invest provides Monetization Architecture against public equity at a minimum threshold of five million dollars.
 
-
 # The purpose is not to enable speculation
 
 The purpose is intergenerational consistency. Families must sometimes extract liquidity for inheritance structuring, asset rebalancing, or private investment opportunities, without disturbing the public equity footprint. Share Institutional Liquidity Paths becomes a quiet tool.
@@ -67,7 +66,6 @@ The Migration Model Capital migration is not a single event It is a recurring pr
 
 Execution through private credit Capital Structuring, Asset-Based Lending, crypto Monetization Architecture, or public share Strategic Collateralization. Reallocation of liquidity into either defensive reserves or opportunity capital.
 
-
 # The process repeats as the portfolio evolves, the family evolves, and the market evolves
 
 Migration is discipline. It is not hurried. It is not reactive. It is intentional and cyclical.
@@ -85,7 +83,6 @@ Family wealth must therefore become more adaptive. Capital migration is the adap
 In periods of stability, it provides optionality. In periods of disruption, it provides survival. This is why families with scale invest in structural liquidity. It is not a luxury.
 
 It is an anchor.
-
 
 # The Hyltén Invest Distinction We operate quietly We operate precisely
 

@@ -12,7 +12,6 @@ In 2026, the institutions that prevail are those that understand liquidity as an
 
 The objective is clarity. Multi generational wealth is not a mystery. It is the outcome of industrial discipline, capital theology, and the precision application of Institutional Liquidity Paths across cycles.
 
-
 # THE REGIME SHIFT The current capital regime is shaped by three forces
 
 First, the Western demographic inversion. Aging populations reduce organic entrepreneurial expansion, which reduces capital velocity. Second, regulatory friction. Compliance layers designed for the 2008 crisis now inhibit the mid market credit creation necessary for industrial continuity.
@@ -47,7 +46,7 @@ The allocator seeking longevity must internalize them as operating principles ra
 
 In the North American energy domain, NAEO functions as the institutional grade partner due to its operational fluency in Alberta heavy oil, thermal recovery methods, and decline curve engineering. This partnership model is not promotional. It is functional.
 
-The modern allocator cannot independently manage regulatory transitions, real asset due diligence, and jurisdictional risk calibration without specialized intelligence. The strategic navigator ensures that capital deployment is matched with operational reality and that each asset category supports the broader liquidity mandate. (See [special mandates execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) The partnership model is built on three principles.
+The modern allocator cannot independently manage regulatory transitions, real asset due diligence, and jurisdictional risk calibration without specialized intelligence. The strategic navigator ensures that capital deployment is matched with operational reality and that each asset category supports the broader liquidity mandate. (See [special mandates execution](https://roialscapital.com/) for structural parameters) The partnership model is built on three principles.
 
 1. Neutrality The role is not that of fund manager. The role is that of introducer and structural guide, ensuring that institutional partners operate within their areas of competence and that capital decisions align with the family's stewardship mandate.
 
@@ -57,13 +56,11 @@ The modern allocator cannot independently manage regulatory transitions, real as
 
 The strategic navigator ensures that operational intelligence is embedded at the decision layer.
 
-
 # THE STEWARDSHIP FILTER The foundation of multi generational liquidity is stewardship This is not a financial term
 
 It is a moral and operational mandate rooted in the theology of capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22 a good person leaves an inheritance to their children's children. This principle is not about wealth accumulation.
 
 It is about responsibility.
-
 
 # Capital is a resource entrusted for productive use, not consumption
 
@@ -73,8 +70,9 @@ Opportunity is maximized. Liquidity is generated through competence rather than 
 
 Stewardship rejects impulsive allocation, fragile yield structures, and capital dissipation. It prioritizes durability, reserve capacity, and long horizon value creation. THE ALLOCATOR'S DECISION LENS In a fragmented capital world, the allocator requires a decision lens grounded in operational truth.
 
-1. Does the current portfolio have jurisdictional redundancy that protects against geopolitical and regulatory shifts. 2. Are core assets sufficiently hardened to serve as anchors for future liquidity cycles.
+1. Does the current portfolio have jurisdictional redundancy that protects against geopolitical and regulatory shifts.
+2. Are core assets sufficiently hardened to serve as anchors for future liquidity cycles.
 
 3. Is the liquidity architecture engineered or incidental. For families and institutions seeking a deeper understanding of structural alignment, Roials Capital conducts confidential strategy audits and portfolio calibration reviews.
 
-These engagements provide clarity on alignment between long range objectives, operational realities, and the mechanics required for multi generational liquidity. for . to approved mandates. : $5M+.
+These engagements provide clarity on alignment between long range objectives, operational realities, and the mechanics required for multi generational liquidity.

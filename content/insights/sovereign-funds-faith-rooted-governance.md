@@ -2,7 +2,7 @@
 title: "The Silent Return of Moral Authority in Sovereign Governance"
 description: "Why sovereign wealth institutions are dissecting faith‑rooted governance structures grounded in stewardship, duty, and industrial legacy."
 date: "2026-03-09"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "sovereign-funds-faith-rooted-governance"
 ---
 
@@ -17,7 +17,6 @@ Fashionable theories rise and vanish. A governance system tied to a transcendent
 It restrains overreach. It refuses empire-building. It rejects the idea that value can be commanded by decree. Sovereigns are rediscovering that industrial regions built by faith communities-Småland, Gnosjö, Saxon foundries, early American mills-generated not only goods but character.
 
 This character produced stable balance sheets long before risk committees existed.
-
 
 # The Spirit of Gnosjö remains the prototype
 
@@ -37,4 +36,4 @@ They want the Protestant ethic without the noise. Because it works. Across regim
 
 This is why several research units have begun observing institutional capital execution models emerging from the Nordic and North American Protestant tradition, including structurally aligned partners such as those doing advanced structuring through Roials Capital ([Roials Capital](https://roialscapital.com/)). The sovereign world moves slowly. But it moves toward strength.
 
-And strength still resides in governance built on moral authority, free enterprise, and the understanding that capital is a trust-not a trophy. : $5M+ target size. for . to approved mandates. : $5M+.
+And strength still resides in governance built on moral authority, free enterprise, and the understanding that capital is a trust-not a trophy.

@@ -2,7 +2,7 @@
 title: "Strategic Liquidity for the Conservative UHNWI"
 description: "A high‑end analysis of liquidity architecture for HNWI and UHNW investors, focusing on private credit and asset based liquidity engineering solutions."
 date: "2026-01-17"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-the-conservative-uhnwi"
 ---
 
@@ -28,4 +28,4 @@ More focus on endurance. Liquidity, when built correctly, becomes a stabilizing 
 
 Structured. Discreet. We provide a path for conservative capital to remain ready, patient, and resilient. This is strategic liquidity.
 
-This is principal authority in practice. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+This is principal authority in practice. to approved mandates.

@@ -2,7 +2,7 @@
 title: "Structural Alignment With Generational Stewardship"
 description: "Structural Alignment With Generational Stewardship"
 date: "2026-03-14"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "structural-alignment-with-generational-stewardship"
 ---
 
@@ -20,4 +20,4 @@ Institutions respect order backed by clarity. Generations respect legacy backed 
 
 It is the preparation of the enterprise for the children and grandchildren who will inherit not only assets, but responsibility. A family that understands this becomes unshakable. A firm that embodies this becomes investable.
 
-A legacy grounded in this becomes durable. : $5M+ target size. for . to approved mandates. : $5M+.
+A legacy grounded in this becomes durable.

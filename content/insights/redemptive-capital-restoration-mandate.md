@@ -2,7 +2,7 @@
 title: "Redemptive Capital and the Restoration Mandate"
 description: "A principal brief on capital as moral repair, covenantal stewardship, and the industrial duty to strengthen the social fabric without sacrificing return discipline."
 date: "2025-08-06"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "redemptive-capital-restoration-mandate"
 ---
 
@@ -17,7 +17,6 @@ The results are visible in crumbling infrastructure, hollowed-out industrial cor
 And moral failures carry interest. The compounding works in both directions. Virtue compounds. Vice compounds.
 
 The Principal who understands this operates accordingly. The restoration mandate begins with recognition.
-
 
 # Capital is not neutral
 
@@ -41,13 +40,11 @@ The returns include strengthened families, restored dignity, and communities rec
 
 It is structural.
 
-
 # The investor calculates
 
 The Principal covenants. The investor seeks arbitrage. The Principal seeks alignment. The investor exits when conditions deteriorate.
 
 The Principal remains because departure would violate the covenant.
-
 
 # The investor treats capital as a commodity
 
@@ -66,7 +63,6 @@ The parents buy homes. The community stabilizes. The multiplier effect is real, 
 The restoration mandate also requires selectivity. Not every distressed situation warrants investment. Some situations are unsalvageable. Some communities have been so thoroughly extracted that no amount of capital can reverse the damage.
 
 The Principal must exercise judgment. The Principal must recognize the difference between productive distress and pathological dysfunction. The Principal must resist the temptation to chase every opportunity labeled impact.
-
 
 # The covenant constrains as much as it compels
 
@@ -92,7 +88,6 @@ The call is not to every investor. The call is to Principals. To those who under
 
 To those who operate from the conviction that generationally-oriented capital deployment is not merely permissible but obligatory. The restoration mandate awaits those willing to accept it.
 
-
 # The mandate does not promise ease
 
 The mandate promises meaning. The mandate promises compounding beyond the financial. The mandate promises the satisfaction of participating in something larger than personal enrichment. The mandate promises the only returns that truly matter: returns in the form of strengthened communities, restored dignity, and evidence that the resources entrusted were used well.
@@ -102,7 +97,6 @@ The measurement of success in restoration-driven capital deployment differs fund
 Skills developed is a metric. Communities stabilized is a metric. Infrastructure improved is a metric. Environmental remediation completed is a metric.
 
 These metrics do not appear in standard investment reports because standard investment reports are designed for extraction-focused capital.
-
 
 # The family office committed to restoration must build its own measurement infrastructure
 

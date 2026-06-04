@@ -2,7 +2,7 @@
 title: "Stewardship Through Liquidity: Designing Multi-Generational Credit Strategies"
 description: "Designing evergreen credit lines and liquidity strategies for family wealth preservation and stewardship."
 date: "2026-03-01"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "stewardship-through-liquidity-designing-multi-generational-credit-strategies"
 ---
 
@@ -38,18 +38,15 @@ Optionality supports stewardship. Optionality maintains control. Credit is a too
 
 Principle 5: Structure Must Outlive the Architects A multi generational credit strategy should not rely on a single family member or advisor It must be institutional, documented, and repeatable.
 
-
 # The process should survive leadership changes
 
 This is how multi generational stewardship becomes sustainable. Building the Credit Architecture A well designed credit architecture is not one facility It is a system. It balances to approved mandates.
 
 : $5M+ target size.
 
-
 # The architecture typically includes four components
 
 Short Term Liquidity Lines These provide flexibility for operating needs, tactical transactions, or short duration imbalances They should be simple, inexpensive, and fully aligned with the family’s investment policy. They also serve as the first defense against unexpected events. Medium Duration Facilities These help finance larger liquidity requirements They are often secured by marketable securities, real estate, or diversified portfolios.
-
 
 # The goal is stability
 
@@ -69,7 +66,7 @@ Concentrated Holdings Large single asset positions require careful structuring, 
 
 This ensures clarity across generations and avoids emotional decision making. Covenant Sensitivity Families must avoid structures with aggressive or restrictive covenants Predictability is more important than price. The long term nature of family wealth demands flexibility, not complexity.
 
-Liquidity Coverage Discipline There should always be a clear liquidity buffer relative to commitments, investment needs, and risk scenarios Liquidity coverage protects the family from external shocks and internal transitions. (See [special mandates execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) # Integrating Credit Into Family Office Structure Credit strategy is not independent It connects to investment policy, estate planning, tax planning, and governance.
+Liquidity Coverage Discipline There should always be a clear liquidity buffer relative to commitments, investment needs, and risk scenarios Liquidity coverage protects the family from external shocks and internal transitions. (See [special mandates execution](https://roialscapital.com/) for structural parameters) # Integrating Credit Into Family Office Structure Credit strategy is not independent It connects to investment policy, estate planning, tax planning, and governance.
 
 A holistic approach includes: - A family investment policy that defines the role of credit. - An estate plan that aligns credit structures with generational transitions. - A cash management plan that outlines liquidity thresholds.
 
@@ -81,4 +78,4 @@ It eliminates noise. A minimalist credit strategy respects four ideas: - Fewer s
 
 Stability Across Generations Successive generations inherit clarity, not confusion They inherit options, not obligations. They inherit stability, not urgency. Stewardship becomes a lived practice. Liquidity becomes the method.
 
-Time becomes the advantage. for . to approved mandates. : $5M+.
+Time becomes the advantage.

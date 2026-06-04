@@ -2,7 +2,7 @@
 title: "The Mechanics of Multi Generational Liquidity"
 description: "A high end exploration of liquidity architecture for multi generational wealth, grounded in private credit and asset based liquidity engineering."
 date: "2025-09-08"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "the-mechanics-of-multi-generational-liquidity"
 ---
 
@@ -16,7 +16,7 @@ Assets evolve, yet obligations remain. Valuations shift, yet family strategies m
 
 Maintain optionality across market cycles. Remain independent of external volatility. Reduce forced sale exposure. Enable long-term familial allocation policy.
 
-Over time, this architecture becomes part of the family's internal governance. It becomes a stabilizing force, not a tactical tool. The Silent Advantages of [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) Against Private Credit For HNW and UHNW families, private credit has transformed from a secondary allocation to a core yield engine Its durability lies in its predictability.
+Over time, this architecture becomes part of the family's internal governance. It becomes a stabilizing force, not a tactical tool. The Silent Advantages of [Asset-Backed Frameworks](https://roialscapital.com/) Against Private Credit For HNW and UHNW families, private credit has transformed from a secondary allocation to a core yield engine Its durability lies in its predictability.
 
 Its challenge lies in its illiquidity. Families with substantial private credit portfolios often face a paradox. The yields are attractive. The duration is long.
 
@@ -34,13 +34,11 @@ Public Share Asset-Backed Frameworks for Large Concentrated Positions Many famil
 
 This is why we offer public share Strategic Collateralization with a minimum threshold of 5,000, 000 USD.
 
-
 # The structure allows families to: Maintain exposure to long-term value growth
 
 Unlock liquidity without forced selling. Stabilize portfolio concentration risk while retaining control. The objective is not leverage for acceleration. It is stability for continuity.
 
 Crypto Monetization Architecture for Institutional Scale Holders Digital assets have matured into institutional-grade holdings for certain UHNW families They present both long-term thesis conviction and short-term liquidity challenges. Our crypto Capital Structuring framework is designed only for institutional scale positions. Minimum 2,000, 000 USD.
-
 
 # The purpose is not speculation
 
@@ -76,7 +74,6 @@ When liquidity is engineered as a governance tool, these transitions unfold with
 
 This structure becomes part of the family's long-term blueprint. The Hyltén Invest Liquidity Framework Our framework is simple in form and deep in architecture It is designed for those who understand that liquidity must be engineered, not improvised.
 
-
 # The framework operates on three pillars
 
 Stability. Optionality. Continuity. Stability ensures that liquidity is available regardless of market conditions.
@@ -86,5 +83,3 @@ Optionality ensures that assets do not need to be liquidated prematurely. Contin
 A Long-Term Partnership Approach We work only with high net worth and ultra high net worth individuals We operate quietly. We avoid public signaling. Our role is to support, not to direct. Families come to us because they value long horizon thinking.
 
 They value precision in capital structure. They value a partner that does not require spotlight or narrative. This is the architecture of principal authority. to approved mandates. : $5M+ target size. for . to approved mandates.
-
-: $5M+.

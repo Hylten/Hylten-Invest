@@ -12,7 +12,6 @@ The Nature of Long Duration Stewardship Long duration stewardship differs from a
 
 These include private equity platforms, foundation capital, operating companies, meaningful land holdings, legacy equity positions, long life infrastructure, and multi decade compounding vehicles. Each of these requires a principal mindset.
 
-
 # The goal is to ensure that decisions made today do not compromise optionality tomorrow
 
 The guiding question is not what increases returns. The guiding question is what reduces long term regret. The Fiduciary Razor The Fiduciary Razor is a minimalist framework used to filter decisions across a multi decade horizon The purpose is to remove noise from judgment.
@@ -20,7 +19,6 @@ The guiding question is not what increases returns. The guiding question is what
 The technique is built on three core principles: clarity, durability, and reversibility. Each principle shapes the design of a principal stewardship mandate. Principle One: Clarity Clarity means that all decisions must be traceable to a small set of unchanging rules Families and institutions tend to accumulate complex processes over time.
 
 Complexity erodes control.
-
 
 # The Fiduciary Razor requires that each decision be simplified to the most legible form available
 

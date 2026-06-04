@@ -2,7 +2,7 @@
 title: "Conservative Leverage: The Quiet Architecture of Hylten Invest"
 description: "A deep exploration of conservative leverage, private credit, and asset based liquidity engineering for long-term liquidity stewardship."
 date: "2025-08-09"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "conservative-leverage-the-quiet-architecture-of-hylten-invest"
 ---
 
@@ -22,4 +22,4 @@ Not spectacle. Not risk inflation. The Hylten Invest Ethos: Quiet, Structural, E
 
 We provide the architecture behind liquidity, the mechanics behind stability, and the discretion behind long-range strategy. This is the nature of conservative leverage. It is deliberate. It is calm.
 
-It is built for families and individuals who measure success in decades. to approved mandates. : $5M+ target size. for . to approved mandates. : $5M+.
+It is built for families and individuals who measure success in decades. to approved mandates.

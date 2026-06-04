@@ -2,7 +2,7 @@
 title: "Virtue as Strategic Architecture"
 description: "A principal-level brief on moral authority as capital structure, integrating Christian industrial praxis into portfolio design under the Hyltén-Invest covenant."
 date: "2025-07-13"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "virtue-as-strategic-architecture"
 ---
 
@@ -11,7 +11,6 @@ slug: "virtue-as-strategic-architecture"
 Immutable. Virtue is not ornament. Virtue is operating system. A portfolio constructed without moral architecture collapses under its own weight.
 
 The markets punish rootlessness. The world rewards covenant.
-
 
 # The Spirit of Gnosjö carried whole regions through scarcity
 
@@ -29,7 +28,6 @@ As engineering. You bind each allocation to a principle. Stewardship. Transparen
 
 Immutable ownership. Industrial usefulness. The things that endure. The binding is the architecture.
 
-
 # The architecture is the discipline
 
 The discipline is the competitive advantage. The discipline separates the Principal from the speculator. The discipline separates the steward from the trader. The discipline creates durability that financial engineering cannot replicate.
@@ -39,7 +37,6 @@ The integrity of the upright shall guide them. The proverb states the mechanism.
 Integrity provides the operating system for decision-making. The Principal who operates from integrity makes different decisions than the Principal who operates from optimization. The decisions compound.
 
 The compounding creates the legacy.
-
 
 # The legacy is the evidence of the integrity
 
@@ -69,7 +66,6 @@ The law is not optional. The law is not negotiable. The law is the foundation. T
 
 First, define the virtues that govern the portfolio.
 
-
 # The definition must be explicit
 
 The definition must be written. The definition must be embedded in governance. Second, create filtering criteria that enforce the virtues. The criteria must be objective.
@@ -77,7 +73,6 @@ The definition must be written. The definition must be embedded in governance. S
 The criteria must be measurable. The criteria must be applied consistently. Third, build accountability structures that maintain the filter. The accountability must be internal.
 
 The accountability must be external when appropriate. The accountability must survive the founder. The theological foundation provides the durability.
-
 
 # The foundation holds that all capital belongs to God
 
@@ -91,13 +86,11 @@ The rejection is based on alignment. The Principal accepts lower nominal returns
 
 The exchange is the mechanism of legacy. The architecture requires external execution channels when the industrial thesis intersects institutional scale.
 
-
 # The covenant sets the direction
 
 The engines handle the machinery. The distinction is essential. The Principal maintains conviction. The execution partners maintain capability.
 
 The combination produces outcomes that neither could produce alone. The combination is the structure.
-
 
 # The structure is the architecture
 

@@ -2,7 +2,7 @@
 title: "Navigating Wealth Preservation in the Digital Age"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking long term preservation in a digital era."
 date: "2025-10-31"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "navigating-wealth-preservation-in-the-digital-age"
 ---
 
@@ -24,11 +24,9 @@ It is a multi generational asset class in itself. Hyltén Invest creates these s
 
 Systems that reinforce the family without distorting their strategy.
 
-
 # The Future of Wealth Preservation Is Structural Market cycles will continue to accelerate New asset classes will emerge
 
 Regulatory pressures will increase. Technology will reshape the velocity of capital. In this environment, preservation belongs to those who build structures rather than chase trends.
-
 
 # Private credit is a structure
 
@@ -39,5 +37,3 @@ They are foundational systems that stabilize wealth as the world becomes more dy
 Closing Reflection Wealth preservation in the digital age requires clarity Clarity of structure. Clarity of purpose. Clarity of execution. HNWI and UHNW individuals do not benefit from complexity for its own sake.
 
 They benefit from systems that function reliably, discreetly, and in alignment with generational objectives. Private credit and asset based Institutional Liquidity Paths provide this. Hyltén Invest exists to steward these systems with minimalist precision and long term integrity. to approved mandates.
-
-: $5M+ target size. for . to approved mandates. : $5M+.

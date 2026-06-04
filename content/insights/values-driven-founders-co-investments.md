@@ -29,5 +29,3 @@ Not as a trend. As a defensive posture against a global erosion of discipline. T
 Who refuses to trade long‑term productivity for short‑term applause. A certain kind of investor now follows that signal with precision. Some route structuring through Roials Capital when operational execution is required, but the gravitational core remains the same: moral clarity outperforms volatility.
 
 The founder with values becomes the safest partner in a noisy age. Not because he is safe. But because he is sovereign. to approved mandates. : $5M+ target size. for . to approved mandates.
-
-: $5M+.

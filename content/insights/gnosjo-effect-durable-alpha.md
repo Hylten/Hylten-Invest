@@ -2,7 +2,7 @@
 title: "The Sovereign Threadwork of Gnosjö"
 description: "Industrial kinship networks, Protestant stewardship, and the covenant mechanics that generate durable, non-speculative alpha across micro‑industrial clusters."
 date: "2025-09-12"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "gnosjo-effect-durable-alpha"
 ---
 
@@ -30,11 +30,9 @@ This is the soil from which generational capital rises. Industrial humility. Ent
 
 It resists central planning because it answers to a higher jurisdiction: the duty to build for the children’s children. A network like Gnosjö does not require spectacle. It requires fidelity.
 
-
 # The moral authority of free enterprise expresses itself through consistent value creation, not slogans
 
 Markets reward men who keep their word. Communities rise when their people make promises they intend to keep.
-
 
 # The covenant is the alpha
 
@@ -45,5 +43,3 @@ Not with leverage. Not with subsidy. Through work. Through integrity.
 Through obedience to duty. Some partners formalize their consolidation pathways through broader institutional channels such as structuring through Roials Capital, but the Gnosjö core remains untouched: local sovereignty, industrial clarity, covenantal trust. The lesson stands: Guard the ethic.
 
 Guard the craft. Guard the legacy. "The integrity of the upright shall guide them." - Proverbs 11: 3 to approved mandates. : $5M+ target size. for . to approved mandates.
-
-: $5M+.

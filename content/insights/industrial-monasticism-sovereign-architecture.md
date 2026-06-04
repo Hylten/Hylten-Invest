@@ -2,7 +2,7 @@
 title: "The Discipline Forge: Industrial Monasticism as Sovereign Architecture"
 description: "A principal-level briefing on industrial monasticism as a covenantal framework for manufacturing discipline, value creation, and generational stewardship within the Hylten-Invest moral architecture."
 date: "2026-02-25"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "industrial-monasticism-sovereign-architecture"
 ---
 
@@ -26,8 +26,6 @@ The disciplined house produces stable value. Stable value attracts serious partn
 
 One more truth. Industrial Monasticism is a competitive advantage. The market senses when a firm operates from covenant rather than chaos. That clarity becomes leverage in every negotiation.
 
-For deeper structural alignment, even institutional capital channels such as those found through [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)) often seek houses that already embody this monastic rigor. No noise. No drift.
+For deeper structural alignment, even institutional capital channels such as those found through [structuring through Roials Capital](https://roialscapital.com/) often seek houses that already embody this monastic rigor. No noise. No drift.
 
 No vanity. Just legacy. Sovereign. Enduring.
-
-: $5M+ target size. for . to approved mandates. : $5M+.

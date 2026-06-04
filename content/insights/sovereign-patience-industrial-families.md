@@ -2,12 +2,11 @@
 title: "The Sovereign Patience of Industrial Families"
 description: "A principal-level briefing on the compounding moral, strategic, and structural advantages observed in long-horizon industrial families who anchor their governance in duty, stewardship, and Christian discipline."
 date: "2025-10-24"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "sovereign-patience-industrial-families"
 ---
 
 **The families who endure understand something simple. Capital grows when character grows.**
-
 
 # The structure follows the soul
 
@@ -37,7 +36,6 @@ Wait longer. Build deeper. Outlast everything. Industrial Continuity as Moral Au
 
 Longevity produces legitimacy.
 
-
 # Stewardship produces trust
 
 The workforce senses it. The region senses it. Suppliers reorganize themselves around this center of gravity. The empirical evidence is unmistakable: long-standing industrial families create more stable employment, higher apprenticeship yields, and superior supplier retention than private equity-backed firms operating on five-year exit clocks.
@@ -51,7 +49,6 @@ Then we descend. The families that persist share five architectural norms: 1. Th
 It does not shift with fashions. A family without narrative discipline fragments under the pressure of growth. 2. They separate ownership from entitlement.
 
 Roles are earned.
-
 
 # Stewardship is assigned by readiness, not by birth order
 

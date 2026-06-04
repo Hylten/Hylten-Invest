@@ -2,7 +2,7 @@
 title: "The Covenant Logic of Capital"
 description: "A principal brief on faith‑aligned allocation, generational authority, and sovereign capital formation for UHNW families seeking values‑based outperformance."
 date: "2025-12-23"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "covenant-logic-of-capital"
 ---
 
@@ -38,7 +38,6 @@ Partners who understand that capital is not merely deployed; it is entrusted. Fo
 
 A declaration of lineage. A refusal to let the world define the family’s logic.
 
-
 # The covenant becomes the compass
 
-The compass becomes the shield. And the shield becomes the inheritance. : $5M+ target size. for . to approved mandates. : $5M+.
+The compass becomes the shield. And the shield becomes the inheritance.

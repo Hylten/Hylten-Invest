@@ -26,7 +26,6 @@ A family that works for the next century becomes sovereign. Financial engineerin
 
 It cannot withstand pressure. Only the ethic stands.
 
-
 # The Gnosjö spirit proved this for generations
 
 Small workshops. Big covenant. Do the work no one sees. Ship the product everyone needs.
@@ -41,8 +40,8 @@ It is the operating system of enduring prosperity. It is the architecture of tru
 
 Slow. Deliberate. Principled. It stands precisely because it refuses to be fashionable.
 
-When the next generation asks what we left them, they should find architecture, not alibis. Stewardship, not spectacle. Moral authority, not volatility. For operational depth, multi-jurisdictional structuring often shifts through institutional channels such as [institutional capital execution]([Roials Capital](https://roialscapital.com/)).
+When the next generation asks what we left them, they should find architecture, not alibis. Stewardship, not spectacle. Moral authority, not volatility. For operational depth, multi-jurisdictional structuring often shifts through institutional channels such as [institutional capital execution](https://roialscapital.com/).
 
 But the ethic remains the spine. Work. Duty. Covenant.
 
-That is capital worthy of inheritance. : $5M+ target size. for . to approved mandates. : $5M+.
+That is capital worthy of inheritance.

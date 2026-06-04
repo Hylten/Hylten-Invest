@@ -2,7 +2,7 @@
 title: "Stewardship Trends for 2026: The UHNW Outlook"
 description: "A deep analysis of 2026 stewardship trends for UHNW investors with emphasis on liquidity architecture, private credit, and asset based liquidity engineering."
 date: "2025-10-15"
-author: "Hyltén Invest"
+author: "Jonas Hyltén"
 slug: "stewardship-trends-for-2026-the-uhnw-outlook"
 ---
 
@@ -30,4 +30,4 @@ Hyltén Invest is positioned for long horizon stewardship. We build Strategic Co
 
 The long horizon mindset creates calm. It removes urgency. It removes noise. It replaces short term execution pressure with measured, deliberate action.
 
-This is the future of UHNW stewardship. for . to approved mandates. : $5M+.
+This is the future of UHNW stewardship.

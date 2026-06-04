@@ -2,7 +2,7 @@
 title: "The Sovereign Theology of Capital"
 description: "A principal-level briefing on Christian stewardship, industrial heritage, and the governance architecture required for generational capital among UHNW families."
 date: "2025-08-24"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "theology-of-capital-uhnw-governance"
 ---
 
@@ -32,11 +32,10 @@ The ethic that built forges still builds private markets. Even now. UHNW familie
 
 Sentimental. Eroding value across generations. A sovereign family cannot afford such entropy. Those who embrace disciplined stewardship, grounded in Christian moral authority, command a different altitude.
 
-They move with industrial calm. They operate with covenant legitimacy. They build structures that endure beyond their sightline. Some families strengthen this architecture through external structuring partners, including institutional engines such as [institutional capital execution]([Roials Capital](https://roialscapital.com/)) when jurisdictional clarity is required.
+They move with industrial calm. They operate with covenant legitimacy. They build structures that endure beyond their sightline. Some families strengthen this architecture through external structuring partners, including institutional engines such as [institutional capital execution](https://roialscapital.com/) when jurisdictional clarity is required.
 
 Not dependency. Alignment.
 
-
 # The Spirit of Gnosjö remains a witness: Solve the problem
 
-Create the value. Pass the blueprint to the children’s children. : $5M+ target size. for . to approved mandates. : $5M+.
+Create the value. Pass the blueprint to the children’s children.

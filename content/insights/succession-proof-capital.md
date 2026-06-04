@@ -2,14 +2,13 @@
 title: "Succession‑Proof Capital"
 description: "A principled architectural analysis of multi‑generational enterprise stewardship, values preservation, and covenantal capital design."
 date: "2025-10-05"
-author: "Hylten-Invest"
+author: "Jonas Hyltén"
 slug: "succession-proof-capital"
 ---
 
 **- A house endures only when its foundations are set in stone, not sand. The same is true for capital. The enterprise that hopes to endure beyond the founders must anchor its structure in something deeper than personality, ambition, and quarterly incentives.**
 
 Heritage is a discipline.
-
 
 # Stewardship is a covenant
 
@@ -19,11 +18,9 @@ THE FIRST PRINCIPAL FACT Values survive succession only when the capital archite
 
 Clarity first. Ambiguity kills legacies. Structures protect them.
 
-
 # THE INDUSTRIAL HERITAGE PRINCIPLE Where the Gnosjö spirit flourished, prosperity followed That spirit is not mystical
 
 It is practical. A covenant of mutual duty: work hard, solve tangible problems, reinvest wisely, protect the community that sustains the enterprise.
-
 
 # The region did not produce wealth through speculation
 
