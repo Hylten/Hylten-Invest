@@ -8,7 +8,7 @@ slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-e
 
 **And above all, it is protected through to approved mandates. : $5M+ target size. Families with significant capital often discover that the challenge is not wealth creation.**
 
-# The challenge is continuity
+## The challenge is continuity
 
 Continuity requires silent infrastructure. It requires institutions that operate in near invisibility. It requires the capacity to unlock liquidity without operational disruption, without unnecessary divestment, and without diluting governance.
 

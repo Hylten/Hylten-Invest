@@ -8,7 +8,7 @@ slug: "covenant-stewardship-the-hylten-legacy-of-industr"
 
 **It rose from covenant. It rose from men who understood that capital is not a possession.**
 
-# Capital is a trust
+## Capital is a trust
 
 The ethos of Hyltén Invest is not conceptual. It is inherited. It is forged through a century of Christian industrial order where ownership meant responsibility and responsibility meant obedience to a higher mandate.
 
@@ -28,7 +28,7 @@ The modern financial landscape obscures these fundamentals. Liquidity flows with
 
 Hyltén Invest restores alignment by reintroducing Biblical accountability into the decision-making framework. This is not moral decoration. It is operational design.
 
-# The Industrial Mandate Sweden's old industrial order did not rely on slogans It relied on competence and fear of God
+## The Industrial Mandate Sweden's old industrial order did not rely on slogans It relied on competence and fear of God
 
 Factories were built before buzzwords existed. Trust was earned through execution, not theatrics.
 
@@ -38,7 +38,7 @@ Factories were built before buzzwords existed. Trust was earned through executio
 
 This is the backbone of the Hylten playbook.
 
-# The firm does not chase trends
+## The firm does not chase trends
 
 It reinforces foundations. Industrial clarity over market noise. Private credit and structured liquidity engineering remain the modern extension of this legacy. Not speculative.
 
@@ -46,7 +46,7 @@ Not derivative. A return to fundamentals: collateral, covenant, and competence. 
 
 Asset Hardening as Covenant The phrase asset hardening is often interpreted as technical For Hyltén Invest it is spiritual.
 
-# The steward is commanded to fortify what God has placed under his authority
+## The steward is commanded to fortify what God has placed under his authority
 
 Matthew 25:21 : You have been faithful over a little. I will set you over much. Faithfulness demands reinforcement. Weak structures dishonor THE MANDAT E .
 
@@ -78,7 +78,7 @@ This creates advantages: - Arbitrage against bureaucracy. - Rapid absorption of 
 
 Christian Industrial Legacy as Operating System The wider industrial tradition does not sit in the past It functions as an operating system for present decision making.
 
-# Legacy is not nostalgia
+## Legacy is not nostalgia
 
 Legacy is architecture. It informs: - What the firm builds. - What the firm rejects. - Which counterparties qualify.
 
@@ -108,7 +108,7 @@ As responsibility doctrine. Generational transfer involves: - Competence. - Disc
 
 - Explicit values. - Structures that cannot be diluted by future leadership drift. Hyltén Invest functions within this framework.
 
-# The firm is not building for a single cycle
+## The firm is not building for a single cycle
 
 It is building for grandchildren who have not been born yet. This long horizon shapes every decision. It forces patience. It enforces minimalism.
 

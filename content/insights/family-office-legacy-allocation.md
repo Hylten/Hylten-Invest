@@ -18,21 +18,27 @@ This orientation affects every decision. The objective is not to outperform benc
 
 Only then does it expand outward into higher-yielding strategies. This order of operations is essential.
 
-# Stewardship requires structure
+## Stewardship requires structure
 
 Structure requires clarity. Clarity requires a documented investment philosophy that is consistently revisited and stress tested. Core Elements of a Legacy Allocation Framework 1. Capital Preservation Structures A family office must secure the bedrock of its liquidity and stability.
 
 This often includes a blend of conservative instruments. It is designed to endure crises without forcing the family to liquidate long-term positions. Typical elements include: - Short duration high grade instruments - Strategic cash reserves - Defensive fixed income - Essential real assets with low operational complexity These allocations serve a singular purpose.
 
-They ensure the family can act from strength, not fear, during dislocations. 2. Long-Term Appreciation Assets Once preservation is secured, the office establishes its growth engines. These are allocations that compound over decades.
+They ensure the family can act from strength, not fear, during dislocations.
+
+2. Long-Term Appreciation Assets Once preservation is secured, the office establishes its growth engines. These are allocations that compound over decades.
 
 Their value is not determined by quarterly performance. Their value emerges through structural expansion. Common components include: - Global equity exposure - High quality private equity - Select venture capital with prudent pacing - Scalable real estate platforms The emphasis is on quality, durability, and simplicity.
 
-The objective is to build exposure to global progress while avoiding unnecessary complexity. 3. Strategic Influence Assets Some families deploy capital into categories that maintain or expand their influence.
+The objective is to build exposure to global progress while avoiding unnecessary complexity.
+
+3. Strategic Influence Assets Some families deploy capital into categories that maintain or expand their influence.
 
 These allocations are not merely financial. They are strategic. They support the family’s identity, mission, and societal position. Examples include: - Direct ownership in operating companies - Sector concentrations tied to legacy expertise - Philanthropic or mission aligned investments - Cultural or regional assets supporting family heritage These positions carry long duration and deep meaning.
 
-They are not evaluated only through financial metrics. They are evaluated through relevance to the family’s future. 4. Optionality Capital A modern family office must preserve optionality.
+They are not evaluated only through financial metrics. They are evaluated through relevance to the family’s future.
+
+4. Optionality Capital A modern family office must preserve optionality.
 
 The world evolves quickly. Industries reset. Technologies disrupt. Entire asset classes emerge.
 
@@ -42,7 +48,7 @@ It nurtures adaptability. It strengthens resilience. The Minimalist Approach in 
 
 It reduces cognitive load. It reduces fragility. Minimalism in a family office does not mean a lack of sophistication. It means unnecessary complexity is avoided.
 
-# The architecture is clean
+## The architecture is clean
 
 The rationale is clear. Each component supports the long-term mission. In a world that promotes velocity, minimalism supports clarity. Clarity supports continuity.
 

@@ -6,7 +6,7 @@ author: "Jonas Hyltén"
 slug: "theology-of-scale-stewardship-industrial-ambition"
 ---
 
-# Stewardship demands scale
+## Stewardship demands scale
 
 **Not indulgence. Not ego. Obedience. Industrial ambition becomes righteous when it protects the weak and strengthens future builders.**
 
@@ -22,11 +22,11 @@ Markets reward value creation. Shrinking horizons dishonor the gift. "The hand o
 
 It rejects dependence. It sees capital as a tool-never a throne.
 
-# The Spirit of Gnosjö understood this long before capital theorists wrote their models
+## The Spirit of Gnosjö understood this long before capital theorists wrote their models
 
 Community discipline. Local courage. Enterprise shaped by character. They built without complaint, without spectacle, without permission.
 
-# Moral authority is simple
+## Moral authority is simple
 
 Create more than you consume. Strengthen more than you burden. Pass forward more than you take. The larger the enterprise, the larger the duty.
 

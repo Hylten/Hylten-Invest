@@ -24,7 +24,7 @@ Clarity around risk tolerance. Clarity around liquidity expectations. A family o
 
 Which positions are valuable but illiquid. Which holdings carry structural importance and should never be sold for liquidity purposes. Once this mapping is complete, the office can identify where Monetization Architecture against private credit, crypto positions, or concentrated public holdings can eliminate risk without adding volatility.
 
-# The goal is not leverage
+## The goal is not leverage
 
 The goal is durability. Durability of liquidity. Durability of control. When Asset-Based Lending Becomes a Strategic Advantage Strategic Asset-Based Lending diversification creates several advantages that accumulate over time It strengthens negotiating power by ensuring liquidity during acquisition windows.
 

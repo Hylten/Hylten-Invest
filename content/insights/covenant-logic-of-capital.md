@@ -38,6 +38,6 @@ Partners who understand that capital is not merely deployed; it is entrusted. Fo
 
 A declaration of lineage. A refusal to let the world define the family’s logic.
 
-# The covenant becomes the compass
+## The covenant becomes the compass
 
 The compass becomes the shield. And the shield becomes the inheritance.

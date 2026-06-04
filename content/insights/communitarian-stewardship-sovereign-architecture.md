@@ -10,7 +10,7 @@ slug: "communitarian-stewardship-sovereign-architecture"
 
 A culture where duty precedes desire. Work precedes reward. Stewardship precedodes consumption.
 
-# The Spirit of Gnosjö did not emerge from comfort
+## The Spirit of Gnosjö did not emerge from comfort
 
 It emerged from responsibility accepted without complaint. THE MANDAT E is simple. Guard the commons. Expand the inheritance.
 

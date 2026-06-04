@@ -25,6 +25,7 @@ No fantasies of control. Good stewardship refuses the delusion that value can be
 Reality always wins. Spiritually informed asset management is not mysticism. It is clarity. Work produces value.
 
 Innovation compounds value. Character protects value. And only a principled architecture preserves it across generations. Three pillars form the sovereign structure:
+
 - The Moral Mandate: Capital deployed with clean hands and straight purpose.
 
 - The Industrial Mandate: Build. Fix. Solve. Pass forward.

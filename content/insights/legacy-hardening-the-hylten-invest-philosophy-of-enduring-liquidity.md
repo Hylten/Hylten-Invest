@@ -10,7 +10,7 @@ slug: "legacy-hardening-the-hylten-invest-philosophy-of-enduring-liquidity"
 
 And it is structural liquidity that becomes legacy.
 
-# The Architecture of Liquidity Liquidity is often misunderstood as immediacy But true liquidity is not speed
+## The Architecture of Liquidity Liquidity is often misunderstood as immediacy But true liquidity is not speed
 
 True liquidity is certainty. The certainty that capital can be activated when required, without forced liquidation, without public exposure, and without compromising long-term strategy. We construct liquidity architecture with the following principles.
 
@@ -44,13 +44,13 @@ Without complexity for the sake of complexity. This minimalist approach allows u
 
 Balance‑sheet durability. We do not require more. We require precision.
 
-# The Philosophy in Practice Legacy hardening is not a slogan It is a process
+## The Philosophy in Practice Legacy hardening is not a slogan It is a process
 
 A method. A discipline. It begins with an evaluation of the existing balance sheet. We examine assets not by their surface value, but by their structural value.
 
 We identify the liquidity nodes, the tension points, and the stability anchors. We then construct Institutional Liquidity Paths frameworks that convert these assets into reinforced liquidity.
 
-# The process is deliberately slow
+## The process is deliberately slow
 
 Deliberately careful. Deliberately aligned with long‑term horizons. Because every liquidity decision becomes part of the legacy. When Liquidity Becomes Legacy There is a moment, often unnoticed, when liquidity ceases to be transactional and becomes foundational When the availability of capital stabilizes a family’s long‑term posture.
 

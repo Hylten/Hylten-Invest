@@ -10,4 +10,4 @@ slug: "conservative-approach-portfolio-liquidity-stewardship"
 
 It is the foundational discipline that allows capital to act with authority across cycles. The following briefing establishes a stewardship anchored liquidity philosophy for allocators who treat capital as a multi generational trust.
 
-# The structure reflects institutional navigation intelligence rather than product positioning
+## The structure reflects institutional navigation intelligence rather than product positioning

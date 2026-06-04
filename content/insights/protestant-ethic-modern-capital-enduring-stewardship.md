@@ -26,7 +26,7 @@ A family that works for the next century becomes sovereign. Financial engineerin
 
 It cannot withstand pressure. Only the ethic stands.
 
-# The Gnosjö spirit proved this for generations
+## The Gnosjö spirit proved this for generations
 
 Small workshops. Big covenant. Do the work no one sees. Ship the product everyone needs.
 

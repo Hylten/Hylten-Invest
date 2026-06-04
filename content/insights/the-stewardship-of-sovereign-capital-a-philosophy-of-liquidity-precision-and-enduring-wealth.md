@@ -32,13 +32,13 @@ Public share Monetization Architecture allows wealth holders to: - Retain voting
 
 Liquidity becomes a strategic extension of the equity position rather than a break in its continuity. Stewardship Versus Management Many confuse wealth management with stewardship We differentiate. Management is transactional.
 
-# Stewardship is structural
+## Stewardship is structural
 
 Management looks to performance. Stewardship looks to preservation. Management adjusts positions. Stewardship protects dynasties.
 
 Hylten‑Invest focuses exclusively on stewardship. We architect structures that endure. We design collateral frameworks that maintain client optionality during market stress. We ensure that liquidity serves intention rather than emotion.
 
-# The Architecture of principal authority Our clients do not seek noise They seek infrastructure
+## The Architecture of principal authority Our clients do not seek noise They seek infrastructure
 
 They seek reliability. They seek mechanisms that operate without friction. principal authority is our internal doctrine. It means that we carry the institutional weight so that the client does not feel it.
 
@@ -56,7 +56,7 @@ It is defense. Collateral is not leverage. It is architecture. At Hylten‑Inves
 
 The Continuity of Capital Across Generations Every family with significant wealth eventually confronts the same question How does capital remain intact across multiple lifetimes.
 
-# The answer is neither investment performance nor aggressive growth
+## The answer is neither investment performance nor aggressive growth
 
 The answer is disciplined structure. Capital Structuring frameworks that prevent forced liquidation. Liquidity mechanisms that preserve long‑term strategies. Collateral structures that respect inheritance planning.
 

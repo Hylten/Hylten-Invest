@@ -14,7 +14,7 @@ Long Term Stewardship in a Volatile World Stewardship is not measured by ambitio
 
 Conservative leverage is a system.
 
-# Private credit is a system
+## Private credit is a system
 
 Asset based Institutional Liquidity Paths is a system. Bitcoin backed liquidity is a system. Each component serves the same purpose. To maintain optionality.
 

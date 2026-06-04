@@ -18,7 +18,7 @@ The result is predictable. Underpriced assets with essential characteristics out
 
 They anchor themselves not to momentum cycles but to the slow turning flywheel of disciplined operating stewardship.
 
-# The Spirit of Gnosjö is a practical expression of this
+## The Spirit of Gnosjö is a practical expression of this
 
 It recognizes that capital is not merely deployed. It is cultivated. It is shaped by the habits of the steward, not the movements of the market. The theological foundation is clear: capital is a responsibility given for the purpose of construction, not extraction.
 

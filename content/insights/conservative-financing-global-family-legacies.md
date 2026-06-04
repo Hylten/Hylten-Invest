@@ -36,7 +36,7 @@ Sovereignty. Capacity to survive macro‑shocks without distress liquidation or 
 
 They cheapen discipline.
 
-# The principal’s task is to architect the fortress before the storm
+## The principal’s task is to architect the fortress before the storm
 
 Families who wait for distress to design a capital strategy always arrive late. Late equals costly. Costly equals avoidable. Private credit becomes the backbone structure.
 
@@ -74,7 +74,7 @@ The enforcement plan ensures global enforceability. Not theoretical. The reserve
 
 And the governance brief ensures continuity of ethos. Not bureaucracy. Here, theology becomes financial infrastructure.
 
-# Stewardship is a governance principle
+## Stewardship is a governance principle
 
 Responsibility is a yield mechanism. Humility is a risk‑mitigation tool. Christian industrialists historically built enterprises with fewer words and stronger hands. They structured debt as covenant.
 

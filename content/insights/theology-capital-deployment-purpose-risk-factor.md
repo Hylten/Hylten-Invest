@@ -18,7 +18,7 @@ The rot is silent, but measurable. A Principal does not moralize this. A Princip
 
 Values mispriced become liabilities. Institutions have learned this the hard way. The Protestant ethic solved it earlier. Work as calling.
 
-# Capital as stewardship
+## Capital as stewardship
 
 Enterprise as service. The forge at Gnosjö carried that creed. So did every family that labored under it. Action.
 

@@ -2,6 +2,40 @@ import React, { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
+function preprocessMarkdown(text: string): string {
+  let t = text;
+
+  // Pattern B: inline # headings mid-sentence — ". # Heading" → ".\n\n## Heading"
+  t = t.replace(/(?<=[.!?])\s*#\s+(?=[A-ZÅÄÖ])/g, '\n\n## ');
+
+  // Also catch inline # after a colon, dash, or opening parenthesis
+  t = t.replace(/(?<=[:\-–(])\s*#\s+(?=[A-ZÅÄÖ])/g, '\n\n## ');
+
+  // Convert # at line start to ## (all article headings should be h2 level)
+  t = t.replace(/^#\s+(?=[A-ZÅÄÖ])/gm, '## ');
+
+  // Pattern C: heading runs into body text on same line
+  // "## Very long heading text. Body continues here." — split at sentence boundary
+  t = t.replace(/^##\s+(.{80,200})$/gm, (match: string) => {
+    const content = match.slice(3);
+    const m = content.match(/^(.{20,}?[.!?])\s+(.{20,})$/);
+    if (m) return `## ${m[1]}\n\n${m[2]}`;
+    return match;
+  });
+
+  // Pattern D: numbered list items mid-paragraph (". 1. Item" → ".\n\n1. Item")
+  // Only match when preceded by sentence-ending punctuation
+  t = t.replace(/(?<=[.!?])\s+(\d+)\.\s+(?=[A-ZÅÄÖ][a-zåäö])/g, '\n\n$1. ');
+
+  // Fix inline numbered list items mid-sentence with colon prefix
+  t = t.replace(/(?<=:)\s+(\d+)\.\s+(?=[A-ZÅÄÖ][a-zåäö])/g, '\n\n$1. ');
+
+  // Ensure blank line before list items that start a line
+  t = t.replace(/([^!?.\n])(\n(?:[-*]|\d+\.)\s+[A-ZÅÄÖ])/g, '$1\n$2');
+
+  return t;
+}
+
 // Browser-safe frontmatter parser
 function parseFrontmatter(raw: string) {
     const parts = raw.split(/---/);
@@ -302,7 +336,7 @@ export const InsikterArticle: React.FC<InsikterArticleProps> = ({ slug, dark = f
                         h3: ({node, ...props}) => <h4 {...props} />,
                     }}
                 >
-                    {content.replace(/\n{3,}/g, '\n\n')}
+                    {preprocessMarkdown(content)}
                 </ReactMarkdown>
             </div>
 

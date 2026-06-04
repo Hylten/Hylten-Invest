@@ -26,7 +26,7 @@ These families created sovereign structures long before they had sovereign power
 
 The result is extraordinary: structural independence and balance sheet durability that outperformed highly leveraged Anglo‑American industrial peers across multiple cycles.
 
-# The industrial patriarchs did not articulate elaborate financial doctrine
+## The industrial patriarchs did not articulate elaborate financial doctrine
 
 They lived it. They operated inside a simple truth: capital given by God is to be cultivated, not consumed. The field is tended; the surplus is reinvested; the enterprise becomes a vessel for generational utility.
 
@@ -46,7 +46,7 @@ A modern observer may call this “conservatism.” A Principal knows it is simp
 
 And you invest in innovation from strength, not emergency.
 
-# The Gnosjö spirit formalized this
+## The Gnosjö spirit formalized this
 
 Small firms cooperating, competing, cross‑training, and sharing capabilities. An ecosystem of micro‑specialization. Family by family. Forge by forge.
 
@@ -56,7 +56,7 @@ To understand Nordic family power, you must understand the moral dimension behin
 
 Speculation is not scorned because it is uncertain; it is scorned because it does not create anything. Creation is the point. Clean balance sheets are not aesthetic. They are moral orientation.
 
-# Stewardship demands margin
+## Stewardship demands margin
 
 Margin creates safety. Safety creates freedom. And freedom allows the enterprise to behave generationally rather than quarterly. This is where Nordic families become instructive for global enterprise leaders today.
 

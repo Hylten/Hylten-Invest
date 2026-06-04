@@ -20,7 +20,7 @@ A Principal guards. A Principal answers to God before he answers to markets. Tha
 
 Moral authority becomes alpha because disorder rewards shortcuts while free enterprise demands discipline. Markets trust the disciplined. Markets compound with the principled. Markets punish the clever but reward the faithful.
 
-# The Spirit of Gnosjö still matters
+## The Spirit of Gnosjö still matters
 
 Small workshop. Large courage. Communal ethic. Work as service.
 

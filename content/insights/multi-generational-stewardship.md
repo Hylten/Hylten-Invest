@@ -13,10 +13,13 @@ It reduces conflict. Intergenerational alignment is created through education, s
 Markets change. Technology shifts. Interest rate cycles come and go. Principles remain.
 
 Core components of the long horizon strategy
+
 1. Focus on real assets and productive enterprises.
+
 2. Maintain controlled diversification.
 
 3. Retain optionality through liquidity buffers.
+
 4. Avoid exposure to irreversible risk.
 
 These components create a resilient foundation. They reduce the need for reactive behavior. They support long term compounding. Stewardship of Non Financial Assets Multi generational stewardship extends beyond capital A family with a century long vision must steward culture, reputation, relationships, and knowledge.
@@ -33,7 +36,7 @@ It is the removal of unnecessary volatility. A minimalist strategy focuses on es
 
 Minimalism supports clarity. Clarity supports longevity. Longevity supports compounding.
 
-# The Role of Conservative Decision Making Conservatism in stewardship is not static It is dynamic restraint
+## The Role of Conservative Decision Making Conservatism in stewardship is not static It is dynamic restraint
 
 It is the ability to say no. It is the ability to wait. Families with conservative decision frameworks avoid risks that threaten continuity. They move deliberately. They move with discipline.
 
@@ -41,19 +44,21 @@ They move with awareness of second order consequences. Conservative decision mak
 
 With structure, decisions become predictable. Effective governance includes 1. Defined roles and responsibilities. 2.
 
-A process for long term decision making. 3. Regular alignment meetings. 4.
+A process for long term decision making.
 
-Documentation that removes ambiguity. Good governance does not constrain. It liberates. It creates stability so each member can act with clarity and confidence.
+3. Regular alignment meetings.
+
+4. Documentation that removes ambiguity. Good governance does not constrain. It liberates. It creates stability so each member can act with clarity and confidence.
 
 Preparing the Next Generation A legacy is not something given It is something prepared for. Families that succeed across generations do not wait until successors are needed. They cultivate capability early.
 
 Preparation involves education, gradual responsibility transfer, and exposure to real decision environments. It includes developing judgment, not only knowledge. When the next generation understands both the privilege and the responsibility of stewardship, continuity becomes natural.
 
-# The Power of Long Term Compounding Stewardship amplifies compounding Compounding amplifies stewardship
+## The Power of Long Term Compounding Stewardship amplifies compounding Compounding amplifies stewardship
 
 Each supports the other. The mathematics of compounding becomes transformative only across long periods. Families that protect capital and reinvest systematically experience growth that appears slow in the short term and extraordinary in the long term.
 
-# The steward understands that time is the most valuable asset
+## The steward understands that time is the most valuable asset
 
 Resilience in the Face of Uncertainty Uncertainty is a constant Stewards do not attempt to eliminate uncertainty. They build resilience. They create buffers that allow the family to endure volatility without forced action.
 

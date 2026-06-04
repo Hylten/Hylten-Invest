@@ -24,7 +24,7 @@ Families who have liquidity can act at precisely the right moment. Families who 
 
 Liquidity is not a luxury. It is a shield.
 
-# The Stewardship Equation Sovereign wealth stewardship is the intersection of three elements Capital
+## The Stewardship Equation Sovereign wealth stewardship is the intersection of three elements Capital
 
 Structure. Time. Capital is the asset base. Structure is the liquidity architecture.
 

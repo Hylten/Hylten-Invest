@@ -20,7 +20,7 @@ In private credit, unnecessary complexity introduces risk. Unnecessary speed int
 
 The collateral.
 
-# The structure
+## The structure
 
 The execution. The continuity of the client’s vision. This is the essence of conservative Capital Structuring. It is the essence of the Hylten Invest method.
 

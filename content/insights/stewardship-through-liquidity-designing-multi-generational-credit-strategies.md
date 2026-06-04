@@ -20,9 +20,9 @@ They move in decades, not quarters. Why Multi Generational Families Need Credit 
 
 1. Cash Flow Smoothing Family wealth is rarely linear. Cash inflows and liquidity events are uneven. Credit lines help smooth unpredictable timing.
 
-A well designed strategy avoids the need to sell assets during downturns or accelerate distributions at inopportune moments. This protects compounding, which is the most important ingredient in multi generational wealth. 2.
+A well designed strategy avoids the need to sell assets during downturns or accelerate distributions at inopportune moments. This protects compounding, which is the most important ingredient in multi generational wealth.
 
-Capital Preservation Selling assets to meet short term liquidity needs reduces long term wealth. Families that rely on credit structures can preserve core holdings while gaining the cash they need for operations, investment opportunities, or generational transfers. Credit is a shield for patient capital.
+2. Capital Preservation Selling assets to meet short term liquidity needs reduces long term wealth. Families that rely on credit structures can preserve core holdings while gaining the cash they need for operations, investment opportunities, or generational transfers. Credit is a shield for patient capital.
 
 3. Continuity Across Generations Generational transitions create liquidity stress. Transfer taxes, equity restructurings, and settlement of estates often force families to sell assets or dilute control.
 
@@ -38,17 +38,17 @@ Optionality supports stewardship. Optionality maintains control. Credit is a too
 
 Principle 5: Structure Must Outlive the Architects A multi generational credit strategy should not rely on a single family member or advisor It must be institutional, documented, and repeatable.
 
-# The process should survive leadership changes
+## The process should survive leadership changes
 
 This is how multi generational stewardship becomes sustainable. Building the Credit Architecture A well designed credit architecture is not one facility It is a system. It balances to approved mandates.
 
 : $5M+ target size.
 
-# The architecture typically includes four components
+## The architecture typically includes four components
 
 Short Term Liquidity Lines These provide flexibility for operating needs, tactical transactions, or short duration imbalances They should be simple, inexpensive, and fully aligned with the family’s investment policy. They also serve as the first defense against unexpected events. Medium Duration Facilities These help finance larger liquidity requirements They are often secured by marketable securities, real estate, or diversified portfolios.
 
-# The goal is stability
+## The goal is stability
 
 The duration should reduce rollover risk. Long Duration Credit Structures These are the backbone of a multi generational strategy They may include long dated credit lines, private credit arrangements, or asset backed facilities tied to operating companies or key holdings. The primary purpose is generational continuity.
 

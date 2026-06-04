@@ -6,7 +6,7 @@ author: "Hylten‑Invest"
 slug: "faith-aligned-capital-deployment-ultra-concentrated-portfolios"
 ---
 
-# The structure must stand before the capital flows
+## The structure must stand before the capital flows
 
 **That is the law. Every true architecture begins with moral authority, not financial appetite. Ultra‑concentrated portfolios require precisely that-moral authority. Anything else collapses under its own leverage.**
 
@@ -26,7 +26,7 @@ Legacy determines allocation. Now the architecture deepens. A concentrated portf
 
 If you bend the capital to fit the mission, you build the house on rock. That hierarchy is non‑negotiable. Mission above all.
 
-# Capital is a tool-an obedient one if governed well, a tyrant if left without doctrine
+## Capital is a tool-an obedient one if governed well, a tyrant if left without doctrine
 
 Jonas Hyltén understood this long before there was a family branch or an industrial offshoot. From the iron forge to the modern investment vehicle, the Spirit of Gnosjö insists on a certain order. Work that dignifies.
 
@@ -43,6 +43,7 @@ Markets shift. Principles hold. Stewardship endures. Phase Two.
 Principal Tone. I do not argue.
 
 I declare. Concentrated capital must be governed by four pillars: - The Theology of Ownership - The Doctrine of Productive Stewardship - The Covenant of Generational Continuity
+
 - The Industrial Mandate for Value Creation These are not embellishments. These are structural steel beams.
 
 Remove one, and the entire building fractures. Apply all four, and the portfolio becomes sovereign. The Theology of Ownership defines the starting point. The earth is the Lord’s, and the resources within it are entrusted, not possessed.
@@ -57,7 +58,7 @@ Even when held long-term, it must be working-creating value, creating opportunit
 
 There is no place for passengers. Every allocation either pulls its weight or is cut out.
 
-# The Covenant of Generational Continuity is the hinge
+## The Covenant of Generational Continuity is the hinge
 
 Without it, concentrated portfolios collapse when leadership transitions. You must treat succession planning as a sacrament. Precision. Clarity.
 
@@ -65,7 +66,7 @@ Covenant. No ambiguity. No improvisation. Faith‑aligned capital has a mandate:
 
 "One generation shall praise thy works to another, and shall declare thy mighty acts." ‑ Psalm 145: 4 The Industrial Mandate for Value Creation is the final anchor. This is where the Gnosjö spirit meets Christian duty.
 
-# Faith is not passive
+## Faith is not passive
 
 Enterprise is not secular. Work is worship when done unto God. Creation is imitation of the Creator. A concentrated portfolio must reflect this industrial ethic-rooted, sober, disciplined, and aimed toward productive output, not market theatrics.
 
@@ -98,8 +99,11 @@ Capital reveals the heart. Concentration sharpens the reflection. A covenant ste
 He refines the reflection. Phase Four. Deployment Strategy within a Faith Framework. The capital deployment sequence must follow the hierarchy: 1.
 
 Mission alignment
+
 2. Stewardship requirement
+
 3. Productive output
+
 4. Covenant continuity 5.
 
 Risk‑weighted conviction 6. Industrial heritage coherence Note the ordering. Mission outweighs risk. That is intentional.
@@ -110,7 +114,7 @@ Risk is managed; mission is obeyed. The secular world reverses this, and that is
 
 Output. Work. That is why the Gnosjö tradition endures.
 
-# The region never worshipped finance
+## The region never worshipped finance
 
 It worshipped diligence. It honored faith. It embraced the dignity of building something real, something that hums, something that moves, something that employs the next generation and gives them pride.
 

@@ -30,6 +30,6 @@ Water. Heat. Assets that reward grit, not games. The free market honors this pos
 
 Value for value. Work for reward. Freedom for those willing to carry responsibility without complaint.
 
-# The industrial investor does not seek applause
+## The industrial investor does not seek applause
 
 He seeks dominion through service. He builds, therefore he leads.

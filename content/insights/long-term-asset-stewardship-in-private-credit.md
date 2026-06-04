@@ -22,11 +22,11 @@ More global. More technologically integrated. And far more reliant on private ca
 
 Autonomy of action. Autonomy of liquidity. Autonomy of strategy.
 
-# Private credit is one of the few tools that enhances autonomy rather than reducing it
+## Private credit is one of the few tools that enhances autonomy rather than reducing it
 
 Hyltén Invest engages with clients who prefer clarity over complexity. Silence over noise. Structure over speculation.
 
-# Wealth is preserved when the architecture around it is stable and flexible
+## Wealth is preserved when the architecture around it is stable and flexible
 
 Stewardship is the method through which that stability is maintained. The Horizon Ahead Long-term private credit stewardship will continue to expand as the global financial system becomes increasingly fragmented and nonlinear Traditional financing sources will oscillate between overextension and restriction. Market structures will evolve through cycles of liquidity compression and expansion.
 

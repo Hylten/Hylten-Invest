@@ -24,11 +24,11 @@ It is a multi generational asset class in itself. Hyltén Invest creates these s
 
 Systems that reinforce the family without distorting their strategy.
 
-# The Future of Wealth Preservation Is Structural Market cycles will continue to accelerate New asset classes will emerge
+## The Future of Wealth Preservation Is Structural Market cycles will continue to accelerate New asset classes will emerge
 
 Regulatory pressures will increase. Technology will reshape the velocity of capital. In this environment, preservation belongs to those who build structures rather than chase trends.
 
-# Private credit is a structure
+## Private credit is a structure
 
 Asset based Asset-Backed Frameworks is a structure. Institutional grade crypto Asset-Backed Frameworks is a structure. Public share Strategic Collateralization is a structure. These are not reactive tools.
 

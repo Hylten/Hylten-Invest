@@ -28,7 +28,7 @@ This size requirement ensures that the structure remains institutional, discreet
 
 : $5M+ target size. - Shield core holdings from short-term liquidity pressures. This is a silent instrument. It operates quietly and efficiently, reinforcing the client’s sovereignty over their public market positions.
 
-# The Philosophy of principal authority We maintain an F-Hierarchical Dynamics This is our operational posture
+## The Philosophy of principal authority We maintain an F-Hierarchical Dynamics This is our operational posture
 
 It reflects principal authority, institutional mechanics, and an understated presence. Clients who operate at the HNWI and UHNW tier do not require noise. They require precision. Structures that function.
 

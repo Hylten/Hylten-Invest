@@ -16,7 +16,7 @@ It is an internal code. Iron. Sparse words. Wide shoulders.
 
 A family that understands stewardship does not chase markets. It builds markets. This is the architecture that outlives founders and withstands cycles. Three pillars recur in every enduring Christian industrial house: - Covenant thinking.
 
-# The enterprise is never a playground for ambition
+## The enterprise is never a playground for ambition
 
 It is a trust. A burden taken willingly. Profit becomes a tool for service, not spectacle. - Industrial clarity.
 

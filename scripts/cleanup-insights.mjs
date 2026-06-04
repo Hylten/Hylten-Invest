@@ -80,6 +80,21 @@ function fixFalseHeadings(content) {
   return fixed.join('\n');
 }
 
+// ═══════════════════════════════════════════════════════
+// 2b. FIX INLINE # HEADINGS — # used mid-sentence
+// ═══════════════════════════════════════════════════════
+function fixInlineHashHeadings(content) {
+  let result = content;
+
+  // Pattern B: ". # Heading" → ".\n\n## Heading"
+  result = result.replace(/([.!?])\s*#\s+(?=[A-ZÅÄÖ])/g, '$1\n\n## ');
+
+  // Pattern B variant: "#" at start of content (after frontmatter) → ##
+  result = result.replace(/^#\s+(?=[A-ZÅÄÖ])/gm, '## ');
+
+  return result;
+}
+
 function fixInlineBullets(content) {
   const lines = content.split('\n');
   const fixed = [];
@@ -160,9 +175,27 @@ function fixInlineNumberedLists(content) {
 // ═══════════════════════════════════════════════════════
 function normalizeSpacing(content) {
   let result = content;
-  result = result.replace(/\n{3,}/g, '\n\n');
-  result = result.replace(/([^\n])\n(#{1,3}\s)/g, '$1\n\n$2');
+
+  // Pattern D: ensure blank line before numbered list items at line start
+  result = result.replace(/([.!?])\s*\n(\d+\.\s+[A-ZÅÄÖ])/g, '$1\n\n$2');
+  result = result.replace(/([^\n])\n(\d+\.\s+[A-ZÅÄÖ])/g, '$1\n\n$2');
+
+  // Pattern D: inline numbered items mid-paragraph (". 1. Item" → ".\n\n1. Item")
+  result = result.replace(/(?<=[.!?])\s+(\d+)\.\s+(?=[A-ZÅÄÖ][a-zåäö])/g, '\n\n$1. ');
+
+  // Ensure blank line before bullet lists at line start
+  result = result.replace(/([^\n])\n([-*]\s+[A-ZÅÄÖ])/g, '$1\n\n$2');
+
+  // Ensure blank line after headings
   result = result.replace(/(#{1,3}\s[^\n]+)\n([^\n#])/g, '$1\n\n$2');
+
+  // Ensure blank line before headings
+  result = result.replace(/([^\n])\n(#{1,3}\s)/g, '$1\n\n$2');
+
+  // Collapse excessive blank lines
+  result = result.replace(/\n{3,}/g, '\n\n');
+
+  // Trim trailing whitespace per line
   result = result.split('\n').map(l => l.trimEnd()).join('\n');
   result = result.trimEnd() + '\n';
   return result;
@@ -320,6 +353,13 @@ for (const file of files) {
   }
   body = afterLinks;
   
+  const afterInlineHash = fixInlineHashHeadings(body);
+  if (afterInlineHash !== body) {
+    stats.headingsFixed++;
+    modified = true;
+  }
+  body = afterInlineHash;
+
   const afterHeadings = fixFalseHeadings(body);
   if (afterHeadings !== body) {
     stats.headingsFixed++;

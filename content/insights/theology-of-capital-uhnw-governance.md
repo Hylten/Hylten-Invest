@@ -24,9 +24,9 @@ Covenant Authority. Capital is held in trust before God, not as an ornament of s
 
 2. Stewardship Architecture. Family constitutions. Industrial charters.
 
-Multi-decade mandates. Each reinforces moral clarity over short-term appetite. This creates a sovereign frame for private enterprise. 3.
+Multi-decade mandates. Each reinforces moral clarity over short-term appetite. This creates a sovereign frame for private enterprise.
 
-Protestant Work Ethic as Operating System. Silent diligence. Craft before acclaim. Value before visibility.
+3. Protestant Work Ethic as Operating System. Silent diligence. Craft before acclaim. Value before visibility.
 
 The ethic that built forges still builds private markets. Even now. UHNW families who ignore this theology drift into the trap of personality-led governance. Fragile.
 
@@ -36,6 +36,6 @@ They move with industrial calm. They operate with covenant legitimacy. They buil
 
 Not dependency. Alignment.
 
-# The Spirit of Gnosjö remains a witness: Solve the problem
+## The Spirit of Gnosjö remains a witness: Solve the problem
 
 Create the value. Pass the blueprint to the children’s children.

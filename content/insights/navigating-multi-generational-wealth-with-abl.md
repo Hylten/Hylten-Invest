@@ -20,7 +20,7 @@ The families who maintain stillness maintain their wealth. The Silent Architectu
 
 It is supported by liquidity rather than liquidation. Asset-Based Lending is one of those structural pillars.
 
-# Private credit is another
+## Private credit is another
 
 Institutional Capital Structuring discipline is the third. Together, they form the foundation that allows a family to move through time without losing its strategic identity. They protect the assets that define legacy.
 

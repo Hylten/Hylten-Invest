@@ -6,7 +6,7 @@ author: "Jonas Hyltén"
 slug: "institutional-alignment-in-legacy-planning-for-multigenerational-wealth"
 ---
 
-# The challenge is preserving coherence
+## The challenge is preserving coherence
 
 **Modern wealth environments create opportunities, but they also create fragmentation. Asset classes diversify, ownership structures expand across borders, and family governance grows more complex. Institutional alignment becomes the quiet cornerstone.**
 

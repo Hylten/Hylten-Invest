@@ -8,7 +8,7 @@ slug: "the-hylten-invest-model-for-asset-hardening"
 
 **Behind the surface, it is engineered to institutional standards, positioned with principal authority, and delivered through a disciplined approach to private credit and asset based Asset-Backed Frameworks. Liquidity Without Distortion Liquidity should not distort the underlying asset It should not pressure the client into tactical decisions. It should not erode the long term strategy.**
 
-# The Hylten Invest Model ensures that liquidity is always supportive, never extractive
+## The Hylten Invest Model ensures that liquidity is always supportive, never extractive
 
 This is achieved through disciplined liquidity facility to value practices, conservative collateralization, and clear risk pathways. The intention is simple. The client determines direction. Liquidity follows that direction without altering it.
 
@@ -16,7 +16,7 @@ Stewardship for Multi Generational Capital The clients who engage with Hylten In
 
 Asset hardening becomes essential when the timeframe extends beyond a single generation. The structures we design prioritize durability. They remove unnecessary friction. They ensure continuity even in shifting market environments.
 
-# Stewardship is at the core of our model
+## Stewardship is at the core of our model
 
 Not in a symbolic sense, but in a practical one. We design structures that survive transitions, market cycles, and changes in strategic intent. The Structural Mechanics Behind the Model The internal mechanics of the Hylten Invest Model are built to align with institutional standards, without adopting institutional rigidity This balance is created through several components.
 
@@ -28,7 +28,7 @@ A complicated structure increases risk. A clean structure increases predictabili
 
 Decisions can be evaluated without noise.
 
-# The balance sheet remains legible
+## The balance sheet remains legible
 
 This minimalist discipline guides all components of the Hylten Invest Model. The Role of Discipline in Capital Structuring Relationships Discipline protects both sides of the relationship It protects the client from over leveraging. It protects the asset from unnecessary exposure.
 

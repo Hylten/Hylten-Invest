@@ -10,7 +10,7 @@ slug: "gnosjo-industrial-governance"
 
 Not negotiated in committee rooms. Not manufactured by policy jargon.
 
-# The Gnosjö spirit understood this before the economists gave it a name
+## The Gnosjö spirit understood this before the economists gave it a name
 
 Families built factories because duty demanded it. Communities prospered because character aligned with enterprise. No spectacle. Only stewardship.
 
@@ -20,7 +20,7 @@ Accountable. Absent Principals create drift. Drift becomes entropy. Entropy kill
 
 Gnosjö held the line by presence. By witness. Industrial discipline anchored in moral clarity. Second.
 
-# The moral authority of capital flows from purpose, not posture
+## The moral authority of capital flows from purpose, not posture
 
 Capital must serve creation, not extraction. Build things. Repair what is broken. Strengthen the next generation.
 

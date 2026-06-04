@@ -12,7 +12,7 @@ We serve High Net Worth and Ultra High Net Worth individuals. We structure for f
 
 Protect capital and allow it to work without unnecessary exposure or friction.
 
-# The Foundation of Asset Preservation Asset preservation is not a static function It is a strategic discipline
+## The Foundation of Asset Preservation Asset preservation is not a static function It is a strategic discipline
 
 It requires clarity of intention, disciplined constraints and a long horizon. Short-term impressions do not guide our decisions. Durable value does. The modern financial environment has made preservation more complex.
 
@@ -72,7 +72,7 @@ We ensure that liquidity remains available, controlled and structurally conserva
 
 Preservation is more than protection. It is stewardship.
 
-# Stewardship is the intentional management of assets for successors who may not yet exist
+## Stewardship is the intentional management of assets for successors who may not yet exist
 
 It is the quiet construction of systems that prevent erosion and unnecessary exposure. Hyltén Invest supports this through structural Strategic Collateralization. By maintaining liquidity and preserving core holdings, family governance becomes simpler and more stable.
 

@@ -8,7 +8,7 @@ slug: "generational-capital-christian-industrial-legacy-multi-century-asset-desi
 
 **Legacy does not emerge.**
 
-# Legacy is built
+## Legacy is built
 
 Line by line. Forge by forge. Covenant by covenant. The Swedish industrial fathers understood this.
 
@@ -16,11 +16,13 @@ The Gnosjö spirit was never improvisation; it was ordered creation. Discipline 
 
 Anything less is consumption disguised as achievement. A multi‑century asset is not an investment strategy. It is an act of stewardship. It binds the present to the unborn.
 
-Internal logic first. Clean. Non-negotiable. 1.
+Internal logic first. Clean. Non-negotiable.
 
-Order before scale. 2. Principle before opportunity. 3.
+1. Order before scale.
 
-Stewardship before ambition. Free enterprise is the proving ground. Markets do not flatter sentiment. Markets reveal character.
+2. Principle before opportunity.
+
+3. Stewardship before ambition. Free enterprise is the proving ground. Markets do not flatter sentiment. Markets reveal character.
 
 Industrial families survived because they created value faster than the world decayed around them. Hard work. Tenacity. Protestant ethic.
 
@@ -36,20 +38,20 @@ A sovereign architecture emerges when capital is shaped by moral duty instead of
 
 It grows because value creation is a moral act, and moral acts compound deeper than mathematics can model.
 
-# The Gnosjö families understood this instinctively
+## The Gnosjö families understood this instinctively
 
 They built enterprises that served the community while outpacing the world. Work ethic as liturgy. Innovation as devotion. Heritage as responsibility.
 
 They created stability by creating value, not by petitioning authority. When a modern family re-enters that covenantal discipline, a new framework appears: multi‑century design.
 
-# The family becomes a custodian of industrial culture
+## The family becomes a custodian of industrial culture
 
 Capital becomes a ministry of productivity. Each generation inherits not wealth but obligation. At times, structuring through Roials Capital becomes necessary to interface with institutional-grade mechanisms across jurisdictions, yet the moral center remains here: Hylten-Invest is the compass, not the engine.
 
-# Stewardship is not passive
+## Stewardship is not passive
 
 Stewardship is command. A Principal does not drift with markets. A Principal directs them through work, clarity, and righteous responsibility. The children’s children depend on this discipline.
 
 Exit on certainty. Moral authority wins. Free enterprise endures.
 
-# The covenant stands
+## The covenant stands

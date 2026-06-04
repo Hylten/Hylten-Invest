@@ -20,7 +20,7 @@ Liquidating digital assets can send signals that invite speculation. Asset-Based
 
 The assets remain in place.
 
-# The strategy remains intact
+## The strategy remains intact
 
 The narrative remains unchanged. This is crucial for families who value stability, privacy, and continuity. Asset-Based Lending as a Multi-Generational Tool A well-structured Institutional Liquidity Paths line becomes part of the family office architecture It provides liquidity for: - intergenerational transfers - private market opportunities - philanthropic commitments - liquidity imbalances - tax planning - strategic acquisitions When liquidity becomes an engineered system rather than a reactive event, the family is able to make decisions with clarity.
 

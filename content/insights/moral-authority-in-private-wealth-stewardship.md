@@ -10,7 +10,7 @@ slug: "moral-authority-in-private-wealth-stewardship"
 
 It determines whether wealth survives two generations or ten. In private wealth stewardship the question is not how capital grows.
 
-# The question is how capital stands
+## The question is how capital stands
 
 The question is how capital transfers without corrosion. The question is whether the family behind the structure lives by a theology of responsibility rather than a lifestyle of consumption. This is the axis where Christian conservative doctrine becomes an institutional-grade operating framework.
 
@@ -22,18 +22,21 @@ It is managed. It is held in trust before God and before the generations that fo
 
 It rejects speculation. It refuses drift. It forms a moral perimeter around decision making. A family that believes capital is personal will always fracture.
 
-A family that believes capital is assigned will remain aligned. In institutional terms Covenant Stewardship performs three structural functions. 1. It reduces entropy inside the ownership group.
+A family that believes capital is assigned will remain aligned. In institutional terms Covenant Stewardship performs three structural functions.
+
+1. It reduces entropy inside the ownership group.
 
 2. It increases decision coherence across cycles of volatility.
+
 3. It produces a fortress orientation that institutional partners interpret as strength rather than rigidity.
 
 The market calls this durability. Scripture calls it faithfulness. A Principal operating under Covenant Stewardship understands that the purpose of the balance sheet is not self expression.
 
-# The purpose is dominion with responsibility
+## The purpose is dominion with responsibility
 
 The purpose is to build what can be handed over without moral dilution. The Second Pillar Generational Wealth as Mandate not Lifestyle Generational wealth is not an aspiration It is a mandate. It is the outworking of the biblical injunction to build, guard, and transfer.
 
-# The Spirit of Gnosjö shaped this cultural norm long before it became a term in investment committees
+## The Spirit of Gnosjö shaped this cultural norm long before it became a term in investment committees
 
 It was the natural product of Christian labor ethic. Work was honor. Frugality was normal. Precision was worship.
 
@@ -42,11 +45,12 @@ Continuity was duty. In private wealth today these values are not nostalgia. The
 They assess the internal covenant. They measure the velocity of decision making. They test for drift risk, fragmentation risk, and entitlement risk. Families that maintain moral authority demonstrate three characteristics.
 
 1. Capital discipline that is measurable.
+
 2. Governance clarity that is visible.
 
 3. Purpose hierarchy that is non negotiable. This creates what institutions call transmission integrity. It also creates structural resilience.
 
-# The family becomes a stable counterparty
+## The family becomes a stable counterparty
 
 The enterprise becomes a reliable vessel for acquisition, buyout, or strategic capital placement. The conservative Christian position is simple. Wealth unaligned with duty collapses. Wealth aligned with duty compounds.
 
@@ -54,7 +58,7 @@ The Third Pillar The Theology of Capital Capital itself is neutral Its trajector
 
 The theology of capital asserts Capital is a tool.
 
-# Capital is a test
+## Capital is a test
 
 Capital is a testimony. A tool requires precision. A test requires clarity. A testimony requires coherence.
 
@@ -70,9 +74,12 @@ Execution Velocity is not speed. It is coordinated readiness. It is the ability 
 
 Under the Spirit of Gnosjö velocity was always paired with grounding. Work was rapid. Decisions were precise. Expenses were conservative.
 
-Expansions were generational rather than transactional. Today this combination produces a competitive advantage in three verticals. 1. Energy acquisition through NAEOC.
+Expansions were generational rather than transactional. Today this combination produces a competitive advantage in three verticals.
+
+1. Energy acquisition through NAEOC.
 
 2. European acquisitions below the MiFID II revenue threshold.
+
 3. Off market origination for buyout and bolt on structures.
 
 The Principal who carries moral authority does not chase deals. He discerns assignments. This removes noise. It accelerates selection.

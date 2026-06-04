@@ -18,7 +18,7 @@ It restrains overreach. It refuses empire-building. It rejects the idea that val
 
 This character produced stable balance sheets long before risk committees existed.
 
-# The Spirit of Gnosjö remains the prototype
+## The Spirit of Gnosjö remains the prototype
 
 Small firms. High trust. Transactional friction near zero. Work as vocation, not performance.
 

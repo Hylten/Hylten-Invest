@@ -8,7 +8,7 @@ slug: "gnosjo-imprint-private-equity"
 
 **The forge precedes the fund.**
 
-# The covenant precedes the model
+## The covenant precedes the model
 
 The Spirit of Gnosjö moves first. Small workshops. Hard benches. Cold mornings.
 
@@ -22,15 +22,19 @@ A system of mutual duty: - Work creates dignity. - Stewardship creates continuit
 
 No debt-fueled spectacle disguised as value creation. The new operating models that win-quietly, steadily, relentlessly-inherit three Gnosjö traits: 1. Proximity to the floor. Boards that walk the shop.
 
-Principals who smell the oil. Managers who know the machine’s tremor before the vibration sensor detects it. 2. Covenantal stewardship.
+Principals who smell the oil. Managers who know the machine’s tremor before the vibration sensor detects it.
 
-# Capital is not a tool for extraction
+2. Covenantal stewardship.
+
+## Capital is not a tool for extraction
 
 It is a responsibility. It binds the investor to the operator and the operator to the community.
 
-# Legacy requires discipline
+## Legacy requires discipline
 
-Discipline produces endurance. 3. Generational intent. Not quarter-to-quarter.
+Discipline produces endurance.
+
+3. Generational intent. Not quarter-to-quarter.
 
 Not fund-to-fund. A design built for the children’s children. This is where enduring free enterprise stands firm against entropy. "Through wisdom is an house builded; and by understanding it is established." - Proverbs 24: 3 The next evolution of private equity-Fund-III structures, industrial platforms, consolidation plays-quietly shifts toward this older logic: Solve real problems.
 
