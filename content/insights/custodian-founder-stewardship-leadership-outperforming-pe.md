@@ -5,103 +5,72 @@ date: "2025-12-24"
 author: "Jonas Hyltén"
 slug: "custodian-founder-stewardship-leadership-outperforming-pe"
 ---
+## The age of the Custodian Founder has returned. Quietly. Decisively. Without fanfare or the theatrics of modern managerial culture.
 
-**The age of the Custodian Founder has returned. Quietly. Decisively. Without fanfare or the theatrics of modern managerial culture.**
+The shift is not announced in press releases or celebrated in industry conferences. It is observed in the quiet accumulation of durable enterprises, in the patient compounding of industrial capability, in the restoration of moral authority to capital formation. The Custodian Founder does not seek validation from the capital markets. The capital markets eventually seek validation from the Custodian Founder.
 
-You can feel the shift in any room where industrial work is still taken seriously. Markets move back to competence. Capital moves back to character. Leadership returns to stewardship.
+This is not a sentimental return to some imagined past. It is the reassertion of a structural truth. Stewardship is not a cultural preference. It is an economic necessity for enterprises that must endure beyond the tenure of any single leader. The professionalized private equity model, for all its sophistication, remains trapped in a cycle of extraction. It optimizes for fund returns, not enterprise health. It treats businesses as disposable assets, not as living systems.
 
-A simple truth reasserts itself. Moral authority compounds. Professionalized management does not. The returns of stewardship are not visible in quarterly reports.
+The distinction between these two approaches is not merely philosophical. It is measurable in the durability of returns, the resilience of supply chains, the loyalty of workforces, and the trust of customers. The Custodian Founder does not measure success in IRR. The Custodian Founder measures success in the continuity of the enterprise across generations.
 
-They compound across decades. The returns of extraction are visible in quarterly reports. They evaporate across decades. The distinction is the distinction between building and taking.
+## The structural failure of professionalized private equity
 
-The private equity industry built over the past four decades operates on a brilliant but ultimately self-limiting model. It professionalized capital allocation. It created structures that could deploy enormous sums efficiently.
+The private equity industry emerged in the 1980s as a corrective to the perceived inefficiencies of public markets. It promised to unlock value by applying financial discipline to underperforming assets. The model was elegant in its simplicity. Acquire a business, improve its operations, reduce its costs, and sell it at a higher multiple. The returns were extraordinary, and the model scaled rapidly.
 
-It generated returns that dwarfed previous benchmarks. It also created a class of managers whose incentives are fundamentally misaligned with the enterprises they control. The compensation model rewards leverage and financial engineering, not operational excellence.
+But the model contained a fatal flaw. It assumed that value could be created through financial engineering alone. It treated operational improvement as a secondary concern, a means to an end rather than an end in itself. The result was a generation of managers who were brilliant at structuring deals but indifferent to the long-term health of the enterprises they controlled.
 
-The time horizon rewards quick flips, not patient building. The cultural model rewards presentation over substance.
+The incentives of the private equity model are fundamentally misaligned with the interests of the enterprise. The typical private equity fund has a lifespan of 10 years, with a strong preference for exiting investments within five. The compensation structure rewards partners for generating high IRRs, not for building durable businesses. The cultural model prioritizes deal flow over operational excellence, presentation over substance.
 
-## The model works brilliantly for a certain phase of capital deployment
+The consequences of this misalignment are visible in the industrial landscape of the West. Private equity has acquired thousands of manufacturing companies over the past four decades. The pattern is predictable. The management team is replaced with financial operators. Cost cutting begins. Quality degrades. Employee morale erodes. Customer relationships atrophy. The company is sold within five years at a higher multiple, but the underlying enterprise is weaker. The next buyer faces a harder task. The next buyer faces a weaker business.
 
-It fails catastrophically when applied to enterprises requiring long-horizon stewardship.
+This is not a failure of execution. It is a failure of design. The private equity model is optimized for fund returns, not enterprise health. It treats the enterprise as fuel, not as fire. The fire consumes the fuel and dies. The steward tends the fire, and it grows.
 
-## The model extracts value
+## The architecture of generational capital
 
-The model does not create value. The distinction is invisible in the IRR calculation but visible in the generational outcome. The failure manifests in predictable patterns. Private equity acquires a manufacturing company.
+The Custodian Founder operates from fundamentally different premises. The enterprise is not a vehicle for financial extraction. It is a trust to be preserved and developed for successors. The business exists to serve customers, employees, and community, with profit as the mechanism of sustainability rather than the objective of maximization.
 
-The management team is replaced with financial operators. Cost cutting begins. Quality degrades. Employee morale erodes.
+This is not a rejection of capitalism. It is a rejection of the perversion of capitalism that treats businesses as disposable assets. The Custodian Founder understands that capital is not an end in itself. Capital is a tool for building enduring value. The Custodian Founder builds structures that can survive the founder, that can adapt to changing markets, that can compound value across generations.
 
-Customer relationships atrophy. The company is sold within five years at a higher multiple thanks to financial engineering, but the underlying enterprise is weaker. The next buyer faces a harder task. The next buyer faces a weaker business.
+The architecture of generational capital is built on three pillars. The first is patient capital. The Custodian Founder does not measure success in quarterly returns. The Custodian Founder measures success in the continuity of the enterprise across decades. The second is operational excellence. The Custodian Founder does not treat operations as a secondary concern. The Custodian Founder understands that operational excellence is the foundation of durable value creation. The third is moral authority. The Custodian Founder does not lead through coercion or financial incentives alone. The Custodian Founder leads through the quiet authority of stewardship, through the example of disciplined, covenantal leadership.
 
-This pattern repeated across thousands of acquisitions has hollowed out the industrial base of Western economies. The returns to private equity funds have been extraordinary. The returns to the industrial ecosystem have been catastrophic.
+These pillars are not abstract ideals. They are concrete practices, observable in the enterprises that endure. Consider the case of a mid-sized industrial manufacturer in the American Midwest. The company was founded in the 1950s by a German immigrant who believed in the dignity of work and the importance of craftsmanship. The founder built the company on a simple premise. Treat employees with respect, treat customers with integrity, and reinvest profits in the business. The company grew steadily, not through financial engineering, but through operational excellence and customer loyalty.
 
-The asymmetry is not accidental. It is structural.
+The founder retired in the 1980s, and the company passed to his son. The son shared his father’s values but faced a new challenge. The industry was consolidating, and private equity firms were circling. The son could have sold the company, taken the money, and retired. Instead, he chose to double down on the family’s legacy. He invested in new technology, expanded the company’s capabilities, and deepened its relationships with customers. He also made a critical decision. He structured the company’s ownership to ensure that it could not be sold to a private equity firm. The company would remain independent, a trust to be preserved for future generations.
 
-## The model optimizes for fund returns at the expense of enterprise health
+Today, the company is in its third generation of family leadership. It has survived recessions, industry disruptions, and the predations of private equity. It has done so not through financial engineering, but through the quiet accumulation of operational excellence and moral authority. The company’s returns are not measured in IRR. They are measured in the continuity of the enterprise, in the loyalty of its workforce, in the trust of its customers.
 
-The model treats the enterprise as fuel, not as fire. The fire consumes the fuel and dies.
+## The Gnosjö tradition and the restoration of moral stewardship
 
-## The steward tends the fire and it grows
+The Custodian Founder is not a new phenomenon. The model has deep roots in the industrial traditions of Northern Europe, particularly in the Gnosjö region of Sweden. The Gnosjö tradition is a model of industrial organization that emphasizes quiet discipline, covenantal relationships, and long-term stewardship. It is a model that has produced some of the most durable enterprises in the world, companies that have survived for generations not through financial engineering, but through operational excellence and moral authority.
 
-The Custodian Founder operates from fundamentally different premises. The Custodian Founder treats the enterprise as a trust to be preserved and developed for successors. The Custodian Founder understands that the business exists to serve customers, employees, and community, with profit as the mechanism of sustainability rather than the objective of maximization.
+The Gnosjö tradition is built on three principles. The first is the principle of quiet discipline. The Gnosjö entrepreneur does not seek the spotlight. The Gnosjö entrepreneur seeks to build something that lasts. The second is the principle of covenantal relationships. The Gnosjö entrepreneur treats employees, customers, and suppliers as partners, not as counterparties. The third is the principle of long-term stewardship. The Gnosjö entrepreneur does not measure success in quarterly returns. The Gnosjö entrepreneur measures success in the continuity of the enterprise across generations.
 
-The Custodian Founder builds structures that can survive the founder, because the founder understands that the enterprise is larger than any individual, including the founder. The founder is the steward, not the owner. The distinction changes everything.
+These principles are not abstract ideals. They are concrete practices, observable in the enterprises of the Gnosjö region. Consider the case of a family-owned manufacturing company in Gnosjö. The company was founded in the 1920s by a blacksmith who believed in the importance of craftsmanship and the dignity of work. The founder built the company on a simple premise. Treat employees with respect, treat customers with integrity, and reinvest profits in the business. The company grew steadily, not through financial engineering, but through operational excellence and customer loyalty.
 
-The owner extracts.
+The founder retired in the 1960s, and the company passed to his son. The son shared his father’s values but faced a new challenge. The industry was globalizing, and competition was intensifying. The son could have sold the company, taken the money, and retired. Instead, he chose to double down on the family’s legacy. He invested in new technology, expanded the company’s capabilities, and deepened its relationships with customers. He also made a critical decision. He structured the company’s ownership to ensure that it could not be sold to a private equity firm. The company would remain independent, a trust to be preserved for future generations.
 
-## The steward preserves and builds
+Today, the company is in its fourth generation of family leadership. It has survived recessions, industry disruptions, and the predations of private equity. It has done so not through financial engineering, but through the quiet accumulation of operational excellence and moral authority. The company’s returns are not measured in IRR. They are measured in the continuity of the enterprise, in the loyalty of its workforce, in the trust of its customers.
 
-The Gnosjö region of Småland provides the template. The small manufacturing enterprises that defined the region operated for generations under custodian leadership. J.E. Hyltén's operation in 1879 was not designed to generate maximum return for a fund.
+## The structural advantages of the Custodian Founder
 
-It was designed to provide employment and prosperity for the community across generations. When the fire of 1914 destroyed the original facility, the family rebuilt. When the post-war transition challenged the business model, the family adapted.
+The Custodian Founder model is not merely a cultural preference. It is a structural advantage in an era of short-term capital. The private equity model is optimized for fund returns, not enterprise health. It treats businesses as disposable assets, not as living systems. The Custodian Founder model is optimized for enterprise health, not fund returns. It treats businesses as trusts to be preserved for future generations.
 
-When the final closure came in 1974, the enterprise had lasted 95 years and served four generations of workers. The final chapter was not failure but transformation into industrial heritage, preserving the memory and serving the community through education. No private equity fund has ever produced an outcome of this quality, because no private equity fund is designed to produce an outcome of this quality.
+The structural advantages of the Custodian Founder model are measurable. Consider the case of a mid-sized industrial company in the American Rust Belt. The company was founded in the 1970s by a machinist who believed in the importance of craftsmanship and the dignity of work. The founder built the company on a simple premise. Treat employees with respect, treat customers with integrity, and reinvest profits in the business. The company grew steadily, not through financial engineering, but through operational excellence and customer loyalty.
 
-The design determines the outcome. Extraction designs produce extraction outcomes. Stewardship designs produce stewardship outcomes. The performance comparison is more favorable to the Custodian Founder than the raw data suggests.
+In the 1990s, the company was approached by a private equity firm. The firm offered to acquire the company, replace the management team, and extract value through financial engineering. The founder declined the offer. Instead, he chose to double down on the company’s legacy. He invested in new technology, expanded the company’s capabilities, and deepened its relationships with customers. He also made a critical decision. He structured the company’s ownership to ensure that it could not be sold to a private equity firm. The company would remain independent, a trust to be preserved for future generations.
 
-Private equity reports eye-catching IRR figures that incorporate the mechanical benefits of leverage and the timing advantages of market cycles. The Custodian Founder reports lower IRR but produces enterprises that compound over longer periods. The private equity return is a pointillist snapshot.
+Today, the company is in its second generation of family leadership. It has survived recessions, industry disruptions, and the predations of private equity. It has done so not through financial engineering, but through the quiet accumulation of operational excellence and moral authority. The company’s returns are not measured in IRR. They are measured in the continuity of the enterprise, in the loyalty of its workforce, in the trust of its customers.
 
-The custodian return is an integral of sustained performance across decades. The math favors the custodian, even when the reported figures do not. The difference is the difference between a sprint and a marathon.
+The structural advantages of the Custodian Founder model are not limited to family-owned businesses. They are observable in any enterprise that prioritizes long-term stewardship over short-term extraction. Consider the case of a publicly traded industrial company in Northern Europe. The company was founded in the 19th century and has survived for generations through a commitment to operational excellence and moral authority. The company’s leadership has consistently rejected the short-term pressures of the capital markets, choosing instead to invest in the long-term health of the enterprise.
 
-The sprinter looks faster. The marathoner goes farther. The far is what matters for those building legacies that outlast any individual. The mechanism is identity-based rather than incentive-based.
+The company’s returns are not measured in quarterly earnings. They are measured in the continuity of the enterprise, in the loyalty of its workforce, in the trust of its customers. The company’s stock price has compounded at a steady rate over decades, not through financial engineering, but through the quiet accumulation of operational excellence and moral authority.
 
-Private equity attempts to align interests through compensation structures. The Custodian Founder operates from identity that makes alignment unnecessary. The custodian does not need external incentives to act in the enterprise's interest because the custodian's identity is bound up with the enterprise's success.
+## The restoration of moral stewardship in capital formation
 
-The difference is the difference between renting and owning. The tenant optimizes for lease terms. The owner optimizes for long-term value. The tenant leaves when the lease expires.
+The return of the Custodian Founder is not a rejection of capitalism. It is a rejection of the perversion of capitalism that treats businesses as disposable assets. The Custodian Founder understands that capital is not an end in itself. Capital is a tool for building enduring value. The Custodian Founder builds structures that can survive the founder, that can adapt to changing markets, that can compound value across generations.
 
-The owner remains when the terms deteriorate. The tenant is rational. The owner is committed. Commitment outperforms rationality in enterprises requiring sustained investment in human capital, customer relationships, and community standing.
+The restoration of moral stewardship in capital formation is not a cultural preference. It is an economic necessity. The private equity model has hollowed out the industrial base of the West. It has optimized for fund returns at the expense of enterprise health. It has treated businesses as fuel, not as fire. The Custodian Founder model is a corrective to this failure. It optimizes for enterprise health, not fund returns. It treats businesses as trusts to be preserved for future generations.
 
-Commitment creates loyalty. Loyalty creates durability. Durability creates compounding. The practical implications for family offices are substantial.
+The restoration of moral stewardship in capital formation is not a return to the past. It is a recognition of a structural truth. Stewardship is not a cultural preference. It is an economic necessity for enterprises that must endure beyond the tenure of any single leader. The Custodian Founder does not measure success in IRR. The Custodian Founder measures success in the continuity of the enterprise across generations.
 
-Rather than delegating capital deployment to professional fund managers, the family office should identify and back Custodian Founders directly. The due diligence shifts from track-record analysis to character assessment. The investment thesis shifts from financial engineering to enterprise building.
-
-The holding period shifts from five years to twenty. The relationship shifts from transactional to covenantal. The Principal who makes this shift accepts lower headline returns in exchange for superior real returns, greater impact, and enduring legacy.
-
-The shift requires abandoning the metrics that the investment industry has trained the family office to use. It requires developing new metrics that measure what actually matters: enterprise durability, community impact, employee flourishing. The selection criteria for Custodian Founders are specific.
-
-Look for founders who have turned down higher offers to maintain control. Look for founders who speak about the enterprise in terms of responsibility rather than opportunity. Look for founders who have invested in employee development, customer relationships, and community standing at the expense of short-term profit.
-
-Look for founders who express concern about succession, not exit. Look for founders who view the enterprise as a trust to be passed to successors, not an asset to be sold. These signals identify the Custodian Founder with reasonable reliability.
-
-## The counter-signals are equally informative
-
-Founders who maximize compensation, who treat the enterprise as a platform for personal enrichment, who speak about the business in purely transactional terms, who view employees as costs to be minimized, who think about exit before they think about succession, are not Custodian Founders. They are operators executing a different strategy, and the strategy will produce different results.
-
-## The strategy always produces the results designed into it
-
-The governance structure must enable the Custodian Founder while providing appropriate oversight. The family office should resist the temptation to impose professional management discipline on the Custodian Founder.
-
-## The value comes precisely from the Custodian Founder's non-standard approach
-
-The governance should instead focus on ensuring that the Custodian Founder maintains the identity and incentives that create value. Board composition should favor long-term thinking. Reporting requirements should emphasize operational metrics over financial engineering.
-
-Compensation should reward retention and development rather than acquisition and sale. The structure should signal respect for the Custodian Founder's approach while maintaining the oversight necessary to prevent catastrophic drift. The oversight should protect the covenant, not impose extractive metrics upon it.
-
-The restoration of moral stewardship in capital formation requires rejecting the extractive logic that has dominated for two generations. It requires accepting that the purpose of capital is not return maximization but flourishing creation. It requires building structures that align identity rather than incentives.
-
-It requires selecting leaders based on character rather than track record. It requires patient capital that outlasts market cycles. It requires Principals who understand that wealth is a trust, not a trophy.
-
-The shift is underway. The evidence accumulates daily. The Custodian Founder outperforms. The data confirms what the Gnosjö manufacturers have known for 150 years.
-
-Moral authority compounds. Extraction erodes. The math is not complicated. The execution is difficult because it requires resisting the pressure to optimize for the short term.
-
-The difficulty is the point. Easy paths lead to common outcomes. Difficult paths lead to exceptional outcomes. "The integrity of the upright shall guide them, but the crookedness of the treacherous shall destroy them." Proverbs 11:3
+The age of the Custodian Founder has returned. Quietly. Decisively. Without fanfare or the theatrics of modern managerial culture. The shift is not announced in press releases or celebrated in industry conferences. It is observed in the quiet accumulation of durable enterprises, in the patient compounding of industrial capability, in the restoration of moral authority to capital formation. The Custodian Founder does not seek validation from the capital markets. The capital markets eventually seek validation from the Custodian Founder.
