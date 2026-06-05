@@ -47,6 +47,7 @@ const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark 
           HYLTÉN <span>INVEST</span>
         </a>
         <ul className="nav-links">
+          <li><a href="/Hylten-Invest/insights/">Insights</a></li>
           <li><a href="#about" onClick={(e) => scrollToSection(e, '#about')}>About</a></li>
           <li><a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Philosophy</a></li>
           <li><a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investments</a></li>
@@ -152,6 +153,7 @@ const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark 
         <div className="footer-content">
           <div className="footer-logo">HYLTÉN <span>INVEST</span></div>
           <div className="footer-links">
+            <a href="/Hylten-Invest/insights/">Insights</a>
             <a href="#about" onClick={(e) => scrollToSection(e, '#about')}>About</a>
             <a href="#philosophy" onClick={(e) => scrollToSection(e, '#philosophy')}>Philosophy</a>
             <a href="#investments" onClick={(e) => scrollToSection(e, '#investments')}>Investments</a>
