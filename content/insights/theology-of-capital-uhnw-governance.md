@@ -1,10 +1,18 @@
 ---
 title: "The Sovereign Theology of Capital"
+slug: "theology-of-capital-uhnw-governance"
 description: "A principal-level briefing on Christian stewardship, industrial heritage, and the governance architecture required for generational capital among UHNW families."
 date: "2025-08-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/theology-of-capital-uhnw-governance/"
+meta_title: "The Sovereign Theology of Capital"
+meta_description: "A principal-level briefing on Christian stewardship, industrial heritage, and the governance architecture required for generational capital among UHNW families."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "theology-of-capital-uhnw-governance"
 ---
+
 ## The Sovereign Theology of Capital
 
 Capital reveals the household. Governance reveals the heart. Stewardship binds both into covenantal order. The earth is the Lord’s, and the fulness thereof. Private wealth without theology drifts. Private markets without moral authority fracture. Duty holds the structure. Legacy holds the line.

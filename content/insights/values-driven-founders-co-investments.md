@@ -1,10 +1,18 @@
 ---
 title: "The Quiet Ascendancy of Values‑Driven Founders"
+slug: "values-driven-founders-co-investments"
 description: "Why Principled Operators Are Now the Prime Targets for Direct Co‑Investments Across Industrial and Institutional Families"
 date: "2026-03-10"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/values-driven-founders-co-investments/"
+meta_title: "The Quiet Ascendancy of Values‑Driven Founders"
+meta_description: "Why Principled Operators Are Now the Prime Targets for Direct Co‑Investments Across Industrial and Institutional Families"
+featured_image: ""
+draft: false
 author: "Hylten‑Invest"
-slug: "values-driven-founders-co-investments"
 ---
+
 ## The Moral Architecture of Enterprise
 
 Conviction draws capital. Not noise. Not spectacle. Conviction rooted in moral authority is the only force that can sustain an enterprise through the inevitable storms of market cycles, regulatory shifts, and generational transitions. The industrial families and institutional investors who have endured for decades understand this truth at a cellular level. They have seen firsthand how moral clarity compounds over time, while opportunistic malice dissipates like mist before the sun.

@@ -1,10 +1,18 @@
 ---
 title: "Navigating Wealth Preservation in the Digital Age: Strategic Alignment for Generational Capital"
+slug: "wealth-preservation-digital-age-strategic-alignment"
 description: "Institutional briefing on digital age capital preservation, stewardship mechanics, balance sheet discipline, and cross-regime capital navigation for UHNW families and institutional allocators."
 date: "2025-07-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/wealth-preservation-digital-age-strategic-alignment/"
+meta_title: "Navigating Wealth Preservation in the Digital Age: Strategic Alignment for Generational Capital"
+meta_description: "Institutional briefing on digital age capital preservation, stewardship mechanics, balance sheet discipline, and cross-regime capital navigation for UHNW families and institutional allocators."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "wealth-preservation-digital-age-strategic-alignment"
 ---
+
 ## The Regime Shift: Wealth Preservation in a Fractured Macro Architecture
 
 The capital vacuum in the digital age is not driven by technological disruption. It is driven by the erosion of stewardship disciplines that once governed European industrial families and North American generational enterprises. Wealth preservation has become more exposed to regime shifts because digital markets accelerate volatility while reducing the signal-to-noise ratio required for long-term decision making.

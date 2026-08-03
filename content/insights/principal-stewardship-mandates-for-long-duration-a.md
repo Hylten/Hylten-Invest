@@ -1,10 +1,18 @@
 ---
 title: "Principal Stewardship Mandates for Long Duration Assets"
+slug: "principal-stewardship-mandates-for-long-duration-a"
 description: "Principal Stewardship Mandates for Long Duration Assets | Institutional Briefing by Hylten-Invest"
 date: "2026-03-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/principal-stewardship-mandates-for-long-duration-a/"
+meta_title: "Principal Stewardship Mandates for Long Duration Assets"
+meta_description: "Principal Stewardship Mandates for Long Duration Assets | Institutional Briefing by Hylten-Invest"
+featured_image: ""
+draft: false
 author: "Hylten Invest"
-slug: "principal-stewardship-mandates-for-long-duration-a"
 ---
+
 ## The Nature of Long Duration Stewardship
 
 Long duration stewardship is not asset management. It is capital governance. The distinction is fundamental. Asset management seeks to maximise returns within a given risk budget. Stewardship seeks to preserve the integrity of capital across generations. The former is tactical. The latter is covenantal.

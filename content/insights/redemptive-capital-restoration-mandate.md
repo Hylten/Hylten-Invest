@@ -1,9 +1,16 @@
 ---
 title: "Redemptive Capital and the Restoration Mandate"
+slug: "redemptive-capital-restoration-mandate"
 description: "A principal brief on capital as moral repair, covenantal stewardship, and the industrial duty to strengthen the social fabric without sacrificing return discipline."
 date: "2025-08-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/redemptive-capital-restoration-mandate/"
+meta_title: "Redemptive Capital and the Restoration Mandate"
+meta_description: "A principal brief on capital as moral repair, covenantal stewardship, and the industrial duty to strengthen the social fabric without sacrificing return discipline."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "redemptive-capital-restoration-mandate"
 ---
 
 **Internal. Closed room. Doors sealed. Capital carries memory.**

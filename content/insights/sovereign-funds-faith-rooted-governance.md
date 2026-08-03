@@ -1,10 +1,18 @@
 ---
 title: "The Silent Return of Moral Authority in Sovereign Governance"
+slug: "sovereign-funds-faith-rooted-governance"
 description: "Why sovereign wealth institutions are dissecting faith‑rooted governance structures grounded in stewardship, duty, and industrial legacy."
 date: "2026-03-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/sovereign-funds-faith-rooted-governance/"
+meta_title: "The Silent Return of Moral Authority in Sovereign Governance"
+meta_description: "Why sovereign wealth institutions are dissecting faith‑rooted governance structures grounded in stewardship, duty, and industrial legacy."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "sovereign-funds-faith-rooted-governance"
 ---
+
 ## The Silent Return of Moral Authority in Sovereign Governance
 
 Sovereign committees are circling back to first principles. Not ideology. Foundation. They track the institutions that endure across shocks - financial, geopolitical, cultural. The inquiry is not academic. It is actuarial. Which governance structures persist when the tide recedes? Which balance sheets remain solvent when the cycle turns? The answer is not found in the latest policy white paper or the most fashionable economic model. It is found in the quiet, disciplined architectures of moral authority.

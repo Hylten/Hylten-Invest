@@ -1,9 +1,16 @@
 ---
 title: "Private Equity Diversification"
+slug: "private-equity-diversification"
 description: "Insights on Private Equity Diversification from Roials Capital and Hyltén Invest."
 date: "2025-10-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/private-equity-diversification/"
+meta_title: "Private Equity Diversification"
+meta_description: "Insights on Private Equity Diversification from Roials Capital and Hyltén Invest."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "private-equity-diversification"
 ---
 
 The strategic imperative for diversification in private equity has never been more critical than in the current market environment. As traditional portfolio construction faces unprecedented challenges, institutional capital allocators must reconsider the role of private equity within broader wealth preservation strategies. The historical assumption that private equity automatically provides superior returns through the cycle has eroded under the weight of empirical evidence.

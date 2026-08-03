@@ -1,9 +1,16 @@
 ---
 title: "Asset Hardening Strategies for Global Families: Long-Horizon Liquidity and Structural Defense"
+slug: "asset-hardening-strategies-global-families"
 description: "Institutional brief on liquidity engineering, cross-border structuring, and multigenerational asset hardening frameworks for global industrial families."
 date: "2025-07-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/asset-hardening-strategies-global-families/"
+meta_title: "Asset Hardening Strategies for Global Families: Long-Horizon Liquidity and Structural Defense"
+meta_description: "Institutional brief on liquidity engineering, cross-border structuring, and multigenerational asset hardening frameworks for global industrial families."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "asset-hardening-strategies-global-families"
 ---
 
 **- Hylten-Invest" slug: "asset-hardening-strategies-global-families" keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening" - Global families face a structural dilemma. Capital expands. Jurisdictional risk expands faster.**

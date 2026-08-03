@@ -1,10 +1,18 @@
 ---
 title: "Building a Legacy That Outlives Market Cycles"
+slug: "building-a-legacy-that-outlives-market-cycles"
 description: "A high‑end strategic perspective on liquidity, private credit, and asset based liquidity engineering for long‑term wealth stewardship."
 date: "2025-10-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/building-a-legacy-that-outlives-market-cycles/"
+meta_title: "Building a Legacy That Outlives Market Cycles"
+meta_description: "A high‑end strategic perspective on liquidity, private credit, and asset based liquidity engineering for long‑term wealth stewardship."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "building-a-legacy-that-outlives-market-cycles"
 ---
+
 ## The Unchanging Mandate of Stewardship
 
 What does not change is the responsibility held by those who think in decades rather than quarters. The mandate is clear: preserve capital across generations, not merely across market cycles. This requires more than passive allocation. It demands active structuring of liquidity, credit, and asset-backed resilience within a framework that prioritizes clarity over complexity, discipline over reaction, and permanence over expediency.

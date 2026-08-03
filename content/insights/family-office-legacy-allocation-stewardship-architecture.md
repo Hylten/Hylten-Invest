@@ -1,10 +1,18 @@
 ---
 title: "Family Office Legacy Allocation and the Stewardship Mandate in a Post-Liquidity Cycle Economy"
+slug: "family-office-legacy-allocation-stewardship-architecture"
 description: "Institutional briefing on the stewardship architecture, legacy allocation logic, and cross-generational capital discipline shaping strategic family office deployment frameworks in 2026."
 date: "2025-08-15"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/family-office-legacy-allocation-stewardship-architecture/"
+meta_title: "Family Office Legacy Allocation and the Stewardship Mandate in a Post-Liquidity Cycle Economy"
+meta_description: "Institutional briefing on the stewardship architecture, legacy allocation logic, and cross-generational capital discipline shaping strategic family office deployment frameworks in 2026."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "family-office-legacy-allocation-stewardship-architecture"
 ---
+
 ## THE REGIME SHIFT
 
 The global capital cycle has transitioned into a structurally different configuration. The post-liquidity era is not merely a cyclical downturn but a reordering of capital formation dynamics. Liquidity, once abundant and nearly costless, now carries a material price. Regulatory oversight has intensified across European financial centers, particularly in London, Frankfurt, and Zurich, where family offices face heightened scrutiny under frameworks like the EU’s Sustainable Finance Disclosure Regulation and the UK’s Senior Managers and Certification Regime. The velocity of institutional risk rotation has accelerated, compressing the time horizons over which capital is deployed and recalled.

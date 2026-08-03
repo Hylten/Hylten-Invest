@@ -1,10 +1,18 @@
 ---
 title: "Multi Generational Stewardship and the Institutional Discipline of Capital Formation"
+slug: "multi-generational-stewardship-capital-doctrine"
 description: "Strategic memorandum on the structural function of stewardship, intergenerational capital mechanics, and the operational doctrine underpinning long-horizon industrial families across Europe and North America."
 date: "2025-08-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/multi-generational-stewardship-capital-doctrine/"
+meta_title: "Multi Generational Stewardship and the Institutional Discipline of Capital Formation"
+meta_description: "Strategic memorandum on the structural function of stewardship, intergenerational capital mechanics, and the operational doctrine underpinning long-horizon industrial families across Europe and North America."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "multi-generational-stewardship-capital-doctrine"
 ---
+
 ## THE REGIME SHIFT: WESTERN MARKETS AND THE RETURN OF FUNDAMENTAL DISCIPLINE
 
 Western capital markets are experiencing a structural reversion to fundamental discipline. The monetary expansion cycle of the past four decades has given way to a regime defined by energy cost floors, supply chain fragmentation, demographic contraction, and regulatory tightening. This new environment is slower, harsher, and more selective. It rewards allocators who understand the mechanics of long-cycle resilience rather than those who chase short-term liquidity or thematic momentum.

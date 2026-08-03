@@ -1,10 +1,18 @@
 ---
 title: "Stewardship Through Liquidity: Designing Multi-Generational Credit Strategies"
+slug: "stewardship-through-liquidity-designing-multi-generational-credit-strategies"
 description: "Designing evergreen credit lines and liquidity strategies for family wealth preservation and stewardship."
 date: "2026-03-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-through-liquidity-designing-multi-generational-credit-strategies/"
+meta_title: "Stewardship Through Liquidity: Designing Multi-Generational Credit Strategies"
+meta_description: "Designing evergreen credit lines and liquidity strategies for family wealth preservation and stewardship."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewardship-through-liquidity-designing-multi-generational-credit-strategies"
 ---
+
 ## Understanding Stewardship Through Liquidity
 
 Stewardship is not a tactic. It is a posture. It shapes how a family views risk, opportunity, and time. For families of enduring wealth, liquidity is not the goal. It is the safeguard. It is the quiet discipline that allows capital to remain patient, to compound, and to serve generations yet unborn.

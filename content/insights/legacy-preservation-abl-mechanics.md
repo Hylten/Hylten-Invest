@@ -1,10 +1,18 @@
 ---
 title: "The Mechanics of Legacy Preservation via Asset Based Lending and Institutional Stewardship"
-description: "A high density institutional analysis of Asset Based Lending as a preservation instrument for multi generational industrial capital, integrating liquidity engineering, operational intelligence, and Nordic stewardship ethics."
-date: "2026-02-09"
-author: "Jonas Hyltén"
 slug: "legacy-preservation-abl-mechanics"
+description: "A high density institutional analysis of Asset Based Lending as a preservation instrument for multi generational industrial capital, integrating liquidity engineering, operational intelligence, and Nordic stewardship…"
+date: "2026-02-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/legacy-preservation-abl-mechanics/"
+meta_title: "The Mechanics of Legacy Preservation via Asset Based Lending and Institutional Stewardship"
+meta_description: "A high density institutional analysis of Asset Based Lending as a preservation instrument for multi generational industrial capital, integrating liquidity engineering, operational intelligence, and Nordic stewardship…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The Structural Mismatch in Industrial Capital Markets
 
 The dislocation between asset durability and credit availability is not cyclical. It is structural. North American and European industrial operators face a capital vacuum that originates from balance sheet misalignment, not asset exhaustion. Productive capacity remains intact - machinery hums, facilities stand, supply chains endure. Yet liquidity channels have narrowed. The institutional exit from traditional credit markets has not been replaced by equivalent capital flows. Instead, a spread has emerged between the intrinsic value of industrial assets and the willingness of lenders to recognize that value.

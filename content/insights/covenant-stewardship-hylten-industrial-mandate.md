@@ -1,9 +1,16 @@
 ---
 title: "Covenant Stewardship and the Industrial Man"
+slug: "covenant-stewardship-hylten-industrial-mandate"
 description: "A principal-level institutional brief on the theology of capital, generational authority, and the industrial covenant underpinning Hylten‑Invest and Fund-III’s long‑horizon stewardship architecture."
 date: "2025-08-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/covenant-stewardship-hylten-industrial-mandate/"
+meta_title: "Covenant Stewardship and the Industrial Man"
+meta_description: "A principal-level institutional brief on the theology of capital, generational authority, and the industrial covenant underpinning Hylten‑Invest and Fund-III’s long‑horizon stewardship architecture."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "covenant-stewardship-hylten-industrial-mandate"
 ---
 
 **Covenant stewardship is not a metaphor. It is a jurisdiction. A binding architecture of moral authority, industrial resilience, and capital continuity.**

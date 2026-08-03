@@ -1,10 +1,18 @@
 ---
 title: "Stewardship in a Volatile Private Credit Market"
+slug: "stewardship-in-a-volatile-private-credit-market"
 description: "A strategic examination of stewardship, liquidity, and asset based liquidity engineering for HNWI and UHNW investors navigating private credit uncertainty."
 date: "2025-12-29"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-in-a-volatile-private-credit-market/"
+meta_title: "Stewardship in a Volatile Private Credit Market"
+meta_description: "A strategic examination of stewardship, liquidity, and asset based liquidity engineering for HNWI and UHNW investors navigating private credit uncertainty."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewardship-in-a-volatile-private-credit-market"
 ---
+
 ## Stewardship in a Volatile Private Credit Market
 
 For High Net Worth and Ultra High Net Worth families, this environment creates both fragility and opportunity. It demands more than tactical responsiveness. It requires stewardship. The discipline operates within a framework of quiet conviction, where capital is not merely deployed but preserved across cycles. This is not about market timing or yield chasing. It is about maintaining structural integrity when volatility expresses itself not as price swings but as liquidity freezes.

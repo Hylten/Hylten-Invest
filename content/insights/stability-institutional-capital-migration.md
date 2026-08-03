@@ -1,10 +1,18 @@
 ---
 title: "Stability Through Institutional Capital Migration"
+slug: "stability-institutional-capital-migration"
 description: "A principal-level examination of cross‑jurisdictional capital migration, generational stewardship, and institutional asset hardening strategies under Nordic‑Protestant industrial principles."
 date: "2025-09-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stability-institutional-capital-migration/"
+meta_title: "Stability Through Institutional Capital Migration"
+meta_description: "A principal-level examination of cross‑jurisdictional capital migration, generational stewardship, and institutional asset hardening strategies under Nordic‑Protestant industrial principles."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stability-institutional-capital-migration"
 ---
+
 ## Institutional Stability Is Never Inherited - It Is Engineered
 
 Capital does not move randomly. It migrates along vectors of trust, drawn toward jurisdictions where moral and legal infrastructure align. The Nordic industrial families understood this principle at a cellular level. Their wealth endured not because of clever tax structuring alone, but because they embedded capital within systems that treated assets as sacred trusts rather than speculative instruments. This is the essence of institutional hardening - the transformation of liquid capital into intergenerational infrastructure.

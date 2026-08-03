@@ -1,10 +1,18 @@
 ---
 title: "Multi Generational Stewardship"
+slug: "multi-generational-stewardship"
 description: "Insights on Multi Generational Stewardship from Roials Capital and Hyltén Invest."
 date: "2025-11-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/multi-generational-stewardship/"
+meta_title: "Multi Generational Stewardship"
+meta_description: "Insights on Multi Generational Stewardship from Roials Capital and Hyltén Invest."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "multi-generational-stewardship"
 ---
+
 ## It Disappears Because of Misalignment Within Families
 
 Capital does not vanish in a single catastrophic event. It erodes through friction - the quiet, persistent drag of misaligned interests, unspoken expectations, and competing visions. The most enduring family enterprises recognize this truth: alignment is not a static achievement but a dynamic equilibrium requiring constant calibration.

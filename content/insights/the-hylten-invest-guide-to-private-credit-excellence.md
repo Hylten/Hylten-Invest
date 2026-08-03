@@ -1,10 +1,18 @@
 ---
 title: "The Hylten Invest Guide to Private Credit Excellence"
+slug: "the-hylten-invest-guide-to-private-credit-excellence"
 description: "A strategic guide for HNWI and family offices seeking liquidity through private credit and asset based liquidity engineering solutions."
 date: "2026-01-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-hylten-invest-guide-to-private-credit-excellence/"
+meta_title: "The Hylten Invest Guide to Private Credit Excellence"
+meta_description: "A strategic guide for HNWI and family offices seeking liquidity through private credit and asset based liquidity engineering solutions."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-hylten-invest-guide-to-private-credit-excellence"
 ---
+
 ## The Hylten Invest Guide to Private Credit Excellence
 
 Capital should remain productive without unnecessary exposure. Credit, when disciplined by real assets and institutional structure, becomes an instrument of continuity rather than speculation. This is not a theoretical proposition but a practical reality for families and private wealth stewards who understand the responsibilities of long-term capital preservation. The following principles, frameworks, and structural considerations define the approach to private credit excellence at Hylten Invest.

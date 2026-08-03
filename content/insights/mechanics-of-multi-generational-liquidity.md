@@ -1,10 +1,18 @@
 ---
 title: "The Structural Mechanics of Multi Generational Liquidity in an Age of Capital Fragmentation"
+slug: "mechanics-of-multi-generational-liquidity"
 description: "An institutional briefing on the technical, moral, and operational architecture required to engineer durable, multi generational liquidity across European and North American capital regimes."
 date: "2025-10-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/mechanics-of-multi-generational-liquidity/"
+meta_title: "The Structural Mechanics of Multi Generational Liquidity in an Age of Capital Fragmentation"
+meta_description: "An institutional briefing on the technical, moral, and operational architecture required to engineer durable, multi generational liquidity across European and North American capital regimes."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "mechanics-of-multi-generational-liquidity"
 ---
+
 ## THE REGIME SHIFT
 
 The current capital regime is shaped by three tectonic forces - each reinforcing the others in a cycle of structural decay. First, the Western demographic inversion. Birth rates across Europe and North America have fallen below replacement levels for decades. The consequence is not merely an aging population but a contraction in the organic entrepreneurial expansion that historically drove capital velocity. When fewer young firms enter the market, fewer creditworthy borrowers emerge, and fewer innovative projects absorb capital. The result is a systemic slowdown in the circulation of money through productive enterprise.

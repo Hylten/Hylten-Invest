@@ -1,10 +1,18 @@
 ---
 title: "The Mechanics of Legacy Preservation via Asset-Based Lending"
+slug: "the-mechanics-of-legacy-preservation-via-abl"
 description: "An in depth exploration of how Asset Based liquidity engineering and private credit provide liquidity, stability, and long term legacy preservation for HNWI and UHNW families."
 date: "2026-02-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-mechanics-of-legacy-preservation-via-abl/"
+meta_title: "The Mechanics of Legacy Preservation via Asset-Based Lending"
+meta_description: "An in depth exploration of how Asset Based liquidity engineering and private credit provide liquidity, stability, and long term legacy preservation for HNWI and UHNW families."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-mechanics-of-legacy-preservation-via-abl"
 ---
+
 ## Families That Endure Understand Systems, Not Transactions
 
 Legacy is not preserved by accident. It is engineered through structures that outlast individual decisions, market cycles, and generational transitions. The families that endure do not treat wealth as a static accumulation of assets but as a dynamic system capable of adaptation without fragmentation. This is the philosophical core of Asset-Based Monetization Architecture - a discipline where liquidity is not extracted but activated, where assets remain productive without being dismantled, and where stewardship replaces the short-term calculus of speculation.

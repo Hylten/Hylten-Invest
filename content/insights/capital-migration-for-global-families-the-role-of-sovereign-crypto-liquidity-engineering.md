@@ -1,10 +1,18 @@
 ---
 title: "Capital Migration for Global Families: The Role of Sovereign Crypto liquidity engineering"
+slug: "capital-migration-for-global-families-the-role-of-sovereign-crypto-liquidity-engineering"
 description: "A high-level exploration of liquidity creation through private credit and asset based Capital Structuring for global families seeking structural mobility."
 date: "2025-12-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/capital-migration-for-global-families-the-role-of-sovereign-crypto-liquidity-engineering/"
+meta_title: "Capital Migration for Global Families: The Role of Sovereign Crypto liquidity engineering"
+meta_description: "A high-level exploration of liquidity creation through private credit and asset based Capital Structuring for global families seeking structural mobility."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "capital-migration-for-global-families-the-role-of-sovereign-crypto-liquidity-engineering"
 ---
+
 ## The Sovereign Imperative in Capital Migration
 
 The modern wealth architecture of global families is no longer defined by static geographies or traditional asset allocations. It is shaped by movement - the deliberate, structured migration of capital across regulatory regimes, legal frameworks, and digital infrastructures. This is not arbitrage in the conventional sense. It is a deeper form of stewardship, where liquidity becomes the instrument of continuity rather than the byproduct of speculation.

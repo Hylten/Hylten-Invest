@@ -1,10 +1,18 @@
 ---
 title: "The High-Trust Man"
+slug: "gnosjo-industrial-governance"
 description: "A principal-level brief on Scandinavian trust-governance, Christian industrial ethics, and the capital architecture required for generational stewardship."
 date: "2025-09-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/gnosjo-industrial-governance/"
+meta_title: "The High-Trust Man"
+meta_description: "A principal-level brief on Scandinavian trust-governance, Christian industrial ethics, and the capital architecture required for generational stewardship."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "gnosjo-industrial-governance"
 ---
+
 ## The High-Trust Man
 
 Authority begins with trust. Real trust. Earned in the forge. Held by covenant. Not negotiated in committee rooms. Not manufactured by policy jargon. It is the quiet conviction that binds principal to enterprise, enterprise to community, and community to legacy. This is the architecture of generational stewardship. It is not a theory. It is a practice.

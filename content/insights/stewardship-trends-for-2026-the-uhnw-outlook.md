@@ -1,10 +1,18 @@
 ---
 title: "Stewardship Trends for 2026: The UHNW Outlook"
+slug: "stewardship-trends-for-2026-the-uhnw-outlook"
 description: "A deep analysis of 2026 stewardship trends for UHNW investors with emphasis on liquidity architecture, private credit, and asset based liquidity engineering."
 date: "2025-10-15"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-trends-for-2026-the-uhnw-outlook/"
+meta_title: "Stewardship Trends for 2026: The UHNW Outlook"
+meta_description: "A deep analysis of 2026 stewardship trends for UHNW investors with emphasis on liquidity architecture, private credit, and asset based liquidity engineering."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewardship-trends-for-2026-the-uhnw-outlook"
 ---
+
 ## Liquidity as Architecture, Not Afterthought
 
 Liquidity is no longer an operational detail to be addressed in moments of stress. It has become the foundational layer of capital architecture for Ultra High Net Worth (UHNW) investors. The shift is not driven by volatility alone. It is shaped by a deeper movement toward minimalism in capital construction - a deliberate reduction of moving parts, a hardening of balance sheet resilience, and a quiet insistence on control.

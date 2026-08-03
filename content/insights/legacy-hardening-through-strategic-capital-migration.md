@@ -1,10 +1,18 @@
 ---
 title: "Legacy Hardening Through Strategic Capital Migration"
+slug: "legacy-hardening-through-strategic-capital-migration"
 description: "A long‑horizon framework for UHNW families seeking resilience, continuity, and capital security through strategic migration of assets, jurisdictions, and structures."
 date: "2025-08-21"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/legacy-hardening-through-strategic-capital-migration/"
+meta_title: "Legacy Hardening Through Strategic Capital Migration"
+meta_description: "A long‑horizon framework for UHNW families seeking resilience, continuity, and capital security through strategic migration of assets, jurisdictions, and structures."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "legacy-hardening-through-strategic-capital-migration"
 ---
+
 ## The Nature of Hardening: A Conservative Philosophy for Multi-Generational Stability
 
 Legacy Hardening is not a reaction to market volatility. It is a deliberate architectural choice, one that treats capital as a living organism requiring structural integrity across time. The philosophy originates from the recognition that wealth, when left unprotected, becomes vulnerable to forces beyond market cycles. These forces operate on longer wavelengths - regulatory drift, jurisdictional arbitrage, institutional decay - and require a response that is equally enduring.

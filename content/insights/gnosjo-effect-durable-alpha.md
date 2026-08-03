@@ -1,10 +1,18 @@
 ---
 title: "The Sovereign Threadwork of Gnosjö"
+slug: "gnosjo-effect-durable-alpha"
 description: "Industrial kinship networks, Protestant stewardship, and the covenant mechanics that generate durable, non-speculative alpha across micro‑industrial clusters."
 date: "2025-09-12"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/gnosjo-effect-durable-alpha/"
+meta_title: "The Sovereign Threadwork of Gnosjö"
+meta_description: "Industrial kinship networks, Protestant stewardship, and the covenant mechanics that generate durable, non-speculative alpha across micro‑industrial clusters."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "gnosjo-effect-durable-alpha"
 ---
+
 ## The Gnosjö Covenant as Industrial Architecture
 
 The Gnosjö network is not a mystery. It is a covenantal structure operating under quiet discipline - a living testament to how moral architecture generates durable, non-speculative alpha in micro-industrial clusters. This is not romanticism. It is structural mechanics. The region endures because it never surrendered its foundational principles. Protestant stewardship. Kin-based reciprocity. Industrial kinship networks that compress economic distance to near-zero.

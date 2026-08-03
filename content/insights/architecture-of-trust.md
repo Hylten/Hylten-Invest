@@ -1,10 +1,18 @@
 ---
 title: "The Architecture of Trust"
+slug: "architecture-of-trust"
 description: "Institutional exposition of capital stewardship, moral authority, and the structural mechanics that govern trust formation inside generational capital systems."
 date: "2025-11-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/architecture-of-trust/"
+meta_title: "The Architecture of Trust"
+meta_description: "Institutional exposition of capital stewardship, moral authority, and the structural mechanics that govern trust formation inside generational capital systems."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "architecture-of-trust"
 ---
+
 ## The architecture of trust is not relational sentiment
 
 It is a capital structure. It is measurable, forecastable, and covenant enforceable. When trust collapses, liquidity collapses. When trust is architected, liquidity accelerates. This is not metaphor. It is structural mechanics. The velocity of capital inside a system is a direct function of the trust coefficient embedded within its architecture. Order is not an option. It is a precondition for generational stewardship.

@@ -1,10 +1,18 @@
 ---
 title: "Virtue as Strategic Architecture"
+slug: "virtue-as-strategic-architecture"
 description: "A principal-level brief on moral authority as capital structure, integrating Christian industrial praxis into portfolio design under the Hyltén-Invest covenant."
 date: "2025-07-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/virtue-as-strategic-architecture/"
+meta_title: "Virtue as Strategic Architecture"
+meta_description: "A principal-level brief on moral authority as capital structure, integrating Christian industrial praxis into portfolio design under the Hyltén-Invest covenant."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "virtue-as-strategic-architecture"
 ---
+
 ## Conviction precedes structure. Structure precedes capital. Capital precedes dominion. This is the order.
 
 Immutable. The sequence is not negotiable. It is not a framework to be debated. It is the gravitational field within which all durable capital formation occurs. Virtue is not ornament. Virtue is not a marketing overlay. Virtue is the operating system. A portfolio constructed without moral architecture does not merely underperform - it collapses under its own weight. The collapse is not immediate. It is generational. The markets punish rootlessness with mathematical precision. The world rewards covenant with compounding certainty.

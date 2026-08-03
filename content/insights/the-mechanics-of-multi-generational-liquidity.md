@@ -1,10 +1,18 @@
 ---
 title: "The Mechanics of Multi Generational Liquidity"
+slug: "the-mechanics-of-multi-generational-liquidity"
 description: "A high end exploration of liquidity architecture for multi generational wealth, grounded in private credit and asset based liquidity engineering."
 date: "2025-09-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-mechanics-of-multi-generational-liquidity/"
+meta_title: "The Mechanics of Multi Generational Liquidity"
+meta_description: "A high end exploration of liquidity architecture for multi generational wealth, grounded in private credit and asset based liquidity engineering."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-mechanics-of-multi-generational-liquidity"
 ---
+
 ## Liquidity as a Long-Term Architectural Framework
 
 True liquidity does not behave like cash. It behaves like optionality.

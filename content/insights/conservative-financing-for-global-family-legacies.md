@@ -1,10 +1,18 @@
 ---
 title: "Conservative Financing for Global Family Legacies"
+slug: "conservative-financing-for-global-family-legacies"
 description: "Institutional brief examining conservative capital formation, private credit structuring, and multi‑jurisdiction liquidity architecture for generational family enterprises seeking moral authority and asset permanence."
 date: "2026-03-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/conservative-financing-for-global-family-legacies/"
+meta_title: "Conservative Financing for Global Family Legacies"
+meta_description: "Institutional brief examining conservative capital formation, private credit structuring, and multi‑jurisdiction liquidity architecture for generational family enterprises seeking moral authority and asset permanence."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "conservative-financing-for-global-family-legacies"
 ---
+
 ## The Covenant of Conservative Capital
 
 Conservative capital is not a posture. It is a covenant. A disciplined architecture where liquidity, sovereignty, and moral authority converge into a single, durable mandate. Families who operate across borders understand the weight of this responsibility. Their wealth is not merely financial; it is cultural, spiritual, and institutional. The structures they build must endure beyond market cycles, beyond political upheavals, beyond the lifespans of their founders.

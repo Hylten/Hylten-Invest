@@ -1,10 +1,18 @@
 ---
 title: "Resilient Structures in Private Wealth: Strategic Liquidity for HNWI and Family Offices"
-description: "Institutional analysis on liquidity engineering, balance sheet durability, and long horizon stewardship frameworks for private wealth. Technical memo for allocators evaluating resilient capital structures and operational intelligence for multi generational mandates."
-date: "2025-07-19"
-author: "Jonas Hyltén"
 slug: "resilient-structures-private-wealth-strategic-liquidity"
+description: "Institutional analysis on liquidity engineering, balance sheet durability, and long horizon stewardship frameworks for private wealth. Technical memo for allocators evaluating resilient capital structures and operatio…"
+date: "2025-07-19"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/resilient-structures-private-wealth-strategic-liquidity/"
+meta_title: "Resilient Structures in Private Wealth: Strategic Liquidity for HNWI and Family Offices"
+meta_description: "Institutional analysis on liquidity engineering, balance sheet durability, and long horizon stewardship frameworks for private wealth. Technical memo for allocators evaluating resilient capital structures and operatio…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The Regime Shift in Private Wealth Stewardship
 
 The capital vacuum in private wealth ecosystems is no longer a function of insufficient assets. It is a structural imbalance created by fragmented advisory silos, regulatory inertia, and an overconcentration of liquid strategies that fail to provide real protection when volatility regimes shift. The families that endure across generations adapt their structures before markets force adaptation. This is not a matter of tactical agility but of structural foresight.

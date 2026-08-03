@@ -1,10 +1,18 @@
 ---
 title: "Stewardship of Hybrid Portfolios: Balancing Tradition and Digital Alpha"
+slug: "stewardship-of-hybrid-portfolios-balancing-tradition-and-digital-alpha"
 description: "A high level exploration of liquidity strategy, private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
 date: "2025-11-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-of-hybrid-portfolios-balancing-tradition-and-digital-alpha/"
+meta_title: "Stewardship of Hybrid Portfolios: Balancing Tradition and Digital Alpha"
+meta_description: "A high level exploration of liquidity strategy, private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewardship-of-hybrid-portfolios-balancing-tradition-and-digital-alpha"
 ---
+
 ## It is stewardship
 
 The long arc of generational capital does not bend toward spectacle. It bends toward structure - structure that absorbs volatility, maintains optionality, and preserves authority across decades. This is the domain of hybrid portfolios, where traditional asset channels intersect with digital alpha, alternative credit, and engineered liquidity. The architecture is deliberate, conservative, and built for longevity rather than quarterly performance.

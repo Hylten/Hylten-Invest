@@ -1,10 +1,18 @@
 ---
 title: "The Stewardship of Sovereign Capital"
+slug: "stewardship-of-sovereign-capital"
 description: "A principal-level doctrine on liquidity governance, precision allocation, and generational wealth architecture grounded in Christian-industrial ethics and sovereign capital engineering."
 date: "2026-01-12"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-of-sovereign-capital/"
+meta_title: "The Stewardship of Sovereign Capital"
+meta_description: "A principal-level doctrine on liquidity governance, precision allocation, and generational wealth architecture grounded in Christian-industrial ethics and sovereign capital engineering."
+featured_image: ""
+draft: false
 author: "Jonas Hylten"
-slug: "stewardship-of-sovereign-capital"
 ---
+
 ## The stewardship of sovereign capital begins where sentiment ends
 
 Capital is not a flow. Capital is a covenant. It is an entrusted substance, morally charged, structurally defined, spiritually accountable. The market treats capital as motion - a river to be diverted, a wind to be harnessed, a force to be exploited. This is the language of traders, not stewards. The principal treats capital as mandate. It is not a resource to be consumed, but a responsibility to be honored. It is not a means to an end, but an end in itself - a living testament to discipline, foresight, and covenantal fidelity.

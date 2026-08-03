@@ -1,10 +1,18 @@
 ---
 title: "Legacy Hardening for Multi-Generational Wealth: Structural Liquidity for Enduring Dynasties"
+slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-enduring-dynasties"
 description: "A high-end analysis of liquidity architecture, private credit, and asset based liquidity engineering for long-term wealth preservation and strategic family continuity."
 date: "2026-02-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-enduring-dynasties/"
+meta_title: "Legacy Hardening for Multi-Generational Wealth: Structural Liquidity for Enduring Dynasties"
+meta_description: "A high-end analysis of liquidity architecture, private credit, and asset based liquidity engineering for long-term wealth preservation and strategic family continuity."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "legacy-hardening-for-multi-generational-wealth-structural-liquidity-for-enduring-dynasties"
 ---
+
 ## The Challenge Is Continuity
 
 Wealth creation is an event. Wealth preservation is a process. The distinction is not semantic. It is structural. Families with significant capital do not fail because they lack assets. They fail because they lack architecture. The true test of generational wealth is not the size of the balance sheet, but the resilience of its underlying infrastructure. This is the domain of legacy hardening - the deliberate construction of liquidity pathways, governance frameworks, and capital structures designed to endure across economic cycles and family transitions.

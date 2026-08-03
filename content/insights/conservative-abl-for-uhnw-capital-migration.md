@@ -1,10 +1,18 @@
 ---
 title: "Conservative Asset-Based Lending for UHNW Capital Migration"
+slug: "conservative-abl-for-uhnw-capital-migration"
 description: "A high end analysis of conservative asset based liquidity engineering and private credit structures for UHNW liquidity without asset displacement."
 date: "2026-02-15"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/conservative-abl-for-uhnw-capital-migration/"
+meta_title: "Conservative Asset-Based Lending for UHNW Capital Migration"
+meta_description: "A high end analysis of conservative asset based liquidity engineering and private credit structures for UHNW liquidity without asset displacement."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "conservative-abl-for-uhnw-capital-migration"
 ---
+
 ## The Covenant of Capital Preservation
 
 Conservative asset-based lending is not a financial product. It is a covenantal act. For ultra-high-net-worth (UHNW) principals, wealth is not a balance sheet entry. It is a living testament to discipline, foresight, and stewardship. The migration of capital must honor this reality. When liquidity is engineered through asset displacement, the covenant is broken. The portfolio is reduced to a transactional ledger, stripped of its generational significance.

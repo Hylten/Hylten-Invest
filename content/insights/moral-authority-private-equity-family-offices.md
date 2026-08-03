@@ -1,10 +1,18 @@
 ---
 title: "Moral Authority in Capital: The Principal Risk Lens for Family Offices"
+slug: "moral-authority-private-equity-family-offices"
 description: "A high-density structural briefing on moral hazard, moral authority, and the stewardship obligations governing private‑equity allocation for generational capital."
 date: "2025-07-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/moral-authority-private-equity-family-offices/"
+meta_title: "Moral Authority in Capital: The Principal Risk Lens for Family Offices"
+meta_description: "A high-density structural briefing on moral hazard, moral authority, and the stewardship obligations governing private‑equity allocation for generational capital."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "moral-authority-private-equity-family-offices"
 ---
+
 ## Moral Authority in Capital: The Principal Risk Lens for Family Offices
 
 A family office allocates capital not as a game, not as a speculative exercise, but as a covenantal act. The modern investment world has forgotten this. They speak of incentives, asymmetric risk, carry waterfalls, and behavioral economics. They rarely speak of duty. They almost never speak of the moral authority required to deploy multigenerational resources with integrity, clarity, and long-term responsibility. But the industrial families - the ones who built real factories, solved real engineering problems, negotiated real scarcity - understood this instinctively.

@@ -1,10 +1,18 @@
 ---
 title: "The Forge of Identity Capital"
+slug: "forge-of-identity-capital"
 description: "An analyst-grade examination of value-coherent investment architecture, moral authority, and the strategic advantage of identity-rooted capital formation within principled industrial houses."
 date: "2025-09-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/forge-of-identity-capital/"
+meta_title: "The Forge of Identity Capital"
+meta_description: "An analyst-grade examination of value-coherent investment architecture, moral authority, and the strategic advantage of identity-rooted capital formation within principled industrial houses."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "forge-of-identity-capital"
 ---
+
 ## Identity is Not Branding - Identity is Covenant
 
 Identity is not a logo. It is not a tagline. It is not a marketing campaign. Identity is the steel-bound covenant that binds an institution across generations. It is the unspoken contract between those who built, those who sustain, and those who will inherit. This covenant is non-negotiable. It is the axis upon which investment houses either rise or fall. Not by chance, but by coherence. Not by opportunism, but by moral clarity.

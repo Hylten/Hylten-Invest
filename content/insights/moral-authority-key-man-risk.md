@@ -1,10 +1,18 @@
 ---
 title: "The Principal Doctrine: Moral Authority as the Sovereign Mitigator of Key‑Man Risk"
+slug: "moral-authority-key-man-risk"
 description: "A high‑density institutional analysis of how moral authority, covenantal stewardship, and Christian industrial heritage dissolve founder‑concentration risk in long‑horizon investment platforms."
 date: "2025-07-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/moral-authority-key-man-risk/"
+meta_title: "The Principal Doctrine: Moral Authority as the Sovereign Mitigator of Key‑Man Risk"
+meta_description: "A high‑density institutional analysis of how moral authority, covenantal stewardship, and Christian industrial heritage dissolve founder‑concentration risk in long‑horizon investment platforms."
+featured_image: ""
+draft: false
 author: "Hylten‑Invest"
-slug: "moral-authority-key-man-risk"
 ---
+
 ## The Architecture of Authority - A Covenant Beyond Cycles
 
 The principal doctrine does not begin with risk models. It begins with authority. Not the ephemeral authority of charisma, nor the transactional authority of reputation games, nor the brittle authority of regulatory licenses. The authority in question is older than any market cycle, deeper than any balance sheet, and more durable than any founder’s lifespan. It is the authority of moral tradition, earned across generations, verified through conduct, and anchored to a covenantal posture that predates modern finance. When a founder stands inside this architecture, key-man risk does not vanish - it becomes structurally irrelevant. Legacy overrides fragility.

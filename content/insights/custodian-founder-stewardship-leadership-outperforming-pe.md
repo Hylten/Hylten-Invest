@@ -1,10 +1,18 @@
 ---
 title: "The Custodian Founder and the Restoration of Moral Stewardship in Capital Formation"
+slug: "custodian-founder-stewardship-leadership-outperforming-pe"
 description: "A principal-level briefing on why stewardship-driven founders are outperforming professionalized private equity teams, rooted in Christian industrial heritage and the architecture of generational capital."
 date: "2025-12-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/custodian-founder-stewardship-leadership-outperforming-pe/"
+meta_title: "The Custodian Founder and the Restoration of Moral Stewardship in Capital Formation"
+meta_description: "A principal-level briefing on why stewardship-driven founders are outperforming professionalized private equity teams, rooted in Christian industrial heritage and the architecture of generational capital."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "custodian-founder-stewardship-leadership-outperforming-pe"
 ---
+
 ## The age of the Custodian Founder has returned. Quietly. Decisively. Without fanfare or the theatrics of modern managerial culture.
 
 The shift is not announced in press releases or celebrated in industry conferences. It is observed in the quiet accumulation of durable enterprises, in the patient compounding of industrial capability, in the restoration of moral authority to capital formation. The Custodian Founder does not seek validation from the capital markets. The capital markets eventually seek validation from the Custodian Founder.

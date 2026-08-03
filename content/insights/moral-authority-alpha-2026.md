@@ -1,10 +1,18 @@
 ---
 title: "The Sovereign Repricing: Moral Authority as Alpha in the Institutional Markets of 2026"
+slug: "moral-authority-alpha-2026"
 description: "A principal-level analysis on why global allocators are elevating ethical stewards, covenant-driven leaders, and Christian-industrial heritage as the highest form of institutional risk mitigation."
 date: "2026-02-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/moral-authority-alpha-2026/"
+meta_title: "The Sovereign Repricing: Moral Authority as Alpha in the Institutional Markets of 2026"
+meta_description: "A principal-level analysis on why global allocators are elevating ethical stewards, covenant-driven leaders, and Christian-industrial heritage as the highest form of institutional risk mitigation."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "moral-authority-alpha-2026"
 ---
+
 ## The Structural Rotation Toward Moral Authority
 
 The institutional allocator of 2026 is not reaching for the loudest founder, the fastest negotiator, or the algorithmic illusionist. They are reaching for the one attribute that cannot be automated, simulated, or purchased: moral authority. Not the modern imitation. The real thing. The moral authority that emerges from a life ordered - spiritually, industrially, ethically - carries a weight that transcends quarterly earnings calls and transient market sentiment. This is not a philosophical preference. It is a structural imperative.

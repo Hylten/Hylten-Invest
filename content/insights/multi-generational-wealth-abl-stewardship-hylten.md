@@ -1,10 +1,18 @@
 ---
 title: "Navigating Multi-Generational Wealth Through Asset Backed Lending and Stewardship Discipline"
-description: "Institutional briefing on how Asset Backed Lending functions as a stabilizing mechanism for multi generational wealth architecture, integrating Nordic stewardship doctrine, liquidity engineering, and balance sheet optimization for families and institutional allocators."
-date: "2026-01-28"
-author: "Jonas Hyltén"
 slug: "multi-generational-wealth-abl-stewardship-hylten"
+description: "Institutional briefing on how Asset Backed Lending functions as a stabilizing mechanism for multi generational wealth architecture, integrating Nordic stewardship doctrine, liquidity engineering, and balance sheet opt…"
+date: "2026-01-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/multi-generational-wealth-abl-stewardship-hylten/"
+meta_title: "Navigating Multi-Generational Wealth Through Asset Backed Lending and Stewardship Discipline"
+meta_description: "Institutional briefing on how Asset Backed Lending functions as a stabilizing mechanism for multi generational wealth architecture, integrating Nordic stewardship doctrine, liquidity engineering, and balance sheet opt…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The Structural Shift in Credit Markets and the Rise of Asset Backed Lending
 
 The capital vacuum in North American and European credit markets is not cyclical. It is structural. Regulatory frameworks implemented post-2008 have systematically de-risked banking balance sheets, forcing institutions to retreat from real-economy underwriting. Basel III’s liquidity coverage ratios and net stable funding requirements have made long-duration lending prohibitively capital-intensive for banks. Simultaneously, the shadow banking sector has filled the void, but with a critical distinction: it operates under a different risk calculus, one that prioritizes collateral physics over relationship banking.

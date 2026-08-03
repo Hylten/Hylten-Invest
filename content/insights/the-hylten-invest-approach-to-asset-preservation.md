@@ -1,10 +1,18 @@
 ---
 title: "The Hylten Invest Approach to Asset Preservation"
+slug: "the-hylten-invest-approach-to-asset-preservation"
 description: "A strategic exploration of how Hyltén Invest secures long-term liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients."
 date: "2025-10-02"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-hylten-invest-approach-to-asset-preservation/"
+meta_title: "The Hylten Invest Approach to Asset Preservation"
+meta_description: "A strategic exploration of how Hyltén Invest secures long-term liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-hylten-invest-approach-to-asset-preservation"
 ---
+
 ## The Foundation of Asset Preservation
 
 Asset preservation is not a static function. It is a strategic discipline, a continuous process of alignment between capital and intent. The modern financial environment has introduced layers of complexity that demand more than passive stewardship. Assets have proliferated across jurisdictions, structures, and liquidity spectrums. Markets move with unprecedented velocity, while traditional liquidity channels have narrowed under regulatory pressure and institutional consolidation. For High Net Worth and Ultra High Net Worth individuals, the challenge is no longer merely accumulation but the deliberate orchestration of capital across time.

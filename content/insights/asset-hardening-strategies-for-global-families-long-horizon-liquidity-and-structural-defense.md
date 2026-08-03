@@ -1,10 +1,18 @@
 ---
 title: "Asset Hardening Strategies for Global Families: Long Horizon Liquidity and Structural Defense"
+slug: "asset-hardening-strategies-for-global-families-long-horizon-liquidity-and-structural-defense"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI families seeking long term resilience through institutional grade structures."
 date: "2025-08-03"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/asset-hardening-strategies-for-global-families-long-horizon-liquidity-and-structural-defense/"
+meta_title: "Asset Hardening Strategies for Global Families: Long Horizon Liquidity and Structural Defense"
+meta_description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI families seeking long term resilience through institutional grade structures."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "asset-hardening-strategies-for-global-families-long-horizon-liquidity-and-structural-defense"
 ---
+
 ## The Architecture of Asset Hardening
 
 Asset hardening is not a tactical maneuver. It is a structural discipline. The process begins with an assessment of the family’s balance sheet as a living organism - not a static ledger. Every asset class, jurisdiction, and governance layer must be evaluated for its contribution to resilience. This requires a framework that is both granular and holistic.

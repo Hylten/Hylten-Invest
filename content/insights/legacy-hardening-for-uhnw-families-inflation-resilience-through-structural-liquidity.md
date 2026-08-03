@@ -1,10 +1,18 @@
 ---
 title: "Legacy Hardening for UHNW Families: Inflation Resilience Through Structural Liquidity"
+slug: "legacy-hardening-for-uhnw-families-inflation-resilience-through-structural-liquidity"
 description: "A strategic overview of liquidity engineering through private credit and asset based Capital Structuring, designed to protect UHNW families from inflationary shocks."
 date: "2026-01-21"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/legacy-hardening-for-uhnw-families-inflation-resilience-through-structural-liquidity/"
+meta_title: "Legacy Hardening for UHNW Families: Inflation Resilience Through Structural Liquidity"
+meta_description: "A strategic overview of liquidity engineering through private credit and asset based Capital Structuring, designed to protect UHNW families from inflationary shocks."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "legacy-hardening-for-uhnw-families-inflation-resilience-through-structural-liquidity"
 ---
+
 ## The Mechanics of Legacy Hardening
 
 Legacy hardening is not a product. It is a structural discipline. A method of organizing capital so that wealth does not merely endure - it adapts. The process begins with a fundamental recognition: static wealth is fragile wealth. Assets held in isolation, without engineered pathways for movement, become vulnerable to systemic shocks. Inflation is not the only threat. Market dislocations, regulatory shifts, and geopolitical fractures all test the resilience of unstructured capital. The solution lies not in prediction, but in preparation. The objective is not to eliminate risk, but to ensure that risk remains a controlled variable within a broader system of capital preservation.

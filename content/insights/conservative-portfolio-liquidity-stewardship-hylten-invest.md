@@ -1,9 +1,16 @@
 ---
 title: "The Conservative Architecture of Portfolio Liquidity for Long‑Horizon Stewards of Capital"
+slug: "conservative-portfolio-liquidity-stewardship-hylten-invest"
 description: "A principal-level brief on conservative liquidity engineering, institutional durability, and generational capital design for long-term private credit and real-asset allocators."
 date: "2026-03-02"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/conservative-portfolio-liquidity-stewardship-hylten-invest/"
+meta_title: "The Conservative Architecture of Portfolio Liquidity for Long‑Horizon Stewards of Capital"
+meta_description: "A principal-level brief on conservative liquidity engineering, institutional durability, and generational capital design for long-term private credit and real-asset allocators."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén - Hylten‑Invest"
-slug: "conservative-portfolio-liquidity-stewardship-hylten-invest"
 ---
 
 ## The architecture of liquidity defines the architecture of power

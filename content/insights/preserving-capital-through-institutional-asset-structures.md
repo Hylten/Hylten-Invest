@@ -1,9 +1,16 @@
 ---
 title: "Preserving Capital Through Institutional Asset Structures"
+slug: "preserving-capital-through-institutional-asset-structures"
 description: "Institutional briefing on capital preservation, balance sheet optimization, and structural resilience across North American energy assets, framed through stewardship principles and Nordic industrial ethos."
 date: "2025-09-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/preserving-capital-through-institutional-asset-structures/"
+meta_title: "Preserving Capital Through Institutional Asset Structures"
+meta_description: "Institutional briefing on capital preservation, balance sheet optimization, and structural resilience across North American energy assets, framed through stewardship principles and Nordic industrial ethos."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "preserving-capital-through-institutional-asset-structures"
 ---
 
 **The capital vacuum within North American energy infrastructure is the product of regulatory drift and legacy divestment mandates, not a depletion of high quality reserves. The allocator that understands this distinction recognizes that capital preservation in the current regime depends less on risk dispersion and more on structural positioning within assets that exhibit predictable physics, long dated production horizons, and measurable subsurface integrity.**

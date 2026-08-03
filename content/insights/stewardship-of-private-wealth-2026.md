@@ -1,10 +1,18 @@
 ---
 title: "The Stewardship of Private Wealth in 2026: Institutional Discipline, Moral Authority, and the Architecture of Generational Capital"
-description: "An institutional analysis of private wealth stewardship in 2026, examining structural shifts in capital formation, the operational mechanics of real asset strategies, and the moral hierarchy that governs multigenerational capital continuity."
-date: "2026-01-20"
-author: "Jonas Hyltén"
 slug: "stewardship-of-private-wealth-2026"
+description: "An institutional analysis of private wealth stewardship in 2026, examining structural shifts in capital formation, the operational mechanics of real asset strategies, and the moral hierarchy that governs multigenerati…"
+date: "2026-01-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-of-private-wealth-2026/"
+meta_title: "The Stewardship of Private Wealth in 2026: Institutional Discipline, Moral Authority, and the Architecture of Generational Capital"
+meta_description: "An institutional analysis of private wealth stewardship in 2026, examining structural shifts in capital formation, the operational mechanics of real asset strategies, and the moral hierarchy that governs multigenerati…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## THE REGIME SHIFT
 
 The global capital regime has passed through a fundamental reconfiguration - one that is not merely cyclical but structural. The post-liquidity era has not produced a uniform tightening. It has produced asymmetry. The largest pools of institutional capital have pivoted to defensive liquidity, while mid-market and private operators continue to require balance sheet reinforcement. This widening dislocation creates a structural gap in the supply and demand for capital across real assets, private credit, and energy infrastructure. Such gaps reward allocators with the operational intelligence to differentiate between risk created by physics and risk created by policy.

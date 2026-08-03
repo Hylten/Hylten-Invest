@@ -1,10 +1,18 @@
 ---
 title: "Private Equity Diversification and the Institutional Stewardship Mandate"
+slug: "private-equity-diversification-stewardship-jonas-hylten"
 description: "Institutional briefing on capital regime shifts, diversification logic, operational intelligence, and the stewardship thesis for multi-cycle private equity allocation."
 date: "2025-11-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/private-equity-diversification-stewardship-jonas-hylten/"
+meta_title: "Private Equity Diversification and the Institutional Stewardship Mandate"
+meta_description: "Institutional briefing on capital regime shifts, diversification logic, operational intelligence, and the stewardship thesis for multi-cycle private equity allocation."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "private-equity-diversification-stewardship-jonas-hylten"
 ---
+
 ## The perspective is anchored in the Nordic industrial ethos that shaped my own worldview
 
 The Spirit of Gnosjö is not a historical footnote. It is a living covenant between capital, labor, and community. This tradition rejects speculative abstraction in favor of disciplined, operational stewardship. It demands that capital be deployed with moral clarity, that returns be earned through tangible value creation, and that risk be governed not by mathematical convenience but by structural resilience. In the current regime, where policy distortions have severed historical correlations between liquidity, margins, and asset values, this ethos provides the only reliable compass.

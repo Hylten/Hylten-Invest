@@ -1,10 +1,18 @@
 ---
 title: "The Future of Generative AI Investments"
+slug: "the-future-of-generative-ai-investments"
 description: "Why Hyltén Invest sees significant potential in agentic AI and its impact on infrastructure."
 date: "2025-10-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-future-of-generative-ai-investments/"
+meta_title: "The Future of Generative AI Investments"
+meta_description: "Why Hyltén Invest sees significant potential in agentic AI and its impact on infrastructure."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-future-of-generative-ai-investments"
 ---
+
 ## The Structural Shift from Generative to Agentic AI
 
 Artificial intelligence is no longer confined to pattern recognition or content synthesis. The transition from generative to agentic systems marks a fundamental evolution in computational capability - one that will redefine the architecture of enterprise, the nature of digital labor, and the composition of capital markets. This is not a speculative trend but a structural inevitability, driven by the convergence of advances in reinforcement learning, multi-agent coordination, and scalable infrastructure.

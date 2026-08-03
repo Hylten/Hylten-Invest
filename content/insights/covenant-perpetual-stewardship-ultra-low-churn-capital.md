@@ -1,9 +1,16 @@
 ---
 title: "The Covenant of Perpetual Stewardship: The Architecture of Ultra-Low-Churn Capital"
-description: "A principal-level briefing on the structural logic, moral grounding, and industrial heritage behind perpetual stewardship vehicles, and why disciplined capital governed by covenant outperforms extraction-based models across multi-generational horizons."
-date: "2025-10-11"
-author: "Jonas Hyltén"
 slug: "covenant-perpetual-stewardship-ultra-low-churn-capital"
+description: "A principal-level briefing on the structural logic, moral grounding, and industrial heritage behind perpetual stewardship vehicles, and why disciplined capital governed by covenant outperforms extraction-based models…"
+date: "2025-10-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/covenant-perpetual-stewardship-ultra-low-churn-capital/"
+meta_title: "The Covenant of Perpetual Stewardship: The Architecture of Ultra-Low-Churn Capital"
+meta_description: "A principal-level briefing on the structural logic, moral grounding, and industrial heritage behind perpetual stewardship vehicles, and why disciplined capital governed by covenant outperforms extraction-based models…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 **Ultra-low-churn capital is not a financial innovation. It is a return to moral order. A return to the covenant. A return to the understanding that capital, like land, like knowledge, like the spirit entrusted to man, does not exist for consumption but for stewardship.**

@@ -1,10 +1,18 @@
 ---
 title: "The Returning Sovereign: Why UHNWIs Anchor Capital in Multi-Decade Industrial Holdings"
+slug: "uhnw-pivot-industrial-holdings"
 description: "A principal-level briefing on the structural, moral, and strategic forces pulling ultra-wealth holders away from short-horizon private equity toward long-duration industrial stewardship."
 date: "2025-12-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/uhnw-pivot-industrial-holdings/"
+meta_title: "The Returning Sovereign: Why UHNWIs Anchor Capital in Multi-Decade Industrial Holdings"
+meta_description: "A principal-level briefing on the structural, moral, and strategic forces pulling ultra-wealth holders away from short-horizon private equity toward long-duration industrial stewardship."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "uhnw-pivot-industrial-holdings"
 ---
+
 ## The pivot began quietly. Not with noise. With conviction.
 
 A certain kind of individual - the one who understands that wealth is not consumed but stewarded - has grown weary of the shallow tempo of short-horizon private equity. The cycles shrink. The holding periods compress. The pursuit becomes exit-driven rather than value-driven. And the ultra-high-net-worth individuals (UHNWIs) who still believe in the covenant of enterprise have drawn the line. They are returning to the old paths.

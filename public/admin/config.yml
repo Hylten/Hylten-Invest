@@ -1,0 +1,35 @@
+backend:
+  name: github
+  repo: Hylten/Hylten-Invest
+  branch: main
+  base_url: https://cms-oauth-proxy.vercel.app
+
+media_folder: "public/images"
+public_folder: "/Hylten-Invest/images"
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "insights"
+    label: "Insights"
+    label_singular: "Artikel"
+    folder: "content/insights"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: slug
+    summary: "{{title}} — {{date}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Beskrivning", name: "description", widget: "text" }
+      - { label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD" }
+      - { label: "Taggar", name: "tags", widget: "list", default: [] }
+      - { label: "Kategorier", name: "categories", widget: "list", default: ["Insights"] }
+      - { label: "Canonical URL", name: "canonical_url", widget: "string", required: false }
+      - { label: "Meta-titel", name: "meta_title", widget: "string", required: false }
+      - { label: "Meta-beskrivning", name: "meta_description", widget: "text", required: false }
+      - { label: "Utvald bild", name: "featured_image", widget: "image", required: false }
+      - { label: "Utkast (draft)", name: "draft", widget: "boolean", default: true }
+      - { label: "Författare", name: "author", widget: "string" }
+      - { label: "Innehåll", name: "body", widget: "markdown" }

@@ -1,10 +1,18 @@
 ---
 title: "The Industrial Man"
-description: "A strategic analysis of how Christian industrial heritage, Nordic stewardship principles, and the theology of capital form an institutional framework for modern capital formation and operational discipline across North American and European industrial platforms."
-date: "2026-02-27"
-author: "Jonas Hyltén"
 slug: "industrial-mandate-christian-values-in-capital"
+description: "A strategic analysis of how Christian industrial heritage, Nordic stewardship principles, and the theology of capital form an institutional framework for modern capital formation and operational discipline across Nort…"
+date: "2026-02-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/industrial-mandate-christian-values-in-capital/"
+meta_title: "The Industrial Man"
+meta_description: "A strategic analysis of how Christian industrial heritage, Nordic stewardship principles, and the theology of capital form an institutional framework for modern capital formation and operational discipline across Nort…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The Capital Vacuum and the Theology of Stewardship
 
 The modern industrial landscape suffers from a paradox. Capital is abundant, yet productive deployment is scarce. Private equity dry powder exceeds $3.7 trillion globally. Corporate balance sheets hold record cash reserves. Central banks have flooded markets with liquidity for over a decade. Yet industrial platforms struggle to achieve sustainable capital formation. The problem is not scarcity - it is structure. Specifically, the structural erosion of stewardship as a governing principle in capital allocation.

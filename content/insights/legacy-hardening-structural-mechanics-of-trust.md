@@ -1,10 +1,18 @@
 ---
 title: "Legacy Hardening: The Structural Mechanics of Trust and the Theology of Capital"
+slug: "legacy-hardening-structural-mechanics-of-trust"
 description: "An institutional examination of generational capital formation, Nordic industrial ethics, and the structural mechanics of trust as a balance sheet asset within modern private markets."
 date: "2025-10-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/legacy-hardening-structural-mechanics-of-trust/"
+meta_title: "Legacy Hardening: The Structural Mechanics of Trust and the Theology of Capital"
+meta_description: "An institutional examination of generational capital formation, Nordic industrial ethics, and the structural mechanics of trust as a balance sheet asset within modern private markets."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "legacy-hardening-structural-mechanics-of-trust"
 ---
+
 ## Legacy is no longer a narrative concept
 
 It is a technical asset class subject to design, hardening, and governance. The modern institutional landscape demands more than passive inheritance - it requires active engineering of trust as a balance sheet asset. This is not a philosophical abstraction but a structural necessity. The Nordic industrial tradition, particularly the Spirit of Gnosjö, provides a proven framework for this transformation. Here, capital is not merely accumulated but cultivated through disciplined stewardship, operational integrity, and intergenerational covenants.

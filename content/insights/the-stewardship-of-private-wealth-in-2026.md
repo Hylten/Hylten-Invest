@@ -1,10 +1,18 @@
 ---
 title: "The Stewardship of Private Wealth in 2026"
+slug: "the-stewardship-of-private-wealth-in-2026"
 description: "A high-level exploration of liquidity strategy and asset-based liquidity engineering for HNWI and UHNW families seeking structural, conservative capital solutions."
 date: "2026-03-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-stewardship-of-private-wealth-in-2026/"
+meta_title: "The Stewardship of Private Wealth in 2026"
+meta_description: "A high-level exploration of liquidity strategy and asset-based liquidity engineering for HNWI and UHNW families seeking structural, conservative capital solutions."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-stewardship-of-private-wealth-in-2026"
 ---
+
 ## The Role of Quiet Partners
 
 HNWI and UHNW families do not seek attention. They seek order. The preservation of wealth across generations is not a matter of chance but of deliberate design. It requires partners who understand the gravity of decisions made today on the stability of tomorrow. These families operate with a long-term horizon, where the noise of market cycles is filtered through systems built for endurance. The partners they choose must reflect this philosophy - institutions that value discretion over visibility, competence over spectacle, and structural integrity over transient gains.

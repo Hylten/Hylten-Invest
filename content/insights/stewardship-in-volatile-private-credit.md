@@ -1,10 +1,18 @@
 ---
 title: "Stewardship in a Volatile Private Credit Market"
+slug: "stewardship-in-volatile-private-credit"
 description: "Institutional briefing on stewardship as a capital discipline within volatile private credit regimes, integrating Nordic industrial traditions, liquidity engineering frameworks, and allocator calibration models."
 date: "2026-01-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-in-volatile-private-credit/"
+meta_title: "Stewardship in a Volatile Private Credit Market"
+meta_description: "Institutional briefing on stewardship as a capital discipline within volatile private credit regimes, integrating Nordic industrial traditions, liquidity engineering frameworks, and allocator calibration models."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewardship-in-volatile-private-credit"
 ---
+
 ## The current private credit landscape continues to be defined by a structural gap rather than a cyclical aberration
 
 The spread dislocation observed across North American and European middle-market borrowers is an output of regulatory compression and balance sheet retrenchment among traditional lenders. The vacuum is not a symptom of weakened asset bases but of capital architecture that has not kept pace with real-economy demand. This gap has created a market where the durability of capital stewardship has become a differentiator more powerful than scale, branding, or origination velocity.

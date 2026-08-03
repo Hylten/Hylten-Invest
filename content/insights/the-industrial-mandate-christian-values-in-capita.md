@@ -1,10 +1,18 @@
 ---
 title: "The Industrial Man"
-description: "The Industrial Man"
-date: "2025-08-10"
-author: "Jonas Hyltén"
 slug: "the-industrial-mandate-christian-values-in-capita"
+description: "The industrial man does not emerge from abstraction. He is forged in the discipline of covenant, in the quiet accumulation of structural truth. This is not a romantic ideal. It is a working model of capital allocation…"
+date: "2025-08-10"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-industrial-mandate-christian-values-in-capita/"
+meta_title: "The Industrial Man"
+meta_description: "The industrial man does not emerge from abstraction. He is forged in the discipline of covenant, in the quiet accumulation of structural truth. This is not a romantic ideal. It is a working model of capital allocation…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## A Line of Continuity
 
 The industrial man does not emerge from abstraction. He is forged in the discipline of covenant, in the quiet accumulation of structural truth. This is not a romantic ideal. It is a working model of capital allocation that binds generations to a moral and industrial order. In the Christian conservative tradition, capital is not a lifestyle instrument. It is a function of stewardship. It carries the responsibility to strengthen families, enterprises, and regions under a framework of discipline and truth.

@@ -1,10 +1,18 @@
 ---
 title: "Capital Migration for Multi‑Generational Stability"
+slug: "capital-migration-for-multigenerational-stability"
 description: "A strategic exploration of liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW families seeking long-term capital preservation."
 date: "2025-07-02"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/capital-migration-for-multigenerational-stability/"
+meta_title: "Capital Migration for Multi‑Generational Stability"
+meta_description: "A strategic exploration of liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW families seeking long-term capital preservation."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "capital-migration-for-multigenerational-stability"
 ---
+
 ## For Families That Think in Decades Rather Than Quarters
 
 Capital migration is not a transaction. It is a covenantal discipline. The distinction separates families who preserve wealth across generations from those who merely accumulate it. The former understand that liquidity is not the enemy of long-term holding - it is the mechanism that ensures long-term holding remains possible. The latter, often trapped in the illusion of perpetual growth, discover too late that illiquidity is the silent architect of forced divestment.

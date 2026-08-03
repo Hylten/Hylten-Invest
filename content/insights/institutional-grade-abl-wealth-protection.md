@@ -1,10 +1,18 @@
 ---
 title: "Institutional Grade Asset Based Lending as a Framework for Wealth Protection and Capital Stewardship"
-description: "A technical analysis of institutional Asset-Based Lending structures, collateral physics, liquidity engineering protocols, and the stewardship doctrines guiding conservative wealth preservation for UHNW families and institutional allocators."
-date: "2025-12-07"
-author: "Jonas Hyltén"
 slug: "institutional-grade-abl-wealth-protection"
+description: "A technical analysis of institutional Asset-Based Lending structures, collateral physics, liquidity engineering protocols, and the stewardship doctrines guiding conservative wealth preservation for UHNW families and i…"
+date: "2025-12-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/institutional-grade-abl-wealth-protection/"
+meta_title: "Institutional Grade Asset Based Lending as a Framework for Wealth Protection and Capital Stewardship"
+meta_description: "A technical analysis of institutional Asset-Based Lending structures, collateral physics, liquidity engineering protocols, and the stewardship doctrines guiding conservative wealth preservation for UHNW families and i…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The Regime Shift - Private Credit as a Structural Constraint, Not a Cyclical Fluctuation
 
 Private credit has entered a regime defined by structural constraint rather than cyclical fluctuation. This shift is not temporary. It is the result of deliberate policy choices, regulatory recalibration, and the withdrawal of traditional lenders from collateral-centric balance sheet lending. The underlying assets - logistics fleets, industrial machinery, energy equipment, agricultural inventory, and production infrastructure - did not deteriorate. The architecture around them did.

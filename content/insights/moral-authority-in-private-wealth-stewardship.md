@@ -1,10 +1,18 @@
 ---
 title: "Moral Authority In Private Wealth Stewardship"
+slug: "moral-authority-in-private-wealth-stewardship"
 description: "Moral Authority In Private Wealth Stewardship"
 date: "2025-08-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/moral-authority-in-private-wealth-stewardship/"
+meta_title: "Moral Authority In Private Wealth Stewardship"
+meta_description: "Moral Authority In Private Wealth Stewardship"
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "moral-authority-in-private-wealth-stewardship"
 ---
+
 ## The question is not how capital grows
 
 The question is how capital stands. Not in the narrow sense of portfolio resilience - though that is essential - but in the deeper sense of moral and structural endurance. The question is whether wealth becomes a force that shapes markets or is shaped by them. Whether it serves as a foundation for dominion or merely as fuel for consumption. Whether it transfers across generations as a living covenant or as a dead asset.

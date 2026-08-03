@@ -1,10 +1,18 @@
 ---
 title: "Protecting Legacy Assets with Private Credit"
+slug: "protecting-legacy-assets-with-private-credit"
 description: "A strategic exploration of private credit and asset based liquidity engineering as liquidity instruments for safeguarding multi generational wealth."
 date: "2025-07-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/protecting-legacy-assets-with-private-credit/"
+meta_title: "Protecting Legacy Assets with Private Credit"
+meta_description: "A strategic exploration of private credit and asset based liquidity engineering as liquidity instruments for safeguarding multi generational wealth."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "protecting-legacy-assets-with-private-credit"
 ---
+
 ## Private Credit as a Custodial Instrument, Not a Speculative One
 
 Private credit, when structured with institutional precision, functions as a custodial mechanism for legacy assets. It is not a speculative tool. It is not a directional bet on market movements. It is a disciplined framework for liquidity extraction that preserves the integrity of multi-generational wealth.

@@ -1,9 +1,16 @@
 ---
 title: "Covenant Stewardship: The Hylten Legacy Of Industr"
+slug: "covenant-stewardship-the-hylten-legacy-of-industr"
 description: "Covenant Stewardship: The Hylten Legacy Of Industr"
 date: "2026-02-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/covenant-stewardship-the-hylten-legacy-of-industr/"
+meta_title: "Covenant Stewardship: The Hylten Legacy Of Industr"
+meta_description: "Covenant Stewardship: The Hylten Legacy Of Industr"
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "covenant-stewardship-the-hylten-legacy-of-industr"
 ---
 
 **It rose from covenant. It rose from men who understood that capital is not a possession.**

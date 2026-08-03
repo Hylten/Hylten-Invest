@@ -1,10 +1,18 @@
 ---
 title: "The Sovereign Logic of Multi‑Century Capital"
+slug: "generational-capital-christian-industrial-legacy-multi-century-asset-design"
 description: "A principal brief on Christian industrial legacy, generational design authority, and the architecture of enduring capital across centuries."
 date: "2025-12-12"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/generational-capital-christian-industrial-legacy-multi-century-asset-design/"
+meta_title: "The Sovereign Logic of Multi‑Century Capital"
+meta_description: "A principal brief on Christian industrial legacy, generational design authority, and the architecture of enduring capital across centuries."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "generational-capital-christian-industrial-legacy-multi-century-asset-design"
 ---
+
 ## Legacy does not emerge
 
 Legacy is built. Not in a single act of vision, nor in the fleeting applause of contemporaries, but in the quiet accumulation of disciplined decisions. Line by line. Forge by forge. Covenant by covenant. The Swedish industrial fathers understood this with a clarity that modern finance has largely forgotten. Theirs was not a spirit of improvisation, but of ordered creation - discipline made visible in steel, in machinery, in the unbroken chain of value that stretches across generations.

@@ -1,9 +1,16 @@
 ---
 title: "Moral Authority in Private Wealth Stewardship"
+slug: "moral-authority-private-wealth-stewardship"
 description: "Institutional analysis of moral authority, generational capital, Christian industrial legacy, and private wealth stewardship within modern liquidity regimes."
 date: "2026-02-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/moral-authority-private-wealth-stewardship/"
+meta_title: "Moral Authority in Private Wealth Stewardship"
+meta_description: "Institutional analysis of moral authority, generational capital, Christian industrial legacy, and private wealth stewardship within modern liquidity regimes."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "moral-authority-private-wealth-stewardship"
 ---
 
 **Moral authority in private wealth stewardship emerges only where capital formation aligns with conviction. It is not inherited automatically. It is not acquired through scale. It is not manufactured through strategy decks.**

@@ -1,10 +1,18 @@
 ---
 title: "The Steward’s Edge: Behavioral Finance for Principled Decision-Making"
+slug: "stewards-edge-behavioral-finance-principled-decision-making"
 description: "A deep architectural analysis of stewardship psychology, Christian industrial legacy, and the behavioral foundations of moral capital formation within the Hylten-Invest lineage."
 date: "2026-03-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewards-edge-behavioral-finance-principled-decision-making/"
+meta_title: "The Steward’s Edge: Behavioral Finance for Principled Decision-Making"
+meta_description: "A deep architectural analysis of stewardship psychology, Christian industrial legacy, and the behavioral foundations of moral capital formation within the Hylten-Invest lineage."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewards-edge-behavioral-finance-principled-decision-making"
 ---
+
 ## The steward understands this truth long before the market does
 
 Markets oscillate. Sentiment drifts. Narratives seduce. But character endures. The industrial families of Europe did not build multi-generational enterprises on the shifting sands of emotion. They built on bedrock - the quiet conviction that capital is not merely deployed but cultivated. This is the essence of stewardship: the recognition that financial decisions are moral acts, and that moral acts require psychological discipline.

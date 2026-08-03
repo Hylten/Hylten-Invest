@@ -1,10 +1,18 @@
 ---
 title: "Long-Term Stewardship of Institutional GP Capital"
+slug: "long-term-stewardship-of-institutional-gp-capital"
 description: "A strategic exploration of long-term liquidity, private credit, and asset based liquidity engineering solutions for HNWI and UHNW investors."
 date: "2025-11-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/long-term-stewardship-of-institutional-gp-capital/"
+meta_title: "Long-Term Stewardship of Institutional GP Capital"
+meta_description: "A strategic exploration of long-term liquidity, private credit, and asset based liquidity engineering solutions for HNWI and UHNW investors."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "long-term-stewardship-of-institutional-gp-capital"
 ---
+
 ## The Nature of Institutional GP Capital
 
 General Partner capital is not merely an allocation. It is the structural spine of institutional funds. It absorbs first loss, aligns incentives, and endures through cycles. This capital does not behave like public equity or traded debt. It is patient by design, yet it must never become brittle. The long-term steward recognizes that GP capital is not an asset to be optimized for yield. It is an obligation to stability. It is a covenant with co-investors, limited partners, and the multi-generational compounding mandates it supports.

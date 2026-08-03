@@ -1,10 +1,18 @@
 ---
 title: "The Ethical Authority Premium in Modern Capital Formation"
+slug: "ethical-authority-premium-private-equity"
 description: "An institutional brief on how moral authority, covenantal stewardship, and industrial heritage now command premium positioning in private equity fundraising."
 date: "2025-12-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/ethical-authority-premium-private-equity/"
+meta_title: "The Ethical Authority Premium in Modern Capital Formation"
+meta_description: "An institutional brief on how moral authority, covenantal stewardship, and industrial heritage now command premium positioning in private equity fundraising."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "ethical-authority-premium-private-equity"
 ---
+
 ## Ethical Authority Rises - The Silent Reordering of Capital Gravity
 
 Markets sense it. Investors follow it. Moral clarity becomes capital gravity.

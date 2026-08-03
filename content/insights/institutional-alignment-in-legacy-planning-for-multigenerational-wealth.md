@@ -1,10 +1,18 @@
 ---
 title: "Institutional Alignment in Legacy Planning for Multi‑Generational Wealth"
+slug: "institutional-alignment-in-legacy-planning-for-multigenerational-wealth"
 description: "A high-level exploration of institutional alignment and liquidity architecture in legacy planning, with emphasis on private credit and asset based liquidity engineering."
 date: "2025-08-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/institutional-alignment-in-legacy-planning-for-multigenerational-wealth/"
+meta_title: "Institutional Alignment in Legacy Planning for Multi‑Generational Wealth"
+meta_description: "A high-level exploration of institutional alignment and liquidity architecture in legacy planning, with emphasis on private credit and asset based liquidity engineering."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "institutional-alignment-in-legacy-planning-for-multigenerational-wealth"
 ---
+
 ## The Challenge Is Preserving Coherence
 
 Modern wealth environments do not merely create opportunities. They create fragmentation. Asset classes proliferate across public and private markets. Ownership structures span jurisdictions, each with distinct regulatory and tax implications. Family governance evolves from centralized control to distributed decision-making across branches and generations. The result is not merely complexity, but entropy - a gradual dispersion of capital, intent, and control.

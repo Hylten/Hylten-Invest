@@ -1,10 +1,18 @@
 ---
 title: "The Return of Moral Authority in Capital Allocation"
+slug: "revival-of-stewardship-capital"
 description: "Institutional allocators are re-weighting moral authority, steward leadership, and Christian industrial heritage as core signals of durability and long-horizon capital efficiency."
 date: "2025-12-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/revival-of-stewardship-capital/"
+meta_title: "The Return of Moral Authority in Capital Allocation"
+meta_description: "Institutional allocators are re-weighting moral authority, steward leadership, and Christian industrial heritage as core signals of durability and long-horizon capital efficiency."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "revival-of-stewardship-capital"
 ---
+
 ## The Pivot Is Quiet. But Decisive.
 
 Institutional allocators are realigning their frameworks. Not toward ephemeral trends or speculative narratives, but toward the bedrock of moral authority in capital allocation. This is not a fleeting adjustment. It is a structural recalibration, one that recognizes the enduring value of stewardship, covenantal leadership, and the quiet discipline of industrial heritage. The shift is measured, deliberate, and rooted in the understanding that durability in capital efficiency is not achieved through leverage or opportunism, but through coherence, accountability, and an unwavering commitment to principle.

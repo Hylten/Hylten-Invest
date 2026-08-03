@@ -1,10 +1,18 @@
 ---
 title: "The Cultural Covenant as Capital Architecture"
+slug: "cultural-covenant-investing"
 description: "How shared belief systems reduce friction, compress transaction costs, and anchor morally durable investment structures across generations."
 date: "2025-08-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/cultural-covenant-investing/"
+meta_title: "The Cultural Covenant as Capital Architecture"
+meta_description: "How shared belief systems reduce friction, compress transaction costs, and anchor morally durable investment structures across generations."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "cultural-covenant-investing"
 ---
+
 ## The Moral Cost Center Dissolves
 
 Transaction costs are not merely financial. They are moral. Every contract signed, every compliance layer added, every audit conducted carries the weight of distrust. The modern institutional landscape treats this friction as inevitable - a necessary toll on the road to capital efficiency. But what if the tollbooth itself is the inefficiency? What if the most potent cost-reduction mechanism is not legal engineering but cultural covenant?

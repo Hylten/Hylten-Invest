@@ -1,10 +1,18 @@
 ---
 title: "Navigating Wealth Preservation in the Digital Age"
+slug: "navigating-wealth-preservation-in-the-digital-age"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking long term preservation in a digital era."
 date: "2025-10-31"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/navigating-wealth-preservation-in-the-digital-age/"
+meta_title: "Navigating Wealth Preservation in the Digital Age"
+meta_description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking long term preservation in a digital era."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "navigating-wealth-preservation-in-the-digital-age"
 ---
+
 ## Stewardship in the Digital Age - A Covenant of Precision and Patience
 
 This is where conservative architecture matters. This is where principal authority matters. And this is where the mechanical depth of private credit and asset-based monetization architecture becomes essential for those who prefer longevity over noise.

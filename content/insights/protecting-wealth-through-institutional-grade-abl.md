@@ -1,10 +1,18 @@
 ---
 title: "Protecting Wealth Through Institutional Grade Asset-Based Lending"
+slug: "protecting-wealth-through-institutional-grade-abl"
 description: "A strategic overview of how High Net Worth investors preserve liquidity and stability through institutional grade asset based liquidity engineering and private credit structures."
 date: "2026-03-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/protecting-wealth-through-institutional-grade-abl/"
+meta_title: "Protecting Wealth Through Institutional Grade Asset-Based Lending"
+meta_description: "A strategic overview of how High Net Worth investors preserve liquidity and stability through institutional grade asset based liquidity engineering and private credit structures."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "protecting-wealth-through-institutional-grade-abl"
 ---
+
 ## The Architecture of Stability: Institutional Grade Asset-Based Lending in Wealth Preservation
 
 Stability is not a passive state. It is an engineered outcome, achieved through disciplined capital structuring and the deliberate alignment of liquidity with long-term objectives. For families and institutions whose balance sheets span generations, the preservation of wealth demands more than diversification - it requires a framework that transforms assets into resilient, responsive capital. Institutional Grade Asset-Based Lending provides this architecture. It is not a tactical maneuver but a strategic layering of liquidity that protects core holdings while enabling opportunity.

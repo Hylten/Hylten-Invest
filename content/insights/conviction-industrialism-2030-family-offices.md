@@ -1,10 +1,18 @@
 ---
 title: "Conviction Industrialism and the Return of Moral Capital"
-description: "A principal-level briefing on the resurgence of conviction-driven industrial investment as the defining thesis for 2030-oriented family offices rooted in Christian stewardship, European industrial heritage, and multi-generational responsibility."
-date: "2025-08-26"
-author: "Jonas Hyltén"
 slug: "conviction-industrialism-2030-family-offices"
+description: "A principal-level briefing on the resurgence of conviction-driven industrial investment as the defining thesis for 2030-oriented family offices rooted in Christian stewardship, European industrial heritage, and multi-…"
+date: "2025-08-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/conviction-industrialism-2030-family-offices/"
+meta_title: "Conviction Industrialism and the Return of Moral Capital"
+meta_description: "A principal-level briefing on the resurgence of conviction-driven industrial investment as the defining thesis for 2030-oriented family offices rooted in Christian stewardship, European industrial heritage, and multi-…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The Covenant of Capital
 
 Conviction is capital. Conviction is inheritance. Conviction is architecture. The industry forgot this - not by accident, but by design. The financial complex of the past three decades was built on a fundamental misprision: that capital could be abstracted from its moral and material foundations without consequence. The result was predictable. Asset prices became untethered from productive reality. Risk models grew ever more elaborate, even as they grew ever more detached from the actual risks of enterprise. And capital itself, once understood as a sacred trust, was reduced to a commodity - traded, sliced, diced, and arbitraged into oblivion.

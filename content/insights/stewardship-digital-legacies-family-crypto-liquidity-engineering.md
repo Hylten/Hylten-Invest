@@ -1,10 +1,18 @@
 ---
 title: "Stewardship Architecture for Digital Legacies in Family Crypto Holdings"
+slug: "stewardship-digital-legacies-family-crypto-liquidity-engineering"
 description: "Institutional brief on liquidity engineering, succession structuring, asset hardening, and multi‑jurisdictional stewardship frameworks for long‑horizon family crypto holdings under a Christian-industrial legacy mandate."
 date: "2026-01-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-digital-legacies-family-crypto-liquidity-engineering/"
+meta_title: "Stewardship Architecture for Digital Legacies in Family Crypto Holdings"
+meta_description: "Institutional brief on liquidity engineering, succession structuring, asset hardening, and multi‑jurisdictional stewardship frameworks for long‑horizon family crypto holdings under a Christian-industrial legacy mandate."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén - Hylten-Invest"
-slug: "stewardship-digital-legacies-family-crypto-liquidity-engineering"
 ---
+
 ## Institutional Liquidity Paths - The Covenant of Cash Flow
 
 Order demands liquidity. Liquidity demands structure. Family crypto holdings must not be liquidated to meet obligations - they must be engineered to generate obligations they can meet. The distinction is not semantic. It is existential. A liquidity path is not a trading strategy. It is a covenantal cash flow architecture designed to outlast the founder and fund the next generation’s stewardship without erosion of principal. This is not financial engineering. It is legacy engineering.

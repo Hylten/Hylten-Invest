@@ -1,10 +1,18 @@
 ---
 title: "The Future of Legacy: Stewardship via AI and Asset Based liquidity engineering"
+slug: "the-future-of-legacy-stewardship-via-ai-and-asset-based-liquidity-engineering"
 description: "High net worth liquidity solutions built on private credit, asset based Institutional Liquidity Paths, and AI enabled stewardship."
 date: "2025-11-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-future-of-legacy-stewardship-via-ai-and-asset-based-liquidity-engineering/"
+meta_title: "The Future of Legacy: Stewardship via AI and Asset Based liquidity engineering"
+meta_description: "High net worth liquidity solutions built on private credit, asset based Institutional Liquidity Paths, and AI enabled stewardship."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-future-of-legacy-stewardship-via-ai-and-asset-based-liquidity-engineering"
 ---
+
 ## The Future of Legacy is Engineered, Not Inherited
 
 Legacy is not a relic. It is not a static accumulation of wealth passed through generations like a sealed vault. True legacy is a living system - a dynamic equilibrium of capital, control, and continuity that must be actively engineered in an era of unprecedented complexity. The families that endure do not rely on chance. They rely on systems that protect capital, preserve optionality, and maintain principal authority in a world that grows more complex each year. This is not about prediction. It is about preparation. Not about speculation, but structural resilience.

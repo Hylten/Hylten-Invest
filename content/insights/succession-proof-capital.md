@@ -1,10 +1,18 @@
 ---
 title: "Succession‑Proof Capital"
+slug: "succession-proof-capital"
 description: "A principled architectural analysis of multi‑generational enterprise stewardship, values preservation, and covenantal capital design."
 date: "2025-10-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/succession-proof-capital/"
+meta_title: "Succession‑Proof Capital"
+meta_description: "A principled architectural analysis of multi‑generational enterprise stewardship, values preservation, and covenantal capital design."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "succession-proof-capital"
 ---
+
 ## A House Endures Only When Its Foundations Are Set in Stone
 
 The enterprise that hopes to endure beyond its founders must anchor its structure in something deeper than personality, ambition, or quarterly incentives. These are the shifting sands of fortune. True capital preservation demands a covenantal architecture - one that binds generations not by sentiment, but by design. This is the quiet discipline of succession-proof capital.

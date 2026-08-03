@@ -1,10 +1,18 @@
 ---
 title: "Family Office Legacy Allocation"
+slug: "family-office-legacy-allocation"
 description: "Insights on Family Office Legacy Allocation from Roials Capital and Hyltén Invest."
 date: "2025-12-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/family-office-legacy-allocation/"
+meta_title: "Family Office Legacy Allocation"
+meta_description: "Insights on Family Office Legacy Allocation from Roials Capital and Hyltén Invest."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "family-office-legacy-allocation"
 ---
+
 ## Understanding Legacy Allocation
 
 Legacy allocation is the strategic distribution of capital with the intention of securing a family’s influence, wealth, and values far into the future. It is not only about returns. It is about continuity. It is about identity. It is about the preservation of optionality for generations that will one day inherit responsibility they did not choose, yet must be prepared to steward.

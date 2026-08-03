@@ -1,10 +1,18 @@
 ---
 title: "The Covenant Architecture of Faith‑Aligned Capital Deployment"
+slug: "faith-aligned-capital-deployment-ultra-concentrated-portfolios"
 description: "A principal‑level briefing on generational stewardship, ultra‑concentrated portfolios, and the theology of capital within a disciplined industrial lineage."
 date: "2025-07-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/faith-aligned-capital-deployment-ultra-concentrated-portfolios/"
+meta_title: "The Covenant Architecture of Faith‑Aligned Capital Deployment"
+meta_description: "A principal‑level briefing on generational stewardship, ultra‑concentrated portfolios, and the theology of capital within a disciplined industrial lineage."
+featured_image: ""
+draft: false
 author: "Hylten‑Invest"
-slug: "faith-aligned-capital-deployment-ultra-concentrated-portfolios"
 ---
+
 ## The structure must stand before the capital flows
 
 That is the law. Every true architecture begins with moral authority, not financial appetite. Ultra-concentrated portfolios demand precisely that - moral authority. Anything else collapses under its own leverage, not from market forces, but from the weight of unexamined purpose. The modern investment landscape treats concentration as a statistical anomaly, a deviation from the mean-variance orthodoxy. This is a fundamental misreading. Concentration is not a risk management failure. It is a governance triumph - the visible manifestation of a covenantal framework that has already passed judgment on what is worthy of capital.

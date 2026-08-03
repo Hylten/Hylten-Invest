@@ -1,10 +1,18 @@
 ---
 title: "From Gnosjö to Global: The Sovereign Logic of Micro‑Cluster Economies"
+slug: "gnosjo-micro-cluster-sovereign-architecture"
 description: "A principal-level architectural briefing on how covenant-based micro‑clusters generate durable competitive moats, industrial resilience, and multigenerational capital foundations."
 date: "2025-12-02"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/gnosjo-micro-cluster-sovereign-architecture/"
+meta_title: "From Gnosjö to Global: The Sovereign Logic of Micro‑Cluster Economies"
+meta_description: "A principal-level architectural briefing on how covenant-based micro‑clusters generate durable competitive moats, industrial resilience, and multigenerational capital foundations."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "gnosjo-micro-cluster-sovereign-architecture"
 ---
+
 ## The Covenant as Industrial Operating System
 
 The workshop is not a metaphor. It is the first unit of sovereignty. In Gnosjö, the average enterprise employs fewer than ten souls. Yet these workshops do not compete as isolated atoms. They cohere into a lattice of mutual obligation that behaves like a single organism. The covenant is not sentimental. It is a distributed ledger of trust, enforced by reputation, sanctified by shared liturgy, and hardened by generations of intermarriage. A breach is not a breach of contract. It is a breach of kinship.

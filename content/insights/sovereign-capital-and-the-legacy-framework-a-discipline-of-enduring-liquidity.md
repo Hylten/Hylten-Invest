@@ -1,10 +1,18 @@
 ---
 title: "Sovereign Capital and the Legacy Framework: A Discipline of Enduring Liquidity"
+slug: "sovereign-capital-and-the-legacy-framework-a-discipline-of-enduring-liquidity"
 description: "A high‑end exploration of sovereign capital structures, private credit, and asset based liquidity engineering for long‑term liquidity management."
 date: "2025-07-31"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/sovereign-capital-and-the-legacy-framework-a-discipline-of-enduring-liquidity/"
+meta_title: "Sovereign Capital and the Legacy Framework: A Discipline of Enduring Liquidity"
+meta_description: "A high‑end exploration of sovereign capital structures, private credit, and asset based liquidity engineering for long‑term liquidity management."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "sovereign-capital-and-the-legacy-framework-a-discipline-of-enduring-liquidity"
 ---
+
 ## The Nature of Sovereign Capital
 
 Sovereign capital is not merely large capital. It is capital governed by a distinct philosophy of permanence. It operates within a framework where liquidity is not an afterthought but a premeditated construct, engineered to endure across generations. This is not the capital of quarterly performance reviews or speculative momentum. It is capital that moves with deliberate restraint, where every decision is measured against a multi-decade horizon.

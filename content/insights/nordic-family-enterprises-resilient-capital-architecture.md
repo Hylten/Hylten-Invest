@@ -1,10 +1,18 @@
 ---
 title: "Nordic Family Enterprises and the Sovereign Logic of Low‑Leverage Capital"
+slug: "nordic-family-enterprises-resilient-capital-architecture"
 description: "A Principal‑level briefing on how Nordic industrial families engineered durable, multi‑generational capital structures built on stewardship, covenantal duty, and the Protestant ethic of value creation."
 date: "2025-10-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/nordic-family-enterprises-resilient-capital-architecture/"
+meta_title: "Nordic Family Enterprises and the Sovereign Logic of Low‑Leverage Capital"
+meta_description: "A Principal‑level briefing on how Nordic industrial families engineered durable, multi‑generational capital structures built on stewardship, covenantal duty, and the Protestant ethic of value creation."
+featured_image: ""
+draft: false
 author: "Hylten‑Invest"
-slug: "nordic-family-enterprises-resilient-capital-architecture"
 ---
+
 ## The Nordic Covenant of Capital: A Principal’s Framework
 
 The Nordic family enterprise behaves differently because it thinks differently. It is not chasing returns. It is constructing inheritance. Industrial lineage forged through covenantal responsibility, not speculation. A structure that stands because the men who built it saw capital as a trust - never as a thrill.

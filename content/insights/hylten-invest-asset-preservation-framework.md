@@ -1,9 +1,16 @@
 ---
 title: "The Hylten Invest Approach to Asset Preservation: A Framework for Generational Capital Stewardship"
+slug: "hylten-invest-asset-preservation-framework"
 description: "Institutional doctrine for long-horizon asset preservation, liquidity hardening, jurisdictional structuring, and generational capital stewardship within the Hylten-Invest mandate."
 date: "2026-01-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/hylten-invest-asset-preservation-framework/"
+meta_title: "The Hylten Invest Approach to Asset Preservation: A Framework for Generational Capital Stewardship"
+meta_description: "Institutional doctrine for long-horizon asset preservation, liquidity hardening, jurisdictional structuring, and generational capital stewardship within the Hylten-Invest mandate."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "hylten-invest-asset-preservation-framework"
 ---
 
 ## The architecture of generational capital does not emerge through accumulation alone

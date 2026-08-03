@@ -1,10 +1,18 @@
 ---
 title: "Stewardship Under Scrutiny: The Hylten Model For F"
+slug: "stewardship-under-scrutiny-the-hylten-model-for-f"
 description: "Stewardship Under Scrutiny: The Hylten Model For F"
 date: "2026-02-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-under-scrutiny-the-hylten-model-for-f/"
+meta_title: "Stewardship Under Scrutiny: The Hylten Model For F"
+meta_description: "Stewardship Under Scrutiny: The Hylten Model For F"
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewardship-under-scrutiny-the-hylten-model-for-f"
 ---
+
 ## The Moral Infrastructure of Capital
 Christian stewardship is not a metaphor. It is a covenant. A family that carries assets across generations carries far more than a balance sheet. It carries testimony. The weight of inherited responsibility is not measured in basis points or net worth statements. It is measured in the fidelity of transmission. The Hylten Model asserts that wealth becomes legitimate only when it is governed through ordered responsibility. This responsibility is not an abstract ideal. It is a structural necessity.
 

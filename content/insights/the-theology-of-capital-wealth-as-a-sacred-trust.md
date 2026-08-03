@@ -1,10 +1,18 @@
 ---
 title: "The Theology Of Capital: Wealth As A Sacred Trust"
+slug: "the-theology-of-capital-wealth-as-a-sacred-trust"
 description: "The Theology Of Capital: Wealth As A Sacred Trust"
 date: "2025-11-21"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-theology-of-capital-wealth-as-a-sacred-trust/"
+meta_title: "The Theology Of Capital: Wealth As A Sacred Trust"
+meta_description: "The Theology Of Capital: Wealth As A Sacred Trust"
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-theology-of-capital-wealth-as-a-sacred-trust"
 ---
+
 ## The Theology Of Capital: Wealth As A Sacred Trust
 
 A covenant. A responsibility placed on selected stewards across generations. This is the theological premise that governs the architecture of institutional capital. Not sentiment. Not fashion. Not public concessions masquerading as virtue. Only stewardship. Only mandate. Only responsibility before God and before one’s descendants.

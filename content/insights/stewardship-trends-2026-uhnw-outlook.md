@@ -1,10 +1,18 @@
 ---
 title: "Stewardship Trends for 2026: The UHNW Outlook and the Reemergence of Moral Capital"
+slug: "stewardship-trends-2026-uhnw-outlook"
 description: "An institutional analysis of 2026’s stewardship regime shift, focusing on generational capital, Nordic industrial ethics, and the structural recalibration of UHNW decision making."
 date: "2025-11-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-trends-2026-uhnw-outlook/"
+meta_title: "Stewardship Trends for 2026: The UHNW Outlook and the Reemergence of Moral Capital"
+meta_description: "An institutional analysis of 2026’s stewardship regime shift, focusing on generational capital, Nordic industrial ethics, and the structural recalibration of UHNW decision making."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewardship-trends-2026-uhnw-outlook"
 ---
+
 ## The Structural Recalibration of UHNW Decision Making
 
 The capital vacuum in North America’s core energy basins is the predictable outcome of a decade of misaligned incentives. Yet the more influential transition in 2026 is occurring within the allocator class itself. A new ultra-high-net-worth decision-making regime is emerging, defined not by the pursuit of yield but by the reassertion of stewardship as a primary governance discipline. This shift is neither sentimental nor ideological. It is the product of structural failure in capital cycles, the exhaustion of extractive finance models, and the recognition that generational wealth cannot rely on speculative liquidity.

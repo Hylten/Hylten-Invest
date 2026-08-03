@@ -1,10 +1,18 @@
 ---
 title: "The Covenant Logic of Capital"
+slug: "covenant-logic-of-capital"
 description: "A principal brief on faith‑aligned allocation, generational authority, and sovereign capital formation for UHNW families seeking values‑based outperformance."
 date: "2025-12-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/covenant-logic-of-capital/"
+meta_title: "The Covenant Logic of Capital"
+meta_description: "A principal brief on faith‑aligned allocation, generational authority, and sovereign capital formation for UHNW families seeking values‑based outperformance."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "covenant-logic-of-capital"
 ---
+
 ## The Moral Architecture of Capital
 
 Capital moves with conviction. Conviction arises from creed. Creed shapes allocation. That is the hierarchy - immutable, unyielding. Ultra-high-net-worth families who anchor their decisions in faith do not search for trends. They search for alignment. Not the fleeting alignment of quarterly earnings beats or thematic investing fads, but the deep structural alignment of moral purpose, economic reality, and generational continuity.

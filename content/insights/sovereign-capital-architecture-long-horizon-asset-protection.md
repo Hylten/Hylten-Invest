@@ -1,10 +1,18 @@
 ---
 title: "Sovereign Capital Architecture and the Long Horizon Protection of Assets"
-description: "An institutional briefing on the structural discipline of sovereign capital architecture, the stewardship mandate, and long-horizon asset protection frameworks as applied to generational capital, private industrial wealth, and energy anchored hard-asset portfolios."
-date: "2026-02-10"
-author: "Jonas Hyltén"
 slug: "sovereign-capital-architecture-long-horizon-asset-protection"
+description: "An institutional briefing on the structural discipline of sovereign capital architecture, the stewardship mandate, and long-horizon asset protection frameworks as applied to generational capital, private industrial we…"
+date: "2026-02-10"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/sovereign-capital-architecture-long-horizon-asset-protection/"
+meta_title: "Sovereign Capital Architecture and the Long Horizon Protection of Assets"
+meta_description: "An institutional briefing on the structural discipline of sovereign capital architecture, the stewardship mandate, and long-horizon asset protection frameworks as applied to generational capital, private industrial we…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The Regime Shift
 
 The global capital regime entered a transition period between 2020 and 2025. This transition is not cyclical. It is structural - a reordering of the foundational assumptions that governed capital allocation for the past four decades. The shift is not merely a response to monetary policy or geopolitical tension but a deeper realignment of how capital interacts with time, sovereignty, and physical reality.

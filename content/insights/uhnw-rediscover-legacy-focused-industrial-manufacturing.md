@@ -1,10 +1,18 @@
 ---
 title: "The Return to Covenant Industry Among the Sovereign Class"
+slug: "uhnw-rediscover-legacy-focused-industrial-manufacturing"
 description: "UHNW families are turning back to real-asset manufacturing, covenant stewardship, and industrial permanence as the only credible path to multi‑generational capital continuity."
 date: "2025-12-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/uhnw-rediscover-legacy-focused-industrial-manufacturing/"
+meta_title: "The Return to Covenant Industry Among the Sovereign Class"
+meta_description: "UHNW families are turning back to real-asset manufacturing, covenant stewardship, and industrial permanence as the only credible path to multi‑generational capital continuity."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "uhnw-rediscover-legacy-focused-industrial-manufacturing"
 ---
+
 ## The Moral Architecture of Industrial Capital
 
 Industrial capital is returning to its rightful custodians. The migration is not cyclical but covenantal. Families who once wandered into abstraction now move back toward steel, timber, precision tooling, and the measurable dignity of production. The shift is moral, not fashionable. It is a reassertion of dominion through service, a quiet rejection of financial theater in favor of assets that breathe, endure, and demand discipline.

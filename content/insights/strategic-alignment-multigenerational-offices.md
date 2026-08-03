@@ -1,10 +1,18 @@
 ---
 title: "Strategic Alignment for Multi‑Generational Offices"
+slug: "strategic-alignment-multigenerational-offices"
 description: "Institutional brief on stewardship architecture, capital theology, and multi‑generational alignment for long‑duration family enterprises."
 date: "2025-06-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/strategic-alignment-multigenerational-offices/"
+meta_title: "Strategic Alignment for Multi‑Generational Offices"
+meta_description: "Institutional brief on stewardship architecture, capital theology, and multi‑generational alignment for long‑duration family enterprises."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "strategic-alignment-multigenerational-offices"
 ---
+
 ## Multi-Generational Offices Do Not Fail From Scarcity
 
 They fail from drift.

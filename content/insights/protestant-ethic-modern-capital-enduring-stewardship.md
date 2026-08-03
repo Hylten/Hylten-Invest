@@ -1,10 +1,18 @@
 ---
 title: "The Protestant Ethic and the Architecture of Enduring Capital"
+slug: "protestant-ethic-modern-capital-enduring-stewardship"
 description: "A principal-level brief on why discipline, work, and covenantal stewardship outperform financial engineering in every generation."
 date: "2025-12-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/protestant-ethic-modern-capital-enduring-stewardship/"
+meta_title: "The Protestant Ethic and the Architecture of Enduring Capital"
+meta_description: "A principal-level brief on why discipline, work, and covenantal stewardship outperform financial engineering in every generation."
+featured_image: ""
+draft: false
 author: "Hylten‑Invest"
-slug: "protestant-ethic-modern-capital-enduring-stewardship"
 ---
+
 ## The Moral Foundation of Capital
 
 Hard work compounds. Financial engineering decays. This is not conjecture - it is the empirical record of industrial history. The great manufacturing dynasties of the 19th and 20th centuries understood this divide with crystalline clarity. They built physical infrastructure, not financial abstractions. Their capital was forged in blast furnaces and machine shops, not trading algorithms. This distinction matters because it reveals the true nature of enduring wealth: it must be earned through contribution, not extracted through cleverness.

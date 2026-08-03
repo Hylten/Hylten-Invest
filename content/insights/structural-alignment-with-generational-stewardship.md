@@ -1,9 +1,16 @@
 ---
 title: "Structural Alignment With Generational Stewardship"
+slug: "structural-alignment-with-generational-stewardship"
 description: "How family enterprises align ownership architecture, capital discipline, and governance continuity to preserve wealth across generations. An institutional briefing on structural endurance."
 date: "2026-03-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/structural-alignment-with-generational-stewardship/"
+meta_title: "Structural Alignment With Generational Stewardship"
+meta_description: "How family enterprises align ownership architecture, capital discipline, and governance continuity to preserve wealth across generations. An institutional briefing on structural endurance."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "structural-alignment-with-generational-stewardship"
 ---
 
 The first law of capital is not growth. It is endurance. Wealth that cannot outlast the hands that steward it is not wealth at all - only a temporary arrangement of assets awaiting fragmentation. The families who preserve their capital across generations do not rely on luck, nor on the exceptional competence of any single generation. They rely on structures - legal, financial, and moral - that are intentionally designed to survive the passage of time, the erosion of memory, and the inevitable turnover of decision-makers.

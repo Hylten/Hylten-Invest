@@ -1,10 +1,18 @@
 ---
 title: "The Future of Legacy: Bridging Multi-Generational Wisdom with Digital Capital"
+slug: "the-future-of-legacy-bridging-multi-generational-wisdom-with-digital-capital"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth management."
 date: "2026-02-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-future-of-legacy-bridging-multi-generational-wisdom-with-digital-capital/"
+meta_title: "The Future of Legacy: Bridging Multi-Generational Wisdom with Digital Capital"
+meta_description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth management."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-future-of-legacy-bridging-multi-generational-wisdom-with-digital-capital"
 ---
+
 ## The Silent Architecture of Multi-Generational Stewardship
 
 Legacy is not preserved by accident. It is engineered through structures that endure beyond market cycles, regulatory shifts, and generational transitions. The modern challenge lies not in the accumulation of capital but in its disciplined transmission - a process that demands both philosophical clarity and technical precision. Families who think in generations do not view wealth as a static store of value but as a dynamic system requiring continuous calibration. This calibration must account for liquidity needs, risk parameters, and the preservation of strategic control without compromising the integrity of long-term holdings.

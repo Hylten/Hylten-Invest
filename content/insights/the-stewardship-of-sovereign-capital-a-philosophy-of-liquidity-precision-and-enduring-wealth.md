@@ -1,10 +1,18 @@
 ---
 title: "The Stewardship of Sovereign Capital: A Philosophy of Liquidity, Precision, and Enduring Wealth"
+slug: "the-stewardship-of-sovereign-capital-a-philosophy-of-liquidity-precision-and-enduring-wealth"
 description: "A high‑end exploration of liquidity architecture, private credit, and asset‑based liquidity engineering for HNWI and UHNW clients seeking long‑term capital stewardship."
 date: "2025-10-19"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-stewardship-of-sovereign-capital-a-philosophy-of-liquidity-precision-and-enduring-wealth/"
+meta_title: "The Stewardship of Sovereign Capital: A Philosophy of Liquidity, Precision, and Enduring Wealth"
+meta_description: "A high‑end exploration of liquidity architecture, private credit, and asset‑based liquidity engineering for HNWI and UHNW clients seeking long‑term capital stewardship."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-stewardship-of-sovereign-capital-a-philosophy-of-liquidity-precision-and-enduring-wealth"
 ---
+
 ## The Structural Role of Private Credit
 
 Private credit is no longer a peripheral asset class. It has matured into one of the core pillars of modern wealth architecture for those with multi-generational planning horizons. The evolution of this discipline reflects a broader shift in capital stewardship - from transient returns to enduring stability. For high-net-worth and ultra-high-net-worth families, the attraction operates on two fundamental axes.

@@ -1,10 +1,18 @@
 ---
 title: "Stewardship Alpha and the Rise of Moral Authority in Private Markets"
+slug: "stewardship-alpha-moral-authority-private-markets"
 description: "Moral authority as a due‑diligence differentiator rooted in Christian industrial heritage, covenantal stewardship, and generational capital formation."
 date: "2026-02-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-alpha-moral-authority-private-markets/"
+meta_title: "Stewardship Alpha and the Rise of Moral Authority in Private Markets"
+meta_description: "Moral authority as a due‑diligence differentiator rooted in Christian industrial heritage, covenantal stewardship, and generational capital formation."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewardship-alpha-moral-authority-private-markets"
 ---
+
 ## The Structural Shift: Moral Authority as Due-Diligence Differentiator
 
 Value reveals character. Character reveals durability. Durability reveals truth. This sequence is not philosophical abstraction - it is the operational framework now governing private markets. The spreadsheet, once the sole arbiter of opportunity, has been exposed as insufficient. It measures cash flows but not conviction. It quantifies returns but not resilience. It projects scenarios but cannot assess stewardship. The market has recognized this limitation, and the response is not more data but deeper discernment.

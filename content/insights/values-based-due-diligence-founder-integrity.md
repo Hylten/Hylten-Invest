@@ -1,9 +1,16 @@
 ---
 title: "The Sovereign Method: Values‑Based Due Diligence and the Moral Architecture of Founder Integrity"
+slug: "values-based-due-diligence-founder-integrity"
 description: "A principal-level briefing on integrity assessment, covenantal stewardship, and industrial-era moral diagnostics for evaluating founders within free‑enterprise ecosystems."
 date: "2026-02-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/values-based-due-diligence-founder-integrity/"
+meta_title: "The Sovereign Method: Values‑Based Due Diligence and the Moral Architecture of Founder Integrity"
+meta_description: "A principal-level briefing on integrity assessment, covenantal stewardship, and industrial-era moral diagnostics for evaluating founders within free‑enterprise ecosystems."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "values-based-due-diligence-founder-integrity"
 ---
 
 **The center of capital is character. Always has been. Always will be. In the industrial corridors where our lineage was forged, no man was trusted until his conduct proved he could be trusted when the steel cooled and the contract grew uncomfortable.**

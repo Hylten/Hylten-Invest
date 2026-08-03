@@ -1,10 +1,18 @@
 ---
 title: "The Moral Balance Sheet"
+slug: "moral-balance-sheet-trust-calling-legacy"
 description: "A principal brief on the quantification of trust, calling, and generational legacy as sovereign financial assets within Christian industrial stewardship."
 date: "2025-07-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/moral-balance-sheet-trust-calling-legacy/"
+meta_title: "The Moral Balance Sheet"
+meta_description: "A principal brief on the quantification of trust, calling, and generational legacy as sovereign financial assets within Christian industrial stewardship."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "moral-balance-sheet-trust-calling-legacy"
 ---
+
 ## Trust as Sovereign Capital
 
 Trust stands first. Non-negotiable. Non-transferable. It behaves like capital, yet exceeds capital in both duration and depth. The market does not merely observe trust - it calibrates to it. Price follows character. Liquidity follows integrity. Partners lean in because they know the covenant holds, not because they read a prospectus.

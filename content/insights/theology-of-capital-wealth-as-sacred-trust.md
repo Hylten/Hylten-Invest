@@ -1,10 +1,18 @@
 ---
 title: "The Theology Of Capital: Wealth As A Sacred Trust"
-description: "An institutional analysis of stewardship, generational capital, and the Spirit of Gnosjö as a governing philosophy for capital formation, industrial responsibility, and strategic resource management across North American energy and European manufacturing."
-date: "2025-10-25"
-author: "Jonas Hyltén"
 slug: "theology-of-capital-wealth-as-sacred-trust"
+description: "An institutional analysis of stewardship, generational capital, and the Spirit of Gnosjö as a governing philosophy for capital formation, industrial responsibility, and strategic resource management across North Ameri…"
+date: "2025-10-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/theology-of-capital-wealth-as-sacred-trust/"
+meta_title: "The Theology Of Capital: Wealth As A Sacred Trust"
+meta_description: "An institutional analysis of stewardship, generational capital, and the Spirit of Gnosjö as a governing philosophy for capital formation, industrial responsibility, and strategic resource management across North Ameri…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The Theology of Capital: Wealth as a Sacred Trust
 
 The capital vacuum in North America’s energy sector reflects a deeper institutional failure rather than any physical limitation of resources. Europe’s constraints are not geological but cultural. The institutions that once treated capital as a sacred vocation now reduce it to a financial mechanism. This transformation may appear subtle, yet its consequences are profound for those managing generational balance sheets. Societies compound only the values they formally codify. When stewardship yields to financial accelerationism, the architecture of wealth erodes over decades, not fiscal quarters.

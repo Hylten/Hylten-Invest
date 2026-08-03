@@ -1,10 +1,18 @@
 ---
 title: "The Forge That Outlives the Founder"
+slug: "generational-capital-christian-industrial-families"
 description: "A principal-level briefing on generational capital formation within Christian industrial lineages, anchored in stewardship, covenantal responsibility, and the sovereign architecture of family enterprise."
 date: "2025-11-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/generational-capital-christian-industrial-families/"
+meta_title: "The Forge That Outlives the Founder"
+meta_description: "A principal-level briefing on generational capital formation within Christian industrial lineages, anchored in stewardship, covenantal responsibility, and the sovereign architecture of family enterprise."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "generational-capital-christian-industrial-families"
 ---
+
 ## Internal Briefing: The Architecture of Endurance
 
 The old forges taught the law. Capital follows character. Discipline precedes scale. These are not metaphors. They are the operating principles of every Christian industrial lineage that has endured beyond the third generation. The modern family office, with its spreadsheets and asset allocations, often forgets this. It mistakes liquidity for stewardship, diversification for wisdom, and financial engineering for true capital formation. The families that built lasting legacies understood something deeper: the enterprise is not a vehicle for wealth, but a vessel for covenant.

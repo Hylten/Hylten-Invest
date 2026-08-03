@@ -1,10 +1,18 @@
 ---
 title: "Capital Migration for Multi Generational Stability: Institutional Structures for Enduring Stewardship"
-description: "A clinical examination of capital migration dynamics, balance sheet fortification, and the structural advantages emerging from North American energy markets for long horizon allocators seeking intergenerational stability through disciplined stewardship frameworks."
-date: "2025-12-22"
-author: "Jonas Hyltén"
 slug: "capital-migration-multi-generational-stability"
+description: "A clinical examination of capital migration dynamics, balance sheet fortification, and the structural advantages emerging from North American energy markets for long horizon allocators seeking intergenerational stabil…"
+date: "2025-12-22"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/capital-migration-multi-generational-stability/"
+meta_title: "Capital Migration for Multi Generational Stability: Institutional Structures for Enduring Stewardship"
+meta_description: "A clinical examination of capital migration dynamics, balance sheet fortification, and the structural advantages emerging from North American energy markets for long horizon allocators seeking intergenerational stabil…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## THE REGIME SHIFT
 
 The post-2020 capital cycle introduced a structural imbalance in the energy sector that transcends conventional market fluctuations. This was not a cyclical downturn but a fundamental reallocation of institutional capital driven by forces orthogonal to economic fundamentals. Western capital providers, particularly those embedded in public markets and regulated financial institutions, executed a near-total pivot toward policy-aligned renewable energy projects. The migration was not predicated on risk-weighted return analysis but on a confluence of reputational calculus, regulatory pressure, and the mispricing of long-duration assets.

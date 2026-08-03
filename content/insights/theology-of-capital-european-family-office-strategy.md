@@ -1,10 +1,18 @@
 ---
 title: "The Theology of Capital and the Return of Moral Authority in European Family Office Strategy"
+slug: "theology-of-capital-european-family-office-strategy"
 description: "A principal-level investigation into faith-rooted investment architecture, stewardship governance, and the rise of moral authority as a competitive asset for European family offices."
 date: "2026-02-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/theology-of-capital-european-family-office-strategy/"
+meta_title: "The Theology of Capital and the Return of Moral Authority in European Family Office Strategy"
+meta_description: "A principal-level investigation into faith-rooted investment architecture, stewardship governance, and the rise of moral authority as a competitive asset for European family offices."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "theology-of-capital-european-family-office-strategy"
 ---
+
 ## The Theology of Capital and the Return of Moral Authority in European Family Office Strategy
 
 Capital carries a spirit. It always has. It always will. Every generation either honors that spirit or corrupts it. The choice is not between faith and finance; it is between stewardship and squandering. Europe forgot this for a time. Secular technocracy pushed faith out of the boardroom. Bureaucracy replaced vocation. Compliance replaced calling. The result was not progress; it was atrophy. Shrinking ambition. Shrinking families. Shrinking industries. But the pendulum swings back. And it swings hard. European family offices - those still guided by memory, lineage, and covenant - are rediscovering what the continent nearly abandoned: capital is not machinery; it is inheritance.

@@ -1,10 +1,18 @@
 ---
 title: "Stewardship Architecture for High Net Worth Private Equity Stakes Across Cycles"
-description: "A clinical institutional briefing on the stewardship mechanics, balance sheet discipline, and generational capital architecture underpinning high net worth private equity holdings. Focus on governance calibration, capital theology, and long-horizon liquidity engineering."
-date: "2025-08-22"
-author: "Jonas Hyltén"
 slug: "stewardship-high-net-worth-private-equity"
+description: "A clinical institutional briefing on the stewardship mechanics, balance sheet discipline, and generational capital architecture underpinning high net worth private equity holdings. Focus on governance calibration, cap…"
+date: "2025-08-22"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-high-net-worth-private-equity/"
+meta_title: "Stewardship Architecture for High Net Worth Private Equity Stakes Across Cycles"
+meta_description: "A clinical institutional briefing on the stewardship mechanics, balance sheet discipline, and generational capital architecture underpinning high net worth private equity holdings. Focus on governance calibration, cap…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## THE REGIME SHIFT
 
 The private equity market no longer behaves like the expansionary cycle that defined 2009 through 2021. The structural signals have shifted in ways that demand recalibration of stewardship frameworks. Capital calls have increased despite slowing realizations. Vintage compression has placed multiple limited partners in liquidity strain. General partner-led secondaries have expanded because traditional exit routes have narrowed. These developments are not symptoms of an impaired asset class - they are signals that the governance architecture behind high net worth allocations must evolve.

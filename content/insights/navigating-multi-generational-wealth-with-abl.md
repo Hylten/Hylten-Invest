@@ -1,10 +1,18 @@
 ---
 title: "Navigating Multi-Generational Wealth with Asset-Based Lending"
+slug: "navigating-multi-generational-wealth-with-abl"
 description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth preservation."
 date: "2025-07-10"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/navigating-multi-generational-wealth-with-abl/"
+meta_title: "Navigating Multi-Generational Wealth with Asset-Based Lending"
+meta_description: "A strategic exploration of liquidity, private credit, and asset based liquidity engineering for multi-generational wealth preservation."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "navigating-multi-generational-wealth-with-abl"
 ---
+
 ## The Stillness of Generational Capital
 
 Multi-generational wealth does not survive by accident. It endures through deliberate architecture - a framework of liquidity, discipline, and structural integrity that allows capital to compound across decades without interruption. The families who maintain their balance sheets through successive generations share a common trait: they treat liquidity as a strategic function, not an operational afterthought. Asset-Based Lending (ABL) sits at the intersection of this philosophy, enabling families to access capital without disrupting the compounding engine at the core of their wealth.

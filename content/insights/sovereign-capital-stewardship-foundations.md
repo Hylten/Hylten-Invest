@@ -1,10 +1,18 @@
 ---
 title: "Sovereign Capital: The Pillar of Stewardship"
-description: "A high density institutional analysis of sovereign capital as a stabilizing force in generational wealth systems, Nordic industrial discipline, and the structural alignment between theology, capital stewardship, and modern energy infrastructure."
-date: "2025-10-18"
-author: "Jonas Hyltén"
 slug: "sovereign-capital-stewardship-foundations"
+description: "A high density institutional analysis of sovereign capital as a stabilizing force in generational wealth systems, Nordic industrial discipline, and the structural alignment between theology, capital stewardship, and m…"
+date: "2025-10-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/sovereign-capital-stewardship-foundations/"
+meta_title: "Sovereign Capital: The Pillar of Stewardship"
+meta_description: "A high density institutional analysis of sovereign capital as a stabilizing force in generational wealth systems, Nordic industrial discipline, and the structural alignment between theology, capital stewardship, and m…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The Structural Gap and the Sovereign Imperative
 
 The current capital cycle does not suffer from a scarcity of liquidity. It suffers from a misallocation of intent. Institutional allocators perceive volatility where generational stewards see opportunity. The distinction lies not in risk tolerance but in temporal orientation. Markets oscillate between fear and greed on quarterly horizons. Sovereign capital operates on generational ones.

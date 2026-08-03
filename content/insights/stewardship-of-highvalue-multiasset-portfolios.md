@@ -1,10 +1,18 @@
 ---
 title: "Stewardship of High‑Value Multi‑Asset Portfolios"
+slug: "stewardship-of-highvalue-multiasset-portfolios"
 description: "A minimalist and conservative framework for liquidity optimization through private credit and asset‑based liquidity engineering for HNWI and UHNW portfolios."
 date: "2025-12-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-of-highvalue-multiasset-portfolios/"
+meta_title: "Stewardship of High‑Value Multi‑Asset Portfolios"
+meta_description: "A minimalist and conservative framework for liquidity optimization through private credit and asset‑based liquidity engineering for HNWI and UHNW portfolios."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewardship-of-highvalue-multiasset-portfolios"
 ---
+
 ## The Nature of High-Value Multi-Asset Stewardship
 
 Stewardship at the upper tiers of wealth is not defined by activity. It is defined by calibration. The distinction is critical. A high-net-worth individual or ultra-high-net-worth family does not measure success in quarterly returns or market timing. Success is measured in the preservation of capital across generations, the quiet accumulation of structural resilience, and the ability to act with precision when opportunity presents itself.

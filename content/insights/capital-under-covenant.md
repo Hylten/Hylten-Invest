@@ -1,10 +1,18 @@
 ---
 title: "Capital Under Covenant"
+slug: "capital-under-covenant"
 description: "A principal-level directive on spiritually anchored capital, industrial heritage, and the sovereign duty of Christian stewardship."
 date: "2025-10-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/capital-under-covenant/"
+meta_title: "Capital Under Covenant"
+meta_description: "A principal-level directive on spiritually anchored capital, industrial heritage, and the sovereign duty of Christian stewardship."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "capital-under-covenant"
 ---
+
 ## The Nature of Covenant Capital
 
 Capital becomes sacred when it is placed under covenant. Not sentiment. Not abstraction. Covenant. A binding order that stands above the market cycle, above fashion, above ego. This is not a rhetorical flourish. It is a structural reality, one that has shaped the economic destiny of entire regions and the moral architecture of families who understood that wealth is not an end but a trust.

@@ -1,10 +1,18 @@
 ---
 title: "The Purpose Variable in Capital: A Principal’s Theology of Deployment"
+slug: "theology-capital-deployment-purpose-risk-factor"
 description: "Institutional investors are elevating purpose from narrative ornament to operational risk variable-rooted in stewardship, moral authority, and the industrial Protestant ethic."
 date: "2025-12-31"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/theology-capital-deployment-purpose-risk-factor/"
+meta_title: "The Purpose Variable in Capital: A Principal’s Theology of Deployment"
+meta_description: "Institutional investors are elevating purpose from narrative ornament to operational risk variable-rooted in stewardship, moral authority, and the industrial Protestant ethic."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "theology-capital-deployment-purpose-risk-factor"
 ---
+
 ## The Covenant as Capital Architecture
 
 Purpose is not a preference. It is a structural force. Institutional investors who treat it as ornament do so at their peril. The market has begun to price moral alignment with the same rigor once reserved for liquidity ratios or duration mismatch. This is not a cultural shift. It is a return to first principles - the quiet recognition that capital behaves differently when bound by covenant rather than mere contract.

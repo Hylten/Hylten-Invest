@@ -1,10 +1,18 @@
 ---
 title: "The Generative AI Regime Shift and the Institutional Repricing of Computational Capital"
-description: "A clinical institutional briefing on the structural mechanics, capital inefficiencies, and stewardship framework governing next cycle generative AI investment flows, written for allocators requiring operational intelligence rather than thematic narratives."
-date: "2025-10-27"
-author: "Jonas Hyltén"
 slug: "generative-ai-regime-shift-institutional-repricing-computational-capital"
+description: "A clinical institutional briefing on the structural mechanics, capital inefficiencies, and stewardship framework governing next cycle generative AI investment flows, written for allocators requiring operational intell…"
+date: "2025-10-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/generative-ai-regime-shift-institutional-repricing-computational-capital/"
+meta_title: "The Generative AI Regime Shift and the Institutional Repricing of Computational Capital"
+meta_description: "A clinical institutional briefing on the structural mechanics, capital inefficiencies, and stewardship framework governing next cycle generative AI investment flows, written for allocators requiring operational intell…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The balance sheets suggest strain
 
 Allocators now face an environment in which computational demand grows on an exponential curve while capital provisioning, hardware distribution, power availability, and thermal management remain anchored to industrial cadence. The consequence is a valuation environment where price discovery is no longer driven by model performance. It is driven by supply chain physics - the immutable constraints of fabrication throughput, power density, and grid interconnection timelines.

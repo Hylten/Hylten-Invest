@@ -1,10 +1,18 @@
 ---
 title: "Stewardship Under Scrutiny: The Hylten Model For Functional Capital Formation"
+slug: "stewardship-under-scrutiny-hylten-model"
 description: "An institutional examination of stewardship, capital ethics, Nordic industrial discipline, and the structural realignment required for intergenerational capital integrity."
 date: "2025-09-21"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-under-scrutiny-hylten-model/"
+meta_title: "Stewardship Under Scrutiny: The Hylten Model For Functional Capital Formation"
+meta_description: "An institutional examination of stewardship, capital ethics, Nordic industrial discipline, and the structural realignment required for intergenerational capital integrity."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "stewardship-under-scrutiny-hylten-model"
 ---
+
 ## The structural gap in global capital formation is a consequence of moral drift, not capital scarcity
 
 The world does not lack liquidity. It lacks disciplined stewards capable of converting liquidity into productive assets without leakage, entropy, or mission decay. Functional capital formation requires more than financial engineering. It requires moral governance. The modern allocator operates within a regime defined by volatility, regulatory fragmentation, and competing ideological mandates. In this environment, the distinguishing factor is not access to deal flow. It is the quality of stewardship shaping the underlying discipline of capital deployment.

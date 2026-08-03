@@ -1,10 +1,18 @@
 ---
 title: "The Sovereign Legacy: Building Eternal Capital"
+slug: "the-sovereign-legacy-building-eternal-capital"
 description: "A high‑end exploration of liquidity architecture, private credit, and asset based liquidity engineering for long‑term capital stewardship."
 date: "2025-10-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/the-sovereign-legacy-building-eternal-capital/"
+meta_title: "The Sovereign Legacy: Building Eternal Capital"
+meta_description: "A high‑end exploration of liquidity architecture, private credit, and asset based liquidity engineering for long‑term capital stewardship."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-sovereign-legacy-building-eternal-capital"
 ---
+
 ## The Architecture of Eternal Capital
 
 Eternal capital is not a metaphor. It is a methodology. A rigorous framework for wealth preservation that transcends market cycles, political upheavals, and generational transitions. The foundation lies not in aggressive accumulation but in the disciplined engineering of liquidity structures that remain functional regardless of external volatility. This requires systems designed to reduce friction, instruments that retain optionality, and partnerships that operate with quiet precision rather than spectacle.

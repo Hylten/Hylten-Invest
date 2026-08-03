@@ -1,10 +1,18 @@
 ---
 title: "Succession as Covenant, Not Contingency"
+slug: "succession-calling-not-succession-risk"
 description: "A principal-level examination of generational transfer, succession conviction, and the moral architecture of Christian stewardship within industrial families."
 date: "2025-11-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/succession-calling-not-succession-risk/"
+meta_title: "Succession as Covenant, Not Contingency"
+meta_description: "A principal-level examination of generational transfer, succession conviction, and the moral architecture of Christian stewardship within industrial families."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "succession-calling-not-succession-risk"
 ---
+
 ## The Moral Architecture of Succession
 
 Succession collapses when treated as risk. It strengthens when embraced as calling. The distinction is absolute. One belongs to fear. The other belongs to covenant.

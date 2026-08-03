@@ -1,10 +1,18 @@
 ---
 title: "Sovereign Capital: The Pillar of Stewardship"
+slug: "sovereign-capital-the-pillar-of-stewardship"
 description: "A high‑end exploration of long‑term liquidity architecture, private credit, and asset-based liquidity engineering for HNWI and UHNW capital stewards."
 date: "2026-01-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/sovereign-capital-the-pillar-of-stewardship/"
+meta_title: "Sovereign Capital: The Pillar of Stewardship"
+meta_description: "A high‑end exploration of long‑term liquidity architecture, private credit, and asset-based liquidity engineering for HNWI and UHNW capital stewards."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "sovereign-capital-the-pillar-of-stewardship"
 ---
+
 ## Sovereign Capital as a Covenant of Continuity
 
 Sovereign capital is not a product. It is a covenant between steward and structure. The architecture must outlast the steward. It must remain intact across generations, market cycles, and geopolitical shifts. This is the quiet discipline of the Gnosjö tradition - precision without spectacle, resilience without fanfare. The balance sheet becomes a living organism, not a ledger of transactions.

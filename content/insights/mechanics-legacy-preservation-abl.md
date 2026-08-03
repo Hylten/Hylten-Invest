@@ -1,10 +1,18 @@
 ---
 title: "The Mechanics of Legacy Preservation via Asset-Based Lending"
+slug: "mechanics-legacy-preservation-abl"
 description: "Institutional brief on asset‑based lending as a generational preservation architecture within Christian industrial capital traditions and stewardship‑aligned private credit structures."
 date: "2026-01-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/mechanics-legacy-preservation-abl/"
+meta_title: "The Mechanics of Legacy Preservation via Asset-Based Lending"
+meta_description: "Institutional brief on asset‑based lending as a generational preservation architecture within Christian industrial capital traditions and stewardship‑aligned private credit structures."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "mechanics-legacy-preservation-abl"
 ---
+
 ## Legacy is not sentiment
 
 Legacy is structure. In the Nordic industrial belt, this concept predates the companies that now embody it. It is not a matter of sentimentality or emotional attachment to the past. It is a disciplined architecture of capital, governance, and responsibility. The families and institutions that have endured across generations did not do so by accident. They did so by design.

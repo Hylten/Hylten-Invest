@@ -1,10 +1,18 @@
 ---
 title: "Stewardship of Digital Legacies: Liquidity Engineering Against Family Crypto Holdings"
-description: "An institutional exploration of liquidity creation through private credit and asset‑backed [Capital Structuring](https://roialscapital.com/). Designed for HNWI and UHNW families seeking disciplined solutions using crypto and public equity positions."
-date: "2025-09-25"
-author: "Jonas Hyltén"
 slug: "stewardship-of-digital-legacies-liquidity-engineering-against-family-crypto-holdings"
+description: "An institutional exploration of liquidity creation through private credit and asset‑backed [Capital Structuring](https://roialscapital.com/). Designed for HNWI and UHNW families seeking disciplined solutions using cry…"
+date: "2025-09-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/stewardship-of-digital-legacies-liquidity-engineering-against-family-crypto-holdings/"
+meta_title: "Stewardship of Digital Legacies: Liquidity Engineering Against Family Crypto Holdings"
+meta_description: "An institutional exploration of liquidity creation through private credit and asset‑backed [Capital Structuring](https://roialscapital.com/). Designed for HNWI and UHNW families seeking disciplined solutions using cry…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 ## The Architecture of Digital Stewardship
 
 Family offices have long operated within a framework of quiet discipline. Land, equity, and fixed income were governed by covenantal structures - trusts, holding companies, and multi-generational charters. These were not mere legal constructs but expressions of intent, binding capital to purpose across decades. The emergence of digital assets disrupts this tradition only in form, not in principle. Bitcoin, Ethereum, and other blockchain-native holdings are not speculative instruments. They are stores of value that demand the same structural rigor as a family’s oldest real estate portfolio or its most carefully curated private equity positions.

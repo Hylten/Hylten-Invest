@@ -1,10 +1,18 @@
 ---
 title: "The Theology of Scale"
+slug: "theology-of-scale-stewardship-industrial-ambition"
 description: "Christian stewardship fused with industrial ambition, framing scale as a moral mandate rooted in covenantal responsibility and the Protestant ethic."
 date: "2025-12-12"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Hylten-Invest/insights/theology-of-scale-stewardship-industrial-ambition/"
+meta_title: "The Theology of Scale"
+meta_description: "Christian stewardship fused with industrial ambition, framing scale as a moral mandate rooted in covenantal responsibility and the Protestant ethic."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "theology-of-scale-stewardship-industrial-ambition"
 ---
+
 ## Stewardship Demands Scale
 
 Not indulgence. Not ego. Obedience. Industrial ambition becomes righteous when it protects the weak and strengthens future builders. The small forge teaches this. Fire. Iron. Duty. The heat does not discriminate between the proud and the humble. It tempers both with equal severity. This is the first lesson of scale - that growth is not a reward for virtue, but a consequence of it. The market, like the forge, is indifferent to intention. It responds only to execution.
