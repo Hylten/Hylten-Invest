@@ -5,6 +5,7 @@
   <meta charset="UTF-8" />
   <link rel="icon" type="image/svg+xml" href="/vite.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data:; font-src 'self' https://fonts.gstatic.com; connect-src 'self'; base-uri 'self'; form-action 'self'; object-src 'none'" />
   <title>Hyltén Invest | Strategic Investments</title>
   <meta name="description"
     content="Hyltén Invest executes strategic investments in technology funds and select real estate assets, rooted in the entrepreneurial spirit of Gnosjöandan." />
@@ -12,26 +13,11 @@
     href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&display=swap"
     rel="stylesheet">
   <!-- GitHub Pages SPA redirect handler -->
-  <script type="text/javascript">
-    (function (l) {
-      if (l.search[1] === '/') {
-        var decoded = l.search.slice(1).split('&').map(function (s) {
-          return s.replace(/~and~/g, '&')
-        }).join('?');
-        window.history.replaceState(null, null,
-          l.pathname.slice(0, -1) + decoded + l.hash
-        );
-      }
-    }(window.location))
-  </script>
+  <script src="%BASE_URL%redirect.js"></script>
 </head>
 
 <body>
-  <script>
-    if (localStorage.getItem('hylten-dark') === 'true') {
-      document.body.classList.add('dark');
-    }
-  </script>
+  <script src="%BASE_URL%theme.js"></script>
   <div id="root"></div>
   <script type="module" src="/src/main.tsx"></script>
 </body>
