@@ -142,7 +142,7 @@ async function generateSEO() {
     listHtml += '<div style="width: 100%; max-width: 1240px; margin: 180px auto 120px; text-align: center; display: flex; flex-direction: column; align-items: center;">';
     listHtml += '<nav style="position: fixed; top: 0; left: 0; width: 100%; background: #ffffff !important; border-bottom: 1px solid rgba(0,0,0,0.05); padding: 24px 40px; display: flex; align-items: center; justify-content: space-between; z-index: 9999; box-sizing: border-box;">';
     listHtml += '  <a href="/Hylten-Invest/" style="text-decoration: none !important; color: #1A1A1A !important; display: flex; align-items: center; gap: 12px; font-weight: 500; font-size: 1rem; letter-spacing: 4px; text-transform: uppercase;">';
-    listHtml += '    <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" style="height: 32px; width: auto;" alt="Logo" />';
+    listHtml += '    <img src="/Hylten-Invest/hylten-logo.png" style="height: 32px; width: auto;" alt="Logo" />';
     listHtml += '    HYLTÉN <span style="font-weight: 300; color: #B08D57;">INVEST</span>';
     listHtml += '  </a>';
     listHtml += '  <span style="font-size: 0.7rem; color: #666; letter-spacing: 2px; text-transform: uppercase; font-family: sans-serif;">RETURN TO HOME</span>';
@@ -248,7 +248,7 @@ async function generateSEO() {
             <div style="width: 100%; max-width: 1240px; margin: 220px auto 120px; text-align: center; display: flex; flex-direction: column; align-items: center; padding: 0 24px;">
                 <nav style="position: fixed; top: 0; left: 0; width: 100%; background: #ffffff !important; border-bottom: 1px solid rgba(0,0,0,0.05); padding: 24px 40px; display: flex; align-items: center; justify-content: space-between; z-index: 9999; box-sizing: border-box;">
                   <a href="/Hylten-Invest/" style="text-decoration: none !important; color: #1A1A1A !important; display: flex; align-items: center; gap: 12px; font-weight: 500; font-size: 1rem; letter-spacing: 4px; text-transform: uppercase;">
-                    <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" style="height: 32px; width: auto;" alt="Logo" />
+                    <img src="/Hylten-Invest/hylten-logo.png" style="height: 32px; width: auto;" alt="Logo" />
                     HYLTÉN <span style="font-weight: 300; color: #B08D57;">INVEST</span>
                   </a>
                   <span style="font-size: 0.7rem; color: #666; letter-spacing: 2px; text-transform: uppercase;">INTELLIGENCE</span>

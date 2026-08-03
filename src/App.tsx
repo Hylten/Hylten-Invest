@@ -43,7 +43,7 @@ const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark 
     <div className="main-content" id="mainContent">
       <nav id="navbar" className={scrolled ? 'scrolled' : ''}>
         <a href="#" className="logo-nav">
-          <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="logo-icon" alt="Logo" />
+          <img src={`${import.meta.env.BASE_URL}hylten-logo.png`} className="logo-icon" alt="Logo" />
           HYLTÉN <span>INVEST</span>
         </a>
         <ul className="nav-links">
@@ -79,7 +79,7 @@ const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark 
 
       <section className="hero">
         <div className="hero-content">
-          <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="hero-logo" alt="Hyltén Invest Logo" />
+          <img src={`${import.meta.env.BASE_URL}hylten-logo.png`} className="hero-logo" alt="Hyltén Invest Logo" />
           <p className="hero-subtitle">Strategic Investments</p>
           <h2>Driven by <span className="highlight">The Spirit of Gnosjö</span></h2>
           <p className="hero-text">Hyltén Invest executes strategic investments in technology funds and select real estate assets. Rooted in the pioneering spirit of Johan Edvard Hyltén, we continue a legacy of innovation and growth.</p>
@@ -247,7 +247,7 @@ const App: React.FC = () => {
           </button>
           <nav id="navbar" className="scrolled sticky top-0" style={dark ? { background: '#1a1a1a', borderBottom: '1px solid #2a2a2a' } : {}}>
             <a href="/Hylten-Invest/" className="logo-nav">
-              <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="logo-icon" alt="Logo" />
+              <img src={`${import.meta.env.BASE_URL}hylten-logo.png`} className="logo-icon" alt="Logo" />
               HYLTÉN <span>INVEST</span> <span style={{ marginLeft: '1rem', borderLeft: `1px solid ${dark ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.1)'}`, paddingLeft: '1rem', fontSize: '0.7rem', color: dark ? '#888' : '#666' }}>RETURN TO HOME</span>
             </a>
           </nav>
@@ -336,7 +336,7 @@ const App: React.FC = () => {
     <>
       {loading && (
         <div className="preloader" id="preloader" style={dark ? { background: '#121212' } : {}}>
-          <img src="https://i.postimg.cc/qgs07YQt/hylten-logo.png" className="logo-img" alt="Hyltén Invest" />
+          <img src={`${import.meta.env.BASE_URL}hylten-logo.png`} className="logo-img" alt="Hyltén Invest" />
           <div className="loader-text">
             <h1 className="loader-h1" style={dark ? { color: '#e0e0e0' } : {}}>HYLTÉN <span>INVEST</span></h1>
             <div className="line"></div>
