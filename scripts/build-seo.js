@@ -204,6 +204,8 @@ async function generateSEO() {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
         const { data, content } = matter(rawContent);
+    if (data.draft === true) continue;
+    if (data.draft === true) continue;
 
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Insight';
