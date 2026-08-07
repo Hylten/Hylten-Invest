@@ -60,11 +60,9 @@ Key-man risk is not a personnel issue. It is a governance issue. The conventiona
 This requires a fundamental rethinking of governance. The most effective way to dissolve key-man risk is to design a governance structure where no single individual has the authority to unilaterally alter the platform’s moral trajectory. This can be achieved through several mechanisms:
 
 1. **Covenantal Veto Rights** - A stewardship council, composed of long-tenured stakeholders, holds veto power over any material deviation from the platform’s founding covenants. This ensures that the founder’s authority is constrained by a higher order.
-
 2. **Distributed Ownership** - Economic ownership is not concentrated in the founder but distributed across a network of stakeholders. This can be achieved through employee stock ownership plans, perpetual trusts, or community-based ownership models.
 
 3. **Moral Deliberation** - Major decisions are not made by fiat but through a process of moral deliberation, where the covenantal implications of each decision are explicitly considered. This ensures that the platform’s moral trajectory remains stable even as its leadership changes.
-
 4. **Generational Transfer** - Authority is not transferred to a single successor but to a collegium of stewards, ensuring that no single individual can unilaterally alter the platform’s course.
 
 These mechanisms are not theoretical. They are operational. The Wallenberg dynasty, the Swiss private banks, and the Gnosjö firms all employ variations of these structures. The result is not just the mitigation of key-man risk but its structural dissolution.
@@ -74,7 +72,6 @@ These mechanisms are not theoretical. They are operational. The Wallenberg dynas
 Moral authority is not a passive force. It is an active mitigator of risk. When a platform is anchored in a covenantal tradition, it becomes resilient to the three primary sources of key-man risk: mortality, hubris, and succession failure.
 
 1. **Mortality** - When the founder’s authority is covenantal rather than personal, their death does not trigger a crisis of confidence. The platform’s moral trajectory is not dependent on any single individual but on a living covenant.
-
 2. **Hubris** - Moral authority acts as a sovereign constraint on the founder’s behavior. When the founder’s authority is rooted in a higher order, they are less likely to engage in reckless behavior or deviate from the platform’s founding principles.
 
 3. **Succession Failure** - When authority is distributed across a network of stewards, the failure of any single successor does not threaten the platform’s stability. The covenant ensures continuity.

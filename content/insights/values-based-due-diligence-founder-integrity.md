@@ -52,7 +52,6 @@ This is not sentiment. This is structural advantage. A man bound by covenant doe
 So we apply load. Three stressors:
 
 1. Scarcity stressor
-
 2. Temptation stressor 3.
 
 Ambiguity stressor Each one surfaces a different part of a founder’s moral architecture. Scarcity exposes entitlement. Temptation exposes vanity. Ambiguity exposes truthfulness.

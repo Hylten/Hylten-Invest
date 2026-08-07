@@ -84,7 +84,6 @@ The discipline of generational design is not for the faint of heart. It requires
 This discipline is built on three pillars:
 
 1. **Principle over opportunity** - The families that build enduring enterprises do not chase the latest trend. They build on bedrock principles that have stood the test of time. They understand that true opportunity is not found in speculation, but in the patient, disciplined creation of value.
-
 2. **Stewardship over consumption** - The families that build enduring enterprises do not view their capital as a personal plaything. They view it as a sacred trust, to be stewarded for future generations. They understand that their role is not to consume, but to create.
 
 3. **Dominion over dominance** - The families that build enduring enterprises do not seek to dominate markets or competitors. They seek to create value that endures, to build institutions that serve, to leave a legacy that outlasts their lifetimes.

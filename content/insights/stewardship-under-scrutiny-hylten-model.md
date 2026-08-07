@@ -44,7 +44,6 @@ Governance abstraction is the silent killer of capital efficiency. When accounta
 Covenantal governance is not relational investing. It is structural alignment. It requires three conditions:
 
 1. **Explicit mandates.** Capital deployment must be tied to specific, measurable outcomes. For example, a mandate to invest in Nordic industrial SMEs with a focus on export-driven growth is not a thematic preference. It is a covenantal commitment to a specific economic outcome.
-
 2. **Skin in the game.** Stewards must have material exposure to the outcomes of their decisions. This is not a performance fee. It is a governance mechanism. When stewards bear the consequences of their actions, entropy is reduced.
 
 3. **Transparency.** Governance must be visible to LPs. This is not about disclosure. It is about visibility. LPs must be able to see the decision-making process, not just the outcomes.
@@ -56,7 +55,6 @@ The Gnosjö tradition provides a case study. In this region, industrial firms op
 Financialization has decoupled capital from production. The Hylten Model counters this through industrial discipline, a framework that aligns capital with tangible, productive assets. Industrial discipline is not a sector preference. It is a governance principle. It requires three conditions:
 
 1. **Real economy alignment.** Capital must be deployed into assets that produce tangible goods or services. This is not a moral preference. It is a structural necessity. When capital is decoupled from production, entropy accelerates.
-
 2. **Operational restraint.** Stewards must resist the temptation to over-leverage or over-engineer. The Nordic industrial tradition exemplifies this. In Sweden, median corporate debt-to-equity ratios remain below 0.5, compared to 1.2 in the US. This is not conservatism. It is discipline.
 
 3. **Long horizon thinking.** Capital must be deployed with a generational time horizon. This is not patience. It is structural alignment. When capital is deployed with a short-term horizon, entropy accelerates.
@@ -68,7 +66,6 @@ The Hylten Model operationalizes industrial discipline through a focus on Nordic
 Moral clarity is not a philosophical abstraction. It is a governance necessity. When capital is deployed without a clear moral framework, entropy accelerates. The Hylten Model provides this framework through three principles:
 
 1. **Responsibility.** Stewards must bear the consequences of their actions. This is not a performance fee. It is a governance mechanism. When stewards are insulated from the consequences of their actions, entropy accelerates.
-
 2. **Durability.** Capital must be deployed with a generational time horizon. This is not patience. It is structural alignment. When capital is deployed with a short-term horizon, entropy accelerates.
 
 3. **Transparency.** Governance must be visible to LPs. This is not about disclosure. It is about visibility. LPs must be able to see the decision-making process, not just the outcomes.
@@ -86,7 +83,6 @@ The model is designed for institutional LPs that require transparent governance,
 The realignment requires three conditions:
 
 1. **Covenantal governance.** Capital must be aligned with stewards through explicit, binding commitments. This is not relational investing. It is structural alignment.
-
 2. **Industrial discipline.** Capital must be deployed into productive assets with a generational time horizon. This is not a sector preference. It is a governance principle.
 
 3. **Moral clarity.** Stewards must bear the consequences of their actions and provide transparency to LPs. This is not a philosophical abstraction. It is a governance necessity.

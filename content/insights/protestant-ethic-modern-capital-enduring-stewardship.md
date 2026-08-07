@@ -72,11 +72,9 @@ But institutional structures are only as strong as the principles that animate t
 This ethic manifests in several concrete ways:
 
 1. Capital allocation decisions are evaluated based on their long-term productive impact rather than short-term financial returns.
-
 2. Risk management focuses on preserving capital through economic cycles rather than maximizing returns in bull markets.
 
 3. Governance structures emphasize stewardship over personal enrichment.
-
 4. Investment horizons extend beyond quarterly earnings to generational timeframes.
 
 5. Value creation is measured in real economic terms rather than financial metrics.
@@ -100,11 +98,9 @@ The ultimate test of capital architecture is its ability to endure across genera
 This covenantal responsibility manifests in several concrete ways:
 
 1. Capital is preserved through economic cycles rather than gambled on speculative ventures.
-
 2. Enterprises are built to last rather than to be flipped for short-term gain.
 
 3. Employees are treated as long-term partners rather than disposable resources.
-
 4. Communities are served rather than exploited.
 
 5. The environment is protected rather than degraded.
@@ -170,11 +166,9 @@ The Protestant ethic provides the moral framework for rebuilding the work ethic.
 This work ethic manifests in several concrete ways:
 
 1. Enterprises are built on real production rather than financial abstraction.
-
 2. Employees are treated as partners in production rather than disposable resources.
 
 3. Products are built to last rather than to be replaced.
-
 4. Capital is allocated to productive assets rather than speculative ventures.
 
 5. Value is measured in real economic terms rather than financial metrics.
@@ -188,11 +182,9 @@ The principles of the Protestant ethic are not relics of the past - they are the
 This architecture requires specific institutional structures:
 
 1. Multi-jurisdictional capital execution to protect against political and economic instability.
-
 2. Long-term investment horizons that extend beyond quarterly earnings.
 
 3. Governance structures that emphasize stewardship over personal enrichment.
-
 4. Risk management practices that focus on capital preservation rather than return maximization.
 
 5. Value creation metrics that measure real economic impact rather than financial abstraction.

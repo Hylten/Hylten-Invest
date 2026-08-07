@@ -50,7 +50,6 @@ It aligns with multi generational thinking. It respects the family’s desire fo
 Growth requires clarity in four domains:
 
 1. Liquidity
-
 2. Governance
 
 3. Asset Structure 4.

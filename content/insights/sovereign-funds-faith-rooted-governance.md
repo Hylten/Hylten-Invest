@@ -26,7 +26,6 @@ Sovereign wealth institutions are, at their core, actuarial entities. They must 
 The data is clear. Governance structures anchored in transcendent ethics - what we might call moral authority - demonstrate a resilience that ideological or bureaucratic systems cannot match. Consider the following:
 
 1. **Longevity of Institutions** - The oldest continuously operating institutions in the world are not corporations or governments. They are religious orders. The Benedictines, founded in 529 AD, have outlasted empires, revolutions, and economic collapses. Their governance model is simple: a rule of life, a commitment to stewardship, and a covenantal bond among members. This model has proven more durable than any constitution or corporate charter.
-
 2. **Economic Resilience** - Regions with strong faith-rooted governance traditions - Småland in Sweden, the Gnosjö industrial district, the Saxon foundries of Germany, the early American mill towns - have demonstrated an ability to weather economic storms that have devastated other areas. These regions did not rely on government bailouts or stimulus packages. They relied on internal discipline, mutual trust, and a shared ethic of stewardship.
 
 3. **Decision Quality** - Moral authority sharpens decision-making. It imposes guardrails that prevent overreach, vanity projects, and empire-building. It forces actors to ask not just "Can we do this?" but "Should we do this?" This question is absent in purely bureaucratic or ideological systems, where the default is often to expand, to centralize, to command.
@@ -48,7 +47,6 @@ A sovereign wealth fund, by definition, requires a multigenerational horizon. It
 The answer points back to faith-rooted governance models. These models are not about dogma. They are about structure. They are about the order of priorities:
 
 1. **Duty First** - The first question is not "What do we want?" but "What are we called to do?" This question imposes discipline. It prevents mission creep. It ensures that capital is allocated not to the loudest voice or the most fashionable cause but to the most enduring need.
-
 2. **Stewardship Second** - Capital is not a trophy. It is a trust. The stewardship ethic demands that capital be managed with care, not gambled for short-term gains. It demands that risks be measured, not ignored. It demands that surplus be reinvested, not hoarded.
 
 3. **Legacy Third** - The final question is not "What will this do for us?" but "What will this do for those who come after us?" This question forces a long-term perspective. It ensures that decisions are made not for the next quarter but for the next generation.
@@ -80,7 +78,6 @@ This model has been eroded in recent decades, not by external forces but by inte
 The structural advantages of faith-rooted governance can be distilled into three key principles:
 
 1. **Decentralization of Responsibility** - Moral authority does not centralize power. It decentralizes responsibility. It imposes discipline not through external compulsion but through internal commitment. This decentralization reduces bureaucratic friction, increases adaptability, and fosters innovation.
-
 2. **Alignment of Incentives** - Moral authority aligns incentives with long-term value creation. It ensures that actors are rewarded not for short-term gains but for enduring contributions. This alignment reduces speculative risk, increases stability, and fosters trust.
 
 3. **Guardrails Against Overreach** - Moral authority imposes guardrails that prevent empire-building, vanity projects, and reckless expansion. These guardrails are not bureaucratic. They are cultural. They are embedded in the ethic of the community, not in the rules of the state.

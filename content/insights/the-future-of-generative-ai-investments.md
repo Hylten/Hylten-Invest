@@ -84,7 +84,6 @@ The result is not just cost savings but a fundamental reconfiguration of how val
 Agentic AI will also enable new forms of digital capital - assets that exist purely in software, generate value autonomously, and can be traded or deployed across multiple contexts. These assets will take several forms:
 
 1. **Agent-based services** - Autonomous systems that provide ongoing value, such as AI-driven customer support agents, predictive maintenance systems, or dynamic pricing engines. These services can be licensed, scaled, and monetized independently of the underlying infrastructure.
-
 2. **Data as a productive asset** - Today, data is primarily a byproduct of operations. In an agentic economy, data becomes a productive asset, used to train and refine autonomous systems. Companies that control high-quality, proprietary data sets will have a durable competitive advantage.
 
 3. **Synthetic labor** - Agentic systems will function as a new class of labor, capable of performing cognitive tasks at scale. Unlike human labor, synthetic labor can be replicated, specialized, and deployed on demand, creating a more flexible and efficient labor market.

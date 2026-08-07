@@ -44,7 +44,6 @@ Where others might focus on velocity - the speed at which capital can be deploye
 Hylten Invest’s liquidity architecture is designed to be dependable, not dramatic. It is built on three core pillars:
 
 1. **Conservative Collateral Valuation** - Assets are not valued at their theoretical maximum. They are valued at their sustainable minimum. This is not a question of pessimism. It is a question of prudence. A collateral value that holds in 95% of market conditions is more useful than one that holds in 70%.
-
 2. **Low Loan-to-Value Ratios** - Leverage is not a tool for amplification. It is a tool for precision. Hylten’s structures typically operate at LTV ratios well below those of traditional lenders. This is not a constraint. It is a safeguard. It ensures that liquidity can be accessed without forcing asset sales during periods of market stress.
 
 3. **Structural Protections** - Every loan is overcollateralized, not just in nominal terms, but in structural terms. This means that the collateral pool is diversified, not concentrated. It means that haircuts are applied not just to individual assets, but to the entire portfolio. It means that covenants are not just contractual formalities, but active risk management tools.
@@ -68,7 +67,6 @@ This is not a theoretical example. It is a structural reality for Hylten’s cli
 The term "strategic collateralization" is often misused in financial marketing. It is not a euphemism for leverage. It is a disciplined process of aligning liquidity needs with asset durability. Hylten Invest’s approach to strategic collateralization is built on three core principles:
 
 1. **Asset-Liability Matching** - The duration of the loan must align with the duration of the collateral. A five-year loan against a seven-year private credit portfolio is a mismatch. A three-year loan against the same portfolio is a match. This is not a question of convenience. It is a question of structural integrity.
-
 2. **Cash Flow Coverage** - The cash flows from the collateral must cover the interest and principal payments on the loan. This is not a projection. It is a requirement. If the collateral does not generate sufficient cash flow, the loan is not extended. This is not a matter of risk appetite. It is a matter of risk elimination.
 
 3. **Exit Flexibility** - The loan must provide multiple exit pathways. The borrower must have the option to repay the loan from cash flow, from asset sales, or from new financing. This is not a feature. It is a necessity. A loan with a single exit pathway is a loan with a single point of failure.
@@ -82,7 +80,6 @@ Asset-Based Lending is one of the most mature and misunderstood financing struct
 The firm’s approach to Asset-Based Lending is defined by three characteristics:
 
 1. **Minimal Sentiment Sensitivity** - Hylten lends against assets that are not subject to emotional valuation swings. Private credit, real estate, and infrastructure are examples of such assets. They are valued based on cash flow, not sentiment. This is not a preference. It is a requirement. Sentiment-driven assets are volatile. Volatile assets are poor collateral.
-
 2. **Conservative Haircuts** - The firm applies haircuts not just to individual assets, but to the entire collateral pool. A private credit portfolio with a nominal value of $100 million may be valued at $70 million for lending purposes. This is not a discount. It is a buffer. It ensures that the loan remains fully collateralized even in the event of a 30% decline in the portfolio’s value.
 
 3. **Structural Overcollateralization** - Every loan is overcollateralized, not just in nominal terms, but in structural terms. This means that the collateral pool is diversified across asset classes, geographies, and vintages. It means that the loan is not dependent on the performance of a single asset. It means that the borrower is not exposed to concentration risk.
@@ -126,7 +123,6 @@ This alignment is not accidental. It is the result of a deliberate process. Hylt
 The firm’s approach to client selection is built on three questions:
 
 1. **Does the client have a long-term horizon?** - Hylten does not work with clients who measure success in quarters. It works with clients who measure success in generations.
-
 2. **Does the client value stability over growth?** - Hylten does not work with clients who prioritize returns over resilience. It works with clients who understand that stability is the foundation of compounding.
 
 3. **Does the client appreciate the role of collateral?** - Hylten does not work with clients who view collateral as a formality. It works with clients who view collateral as a safeguard.

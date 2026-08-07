@@ -25,12 +25,12 @@ The most effective liquidity architectures are those with the fewest moving part
 
 A minimalist asset-based lending framework delivers this predictability. The benefits are not abstract. They are operational:
 
-- **Liquidity without portfolio disruption** – Assets remain in place. No fire sales, no forced reallocations, no erosion of long-term strategy.
-- **No requirement for public disclosure** – Transactions occur within private, controlled environments. There is no need for regulatory filings, no exposure to public scrutiny.
-- **Predictable collateral management** – Valuation methodologies are established upfront. There are no surprises, no sudden margin calls, no opaque revaluations.
-- **No forced alignment with external strategies** – The borrower retains full discretion over asset deployment. There is no pressure to conform to a lender’s investment thesis.
-- **Preservation of control** – Ownership remains intact. The borrower dictates the terms of engagement, not the other way around.
-- **Reduced counterparty noise** – The relationship is transactional only to the extent necessary. There are no hidden agendas, no cross-selling, no misaligned incentives.
+- **Liquidity without portfolio disruption** - Assets remain in place. No fire sales, no forced reallocations, no erosion of long-term strategy.
+- **No requirement for public disclosure** - Transactions occur within private, controlled environments. There is no need for regulatory filings, no exposure to public scrutiny.
+- **Predictable collateral management** - Valuation methodologies are established upfront. There are no surprises, no sudden margin calls, no opaque revaluations.
+- **No forced alignment with external strategies** - The borrower retains full discretion over asset deployment. There is no pressure to conform to a lender’s investment thesis.
+- **Preservation of control** - Ownership remains intact. The borrower dictates the terms of engagement, not the other way around.
+- **Reduced counterparty noise** - The relationship is transactional only to the extent necessary. There are no hidden agendas, no cross-selling, no misaligned incentives.
 
 This is not simplicity for its own sake. It is simplicity as a strategic advantage. The fewer variables in play, the fewer points of failure. The fewer points of failure, the greater the resilience.
 
@@ -44,10 +44,10 @@ Private credit has evolved from an alternative asset class to a core allocation 
 
 Conservative asset-based lending resolves this paradox. It transforms illiquidity from a constraint into a strategic advantage. The mechanics are straightforward:
 
-1. **Collateralization without sale** – The private credit portfolio is pledged as collateral. The borrower retains ownership and continues to receive cash flows.
-2. **Structured haircuts** – Valuation methodologies account for the illiquid nature of the assets. Haircuts are conservative, reflecting both the underlying credit quality and the borrower’s long-term holding intent.
-3. **Term alignment** – Loan durations are matched to the expected life of the underlying assets. There is no mismatch between short-term borrowing and long-term holdings.
-4. **Discretionary drawdowns** – Liquidity is available on demand, but not forced. The borrower accesses capital only when needed, avoiding unnecessary interest expense.
+1. **Collateralization without sale** - The private credit portfolio is pledged as collateral. The borrower retains ownership and continues to receive cash flows.
+2. **Structured haircuts** - Valuation methodologies account for the illiquid nature of the assets. Haircuts are conservative, reflecting both the underlying credit quality and the borrower’s long-term holding intent.
+3. **Term alignment** - Loan durations are matched to the expected life of the underlying assets. There is no mismatch between short-term borrowing and long-term holdings.
+4. **Discretionary drawdowns** - Liquidity is available on demand, but not forced. The borrower accesses capital only when needed, avoiding unnecessary interest expense.
 
 This framework is not theoretical. It is in active use by family offices, endowments, and institutional investors who recognize that liquidity should not come at the cost of strategy. A private credit portfolio generating 8-10% annual returns is a powerful asset. But if the holder is forced to sell at a 20% discount to meet a liquidity need, the effective yield is destroyed. Conservative asset-based lending ensures that the portfolio remains intact, the yield is preserved, and the liquidity need is met without disruption.
 
@@ -61,11 +61,11 @@ This is why the architecture matters. It must be quiet. It must be disciplined. 
 
 Consider the following attributes of conservative asset-based lending that align with this philosophy:
 
-- **Discretion** – Transactions occur within private, controlled environments. There are no public filings, no regulatory disclosures, no exposure to market sentiment.
-- **Predictability** – Terms are established upfront. There are no hidden clauses, no sudden revaluations, no surprises.
-- **Modularity** – Structures are designed to scale with the portfolio. Additional assets can be pledged as collateral without renegotiating the entire framework.
-- **Resilience** – The system is built to withstand market dislocations. Haircuts are conservative. Valuation methodologies are robust. There is no reliance on short-term market liquidity.
-- **Alignment** – The lender’s incentives are tied to the borrower’s long-term success. There is no pressure to force a sale, no misaligned time horizons.
+- **Discretion** - Transactions occur within private, controlled environments. There are no public filings, no regulatory disclosures, no exposure to market sentiment.
+- **Predictability** - Terms are established upfront. There are no hidden clauses, no sudden revaluations, no surprises.
+- **Modularity** - Structures are designed to scale with the portfolio. Additional assets can be pledged as collateral without renegotiating the entire framework.
+- **Resilience** - The system is built to withstand market dislocations. Haircuts are conservative. Valuation methodologies are robust. There is no reliance on short-term market liquidity.
+- **Alignment** - The lender’s incentives are tied to the borrower’s long-term success. There is no pressure to force a sale, no misaligned time horizons.
 
 This is not a new model. It is an old one, refined for modern markets. The Gnosjö tradition - quiet, disciplined, covenantal - is not about innovation for its own sake. It is about reliability. It is about systems that work, not because they are flashy, but because they are sound.
 
@@ -79,10 +79,10 @@ Conservative asset-based lending thrives in uncertainty because it is not depend
 
 The mechanics are straightforward:
 
-1. **Collateral valuation** – Assets are appraised using conservative, long-term methodologies. There is no reliance on short-term market sentiment.
-2. **Structured haircuts** – The loan-to-value ratio accounts for potential volatility. The borrower is never over-leveraged.
-3. **Term flexibility** – Loan durations can be extended or restructured to align with the borrower’s needs. There is no forced exit.
-4. **Discretionary access** – Capital is available on demand, but not forced. The borrower retains control over timing.
+1. **Collateral valuation** - Assets are appraised using conservative, long-term methodologies. There is no reliance on short-term market sentiment.
+2. **Structured haircuts** - The loan-to-value ratio accounts for potential volatility. The borrower is never over-leveraged.
+3. **Term flexibility** - Loan durations can be extended or restructured to align with the borrower’s needs. There is no forced exit.
+4. **Discretionary access** - Capital is available on demand, but not forced. The borrower retains control over timing.
 
 This framework is not about taking risk. It is about managing it. A family office holding a portfolio of private assets does not need to speculate on market timing. It needs a liquidity solution that allows it to hold through cycles. Conservative asset-based lending provides that solution.
 
@@ -94,10 +94,10 @@ This is the power of conservative asset-based lending. It is not about maximizin
 
 Private credit has emerged as a preferred collateral class for conservative asset-based lending. The reasons are structural:
 
-- **Cash flow visibility** – Private credit instruments generate predictable, contractual cash flows. This provides a clear basis for valuation and servicing.
-- **Duration alignment** – The long-term nature of private credit matches the long-term holding intent of the borrower. There is no mismatch between asset and liability.
-- **Credit quality** – Private credit portfolios are typically composed of senior, secured loans. This reduces the risk of impairment.
-- **Diversification** – A well-constructed private credit portfolio is diversified across sectors, geographies, and borrowers. This mitigates idiosyncratic risk.
+- **Cash flow visibility** - Private credit instruments generate predictable, contractual cash flows. This provides a clear basis for valuation and servicing.
+- **Duration alignment** - The long-term nature of private credit matches the long-term holding intent of the borrower. There is no mismatch between asset and liability.
+- **Credit quality** - Private credit portfolios are typically composed of senior, secured loans. This reduces the risk of impairment.
+- **Diversification** - A well-constructed private credit portfolio is diversified across sectors, geographies, and borrowers. This mitigates idiosyncratic risk.
 
 These attributes make private credit an ideal collateral class for conservative asset-based lending. The cash flows provide a clear basis for valuation. The duration aligns with the borrower’s long-term holding intent. The credit quality reduces the risk of impairment. And the diversification mitigates idiosyncratic risk.
 

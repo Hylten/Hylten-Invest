@@ -61,7 +61,6 @@ The most decisive structural effect was on capital formation. The covenant firms
 The covenant effect is not abstract. It is measurable. Consider three firms that defined Nordic productivity:
 
 1. **Ahlstrom-Munksjö (Finland, 1851)** - The paper dynasty did not merely produce pulp. It produced precision. The firm’s breakthrough came in the 1880s with the introduction of continuous paper production. The innovation was not technological but theological. The engineers saw the paper machine not as a tool but as a trust. The result was a 40% reduction in raw material waste within a decade. This was not efficiency. This was ethics in motion.
-
 2. **SKF (Sweden, 1907)** - The ball-bearing giant did not merely manufacture components. It manufactured continuity. The firm’s founding covenant was explicit: "We build for the next generation, not the next quarter." This created a 100-year investment horizon. SKF could afford to perfect tolerances, to refine alloys, to wait for compounding returns. The result was not merely market share but market definition.
 
 3. **Lego (Denmark, 1932)** - The toy dynasty did not merely produce bricks. It produced builders. The firm’s breakthrough came in the 1950s with the introduction of the interlocking brick system. The innovation was not mechanical but moral. The designers saw the brick not as a product but as a promise: to build not merely toys but character. The result was not merely a toy empire but a cultural architecture.
@@ -75,7 +74,6 @@ The covenant firms did not merely contribute to Nordic productivity. They constr
 The architecture had three pillars:
 
 1. **Temporal Discipline** - The covenant firms did not merely track time. They consecrated it. The Finnish sawmills of the 19th century operated under a sacred schedule. The workday began and ended with prayer. Not as ritual but as reset. This created a temporal discipline that modern productivity gurus would envy. The mills did not chase efficiency. They embodied it.
-
 2. **Capital Formation** - The covenant firms did not merely generate profits. They generated trust. Their balance sheets carried not only assets but authority. This allowed them to access capital on terms that defied modern finance. The Swedish ironworks of Bergslagen did not merely borrow money. They borrowed time. Their lenders did not demand collateral. They demanded covenant. This created a capital architecture that was patient, personal, and profoundly productive.
 
 3. **Skill Inheritance** - The covenant firms did not merely train workers. They formed them. The training discipline was relentless, generational, and personal. Skill was inheritance, not transaction. The Nordic productivity curve mirrored the moral seriousness of the training floor. In Småland, the glassworks dynasties of Kosta and Orrefors did not merely produce crystal. They produced craftsmen. Each generation passed down not only technique but temper.

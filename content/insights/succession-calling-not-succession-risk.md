@@ -46,7 +46,6 @@ A covenantal approach to succession requires a different governance architecture
 This covenant must be operationalized through three key structures:
 
 1. **Stewardship Education** - A systematic program to develop the next generation's capacity for judgment. This goes beyond financial literacy to include moral reasoning, historical perspective, and vocational discernment.
-
 2. **Progressive Ownership** - A phased transfer of both equity and responsibility. The goal is not to dump assets on the next generation, but to create a structured path for them to grow into stewardship.
 
 3. **Covenantal Governance** - Decision-making structures that balance accountability with flexibility. This typically involves a family council that operates alongside - but not above - the board of directors.
@@ -92,7 +91,6 @@ The German industrial families of Baden-Württemberg provide a compelling model.
 Not all covenantal approaches are equal. There exists a continuum from weak to strong covenantal frameworks:
 
 1. **Weak Covenant** - Where the family has a shared history but no articulated purpose. Succession is treated as a technical transfer rather than a moral commitment.
-
 2. **Moderate Covenant** - Where the family has a clear purpose but limited structures to operationalize it. Succession planning exists but is not deeply integrated with the family's values.
 
 3. **Strong Covenant** - Where the family's purpose is deeply embedded in governance, ownership, and decision-making structures. Succession is treated as a sacred trust rather than a financial transaction.

@@ -23,9 +23,9 @@ Generational stewardship addresses this instability through a single, uncompromi
 
 Structural alignment in this context is not a qualitative overlay. It is a quantitative discipline. Every capital decision is evaluated through three non-negotiable lenses:
 
-**Durability** – Can the asset withstand a liquidity freeze, regulatory upheaval, or supply chain fracture without catastrophic degradation?
-**Transferability** – Can the operational knowledge, governance structure, and cash flow engine survive generational leadership transitions without loss of integrity?
-**Compounding** – Does the structure support long-term capital efficiency, or does it incentivize short-term extraction?
+**Durability** - Can the asset withstand a liquidity freeze, regulatory upheaval, or supply chain fracture without catastrophic degradation?
+**Transferability** - Can the operational knowledge, governance structure, and cash flow engine survive generational leadership transitions without loss of integrity?
+**Compounding** - Does the structure support long-term capital efficiency, or does it incentivize short-term extraction?
 
 For firms engaged in capital raising for mid-market buyout structures, this alignment is no longer optional. Investors across NAEOC energy infrastructure mandates, EU MiFID II-regulated acquisitions, and UHNW liquidity planning frameworks are actively screening for stewardship-aligned governance. They recognize that performance without continuity is not institutional wealth. It is transactional noise. Generational stewardship, therefore, functions as the structural anchor that ensures private equity capital is deployed not as a consumable instrument, but as a multi-cycle generative engine. This is the mandate.
 

@@ -30,7 +30,6 @@ Market systems are cyclical. Stewardship is continuous. The families and institu
 The continuity of stewardship manifests in three dimensions:
 
 1. **Temporal Alignment** - Capital must be structured to endure beyond election cycles, regulatory shifts, and market dislocations. This requires instruments with embedded optionality and liquidity buffers that can be activated without forced divestment.
-
 2. **Operational Resilience** - Stewardship demands more than asset allocation. It requires direct engagement with the operational mechanics of capital deployment. In private credit, this means underwriting loans with stress-tested collateral stacks. In real assets, it means engineering yield-on-cost dynamics that provide intrinsic buffers against inflation and policy volatility.
 
 3. **Moral Hierarchy** - The most enduring wealth structures are governed by a moral hierarchy that transcends financial engineering. This hierarchy is not about philanthropy. It is about covenantal responsibility - the recognition that capital is a tool for generational continuity, not short-term extraction.

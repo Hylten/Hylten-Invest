@@ -43,11 +43,10 @@ Institutional lenders often err in one of two directions: over-specifying financ
 
 The Razor addresses this by limiting financial covenants to three core metrics:
 
-1. **Leverage** – A measure of debt relative to earnings or asset value, calibrated to reflect the borrower’s industry and business model. For example, a leveraged loan to a cyclical manufacturer might use a net debt to EBITDA ratio of 4.0x, while a facility to a stable cash-flow business (e.g., a regulated utility) might tolerate 5.5x. The key is to avoid metrics that can be gamed, such as EBITDA add-backs that inflate earnings without improving cash flow.
+1. **Leverage** - A measure of debt relative to earnings or asset value, calibrated to reflect the borrower’s industry and business model. For example, a leveraged loan to a cyclical manufacturer might use a net debt to EBITDA ratio of 4.0x, while a facility to a stable cash-flow business (e.g., a regulated utility) might tolerate 5.5x. The key is to avoid metrics that can be gamed, such as EBITDA add-backs that inflate earnings without improving cash flow.
+2. **Liquidity** - A measure of the borrower’s ability to meet short-term obligations. This could take the form of a minimum cash balance, a current ratio, or a debt service coverage ratio (DSCR). For instance, a lender to a seasonal business might require a minimum liquidity buffer of 12 months of fixed charges, while a lender to a subscription-based software company might focus on recurring revenue coverage.
 
-2. **Liquidity** – A measure of the borrower’s ability to meet short-term obligations. This could take the form of a minimum cash balance, a current ratio, or a debt service coverage ratio (DSCR). For instance, a lender to a seasonal business might require a minimum liquidity buffer of 12 months of fixed charges, while a lender to a subscription-based software company might focus on recurring revenue coverage.
-
-3. **Cash Flow Resilience** – A measure of the borrower’s ability to generate cash under stress. This could be a fixed charge coverage ratio (FCCR), a free cash flow sweep, or a minimum interest coverage ratio. For example, a lender to a highly leveraged borrower might require an FCCR of 1.25x, ensuring that even in a downturn, the borrower can service debt without resorting to asset sales.
+3. **Cash Flow Resilience** - A measure of the borrower’s ability to generate cash under stress. This could be a fixed charge coverage ratio (FCCR), a free cash flow sweep, or a minimum interest coverage ratio. For example, a lender to a highly leveraged borrower might require an FCCR of 1.25x, ensuring that even in a downturn, the borrower can service debt without resorting to asset sales.
 
 These three metrics are not arbitrary. They are chosen because they directly influence borrower behavior. A leverage covenant discourages excessive debt accumulation, a liquidity covenant prevents short-term funding mismatches, and a cash flow resilience covenant ensures that the borrower maintains a buffer against volatility. By focusing on these three, lenders avoid the pitfalls of over-engineering - metrics that are either redundant or easily manipulated.
 
@@ -69,13 +68,11 @@ Reporting covenants are often the most neglected aspect of covenant design, yet 
 
 A typical reporting package might include:
 
-1. **Financial Statements** – Audited annual and unaudited quarterly financials, including balance sheets, income statements, and cash flow statements. The key is to ensure that the statements are prepared in accordance with a consistent accounting framework (e.g., GAAP or IFRS) and that they include all necessary disclosures.
+1. **Financial Statements** - Audited annual and unaudited quarterly financials, including balance sheets, income statements, and cash flow statements. The key is to ensure that the statements are prepared in accordance with a consistent accounting framework (e.g., GAAP or IFRS) and that they include all necessary disclosures.
+2. **Compliance Certificates** - Quarterly certifications from the borrower’s CFO or treasurer confirming compliance with all financial and conduct covenants. These certificates should be accompanied by supporting calculations, such as leverage ratios or liquidity metrics.
 
-2. **Compliance Certificates** – Quarterly certifications from the borrower’s CFO or treasurer confirming compliance with all financial and conduct covenants. These certificates should be accompanied by supporting calculations, such as leverage ratios or liquidity metrics.
-
-3. **Management Discussion and Analysis (MD&A)** – A narrative report from management explaining the borrower’s financial performance, key risks, and strategic initiatives. This is where lenders can extract signal from noise, as it provides context for the raw data in the financial statements.
-
-4. **Early Warning Indicators** – Custom metrics tailored to the borrower’s industry and business model. For example, a lender to a retail borrower might track same-store sales growth, while a lender to a technology company might monitor customer churn rates. These indicators should be designed to flag potential issues before they become covenant breaches.
+3. **Management Discussion and Analysis (MD&A)** - A narrative report from management explaining the borrower’s financial performance, key risks, and strategic initiatives. This is where lenders can extract signal from noise, as it provides context for the raw data in the financial statements.
+4. **Early Warning Indicators** - Custom metrics tailored to the borrower’s industry and business model. For example, a lender to a retail borrower might track same-store sales growth, while a lender to a technology company might monitor customer churn rates. These indicators should be designed to flag potential issues before they become covenant breaches.
 
 The Razor’s approach to reporting is to eliminate redundancy. For example, if a borrower is already providing detailed financial statements, there is no need for additional reports on working capital or inventory levels. Similarly, if a borrower’s leverage ratio is the primary financial covenant, there is no need for separate reports on debt-to-equity or interest coverage. By focusing on a few key metrics, lenders can reduce the administrative burden on both sides while improving the quality of the information they receive.
 
@@ -87,9 +84,9 @@ Using the Razor’s framework, the lender begins with a clear purpose clause: "P
 
 Next, the lender selects three financial metrics:
 
-1. **Leverage** – A net debt to EBITDA ratio of 4.0x, with EBITDA defined to exclude one-time items and non-cash charges.
-2. **Liquidity** – A minimum cash balance of $25 million, ensuring the borrower can meet short-term obligations even in a downturn.
-3. **Cash Flow Resilience** – A fixed charge coverage ratio of 1.25x, ensuring that the borrower can service debt under stress.
+1. **Leverage** - A net debt to EBITDA ratio of 4.0x, with EBITDA defined to exclude one-time items and non-cash charges.
+2. **Liquidity** - A minimum cash balance of $25 million, ensuring the borrower can meet short-term obligations even in a downturn.
+3. **Cash Flow Resilience** - A fixed charge coverage ratio of 1.25x, ensuring that the borrower can service debt under stress.
 
 The lender then includes conduct covenants governing acquisitions, distributions, and governance changes. For example, the acquisition covenant allows bolt-on deals up to $30 million in aggregate value per year, provided that pro forma leverage does not exceed 4.5x. The distribution covenant limits dividends to 50% of net income, provided that leverage remains below 3.5x and liquidity exceeds 12 months of fixed charges.
 

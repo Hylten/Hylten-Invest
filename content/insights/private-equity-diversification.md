@@ -107,7 +107,7 @@ The benchmarking challenge in private equity reflects the lack of appropriate pu
 
 The operational due diligence framework should evaluate general partner stability, key person risk, and succession planning. The departure of key investment professionals can materially affect fund performance. The assessment should include analysis of compensation structure, ownership distribution, and firm culture that influences retention.
 
-## Conclusion
+## Summary
 
 The evolution of private equity portfolio construction reflects the maturation of the asset class and changing market conditions. The simple model of concentrated North American technology focused allocation has been replaced by sophisticated multi dimensional frameworks that address geographic, sector, and strategy diversification. Success in the new environment requires operational expertise, careful manager selection, and disciplined implementation.
 

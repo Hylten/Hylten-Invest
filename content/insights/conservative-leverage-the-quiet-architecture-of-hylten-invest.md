@@ -38,7 +38,6 @@ A portfolio of seasoned private credit assets, for example, may support a 40% le
 The process involves three key steps:
 
 1. **Collateral Analysis** - A granular assessment of the underlying assets, including their cash flow stability, collateral coverage, and historical performance. This is not a superficial review but a deep dive into the fundamentals of each asset.
-
 2. **Structural Design** - The creation of a leverage facility that aligns with the risk profile of the collateral. This includes setting appropriate advance rates, establishing covenants, and defining triggers for margin adjustments.
 
 3. **Liquidity Buffering** - The incorporation of safeguards to ensure that leverage remains a tool of stability rather than a source of stress. This may include overcollateralization, cash reserves, or access to contingent liquidity lines.

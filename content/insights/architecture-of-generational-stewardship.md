@@ -79,7 +79,7 @@ The Spirit of Gnosjö translates these principles into operational form: communa
 
 Generational stewardship requires converting theological principles into structural constraints. The family constitution must specify which behaviors are prohibited regardless of financial return. The investment policy must exclude categories of activity that generate short term alpha but long term erosion. The governance framework must embed accountability mechanisms that survive founder transitions.
 
-## Conclusion
+## Summary
 
 The architectural conclusion is clear: generational stewardship succeeds through structural discipline rather than market timing. Families that build fortifications survive market dislocations. Families that build liquidity engines survive liquidity crises. Families that build covenantal governance survive succession events. The integration of these three pillars produces capital that persists across centuries.
 

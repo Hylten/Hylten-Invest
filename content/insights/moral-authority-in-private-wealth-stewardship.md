@@ -28,7 +28,6 @@ A family that believes capital is personal will always fracture. The logic of pe
 In institutional terms, Covenant Stewardship performs three critical functions:
 
 1. It reduces entropy inside the ownership group. Entropy is the natural tendency of systems to move from order to disorder. In family governance, entropy manifests as misalignment, conflict, and drift. Covenant Stewardship acts as a counterforce. It imposes discipline on decision-making. It creates a shared language of responsibility. It ensures that every allocation, every reinvestment, every distribution is measured against a higher standard than immediate return.
-
 2. It increases decision coherence across cycles of volatility. Markets do not move in straight lines. They oscillate between exuberance and despair. Families that operate under a Covenant Stewardship framework are less likely to be swept up in these oscillations. They do not chase returns in bull markets. They do not panic in bear markets. They do not confuse temporary price movements with permanent value shifts. Their decisions are anchored in a long-term mandate, not short-term sentiment.
 
 3. It produces a fortress orientation that institutional partners interpret as strength rather than rigidity. Institutional allocators do not seek rigidity. They seek durability. They seek families that can withstand shocks without fracturing. Covenant Stewardship provides this durability. It creates a governance structure that is both flexible and unyielding - flexible in execution, unyielding in principle. This is the kind of strength that institutional committees respect.
@@ -60,7 +59,6 @@ Institutional allocators do not seek families that can mimic institutional behav
 This alignment is not achieved through superficial adjustments. It is achieved through deep structural integration. It requires three things:
 
 1. A governance structure that is transparent, accountable, and durable. Institutional allocators do not invest in black boxes. They invest in systems that can be understood, audited, and trusted. They invest in families that operate with the same level of transparency as a public company, without sacrificing the privacy that is essential to family governance.
-
 2. A decision-making framework that is disciplined, coherent, and aligned with a long-term mandate. Institutional allocators do not seek families that chase trends. They seek families that operate with conviction. They seek families that can articulate a clear investment philosophy, a clear risk management framework, a clear succession plan. They seek families that can withstand the pressure of short-term volatility without abandoning their long-term mandate.
 
 3. A cultural orientation that values responsibility over consumption, continuity over convenience, mandate over lifestyle. Institutional allocators do not invest in families that treat wealth as a means of personal elevation. They invest in families that treat wealth as a tool for dominion. They invest in families that operate with the same ethos as the great industrial dynasties of the 19th and 20th centuries - families that built enterprises, not just portfolios; families that shaped markets, not just participated in them.
@@ -76,7 +74,6 @@ The Principal must operate as a custodian, not a consumer. This is not a matter 
 This custodial orientation manifests in three ways:
 
 1. The Principal must model discipline. Discipline is not a set of rules. It is a way of life. It is the daily practice of aligning actions with principles. It is the refusal to confuse wants with needs, desires with duties. The Principal who models discipline creates a culture of discipline. The Principal who indulges in consumption creates a culture of dissipation.
-
 2. The Principal must enforce accountability. Accountability is not a burden. It is a gift. It is the mechanism by which the family ensures that every decision, every allocation, every reinvestment is measured against the long-term mandate. The Principal who enforces accountability creates a governance structure that can withstand shocks. The Principal who avoids accountability creates a governance structure that is vulnerable to drift.
 
 3. The Principal must prepare the next generation. Succession is not an event. It is a process. It is the deliberate, disciplined preparation of the next generation to receive what has been entrusted to them. The Principal who prepares the next generation through apprenticeship, through service, through the disciplined study of stewardship ensures continuity. The Principal who neglects this preparation ensures dissipation.
@@ -92,7 +89,6 @@ This theology of responsibility is not a relic of the past. It is a living frame
 The theology of responsibility manifests in three ways:
 
 1. It treats capital as a tool for dominion, not consumption. Dominion is not domination. It is the responsible exercise of authority. It is the use of capital to build, to create, to serve. It is the refusal to treat wealth as a means of personal elevation. It is the commitment to use wealth as a force for good.
-
 2. It treats governance as a covenant, not a contract. A contract is a legal agreement. A covenant is a moral commitment. A family that operates under a covenant framework treats governance as a sacred trust. It treats every decision as a moral act. It treats every allocation as a reflection of the family’s values.
 
 3. It treats succession as a mandate, not an event. Succession is not the transfer of assets. It is the transfer of responsibility. It is the deliberate, disciplined preparation of the next generation to receive what has been entrusted to them. It is the refusal to treat wealth as a personal possession. It is the commitment to treat wealth as a sacred trust.

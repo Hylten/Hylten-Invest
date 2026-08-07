@@ -49,7 +49,7 @@ Covenant discipline is the contractual backbone of enduring liquidity. It ensure
 
 Governance architecture complements covenant discipline by embedding operational controls at the asset level. For instance, a sovereign-backed infrastructure fund might implement:
 - **Independent asset monitors**: Third-party firms tasked with verifying cash flow projections, asset valuations, and compliance with covenants.
-- **Reserve accounts**: Segregated accounts holding liquidity buffers equivalent to 6–12 months of debt service, funded by excess cash flow or capital calls.
+- **Reserve accounts**: Segregated accounts holding liquidity buffers equivalent to 6-12 months of debt service, funded by excess cash flow or capital calls.
 - **Contingency plans**: Pre-negotiated protocols for asset sales, debt restructuring, or equity infusions in the event of a liquidity crisis.
 
 The combination of covenant discipline and governance architecture creates a self-correcting system. If an asset’s cash flows deteriorate, predefined triggers activate, ensuring that liquidity is preserved without reliance on ad-hoc interventions.
@@ -114,7 +114,7 @@ Asset-backed operating platforms - such as logistics networks, data centers, and
 - **Generate strategic returns**: Leveraging control over critical assets to influence pricing, supply chains, or technological standards. A sovereign wealth fund might acquire a portfolio of semiconductor fabrication plants to secure supply chain resilience for domestic industries.
 
 The liquidity architecture for these platforms is designed to support long-horizon control. This includes:
-- **Long-dated debt**: Financing structures with maturities of 10–30 years, aligned with the asset’s useful life. For example, a sovereign-backed healthcare platform might issue 20-year bonds to finance the construction of hospitals and clinics.
+- **Long-dated debt**: Financing structures with maturities of 10-30 years, aligned with the asset’s useful life. For example, a sovereign-backed healthcare platform might issue 20-year bonds to finance the construction of hospitals and clinics.
 - **Equity co-investments**: Partnerships with strategic investors to share risks and rewards. A logistics platform might partner with a global shipping company to co-invest in port infrastructure.
 - **Revenue-sharing agreements**: Contracts that align cash flows with operational performance, such as profit-sharing arrangements with tenants in a data center.
 

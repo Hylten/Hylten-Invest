@@ -62,7 +62,6 @@ The foundation of institutional liquidity paths is the segmentation of capital i
 For example, a family might establish three distinct pools:
 
 1. **Operational Liquidity Pool**: This pool is designed to meet near-term cash flow needs, such as living expenses, tax obligations, and short-term liabilities. It is held in highly liquid instruments, such as money market funds, short-duration Treasury bills, and overnight deposits. The goal is not to generate returns but to ensure that capital is available when needed.
-
 2. **Tactical Liquidity Pool**: This pool is designed to take advantage of short-term opportunities, such as market dislocations, distressed asset sales, or strategic acquisitions. It is held in instruments with slightly longer durations, such as short-duration corporate bonds, commercial paper, and liquid alternatives. The goal is to generate modest returns while maintaining the flexibility to deploy capital quickly.
 
 3. **Strategic Liquidity Pool**: This pool is designed for long-term growth and is invested in less liquid assets, such as private equity, real estate, and infrastructure. The goal is to generate superior returns over a multi-decade horizon, with the understanding that capital will be locked up for extended periods.
@@ -160,11 +159,9 @@ The principles outlined above are not theoretical. They are embodied in the weal
 The Nordic model is characterized by several key features:
 
 1. **Long-Term Orientation**: Nordic families think in decades, not quarters. They are willing to forgo short-term gains in favor of long-term stability.
-
 2. **Structural Discipline**: They treat their wealth as an engineered system, with clear rules for capital allocation, liquidity management, and risk control.
 
 3. **Covenantal Governance**: They operate under a shared set of principles that guide decision-making across generations. These principles are often codified in family constitutions or charters.
-
 4. **Operational Intelligence**: They invest in the infrastructure needed to manage their wealth effectively, including dedicated family offices, specialized advisors, and robust reporting systems.
 
 The Nordic model is not a strategy set. It is a structural identity. It is the architecture that distinguishes the families that persist from those that fade. For private wealth allocators, it provides a blueprint for building resilience in an uncertain world.

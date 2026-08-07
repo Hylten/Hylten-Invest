@@ -53,11 +53,10 @@ This model is rooted in the Protestant work ethic, which views labor and capital
 
 The covenantal model manifests in three structural principles:
 
-1. **Alignment of Interests** – Capital structures are designed to align the incentives of owners, managers, and workers. This is achieved through long-term equity holdings, profit-sharing arrangements, and governance models that prioritize operational continuity over financial extraction.
+1. **Alignment of Interests** - Capital structures are designed to align the incentives of owners, managers, and workers. This is achieved through long-term equity holdings, profit-sharing arrangements, and governance models that prioritize operational continuity over financial extraction.
+2. **Resilience Over Optimization** - The goal is not to maximize returns in any given year but to ensure the durability of the asset over decades. This requires a willingness to accept lower short-term returns in exchange for reduced volatility and greater long-term stability.
 
-2. **Resilience Over Optimization** – The goal is not to maximize returns in any given year but to ensure the durability of the asset over decades. This requires a willingness to accept lower short-term returns in exchange for reduced volatility and greater long-term stability.
-
-3. **Local Accountability** – Ownership is not abstract but grounded in specific communities and industries. This creates a feedback loop between capital and labor, ensuring that financial decisions are informed by operational realities.
+3. **Local Accountability** - Ownership is not abstract but grounded in specific communities and industries. This creates a feedback loop between capital and labor, ensuring that financial decisions are informed by operational realities.
 
 These principles are not theoretical. They are embedded in the governance structures of Nordic industrial foundations, which have preserved capital across generations while maintaining operational excellence. The Wallenberg Foundation, for example, has held controlling stakes in Swedish industrial champions such as Ericsson and Atlas Copco for over a century. The foundation’s mandate is not to maximize financial returns but to ensure the long-term viability of these enterprises. This model has proven resilient across wars, economic crises, and technological disruptions.
 

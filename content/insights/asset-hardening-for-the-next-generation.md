@@ -86,7 +86,6 @@ Consider the case of a Swedish family that owns a portfolio of industrial compan
 The family’s approach to asset hardening is rooted in three principles:
 
 1. **Liquidity engineering** The family uses asset-backed financing structures to monetize cash flows without selling assets. This provides liquidity when needed while maintaining control.
-
 2. **Operational discipline** The family focuses on companies with low decline curves and high visibility into future cash flows. This ensures durability across cycles.
 
 3. **Generational stewardship** The family uses a holding company and a family office to align the interests of different generations. This ensures that the family’s capital is preserved and grown over time.
@@ -102,7 +101,6 @@ The family office must be more than a financial manager. It must be a strategic 
 The family office’s responsibilities include:
 
 1. **Structural design** The family office must design the capital structure to provide liquidity and durability. This involves using asset-backed financing, contingent capital structures, and other tools to engineer liquidity into the portfolio.
-
 2. **Operational oversight** The family office must ensure that the family’s assets are managed to generate steady cash flow. This involves focusing on assets with low decline curves, high visibility into future cash flows, and alignment with long-term structural trends.
 
 3. **Generational governance** The family office must align the interests of different generations. This involves using holding companies, family councils, and other governance structures to ensure that the family’s capital is preserved and grown over time.

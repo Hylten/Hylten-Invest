@@ -26,11 +26,9 @@ The structural gap defining private equity diversification today is a direct con
 Allocators operating under pre-2015 cognitive models - organizing risk by geography, style, or vintage - are navigating with outdated maps. The new regime is defined by five structural forces:
 
 1. **Regulatory tightening in the United States and Europe** has created artificial scarcity in core industrial verticals. Compliance costs now act as a regressive tax, disproportionately burdening mid-market operators while shielding incumbents with scale. The result is a bifurcated market where capital flows either to regulatory arbitrage plays or to firms with embedded compliance infrastructure.
-
 2. **Energy markets in North America** are experiencing a capital vacuum driven by ESG drift rather than geological constraint. The misallocation of capital away from conventional energy has created a supply-demand imbalance that persists despite price signals. Private equity has an opportunity to deploy capital into assets with multi-decade cash flow visibility, provided it can navigate the political and reputational risks.
 
 3. **Private credit has absorbed volumes historically handled by regional banks**, now constrained by Basel IV interpretations. This shift has altered the leverage cycle. Senior debt is no longer a commoditized input but a negotiated instrument with bespoke covenants, pricing, and structural protections. The allocator must now evaluate credit not as a passive funding source but as an active risk factor.
-
 4. **Real assets with low replacement cost** exhibit a unique asymmetry. Cost inflation increases intrinsic value independent of yield. This is particularly true for industrial properties, logistics hubs, and specialized manufacturing facilities. The allocator who focuses solely on yield will miss the embedded optionality in these assets.
 
 5. **Manufacturing reshoring in the United States, Mexico, and select EU zones** has created a multi-year demand anomaly for mid-market industrials. The capital required to build new capacity is prohibitive, creating a structural advantage for firms with existing assets. Private equity can capture this anomaly by targeting platforms with underutilized capacity, provided it can execute operational improvements to meet reshoring-driven demand.

@@ -65,7 +65,7 @@ But its architecture must change. Old models treat the family office as a manage
 
 Liquidity engines feed laterally. Trust structures anchor downward. Each layer absorbs shocks so that no single disruption can fracture the family domain. Asset hardening emerges from five axial strategies.
 
-First: Duration engineering. Extend the life of capital beyond market cycles. Private credit funds with 7– 12 year durations. Royalties without step-down clauses.
+First: Duration engineering. Extend the life of capital beyond market cycles. Private credit funds with 7- 12 year durations. Royalties without step-down clauses.
 
 Mineral rights with rolling resets. These instruments behave like time vaults. They harden wealth by extending its rhythm beyond political seasons. Second: Perimeter structuring.
 
