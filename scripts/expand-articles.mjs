@@ -75,7 +75,7 @@ RULES:
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer Nu7ncscnkArCat2k56Qa9ge5GEYwb6dz',
+        'Authorization': 'Bearer ' + (process.env.MISTRAL_API_KEY || ''),
       },
       body: JSON.stringify({
         model: 'mistral-large-2411',
