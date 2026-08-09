@@ -96,9 +96,9 @@ The result is a capital structure that is both resilient and adaptable. The fami
 
 The family office is the institutional mechanism for asset hardening. It is not just a manager of assets but a steward of the family’s capital. The family office’s role is to design the capital structure, provide liquidity, and ensure alignment across generations.
 
-The family office must be more than a financial manager. It must be a strategic partner to the family, providing the expertise and discipline needed to harden assets. This requires a deep understanding of the family’s goals, the market’s dynamics, and the mechanics of asset hardening.
+It must be more than a financial manager. It must be a strategic partner to the family, providing the expertise and discipline needed to harden assets. This requires a deep understanding of the family’s goals, the market’s dynamics, and the mechanics of asset hardening.
 
-The family office’s responsibilities include:
+Its responsibilities include:
 
 1. **Structural design** The family office must design the capital structure to provide liquidity and durability. This involves using asset-backed financing, contingent capital structures, and other tools to engineer liquidity into the portfolio.
 2. **Operational oversight** The family office must ensure that the family’s assets are managed to generate steady cash flow. This involves focusing on assets with low decline curves, high visibility into future cash flows, and alignment with long-term structural trends.
