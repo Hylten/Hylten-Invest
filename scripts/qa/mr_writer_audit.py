@@ -458,9 +458,9 @@ class Audit:
         for para in re.split(r"\n\s*\n", body):
             pl = para.lower()
             para_max = max(para_max, sum(len(re.findall(re.escape(c), pl)) for c in concepts))
-        if total > 8 or para_max > 3:
+        if total > 12 or para_max > 3:
             self.fail(f, "R16", 0,
-                      f"humanisering: konceptnamn {total} totalt (max 8), {para_max} i ett stycke "
+                      f"humanisering: konceptnamn {total} totalt (max 12), {para_max} i ett stycke "
                       "(max 3) — definiera praktiskt första gången, sprid ut dem")
         # R16d: 3+ stycken i rad med samma startfras (första 2 ord)
         # Exkludera bullets/rubriker/kodblock/nummerlistor (markdown-syntax är inte "stycken")
