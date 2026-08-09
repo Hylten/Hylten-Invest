@@ -487,6 +487,23 @@ class Audit:
             else:
                 streak = 1
 
+    # -- R17: GTM Engineering = TEKNISKT (BLOCK, 2026-08-09, Jonas) ----------
+    def check_gtm_tech(self, f, body):
+        low = body.lower()
+        if "gtm" not in low:
+            return
+        tech_words = ["data", "api", "pipeline", "agent", "automat", "logg", "log ", "feed",
+                      "model", "system", "signal", "score", "engine", "software", "platform",
+                      "algorithm", "databas", "integrat", "stream", "normaliz", "enrich",
+                      "screening", "pris", "price", "mätetal", "metric", "timestamp"]
+        tech = sum(1 for w in tech_words if w in low)
+        if tech < 3:
+            self.fail(f, "R17", 0,
+                      "GTM Engineering nämns men texten saknar teknisk substans (<3 tekniska ord: "
+                      "data/API/pipeline/agent/automation/loggning/mätetal). GTM Engineering är en "
+                      "TEKNISK stack (signal→deal), inte försäljningsretorik eller liknelser. "
+                      "Lägg till konkreta tekniska komponenter eller ta bort GTM-kopplingen.")
+
     # -- CLAIM-AUDIT: extrahera varje siffra-/absolut-mening, kräv källa/etikett
     LABEL_WORDS = ["our assessment", "vår bedömning", "our experience", "vår erfarenhet",
                    "we label", "vi märker", "internal", "indicates", "estimates",
@@ -562,6 +579,7 @@ class Audit:
             self.check_buzzwords(f, body)
             self.check_false_precision(f, body)
             self.check_humanization(f, body)
+            self.check_gtm_tech(f, body)
 
     # -- R10: sista rubrik --------------------------------------------------
     def check_last_heading(self, f, body, lang):
