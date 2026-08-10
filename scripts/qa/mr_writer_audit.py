@@ -487,22 +487,42 @@ class Audit:
             else:
                 streak = 1
 
-    # -- R17: GTM Engineering = TEKNISKT (BLOCK, 2026-08-09, Jonas) ----------
+    # -- R17: GTM Engineering = TEKNISKT (BLOCK, 2026-08-09, Jonas; skärpt 2026-08-10) --
+    # Lärdom 2026-08-10 (Jonas): humaniseringspass tog bort GTM-stack-avsnittet men
+    # R17 passerade ändå (abstrakta ord "data/pipeline/agent" räckte). Kräv KONKRETA
+    # tekniska artefakter + minst en teknisk kedja (signal→deal), inte bara abstrakta ord.
     def check_gtm_tech(self, f, body):
         low = body.lower()
         if "gtm" not in low:
             return
-        tech_words = ["data", "api", "pipeline", "agent", "automat", "logg", "log ", "feed",
-                      "model", "system", "signal", "score", "engine", "software", "platform",
-                      "algorithm", "databas", "integrat", "stream", "normaliz", "enrich",
-                      "screening", "pris", "price", "mätetal", "metric", "timestamp"]
-        tech = sum(1 for w in tech_words if w in low)
-        if tech < 3:
+        # Abstrakta tekniska ord — räcker INTE ensamma
+        abstract_words = ["data", "pipeline", "agent", "automat", "logg", "log ", "feed",
+                          "model", "system", "signal", "score", "engine", "software",
+                          "platform", "algorithm", "databas", "integrat", "stream",
+                          "normaliz", "enrich", "screening", "mätetal", "metric",
+                          "timestamp", "layer"]
+        # Konkreta tekniska artefakter — krävs för GTM-substans (2026-08-10)
+        concrete = ["api", "webhook", "etl", "schema", "endpoint", "rest", "json",
+                    "queue", "runtime", "cron", "schedul", "batch", "sql", "crm",
+                    "dataset", "ingest", "klassificer", "klassificer", "vector",
+                    "embedding", "llm", "mcp", "web-scrap", "scrap", "kör dagligen",
+                    "dagligt jobb", "tabell", "databas-tabell", "sparad", "lagras i"]
+        abstract = sum(1 for w in abstract_words if w in low)
+        conc = sum(1 for w in concrete if w in low)
+        # Teknisk kedja: signal→deal-meningar (nämner både datakälla och output)
+        has_chain = bool(re.search(r"(ingest|scrap|feed|api|webhook|etl).{0,120}(score|screen|pris|price|quote|deal|signal)", low, re.S)) or \
+                    bool(re.search(r"(score|screen).{0,120}(quote|term sheet|price|deal)", low, re.S))
+        if abstract < 3 or conc < 3 or not has_chain:
             self.fail(f, "R17", 0,
-                      "GTM Engineering nämns men texten saknar teknisk substans (<3 tekniska ord: "
-                      "data/API/pipeline/agent/automation/loggning/mätetal). GTM Engineering är en "
-                      "TEKNISK stack (signal→deal), inte försäljningsretorik eller liknelser. "
-                      "Lägg till konkreta tekniska komponenter eller ta bort GTM-kopplingen.")
+                      "GTM Engineering nämns men texten saknar KONKRET teknisk substans. "
+                      "R17 (skärpt 2026-08-10): abstrakta ord (data layer/pipeline/agent) räcker inte — "
+                      "krävs ≥3 konkreta artefakter (API, webhook, ETL, schema, endpoint, queue, cron-jobb, "
+                      "databas-tabell, web-scraping, klassificeringsmodell) PLUS en teknisk kedja signal→deal "
+                      "(ingestion → berikning → scoring → pris/quote → logg). Exempel: 'API-feeds från "
+                      "Versana/Octus/9fin', 'ETL-jobb som körs nattligen', 'webhooks som skickar nya "
+                      "mognadsdatum till CRM', 'agent samlar kontext via API-anrop', 'scoring-schema med "
+                      "poäng för deal-readiness', 'logg-tabell med timestamp och källa'. "
+                      "Humanisering får ALDRIG ta bort teknisk substans — behåll artefakterna, ändra utförandet.")
 
     # -- CLAIM-AUDIT: extrahera varje siffra-/absolut-mening, kräv källa/etikett
     LABEL_WORDS = ["our assessment", "vår bedömning", "our experience", "vår erfarenhet",
@@ -628,6 +648,8 @@ class Audit:
                 self.check_ai_style(f, body)
                 self.check_buzzwords(f, body)
                 self.check_false_precision(f, body)
+                self.check_humanization(f, body)
+                self.check_gtm_tech(f, body)
         # --fix-applikation (efter analys)
         if self.do_fix:
             self.apply_fixes()
