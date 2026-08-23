@@ -13,8 +13,6 @@ draft: false
 author: "Hyltén Invest"
 ---
 
-
-
 ## The Largest Transfer in History
 
 The great wealth transfer moves roughly 900 trillion SEK from the post-war generation to its heirs over the next two decades. Published estimates range from 400 trillion to more than 1 000 trillion SEK depending on asset class assumptions. Every family office in the Western world stands inside this event.

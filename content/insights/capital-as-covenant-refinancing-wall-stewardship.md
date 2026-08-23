@@ -13,8 +13,6 @@ draft: false
 author: "Hyltén Invest"
 ---
 
-
-
 The refinancing wall is a stewardship event before it is a financial event. A concentrated block of mid-market maturities lands between 2026 and 2029, into a banking system that will not refinance at prior terms. Owners who built capital under one moral order now face a test of how they hold it.
 
 Scripture frames this exact moment. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
