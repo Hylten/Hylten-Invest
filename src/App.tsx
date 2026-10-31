@@ -119,6 +119,11 @@ const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark 
             <h3>Managed Services & Technology</h3>
             <p>Long-term investments in established MSPs and selected technology businesses.</p>
           </div>
+          <div className="philosophy-item fade-in">
+            <span className="philosophy-icon philosophy-icon-muted">◆</span>
+            <h3>Portfolio Value Creation</h3>
+            <p>GTM Engineering, commercial execution and sales accountability for portfolio growth.</p>
+          </div>
         </div>
       </section>
 

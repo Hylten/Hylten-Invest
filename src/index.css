@@ -525,12 +525,18 @@ nav.scrolled {
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 6rem;
 }
 
 .philosophy-item {
   text-align: center;
+}
+
+.philosophy-item:nth-child(3) {
+  grid-column: 1 / -1;
+  width: min(100%, 600px);
+  justify-self: center;
 }
 
 .philosophy-item h3 {
@@ -552,6 +558,11 @@ nav.scrolled {
   color: var(--invest-accent);
   margin-bottom: 2rem;
   display: block;
+}
+
+.philosophy-icon-muted,
+html[data-theme="dark"] .philosophy-icon-muted {
+  color: #9F8255 !important;
 }
 
 .investments {
