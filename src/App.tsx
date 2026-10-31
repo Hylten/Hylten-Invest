@@ -82,7 +82,7 @@ const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark 
           <img src={`${import.meta.env.BASE_URL}hylten-logo.png`} className="hero-logo" alt="Hyltén Invest Logo" />
           <p className="hero-subtitle">Strategic Investments</p>
           <h2>Driven by <span className="highlight">The Spirit of Gnosjö</span></h2>
-          <p className="hero-text">Hyltén Invest executes strategic investments in technology funds and select real estate assets. Rooted in the pioneering spirit of Johan Edvard Hyltén, we continue a legacy of innovation and growth.</p>
+          <p className="hero-text">Hyltén Invest executes strategic investments in managed service providers (MSPs) and technology businesses. Rooted in the pioneering spirit of Johan Edvard Hyltén, we continue a legacy of innovation and growth.</p>
           <a href="#about" className="cta-button" onClick={(e) => scrollToSection(e, '#about')}>Explore</a>
         </div>
       </section>
@@ -112,17 +112,12 @@ const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark 
           <div className="philosophy-item fade-in">
             <span className="philosophy-icon">◆</span>
             <h3>Strategic Capital</h3>
-            <p>We allocate capital to drive market expansion and institutional positioning with a long-term horizon.</p>
+            <p>Long-term ownership, disciplined capital allocation and structural value creation.</p>
           </div>
           <div className="philosophy-item fade-in">
             <span className="philosophy-icon">◇</span>
-            <h3>Tech & Innovation</h3>
-            <p>Focus on technology funds and innovative growth companies shaping the future of industry.</p>
-          </div>
-          <div className="philosophy-item fade-in">
-            <span className="philosophy-icon">○</span>
-            <h3>Real Estate</h3>
-            <p>Selected real estate investments focused on stability and long-term capital appreciation.</p>
+            <h3>Managed Services & Technology</h3>
+            <p>Long-term investments in established MSPs and selected technology businesses.</p>
           </div>
         </div>
       </section>
@@ -135,11 +130,10 @@ const HomePage: React.FC<{ dark?: boolean; toggleDark?: () => void }> = ({ dark 
         <div className="investments-grid" style={{ gridTemplateColumns: 'minmax(0, 600px)', justifyContent: 'center' }}>
           <div className="investment-card fade-in">
             <span className="tag">Primary Focus</span>
-            <h3>Innovation</h3>
-            <p>Strategic investments in technology, driving digital transformation and global innovation.</p>
+            <h3>Managed Services & Technology</h3>
+            <p>Strategic investments in MSPs and technology businesses.</p>
             <div style={{ marginTop: '2rem', display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
               <a href="https://roialscapital.com/" target="_blank" rel="noopener noreferrer" style={{ color: '#B08D57', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Roials Capital →</a>
-              <a href="https://hylten.github.io/Pathmakers/" target="_blank" rel="noopener noreferrer" style={{ color: '#B08D57', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Pathmaker →</a>
               <a href="https://hylten.github.io/Alpha/" target="_blank" rel="noopener noreferrer" style={{ color: '#B08D57', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Roials Alpha →</a>
               <a href="https://hylten.github.io/Venture-Studio/" target="_blank" rel="noopener noreferrer" style={{ color: '#B08D57', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '3px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', transition: 'opacity 0.3s' }} onMouseOver={e => (e.currentTarget.style.opacity = '0.7')} onMouseOut={e => (e.currentTarget.style.opacity = '1')}>Hyltén Venture Studio →</a>
             </div>
