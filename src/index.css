@@ -562,7 +562,9 @@ nav.scrolled {
 
 .philosophy-icon-muted,
 html[data-theme="dark"] .philosophy-icon-muted {
-  color: #9F8255 !important;
+  color: rgba(201, 178, 138, 0.24) !important;
+  -webkit-text-fill-color: rgba(201, 178, 138, 0.24);
+  -webkit-text-stroke: 0.8px #BDA77C;
 }
 
 .investments {
